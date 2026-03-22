@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00101",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=N0EQah0CZXw&t=2338s",
+  "publication_date": "2026-02-18",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "IT Vendor Extension — Pending RFP Award from 26-28 Responses",
+  "summary": "Dave Proek (Director of IT) presents item 32, requesting extension of an existing local IT vendor agreement. An RFP was issued in August with 26-28 responses currently being scored. The extension bridges service until the new award is finalized.",
+  "raw_content": "[00:38:58] director of IT. Um item number 32,\n[00:39:01] requesting the ability to extend an\n[00:39:03] existing agreement with a longtime local\n[00:39:06] vendor. Uh we extended the agreement\n[00:39:09] back uh earlier in the summer. Uh we had\n[00:39:12] an RFP that was issued in August. That\n[00:39:16] RFP has not been awarded yet, but we're\n[00:39:18] asking for the ability to continue to\n[00:39:20] utilize this vendor in the interim.\n[00:39:24] >> So there will be a new RFP coming out in\n[00:39:26] June. Is that what you said?\n[00:39:27] >> There was an RF we we issued an RFP in\n[00:39:30] August that has not been awarded yet.\n[00:39:32] That would be in place of asking for\n[00:39:34] this, you know, this one time extension\n[00:39:36] and another extension if need be, that\n[00:39:38] sort of thing.\n[00:39:39] So when you say it hasn't been awarded,\n[00:39:41] is it that whoever came with the RFP,\n[00:39:45] was there RFP process? Was there did\n[00:39:47] anybody respond?\n[00:39:47] >> There was a there was a full RFP\n[00:39:49] process. We had a tremendous we had 26\n[00:39:52] or 28 responses. Takes a long time to go\n[00:39:54] through them.\n[00:39:55] >> Um and so it hasn't been awarded. Um\n[00:39:58] we're scoring the different process, but\n[00:40:02] they've come back. Yeah.\n[00:40:03] >> Okay. Thank you everybody.",
+  "transcript_ref": "outputs/transcripts/N0EQah0CZXw_corrected.txt",
+  "topic_tags": [
+    "IT-infrastructure",
+    "procurement",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Information Technology"
+  ],
+  "entity_refs": [
+    {
+      "name": "Corey J. Williams",
+      "type": "person",
+      "canonical_id": "PERSON-WILLIAMS-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Dave Proek",
+      "role": "Director of IT",
+      "confidence": "medium"
+    },
+    {
+      "name": "Corey J. Williams",
+      "role": "Common Councilor, District 3",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Vendor name not stated in transcript; described as longtime local vendor",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 13 of 19 from Common Council Study Session, Wednesday February 18th 2026",
+    "Transcript corrections applied: national grid -> National Grid",
+    "Potential duplicate detected: overlaps with CTX-COUNCIL-2026-00099 -- linked, not skipped"
+  ],
+  "last_relevance_update": null
+}

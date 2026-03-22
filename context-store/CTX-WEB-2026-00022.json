@@ -1,0 +1,66 @@
+{
+  "record_id": "CTX-WEB-2026-00022",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-03-09-Mayors-Office-News-930AM",
+  "publication_date": "2026-03-09",
+  "capture_date": "2026-03-22T14:10:57Z",
+  "title": "Mayor Owens Announces Search for New Commissioner of Finance",
+  "summary": "Mayor Sharon F. Owens announced a search for a new Commissioner of Finance, the City's chief fiscal officer responsible for financial management, revenue collection, treasury operations, accounting, debt management, payroll, and financial reporting. Diane Nastri, Assistant Director of Accounting, was appointed Interim Commissioner effective March 4, 2026. Applications close March 30, 2026.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "hiring",
+    "department-head",
+    "leadership-change",
+    "mayor",
+    "budget",
+    "civil-service",
+    "payroll",
+    "tax-revenue",
+    "transparency"
+  ],
+  "department_refs": [
+    "Department of Finance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Diane Nastri",
+      "type": "person",
+      "canonical_id": "PERSON-DIANE-NASTRI"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Leadership transition in key fiscal management position signals mayoral focus on financial stewardship and operational continuity through interim appointment during search.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' — standard for official city press releases",
+    "No budget figures or financial projections mentioned",
+    "Job description link provided but not accessible in press release text",
+    "Department structure clearly articulated: City Payment Center, Bureau of Accounts, Bureau of Financial Operations",
+    "Timeline: Interim appointment March 4, application deadline March 30 — 7-week search window",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,77 @@
+{
+  "record_id": "CTX-WEB-2026-00046",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2025/2025-06-03-Mayors-Office-News-2PM",
+  "publication_date": "2025-06-03",
+  "capture_date": "2026-03-22T14:16:40Z",
+  "title": "Mayor and Superintendent Announce Public Meetings on Phase III of JSCB",
+  "summary": "Mayor Ben Walsh and Superintendent Anthony Davis announced public meetings for Phase III of the Joint Schools Construction Board (JSCB) project, covering ten Syracuse City School District schools. Three community sessions are scheduled (June 3, 5, and 10) to gather resident feedback on facility improvements and the Comprehensive Plan.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "capital-planning",
+    "facilities",
+    "residents",
+    "transparency",
+    "initiative-launch"
+  ],
+  "department_refs": [
+    "Office of the Mayor",
+    "Syracuse City School District",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Anthony Davis",
+      "type": "person",
+      "canonical_id": "PERSON-ANTHONY-DAVIS"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-OWENS-EXEC"
+    },
+    {
+      "name": "Joint Schools Construction Board",
+      "type": "organization",
+      "canonical_id": "ORG-JSCB"
+    },
+    {
+      "name": "Syracuse City School District",
+      "type": "organization",
+      "canonical_id": "ORG-SCSD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor and Superintendent jointly champion community engagement on major infrastructure modernization; signals alignment on education facility investment and public participation in planning.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00045"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Sharon F. Owens appears in navigation header but not in article body; unclear if current or former official",
+    "Phase III affects 10 schools: Webster, Lincoln, Henninger, Nottingham, Blodgett, Seymour, Delaware, Corcoran, Roberts, and Syracuse Latin",
+    "Virtual session details reference external URL (goto.syr.gov/JSCB); digital accessibility component noted",
+    "No budget figures or cost estimates provided in release",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00045 — linked for review"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,71 @@
+{
+  "record_id": "CTX-WEB-2026-00031",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-02-26-Infrastructure-News-230-PM",
+  "publication_date": "2026-02-26",
+  "capture_date": "2026-03-22T14:13:39Z",
+  "title": "Public Meeting on Regional Market Area Mobility Improvements March 5",
+  "summary": "The City of Syracuse Department of Engineering is hosting a public meeting on March 5, 2026 to present the Regional Transportation Center and Regional Market Area Mobility Improvement project. The initiative proposes multi-modal transportation improvements including sidewalk/curb replacements, ADA-compliant ramps, traffic signal upgrades, and shared-use paths across Park Street, NBT Bank Parkway, Tex Simone Drive, and Hiawatha Boulevard to enhance pedestrian and bicycle safety.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "transportation",
+    "roads-bridges",
+    "accessibility",
+    "micromobility",
+    "vision-zero",
+    "announcement",
+    "residents",
+    "capital-planning"
+  ],
+  "department_refs": [
+    "Department of Engineering"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "CNY Regional Market",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "NBT Bank Stadium",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Destiny USA",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Public engagement on pedestrian/bicycle safety improvements aligned with Vision Zero principles and equitable multi-modal transportation access.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown; attributed to Department of Engineering via content.",
+    "No budget or contract values disclosed in release.",
+    "Public comment period extends to March 20, 2026; online engagement portal available at syr.gov/RMA-RTC.",
+    "Meeting location at CNY Regional Market provides accessibility with free parking and ground floor access.",
+    "Press contact: Office of Communications (press@syr.gov).",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

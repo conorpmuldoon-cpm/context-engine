@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-WEB-2026-00072",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-11-21-Infrastructure-News-915AM",
+  "publication_date": "2024-11-21",
+  "capture_date": "2026-03-22T14:21:47Z",
+  "title": "Water Crews Working to Repair Water Main Break on East Raynor Avenue",
+  "summary": "The City of Syracuse Department of Water is repairing a water main break on the 800 block of East Raynor Avenue on November 21, 2024. Service disruptions and vehicle traffic closures are expected until repairs complete, with sidewalks and detours remaining available. This represents routine infrastructure maintenance with managed public impact.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "infrastructure",
+    "announcement",
+    "service-requests",
+    "construction-staging",
+    "roads-bridges"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse Department of Water",
+      "type": "organization",
+      "canonical_id": "ORG-WATER"
+    },
+    {
+      "name": "Office of Communications",
+      "type": "organization",
+      "canonical_id": "ORG-COMMUNICATIONS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Routine infrastructure repair announcement with standard public notification protocol",
+    "Author listed as Unknown; document is official city press release",
+    "No budget impacts, dollar amounts, or policy implications noted",
+    "Contact information and detour management indicate standard operational procedures",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

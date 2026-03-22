@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00091",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=m56feIFbY6s&t=3291s",
+  "publication_date": "2026-03-04",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "1153 West Fayette AV Equipment Budget Amendment",
+  "summary": "Michael Layman, Deputy Commissioner of Assessment, presents item 33: amending a prior ordinance to increase Huber Brewer's authorization for audiovisual equipment purchase and installation at 1153 West Fayette. No additional money requested -- reallocating within the $2M FFE bond authorized last summer. Council questions whether items 26 and 33 would be combined (separate accounts, different departments).",
+  "raw_content": "[00:54:51] item 33.\n[00:54:58] >> Good afternoon, counselors. Michael\n[00:54:59] Layman, deputy commissioner with the\n[00:55:00] assessment department. Uh just want to\n[00:55:02] preface this by saying we aren't asking\n[00:55:04] for any additional money. This uh is\n[00:55:06] asking to amend an ordinance that had\n[00:55:08] authorized funds to be paid to Huber\n[00:55:10] Brewer for the purchase and installation\n[00:55:13] of audiovisisual equipment. We're just\n[00:55:15] looking to increase that amount. And\n[00:55:17] this is that increase is based on bonds\n[00:55:20] that were authorized last summer. So\n[00:55:22] really just moving numbers from one\n[00:55:23] column to another. No additional funding\n[00:55:26] is being requested today.\n[00:55:30] >> So is is that that at the end of it is\n[00:55:33] going to combine 26 and 33 together\n[00:55:35] eventually. Is that the idea?\n[00:55:38] >> Can you say that again please?",
+  "transcript_ref": "outputs/transcripts/m56feIFbY6s_corrected.txt",
+  "topic_tags": [
+    "facilities",
+    "capital-planning",
+    "police",
+    "fire",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Assessment",
+    "Syracuse Police Department",
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael Layman",
+      "type": "person",
+      "canonical_id": "PERSON-LAYMAN-ASSESSMENT"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Michael Layman",
+      "role": "Deputy Commissioner, Assessment Department",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "1153 West Fayette is the new joint public safety headquarters. Assessment department managing FFE procurement. Huber Brewer is the AV vendor. Detail continues in segment 14.",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 13 of 14 from Common Council Study Session, Wednesday March 4th 2026",
+    "Transcript corrections applied: SU -> Syracuse University"
+  ],
+  "last_relevance_update": null
+}

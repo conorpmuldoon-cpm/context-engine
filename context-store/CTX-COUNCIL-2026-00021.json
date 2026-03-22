@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00021",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=-ZsKhcHXTd4&t=1963s",
+  "publication_date": "2026-01-07",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "IT Position Transfer from Parks to Information Technology Department",
+  "summary": "Budget transfer moves an IT position from Parks Department to IT Department so the role can support citywide technology needs rather than parks-specific work. Remaining salary funds transfer with the position. Budget Director Evan Loving presents.",
+  "raw_content": "[00:32:43] director. Uh, number 26 is actually it\n[00:32:46] says transfer funds, but it's primarily\n[00:32:47] a transfer position, an IT position that\n[00:32:50] was in parks, doing IT specifically for\n[00:32:52] parks. is moving to the IT department so\n[00:32:56] it can support the city as a whole and\n[00:32:58] the transfer of funds is the remaining\n[00:32:59] salary.\n[00:33:00] >> It is a transfer of funds to transfer\n[00:33:02] the funds to that part. So it is a\n[00:33:03] transfer of funds.\n[00:33:04] >> It is a transfer of funds. The primary\n[00:33:06] purpose of the transfer of the funds is\n[00:33:07] to transfer the position. The funds are\n[00:33:08] moving with the position.\n[00:33:09] >> There we go.\n[00:33:10] >> Yeah.\n[00:33:11] >> Any questions?\n[00:33:13] >> All right. Thank you, Madam President.\n[00:33:15] >> Thank you, Councelor Williams. And we\n[00:33:17] move on to councelor Joneser.\n[00:33:20] >> Thank you, Madam President.",
+  "transcript_ref": "outputs/transcripts/-ZsKhcHXTd4_corrected.txt",
+  "topic_tags": [
+    "IT-infrastructure",
+    "hiring",
+    "budget",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Information Technology",
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Corey J. Williams",
+      "type": "person",
+      "canonical_id": "PERSON-WILLIAMS-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Evan Loving",
+      "role": "Budget Director",
+      "affiliation": "Department of Finance"
+    },
+    {
+      "name": "Corey J. Williams",
+      "role": "Council Member",
+      "affiliation": "Syracuse Common Council"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Evan Loving not in entity registry — Budget Director presenting item 26",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 14 of 19 from Common Council Study Session, Wednesday, January 7th 2026"
+  ],
+  "last_relevance_update": null
+}

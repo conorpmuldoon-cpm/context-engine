@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-WEB-2026-00106",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-10-05-Infrastructure-News",
+  "publication_date": "2023-10-05",
+  "capture_date": "2026-03-22T14:28:17Z",
+  "title": "Mayor Walsh Announces Final Stage of West Genesee Street Project",
+  "summary": "Mayor Ben Walsh announced the final stage of the West Genesee Street 'Dig Once' infrastructure project, with repaving beginning October 9 on a 2.3-mile stretch from South Salina to Myrtle Street. The project coordinates utility replacements (water, sewer, telecom, gas) to minimize future excavations, with paving operations expected to complete by end of November while keeping the road open to traffic.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "roads-bridges",
+    "construction-staging",
+    "water",
+    "sewer",
+    "announcement",
+    "transportation"
+  ],
+  "department_refs": [
+    "Department of Infrastructure and Sustainability"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "City of Syracuse Office of Communications",
+      "type": "organization",
+      "canonical_id": "ORG-SYR-COMMUNICATIONS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor highlights coordinated infrastructure modernization ('Dig Once' initiative) demonstrating proactive asset management and efficiency in public works planning.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in metadata; actual author likely City of Syracuse Communications Office",
+    "Discrepancy: Title credits 'Mayor Walsh' but breadcrumb shows Mayor Sharon F. Owens as current; Walsh may be predecessor or title outdated",
+    "No budget figures or contract awards mentioned",
+    "Date published October 5, 2023 but work starts October 9, 2023 (4-day notice window)",
+    "URL structure suggests 2024 content but article dated 2023; potential archival or CMS dating issue",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,73 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00037",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=A9JzKTb_Eo0&t=1433s",
+  "publication_date": "2026-02-09",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Item 39 Axon LPR Contract -- Monto Explains Revocability and Flock Transition",
+  "summary": "Councilor Monto introduces item 39 (Axon LPR camera contract) and addresses public attendees concerned about surveillance. Explains council spent months reviewing the contract, which is 'highly and easily revocable' if Axon violates terms. Flock cameras are being held (not cancelled) to prevent service lapse during vendor transition. Item passes unanimously despite public disruption.",
+  "raw_content": "[00:23:53] I have item number 39. I would introduce\n[00:23:55] that and urge its adoption.\n[00:23:59] >> Item 39.\n[00:24:01] Any objections?\n[00:24:03] >> Any discussion?\n[00:24:05] >> Discussion, please. President Piagua,\n[00:24:08] for everybody standing up, welcome.\n[00:24:10] First of all, thank you for being here.\n[00:24:12] I want to make sure that all of you\n[00:24:13] understand that this contract with Axon\n[00:24:15] that we are entering into is also based\n[00:24:18] on the fact that we will be having them\n[00:24:20] come in as a new vendor for our LPR\n[00:24:22] reader systems. This council has been\n[00:24:24] through months of discussion going over\n[00:24:26] the contract that we will be entering\n[00:24:28] into Axon. We are very comfortable with\n[00:24:30] the idea that it is highly and easily\n[00:24:32] revocable should they step out of bounds\n[00:24:34] in any way inside of that contract. Um\n[00:24:37] so you know the reason that we are\n[00:24:39] holding the flock piece is so that there\n[00:24:40] is not a lapse in service that we have\n[00:24:42] with our LPRs. Um we have been very\n[00:24:45] cautious and very careful and we will\n[00:24:47] continue to be very careful with\n[00:24:49] technology in the city especially\n[00:24:50] surveillance technology. So thank you\n[00:24:52] for being here and having your voices\n[00:24:54] heard.\n[00:25:03] >> All in favor?\n[00:25:04] >> All in favor?\n[00:25:07] Okay, we're going to respect this\n[00:25:08] process. If you can't be in the room,\n[00:25:10] you will be removed. So, please sit\n[00:25:13] down.\n[00:25:15] >> At this point, we're not going to have\n[00:25:16] we're not going to engage in any in any\n[00:25:18] conversation. Please, this is\n[00:25:21] >> Will you please\n[00:25:23] please sit down because otherwise we're\n[00:25:24] going to have you removed.\n[00:25:29] >> Call the RO. All in favor?\n[00:25:33] >> Oppos?\n[00:25:34] >> It's unanimous.\n[00:25:38] Can we stop this later?\n[00:25:39] >> Later.\n[00:25:42] >> Come here. Come here.\n[00:25:45] >> Okay. You need Okay, we're going to stop\n[00:25:48] this right now.\n[00:25:50] >> We need to respect this process. This is\n[00:25:52] not a meeting where we discuss with you.\n[00:25:55] >> Please sit down.\n[00:25:57] >> I'm going to please ask you.\n[00:25:59] >> We just keep going.\n[00:26:00] >> We just keep going.\n[00:26:01] >> Okay.\n[00:26:01] >> Okay.\n[00:26:03] >> Okay.\n[00:26:05] All right,\n[00:26:09] >> Council Williams.",
+  "transcript_ref": "outputs/transcripts/A9JzKTb_Eo0_corrected.txt",
+  "topic_tags": [
+    "police",
+    "procurement",
+    "council",
+    "vote",
+    "contract-award"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jimmy Monto",
+      "type": "person",
+      "canonical_id": "PERSON-MONTO-COUNCIL"
+    },
+    {
+      "name": "Rita Paniagua",
+      "type": "person",
+      "canonical_id": "PERSON-PANIAGUA-COUNCIL"
+    },
+    {
+      "name": "Flock Group",
+      "type": "organization",
+      "canonical_id": "ORG-FLOCK"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Jimmy Monto",
+      "role": "Councilor, District 5",
+      "confidence": "high"
+    },
+    {
+      "name": "Rita Paniagua",
+      "role": "Council President",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Councilor Monto publicly defends Axon LPR contract as carefully negotiated with strong revocation clause, while acknowledging surveillance technology concerns",
+    "confidence": "high"
+  },
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-AXON-LPR-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Connects to b75K4ejDfY4 Joint Public Safety & Econ Dev committee meeting Feb 6 where Axon contract was discussed in detail. Public attendees disrupted proceedings; council had to repeatedly ask for order.",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 7 of 12 from Common Council Regular Meeting, Monday, February 9th, 2026",
+    "Transcript corrections applied: Sharon Owens -> Sharon F. Owens"
+  ],
+  "last_relevance_update": null
+}

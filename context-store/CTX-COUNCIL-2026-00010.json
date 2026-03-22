@@ -1,0 +1,51 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00010",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=-26j2mt6jMU&t=1937s",
+  "publication_date": "2026-01-21",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Honorary Street Sign for Community Leader Donna Reese",
+  "summary": "Council member Patrona Jones-Rowser introduces item for honorary street sign recognizing Donna Reese, longtime Syracuse resident with extensive community service across multiple organizations and initiatives. Full history to be presented at the following week's regular meeting. Other council members express immediate support for co-sponsorship.",
+  "raw_content": "[00:32:17] >> All right. Item 34 is my own. Um it's\n[00:32:19] for a um installation of honorary sign\n[00:32:23] um to honor um the great Donna Reese, a\n[00:32:27] longtime city resident who's done\n[00:32:30] remarkable work throughout our our\n[00:32:32] community. Um she has a plethora of uh\n[00:32:37] initiatives and organizations that she's\n[00:32:40] worked with and on. Um I'll give more\n[00:32:44] history next week, but It's beautiful.\n[00:32:47] >> Anyone want to get on board with this\n[00:32:48] right here?\n[00:32:50] >> Yes.\n[00:32:51] >> Very much.\n[00:32:53] [clears throat]\n[00:32:54] >> Good afternoon, counselors. Kaylin Hog,",
+  "transcript_ref": "outputs/transcripts/-26j2mt6jMU_corrected.txt",
+  "topic_tags": [
+    "neighborhood-services",
+    "council"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Patrona Jones-Rowser",
+      "type": "person",
+      "canonical_id": "PERSON-JONES-ROWSER-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Patrona Jones-Rowser",
+      "role": "Common Councilor, District 4",
+      "affiliation": "Syracuse Common Council"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Council member sponsors community recognition for longtime resident with broad council support",
+    "confidence": "high"
+  },
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Brief introduction; full presentation planned for following week's regular meeting",
+    "No department presenting — council-sponsored honorary designation",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 16 of 19 from Common Council Study Session, January 21st 2026"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,156 @@
+{
+  "taxonomy_version": "1.0.0",
+  "last_updated": "2026-03-21T2",
+  "expansion_protocol": "Provisional tags (prefixed PROVISIONAL:) auto-promote after 3 occurrences. Quarterly review by CIO or designee (~30 min) to clean up, merge, or retire tags.",
+
+  "domain_tags": {
+    "public_safety": {
+      "tags": ["police", "fire", "emergency-services", "code-enforcement", "public-safety-commission", "crime-data"],
+      "description": "Law enforcement, fire services, emergency response, and code compliance"
+    },
+    "infrastructure_public_works": {
+      "tags": ["water", "sewer", "roads-bridges", "fleet", "facilities", "snow-removal", "parks", "construction-staging", "road-closure-fees", "lead-remediation", "vision-zero", "infrastructure", "transportation"],
+      "description": "Physical infrastructure, utilities, fleet, facilities, and parks maintenance"
+    },
+    "finance_administration": {
+      "tags": ["budget", "procurement", "payroll", "grants", "audit", "tax-revenue", "capital-planning"],
+      "description": "City finances, procurement, payroll operations, and fiscal planning"
+    },
+    "human_resources_workforce": {
+      "tags": ["hiring", "civil-service", "training", "benefits", "labor-relations", "workforce-development", "overtime"],
+      "description": "Personnel, civil service, labor relations, and workforce management"
+    },
+    "planning_development": {
+      "tags": ["zoning", "permitting", "land-use", "economic-development", "housing", "historic-preservation", "micromobility", "sustainability"],
+      "description": "Land use planning, development review, permitting, and economic development"
+    },
+    "constituent_services": {
+      "tags": ["311", "constituent-complaints", "service-requests", "neighborhood-services", "accessibility"],
+      "description": "Resident-facing services, complaints, and service request management"
+    },
+    "technology_systems": {
+      "tags": ["IT-infrastructure", "software-systems", "data-governance", "cybersecurity", "digital-services", "GIS"],
+      "description": "Information technology, city software systems, and digital services"
+    },
+    "governance_policy": {
+      "tags": ["legislation", "executive-orders", "intergovernmental", "state-mandates", "federal-programs", "transparency", "equity"],
+      "description": "Legislative actions, policy changes, and intergovernmental relations"
+    }
+  },
+
+  "cross_cutting_tags": {
+    "action_type": {
+      "tags": ["vote", "announcement", "investigation", "complaint", "initiative-launch", "contract-award", "policy-change", "leadership-change"],
+      "description": "What kind of action or event this record represents"
+    },
+    "stakeholder_type": {
+      "tags": ["mayor", "council", "department-head", "union", "residents", "business-community", "state-agency"],
+      "description": "Which stakeholder categories are referenced"
+    },
+    "signal_strength": {
+      "tags": ["trending", "recurring", "one-time", "escalating", "resolved"],
+      "description": "Whether this record is part of a larger pattern"
+    }
+  },
+
+  "synonym_resolution": {
+    "departments": [
+      { "variants": ["DPW", "Public Works", "Dept of Public Works", "Dept. of Public Works"], "canonical_ref": "Department of Public Works" },
+      { "variants": ["HR", "Human Resources", "personnel"], "canonical_ref": "Department of Human Resources" },
+      { "variants": ["Parks", "Parks Dept", "Parks and Recreation", "Parks & Recreation"], "canonical_ref": "Department of Parks, Recreation and Youth Programs" },
+      { "variants": ["Fire", "SFD", "Syracuse Fire"], "canonical_ref": "Syracuse Fire Department" },
+      { "variants": ["SPD", "Syracuse Police"], "canonical_ref": "Syracuse Police Department" },
+      { "variants": ["DPD", "Permits", "Development"], "canonical_ref": "Department of Permits and Development" },
+      { "variants": ["Finance", "Budget Office"], "canonical_ref": "Department of Finance" },
+      { "variants": ["IT", "Information Technology", "Tech"], "canonical_ref": "Department of Information Technology" },
+      { "variants": ["Law", "Corporation Counsel", "Legal"], "canonical_ref": "Law Department" },
+      { "variants": ["Innovation", "API", "Analytics"], "canonical_ref": "Office of Analytics, Performance & Innovation" }
+    ],
+    "systems": [
+      { "variants": ["Camino", "Camino portal", "financial system", "Camino ERP"], "canonical_name": "Camino", "canonical_id": "SYS-CAMINO" },
+      { "variants": ["IPS", "Integrated Property System", "property system"], "canonical_name": "IPS", "canonical_id": "SYS-IPS" },
+      { "variants": ["AS400", "AS/400", "legacy mainframe", "iSeries", "payroll system"], "canonical_name": "AS400", "canonical_id": "SYS-AS400" },
+      { "variants": ["Cityworks", "work order system", "asset management system"], "canonical_name": "Cityworks", "canonical_id": "SYS-CITYWORKS" },
+      { "variants": ["Samsara", "fleet tracking", "GPS fleet", "fleet management"], "canonical_name": "Samsara", "canonical_id": "SYS-SAMSARA" },
+      { "variants": ["SWC", "Syracuse Workforce Central", "UKG", "timekeeping system", "time clock system"], "canonical_name": "SWC/UKG", "canonical_id": "SYS-SWC" },
+      { "variants": ["SeeClickFix", "SCF", "311 app"], "canonical_name": "SeeClickFix", "canonical_id": "SYS-SEECLICKFIX" }
+    ],
+    "topics": [
+      { "variants": ["CIP", "capital improvement plan", "capital budget", "capital program"], "canonical_tag": "capital-planning" },
+      { "variants": ["311", "constituent hotline", "service line", "complaint line"], "canonical_tag": "311" },
+      { "variants": ["workforce", "workforce issues", "staffing"], "canonical_tag": "workforce-development" }
+    ]
+  },
+
+  "source_type_to_freshness": {
+    "council_session": "long",
+    "council_segment": "long",
+    "resolution": "long",
+    "press_release": "medium",
+    "news_article": "short",
+    "board_minutes": "medium",
+    "board_agenda": "medium",
+    "budget_document": "long",
+    "capital_plan": "long",
+    "grant_award": "long",
+    "peer_practice": "long",
+    "ordinance": "long",
+    "rfp": "medium",
+    "public_notice": "medium",
+    "manual_observation": "medium",
+    "internal_note": "medium"
+  },
+
+  "provisional_tags": [],
+
+  "promotion_history": [
+    {
+      "tag": "micromobility",
+      "promoted_to": "planning_development",
+      "promoted_date": "2026-03-21",
+      "final_occurrences": 9
+    },
+    {
+      "tag": "construction-staging",
+      "promoted_to": "infrastructure_public_works",
+      "promoted_date": "2026-03-21",
+      "final_occurrences": 9
+    },
+    {
+      "tag": "lead-remediation",
+      "promoted_to": "infrastructure_public_works",
+      "promoted_date": "2026-03-21",
+      "final_occurrences": 7
+    },
+    {
+      "tag": "vision-zero",
+      "promoted_to": "infrastructure_public_works",
+      "promoted_date": "2026-03-21",
+      "final_occurrences": 4
+    },
+    {
+      "tag": "road-closure-fees",
+      "promoted_to": "infrastructure_public_works",
+      "promoted_date": "2026-03-21",
+      "final_occurrences": 4
+    },
+    {
+      "tag": "infrastructure",
+      "promoted_to": "infrastructure_public_works",
+      "promoted_date": "2026-03-22",
+      "final_occurrences": 1
+    },
+    {
+      "tag": "transportation",
+      "promoted_to": "infrastructure_public_works",
+      "promoted_date": "2026-03-22",
+      "final_occurrences": 1
+    },
+    {
+      "tag": "sustainability",
+      "promoted_to": "planning_development",
+      "promoted_date": "2026-03-22",
+      "final_occurrences": 1
+    }
+  ]
+}

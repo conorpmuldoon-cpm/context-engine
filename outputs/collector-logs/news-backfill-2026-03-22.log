@@ -1,0 +1,159 @@
+2026-03-22 14:09:23,995 [INFO] ============================================================
+2026-03-22 14:09:23,995 [INFO] News Backfill starting (max_pages=2, max_articles=5)
+2026-03-22 14:09:24,976 [INFO] Scanning: Syracuse.com Politics (https://www.syracuse.com/politics/)
+2026-03-22 14:09:24,977 [INFO]   Navigating to https://www.syracuse.com/politics/
+2026-03-22 14:09:29,788 [INFO]   Page 1: no new links found
+2026-03-22 14:09:32,815 [INFO]   No more pages to load
+2026-03-22 14:09:32,815 [INFO]   Total: 0 article links from https://www.syracuse.com/politics/
+2026-03-22 14:09:37,827 [INFO] Scanning: Syracuse.com Government (https://www.syracuse.com/government/)
+2026-03-22 14:09:37,827 [INFO]   Navigating to https://www.syracuse.com/government/
+2026-03-22 14:09:48,828 [INFO]   Page 1: found 1 new links (total: 1)
+2026-03-22 14:09:51,945 [DEBUG]   Scrolled to load more content
+2026-03-22 14:09:57,143 [INFO]   Page 2: no new links found
+2026-03-22 14:09:57,144 [INFO]   Total: 1 article links from https://www.syracuse.com/government/
+2026-03-22 14:10:02,145 [DEBUG]   Fetching: https://www.syracuse.com/politics/cny/
+2026-03-22 14:10:05,062 [WARNING]   Could not extract sufficient content from https://www.syracuse.com/politics/cny/
+2026-03-22 14:10:05,241 [INFO] News Backfill Run — 2026-03-22 14:10
+==================================================
+Sections crawled: 2
+Articles discovered: 0
+Already processed: 0
+Articles evaluated: 0
+Saved as records: 0
+Filtered (not relevant): 0
+Errors: 0
+
+2026-03-22 14:14:34,143 [INFO] ============================================================
+2026-03-22 14:14:34,143 [INFO] News Backfill (RSS catch-up) starting
+2026-03-22 14:14:34,271 [INFO] Fetching: Syracuse.com Politics
+2026-03-22 14:14:34,662 [INFO]   98 articles from Syracuse.com Politics
+2026-03-22 14:14:34,662 [INFO] Fetching: Syracuse.com Government
+2026-03-22 14:14:35,090 [INFO]   98 articles from Syracuse.com Government
+2026-03-22 14:14:35,090 [INFO] Fetching: Syracuse.com Local
+2026-03-22 14:14:35,437 [INFO]   98 articles from Syracuse.com Local
+2026-03-22 14:14:35,437 [INFO] Total unique articles across all feeds: 98
+2026-03-22 14:14:35,437 [INFO] New articles (not previously processed by daily or backfill): 48
+2026-03-22 14:14:35,439 [DEBUG]   Filtered (not relevant): Syracuse basketball finalizing deal to hire Gerry McNamara as next head coach
+2026-03-22 14:14:35,439 [DEBUG]   Filtered (not relevant): Cayuga County real estate: See all residential properties sold, March 9-15
+2026-03-22 14:14:35,439 [DEBUG]   Filtered (not relevant): Cooperstown boys hoops knocks off defending champs to cap perfect season with Cl
+2026-03-22 14:14:35,440 [DEBUG]   Filtered (not relevant): One-pot orzo and meatballs
+2026-03-22 14:14:35,441 [DEBUG]   Filtered (not relevant): Cast a ballot and wait for the plane. In Alaska, a grace period for ballots is s
+2026-03-22 14:14:35,441 [DEBUG]   Filtered (not relevant): Beyond the inverted pyramid: Turning reporting into narrative journalism
+2026-03-22 14:14:35,442 [DEBUG]   Filtered (not relevant): Syracuse lacrosse vs. Georgetown: Live score, updates
+2026-03-22 14:14:35,442 [DEBUG]   Filtered (not relevant): Seneca County real estate: See all residential properties sold, March 9-15
+2026-03-22 14:14:35,443 [DEBUG]   Filtered (not relevant): Where to watch NASCAR Darlington Spring Race today: Free live stream
+2026-03-22 14:14:35,443 [DEBUG]   Filtered (not relevant): Sackets Harbor boys basketball comes up short in Class D final against Bolton: ‘
+2026-03-22 14:14:35,443 [DEBUG]   Filtered (not relevant): Utica Notre Dame feels heartbreak of state finals loss, joy of senior’s historic
+2026-03-22 14:14:35,444 [DEBUG]   Filtered (not relevant): Experts release new St. John’s vs. Kansas prediction after eye-catching Kalshi m
+2026-03-22 14:14:35,444 [DEBUG]   Filtered (not relevant): Updated DraftKings Promo Code: New $200 NBA bonus
+2026-03-22 14:14:35,445 [DEBUG]   Filtered (not relevant): Senior’s buzzer 3 sends Cooperstown back to state final: ‘You have to get lucky 
+2026-03-22 14:14:35,445 [DEBUG]   Filtered (not relevant): Fans worry after satire post claims popular actor was deported to Australia
+2026-03-22 14:14:35,445 [DEBUG]   Filtered (not relevant): Most expensive homes sold in six Central NY counties from March 9 to 15
+2026-03-22 14:14:35,446 [DEBUG]   Filtered (not relevant): Tompkins County real estate: 10 most expensive homes sold, March 9-15
+2026-03-22 14:14:35,446 [DEBUG]   Filtered (not relevant): Le Moyne women’s lacrosse box score at Howard
+2026-03-22 14:14:35,447 [DEBUG]   Filtered (not relevant): Syracuse women’s basketball beats Iowa State, advances to NCAA second-round matc
+2026-03-22 14:14:35,447 [DEBUG]   Filtered (not relevant): Le Moyne men’s lacrosse box score vs. LIU
+2026-03-22 14:14:35,447 [DEBUG]   Filtered (not relevant): No. 5 Vanderbilt vs. No. 4 Nebraska NCAA Tournament odds update: Experts adjust 
+2026-03-22 14:14:35,448 [DEBUG]   Filtered (not relevant): 23 spellers, 16 rounds: See who won the 2026 Post-Standard | syracuse.com Spelli
+2026-03-22 14:14:35,448 [DEBUG]   Filtered (not relevant): How to watch Lifetime’s ‘I Killed Him in My Sleep’ premiere for free without cab
+2026-03-22 14:14:35,449 [DEBUG]   Filtered (not relevant): Landmark Theatre's "Book of Mormon" is cringe in a good way (review)
+2026-03-22 14:14:35,449 [DEBUG]   Filtered (not relevant): Sackets Harbor knocks off Clymer for 2nd Class D finals berth in 3 years: ‘They 
+2026-03-22 14:14:35,449 [DEBUG]   Filtered (not relevant): Cortland County real estate: 10 most expensive homes sold, March 9-15
+2026-03-22 14:14:35,450 [DEBUG]   Filtered (not relevant): Florida man sells home in five days using ChatGPT
+2026-03-22 14:14:35,450 [DEBUG]   Filtered (not relevant): Former FBI Director Robert Mueller dies at 81
+2026-03-22 14:14:35,451 [DEBUG]   Filtered (not relevant): Where to watch TCU vs. Duke today: March Madness free live stream
+2026-03-22 14:14:35,451 [DEBUG]   Filtered (not relevant): Trinkaus closes in on history, Utica Notre Dame girls hoops closes in on title: 
+2026-03-22 14:14:35,452 [DEBUG]   Filtered (not relevant): No. 1 Duke vs. No. 9 TCU odds, expert picks and predictions for NCAA Tournament 
+2026-03-22 14:14:35,452 [DEBUG]   Filtered (not relevant): How to watch NASCAR at Darlington today: Free live stream
+2026-03-22 14:14:35,453 [DEBUG]   Filtered (not relevant): Madison County real estate: 10 most expensive homes sold, March 2-15
+2026-03-22 14:14:35,453 [DEBUG]   Filtered (not relevant): Dear Abby: Dessert is ‘free,’ but if I’m being asked for a tip, is it really fre
+2026-03-22 14:14:35,454 [DEBUG]   Filtered (not relevant): Baked coconut red lentils and greens
+2026-03-22 14:14:35,455 [DEBUG]   Filtered (not relevant): Za’atar turkey meatballs with tahini yogurt
+2026-03-22 14:14:35,455 [DEBUG]   Filtered (not relevant): TSA agents working without pay as shutdown hits day 35, airport wait times surge
+2026-03-22 14:14:35,455 [DEBUG]   Filtered (not relevant): Major music group returns to stage for first time in 4 years for free concert
+2026-03-22 14:14:35,456 [DEBUG]   Filtered (not relevant): Seneca County real estate: 6 most expensive properties sold, March 9-15
+2026-03-22 14:14:35,456 [DEBUG]   Filtered (not relevant): American Airlines flight leaving Syracuse backs off ramp, gets stuck in the mud
+2026-03-22 14:14:35,456 [DEBUG]   Filtered (not relevant): Miss Manners: Friend group seems to use ‘reply all’ to keep score on who’s keepi
+2026-03-22 14:14:35,457 [DEBUG]   Filtered (not relevant): Where to watch Syracuse women's basketball vs. Iowa State today
+2026-03-22 14:14:35,457 [DEBUG]   Filtered (not relevant): Miss Manners: Co-worker insists on ‘praying’ the toxins and poisons out of foods
+2026-03-22 14:14:35,458 [DEBUG]   Filtered (not relevant): Experts predict a convincing Duke win on Saturday, but do Kalshi traders see the
+2026-03-22 14:14:35,458 [DEBUG]   Filtered (not relevant): NCAA Tournament 2026: Saturday’s Round 2 TV schedule, bracket update
+2026-03-22 14:14:35,459 [DEBUG]   Filtered (not relevant): Broccoli and white bean caesar
+2026-03-22 14:14:35,459 [DEBUG]   Filtered (not relevant): Dear Annie: We love hosting, but this one guest expects a fridge stocked with sp
+2026-03-22 14:14:35,460 [DEBUG]   Filtered (not relevant): Actor on hit ABC show reveals he was fired: ‘I took it in stride’
+2026-03-22 14:14:35,460 [INFO] News Backfill Run — 2026-03-22 14:14
+==================================================
+Feeds checked: 3
+Total unique articles: 98
+New (not seen before): 48
+Saved as records: 0
+Filtered (not relevant): 48
+Errors: 0
+
+2026-03-22 14:26:56,236 [INFO] ============================================================
+2026-03-22 14:26:56,236 [INFO] News Backfill (RSS catch-up) starting
+2026-03-22 14:26:57,242 [INFO] Fetching: Syracuse.com Politics
+2026-03-22 14:26:59,844 [INFO]   98 articles from Syracuse.com Politics
+2026-03-22 14:26:59,845 [INFO] Fetching: Syracuse.com Government
+2026-03-22 14:27:00,179 [INFO]   98 articles from Syracuse.com Government
+2026-03-22 14:27:00,179 [INFO] Fetching: Syracuse.com Local
+2026-03-22 14:27:00,530 [INFO]   98 articles from Syracuse.com Local
+2026-03-22 14:27:00,530 [INFO] Total unique articles across all feeds: 98
+2026-03-22 14:27:00,530 [INFO] New articles (not previously processed by daily or backfill): 48
+2026-03-22 14:27:00,532 [DEBUG]   Filtered (not relevant): Syracuse basketball finalizing deal to hire Gerry McNamara as next head coach
+2026-03-22 14:27:00,532 [DEBUG]   Filtered (not relevant): Cayuga County real estate: See all residential properties sold, March 9-15
+2026-03-22 14:27:00,533 [DEBUG]   Filtered (not relevant): Cooperstown boys hoops knocks off defending champs to cap perfect season with Cl
+2026-03-22 14:27:00,533 [DEBUG]   Filtered (not relevant): One-pot orzo and meatballs
+2026-03-22 14:27:00,534 [DEBUG]   Filtered (not relevant): Cast a ballot and wait for the plane. In Alaska, a grace period for ballots is s
+2026-03-22 14:27:00,535 [DEBUG]   Filtered (not relevant): Beyond the inverted pyramid: Turning reporting into narrative journalism
+2026-03-22 14:27:00,535 [DEBUG]   Filtered (not relevant): Syracuse lacrosse vs. Georgetown: Live score, updates
+2026-03-22 14:27:00,536 [DEBUG]   Filtered (not relevant): Seneca County real estate: See all residential properties sold, March 9-15
+2026-03-22 14:27:00,536 [DEBUG]   Filtered (not relevant): Where to watch NASCAR Darlington Spring Race today: Free live stream
+2026-03-22 14:27:00,537 [DEBUG]   Filtered (not relevant): Sackets Harbor boys basketball comes up short in Class D final against Bolton: ‘
+2026-03-22 14:27:00,537 [DEBUG]   Filtered (not relevant): Utica Notre Dame feels heartbreak of state finals loss, joy of senior’s historic
+2026-03-22 14:27:00,538 [DEBUG]   Filtered (not relevant): Updated DraftKings Promo Code: New $200 NBA bonus
+2026-03-22 14:27:00,538 [DEBUG]   Filtered (not relevant): Experts release new St. John’s vs. Kansas prediction after eye-catching Kalshi m
+2026-03-22 14:27:00,538 [DEBUG]   Filtered (not relevant): Senior’s buzzer 3 sends Cooperstown back to state final: ‘You have to get lucky 
+2026-03-22 14:27:00,539 [DEBUG]   Filtered (not relevant): Fans worry after satire post claims popular actor was deported to Australia
+2026-03-22 14:27:00,539 [DEBUG]   Filtered (not relevant): Most expensive homes sold in six Central NY counties from March 9 to 15
+2026-03-22 14:27:00,540 [DEBUG]   Filtered (not relevant): Tompkins County real estate: 10 most expensive homes sold, March 9-15
+2026-03-22 14:27:00,540 [DEBUG]   Filtered (not relevant): Le Moyne women’s lacrosse box score at Howard
+2026-03-22 14:27:00,540 [DEBUG]   Filtered (not relevant): Syracuse women’s basketball beats Iowa State, advances to NCAA second-round matc
+2026-03-22 14:27:00,541 [DEBUG]   Filtered (not relevant): Le Moyne men’s lacrosse box score vs. LIU
+2026-03-22 14:27:00,541 [DEBUG]   Filtered (not relevant): No. 5 Vanderbilt vs. No. 4 Nebraska NCAA Tournament odds update: Experts adjust 
+2026-03-22 14:27:00,541 [DEBUG]   Filtered (not relevant): 23 spellers, 16 rounds: See who won the 2026 Post-Standard | syracuse.com Spelli
+2026-03-22 14:27:00,542 [DEBUG]   Filtered (not relevant): How to watch Lifetime’s ‘I Killed Him in My Sleep’ premiere for free without cab
+2026-03-22 14:27:00,543 [DEBUG]   Filtered (not relevant): Landmark Theatre's "Book of Mormon" is cringe in a good way (review)
+2026-03-22 14:27:00,543 [DEBUG]   Filtered (not relevant): Sackets Harbor knocks off Clymer for 2nd Class D finals berth in 3 years: ‘They 
+2026-03-22 14:27:00,543 [DEBUG]   Filtered (not relevant): Cortland County real estate: 10 most expensive homes sold, March 9-15
+2026-03-22 14:27:00,544 [DEBUG]   Filtered (not relevant): Florida man sells home in five days using ChatGPT
+2026-03-22 14:27:00,544 [DEBUG]   Filtered (not relevant): Former FBI Director Robert Mueller dies at 81
+2026-03-22 14:27:00,545 [DEBUG]   Filtered (not relevant): Where to watch TCU vs. Duke today: March Madness free live stream
+2026-03-22 14:27:00,545 [DEBUG]   Filtered (not relevant): Trinkaus closes in on history, Utica Notre Dame girls hoops closes in on title: 
+2026-03-22 14:27:00,546 [DEBUG]   Filtered (not relevant): How to watch NASCAR at Darlington today: Free live stream
+2026-03-22 14:27:00,546 [DEBUG]   Filtered (not relevant): No. 1 Duke vs. No. 9 TCU odds, expert picks and predictions for NCAA Tournament 
+2026-03-22 14:27:00,547 [DEBUG]   Filtered (not relevant): Madison County real estate: 10 most expensive homes sold, March 2-15
+2026-03-22 14:27:00,548 [DEBUG]   Filtered (not relevant): Dear Abby: Dessert is ‘free,’ but if I’m being asked for a tip, is it really fre
+2026-03-22 14:27:00,549 [DEBUG]   Filtered (not relevant): Baked coconut red lentils and greens
+2026-03-22 14:27:00,550 [DEBUG]   Filtered (not relevant): Za’atar turkey meatballs with tahini yogurt
+2026-03-22 14:27:00,550 [DEBUG]   Filtered (not relevant): TSA agents working without pay as shutdown hits day 35, airport wait times surge
+2026-03-22 14:27:00,551 [DEBUG]   Filtered (not relevant): Major music group returns to stage for first time in 4 years for free concert
+2026-03-22 14:27:00,551 [DEBUG]   Filtered (not relevant): Seneca County real estate: 6 most expensive properties sold, March 9-15
+2026-03-22 14:27:00,552 [DEBUG]   Filtered (not relevant): American Airlines flight leaving Syracuse backs off ramp, gets stuck in the mud
+2026-03-22 14:27:00,552 [DEBUG]   Filtered (not relevant): Miss Manners: Friend group seems to use ‘reply all’ to keep score on who’s keepi
+2026-03-22 14:27:00,553 [DEBUG]   Filtered (not relevant): Where to watch Syracuse women's basketball vs. Iowa State today
+2026-03-22 14:27:00,553 [DEBUG]   Filtered (not relevant): Miss Manners: Co-worker insists on ‘praying’ the toxins and poisons out of foods
+2026-03-22 14:27:00,554 [DEBUG]   Filtered (not relevant): Experts predict a convincing Duke win on Saturday, but do Kalshi traders see the
+2026-03-22 14:27:00,554 [DEBUG]   Filtered (not relevant): Dear Annie: We love hosting, but this one guest expects a fridge stocked with sp
+2026-03-22 14:27:00,555 [DEBUG]   Filtered (not relevant): NCAA Tournament 2026: Saturday’s Round 2 TV schedule, bracket update
+2026-03-22 14:27:00,555 [DEBUG]   Filtered (not relevant): Broccoli and white bean caesar
+2026-03-22 14:27:00,556 [DEBUG]   Filtered (not relevant): Actor on hit ABC show reveals he was fired: ‘I took it in stride’
+2026-03-22 14:27:00,557 [INFO] News Backfill Run — 2026-03-22 14:27
+==================================================
+Feeds checked: 3
+Total unique articles: 98
+New (not seen before): 48
+Saved as records: 0
+Filtered (not relevant): 48
+Errors: 0
+

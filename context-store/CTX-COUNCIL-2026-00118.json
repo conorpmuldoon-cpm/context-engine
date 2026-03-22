@@ -1,0 +1,112 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00118",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=qUjV1ZYa2nY&t=443s",
+  "publication_date": "2026-02-03",
+  "capture_date": "2026-03-21T23:23:19Z",
+  "title": "Payroll Modernization Overview -- AS400 Manual Processes, Employee Self-Service Vision, and HCM System Architecture",
+  "summary": "Finance Committee convenes long-awaited payroll modernization presentation. Josh Syrson (API project manager), CFO, and Mike Smith (Assistant Director HR) present objectives: (1) improved business processes -- current employee status changes require printing AS400 screenshot, handwriting changes, scanning, DocuSigning (10-15 min per change vs seconds in modern system); employee self-service for address updates, open enrollment, direct deposit; (2) sustainable payroll management -- weekly + bi-weekly + SURA payroll cycles, paper time sheets from 2,000-person organization, 2 retirees + 3 staff in payroll, recently processed 24 police officer retropay corrections dating to 2021 (40 staff hours for 24 corrections); (3) workforce analytics -- overtime cost analysis currently impossible, compliance tracking across departments, data-driven scheduling. System diagram: timekeeping (SWC/TeleStaff) and HCM (HR + payroll) shown as cyclical process; AS400 handles demographic data and payroll but lacks position management, applicant tracking, employee self-service. Current demographic data described as 'incomplete at best' and 'isolated' -- cannot generate reports or track work authorization status. Nine union contracts with complex deduction cascades make every personnel change multi-step.",
+  "raw_content": "[00:07:23] 3:00 on President Pantiaga's phone. Um,\n[00:07:26] we have the long-awaited committee\n[00:07:28] meeting of the finance committee on the\n[00:07:30] payroll modernization uh as it relates\n[00:07:33] to a long-standing item on our agenda.\n[00:07:37] Um that is a an agreement with Mosaic to\n[00:07:40] proceed with the next steps of payroll\n[00:07:43] modernization. I have with me councelor\n[00:07:45] NAV, councelor Piagua, myself, councelor\n[00:07:48] Jones Rouser. Um and if you all wouldn't\n[00:07:51] mind introducing yourselves.\n[00:07:54] >> My name is Josh Syrson. I'm a project\n[00:07:55] manager in the API department. Today is\n[00:07:57] the second.\n[00:07:59] >> Okay.\n[00:08:02] >> Um Mikeo, um chief financial officer.\n[00:08:06] >> Mike Smith, assistant director of HR.\n[00:08:10] >> And um\n[00:08:12] >> we've got counselor Moore. You might\n[00:08:14] want to come over here.\n[00:08:16] >> See the presentation.\n[00:08:17] >> Gotcha.\n[00:08:18] >> Um\n[00:08:20] and\n[00:08:22] really\n[00:08:23] wanted to come together today. I'm glad\n[00:08:25] that counselor Moore is joining us, one\n[00:08:27] of our new counselors. Um, if you\n[00:08:31] wouldn't mind kind of running through a\n[00:08:34] brief brief history of where we're at or\n[00:08:37] how we got here, where we're at, and\n[00:08:39] kind of the path forward and\n[00:08:41] >> I'm not sure who wants to take the lead,\n[00:08:43] but you know, we've been here before,\n[00:08:45] but\n[00:08:45] >> yeah. So, I think um the presentation\n[00:08:48] does a great job of that of just where\n[00:08:49] we started, um, where we are, you know,\n[00:08:51] the original objectives of the project.\n[00:08:54] um some of the issues we've had um in\n[00:08:56] our vision. So there's the agenda um you\n[00:08:58] know project overview objectives, our\n[00:09:00] overview of our current systems um what\n[00:09:03] did we accomplish in 2025 um some of the\n[00:09:06] challenges we're still uh experiencing\n[00:09:08] as well as um what we would like um as\n[00:09:11] far as the city's vision for the next uh\n[00:09:13] for the new HCM. Um I think our ask far\n[00:09:17] as the next steps and the considerations\n[00:09:19] and then uh questions. Um Josh Josh did\n[00:09:22] a very good job preparing this\n[00:09:24] PowerPoint. So I I would ask um I mean\n[00:09:26] you have some timely questions you know\n[00:09:28] feel free to interject but we do have\n[00:09:29] very robust robust appendices um with\n[00:09:33] kind of you know project to date current\n[00:09:34] status as far as you know SWC\n[00:09:37] implementation. So um you know I think\n[00:09:39] we could best answer your questions uh\n[00:09:42] at the end. So um if you could move to\n[00:09:45] the next slide. Um, so these are the\n[00:09:47] overall objectives of why we're doing\n[00:09:49] payroll modernization and I'll I'll hand\n[00:09:51] it off to um my colleague Mike here to\n[00:09:53] go over the first bullet point. Sure. So\n[00:09:56] improved business processes and employee\n[00:09:58] services. Um, you know, just the first\n[00:10:00] step here is a modernized payroll and\n[00:10:03] human capital management system would\n[00:10:05] revolutionize how we do things in the HR\n[00:10:07] department and across the city as a\n[00:10:09] whole. Um, you know, one of the things\n[00:10:11] that's this is touching on much more\n[00:10:13] than payroll. Uh this is also something\n[00:10:16] that is going to improve personnel\n[00:10:18] transactions of all kinds. It's going to\n[00:10:20] increase reliability and speed of\n[00:10:23] changes. Um one quick example, if we\n[00:10:27] want to change an employes status\n[00:10:29] currently under our system as it is, we\n[00:10:32] need to print a screenshot of the AS400\n[00:10:34] with the employees information.\n[00:10:37] go to the copier, handprint what the\n[00:10:39] changes are going to be on that piece of\n[00:10:41] paper, return to the copier, scan it to\n[00:10:44] our email, and then attach it to our\n[00:10:46] Docu Sign process to send to payroll for\n[00:10:48] a change. With an actual modern human\n[00:10:52] capital system, it's a few key strokes\n[00:10:55] and a click and we have that same\n[00:10:57] process completed in seconds rather than\n[00:10:59] 10 to 15 minutes. Um and it also opens a\n[00:11:03] pathway for us for employee uh\n[00:11:06] selfmaintenance of their information. So\n[00:11:09] a self-service model would allow our\n[00:11:11] employees to go in make any kind of\n[00:11:13] changes to their um information um you\n[00:11:17] know update addresses, make changes in\n[00:11:20] um open enrollment, things like that. So\n[00:11:22] it really opens a path for a much more\n[00:11:24] interactive and engaging and satisfying\n[00:11:26] employee experience.\n[00:11:29] >> Thanks Mike. Um, and then the next\n[00:11:30] bullet point, sustainable and financial\n[00:11:32] financially responsible payroll\n[00:11:34] management. Um, so currently, you know,\n[00:11:36] we have a weekly payroll, uh, we have a\n[00:11:38] bi-weekly payroll, and then there's also\n[00:11:39] the SURA payroll. Um, I would say it's\n[00:11:42] the staff experience right now that if\n[00:11:44] they're getting a payub, it's almost\n[00:11:45] they're looking at what's wrong. They're\n[00:11:47] they're expecting that something's going\n[00:11:48] to be wrong with their payub. Um, you\n[00:11:51] know, we distributed W2s uh late last\n[00:11:53] week and then that that's all the uh\n[00:11:55] those are all the questions that are\n[00:11:56] coming to the window. This is wrong\n[00:11:58] because there's so much distrust uh\n[00:12:00] distrust with payroll um in its current\n[00:12:02] state. Um it's currently a very manual\n[00:12:05] process. I I brought a prop here as you\n[00:12:07] can see. This is our AS400, you know,\n[00:12:10] print screen of this is one bi-weekly\n[00:12:12] payroll and then the stack of paper on\n[00:12:14] top is um all of the changes that uh\n[00:12:18] resulted in a bi-weekly payroll. Um with\n[00:12:21] this manual process, there's obviously\n[00:12:23] uh it's it's prone to error. um you know\n[00:12:26] someone transposing a number adding an\n[00:12:29] extra zero um which typically results in\n[00:12:32] uh very time consuming retropays. We\n[00:12:34] just um which if typically fallen to me\n[00:12:38] uh we just had 24 police officers that\n[00:12:40] received a retrop payment dating back to\n[00:12:42] 2021 because of step and grade um\n[00:12:45] issues. Um that took probably you know\n[00:12:49] between my staff and myself you know 40\n[00:12:52] working hours just to do 24 corrections.\n[00:12:55] Um so ideally in a new um in a new\n[00:13:00] system that there would be a lot of\n[00:13:01] efficiencies there. Um and then the last\n[00:13:04] objective give it to Josh.\n[00:13:07] >> Yeah. So I think the points so far have\n[00:13:08] been basically about what our current\n[00:13:10] processes function like today. But uh in\n[00:13:13] addition to improving those, we also\n[00:13:15] have kind of our eyes to the future of\n[00:13:16] what can we do? What sort of impacts can\n[00:13:18] we can we get from from having improved\n[00:13:21] [clears throat] processes? And one of\n[00:13:22] those things we want to highlight here\n[00:13:23] is how these tools and the data that's\n[00:13:25] collected by these tools can help us\n[00:13:27] better manage our workforce. And so I'll\n[00:13:29] just kind of use the example of of\n[00:13:31] overtime costs today. When you think\n[00:13:33] about we're spending a lot on overtime,\n[00:13:35] it's a little hard to know exactly how\n[00:13:36] to best approach that as an issue. You\n[00:13:38] know, it could be because of the number\n[00:13:40] of things that we're needing to cover\n[00:13:42] across the board. It could be because of\n[00:13:44] scheduling issues. It could be because\n[00:13:46] people are calling out sick at times\n[00:13:48] that, you know, we then have to call\n[00:13:49] someone in to cover them. Could be\n[00:13:50] because of the number of vacancies.\n[00:13:52] Anyways, all I'm trying to say is that\n[00:13:54] these tools and the data that we'll get\n[00:13:56] from these tools will give us a much\n[00:13:57] more, you know, appropriate way of\n[00:13:59] addressing those challenges, whether\n[00:14:00] that be through, you know, hiring or\n[00:14:02] just scheduling. Um and these should\n[00:14:04] also give us tools to improve things\n[00:14:05] like compliance, you know, across all\n[00:14:07] the different departments and all the\n[00:14:08] different settings. Uh compliance, you\n[00:14:10] know, may may just have different\n[00:14:12] challenges in each one of those spots.\n[00:14:13] So, uh these tools will give us a lot\n[00:14:15] of, you know, visibility into what's\n[00:14:16] going on today and then, you know,\n[00:14:18] levers that we can pull to improve those\n[00:14:20] things.\n[00:14:21] >> So, uh moving on, this is kind of a a\n[00:14:24] glance back at what we've shown you\n[00:14:26] before. This diagram really is we go\n[00:14:28] back one slide to one one lemon just get\n[00:14:30] some language down.\n[00:14:34] Okay, good.\n[00:14:37] >> So, this is a diagram that we have shown\n[00:14:39] uh the council before uh really trying\n[00:14:42] to help us wrap our heads around the\n[00:14:43] systems. I know there's a bunch of\n[00:14:44] acronyms that are thrown around and a\n[00:14:46] lot of different software pieces going\n[00:14:48] on here. So, on the left hand side is\n[00:14:50] timekeeping. On the right hand side is\n[00:14:53] human capital management uh which\n[00:14:55] includes kind of HR tools and payroll.\n[00:14:57] So what we want to try and show through\n[00:14:58] this diagram is that it's a cyclical\n[00:15:00] process of getting pay out every single\n[00:15:02] week. It takes both, you know, good\n[00:15:04] timekeeping happening on the lefth hand\n[00:15:05] side with systems like SWC and like\n[00:15:07] teles staff. Uh but it also takes you\n[00:15:10] know having a payroll system that can\n[00:15:11] you know process those numbers and spit\n[00:15:13] out a paycheck correctly. It takes\n[00:15:14] having an HR system that's going to you\n[00:15:16] know have all of the the proper\n[00:15:19] demographic information about those\n[00:15:20] employees. Takes all those pieces you\n[00:15:22] know working together to get an accurate\n[00:15:24] paycheck out at the end of the day. So\n[00:15:25] this is something we've shown before,\n[00:15:26] but we want to move towards is is this\n[00:15:28] other model kind of showing this is this\n[00:15:30] is all that an HCM maybe could be said\n[00:15:32] to do um more than just those two things\n[00:15:35] we' listed before. And I want to try and\n[00:15:36] you know just show all the different\n[00:15:38] things because not all these you know do\n[00:15:39] we have today. So uh demographic data\n[00:15:42] management um is is maybe the first one\n[00:15:44] of those things um kind of done in the\n[00:15:46] AS400 today. Um position management not\n[00:15:50] really a thing that we have a solution\n[00:15:51] for at all. Uh payroll done in the\n[00:15:53] AS400. uh applicant tracking not so much\n[00:15:56] at all. Timekeeping is is you know\n[00:15:58] currently transitioning to be an S SWC\n[00:16:00] tool. Um so that's that's UKG that's the\n[00:16:03] blue one. Um and then the other two we\n[00:16:05] we don't really have anything as\n[00:16:06] solutions for today. Um so when we're\n[00:16:09] talking about you know rolling out an\n[00:16:11] HCM system down the road um it's a\n[00:16:13] little hard to compare that to today in\n[00:16:15] terms of cost and labor that goes into\n[00:16:17] maintaining that just because it's going\n[00:16:18] to be so much more than we currently\n[00:16:20] have today. And I want to just, you\n[00:16:22] know, turn the mic over to to Mike and\n[00:16:24] and Mike conveniently um to talk about,\n[00:16:27] you know, what this actually looks like\n[00:16:28] in their in their workflows.\n[00:16:30] >> Yeah, I I really can't stress enough\n[00:16:32] just the manual nature of payroll um as\n[00:16:35] we're and transitioning to UKG and um\n[00:16:38] you know, digital timekeeping, so teles\n[00:16:39] staff uh for public safety and Kronos um\n[00:16:43] for the rest of the Syracuse workforce.\n[00:16:45] Um it's very much so organized chaos. Um\n[00:16:48] it's every every two weeks, every week.\n[00:16:51] Um are we going to get payroll out on\n[00:16:53] time? Um there there is a number of\n[00:16:56] corrections that need to be uh every\n[00:16:58] every week for every uh bi-weekly\n[00:17:00] payroll. So that's police, you know,\n[00:17:01] you're talking 400 plus officers, fire,\n[00:17:04] 350 plus. Um you know, we're we're a\n[00:17:07] 2,000 person organization. um collecting\n[00:17:11] paper time sheets uh from every employee\n[00:17:14] given we have two retirees working\n[00:17:17] currently in payroll um and then a staff\n[00:17:19] of three and then you know we tag in\n[00:17:21] some IT support to make sure we we get\n[00:17:23] it through um it's just a very\n[00:17:26] convoluted process with what our current\n[00:17:28] state is um and then I think Mike you\n[00:17:30] going to touch on some demographic\n[00:17:32] >> yeah so the other thing that's really\n[00:17:33] important for any modern HR department\n[00:17:36] or organization in general is the access\n[00:17:38] of usable demographic data. Currently,\n[00:17:42] our data is incomplete at best. Um, it's\n[00:17:45] isolated from the rest of our\n[00:17:46] information. We can't easily move it\n[00:17:49] back and forth between systems to do\n[00:17:51] reporting. Um, the other systems aren't",
+  "transcript_ref": "outputs/transcripts/qUjV1ZYa2nY_corrected.txt",
+  "topic_tags": [
+    "IT-infrastructure",
+    "workforce-development",
+    "council"
+  ],
+  "department_refs": [
+    "Office of Analytics, Performance & Innovation",
+    "Department of Human Resources",
+    "Department of Finance"
+  ],
+  "entity_refs": [
+    {
+      "name": "AS400",
+      "type": "system",
+      "canonical_id": "SYS-AS400"
+    },
+    {
+      "name": "SWC/UKG",
+      "type": "system",
+      "canonical_id": "SYS-SWC"
+    },
+    {
+      "name": "Hanah Ehrenreich",
+      "type": "person",
+      "canonical_id": "PERSON-EHRENREICH-COUNCIL"
+    },
+    {
+      "name": "Patrona Jones-Rowser",
+      "type": "person",
+      "canonical_id": "PERSON-JONES-ROWSER-COUNCIL"
+    },
+    {
+      "name": "Marino L. Nave",
+      "type": "person",
+      "canonical_id": "PERSON-NAVE-COUNCIL"
+    },
+    {
+      "name": "Donna Moore",
+      "type": "person",
+      "canonical_id": "PERSON-MOORE-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Finance Committee Chair",
+      "role": "Committee Chair",
+      "affiliation": "Syracuse Common Council"
+    },
+    {
+      "name": "Josh Syrson",
+      "role": "Project Manager, API Department",
+      "affiliation": "City of Syracuse"
+    },
+    {
+      "name": "Mike Smith",
+      "role": "Assistant Director of HR",
+      "affiliation": "City of Syracuse"
+    },
+    {
+      "name": "Donna Moore",
+      "role": "Council Member",
+      "affiliation": "Syracuse Common Council"
+    },
+    {
+      "name": "Hanah Ehrenreich",
+      "role": "Council Member",
+      "affiliation": "Syracuse Common Council"
+    },
+    {
+      "name": "Patrona Jones-Rowser",
+      "role": "Council Member At-Large",
+      "affiliation": "Syracuse Common Council"
+    },
+    {
+      "name": "Marino L. Nave",
+      "role": "Council Member",
+      "affiliation": "Syracuse Common Council"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "advocacy",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-PAYROLL-MODERNIZATION-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "HR, Fire, Finance, IT, API in detected_departments are all contextually relevant; API, HR, Finance are presenting departments",
+    "TeleStaff = public safety scheduling software being used for payroll (not its intended purpose)",
+    "'Secondary jobs' = AS400 term for contractual add-ons (uniform allowance, sick time buyback, over-the-cap bonus)",
+    "SURA = Syracuse Urban Renewal Agency (separate payroll cycle)",
+    "CFO first name 'Mike' mentioned but last name not stated in transcript",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 1 of 7 from Finance Committee Meeting, Tuesday, February 3, 2026"
+  ],
+  "last_relevance_update": null
+}

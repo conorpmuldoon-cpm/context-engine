@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-WEB-2026-00010",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-03-02-Mayors-Office-News-9-AM",
+  "publication_date": "2026-03-22",
+  "capture_date": "2026-03-22T10:10:34Z",
+  "title": "Water Department Reports 2nd Half 2025 Sampling Meet EPA Lead Standard",
+  "summary": "Syracuse Water Department reports successful EPA lead compliance for the third consecutive period (2H 2025), with 90th percentile lead levels at 12 ppb versus 15 ppb action level. Third-party sampling of 100 homes with lead service lines demonstrates ongoing corrosion control efforts and commitment to lead remediation through orthophosphate treatment and infrastructure replacement planning.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "lead-remediation",
+    "federal-programs",
+    "transparency",
+    "announcement",
+    "residents",
+    "recurring"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Robert Brandt",
+      "type": "person",
+      "canonical_id": "PERSON-ROBERT-BRANDT"
+    },
+    {
+      "name": "U.S. Environmental Protection Agency",
+      "type": "organization",
+      "canonical_id": "ORG-EPA"
+    },
+    {
+      "name": "Skaneateles Lake",
+      "type": "system",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Administration demonstrates sustained commitment to federal EPA compliance and public health standards through third-party validation and multi-year remediation strategy; supports public confidence in water safety.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Publication date discrepancy: metadata shows 2026-03-22 but article header shows 'Published on March 02, 2026'—URL also references 2026-03-02; used header date as authoritative",
+    "No budget amounts or capital project costs disclosed",
+    "Recurring compliance reporting; part of multi-year lead service line replacement initiative",
+    "CIO relevance: potential data governance and public information system integration opportunities for lead service line inventory and sampling logistics",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

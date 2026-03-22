@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-WEB-2026-00086",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/2024/2024-06-04-Infrastructure-News-1030-AM",
+  "publication_date": "2024-06-04",
+  "capture_date": "2026-03-22T14:24:24Z",
+  "title": "Water Crews Working to Repair Water Main Break on North Geddes Street",
+  "summary": "The City of Syracuse Department of Water is repairing a water main break on the 500 block of North Geddes Street. Vehicle traffic on North Geddes Street between West Genesee Street and West Belden Avenue will be closed until repairs are complete, with sidewalks remaining open and detours in place. Residents can contact the Department of Water at (315) 448-8360 for questions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "infrastructure",
+    "announcement",
+    "service-requests",
+    "road-closure-fees",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse Department of Water",
+      "type": "organization",
+      "canonical_id": "DEPT-WATER"
+    },
+    {
+      "name": "Office of Communications",
+      "type": "organization",
+      "canonical_id": "DEPT-COMMUNICATIONS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field listed as 'Unknown' in source metadata",
+    "Sharon F. Owens appears only in navigation/header context, not substantively in article content",
+    "Location specificity: 500 block of North Geddes Street, bounded by West Genesee Street to West Belden Avenue",
+    "Contact number provided suggests constituent-focused communication strategy",
+    "No budget, timeline, or cause of main break disclosed",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

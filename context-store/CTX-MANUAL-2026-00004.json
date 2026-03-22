@@ -1,0 +1,137 @@
+{
+  "record_id": "CTX-MANUAL-2026-00004",
+  "source_agent": "manual_input",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=QEfsEBcZQoE&t=1535s",
+  "publication_date": "2026-03-17",
+  "capture_date": "2026-03-21T00:00:00Z",
+  "title": "Comstock Construction: Fee Methodology, Safety Measures & Traffic Management",
+  "summary": "Detailed discussion of the fee calculation methodology — Engineering department staff explains the $2.6M estimate is based on curb-to-curb square footage (~30,000 sq ft at $500/200 per sq ft in 14-day periods). Council requests breakdown of all permits and fees per project. The university commits to full replacement of sidewalks, curbing, and road repaving upon completion. Discussion of construction safety measures: fencing, flag people, traffic detours to Walnut and Marshall Streets, and two new four-way stops on Ostrom Avenue added per Syracuse Police recommendation. Building permits for Waverly/Comstock estimated at ~$1M. City staff inspection costs and time investment also raised as a concern.",
+  "raw_content": "I fully comprehend that we don't want to make projects economically unfeasible, and we say that at the same time as we're entering budget negotiations at which point we have a $20 million projected deficit. We're talking about our fees as a whole across the city. When this design was done, when the fee structure was developed, a full road closure was not anticipated. There are other projects under construction including the hotel, including the Ostrom dormitory complex. It's a different situation when it is a full road closure. Since we've adopted the new fee schedule, this is the first project where it has involved a closure of the road. Can we put numbers to this? How much are we talking if it is a full two-year closure? We have done analysis. It is around 2.6 million in terms of curb to curb on Comstock for the portion that's being closed down. That 14 days is compounded. Why did you go curb to curb instead of sidewalk to sidewalk? Engineering department: the reason why it was 2.6 million was there's a work zone worksheet that the developer has to implement. Initially it was just the road. The question will be will they use more than the road, from right-of-way to right-of-way. So that's why we came up to be 2.6. This is the time to go back to that initial document and get it reviewed. The intent is we give it to the contractor first, the applicant. They fill it out and we rely on their information, how much they're going to occupy the right of way. We base the fee off of that. The enforcement comes in. If we stop by the site and we see it's from right-of-way to right-of-way, then the fee is going to increase. This project has a plus or minus 30,000 square feet scope at $500 per fee schedule, 200 per square feet, 52 assessed per 14-day periods. I'm getting $600,000 essentially for each 90-day construction period. So we have a $75 liability waiver fee, temporary removal of existing parking meters at $1,500 per meter. The road cut permit has not been issued. Do you expect dumpsters on the site? There are dumpsters on the site, not in the right-of-way. There is a trailer that is on the corner of Comstock and Waverly that would probably be encroaching in the right-of-way. We have equipment using the road, building a tower crane, there is a crane in the street. The university is committed to replacing sidewalks, the curb line, milling and repaving the road. Everything in the vicinities of these projects is going to be replaced as new. Everything but our lost property taxes. The building permit is about a million bucks for the two buildings. Are you getting what you need from the city in an expeditious manner? Through this project everyone from zoning to the engineering central permit office has been fantastic. We sat down at the very beginning with Jake and his folks and laid out a plan for how we could step through each of the different approvals necessary and it has all gone really well. We closed the sidewalks and the street, they are fenced in. We have flag people standing by at both entrance and exit as well as flag people anytime a construction vehicle leaves the construction site. We've detoured traffic to Walnut and up to Marshall. We've replaced sidewalks as well and improved various sidewalks that were damaged. CNS engineers produced a vehicular pedestrian traffic plan which was reviewed by city engineers office before being put into place. Two four-way stops were added up on Ostrom to accommodate the traffic coming up the hill.",
+  "transcript_ref": null,
+  "topic_tags": [
+    "roads-bridges",
+    "permitting",
+    "budget",
+    "code-enforcement",
+    "construction-staging",
+    "road-closure-fees"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Department of Permits and Development",
+    "Syracuse Police Department",
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Eric",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Miros",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Jake",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Hayner Hoyt Corporation",
+      "type": "organization",
+      "canonical_id": "ORG-HAYNER-HOYT"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIVERSITY"
+    },
+    {
+      "name": "CNS Engineers",
+      "type": "organization",
+      "canonical_id": "ORG-CNS-ENGINEERS"
+    },
+    {
+      "name": "Comstock Avenue",
+      "type": "location",
+      "canonical_id": null
+    },
+    {
+      "name": "Ostrom Avenue",
+      "type": "location",
+      "canonical_id": null
+    },
+    {
+      "name": "Walnut Avenue",
+      "type": "location",
+      "canonical_id": null
+    },
+    {
+      "name": "Marshall Street",
+      "type": "location",
+      "canonical_id": null
+    },
+    {
+      "name": "Central Permit Office",
+      "type": "process",
+      "canonical_id": null
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Dr. Chol Majok",
+      "role": "Committee Chair, Common Councilor At-Large",
+      "affiliation": "Syracuse Common Council"
+    },
+    {
+      "name": "Eric",
+      "role": "City Administration Representative",
+      "affiliation": "City of Syracuse"
+    },
+    {
+      "name": "Miros",
+      "role": "Engineering Department Staff",
+      "affiliation": "City of Syracuse Engineering"
+    },
+    {
+      "name": "Jeremy Thurston",
+      "role": "President",
+      "affiliation": "Hayner Hoyt Corporation"
+    },
+    {
+      "name": "Joel Fury",
+      "role": "Director of Campus Planning Design Construction",
+      "affiliation": "Syracuse University"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council continues detailed investigation into fee methodology and city cost recovery. Chair requests per-project fee breakdowns, staff cost analysis, and enforcement documentation. 'Everything but our lost property taxes' comment signals frustration with tax-exempt institutional development.",
+    "confidence": "high"
+  },
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-SU-COMSTOCK-CONSTRUCTION-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Auto-generated YouTube transcript — speaker names corrected via entity-registry.json where possible (verified from syr.gov 2026-03-21)",
+    "'Miros' appears to be Engineering department staff — name uncertain from auto-transcription, not in entity registry",
+    "'Jake' referenced as someone in the Central Permit Office — no last name given, not in entity registry",
+    "'Lost property taxes' comment references SU's tax-exempt status — a recurring political tension point",
+    "raw_content is an edited condensation of the full transcript — full timestamped version in outputs/",
+    "Segment 3 of 4 from Public Works Committee Meeting, March 17, 2026",
+    "2026-03-21: Cleaned stale provisional tag note ('construction-staging' promoted to taxonomy).",
+    "2026-03-21: Cleaned stale provisional tag note ('road-closure-fees' promoted to taxonomy).",
+    "2026-03-21: Cleaned stale provisional tag notes (road-closure-fees promoted to taxonomy)."
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,45 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00082",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=m56feIFbY6s&t=412s",
+  "publication_date": "2026-03-04",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "NYS DOT Transportation Alternatives Grant -- Westside Pedestrian and Bicycle Safety",
+  "summary": "DPW engineer Neil presents item 13: NYS DOT Transportation Alternatives grant application for pedestrian and bicycle safety improvements in the Westside/Skunk City area, leveraging existing SMTC studies. Council asks about RFP status and vendor selection; Neil confirms no RFPs yet and will return for bonding authorization. Council emphasizes early vendor selection planning.",
+  "raw_content": "[00:06:52] number 13 is\n[00:06:55] uh related to a grant opportunity with\n[00:06:57] New York State DOT. This is a\n[00:06:59] transportation alternatives grant. We've\n[00:07:01] been pretty successful with these over\n[00:07:02] the past few years and these\n[00:07:06] typically cover pedestrian and bicycle\n[00:07:08] safety improvements. Um we're working on\n[00:07:10] the application now, but we're here for\n[00:07:14] um your approval first before we do\n[00:07:16] anything.\n[00:07:18] >> Pedestrian. Okay. All right. Any\n[00:07:20] questions?\n[00:07:23] >> Thank you, Neil.\n[00:07:24] >> Thank you, Neil. Any more detail at a\n[00:07:26] granular level in terms of what you'd\n[00:07:28] want to do with this money? So for\n[00:07:30] these, we typically utilize studies that\n[00:07:33] have already happened from SMTC.\n[00:07:35] This area we're looking at near Westside\n[00:07:38] Skunk City. Uh there's some really great\n[00:07:42] studies that have come out in the past\n[00:07:43] few years from our friends at the MO. So\n[00:07:46] we're going to repackage that and use\n[00:07:47] it. Um as we get further along, we'll be\n[00:07:51] back for authorization as it relates to\n[00:07:53] any bonding or anything like that\n[00:07:55] >> agreement. Yep. Right.\n[00:07:56] >> Okay. Thank you.\n[00:07:57] >> Yep. Thank you.\n[00:07:58] >> No.\n[00:07:59] By then, we should be able to have rooms\n[00:08:01] to maybe be specific as to what we want\n[00:08:05] to engage this money on, right?\n[00:08:07] >> Yes.\n[00:08:07] >> Okay.\n[00:08:08] >> Any RFPs that we should know about?\n[00:08:10] >> RFPs? None yet. Um\n[00:08:12] >> Okay.\n[00:08:13] >> Any specific here?\n[00:08:15] >> Feel free to reach out. Always.\n[00:08:17] >> Just wanted to make sure that if we were\n[00:08:19] writing a grant that involved vendor\n[00:08:20] selection that we have that done now\n[00:08:22] versus later on.\n[00:08:24] >> Yeah. So, we're not there yet, but of\n[00:08:26] course, we'll obviously come to you guys\n[00:08:28] for approval.\n[00:08:30] >> Thank you, Neil.",
+  "transcript_ref": "outputs/transcripts/m56feIFbY6s_corrected.txt",
+  "topic_tags": [
+    "roads-bridges",
+    "grants",
+    "intergovernmental",
+    "vision-zero"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [],
+  "speakers": [
+    {
+      "name": "Neil",
+      "role": "DPW Engineer",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "SMTC = Syracuse Metropolitan Transportation Council. No dollar amounts specified yet. Westside/Skunk City area targeted for pedestrian/bicycle improvements.",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 3 of 14 from Common Council Study Session, Wednesday March 4th 2026",
+    "Transcript corrections applied: SU -> Syracuse University"
+  ],
+  "last_relevance_update": null
+}

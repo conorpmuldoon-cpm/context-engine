@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-WEB-2026-00116",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-08-14-Traffic-News-3PM",
+  "publication_date": "2023-08-14",
+  "capture_date": "2026-03-22T14:30:21Z",
+  "title": "Street Closing Information for 2023 Mary Nelson's Youth Day",
+  "summary": "The City of Syracuse announced street closures around Sankofa Park on August 19, 2023, for Mary Nelson's Youth Day and Annual School Supply Giveaway event. Three streets (S. Salina Street, E. Colvin Street, and Wood Ave) will be closed from 8 a.m. to 6-7 p.m. to facilitate the community event.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "road-closure-fees",
+    "parks",
+    "transportation",
+    "recurring"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Mary Nelson",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Sankofa Park",
+      "type": "organization",
+      "canonical_id": "PARK-SANKOFA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Publication date (August 15, 2023) precedes event date (August 19, 2023) by 4 days—standard notice window",
+    "Author listed as Unknown; article sourced from official City of Syracuse Traffic & Infrastructure news channel",
+    "URL date stamp (2023-08-14) conflicts with stated publication date (August 15, 2023)—minor data quality variance",
+    "Event appears to be recurring annual initiative; tagged as 'recurring' for potential historical tracking",
+    "No budget, procurement, or policy implications detected; purely informational public notice",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

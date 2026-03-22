@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-WEB-2026-00092",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/2024/2024-03-21-Infrastructure-News-1-PM",
+  "publication_date": "2024-03-21",
+  "capture_date": "2026-03-22T14:25:31Z",
+  "title": "City of Syracuse Announces Water Department Public Meeting on April 4",
+  "summary": "Syracuse Water Department will host a public information meeting on April 4, 2024 at Nottingham High School to inform residents about the Brookford Pump Station project. The project will replace water mains and lead-containing service lines at no cost to property owners in the Meadowbrook neighborhood, affecting approximately 750 homes across multiple streets.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "infrastructure",
+    "lead-remediation",
+    "announcement",
+    "residents",
+    "recurring"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Nottingham High School",
+      "type": "organization",
+      "canonical_id": "ORG-NOTTINGHAM-HS"
+    },
+    {
+      "name": "Office of Communications",
+      "type": "organization",
+      "canonical_id": "ORG-COMMUNICATIONS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Public infrastructure investment in water quality and lead remediation reflects alignment with public health and environmental equity priorities. Community engagement meeting demonstrates transparency and constituent outreach.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in source metadata",
+    "Sharon F. Owens mentioned as Mayor in header navigation but not in article body",
+    "Mechanical extraction incorrectly flagged 'Syracuse Fire Department' - article references fire protection as benefit of project, not department involvement",
+    "No dollar amounts provided in release",
+    "Meeting is recurring program element (long-term infrastructure plan referenced)",
+    "Lead remediation at no cost to residents is key constituent benefit worth flagging for CIO infrastructure planning context",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

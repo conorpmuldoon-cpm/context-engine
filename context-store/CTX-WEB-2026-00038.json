@@ -1,0 +1,77 @@
+{
+  "record_id": "CTX-WEB-2026-00038",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2025/2025-10-02-City-News-130PM",
+  "publication_date": "2025-10-02",
+  "capture_date": "2026-03-22T14:15:05Z",
+  "title": "City of Syracuse Shares School Zone Traffic Safety Warning Data",
+  "summary": "Syracuse launched a red light and speed camera enforcement program in school zones, recording over 60,000 warnings in the first two weeks (59,950 speeding, 430 red light violations). The city is implementing a 60-day warning period before full enforcement begins November 2, with fines of $50 per violation plus $25 late penalties. This initiative aligns with the city's Vision Zero traffic safety commitment to protect students.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "vision-zero",
+    "initiative-launch",
+    "transportation",
+    "public-safety-commission",
+    "crime-data",
+    "policy-change",
+    "announcement",
+    "data-governance",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Syracuse City School District"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Mayor Walsh",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Superintendent Davis",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Chief Joe Cecile",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Strong mayoral championship of automated traffic enforcement as core Vision Zero safety strategy; frames speeding as epidemic requiring behavioral change through warnings before penalties.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field marked 'Unknown' in source; Mayor name discrepancy (Sharon F. Owens in header, Mayor Walsh in content body) — requires canonical verification",
+    "School Bus Stop-Arm Camera Program (active since April 2025) mentioned as complementary enforcement component with 1,200 violations to date",
+    "Data represents warning period only; full enforcement and citation metrics will be available after November 2, 2025",
+    "New provisional tag consideration: PROVISIONAL:automated-enforcement or PROVISIONAL:school-safety",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00006",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=-26j2mt6jMU&t=1460s",
+  "publication_date": "2026-01-21",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Appraisal Authorization for 725 Harrison Street (Former Washington Irving School)",
+  "summary": "Department of Assessment requests authorization to hire appraiser for 725 Harrison Street, the former Washington Irving School used as school district administrative offices. Building approaching its 100th birthday. Property was part of a 6-parcel RFP package issued approximately two years ago (3 for relocation, 3 for disposition); no transactions closed yet. Johnson Center relocated but redevelopment continues. Council members emphasize the building's historical significance as one of the last 15 historic school buildings in Syracuse.",
+  "raw_content": "[00:24:20] on item 43 tomorrow. So, we're just\n[00:24:21] going to hold off on 26 for now. So, we\n[00:24:24] we we'll come back to that one.\n[00:24:26] >> Understood. Thank you, counselor. Uh\n[00:24:27] [clears throat] 27. The Department of\n[00:24:29] Assessment is uh requesting uh to hire\n[00:24:32] an appraiser for the property at 725\n[00:24:34] Harrison Street.\n[00:24:36] Uh, this is the school district office\n[00:24:38] building.\n[00:24:40] >> Thank you. And, uh,\n[00:24:42] >> you know, the last time we had an\n[00:24:42] appraisal on that building?\n[00:24:44] >> I'm sorry. Say it again.\n[00:24:44] >> You know the last time we had an\n[00:24:45] appraisal on that building?\n[00:24:46] >> Uh, I don't. Commissioner OJ, do you\n[00:24:48] remember?\n[00:24:50] >> Thank you.\n[00:24:51] >> That's central offices, right?\n[00:24:52] >> Matt OJ, commissioner assessment. Yeah.\n[00:24:54] 2000.\n[00:24:54] >> 2000.\n[00:24:56] >> So,\n[00:25:01] >> oh, Matt, come back. Come back, my\n[00:25:03] friend. Um\n[00:25:06] this one is for the actual\n[00:25:09] where the um actual school building.\n[00:25:11] >> Yeah. Former Washington Irving.\n[00:25:12] >> These are administrative offices.\n[00:25:14] >> Yes.\n[00:25:14] >> So I'm going [snorts] to fully disclose\n[00:25:16] this. I said it last administration.\n[00:25:18] I've told the school district this is\n[00:25:21] historical and a whole like the last\n[00:25:24] piece of the 15 historical building\n[00:25:27] school and everything. And so whatever\n[00:25:29] we do, um I know we have a lot of people\n[00:25:31] that are interested, one big nice one.\n[00:25:34] Um keeping certain things intact or\n[00:25:38] keeping something is going to be\n[00:25:40] important. So\n[00:25:41] >> certainly. Yeah. And this is um if not a\n[00:25:43] prelim preliminary step, at least an\n[00:25:45] early step. I know the the the building\n[00:25:47] celebrating its 100th birthday next\n[00:25:48] year. Um and I think there's a lot of\n[00:25:51] sensitivity uh regarding the historic\n[00:25:53] fabric down there.\n[00:25:55] >> Is there a plan for this really? Is\n[00:25:57] there a plan for the building?\n[00:25:59] >> I think the plans are a little\n[00:26:00] conceptual. You know, we RFPD this\n[00:26:02] property almost two years ago. Um had a\n[00:26:05] handful of responses. Um RFP committee\n[00:26:09] uh will be convened um among this group.\n[00:26:13] Uh and we just really want to establish\n[00:26:16] that data point of value as early as\n[00:26:19] possible to make sure that that um that\n[00:26:21] informs whatever discussions we take\n[00:26:22] from here.\n[00:26:24] >> And the RFP involved several buildings.\n[00:26:29] Correct.\n[00:26:29] >> Yeah, we put out a um I think there were\n[00:26:32] six RFPs in the package. Three for\n[00:26:34] relocation space for each of the subject\n[00:26:36] properties. Three for disposition or\n[00:26:37] redevelopment of the subject properties.\n[00:26:41] >> Have we moved any of those as far as the\n[00:26:45] >> haven't closed haven't\n[00:26:48] closed any transactions? Um uh you know\n[00:26:51] in the case of the Johnson Center school\n[00:26:53] district did relocate operations there.\n[00:26:55] We've been using it um for a\n[00:26:57] [clears throat] couple internal\n[00:26:58] operations for the last few months.\n[00:27:00] Continue to explore redevelopment there,\n[00:27:02] but no no uh no disposition yet.\n[00:27:08] >> Thanks all.\n[00:27:10] >> Thanks, ma'am.\n[00:27:11] >> Thank you.",
+  "transcript_ref": "outputs/transcripts/-26j2mt6jMU_corrected.txt",
+  "topic_tags": [
+    "land-use",
+    "historic-preservation",
+    "capital-planning",
+    "neighborhood-services",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Assessment"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse City School District",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Michael Layman",
+      "role": "Deputy Commissioner of Assessment",
+      "affiliation": "City of Syracuse"
+    },
+    {
+      "name": "Matt OJ",
+      "role": "Commissioner of Assessment",
+      "affiliation": "City of Syracuse"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council questions RFP disposition progress and emphasizes historic preservation requirements for centenarian school building",
+    "confidence": "medium"
+  },
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "detected_departments flagged Permits and Development but presenting department is Assessment",
+    "Last appraisal was in 2000 — 26 years ago",
+    "Full disclosure from council member about historical preservation advocacy across administrations",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 11 of 19 from Common Council Study Session, January 21st 2026"
+  ],
+  "last_relevance_update": null
+}

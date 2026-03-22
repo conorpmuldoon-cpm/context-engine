@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-WEB-2026-00041",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-08-20-Traffic-News-230-PM",
+  "publication_date": "2025-08-20",
+  "capture_date": "2026-03-22T14:15:39Z",
+  "title": "Traffic Advisory Citrus in the City",
+  "summary": "Syracuse University's 'Citrus in the City' freshman orientation event on August 23-24, 2025 will require street closures and traffic modifications in downtown Clinton Square. Erie Boulevard West and S. Clinton Street will be fully closed from 8am Saturday through early Sunday morning, with West Water Street converted to temporary two-way traffic and parking restrictions in effect.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "roads-bridges",
+    "transportation",
+    "construction-staging",
+    "announcement",
+    "recurring"
+  ],
+  "department_refs": [
+    "Department of Traffic & Infrastructure",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "This is a routine annual event traffic advisory with no budget or policy implications for CIO office",
+    "Author listed as 'Unknown' - typical for municipal traffic advisories",
+    "No infrastructure systems or digital services affected; primarily street management",
+    "Event is recurring (annual freshman orientation)",
+    "Clinton Square location is downtown civic hub with potential smart city/traffic management system implications, but not mentioned in release",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

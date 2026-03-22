@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00018",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=-ZsKhcHXTd4&t=1563s",
+  "publication_date": "2026-01-07",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "WellNow AkMed Fire Physician Contract Extension for Physicals and Medical Program",
+  "summary": "Extension of existing contract with WellNow AkMed as fire department physician providing workplace safety assessments, annual physicals, and respirator exams. Essential mandatory program for fire department operational readiness per NFPA standards. No council questions raised.",
+  "raw_content": "[00:26:03] >> Okay. Yep. Item 20 um is to go into an\n[00:26:05] agreement with Wellno Akmed. Um there's\n[00:26:08] some standards that make sure that our\n[00:26:10] fire department has a fire physician and\n[00:26:12] uh well now is our fire physician. So\n[00:26:15] they make sure we um are able to do um\n[00:26:20] all our workplace safety, our physicals,\n[00:26:22] all of our respirator exams. Um they h\n[00:26:25] they handle all of our um beh um all of\n[00:26:27] our medical program for a fire\n[00:26:30] department. It's an essential mandatory\n[00:26:31] program. So we already having a contract\n[00:26:34] with them. This is just to extend the\n[00:26:35] contract underneath the underneath the\n[00:26:37] agreement we already have in place.\n[00:26:40] Does anybody have any questions with\n[00:26:41] that?\n[00:26:43] Okay. Thank you.\n[00:26:46] >> Done.",
+  "transcript_ref": "outputs/transcripts/-ZsKhcHXTd4_corrected.txt",
+  "topic_tags": [
+    "fire",
+    "benefits",
+    "procurement",
+    "council"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "WellNow AkMed",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Donna Moore",
+      "type": "person",
+      "canonical_id": "PERSON-MOORE-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Donna Moore",
+      "role": "Council Member",
+      "affiliation": "Syracuse Common Council"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Fire Chief presenting but not identified by name",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 9 of 19 from Common Council Study Session, Wednesday, January 7th 2026",
+    "Potential duplicate detected: overlaps with CTX-COUNCIL-2026-00016 -- linked, not skipped"
+  ],
+  "last_relevance_update": null
+}

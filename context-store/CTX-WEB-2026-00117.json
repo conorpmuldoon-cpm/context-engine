@@ -1,0 +1,69 @@
+{
+  "record_id": "CTX-WEB-2026-00117",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-07-26-Traffic-News-4PM",
+  "publication_date": "2023-07-26",
+  "capture_date": "2026-03-22T14:30:36Z",
+  "title": "Street Closing Information for 2023 Arts Week Downtown",
+  "summary": "Downtown Syracuse will implement street closures July 27-30, 2023 for two major events: the Northeast Jazz & Wine Festival at Clinton Square and the 52nd Annual Syracuse Arts & Crafts Festival at Columbus Circle. Multiple street segments will be fully or partially closed during these dates to accommodate event setup and operations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "transportation",
+    "roads-bridges",
+    "road-closure-fees",
+    "parks",
+    "economic-development",
+    "business-community"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs",
+    "Department of Transportation and Infrastructure"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Northeast Jazz & Wine Festival",
+      "type": "organization",
+      "canonical_id": "ORG-NEJAZZ"
+    },
+    {
+      "name": "AmeriCu Arts & Crafts Festival",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Downtown Syracuse",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "City prioritizes cultural events and downtown activation through infrastructure coordination; Arts Week represents economic development and community engagement investment.",
+    "confidence": "medium"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Date discrepancy: title says '2023 Arts Week' but URL path includes '2024'; publication date is 2023-07-26 and events are 2023-07-28-30, confirming 2023 is correct",
+    "Author listed as 'Unknown'; likely authored by Communications or Transportation Department",
+    "No direct CIO/digital systems implications detected, but event coordination may involve permitting systems, GIS mapping, and public communications platforms",
+    "External links provided (nejazzwinefest.org, downtownsyracuse.com) indicate multi-stakeholder event management",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

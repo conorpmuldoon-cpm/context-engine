@@ -1,0 +1,69 @@
+{
+  "record_id": "CTX-WEB-2026-00042",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-07-10-Infrastructure-News-8-AM",
+  "publication_date": "2025-07-10",
+  "capture_date": "2026-03-22T14:15:52Z",
+  "title": "Water Department Reports 1st Half 2025 Sampling Meet EPA Lead Standard",
+  "summary": "Syracuse Water Department reports that first-half 2025 tap water sampling from 121 homes with lead service lines meets EPA standards at 9 ppb (action level: 15 ppb), and already complies with EPA's stricter 2027 requirement of 10 ppb. Testing was conducted by third-party contractor 120Water with samples analyzed by independent laboratory, validated by state and county regulators. The results demonstrate effectiveness of the city's orthophosphate corrosion control treatment program.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "lead-remediation",
+    "transparency",
+    "state-mandates",
+    "federal-programs",
+    "infrastructure",
+    "announcement",
+    "resolved"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Robert Brandt",
+      "type": "person",
+      "canonical_id": "PERSON-ROBERT-BRANDT"
+    },
+    {
+      "name": "120Water",
+      "type": "organization",
+      "canonical_id": "ORG-120WATER"
+    },
+    {
+      "name": "Skaneateles Lake",
+      "type": "system",
+      "canonical_id": "SYS-SKANEATELES-LAKE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "City demonstrates proactive compliance with federal EPA drinking water standards and positions ahead of 2027 requirement; signals operational competency and public health commitment",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown; press contact provided as Office of Communications",
+    "No budget or procurement dollar amounts mentioned despite contractor engagement",
+    "Data quality note: sampling methodology improved year-over-year per commissioner statement",
+    "Potential CIO relevance: water system data management, third-party contractor systems (120Water), lab data integration, state/county regulatory reporting systems",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

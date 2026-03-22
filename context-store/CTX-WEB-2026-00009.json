@@ -1,0 +1,89 @@
+{
+  "record_id": "CTX-WEB-2026-00009",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-03-05-Mayors-Office-News-1030AM",
+  "publication_date": "2026-03-22",
+  "capture_date": "2026-03-22T10:10:21Z",
+  "title": "Mayor Owens Launches Syracuse Community Solar",
+  "summary": "Mayor Owens launched Syracuse Community Solar, a program enabling residents and businesses to access clean energy credits from local solar farms with guaranteed bill savings (10-20% depending on income qualification) without installing panels. The initiative partners with EnergySmart CNY and Solar Simplified, emphasizing climate leadership paired with affordability and equity access for renters, homeowners, and businesses across all income levels.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "initiative-launch",
+    "economic-development",
+    "equity",
+    "residents",
+    "mayor",
+    "grants",
+    "intergovernmental",
+    "procurement",
+    "policy-change"
+  ],
+  "department_refs": [
+    "Mayor's Office",
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-OWENS-SHARON"
+    },
+    {
+      "name": "National Grid",
+      "type": "organization",
+      "canonical_id": "ORG-NATIONALGRID"
+    },
+    {
+      "name": "EnergySmart CNY",
+      "type": "organization",
+      "canonical_id": "ORG-ENERGYSMART-CNY"
+    },
+    {
+      "name": "Solar Simplified",
+      "type": "organization",
+      "canonical_id": "ORG-SOLAR-SIMPLIFIED"
+    },
+    {
+      "name": "Central New York Regional Planning and Development Board",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Lindsay Speer",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Aviv Shalgi",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor prioritizes climate leadership integrated with affordability and equity, addressing barriers for historically underserved populations through regional partnerships and phased community engagement.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "URL date discrepancy: Title shows 2026-03-22 but content published date shows 2026-03-05; used published date as authoritative",
+    "Author listed as Unknown; verify originating department",
+    "Content truncated at CEO quote; full article may contain additional stakeholder information",
+    "No budget/dollar amounts specified in announcement; verify procurement process documentation for contract value",
+    "Sustainable Syracuse Initiative referenced but not detailed; recommend linking to parent initiative documentation",
+    "Regional procurement process noted; verify Central NY Regional Planning Board involvement as state agency coordination point",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

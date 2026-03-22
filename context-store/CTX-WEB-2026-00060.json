@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-WEB-2026-00060",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-01-04-Infrastructure-News-440PM",
+  "publication_date": "2025-01-04",
+  "capture_date": "2026-03-22T14:19:26Z",
+  "title": "City of Syracuse Announces Delays in Trash and Recycling Collection",
+  "summary": "The City of Syracuse Department of Public Works announced delays in trash and recycling collection services for Friday, January 4, 2025, due to recent snow events. Residents are advised to keep carts out and expect Sunday pickup for remaining households, with updates to be posted on @SYRCityline social media channels.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "snow-removal",
+    "service-requests",
+    "residents",
+    "announcement",
+    "infrastructure",
+    "one-time",
+    "recurring"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "SYRCityline",
+      "type": "system",
+      "canonical_id": "SYS-SYRACITYLINE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown; appears to be official DPW/Office of Communications release",
+    "Press release is service notification rather than policy or operational change announcement",
+    "Mayor Owens mentioned only in navigation context, not substantive content",
+    "No budget, contract, or staffing implications detected",
+    "Weather event (snow) is external trigger, not internal operations issue",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

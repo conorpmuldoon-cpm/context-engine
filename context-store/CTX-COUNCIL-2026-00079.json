@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00079",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=JXzWDmOubsQ&t=1791s",
+  "publication_date": "2026-02-09",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "UKG Pro Contract — Expiration Corrected to August 2027",
+  "summary": "Corey J. Williams confirms items 40-43 are ready, noting item 40 (Mosaic Consulting Group UKG Pro implementation contract) involves no new money — funding comes from a previous budget line. The contract expiration date is corrected from March 2027 to August 2027.",
+  "raw_content": "[00:29:51] Williams has items 40 through 43 and\n[00:29:54] those are also already.\n[00:29:57] I want to make sure that we're noting\n[00:29:59] that item number 40. Uh the one change\n[00:30:01] to that is that the this is just going\n[00:30:04] to be the contract with no new money.\n[00:30:05] It's money coming from a previous budget\n[00:30:08] line from last year, not new cash.\n[00:30:11] >> Expiration date has changed.\n[00:30:14] >> Expiring March 27th.\n[00:30:15] >> Um August, right, Brian?\n[00:30:17] >> August. So the short title is wrong. So\n[00:30:19] it's supposed to be August. Okay.\n[00:30:20] >> August.\n[00:30:23] >> Okay, that's it.\n[00:30:23] >> Are you all set?\n[00:30:24] >> Yep.\n[00:30:25] >> All right. Who's taking council?\n[00:30:27] >> I'll take it. Thank you. Madam\n[00:30:29] President, I have councelor Joe Rouser.",
+  "transcript_ref": "outputs/transcripts/JXzWDmOubsQ_corrected.txt",
+  "topic_tags": [
+    "payroll",
+    "software-systems",
+    "procurement",
+    "council",
+    "vote"
+  ],
+  "department_refs": [
+    "Department of Human Resources"
+  ],
+  "entity_refs": [
+    {
+      "name": "Corey J. Williams",
+      "type": "person",
+      "canonical_id": "PERSON-WILLIAMS-COUNCIL"
+    },
+    {
+      "name": "Rita Paniagua",
+      "type": "person",
+      "canonical_id": "PERSON-PANIAGUA-COUNCIL"
+    },
+    {
+      "name": "SWC/UKG",
+      "type": "system",
+      "canonical_id": "SYS-SWC"
+    },
+    {
+      "name": "Mosaic Consulting Group",
+      "type": "organization",
+      "canonical_id": "ORG-MOSAIC"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Corey J. Williams",
+      "role": "Common Councilor, District 3",
+      "confidence": "high"
+    },
+    {
+      "name": "Rita Paniagua",
+      "role": "Council President",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-PAYROLL-MODERNIZATION-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Brian mentioned re: expiration correction — likely budget or finance staff, not fully identified",
+    "Mosaic Consulting Group not in entity registry",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 7 of 9 from Common Council Study Session, Monday, February 9th, 2026",
+    "Transcript corrections applied: national grid -> National Grid"
+  ],
+  "last_relevance_update": null
+}

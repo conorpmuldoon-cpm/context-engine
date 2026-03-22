@@ -1,0 +1,50 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00071",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=i9Nn-8_gM4I&t=4873s",
+  "publication_date": "2026-03-18",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Water Department Employee Lease Renewal -- 20 West Genesee Street",
+  "summary": "Michael Layman (Assessment Department) presents item 43, a two-year lease renewal for a water department employee at 20 West Genesee Street with a 5% rate increase.",
+  "raw_content": "[01:21:13] >> Um item 43.\n[01:21:18] >> Good afternoon, counselors. Michael\n[01:21:20] Layman with the assessments department.\n[01:21:21] Uh item 43 is we're asking for a renewal\n[01:21:24] of a lease uh with a water department\n[01:21:27] employee at the um apartment currently\n[01:21:30] rented in uh at 20 West Jese Street.\n[01:21:33] It's a two-year renewal.\n[01:21:37] >> The rate will go up by 5%. Yes.\n[01:21:41] >> Well set.\n[01:21:42] >> Yep.\n[01:21:42] >> All right. Thank you.\n[01:21:44] >> Thank you. I also have",
+  "transcript_ref": "outputs/transcripts/i9Nn-8_gM4I_corrected.txt",
+  "topic_tags": [
+    "water",
+    "facilities"
+  ],
+  "department_refs": [
+    "Department of Water",
+    "Department of Assessment"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael Layman",
+      "type": "person",
+      "canonical_id": "PERSON-LAYMAN-ASSESSMENT"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Michael Layman",
+      "role": "Deputy Commissioner, Assessment",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Brief procedural lease renewal approval.",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 19 of 23 from Common Council Study Session, Wednesday March 18th 2026",
+    "Transcript corrections applied: CNS -> CNS Engineers; SU -> Syracuse University"
+  ],
+  "last_relevance_update": null
+}

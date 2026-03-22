@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00108",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=oUKVthl47R8&t=377s",
+  "publication_date": "2026-01-26",
+  "capture_date": "2026-03-21T23:23:19Z",
+  "title": "Veo Micromobility Contract Continued Hold and Transportation Committee Scheduling",
+  "summary": "Item 17 (Veo micromobility contract) continues to be held. Public hearing scheduled for February 4th at 10:00 AM via Public Transportation Committee meeting.",
+  "raw_content": "[00:06:17] >> Thank you, Madam President. I have item\n[00:06:19] 17 which will I will continue to hold.\n[00:06:23] Thank you.\n[00:06:24] >> Hold. Okay.\n[00:06:27] Thank you. Uh, councelor Moore and\n[00:06:31] Monto, I'm sorry.\n[00:06:32] >> Nav, did you also say that we have a\n[00:06:34] meeting on this on the 4th?\n[00:06:36] >> Fourth. Fourth, right?\n[00:06:37] >> Yeah. We'll have a public hearing\n[00:06:39] February 4th at 10:00 a.m.\n[00:06:41] Transportation Committ Committee\n[00:06:42] meeting. Yes.\n[00:06:43] >> Yes. Okay. Okay. Thank you.\n[00:06:46] >> Okay. Um, councelor\n[00:06:49] and Monto. Councelor Montto.\n[00:06:51] >> Thank you, President Piaga. Uh, I have",
+  "transcript_ref": "outputs/transcripts/oUKVthl47R8_corrected.txt",
+  "topic_tags": [
+    "procurement",
+    "council"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Marino L. Nave",
+      "type": "person",
+      "canonical_id": "PERSON-NAVE-COUNCIL"
+    },
+    {
+      "name": "Veo",
+      "type": "organization",
+      "canonical_id": "ORG-VEO"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Marino L. Nave",
+      "role": "Common Councilor, District 1",
+      "affiliation": "Syracuse Common Council"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-VEO-MICROMOBILITY-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Brief hold announcement; substantive Veo discussion occurs at Feb 4 committee meeting (2-KxwtW_lk8)",
+    "Nave is Public Transportation Committee chair",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 4 of 11 from Common Council Study Session, January 26th 2026"
+  ],
+  "last_relevance_update": null
+}

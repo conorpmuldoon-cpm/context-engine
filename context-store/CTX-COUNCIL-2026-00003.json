@@ -1,0 +1,79 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00003",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=-26j2mt6jMU&t=437s",
+  "publication_date": "2026-01-21",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "OCRRA Battery Recycling Site Expansion and Park Memorial Donations",
+  "summary": "Parks Commissioner presents OCRRA battery recycling program expanding to four community center sites (Southwest, Northeast, Cecil, Magnarelli). Council acknowledges responsiveness to site concerns. Four park donations accepted: $2,000 from Eastwood Neighborhood Association for Cummings Field bench, $1,054 from Syracuse Inner Rotary Club for Kirk Park bench and memorial plaque honoring Al Turner, two $100 TNT donations for Franklin Square plaques honoring Ben Wash and TNT community contributions.",
+  "raw_content": "[00:07:17] programs. Um item 12 is um a agreement\n[00:07:22] with the Anadaga County Resource\n[00:07:23] Recovery Agency, also known as Okra, to\n[00:07:26] support the battery recycling program.\n[00:07:29] Um we did um pick additional sites. So\n[00:07:34] we got permission from Southwest\n[00:07:36] Community Center and Northeast Community\n[00:07:37] Center. So they'll go at the four\n[00:07:39] centers with senior sites or larger\n[00:07:42] community programming. So, Southwest\n[00:07:45] Northeast Cecil and um M Magnarelli,\n[00:07:49] >> I want to thank you um you know for\n[00:07:52] Chris and yourself um looking at other\n[00:07:56] sites and um accommodating you know our\n[00:07:59] concerns. Um I I absolutely appreciate\n[00:08:02] that.\n[00:08:03] >> Thank you.\n[00:08:04] >> Thank you.\n[00:08:04] >> Thank you.\n[00:08:06] >> Um number 13. These all are this is\n[00:08:08] >> Can I say something?\n[00:08:09] >> Yes.\n[00:08:10] >> Thank you. But I just want to throw a\n[00:08:11] little plug out there to Ochre. I'm not\n[00:08:12] I'm looking at you, but I'm talking them\n[00:08:14] back there. Next new grant they write,\n[00:08:16] they're going to write the city in and\n[00:08:17] they going to get some money for us too\n[00:08:19] for the staff, right? Y [laughter]\n[00:08:23] >> thank you. Thank you.\n[00:08:25] >> Um number 13, it's uh accept to accept\n[00:08:29] um from Eastwood Neighborhood\n[00:08:31] Association a monetary donation of\n[00:08:34] $2,000 to install a new bench at\n[00:08:36] Cummings Field.\n[00:08:39] Okay. 14 is to accept from Syracuse in a\n[00:08:42] Rotary Club um a monetary donation of\n[00:08:46] $1,054\n[00:08:48] to purchase and install a new bench and\n[00:08:50] memorial plaque at Kirk Park in honor of\n[00:08:53] Al Turner\n[00:08:55] >> 15. Can can I say can I say a little bit\n[00:08:58] about that? [clears throat] For those of\n[00:09:00] us that were\n[00:09:02] fortunate to know El Turner, what a\n[00:09:05] great individual. What a great and and\n[00:09:07] and for me it's a little bit different\n[00:09:08] because\n[00:09:10] um\n[00:09:12] Al used to to volunteer for on point for\n[00:09:14] college. He he used to be the driver and\n[00:09:18] for some of us that didn't have rides to\n[00:09:21] go to places, you know, we lean on him a\n[00:09:23] lot to take us to colleges. I even\n[00:09:26] personally when I became a United States\n[00:09:29] citizen, he took drove me to Buffalo to\n[00:09:32] so I can take my citizenship and I slap\n[00:09:35] hell of the way but he drove us there.\n[00:09:37] Um and so I'm just grateful that we are\n[00:09:40] doing something like this for him. What\n[00:09:42] a tremendous tremendous individual.\n[00:09:44] >> Counselor, I appreciate you telling a\n[00:09:46] personal story about someone that is has\n[00:09:49] been a driver in this community. So\n[00:09:51] thank you.\n[00:09:53] Sometimes we honor folks and aren't able\n[00:09:55] to tell those stories. So\n[00:09:58] 15 is to accept from um TNT a monetary\n[00:10:02] donation in the amount of $100 to\n[00:10:05] purchase um a plaque for a bench in\n[00:10:07] Franklin Square to honor um Ben Wash.\n[00:10:13] And then 16 is to accept from tomorrow's\n[00:10:16] neighborhood today a $100 again um for a\n[00:10:20] plaque in Franklin Square to honor TNT\n[00:10:23] for their contributions and funding on\n[00:10:26] special projects.\n[00:10:28] So\n[00:10:30] >> any questions?\n[00:10:33] >> Okay.\n[00:10:33] >> All right. Thank you very much,\n[00:10:34] Commissioner.\n[00:10:36] >> Uh thank you, Councelor Nav.\n[00:10:41] Thank you, Madam President.",
+  "transcript_ref": "outputs/transcripts/-26j2mt6jMU_corrected.txt",
+  "topic_tags": [
+    "parks",
+    "grants",
+    "neighborhood-services",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Dr. Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-MAJOK-COUNCIL"
+    },
+    {
+      "name": "Onondaga County Resource Recovery Agency",
+      "type": "organization",
+      "canonical_id": "ORG-OCRRA"
+    },
+    {
+      "name": "Eastwood Neighborhood Association",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Syracuse Inner Rotary Club",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Tomorrow's Neighborhood Today",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Sisha Bird",
+      "role": "Commissioner of Parks, Recreation and Youth Programs",
+      "affiliation": "City of Syracuse"
+    },
+    {
+      "name": "Dr. Chol Majok",
+      "role": "Common Councilor At-Large",
+      "affiliation": "Syracuse Common Council"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-OCRRA-BATTERY-RECYCLING-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Dr. Chol Majok shares personal tribute to Al Turner — On Point for College volunteer who drove him to Buffalo for citizenship ceremony",
+    "TNT = Tomorrow's Neighborhood Today",
+    "OCRRA battery kiosk placement connects to Jan 12 study session discussion (xjf9vWa6BjQ)",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 5 of 19 from Common Council Study Session, January 21st 2026"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,53 @@
+{
+  "record_id": "CTX-WEB-2026-00063",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-12-27-Infrastructure-News-1125AM",
+  "publication_date": "2024-12-27",
+  "capture_date": "2026-03-22T14:20:01Z",
+  "title": "City of Syracuse to Collect Christmas Trees in January",
+  "summary": "The City of Syracuse Department of Public Works will conduct curbside collection of natural Christmas trees throughout January 2025 using a quadrant-based pickup schedule (Northeast Jan. 4-5, Southeast Jan. 11-12, Southwest Jan. 18-19, Northwest Jan. 25-26). Residents must remove all decorations and non-organic materials; artificial trees should be disposed of via regular trash service or bulk pickup. Alternative drop-off locations are available at OCRRA compost sites.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "recurring",
+    "residents",
+    "sustainability",
+    "snow-removal"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Onondaga County Resource Recovery Agency",
+      "type": "organization",
+      "canonical_id": "ORG-OCRRA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in source metadata",
+    "Press release is procedural/operational in nature with no policy or budget implications",
+    "Mayor Owens mentioned only in navigation menu, not in substantive content",
+    "Contact info provided: press@syr.gov for media inquiries; Cityline at 315-448-CITY(2489)",
+    "Related online resource: syr.gov/PublicWorks for 2025 City Services Guide",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

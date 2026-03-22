@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-WEB-2026-00050",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2025/2025-04-07-Mayors-Office-News-855-AM",
+  "publication_date": "2025-04-07",
+  "capture_date": "2026-03-22T14:17:30Z",
+  "title": "Mayor Announces Syracuse Wins Award for Trash & Recycling Education",
+  "summary": "Syracuse won the Citibot Premier Community Award for its trash and recycling cart rollout education initiative, achieving 99.98% compliance through targeted public engagement campaigns and advanced enforcement technology. Mayor Ben Walsh highlighted the success as a model for effective municipal communication and community collaboration in service delivery innovation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "initiative-launch",
+    "sustainability",
+    "residents",
+    "transparency",
+    "infrastructure",
+    "digital-services"
+  ],
+  "department_refs": [
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Citibot",
+      "type": "organization",
+      "canonical_id": "ORG-CITIBOT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Administration publicly champions waste management modernization and community engagement as core innovation competency; positions compliance achievement and public communication as mayoral priorities",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in source metadata",
+    "Sharon F. Owens appears in navigation menu but Ben Walsh is quoted as Mayor—verify current mayoral term and organizational structure",
+    "Award name and issuing body (Citibot) should be validated against external sources",
+    "No direct CIO office reference in article, but initiative reflects innovation/digital engagement themes relevant to Chief Innovation Officer purview",
+    "Contact: press@syr.gov for media follow-up",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

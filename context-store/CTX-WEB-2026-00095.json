@@ -1,0 +1,53 @@
+{
+  "record_id": "CTX-WEB-2026-00095",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/2024-02-24-Infrastructure-News",
+  "publication_date": "2024-02-24",
+  "capture_date": "2026-03-22T14:26:08Z",
+  "title": "Water Crews Working to Repair Water Main Break on North Clinton Street",
+  "summary": "The City of Syracuse Department of Water is repairing a water main break at North Clinton Street and West Division Street. Water service disruption affects the 600 block of North Clinton Street with expected restoration by 8 pm; the intersection will remain closed to vehicle traffic during repairs.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "infrastructure",
+    "announcement",
+    "service-requests",
+    "one-time",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse Department of Water",
+      "type": "organization",
+      "canonical_id": "ORG-WATER-DEPT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown; likely originated from Office of Communications",
+    "No dollar amounts, timeline extensions, or escalations mentioned",
+    "Routine infrastructure maintenance notification with clear resolution timeline",
+    "Contact information provided for constituent inquiries (315) 448-8360",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

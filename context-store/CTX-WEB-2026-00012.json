@@ -1,0 +1,43 @@
+{
+  "record_id": "CTX-WEB-2026-00012",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/2022/Police-News",
+  "publication_date": "2023-01-07",
+  "capture_date": "2026-03-22T10:10:57Z",
+  "title": "Police News",
+  "summary": "Syracuse Police Department is investigating a homicide that occurred on Sunset Avenue. This incident report was published January 7, 2023 with minimal detail provided. The CIO should note this for potential data integration with crime reporting systems and public safety data governance initiatives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "investigation",
+    "emergency-services",
+    "public-safety-commission"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is extremely sparse - only headline and tag information provided, minimal substantive content",
+    "No victim, suspect, or investigative detail disclosed",
+    "URL structure suggests this may be archived content from 2022 posted in 2023",
+    "Author attribution missing",
+    "No dollar amounts, timelines, or outcomes documented",
+    "Potential connection to crime-data governance and public safety data systems for CIO review",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

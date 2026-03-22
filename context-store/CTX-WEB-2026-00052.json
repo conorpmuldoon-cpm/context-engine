@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-WEB-2026-00052",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-03-16-Infrastructure-News-945PM",
+  "publication_date": "2025-03-16",
+  "capture_date": "2026-03-22T14:17:56Z",
+  "title": "Department of Water Working to Increase Water Pressure Overnight",
+  "summary": "The City of Syracuse Department of Water is addressing low water pressure across multiple city areas caused by a combination of factors: supply constraints from Skaneateles Lake, two restarted eastside pumps following power outages, and depleted reservoir levels due to multiple water main breaks this year, including a major break on the north side today. Pressure improvements are anticipated overnight.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "infrastructure",
+    "service-requests",
+    "recurring",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE"
+    },
+    {
+      "name": "Skaneateles Lake",
+      "type": "system",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Press release demonstrates Department of Water's operational responsiveness to infrastructure failure. Indicates baseline water system vulnerability and management of multiple concurrent failures (power outages, main breaks, supply constraints).",
+    "confidence": "medium"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field listed as 'Unknown' in source document",
+    "Mayor Sharon F. Owens mentioned in header navigation but not in article body",
+    "Contact number provided: 315-448-8360 for Department of Water",
+    "Multiple causative factors suggest systemic infrastructure stress rather than isolated incident",
+    "No budget, timeline, or remediation cost information provided",
+    "Article timestamp indicates evening publication (9:45 PM) for overnight repair work",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

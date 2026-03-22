@@ -1,0 +1,27 @@
+{
+  "date": "2026-01-12",
+  "source": "agenda_parse",
+  "names": [],
+  "organizations": [
+    {
+      "name": "Global Traffic Technologies",
+      "context": "Item 17"
+    },
+    {
+      "name": "Elite Gaming",
+      "context": "Item 16"
+    },
+    {
+      "name": "SoundThinking",
+      "context": "Item 22"
+    },
+    {
+      "name": "Nik Realty",
+      "context": "Item 26"
+    },
+    {
+      "name": "Flock Group",
+      "context": "Item 37"
+    }
+  ]
+}

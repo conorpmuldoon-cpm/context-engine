@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-WEB-2026-00104",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2023/2023-10-30-Mayors-Office-News",
+  "publication_date": "2023-10-30",
+  "capture_date": "2026-03-22T14:27:55Z",
+  "title": "Franklin Square Fountain to be Temporarily Removed for Restoration",
+  "summary": "The City of Syracuse Department of Parks & Recreation is removing the cast metal fountain in Franklin Square Park (601 Plum Street) for restoration, beginning October 31, 2023. Robinson Iron will dismantle and transport the fountain to Alabama for stripping, repair, painting, and corrosion prevention, with completion expected by mid-2024. The fountain, originally fabricated in 1991, has been a neighborhood landmark since the late 1980s redevelopment.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "parks",
+    "historic-preservation",
+    "facilities",
+    "infrastructure",
+    "announcement",
+    "one-time"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Tony Williams",
+      "type": "person",
+      "canonical_id": "PERSON-TONY-WILLIAMS"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Robinson Iron",
+      "type": "organization",
+      "canonical_id": "ORG-ROBINSON-IRON"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "City leadership prioritizes historic preservation and community landmark maintenance, framed around intergenerational stewardship and public experience enhancement.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in metadata; press release attributed to Parks Commissioner Tony Williams as spokesperson",
+    "Mayor Sharon F. Owens mentioned in header navigation but not directly quoted; Williams serves as primary departmental voice",
+    "No budget amount specified for restoration project",
+    "Project timeline spans multiple fiscal/calendar years (Oct 2023 – mid-2024); recommend tracking completion and CIO handoff expectations",
+    "External URL provided for project updates; recommend monitoring for scope changes or delays",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

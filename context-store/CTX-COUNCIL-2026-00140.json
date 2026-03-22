@@ -1,0 +1,53 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00140",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=X4jrKb_RNrw&t=324s",
+  "publication_date": "2026-03-09",
+  "capture_date": "2026-03-21T23:23:19Z",
+  "title": "ACA Filing Fee Waiver -- BPASS/One Group Federal Compliance Submission",
+  "summary": "HR representative Richard presents waiver for late-filed ACA compliance submission. One Group (BPASS parent company) handles ACA data tracking and compilation; filing fee covers per-head submission to federal government. Council President confirms she was pre-briefed and supports pushing the waiver through.",
+  "raw_content": "[00:05:24] have number item 10 and I have item 11.\n[00:05:27] I have a waiver item. Go ahead.\n[00:05:30] >> Hey, council. Uh, apologies for the late\n[00:05:32] submission. Uh, the waiver request is to\n[00:05:37] file our ACA um information. So, if you\n[00:05:40] remember,\n[00:05:41] >> hold on, hold on, hold on.\n[00:05:45] >> Oh, I'm not\n[00:05:46] >> Okay. Okay.\n[00:05:46] >> Can you start over, please?\n[00:05:48] >> Yeah, absolutely.\n[00:05:50] So, uh, the waiver request is for filing\n[00:05:53] our aa information with the federal\n[00:05:55] government. So, if you remember, um, a\n[00:05:57] while back, we switched over to one\n[00:06:00] group, uh, which is BPASS's parent\n[00:06:03] company to take over our compiling of\n[00:06:05] data and all that, um, for our ACA\n[00:06:07] requirements. So, they still do all of\n[00:06:09] that tracking. And then, uh, at the end\n[00:06:12] of the year, we need to file that\n[00:06:14] paperwork and this fee is to help cover\n[00:06:17] that filing cost. So, it's kind of like\n[00:06:19] uh the easiest way to think about it is\n[00:06:20] like paying H&R Block to file our taxes.\n[00:06:23] We're doing the same thing. Uh one group\n[00:06:26] pulled together all the information and\n[00:06:27] attracts us for it on a regular basis\n[00:06:29] and then when they submit to the feds,\n[00:06:31] we use a system that has a fee um per\n[00:06:34] head. So, um it should be substantially\n[00:06:37] less than that, but we it depends on\n[00:06:38] number of employees. So, we built in\n[00:06:40] some uh\n[00:06:42] >> Yes, Richard called me um the other day,\n[00:06:44] not to put on a waiver explained it to\n[00:06:46] me. Um, so I'm hoping everybody else is\n[00:06:48] okay with pushing this through.\n[00:06:50] >> Where is that in the packet? It's in a\n[00:06:52] new one.\n[00:06:55] >> Very last one.\n[00:06:56] >> Yeah,\n[00:06:58] it's in the um supplemental supplement.\n[00:07:02] >> So supplemental package on the agenda\n[00:07:04] for supplemental package.\n[00:07:05] >> It's on the agenda.\n[00:07:06] >> It's on agenda. It's number one. It's in\n[00:07:08] a new\n[00:07:13] It's number It's number 10.\n[00:07:19] So we keep having you back.\n[00:07:21] >> Yeah.\n[00:07:22] >> Any other we have more questions? We'll\n[00:07:24] talk to you afterwards.\n[00:07:25] >> Yeah, absolutely.",
+  "transcript_ref": "outputs/transcripts/X4jrKb_RNrw_corrected.txt",
+  "topic_tags": [
+    "benefits",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Human Resources"
+  ],
+  "entity_refs": [
+    {
+      "name": "Rita Paniagua",
+      "type": "person",
+      "canonical_id": "PERSON-PANIAGUA-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Richard",
+      "role": "HR staff",
+      "confidence": "medium"
+    },
+    {
+      "name": "Rita Paniagua",
+      "role": "Council President",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "ACA = Affordable Care Act. BPASS parent company is One Group. Fee is per-head for federal filing. Agenda description references SCSD field turf (item 10) but segment content is about ACA waiver (supplemental item 10).",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 2 of 4 from Common Council Study Session, Monday March 9th 2026"
+  ],
+  "last_relevance_update": null
+}

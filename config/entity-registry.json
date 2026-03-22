@@ -1,0 +1,401 @@
+{
+  "registry_version": "1.1.0",
+  "last_updated": "2026-03-21",
+  "source_note": "Council members verified from syr.gov/Departments/Common-Council/Councilors on 2026-03-21. Department heads verified from individual syr.gov department pages on 2026-03-21.",
+
+  "persons": [
+    {
+      "canonical_id": "PERSON-PANIAGUA-COUNCIL",
+      "canonical_name": "Rita Paniagua",
+      "role": "Council President",
+      "affiliation": "Syracuse Common Council",
+      "district": null,
+      "committee_chair": "Charter, Rules & Procedures, RFP & Intergovernmental Service Consolidation",
+      "transcript_variants": ["Rita Pñawa", "Rita Peawa", "Rita Pawa", "Rita Paniaga"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-MAJOK-COUNCIL",
+      "canonical_name": "Dr. Chol Majok",
+      "role": "Common Councilor At-Large",
+      "affiliation": "Syracuse Common Council",
+      "district": null,
+      "committee_chair": "Public Works & Infrastructure",
+      "transcript_variants": ["Chel Majuk", "Chol Majuk", "Chol Majok", "Shel Majuk"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-CALDWELL-COUNCIL",
+      "canonical_name": "Rasheada Caldwell",
+      "role": "Common Councilor At-Large",
+      "affiliation": "Syracuse Common Council",
+      "district": null,
+      "committee_chair": "Education, HR & Community Advancement",
+      "transcript_variants": [],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-EHRENREICH-COUNCIL",
+      "canonical_name": "Hanah Ehrenreich",
+      "role": "Common Councilor At-Large",
+      "affiliation": "Syracuse Common Council",
+      "district": null,
+      "committee_chair": "Parks Recreation & Youth Programs (Veteran's Affairs)",
+      "transcript_variants": ["Hana Enright", "Hannah Enright", "Hana Ehrenreich"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-HUDSON-COUNCIL",
+      "canonical_name": "Helen Hudson",
+      "role": "Common Councilor At-Large",
+      "affiliation": "Syracuse Common Council",
+      "district": null,
+      "committee_chair": "Technology & Operational Efficiency",
+      "transcript_variants": [],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-NAVE-COUNCIL",
+      "canonical_name": "Marino L. Nave",
+      "role": "Common Councilor, District 1",
+      "affiliation": "Syracuse Common Council",
+      "district": 1,
+      "committee_chair": "Public Transportation",
+      "transcript_variants": ["Marin Nave", "Marino Nave"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-MOORE-COUNCIL",
+      "canonical_name": "Donna Moore",
+      "role": "Common Councilor, District 2",
+      "affiliation": "Syracuse Common Council",
+      "district": 2,
+      "committee_chair": "Public Safety",
+      "transcript_variants": [],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-WILLIAMS-COUNCIL",
+      "canonical_name": "Corey J. Williams",
+      "role": "Common Councilor, District 3",
+      "affiliation": "Syracuse Common Council",
+      "district": 3,
+      "committee_chair": "Finance, Taxation & Assessment",
+      "transcript_variants": ["Cory Williams", "Corey Williams"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-JONES-ROWSER-COUNCIL",
+      "canonical_name": "Patrona Jones-Rowser",
+      "role": "Common Councilor, District 4",
+      "affiliation": "Syracuse Common Council",
+      "district": 4,
+      "committee_chair": "Neighborhood Preservation, Housing Support & Re-development",
+      "transcript_variants": [],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-MONTO-COUNCIL",
+      "canonical_name": "Jimmy Monto",
+      "role": "Common Councilor, District 5",
+      "affiliation": "Syracuse Common Council",
+      "district": 5,
+      "committee_chair": "Economic Development & Opportunity",
+      "transcript_variants": ["Jimmy Manto", "Jimmy Monto"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-OWENS-EXEC",
+      "canonical_name": "Sharon F. Owens",
+      "role": "Mayor",
+      "affiliation": "City of Syracuse, Executive Branch",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Sharon Owens"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-RUSIN-SPD",
+      "canonical_name": "Mark Rusin",
+      "role": "Chief of Police",
+      "affiliation": "Syracuse Police Department",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Mark Russen", "Chief Rusin", "Chief Russen"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-MONDS-SFD",
+      "canonical_name": "Michael Monds",
+      "role": "Chief of Fire",
+      "affiliation": "Syracuse Fire Department",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Chief Monds", "Mike Monds"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-ROBINSON-DPW",
+      "canonical_name": "Jeremy Robinson",
+      "role": "Commissioner of Public Works",
+      "affiliation": "Department of Public Works",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Commissioner Robinson"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-BYRD-PARKS",
+      "canonical_name": "Syeisha Byrd",
+      "role": "Commissioner of Parks, Recreation and Youth Programs",
+      "affiliation": "Department of Parks, Recreation and Youth Programs",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Saiisha Burke", "Sasha Bur", "Syeisha Bird", "Commissioner Byrd"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-BRANDT-WATER",
+      "canonical_name": "Robert Brandt",
+      "role": "Commissioner of Water",
+      "affiliation": "Department of Water",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Robert Brandt", "Commissioner Brandt", "water commissioner"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-COLLINS-NBD",
+      "canonical_name": "Michael Collins",
+      "role": "Commissioner of Neighborhood and Business Development",
+      "affiliation": "Department of Neighborhood and Business Development",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Mike Collins", "Commissioner Collins"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-NASTRI-FINANCE",
+      "canonical_name": "Diane Nastri",
+      "role": "Interim Commissioner of Finance",
+      "affiliation": "Department of Finance",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Commissioner Nastri"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-OJA-ASSESSMENT",
+      "canonical_name": "Matthew D. Oja",
+      "role": "Commissioner of Assessment",
+      "affiliation": "Department of Assessment",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Matt Oja", "Commissioner Oja"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-KATZOFF-LAW",
+      "canonical_name": "Susan R. Katzoff",
+      "role": "Corporation Counsel",
+      "affiliation": "Law Department",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Sue Katzoff", "Susan Katzoff"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-ROBISON-ENGINEERING",
+      "canonical_name": "Mary E. Robison",
+      "role": "City Engineer",
+      "affiliation": "Department of Engineering",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Mary Robinson", "Mary Robison", "Marza Malach"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-DISHAW-CODE",
+      "canonical_name": "Jake Dishaw",
+      "role": "Deputy Commissioner of Code Enforcement and Zoning",
+      "affiliation": "Department of Code Enforcement",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Jake D'Shaw"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-PROWAK-IT",
+      "canonical_name": "Dave Prowak",
+      "role": "Director of Information Technology",
+      "affiliation": "Department of Information Technology",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Dave Proak", "David Prowak"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-ALSEVER-HR",
+      "canonical_name": "Richard D. Alsever",
+      "role": "Director of Human Resources",
+      "affiliation": "Department of Human Resources",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Rich Alsever", "Richard Alsever"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-LOVING-BUDGET",
+      "canonical_name": "Evan Loving",
+      "role": "Director of Budget",
+      "affiliation": "Budget Department",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": [],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-KERNEY-PLANNING",
+      "canonical_name": "Owen Kerney",
+      "role": "Deputy Commissioner of Planning and Sustainability",
+      "affiliation": "Department of Planning and Sustainability",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Owen Kernney", "Owen Kearney"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-MARION-AUDITOR",
+      "canonical_name": "Alexander Marion",
+      "role": "City Auditor",
+      "affiliation": "Office of the City Auditor",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Alex Marion"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-MCBRIDE-CLERK",
+      "canonical_name": "Patricia K. McBride",
+      "role": "City Clerk",
+      "affiliation": "City Clerk's Office",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Patricia McBride", "Pat McBride"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-DUNHAM-COMMS",
+      "canonical_name": "Corey Dunham",
+      "role": "Director of Communications",
+      "affiliation": "Mayor's Office",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": [],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-LAYMAN-ASSESSMENT",
+      "canonical_name": "Michael Layman",
+      "role": "Deputy Commissioner of Assessment",
+      "affiliation": "Department of Assessment",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Mike Layman"],
+      "active": true
+    }
+  ],
+
+  "organizations": [
+    {
+      "canonical_id": "ORG-HAYNER-HOYT",
+      "canonical_name": "Hayner Hoyt Corporation",
+      "type": "contractor",
+      "transcript_variants": ["Hayner Hoy", "Hanner Hoy", "her hoy", "Hayner Hoy Corporation"]
+    },
+    {
+      "canonical_id": "ORG-SYRACUSE-UNIVERSITY",
+      "canonical_name": "Syracuse University",
+      "type": "educational_institution",
+      "transcript_variants": ["SU", "the university"]
+    },
+    {
+      "canonical_id": "ORG-LABELLA",
+      "canonical_name": "LaBella Associates",
+      "type": "engineering_firm",
+      "transcript_variants": ["Labella", "LaBella"]
+    },
+    {
+      "canonical_id": "ORG-CNS-ENGINEERS",
+      "canonical_name": "CNS Engineers",
+      "type": "engineering_firm",
+      "transcript_variants": ["CNS"]
+    },
+    {
+      "canonical_id": "ORG-NATIONAL-GRID",
+      "canonical_name": "National Grid",
+      "type": "utility",
+      "transcript_variants": ["national grid"]
+    },
+    {
+      "canonical_id": "ORG-VEO",
+      "canonical_name": "Veo",
+      "type": "micromobility_operator",
+      "transcript_variants": ["VeoRide", "Veo ride"]
+    },
+    {
+      "canonical_id": "ORG-AXON",
+      "canonical_name": "Axon",
+      "type": "public_safety_vendor",
+      "transcript_variants": ["Axon Enterprise", "Axon Enterprises"]
+    },
+    {
+      "canonical_id": "ORG-FLOCK",
+      "canonical_name": "Flock Group",
+      "type": "surveillance_vendor",
+      "transcript_variants": ["Flock Safety", "Flock"]
+    },
+    {
+      "canonical_id": "ORG-MOSAIC",
+      "canonical_name": "Mosaic Consulting Group",
+      "type": "consulting_firm",
+      "transcript_variants": ["Mosaic Consulting", "Mosaic"]
+    },
+    {
+      "canonical_id": "ORG-BFC-PARTNERS",
+      "canonical_name": "BFC Partners",
+      "type": "developer",
+      "transcript_variants": ["BFC"]
+    },
+    {
+      "canonical_id": "ORG-BONADIO",
+      "canonical_name": "Bonadio Group",
+      "type": "accounting_firm",
+      "transcript_variants": ["Bonadio", "the Bonadio Group"]
+    },
+    {
+      "canonical_id": "ORG-OCRRA",
+      "canonical_name": "Onondaga County Resource Recovery Agency",
+      "type": "government_agency",
+      "transcript_variants": ["OCRRA"]
+    },
+    {
+      "canonical_id": "ORG-CENTRO",
+      "canonical_name": "Centro",
+      "type": "transit_authority",
+      "transcript_variants": ["Centro bus", "CNYRTA"]
+    },
+    {
+      "canonical_id": "ORG-LEMOYNE",
+      "canonical_name": "Le Moyne College",
+      "type": "educational_institution",
+      "transcript_variants": ["LeMoyne", "Le Moyne"]
+    },
+    {
+      "canonical_id": "ORG-CROUSE",
+      "canonical_name": "Crouse Health Hospital",
+      "type": "healthcare",
+      "transcript_variants": ["Crouse Hospital", "Crouse Health", "Crouse"]
+    }
+  ]
+}

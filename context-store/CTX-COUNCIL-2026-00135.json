@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00135",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=rv3OkGSe59c&t=3456s",
+  "publication_date": "2026-02-04",
+  "capture_date": "2026-03-21T23:23:19Z",
+  "title": "Parkside Commons Financial Review Hold and Axon Contract Committee Meeting",
+  "summary": "Council member Monto holds item 51 (Parkside Commons tax exemption) pending financial questions from himself and Council member Williams. Item 52 (Axon LPR contract) held for committee meeting on Friday at noon. Meeting moves to executive session for legal settlement discussion.",
+  "raw_content": "[00:57:36] >> Thank you, President Paka. I have items\n[00:57:37] 51 and 52. Uh, we're going to hold 51.\n[00:57:41] Councelor Williams and I have some\n[00:57:43] financial questions on that one. 52 will\n[00:57:44] be held for a committee meeting on\n[00:57:46] Friday at 12:00 and I'm set.\n[00:57:51] >> Okay.\n[00:57:52] So, we're going to go into executive\n[00:57:54] session and um\n[00:57:58] >> a motion\n[00:58:02] >> to to discuss the legal item settlement.\n[00:58:05] So, move second.\n[00:58:11] Okay.",
+  "transcript_ref": "outputs/transcripts/rv3OkGSe59c_corrected.txt",
+  "topic_tags": [
+    "housing",
+    "police",
+    "council"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Jimmy Monto",
+      "type": "person",
+      "canonical_id": "PERSON-MONTO-COUNCIL"
+    },
+    {
+      "name": "Axon",
+      "type": "organization",
+      "canonical_id": "ORG-AXON"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Jimmy Monto",
+      "role": "Common Councilor, District 5",
+      "affiliation": "Syracuse Common Council"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council requires financial review before approving Parkside Commons tax exemption; Axon contract continues to receive deliberate oversight",
+    "confidence": "medium"
+  },
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-AXON-LPR-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Law Department detection from executive session reference, not department presentation",
+    "Parkside Commons financial questions connect to ongoing community engagement concerns",
+    "Axon committee meeting connects to b75K4ejDfY4 Joint Public Safety discussion",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 19 of 19 from Common Council Study Session, Tuesday, February 4th, 2026",
+    "Transcript corrections applied: national grid -> National Grid"
+  ],
+  "last_relevance_update": null
+}

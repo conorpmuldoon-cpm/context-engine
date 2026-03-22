@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00144",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=xjf9vWa6BjQ&t=927s",
+  "publication_date": "2026-01-12",
+  "capture_date": "2026-03-21T23:23:19Z",
+  "title": "Crouse Health EAP Follow-Up: 244 Firefighters Served Over Five Years, $12,000 Budget Confirmed",
+  "summary": "Follow-up on Crouse Health EAP agreement from Jan 7. Fire Chief provides data: 244 firefighters utilized services over past 5 years (~49/year). Union had been paying for Crouse services after city stopped funding. Council questions whether $12,000 annual budget is sufficient; Chief confirms based on Crouse negotiations. Contract includes renewal periods for future years. Item 22 withdrawn.",
+  "raw_content": "[00:15:27] >> Thank you, Madam President. I have items\n[00:15:29] 19 through 22. Uh 22 is being withdrawn.\n[00:15:33] >> Um so 19 2021. Uh it's ready to go.\n[00:15:40] >> Um just just a I want to thank Chief Man\n[00:15:42] for the numbers that he had sent us. Um,\n[00:15:46] out of out of the numbers that we got,\n[00:15:50] what was the cost? Do we know?\n[00:15:59] >> So, it come down to about 48 a year,\n[00:16:02] right?\n[00:16:02] >> 48 a year.\n[00:16:03] >> Yeah. Over the last 5 years, um, we've\n[00:16:05] had 244 firefighters utilize these\n[00:16:08] services for approximately 49\n[00:16:10] firefighters per year.\n[00:16:11] >> Mhm.\n[00:16:12] >> Um, what was your question there?\n[00:16:14] >> What was the cost?\n[00:16:15] >> The cost was um,\n[00:16:18] >> I don't have the price of what the cost\n[00:16:20] was because we're starting this policy\n[00:16:24] of you is to start going through Krauss\n[00:16:26] help people again.\n[00:16:27] >> Uh, we had this off to the side where\n[00:16:29] the union was paying for it. Our union\n[00:16:31] was paying for these services. because\n[00:16:34] we stopped paying for them as a city. So\n[00:16:36] these are the numbers that I accumulated\n[00:16:37] that came from crossel people of the\n[00:16:40] people that have used for those.\n[00:16:41] >> I ask I asked that question chief\n[00:16:43] because you know you are asking for up\n[00:16:46] to 12,000 right and then there's 48 and\n[00:16:49] 48\n[00:16:50] >> people going through this. I don't know\n[00:16:52] if 12,000 is even enough. That's why\n[00:16:54] that's why I'm asking and I appreciate\n[00:16:57] this because this is this is this is a\n[00:16:58] good good going to be a good program.\n[00:17:01] Just want to make sure that we\n[00:17:03] >> we don't come back later in the year and\n[00:17:04] say, you know what, we underestimate\n[00:17:06] when we could have done it first.\n[00:17:08] >> I appreciate the concern. Um, this\n[00:17:10] $12,000 is going to be enough.\n[00:17:12] >> It's going to be enough\n[00:17:12] >> from from what I from what I gather from\n[00:17:15] Krauss's help and uh our negotiation to\n[00:17:17] get this deal.\n[00:17:19] >> Okay.\n[00:17:19] >> Okay.\n[00:17:19] >> Council, there are renewal periods\n[00:17:21] that's being requested with it. So,\n[00:17:23] >> can you say that again?\n[00:17:24] >> I said there's renewal periods being\n[00:17:26] requested with it. So, okay.\n[00:17:27] >> He's if he come back in a year, he's\n[00:17:29] already in the contract.\n[00:17:31] >> Okay. Okay.\n[00:17:33] >> That was all.\n[00:17:33] >> Oh, good. Thank you. Thank you for your\n[00:17:35] support.\n[00:17:35] >> Are you okay,\n[00:17:36] >> Chief? I'm um",
+  "transcript_ref": "outputs/transcripts/xjf9vWa6BjQ_corrected.txt",
+  "topic_tags": [
+    "fire",
+    "benefits",
+    "budget",
+    "council"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Crouse Health Hospital",
+      "type": "organization",
+      "canonical_id": "ORG-CROUSE"
+    },
+    {
+      "name": "Donna Moore",
+      "type": "person",
+      "canonical_id": "PERSON-MOORE-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Donna Moore",
+      "role": "Council Member",
+      "affiliation": "Syracuse Common Council"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Council and Fire Chief both advocate strongly for dedicated firefighter EAP program with Crouse Health",
+    "confidence": "medium"
+  },
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Fire Chief referenced as 'Chief Man' in transcript — not identified by full name",
+    "244 firefighters over 5 years = ~49/year; union was paying after city stopped",
+    "$12,000/year confirmed sufficient per Crouse negotiations",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 6 of 12 from Common Council Study Session, Monday, January 12th 2026"
+  ],
+  "last_relevance_update": null
+}

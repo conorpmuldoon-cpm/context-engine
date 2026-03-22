@@ -1,0 +1,49 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00103",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=N0EQah0CZXw&t=3125s",
+  "publication_date": "2026-02-18",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Items 36-39 — Item 36 Withdrawn, HUD and Code Items Introduced",
+  "summary": "Patrona Jones-Rowser presents items 36-39. Item 36 is withdrawn. Items 37-38 are companion pieces regarding the HUD annual action plan. Michelle Spansky (deputy commissioner, Neighborhood and Business Development) begins presentation of HUD items.",
+  "raw_content": "[00:52:05] items 36 through 39.6.\n[00:52:10] >> Oh, yes. I'm sorry. 36 has is being\n[00:52:13] withdrawn.\n[00:52:15] >> Huh?\n[00:52:16] >> 36 is withdrawn for now. Um, 37 and 38.\n[00:52:22] >> What happened? I'm sorry. Can you repeat\n[00:52:23] that?\n[00:52:24] >> 36 is withdrawn for now.\n[00:52:25] >> Withdrawn. Okay.\n[00:52:27] >> Um,\n[00:52:28] >> there's more. Yeah.\n[00:52:30] >> And 37. Did you Oh, that's it. Okay.\n[00:52:33] Thank you.\n[00:52:34] >> Good afternoon, counselors. Michelle\n[00:52:35] Spansky, deputy commissioner of",
+  "transcript_ref": "outputs/transcripts/N0EQah0CZXw_corrected.txt",
+  "topic_tags": [
+    "housing",
+    "grants",
+    "legislation",
+    "council"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Patrona Jones-Rowser",
+      "type": "person",
+      "canonical_id": "PERSON-JONES-ROWSER-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Patrona Jones-Rowser",
+      "role": "Common Councilor, District 4",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Brief introductory segment; full HUD and senior exemption discussion continues in next segment",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 15 of 19 from Common Council Study Session, Wednesday February 18th 2026",
+    "Transcript corrections applied: national grid -> National Grid"
+  ],
+  "last_relevance_update": null
+}

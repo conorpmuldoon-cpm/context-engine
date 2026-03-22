@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00090",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=m56feIFbY6s&t=3244s",
+  "publication_date": "2026-03-04",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Parkside Commons and Flock ALPR Cameras -- Both Items Held",
+  "summary": "Councilor Monto reports items 31 and 32 continue to be held. Item 31 (Parkside Commons shelter rent): Assessment Commissioner OJ and Councilor Williams meeting Friday, may be ready for Monday vote. Staff emphasizes shelter rent request is consistent with and at ceiling of standard practice. Item 32 (Flock Group ALPR cameras revocation): held without discussion.",
+  "raw_content": "[00:54:04] >> President Pyqua, I have items 31 and 32.\n[00:54:06] Uh we are going to continue to hold 31.\n[00:54:12] >> Yeah, I have a meeting um on Friday,\n[00:54:14] Matt.\n[00:54:15] >> Okay.\n[00:54:15] >> So,\n[00:54:16] >> yeah, if there's anything I can do to\n[00:54:17] help clarify and move this forward, just\n[00:54:19] want to\n[00:54:20] >> this morning. So, we're gonna we're\n[00:54:21] going to talk Friday and then we might\n[00:54:22] be ready Monday. We'll see.\n[00:54:24] >> Okay, cool. Just want to emphasize that\n[00:54:25] this is um not only in keeping, you\n[00:54:27] know, consistent with all of our shelter\n[00:54:28] rent requests, but I think about at the\n[00:54:31] ceiling of what we do request. So,\n[00:54:33] >> yeah.\n[00:54:33] >> Um happy to do whatever I can to move it\n[00:54:36] forward.\n[00:54:36] >> Okay.\n[00:54:37] >> Okay.\n[00:54:37] >> We'll we'll know Monday or maybe Friday\n[00:54:39] after we meet.\n[00:54:41] >> Thanks.\n[00:54:41] >> Thanks,\n[00:54:43] >> Council Moore.\n[00:54:44] >> And 32 we're going to hold as well.\n[00:54:50] Thank you, Madam President. I also have",
+  "transcript_ref": "outputs/transcripts/m56feIFbY6s_corrected.txt",
+  "topic_tags": [
+    "housing",
+    "police",
+    "tax-revenue",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Assessment"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jimmy Monto",
+      "type": "person",
+      "canonical_id": "PERSON-MONTO-COUNCIL"
+    },
+    {
+      "name": "Donna Moore",
+      "type": "person",
+      "canonical_id": "PERSON-MOORE-COUNCIL"
+    },
+    {
+      "name": "Flock Group",
+      "type": "organization",
+      "canonical_id": "ORG-FLOCK"
+    },
+    {
+      "name": "Parkside Commons",
+      "type": "organization"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Jimmy Monto",
+      "role": "Councilor, District 5",
+      "confidence": "high"
+    },
+    {
+      "name": "Donna Moore",
+      "role": "Public Safety Committee Chair",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-PARKSIDE-COMMONS-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Flock Group ALPR revocation has appeared on multiple agendas. Parkside Commons shelter rent continues multi-session review.",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 12 of 14 from Common Council Study Session, Wednesday March 4th 2026",
+    "Transcript corrections applied: SU -> Syracuse University"
+  ],
+  "last_relevance_update": null
+}

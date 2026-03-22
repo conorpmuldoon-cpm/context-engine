@@ -1,0 +1,65 @@
+{
+  "record_id": "CTX-WEB-2026-00119",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-06-21-Traffic-News-110PM",
+  "publication_date": "2023-06-21",
+  "capture_date": "2026-03-22T14:31:00Z",
+  "title": "Road Closures for 2023 Jazz Fest",
+  "summary": "The City of Syracuse announced street closures in downtown areas (Clinton Street, Erie Boulevard West, West Water Street, and East Water Street) from June 22-25, 2023 to support the Syracuse Jazz Fest event at Hanover Square and Clinton Square. Multiple blocks will be fully closed or converted to two-way traffic with parking restrictions beginning at 6:30-7:00 a.m. on Thursday, June 22.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "roads-bridges",
+    "road-closure-fees",
+    "construction-staging",
+    "parks",
+    "transportation",
+    "infrastructure"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs",
+    "Department of Transportation and Infrastructure"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Syracuse Jazz Fest",
+      "type": "organization",
+      "canonical_id": "ORG-JAZZ-FEST"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "City prioritizes support for major cultural events (Jazz Fest) through infrastructure coordination and public notice; demonstrates commitment to downtown activation and community programming.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Date discrepancy in URL path (2024) vs. publication date (2023-06-21) and event dates (June 22-24, 2023); content is internally consistent around June 2023 dates",
+    "Author listed as 'Unknown'; likely City Communications Office",
+    "No budget, dollar amounts, or resource allocations specified in release",
+    "Contact email (press@syr.gov) suggests Office of Communications ownership",
+    "Related tags include 'Cityline' and 'Syracuse Parks & Recreation News'",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

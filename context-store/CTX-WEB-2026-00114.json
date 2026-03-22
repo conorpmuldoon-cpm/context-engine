@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-WEB-2026-00114",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-09-05-Traffic-News-5PM",
+  "publication_date": "2023-09-05",
+  "capture_date": "2026-03-22T14:29:54Z",
+  "title": "2023 Irish Festival Street Closing Information",
+  "summary": "The City of Syracuse announces street closures in Clinton Square from September 7-10, 2023 for the Irish Festival (September 8-9). Three streets will be fully or partially closed: Clinton Street (Genesee to Washington), Erie Boulevard West (Clinton to Franklin), and West Water Street (Clinton to Franklin, converted to two-way with parking restrictions). This is a standard traffic management notice for a recurring cultural event.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "transportation",
+    "road-closure-fees",
+    "parks",
+    "recurring",
+    "neighborhood-services"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs",
+    "Department of Transportation and Infrastructure Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Syracuse Irish Festival",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Clinton Square",
+      "type": "system",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field marked 'Unknown' in source metadata",
+    "Publication date (2023-09-05) predates event by 3 days, suggesting advance notice cycle",
+    "URL path structure indicates 2024 file organization but references 2023 event",
+    "No budget implications or procurement elements detected",
+    "Standard procedural traffic management notice; no innovation/CIO-specific operational insight",
+    "External event coordination with syracuseirishfestival.com referenced",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

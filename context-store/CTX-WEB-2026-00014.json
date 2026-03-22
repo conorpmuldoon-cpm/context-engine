@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-WEB-2026-00014",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Parks-News/Parks-2022",
+  "publication_date": "2026-03-22",
+  "capture_date": "2026-03-22T10:11:19Z",
+  "title": "2022 P&R Releases",
+  "summary": "Mayor Walsh announced a deer management program conducted by USDA wildlife managers beginning December 12, 2022 and running through March 2023. This operational initiative addresses urban wildlife management within city parks and recreation areas.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "parks",
+    "announcement",
+    "recurring",
+    "federal-programs",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-MAYOR-WALSH"
+    },
+    {
+      "name": "United States Department of Agriculture",
+      "type": "organization",
+      "canonical_id": "ORG-USDA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor-level announcement of a parks/wildlife management initiative demonstrates executive prioritization of urban environmental management and constituent quality-of-life concerns.",
+    "confidence": "medium"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Publication date (Dec 7, 2022) predates article metadata date (Mar 22, 2026) by 3+ years; article appears to be archived historical content",
+    "No budget figures, contracts, or procurement details provided",
+    "Federal partnership with USDA suggests potential grant/reimbursement arrangement not documented in release",
+    "Seasonal program timeline (Dec-Mar) suggests winter mitigation strategy",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

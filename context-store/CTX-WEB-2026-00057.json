@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-WEB-2026-00057",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-01-28-Infrastructure-News-1125AM",
+  "publication_date": "2025-01-28",
+  "capture_date": "2026-03-22T14:18:55Z",
+  "title": "Water Crews Working to Repair Multiple Water Main Breaks",
+  "summary": "The City of Syracuse Department of Water is actively repairing multiple water main breaks across the city caused by recent temperature fluctuations. Five active break locations are identified with expected traffic rerouting and potential water service disruptions in affected areas; residents and businesses can contact the Department of Water for updates.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "infrastructure",
+    "emergency-services",
+    "announcement",
+    "service-requests",
+    "roads-bridges",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse Department of Water",
+      "type": "organization",
+      "canonical_id": "ORG-DOW"
+    },
+    {
+      "name": "Office of Communications",
+      "type": "organization",
+      "canonical_id": "ORG-COMMS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in metadata",
+    "No dollar amounts or budget implications stated",
+    "Five specific geographic locations identified with street-level precision (suitable for GIS correlation)",
+    "Contact number provided (315-448-8360) suggests operational readiness",
+    "Press release emphasizes proactive communication and customer service channels",
+    "Weather causation (temperature) suggests seasonal infrastructure vulnerability pattern",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

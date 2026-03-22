@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-WEB-2026-00081",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/2024/2024-08-08-Infrastructure-News-4-PM",
+  "publication_date": "2024-08-08",
+  "capture_date": "2026-03-22T14:23:29Z",
+  "title": "Water Department Closes S Warren St for Fire Service Repair",
+  "summary": "The Syracuse Water Department is closing Warren Street between Jefferson and Fayette Streets to repair a fire service line. No water service disruptions are expected for residents and businesses; vehicle traffic is detoured while sidewalks remain open and parking garage exits are permitted.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "water",
+    "roads-bridges",
+    "construction-staging",
+    "announcement",
+    "transportation"
+  ],
+  "department_refs": [
+    "Department of Water",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field is Unknown; press release appears to originate from Office of Communications",
+    "No Syracuse Fire Department involvement detected despite 'fire service' reference—refers to water infrastructure serving fire suppression systems",
+    "Contact number provided (315) 448-8360 for Department of Water inquiries",
+    "No dollar amounts, timeline duration, or expected completion date specified in release",
+    "May impact CIO systems: traffic management coordination, public notification systems, potential GIS mapping updates for road closures",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag corrected: 'roads' removed (duplicate of existing 'roads-bridges') (2026-03-22)"
+  ],
+  "last_relevance_update": null
+}

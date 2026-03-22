@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00070",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=i9Nn-8_gM4I&t=4704s",
+  "publication_date": "2026-03-18",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "NYS Archives Records Management Grant -- City Hall Basement Digitization",
+  "summary": "City Clerk Janet presents item 42, application for NYS Archives grant to bring in records management consultant. Staff have spent two years organizing City Hall basement records, completing about a third. Records include engineering, finance, and assessment files in broken boxes with no retention schedule. Consultant will determine what to keep/destroy per retention schedules. Previous grant funded digitization of marriage records. Records being cataloged in a database for retrieval. Council member volunteers to help.",
+  "raw_content": "[01:18:24] >> item 42.\n[01:18:31] >> Good afternoon. For the last two years,\n[01:18:34] two people in my department have been\n[01:18:36] working in the basement of city hall\n[01:18:38] going through box after box that has\n[01:18:40] been left down there with no not\n[01:18:43] following any retention schedule.\n[01:18:45] Sometimes the boxes are broken. There's\n[01:18:47] it's it was a mess. They have been\n[01:18:50] working for two years and have gotten\n[01:18:52] through about a third of it. Um, we are\n[01:18:57] asking to apply to the New York State\n[01:19:00] Archives for a grant to bring in a\n[01:19:03] consultant. We're down to some of the\n[01:19:05] records we're not quite sure what to do\n[01:19:07] with and he knows the retention schedule\n[01:19:10] backwards and forwards. he can tell us\n[01:19:13] what needs to go and what need what can\n[01:19:15] stay and and help us re we're getting a\n[01:19:19] new shelving and trying to put\n[01:19:21] everything and then it'll be on our our\n[01:19:23] database so we will know what every box\n[01:19:26] is what's in the boxes and we can\n[01:19:30] retrieve records\n[01:19:31] >> are you digitizing the files\n[01:19:34] >> I'm sorry\n[01:19:34] >> are you digitizing the files\n[01:19:37] >> digitizing\n[01:19:38] >> digital digital [laughter]\n[01:19:40] >> putting them on the computer basically\n[01:19:41] Yes. Oh, I'm sorry. Yes, we have a\n[01:19:43] database now. I'm sorry. For all the\n[01:19:45] records in one park place and city hall\n[01:19:48] comments.\n[01:19:50] >> Database is it's, you know, where it\n[01:19:52] tells you where things are, but the the\n[01:19:54] files themselves, are you digitizing\n[01:19:58] that?\n[01:19:58] >> Correct.\n[01:19:59] >> Yeah.\n[01:20:00] >> Okay. Okay,\n[01:20:01] >> Janet Counc\n[01:20:04] like um this particular um grant we got\n[01:20:07] maybe about two years ago counselors and\n[01:20:09] they yeah they digitized a lot of our uh\n[01:20:12] marriage records and I'm hoping that um\n[01:20:15] you know y'all approve it they get it\n[01:20:17] this year and maybe next year we get\n[01:20:19] [laughter] it\n[01:20:21] because we still got thousands more than\n[01:20:23] >> we'll continue your project.\n[01:20:24] >> Don't let her steal your [laughter]\n[01:20:28] set. Thank you.\n[01:20:29] >> Janet. [clears throat]\n[01:20:30] >> Janet.\n[01:20:31] >> I have one question.\n[01:20:32] >> Sure.\n[01:20:32] >> Do you need any volunteers?\n[01:20:35] [laughter]\n[01:20:36] >> I don't know. It's pretty It's pretty\n[01:20:38] dirty down there.\n[01:20:39] >> Well, there's some there's I I I have\n[01:20:42] [snorts] some knowledge,\n[01:20:44] so I'll give you give you a call who\n[01:20:47] those pictures are. [laughter]\n[01:20:50] >> Yeah. A a lot of this is engineering\n[01:20:53] finance assessment\n[01:20:56] and there was some for the mayor's\n[01:20:58] office, but we've left that. We're\n[01:20:59] leaving that alone.\n[01:21:00] >> Now, if you need me, I can help you on\n[01:21:03] >> that.\n[01:21:05] I'm already measuring a big antique\n[01:21:06] store down in the [laughter] basement.\n[01:21:08] >> Yeah, I found a lot of things.\n[01:21:10] >> Thank you, Jennif. I hope it works out.\n[01:21:12] >> Yes.",
+  "transcript_ref": "outputs/transcripts/i9Nn-8_gM4I_corrected.txt",
+  "topic_tags": [
+    "transparency",
+    "digital-services",
+    "grants"
+  ],
+  "department_refs": [
+    "City Clerk's Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Corey J. Williams",
+      "type": "person",
+      "canonical_id": "PERSON-WILLIAMS-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Janet",
+      "role": "City Clerk",
+      "confidence": "high"
+    },
+    {
+      "name": "Corey J. Williams",
+      "role": "Councilor, District 3",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Department of Finance detection is from 'finance assessment' records in basement, not Finance Department involvement. Presenting department is City Clerk's Office. Two years into multi-year basement records project -- about one-third complete. Prior grant digitized marriage records.",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 18 of 23 from Common Council Study Session, Wednesday March 18th 2026",
+    "Transcript corrections applied: CNS -> CNS Engineers; SU -> Syracuse University"
+  ],
+  "last_relevance_update": null
+}

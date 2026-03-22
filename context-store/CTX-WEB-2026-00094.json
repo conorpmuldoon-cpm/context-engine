@@ -1,0 +1,77 @@
+{
+  "record_id": "CTX-WEB-2026-00094",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/2024-03-11-Infrastructure-News-230PM",
+  "publication_date": "2024-03-11",
+  "capture_date": "2026-03-22T14:25:57Z",
+  "title": "Mayor Walsh Announces 2024 Road Reconstruction Plans for the City",
+  "summary": "Mayor Ben Walsh announced Syracuse's 2024 road reconstruction plan involving nearly 23 miles of repaving and 30 miles of seal-and-resurface work across all city quadrants, funded through local, state, and federal sources. The City DPW and Department of Engineering will execute the projects using data-driven assessment methods including SMTC road condition ratings, with two major Dig-Once infrastructure coordination projects concluding this season.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "roads-bridges",
+    "infrastructure",
+    "capital-planning",
+    "announcement",
+    "data-governance",
+    "equity",
+    "intergovernmental",
+    "recurring",
+    "transparency"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Department of Engineering",
+    "Office of the Chief Operating Officer"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-OWENS-EXEC"
+    },
+    {
+      "name": "Corey Driscoll Dunham",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-DRISCOLL-DUNHAM"
+    },
+    {
+      "name": "Syracuse Metropolitan Transportation Council",
+      "type": "organization",
+      "canonical_id": "ORG-SMTC"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor highlights multi-year road condition improvement trend (2018-2024) and frames 2024 plan as continuation of sustained infrastructure investment using equitable, data-driven prioritization methods.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field marked Unknown despite Mayor Walsh byline convention",
+    "Sharon F. Owens appears in quick-links navigation but role/relationship to announcement unclear",
+    "Dig-Once projects represent interdepartmental coordination requiring CIO attention for utility data integration",
+    "Cityline contact referenced—verify if connected to 311 system or separate constituent management platform",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-WEB-2026-00035",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-11-01-Infrastructure-News-440-PM",
+  "publication_date": "2025-11-01",
+  "capture_date": "2026-03-22T14:14:28Z",
+  "title": "DPW to Begin Overnight Leaf and Snow Removal Operations",
+  "summary": "The City of Syracuse Department of Public Works will launch overnight leaf and snow removal operations beginning November 2, 2025, to prepare for winter while maintaining fall leaf collection. Mayor Ben Walsh and DPW Commissioner Jeremy Robinson emphasize the operational efficiency of this dual-purpose shift, while requesting residents bag leaves and place them between sidewalk and curb to prevent infrastructure damage and flooding.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "snow-removal",
+    "infrastructure",
+    "announcement",
+    "recurring",
+    "residents",
+    "neighborhood-services",
+    "sustainability"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Jeremy Robinson",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-ROBINSON"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor highlights seasonal operational readiness and DPW crew reliability; Commissioner emphasizes infrastructure protection (storm drains, sewer systems, flooding prevention) to justify overnight operations and solicit resident cooperation.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Sharon F. Owens appears in navigation/header but is not mentioned in article content; Ben Walsh is the active Mayor quoted.",
+    "No budget or resource allocation figures provided.",
+    "Article includes operational guidance (leaf bagging requirements, drop-off site details) suggesting CIO may need to track resident compliance communication channels and possible 311 integration.",
+    "Noise mitigation and safety messaging present; potential accessibility/constituent-complaints follow-up topic.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

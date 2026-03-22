@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00019",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=-ZsKhcHXTd4&t=1619s",
+  "publication_date": "2026-01-07",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "ATF Task Force Overtime Reimbursement Agreement Renewal for Two Co-Designated Officers",
+  "summary": "Five-year renewal of agreement with Bureau of Alcohol, Tobacco, and Firearms for overtime reimbursement covering two Syracuse Police Department task force officers co-designated with ATF. Reimbursements arrive timely. Council members commend SPD officers for community engagement with youth and procedural justice practices at incidents.",
+  "raw_content": "[00:26:59] stated, I have item number 21, which is\n[00:27:01] a renewal of our agreement with the\n[00:27:03] Bureau of Alcohol, Tobacco, and Firearms\n[00:27:05] for overtime, uh reimbursement for um\n[00:27:09] any cases that we do with ATF. We have\n[00:27:11] two task force officers that are uh\n[00:27:13] co-desated um with ATF. So any overtime\n[00:27:16] that they incur during the course of\n[00:27:18] their investigations with those folks\n[00:27:19] and ATF, we get re uh reimbursement on\n[00:27:22] that overtime. It's a 5-year agreement,\n[00:27:23] and this is a renewal.\n[00:27:26] Do they come to us timely? Those um\n[00:27:28] reimbursements,\n[00:27:29] >> they come timely. Yes, they do.\n[00:27:31] >> Yep. Absolutely. Yep. Chief,\n[00:27:33] >> is it a renewal or is it just because I\n[00:27:35] have it as a new the letter was written\n[00:27:37] as a new agreement?\n[00:27:38] >> My understanding is it's a renewal, but\n[00:27:40] I can confirm that.\n[00:27:41] >> I'll look back on the index to see what\n[00:27:43] it is and get in touch with you.\n[00:27:44] >> Okay, sounds good. Thank you.\n[00:27:45] >> Hey, chief. I just want to give a quick\n[00:27:47] shout out to some of your staff. I\n[00:27:50] actually two of them. Um, once I was at\n[00:27:52] a game a couple weeks ago and a young\n[00:27:55] kid wanted to see what the vest and\n[00:27:57] stuff look like and you know the officer\n[00:27:59] let him you know feel like the vest that\n[00:28:01] was awesome and the kid was just\n[00:28:03] thinking he was the officer and I\n[00:28:04] thought that was great cuz that's great\n[00:28:06] >> you know [snorts]\n[00:28:07] you know with the children and the other\n[00:28:09] thing was I was at an incident the other\n[00:28:11] day and there was a\n[00:28:14] >> was really ugly incident but I want to\n[00:28:16] commend your staff because it was a\n[00:28:17] little chaotic but at the end they were\n[00:28:20] able to explain to the people in the\n[00:28:22] community why they had to say what they\n[00:28:25] said and why they, you know, it wasn't\n[00:28:27] just like, you know, he made sure before\n[00:28:29] they left that they explained to them\n[00:28:30] the protocol and why they had to do it\n[00:28:32] certain way and that it they weren't\n[00:28:34] just being, you know, mean or so I'm\n[00:28:37] saying to you is whatever you're doing\n[00:28:38] to this new\n[00:28:40] >> group that's coming through, they're\n[00:28:42] definitely they're [snorts] hitting it\n[00:28:43] out of those.\n[00:28:43] >> Real really appreciate that. sounds a\n[00:28:45] lot like the procedural justice that\n[00:28:46] we're we're teaching to our folks and\n[00:28:48] that's exactly what they should be\n[00:28:49] doing, explanations and taking their\n[00:28:51] time and and certainly the community\n[00:28:53] engagement with the youth is is exactly\n[00:28:55] what we want. So, it's great to hear.\n[00:28:56] Thank you.\n[00:28:57] >> All right. Thank you.\n[00:28:59] >> Thanks, Chief.\n[00:28:59] >> Thank you.",
+  "transcript_ref": "outputs/transcripts/-ZsKhcHXTd4_corrected.txt",
+  "topic_tags": [
+    "police",
+    "federal-programs",
+    "procurement",
+    "council"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Bureau of Alcohol, Tobacco, and Firearms",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Donna Moore",
+      "type": "person",
+      "canonical_id": "PERSON-MOORE-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Deputy Chief Rich Trudeau",
+      "role": "Deputy Chief",
+      "affiliation": "Syracuse Police Department"
+    },
+    {
+      "name": "Donna Moore",
+      "role": "Council Member",
+      "affiliation": "Syracuse Common Council"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Deputy Chief Rich Trudeau not in entity registry",
+    "Council commends SPD procedural justice training outcomes",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 11 of 19 from Common Council Study Session, Wednesday, January 7th 2026"
+  ],
+  "last_relevance_update": null
+}

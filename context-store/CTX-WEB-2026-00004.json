@@ -1,0 +1,69 @@
+{
+  "record_id": "CTX-WEB-2026-00004",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-03-11-Mayors-Office-News-130-PM",
+  "publication_date": "2026-03-22",
+  "capture_date": "2026-03-22T10:09:21Z",
+  "title": "Mayor Owens Announces the Return of the Bravest Vs. Finest Game",
+  "summary": "Mayor Sharon F. Owens announces the return of the Bravest vs. Finest basketball game on April 17, 2026, a charity fundraiser featuring the Syracuse Fire Department and Police Department in support of United Way of Central New York. The event aims to raise community awareness and funds for youth opportunity, healthy community, financial security, and community resiliency initiatives, with tickets at $10 and free parking available.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "emergency-services",
+    "neighborhood-services",
+    "initiative-launch",
+    "recurring"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Syracuse Police Department",
+    "Syracuse City School District"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-F-OWENS"
+    },
+    {
+      "name": "United Way of Central New York",
+      "type": "organization",
+      "canonical_id": "ORG-UNITED-WAY-CNY"
+    },
+    {
+      "name": "Carrie Large",
+      "type": "person",
+      "canonical_id": "PERSON-CARRIE-LARGE"
+    },
+    {
+      "name": "Pamela J. Odom",
+      "type": "person",
+      "canonical_id": "PERSON-PAMELA-J-ODOM"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor and city leadership actively promoting inter-departmental collaboration, public safety visibility, and community non-profit partnerships; demonstrates commitment to civic engagement and social impact priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Date discrepancy: Title says 2026-03-22 but article published date is 2026-03-11; URL date is 2026-03-11",
+    "Event is recurring (second year mentioned)",
+    "Venue is Henninger High School, a school district facility",
+    "Previous year raised $2,500; fundraising goal for 2026 not specified but aims to exceed prior year",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag 'community-community' replaced with 'neighborhood-services' (Claude hallucination fix)"
+  ],
+  "last_relevance_update": null
+}

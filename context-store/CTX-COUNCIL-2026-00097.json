@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00097",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=N0EQah0CZXw&t=1786s",
+  "publication_date": "2026-02-18",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Pi Kappa Epsilon Donates $13,280 for Firefighter Behavioral Health Programs",
+  "summary": "Fire Chief Mike Maz presents item 28: acceptance of $13,280.52 donation from Pi Kappa Epsilon fraternity (Syracuse University chapter) for the Fire Department's Behavioral Health Assistant Program and Critical Incident Stress Management teams. Funds support training firefighters to identify and support colleagues experiencing psychological or mental health issues after difficult calls.",
+  "raw_content": "[00:29:46] the fire chief. Um, item 28. Um, I forg\n[00:29:52] uh Py Cap and Epsilon. They were doing a\n[00:29:54] fundraiser um at the beginning of this\n[00:29:56] fiscal year. We had uh a little bit of\n[00:30:00] uh gap in some of our budget and our\n[00:30:02] needs. And uh they generously um decided\n[00:30:05] to do a fundraiser to donate money to\n[00:30:07] our department for our behavioral health\n[00:30:09] assistant program and our critical\n[00:30:11] incident stress management teams. And\n[00:30:13] these programs are are firefighters\n[00:30:15] taking care of firefighters whether they\n[00:30:16] go on a terrible call, if they're having\n[00:30:19] a psychological issue, a mental health\n[00:30:20] issue. Um, this program um and we talked\n[00:30:23] about it with the Syracuse police. We're\n[00:30:25] doing more training. So, this money is\n[00:30:27] going to training our firefighters to\n[00:30:29] make sure we can identify when\n[00:30:30] firefighters are in need and provide the\n[00:30:32] support. So, um, this fraternity did a\n[00:30:35] specific fundraiser um to donate money\n[00:30:38] to our organization for that. So, I'm\n[00:30:40] grateful for them and\n[00:30:41] >> Excellent.\n[00:30:42] >> Yep. Thank you. Yes. Anybody have any\n[00:30:44] questions?\n[00:30:46] >> Thank you.\n[00:30:47] >> Thank you. Have a good day.\n[00:30:48] >> Thank you.\n[00:30:50] >> Uh councelor Moy.",
+  "transcript_ref": "outputs/transcripts/N0EQah0CZXw_corrected.txt",
+  "topic_tags": [
+    "fire",
+    "training",
+    "workforce-development",
+    "council"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Donna Moore",
+      "type": "person",
+      "canonical_id": "PERSON-MOORE-COUNCIL"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIVERSITY"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Mike Maz",
+      "role": "Fire Chief",
+      "confidence": "medium"
+    },
+    {
+      "name": "Donna Moore",
+      "role": "Common Councilor, District 2",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-FIRST-RESPONDER-WELLNESS-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Syracuse Police Department detection from brief mention of cross-department training",
+    "Pi Kappa Epsilon is SU fraternity chapter",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 8 of 19 from Common Council Study Session, Wednesday February 18th 2026",
+    "Transcript corrections applied: national grid -> National Grid"
+  ],
+  "last_relevance_update": null
+}

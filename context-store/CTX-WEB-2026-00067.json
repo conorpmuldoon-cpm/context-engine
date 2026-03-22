@@ -1,0 +1,50 @@
+{
+  "record_id": "CTX-WEB-2026-00067",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2024/2024-12-23-Mayors-Office-News-11AM",
+  "publication_date": "2024-12-23",
+  "capture_date": "2026-03-22T14:20:45Z",
+  "title": "City of Syracuse to Close Offices for Christmas and New Years Holiday",
+  "summary": "City of Syracuse administrative offices will close December 25 and January 1 for Christmas and New Years holidays. Trash and recycling pickup will be delayed one day during both holiday weeks; metered parking will be free on both dates. Emergency public works services remain available, and residents can submit service requests via SYRCityline app or website.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "recurring",
+    "residents",
+    "service-requests",
+    "facilities",
+    "infrastructure"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Standard holiday closure announcement with operational impact details",
+    "Author marked unknown; appears to be routine communication from Mayor's office or Communications department",
+    "No budget, procurement, or policy implications detected",
+    "Multiple service continuity provisions noted (emergency hotline, digital submission channels, free parking)",
+    "Could be relevant to CIO for SYRCityline system availability/maintenance planning during holiday period",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

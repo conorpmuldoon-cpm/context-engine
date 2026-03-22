@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-WEB-2026-00080",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/2024/2024-08-27-Infrastructure-News-430-PM",
+  "publication_date": "2024-08-27",
+  "capture_date": "2026-03-22T14:23:18Z",
+  "title": "Water Crews Working to Repair Water Main Leak on West Street",
+  "summary": "The City of Syracuse Department of Water is repairing a water main leak on West Street between Erie Boulevard and West Fayette Street. The repair may cause water service disruptions and traffic delays in the area, with the Erie Boulevard exit closed until work is completed. Residents and businesses can contact the Department of Water at (315) 448-8360 for questions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "water",
+    "announcement",
+    "construction-staging",
+    "service-requests",
+    "roads-bridges",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Office of Communications",
+      "type": "organization",
+      "canonical_id": "ORG-COMMUNICATIONS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field listed as 'Unknown' in source metadata",
+    "No dollar amounts or budget impact mentioned",
+    "Geographic specificity: West Street corridor between Erie Boulevard and West Fayette Street",
+    "Contact number provided: (315) 448-8360",
+    "Mayor Owens mentioned in header navigation only, not substantively in content",
+    "This is a standard operational/maintenance announcement with constituent service information",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

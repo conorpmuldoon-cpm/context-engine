@@ -1,0 +1,76 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00098",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=N0EQah0CZXw&t=1851s",
+  "publication_date": "2026-02-18",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Resolution Honoring SPD Officer Jamie Pastorello",
+  "summary": "Donna Moore presents item 29, a resolution honoring Police Officer Jamie Pastorello for exemplary service and community compassion during a December 2025 incident. Co-sponsored with Councilors Caldwell and Jones-Rowser. All councilors join the resolution.",
+  "raw_content": "[00:30:51] >> Uh I also have item 29 um in conjunction\n[00:30:56] with councilors Caldwell and Jones\n[00:30:58] Rouseer. It's a resolution honoring\n[00:31:00] police officer Jamie Ptoello.\n[00:31:05] >> And then you need all of us too.\n[00:31:07] >> If you all I will.\n[00:31:11] >> Yeah, I would. I met him last week at a\n[00:31:13] lunchon and I'm just tremendously\n[00:31:16] honored for it. But police officers do\n[00:31:19] not get always get enough credit for the\n[00:31:22] good that they do in our community. So,\n[00:31:25] um, we are honored to honor this young\n[00:31:28] man. Thank you. [clears throat]\n[00:31:30] >> Thank you.\n[00:31:31] >> Thank you.\n[00:31:32] >> Yeah, that's it.\n[00:31:33] >> Councelor Williams.\n[00:31:34] >> Thank you very much, Madam President. I",
+  "transcript_ref": "outputs/transcripts/N0EQah0CZXw_corrected.txt",
+  "topic_tags": [
+    "police",
+    "council",
+    "vote"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Donna Moore",
+      "type": "person",
+      "canonical_id": "PERSON-MOORE-COUNCIL"
+    },
+    {
+      "name": "Rasheada Caldwell",
+      "type": "person",
+      "canonical_id": "PERSON-CALDWELL-COUNCIL"
+    },
+    {
+      "name": "Patrona Jones-Rowser",
+      "type": "person",
+      "canonical_id": "PERSON-JONES-ROWSER-COUNCIL"
+    },
+    {
+      "name": "Rita Paniagua",
+      "type": "person",
+      "canonical_id": "PERSON-PANIAGUA-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Donna Moore",
+      "role": "Common Councilor, District 2",
+      "confidence": "high"
+    },
+    {
+      "name": "Rasheada Caldwell",
+      "role": "Common Councilor At-Large",
+      "confidence": "high"
+    },
+    {
+      "name": "Rita Paniagua",
+      "role": "Council President",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Officer Jamie Pastorello offered a ride to a resident during a routine patrol on Dec 13, 2025",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 9 of 19 from Common Council Study Session, Wednesday February 18th 2026",
+    "Transcript corrections applied: national grid -> National Grid",
+    "Potential duplicate detected: overlaps with CTX-COUNCIL-2026-00095 -- linked, not skipped"
+  ],
+  "last_relevance_update": null
+}

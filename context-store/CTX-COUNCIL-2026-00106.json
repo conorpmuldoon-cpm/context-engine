@@ -1,0 +1,82 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00106",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=N0EQah0CZXw&t=3655s",
+  "publication_date": "2026-02-18",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Battery Energy Storage Systems — Six-Month Moratorium and Working Group",
+  "summary": "Jake Dishaw (deputy commissioner, code enforcement and zoning) presents item 43: a citywide six-month moratorium on battery energy storage systems (BESS). City Planning Commission held a public workshop; an internal working group from multiple departments is developing local regulatory standards. Discussion of outreach to National Grid and external organizations, though potential conflict of interest noted since the city would be evaluating National Grid's equipment. Council members Dr. Chol Majok and Rasheada Caldwell volunteer to join the working group. Councilor Nave raises saline batteries as a safer alternative to lithium.",
+  "raw_content": "[01:00:55] and zoning. Uh item number 43 is a uh\n[01:01:00] citywide six-month moratorum on battery\n[01:01:03] energy storage systems or best bees.\n[01:01:07] Um so we had the public hearing with\n[01:01:09] council. Uh the city planning commission\n[01:01:11] had a public workshop uh meeting as\n[01:01:14] well. Um and the city has a working\n[01:01:17] group kind of working on some you know\n[01:01:20] local regulatory standards that we think\n[01:01:22] would be best suited uh moving forward\n[01:01:24] with these and ask for this time so we\n[01:01:27] can complete that work.\n[01:01:28] >> So the working group that wasn't going\n[01:01:30] to be a com that's just a city working\n[01:01:33] group was there going to be a committee\n[01:01:36] put together formulated for\n[01:01:39] also to include residents or\n[01:01:42] professionals in that field. Um part of\n[01:01:45] our outreach will in include reaching\n[01:01:47] out to some of these groups including\n[01:01:50] utility uh uh National Grid for example.\n[01:01:52] So right now we've only met I think\n[01:01:54] twice as just internal city staff from\n[01:01:57] uh multiple departments. Um but yeah we\n[01:02:00] definitely want to make this inclusive.\n[01:02:02] So we can definitely include uh outreach\n[01:02:04] to outside organizations and partners.\n[01:02:07] Yeah, National Grid is um probably I\n[01:02:10] mean we're it would technically be\n[01:02:14] evaluating their their equipment. So I\n[01:02:17] don't know how how well that's going to\n[01:02:20] play out.\n[01:02:22] So\n[01:02:23] >> in that working group any any counselor\n[01:02:25] in that group at all?\n[01:02:27] >> Uh not at this time but if somebody's\n[01:02:29] interested\n[01:02:31] >> let me know.\n[01:02:32] >> Sure. Commissioner, one of the things\n[01:02:34] brought up at that um meeting was uh\n[01:02:37] saline batteries as opposed to lithium.\n[01:02:40] So if you guys are doing any research as\n[01:02:42] far as trying to attract that kind of\n[01:02:44] company here, I think that would be more\n[01:02:47] feasible if they're looking to put it in\n[01:02:48] the city as saline is not toxic like\n[01:02:51] lithium is.\n[01:02:53] >> It's another alternative.\n[01:02:55] >> Yeah. I mean right now it's just we're\n[01:02:57] just asking for some time to look into\n[01:03:00] all battery energy storage systems. It\n[01:03:02] includes various types of different\n[01:03:04] batteries types, but um point taken.\n[01:03:08] >> Hey, do you think you'll need the whole\n[01:03:10] 6 months? Is it possible you'll be done\n[01:03:11] before that?\n[01:03:13] >> Um\n[01:03:15] it's hard to say. I mean, I I don't know\n[01:03:18] in in your world, does six months go\n[01:03:20] quick? I know in mine it does. So, I uh\n[01:03:22] [laughter]\n[01:03:23] um I mean, listen, we want to get this\n[01:03:26] done, but realistically probably going\n[01:03:27] to take six months.\n[01:03:30] And before you go away, uh, councelor\n[01:03:31] Majoke would love to, uh, join your\n[01:03:33] meetings. Awesome.\n[01:03:34] >> I'll get with you, uh, send you an\n[01:03:36] invite. Okay.\n[01:03:37] >> Thank you.\n[01:03:38] >> And send me one as well, please.\n[01:03:41] >> There you go.\n[01:03:43] >> Sure.\n[01:03:44] >> Yeah.\n[01:03:44] >> Anything else on that?\n[01:03:46] >> And then, Council Codwell.\n[01:03:52] >> Thank you.",
+  "transcript_ref": "outputs/transcripts/N0EQah0CZXw_corrected.txt",
+  "topic_tags": [
+    "zoning",
+    "code-enforcement",
+    "legislation",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Marino L. Nave",
+      "type": "person",
+      "canonical_id": "PERSON-NAVE-COUNCIL"
+    },
+    {
+      "name": "Rasheada Caldwell",
+      "type": "person",
+      "canonical_id": "PERSON-CALDWELL-COUNCIL"
+    },
+    {
+      "name": "Dr. Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-MAJOK-COUNCIL"
+    },
+    {
+      "name": "National Grid",
+      "type": "organization",
+      "canonical_id": "ORG-NATIONAL-GRID"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Jake Dishaw",
+      "role": "Deputy Commissioner, Code Enforcement and Zoning",
+      "confidence": "medium"
+    },
+    {
+      "name": "Marino L. Nave",
+      "role": "Common Councilor, District 1",
+      "confidence": "high"
+    },
+    {
+      "name": "Rasheada Caldwell",
+      "role": "Common Councilor At-Large",
+      "confidence": "high"
+    },
+    {
+      "name": "Dr. Chol Majok",
+      "role": "Common Councilor At-Large",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Department of Public Works detection is likely false positive; actual presenting dept is code enforcement/zoning under Permits and Development",
+    "BESS moratorium is proactive regulatory measure; no current applications pending",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 18 of 19 from Common Council Study Session, Wednesday February 18th 2026",
+    "Transcript corrections applied: national grid -> National Grid"
+  ],
+  "last_relevance_update": null
+}

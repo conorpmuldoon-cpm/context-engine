@@ -1,0 +1,43 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00127",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=rv3OkGSe59c&t=1256s",
+  "publication_date": "2026-02-04",
+  "capture_date": "2026-03-21T23:23:19Z",
+  "title": "Property Owner Name Change for Right-of-Way Crossing Permission",
+  "summary": "Water Department presents administrative item changing the property owner name on an existing right-of-way crossing permission previously approved by council. Brief routine item with no questions.",
+  "raw_content": "[00:20:56] >> Um item 26 is really just changing the\n[00:20:59] name of the owner on this property that\n[00:21:02] is requesting permission to cross our\n[00:21:05] rightway.\n[00:21:07] we came to um previously.\n[00:21:09] >> Okay.\n[00:21:12] >> Okay.\n[00:21:13] >> Thank you.\n[00:21:13] >> Thanks, Beth.\n[00:21:15] >> Are you all set?\n[00:21:16] >> Yes.\n[00:21:18] >> Oh, no. Are you going to take that one,\n[00:21:19] too? 27\n[00:21:20] >> 27.\n[00:21:26] >> Good afternoon, councilors. Mary\n[00:21:27] Robinson, city engineer. Um this item",
+  "transcript_ref": "outputs/transcripts/rv3OkGSe59c_corrected.txt",
+  "topic_tags": [
+    "water",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [],
+  "speakers": [
+    {
+      "name": "Beth Smith",
+      "role": "Management Analyst",
+      "affiliation": "Syracuse Water Department"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Administrative name change only — no substantive policy change",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 6 of 19 from Common Council Study Session, Tuesday, February 4th, 2026",
+    "Transcript corrections applied: national grid -> National Grid"
+  ],
+  "last_relevance_update": null
+}

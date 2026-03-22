@@ -1,0 +1,70 @@
+{
+  "record_id": "CTX-WEB-2026-00032",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-02-17-Infrastructure-News-430-PM",
+  "publication_date": "2026-02-17",
+  "capture_date": "2026-03-22T14:13:52Z",
+  "title": "Reconnecting Communities to Unveil Designs for Five Key Corridors",
+  "summary": "The City of Syracuse will host a Reconnecting Communities Open House on March 4, 2026, to present final design concepts for five key corridors (Colvin, Taylor, MLK, Adams, Harrison streets, and a proposed Linear Park). The initiative addresses historic transportation barriers while advancing Vision Zero goals and complementing the I-81 Viaduct Project, with online engagement options for public feedback.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "initiative-launch",
+    "transportation",
+    "vision-zero",
+    "accessibility",
+    "public-safety-commission",
+    "equity",
+    "neighborhood-services",
+    "parks",
+    "announcement",
+    "residents",
+    "capital-planning"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Stantec",
+      "type": "organization",
+      "canonical_id": "ORG-STANTEC"
+    },
+    {
+      "name": "STEAM at Dr. King",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Administration showcasing alignment with Vision Zero goals and equitable infrastructure investment. Community-centered design process signals commitment to resident participation and addressing historic disinvestment.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in metadata; actual author/department unclear",
+    "Stantec identified as project design partner/consultant",
+    "Date extraction: event date (March 4, 2026) differs from publication date (February 17, 2026)",
+    "Parks department reference inferred from Linear Park component and event venue; not explicitly stated in body text",
+    "No budget figures provided; procurement/contract details not disclosed in this release",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

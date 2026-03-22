@@ -1,0 +1,71 @@
+{
+  "record_id": "CTX-WEB-2026-00045",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-06-05-Infrastructure-News-115-PM",
+  "publication_date": "2025-06-05",
+  "capture_date": "2026-03-22T14:16:27Z",
+  "title": "Mayor Announces Completion of Phase 1 of Creekwalk Security Cameras",
+  "summary": "Mayor Ben Walsh announced completion of Phase 1 of the Creekwalk Security Camera Initiative, deploying 20 new cameras at strategic locations along the Creekwalk trail from Onondaga Lake to Downtown Syracuse. Cameras are mounted on existing light poles and will be operated by the Syracuse Police Department to enhance public safety and deter unlawful activities. The project is part of a broader multi-phase effort to improve security infrastructure along the recreational corridor.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "initiative-launch",
+    "police",
+    "public-safety-commission",
+    "infrastructure",
+    "IT-infrastructure",
+    "parks",
+    "capital-planning"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-OWENS-EXEC"
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor publicly champions public safety infrastructure investment; frames security cameras as deterrent and law enforcement asset, signaling commitment to Creekwalk corridor development and community safety priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in metadata; article clearly issued by City of Syracuse Communications",
+    "Sharon F. Owens appears only in navigation menu context (mayor reference), not as article author or subject",
+    "No budget figures provided for Phase 1 or planned phases",
+    "Article references prior Phase Two and planned Phase Three, suggesting multi-year capital project trajectory",
+    "No specific contract awards or procurement details disclosed",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

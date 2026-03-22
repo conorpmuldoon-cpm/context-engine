@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00113",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=oUKVthl47R8&t=870s",
+  "publication_date": "2026-01-26",
+  "capture_date": "2026-03-21T23:23:19Z",
+  "title": "Fire Apparatus Replacement Program: Decades of Deferred Maintenance Nearly Resolved",
+  "summary": "Fire Chief explains apparatus replacement history — decades of deferred maintenance created a 14-truck deficit across engines and ladders. Over the last 8 years, systematic purchasing has nearly closed the gap. Current request (items 20-21) for one ladder truck, plus planned two-engine purchase next year, will bring the program to full compliance with no further deficiencies. End-of-life trucks auctioned. Meeting adjourns after this discussion.",
+  "raw_content": "[00:14:30] um the legislation for these items 20\n[00:14:32] and 21. This truck is going to replace\n[00:14:35] one of those that are past their life.\n[00:14:38] >> And just briefly, is it has 86,000 miles\n[00:14:42] in it? What What make it severe? or is\n[00:14:45] it is it um just the wear and tear, the\n[00:14:47] amount of alarms, our road conditions\n[00:14:49] here. Um like I told you um last meeting\n[00:14:52] um a front line when we buy a new truck,\n[00:14:54] it stays in the frontline service for 10\n[00:14:56] years and then from year 11 through 15\n[00:14:59] it goes as a reserve um a spare or a\n[00:15:02] recall. But there was decades before\n[00:15:06] that we didn't stay on top of our\n[00:15:08] apparatus replacement program. So we\n[00:15:10] were deficient of 14 trucks and engines.\n[00:15:13] And so over the last 8 years, we've been\n[00:15:15] buying. And right now, we're at the\n[00:15:17] point where if we just buy two engines\n[00:15:19] one year, a one ladder truck like we're\n[00:15:21] asking for this year, two engines next\n[00:15:23] year, then our apparatus replacement\n[00:15:25] program will never be deficient. It'll\n[00:15:28] be right where it needs to be.\n[00:15:30] >> Okay. And once once it is relieved from\n[00:15:32] the training, it goes where? To the\n[00:15:34] >> auction it off. Okay.\n[00:15:35] >> Yes.\n[00:15:37] >> No further questions. Thank you.\n[00:15:39] >> Okay. Thank you. Thank you.\n[00:15:40] >> Do we have any other matters?\n[00:15:43] >> No.\n[00:15:44] >> All right. So, this meeting is\n[00:15:45] concluded.\n[00:15:47] >> Thank you very much.\n[00:15:48] >> Motion to adjurnn.\n[00:15:49] >> So, move second. I\n[00:15:53] can Thank you.",
+  "transcript_ref": "outputs/transcripts/oUKVthl47R8_corrected.txt",
+  "topic_tags": [
+    "fire",
+    "capital-planning",
+    "council"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Dr. Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-MAJOK-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Fire Chief Mike Monz",
+      "role": "Fire Chief",
+      "affiliation": "Syracuse Fire Department"
+    },
+    {
+      "name": "Dr. Chol Majok",
+      "role": "Common Councilor At-Large",
+      "affiliation": "Syracuse Common Council"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Administration investment resolving long-standing fire apparatus infrastructure deficit through systematic replacement program",
+    "confidence": "high"
+  },
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "14-truck deficit accumulated over decades of neglected replacement program",
+    "8-year catch-up effort nearly complete — one more ladder + two engines will achieve full compliance",
+    "Connects to Jan 21 study session fire apparatus discussion (-26j2mt6jMU seg 8)",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 11 of 11 from Common Council Study Session, January 26th 2026",
+    "Potential duplicate detected: overlaps with CTX-COUNCIL-2026-00112 -- linked, not skipped"
+  ],
+  "last_relevance_update": null
+}

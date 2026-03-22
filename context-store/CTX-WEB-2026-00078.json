@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-WEB-2026-00078",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/2024/2024-09-06-Infrastructure-News-530-PM",
+  "publication_date": "2024-09-06",
+  "capture_date": "2026-03-22T14:22:56Z",
+  "title": "Syracuse Water Crews to Repair Water Main Leak on West Street on Sep 8",
+  "summary": "The City of Syracuse Department of Water will repair a water main transmission line on West Street near Franklin Square on September 8, 2024. The repair will require street closures between Fayette and Washington Street, potentially causing water service disruptions and traffic delays in the area.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "water",
+    "announcement",
+    "construction-staging",
+    "road-closure-fees",
+    "residents",
+    "transportation"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Office of Communications",
+      "type": "organization",
+      "canonical_id": "ORG-COMMUNICATIONS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field listed as 'Unknown' in source metadata",
+    "No dollar amounts or budget impact specified",
+    "Street closure scope clearly defined (West St between Fayette-Washington, Washington St between Franklin-West)",
+    "Contact number provided for constituent inquiries: (315) 448-8360",
+    "Accessibility consideration noted: sidewalks remain open",
+    "This is a routine maintenance announcement with public impact notification",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

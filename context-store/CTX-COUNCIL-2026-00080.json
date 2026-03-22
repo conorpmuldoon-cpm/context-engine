@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00080",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=JXzWDmOubsQ&t=1850s",
+  "publication_date": "2026-02-09",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Parkside Commons and Item 52 Held — Financial Questions",
+  "summary": "Rita Paniagua announces items 51 (Parkside Commons Phase 1 tax exemption) and 52 are both held pending financial questions from Councilors Williams and Paniagua. Meeting adjourns immediately after.",
+  "raw_content": "[00:30:50] items 51 and 52. Uh item 51 will be\n[00:30:53] held. We have some financial questions,\n[00:30:56] Councelor Williams and I. and 52 will\n[00:30:59] also be held.\n[00:31:01] >> Are they both being held then?\n[00:31:02] >> Yes, both held.\n[00:31:03] >> Okay.\n[00:31:05] And with that, we came to the uh close\n[00:31:08] of the agenda. Motion to motion to\n[00:31:11] adjurnn.\n[00:31:12] So move second. Second.\n[00:31:15] >> Okay. Thank you.",
+  "transcript_ref": "outputs/transcripts/JXzWDmOubsQ_corrected.txt",
+  "topic_tags": [
+    "housing",
+    "tax-revenue",
+    "legislation",
+    "council"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Rita Paniagua",
+      "type": "person",
+      "canonical_id": "PERSON-PANIAGUA-COUNCIL"
+    },
+    {
+      "name": "Corey J. Williams",
+      "type": "person",
+      "canonical_id": "PERSON-WILLIAMS-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Rita Paniagua",
+      "role": "Council President",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Financial questions from council leadership holding housing development tax exemption item for further review",
+    "confidence": "high"
+  },
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-PARKSIDE-COMMONS-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Item 52 description truncated in agenda; held alongside Parkside Commons",
+    "Parkside Commons has appeared in multiple study sessions — ongoing council scrutiny of housing development financing",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 9 of 9 from Common Council Study Session, Monday, February 9th, 2026",
+    "Transcript corrections applied: national grid -> National Grid"
+  ],
+  "last_relevance_update": null
+}

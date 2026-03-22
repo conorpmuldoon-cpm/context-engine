@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-WEB-2026-00053",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-03-16-Infrastructure-News-625PM",
+  "publication_date": "2025-03-16",
+  "capture_date": "2026-03-22T14:18:08Z",
+  "title": "City Department of Water Responding to Low Pressure in Water System",
+  "summary": "The City Department of Water is addressing low pressure affecting high-elevation areas and high-rise buildings, caused by a water main break in the 100 block of 7th North Street and temporary supply reduction due to high winds on Skaneateles Lake. Service disruptions are expected until repairs complete this evening. This represents an active infrastructure incident requiring CIO awareness for potential IT/SCADA system monitoring and public communications coordination.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "infrastructure",
+    "emergency-services",
+    "residents",
+    "service-requests",
+    "recurring",
+    "announcement"
+  ],
+  "department_refs": [
+    "Department of Water",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse Department of Water",
+      "type": "organization",
+      "canonical_id": "ORG-WATER-DEPT"
+    },
+    {
+      "name": "Skaneateles Lake",
+      "type": "system",
+      "canonical_id": "SYS-SKANEATELES-LAKE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Water system maintenance and emergency response demonstrates commitment to critical infrastructure resilience and public service continuity.",
+    "confidence": "medium"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00052"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown; press contact is Office of Communications (press@syr.gov)",
+    "Water main break location specified (100 block of 7th North Street) may warrant GIS mapping documentation",
+    "Dual causation identified: infrastructure failure (main break) + environmental factor (wind conditions on supply source)",
+    "Expected resolution timeline provided (same evening), suggesting rapid response capability",
+    "Contact number provided (315-448-8360) indicates public communication protocol active",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00052 — linked for review"
+  ],
+  "last_relevance_update": null
+}

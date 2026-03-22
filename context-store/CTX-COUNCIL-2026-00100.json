@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00100",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=N0EQah0CZXw&t=2226s",
+  "publication_date": "2026-02-18",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Fiscal Adviser Contract Renewal — Debt Issuance and JSCB Financing",
+  "summary": "Chief Financial Officer presents item 31, a one-year renewal of fiscal adviser and marketing services for government bond and short-term debt issuance. Originally awarded via RFP three years ago; firm is local (250 South Clinton St). Annual fees average ~$90K: ~$25K for June general offering, $8-10K per JSCB short-term debt issuance. First of two available one-year renewals; will re-RFP after both renewals used.",
+  "raw_content": "[00:37:06] >> thank you um item 31\n[00:37:14] >> uh good afternoon consero chief\n[00:37:16] financial officer um so 31 is we're\n[00:37:18] looking for a one-year renewal uh for\n[00:37:21] fiscal adviserss and marketing. Um\n[00:37:23] they're a uh firm that helps us issue\n[00:37:25] our debt. So, government bonds, any\n[00:37:27] short-term debt. Um they're we this was\n[00:37:30] the result of an RFP done three years\n[00:37:31] ago. Um they're are local players.\n[00:37:33] They're located at uh I think 250 South\n[00:37:36] Clinton Street. Um they uh they they've\n[00:37:40] been a great partner for us. Um\n[00:37:42] especially as we're going through kind\n[00:37:43] of the GSCB financing. um that that's a\n[00:37:46] fairly new initiative for I think all\n[00:37:48] the you know new city staff here. Um\n[00:37:51] there there's not a cost associated with\n[00:37:54] this on the agenda. Um and that's\n[00:37:56] because the the costs really fluctuate\n[00:37:58] based on how much debt we issue. We\n[00:38:00] issue $30 million in debt. That's going\n[00:38:02] to be a larger fee than if we issu issue\n[00:38:04] $15 million in debt. Um just to give you\n[00:38:07] a summary of what we've paid them over\n[00:38:09] the last three years. So that first um\n[00:38:11] three years of their contract is about\n[00:38:12] $90,000\n[00:38:14] on average. Uh we do our general\n[00:38:16] offering every June. Um that's about\n[00:38:18] $25,000.\n[00:38:20] And then recently we've been doing these\n[00:38:22] short-term debt issuances for JSCB um in\n[00:38:26] January of the past two years. Um those\n[00:38:28] have come out to be about $8,000 to\n[00:38:30] $10,000 a pop. So looking to continue\n[00:38:33] that relationship. Um this is the first\n[00:38:35] of one of the two-year renewals. Um and\n[00:38:38] then I think, you know, we we'd probably\n[00:38:39] look to renew again next year and then\n[00:38:41] and then we would uh do an RFP for this.\n[00:38:44] So, any questions?\n[00:38:46] >> Thank you. Great. Thank you.",
+  "transcript_ref": "outputs/transcripts/N0EQah0CZXw_corrected.txt",
+  "topic_tags": [
+    "budget",
+    "procurement",
+    "capital-planning",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Finance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Corey J. Williams",
+      "type": "person",
+      "canonical_id": "PERSON-WILLIAMS-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "CFO",
+      "role": "Chief Financial Officer",
+      "confidence": "low"
+    },
+    {
+      "name": "Corey J. Williams",
+      "role": "Common Councilor, District 3",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "CFO not identified by name in transcript",
+    "JSCB is Joint Schools Construction Board",
+    "Detected amounts $30 and $15 are truncated references to $30M and $15M in debt issuance examples",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 11 of 19 from Common Council Study Session, Wednesday February 18th 2026",
+    "Transcript corrections applied: national grid -> National Grid"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,87 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00011",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=-26j2mt6jMU&t=2017s",
+  "publication_date": "2026-01-21",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Lot Alteration, CRB Reappointment, and Axon Contract Legal Preparation",
+  "summary": "Three items: (1) Deputy Commissioner of Code Enforcement presents lot alteration at 153-159 to straighten diagonal property line between occupied house and adjacent Greater Syracuse Land Bank lot for R3 zone compliance, eliminating split-zone and existing fence encroachment; (2) Resolution to reappoint Linda Bats to Citizen Review Board — council notes multiple CRB vacancies from both council and mayoral appointments are overdue per legislation; (3) First Assistant Corporation Counsel announces Law Department and SPD prepared to discuss Axon contract legal aspects in executive session.",
+  "raw_content": "[00:33:37] Back again. Uh item number 47 is a\n[00:33:41] companion to a lot alteration which is\n[00:33:44] an administrative\n[00:33:46] um change of the lot lines. So\n[00:33:49] essentially the best way to\n[00:33:50] [clears throat] explain this is the two\n[00:33:51] there's the house if you're facing it.\n[00:33:53] There's a structure that's there on the\n[00:33:54] left side. There's a vacant lot. Current\n[00:33:56] property line kind of goes at an angle\n[00:33:58] behind the house. We're just kind of\n[00:34:00] straightening that out to basically\n[00:34:02] create two rectangles. So, it actually\n[00:34:05] makes the house lot more compliant with\n[00:34:08] the R3 zone district. Um, and this is in\n[00:34:10] line with our consistency to avoid split\n[00:34:12] zone parcels when there's a resub or a\n[00:34:15] lot alteration.\n[00:34:17] >> Are both of the lots vacant? Are they\n[00:34:19] both?\n[00:34:20] >> No.\n[00:34:20] >> Uh, so the 153 is the house\n[00:34:25] >> occupied. Excuse me. Yes. And then on\n[00:34:28] the left is the if you're facing it from\n[00:34:31] the street, excuse me, I had that\n[00:34:32] backwards. The house is 15961. The lot\n[00:34:35] is 15355.\n[00:34:39] >> So we're just kind of taking the the\n[00:34:41] line from a diagonal to a straight line\n[00:34:44] kind of makes the two [clears throat]\n[00:34:45] parcels somewhat equal.\n[00:34:48] >> So who's losing the majority of space?\n[00:34:50] The greater\n[00:34:52] >> the vacant lot is. So the house that's\n[00:34:54] there is getting a slightly larger\n[00:34:57] backyard, I guess, is the best way to\n[00:34:59] explain it.\n[00:35:00] >> Okay.\n[00:35:01] Is it owned by the same person?\n[00:35:04] >> Um, good question.\n[00:35:07] >> Oh, land bank. It says land\n[00:35:09] [clears throat] bank.\n[00:35:09] >> Oh, it's a land bank.\n[00:35:12] >> And what it would do, too, is hopefully\n[00:35:14] allow future development. But there's\n[00:35:16] also an existing fence that's kind of\n[00:35:20] down that property line. It may cross\n[00:35:21] it. This would eliminate that problem as\n[00:35:24] well.\n[00:35:25] >> Okay.\n[00:35:28] >> Thank you. and 48 is a resolution to\n[00:35:30] reappoint Linda Bats to the CRB.\n[00:35:34] I just want to make sure you all be\n[00:35:36] aware of that there are one appointment\n[00:35:38] is still open and and CRB like like you\n[00:35:42] guys to really get into it because at\n[00:35:44] this point between you you the mayor or\n[00:35:47] CRB can appoint someone because we're\n[00:35:50] way over what the legislation says and\n[00:35:53] um and I think there's another mayoral\n[00:35:56] appointment\n[00:35:57] >> that that's the mayor's appointment\n[00:35:58] that's open isn't it? No third districts\n[00:36:02] I think the mayor I think there's a\n[00:36:03] mayor appointment um\n[00:36:06] >> two I think yeah so two\n[00:36:12] >> just to add before the meeting close uh\n[00:36:13] Joe Joe Barry first assistant\n[00:36:15] corporation council good good afternoon\n[00:36:18] >> uh law and SPD are prepared to have an\n[00:36:22] initial discussion about the legal\n[00:36:24] aspects of the axon contract if you'd\n[00:36:27] like to add that to executive session.\n[00:36:28] Sure.\n[00:36:30] >> At this time. Thank you.\n[00:36:32] >> Thanks, Joe. I'm all set.\n[00:36:43] >> Okay. And then we motion to move to\n[00:36:46] executive session.\n[00:36:48] >> Legal advice.\n[00:36:50] >> Oh, legal advice.\n[00:36:50] >> Oh, legal advice. Okay.",
+  "transcript_ref": "outputs/transcripts/-26j2mt6jMU_corrected.txt",
+  "topic_tags": [
+    "land-use",
+    "zoning",
+    "police",
+    "legislation",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Permits and Development",
+    "Law Department",
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Patrona Jones-Rowser",
+      "type": "person",
+      "canonical_id": "PERSON-JONES-ROWSER-COUNCIL"
+    },
+    {
+      "name": "Axon",
+      "type": "organization",
+      "canonical_id": "ORG-AXON"
+    },
+    {
+      "name": "Greater Syracuse Property Development Corporation",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Citizen Review Board",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Jake Dishaw",
+      "role": "Deputy Commissioner of Code Enforcement and Zoning",
+      "affiliation": "City of Syracuse"
+    },
+    {
+      "name": "Joe Barry",
+      "role": "First Assistant Corporation Counsel",
+      "affiliation": "City of Syracuse"
+    },
+    {
+      "name": "Patrona Jones-Rowser",
+      "role": "Common Councilor, District 4",
+      "affiliation": "Syracuse Common Council"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council highlights unfilled CRB appointments from both council and mayor beyond legislative deadlines; Axon contract legal review signals careful oversight",
+    "confidence": "medium"
+  },
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-AXON-LPR-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Axon contract discussion moved to executive session — substantive legal aspects not publicly recorded",
+    "CRB legislation allows council, mayor, or CRB itself to appoint when vacancies are overdue",
+    "Lot alteration policy: avoid split-zone parcels on resub or lot alteration",
+    "Axon discussion connects to Feb 6 Joint Public Safety committee meeting (b75K4ejDfY4)",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 19 of 19 from Common Council Study Session, January 21st 2026"
+  ],
+  "last_relevance_update": null
+}

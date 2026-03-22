@@ -1,0 +1,94 @@
+{
+  "record_id": "CTX-MANUAL-2026-00005",
+  "source_agent": "manual_input",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=QEfsEBcZQoE&t=2608s",
+  "publication_date": "2026-03-17",
+  "capture_date": "2026-03-21T00:00:00Z",
+  "title": "SU Comstock Project Economics, Energy Design & Committee Close",
+  "summary": "Council members ask about energy independence and total project cost. The Comstock buildings will use heat pump technology powered by National Grid (not energy-independent). Combined Comstock project hard cost is approximately $253M; all three SU residence hall projects total $360M in construction value, employing 600-700 workers. Eric clarifies that the fatal dump truck incident involving two SU students was related to a separate housing development project on University Avenue, not the Comstock project. Chair Majok acknowledges Hayner Hoyt's contributions, reaffirms the city's commitment to fair permitting processes, and adjourns the committee meeting.",
+  "raw_content": "Neither of these projects are going to be energy independent. Correct. They're not. They're provided by through National Grid. Power from National Grid. So you're not going for any sort of LEED standards with this? We are optimizing their lowest energy use index possible for the construction. So they are high energy heat pump buildings. And clarification, Eric, the two people who were hit by the dump truck last year or the two dump truck incidents and the trolley incident, I think they're the most recent loss of life on SU campus. I don't believe those were construction related, right? Those were just normal course of traffic. My understanding is that there is a separate residential housing development taking place further down University, it was a construction vehicle related to that project that was involved. It was two students I believe that was part of one incident and I believe it was construction attributed to that project. Although you have precautions in place around the construction site, I think that anyone who's doing any type of construction work travel in the complete area, probably a one-mile square, they need to be highly attentive to pedestrians. So Syracuse police, when we talk about that liability waiver, Syracuse police and Syracuse fire are departments that provide comments and review. One of the pieces of feedback was Ostrom right now. Cars do tend to speed there. So those four-way stops were implemented as part of this work. Those did not exist on Ostrom before. That was based on SPD, Syracuse Police recommendation, and that was designed to help improve safety in light of the project. For the record, I've heard a lot of people like those being there independent of the construction. Could I ask another question? What is the total project cost for these? Roughly 253 million hard cost construction plus soft cost over and above that. Two combined. So all three residence hall projects total about $360 million in construction value. We're probably going to employ between 600 and 700 people on the site over the course of the construction project. I think we are all very grateful and appreciative to Hayner Hoyt for the great work that you do. We are making sure that we do the right thing in terms of the city permitting processes, making sure that we are following the rules that we have set in place which is fair for everybody. Well, that will conclude our meeting. Thank you, Eric. Thank you to both of you. Thank you, counselors. That will be it for us. Thank you.",
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "roads-bridges",
+    "construction-staging"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Syracuse Police Department",
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Hayner Hoyt Corporation",
+      "type": "organization",
+      "canonical_id": "ORG-HAYNER-HOYT"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIVERSITY"
+    },
+    {
+      "name": "National Grid",
+      "type": "organization",
+      "canonical_id": "ORG-NATIONAL-GRID"
+    },
+    {
+      "name": "Comstock Avenue",
+      "type": "location",
+      "canonical_id": null
+    },
+    {
+      "name": "Ostrom Avenue",
+      "type": "location",
+      "canonical_id": null
+    },
+    {
+      "name": "Thornton Park",
+      "type": "location",
+      "canonical_id": null
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Dr. Chol Majok",
+      "role": "Committee Chair, Common Councilor At-Large",
+      "affiliation": "Syracuse Common Council"
+    },
+    {
+      "name": "Jeremy Thurston",
+      "role": "President",
+      "affiliation": "Hayner Hoyt Corporation"
+    },
+    {
+      "name": "Joel Fury",
+      "role": "Director of Campus Planning Design Construction",
+      "affiliation": "Syracuse University"
+    }
+  ],
+  "speaker_confidence": "high",
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Chair Majok explicitly welcomes Hayner Hoyt as employer and development contributor while reaffirming commitment to fair permitting — signals council support for SU development balanced with fiscal accountability",
+    "confidence": "medium"
+  },
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-SU-COMSTOCK-CONSTRUCTION-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Auto-generated YouTube transcript — speaker names corrected via entity-registry.json (verified from syr.gov 2026-03-21)",
+    "Fatal dump truck incident discussed — attributed to separate University Ave housing project, not Comstock",
+    "Four-way stops on Ostrom implemented based on SPD recommendation — noted as popular independent of construction",
+    "Segment 4 of 4 from Public Works Committee Meeting, March 17, 2026",
+    "2026-03-21: Cleaned stale provisional tag note ('construction-staging' promoted to taxonomy)."
+  ],
+  "last_relevance_update": null
+}

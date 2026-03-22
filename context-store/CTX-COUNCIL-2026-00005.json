@@ -1,0 +1,44 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00005",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=-26j2mt6jMU&t=1415s",
+  "publication_date": "2026-01-21",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "South Geddes Street Lease Amendment to Include Pedestrian-Vehicle Bridge",
+  "summary": "Department of Assessment requests amending Ordinance 994 to include the bridge connecting properties at 115 and 116-18 South Geddes Street in railroad lease agreement. Bridge provides both pedestrian and vehicle transit between the two properties; separate railroad bridge exists farther north. Item 26 (Parkside Commons) held for committee meeting.",
+  "raw_content": "[00:23:35] assessment department. I have items 25\n[00:23:38] through 28. 25. Uh, department is asking\n[00:23:41] to amend ordinance 994, which authorized\n[00:23:44] a lease agreement with the railroads for\n[00:23:46] the properties at 115 and 116-18 South\n[00:23:50] Ghetto Street. We just like the lease to\n[00:23:52] include the bridge that connects those\n[00:23:54] two properties across Ghetto Street.\n[00:23:57] >> Why do we need the bridge?\n[00:23:59] >> Uh, transit to go from one to the other,\n[00:24:02] both pedestrian and vehicles.\n[00:24:04] >> So, it's not purely a railroad bridge.\n[00:24:06] It also has pedestrian access. This is\n[00:24:08] Yes, there's a separate railro bridge a\n[00:24:10] bit farther north across Getta Street.\n[00:24:15] >> Thank you. [clears throat] Uh\n[00:24:16] >> we're going to hold 26 for the We have a\n[00:24:18] committee meeting for Parkside Commons",
+  "transcript_ref": "outputs/transcripts/-26j2mt6jMU_corrected.txt",
+  "topic_tags": [
+    "land-use",
+    "roads-bridges",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Assessment"
+  ],
+  "entity_refs": [],
+  "speakers": [
+    {
+      "name": "Michael Layman",
+      "role": "Deputy Commissioner of Assessment",
+      "affiliation": "City of Syracuse"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Transcript garbles 'Geddes' as 'Ghetto' and 'Getta'",
+    "Item 26 (Parkside Commons) held for committee meeting — not discussed substantively here",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 10 of 19 from Common Council Study Session, January 21st 2026"
+  ],
+  "last_relevance_update": null
+}

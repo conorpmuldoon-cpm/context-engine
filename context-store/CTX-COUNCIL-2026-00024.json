@@ -1,0 +1,60 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00024",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=-ZsKhcHXTd4&t=2194s",
+  "publication_date": "2026-01-07",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Special Use Permit for Muslim Funeral Home at 4400 South Salina Street with Site Improvements",
+  "summary": "Special use permit for a Muslim funeral service home at 4400 South Salina Street and West Glen Avenue. Services involve brief family ceremonies usually under one hour. Site improvements include adding sidewalks, curbing, and organized parking to a currently 100% paved vacant building, improving pedestrian and vehicular safety. Applied for by LaBella Associates under the 2023 zoning code.",
+  "raw_content": "[00:36:34] zoning. Item number 39 is a special use\n[00:36:36] permit uh to establish a funeral home at\n[00:36:39] 4400 South Salena Street in West Glenn.\n[00:36:42] Um, I will add that this is a Muslim\n[00:36:45] funeral service home. So, these are uh\n[00:36:48] very quick, short, um, small gatherings.\n[00:36:51] Um,\n[00:36:53] >> I'm glad you clarified that cuz I was\n[00:36:54] like, I don't know what's going on here.\n[00:36:57] This Okay.\n[00:36:58] >> Yeah. Um, you know, if you're familiar\n[00:37:00] with the one that's down the street.\n[00:37:01] >> When you say when you say short\n[00:37:03] gatherings, like are they also doing the\n[00:37:06] preparation of the body in this\n[00:37:08] location? So, I'm certainly not an\n[00:37:11] expert on it, but there is a a body\n[00:37:13] washing um that happens in a a brief\n[00:37:16] short ceremony. It's my understanding\n[00:37:18] it's uh very small direct family usually\n[00:37:21] and it's usually under an hour. Um but\n[00:37:24] we can connect offline and I can get\n[00:37:26] more info on that. Um what I can say is\n[00:37:28] the site improvements here, um from a\n[00:37:30] pedestrian vehicular traffic standpoint\n[00:37:32] with parking, if you if you know it now,\n[00:37:34] it's completely paved 100%. There's no\n[00:37:36] sidewalks, there's no curbing. This is\n[00:37:38] going to add all of that and I think\n[00:37:40] it'll make it a more attractive site and\n[00:37:42] it'll put a vacant building back in use,\n[00:37:44] but also it'll make the traffic flow and\n[00:37:46] pedestrian flow on that uh on that\n[00:37:48] corner a lot more safer.\n[00:37:52] >> Any questions,\n[00:37:54] Katie? No.\n[00:37:55] >> I just um I just uh funeral home just\n[00:37:58] jumped out at me. I just wondered do we\n[00:38:00] um have we always expressed like that\n[00:38:03] type of business or like uh normally we\n[00:38:05] would say\n[00:38:07] uh establishing a business but white\n[00:38:09] funeral home was\n[00:38:11] >> so it's a it's an actual use in the\n[00:38:13] zoning code so it was adopted with the\n[00:38:15] new zoning code in 2023.\n[00:38:17] >> Thanks.\n[00:38:18] >> Yep. Thanks Jake. I'm all set.\n[00:38:20] President,\n[00:38:21] >> any other questions from any other\n[00:38:22] counselors? Anything else? All right. So\n[00:38:25] this meeting is\n[00:38:26] >> no\n[00:38:27] session.\n[00:38:28] >> Oh we're going into executive session.\n[00:38:29] Yes.\n[00:38:29] >> See a motion executive session.\n[00:38:32] >> Second purposes of legal advice.\n[00:38:34] >> Motion. All in favor? Hi\n[00:38:39] >> 30.",
+  "transcript_ref": "outputs/transcripts/-ZsKhcHXTd4_corrected.txt",
+  "topic_tags": [
+    "zoning",
+    "land-use",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "LaBella Associates",
+      "type": "organization",
+      "canonical_id": "ORG-LABELLA"
+    },
+    {
+      "name": "Jimmy Monto",
+      "type": "person",
+      "canonical_id": "PERSON-MONTO-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Jake Dishaw",
+      "role": "Deputy Commissioner, Code Enforcement",
+      "affiliation": "Department of Permits and Development"
+    },
+    {
+      "name": "Jimmy Monto",
+      "role": "Council Member",
+      "affiliation": "Syracuse Common Council"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Law Department detection from executive session motion at segment end — not the presenting department",
+    "Funeral home use is a defined category in 2023 zoning code",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 19 of 19 from Common Council Study Session, Wednesday, January 7th 2026"
+  ],
+  "last_relevance_update": null
+}

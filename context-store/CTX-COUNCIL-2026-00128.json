@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00128",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=rv3OkGSe59c&t=1319s",
+  "publication_date": "2026-02-04",
+  "capture_date": "2026-03-21T23:23:19Z",
+  "title": "Chainsaw Training at Heath Park and Good Cause Eviction Local Law Introduction",
+  "summary": "Two items: (1) Parks Commissioner presents agreement with Dan Groves DBA Olympic Tree and Landscape Management for basic chainsaw operations training at Heath Park on behalf of Onondaga Earth Corps — two-day training, no cost to city, insured; (2) Council member Ehrenreich introduces local law opting into Good Cause Eviction (NY Real Property Law Chapter 50, Article 6a) with amended language adjusting small landlord definition to one dwelling unit. Automatically tabled for future discussion.",
+  "raw_content": "[00:21:59] >> I have items number 28 and 29. Uh, 28.\n[00:22:05] >> Good afternoon, Saiisha Bird. Um,\n[00:22:07] Commissioner of Parks. We have one item.\n[00:22:10] 28 is agreement with Dan Grover's DBA\n[00:22:13] Olympic Tree and Landscape Management.\n[00:22:16] They're going to be teaching a basic\n[00:22:18] chainsaw operation training um, at Heath\n[00:22:21] Park on behalf of Anadaga Earth. So,\n[00:22:24] it's a two-day training. They are\n[00:22:26] insured. Um, but it's because it's in\n[00:22:29] Heath Park in one of our parks.\n[00:22:32] [snorts]\n[00:22:32] >> Okay.\n[00:22:34] >> Any questions?\n[00:22:36] >> Okay. Thank you.\n[00:22:39] >> Number 229. I'm in introducing a local\n[00:22:42] law to be introduced and tabled. You\n[00:22:44] have amended language in your packet\n[00:22:47] that was just handed out.\n[00:22:48] >> Mr.\n[00:22:51] Can you speak into the mic?\n[00:22:52] >> Oh, shoot. Yeah. Council council right\n[00:22:55] provided me. Yeah, I would change the\n[00:22:57] short title to um reflect um [snorts]\n[00:23:00] the revised letter and ordinance.\n[00:23:02] >> Thank you.\n[00:23:05] >> Are we going to table this for uh\n[00:23:08] >> it is automatically tabled?\n[00:23:10] >> Okay, it will be table.\n[00:23:11] >> All right. Thank you.\n[00:23:15] >> Okay. Uh councel.\n[00:23:17] >> Thank you madam president. I have items",
+  "transcript_ref": "outputs/transcripts/rv3OkGSe59c_corrected.txt",
+  "topic_tags": [
+    "parks",
+    "housing",
+    "legislation",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Hanah Ehrenreich",
+      "type": "person",
+      "canonical_id": "PERSON-EHRENREICH-COUNCIL"
+    },
+    {
+      "name": "Onondaga Earth Corps",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Sisha Bird",
+      "role": "Commissioner of Parks, Recreation and Youth Programs",
+      "affiliation": "City of Syracuse"
+    },
+    {
+      "name": "Hanah Ehrenreich",
+      "role": "Common Councilor At-Large",
+      "affiliation": "Syracuse Common Council"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Law Department detection is false positive — corp counsel mentioned for ordinance language, not as presenting department",
+    "Good Cause Eviction is significant housing policy — local opt-in of state law",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 8 of 19 from Common Council Study Session, Tuesday, February 4th, 2026",
+    "Transcript corrections applied: national grid -> National Grid"
+  ],
+  "last_relevance_update": null
+}

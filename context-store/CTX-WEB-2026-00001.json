@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-WEB-2026-00001",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-20-Infrastructure-News-1000-AM",
+  "publication_date": "2026-03-22",
+  "capture_date": "2026-03-22T10:08:43Z",
+  "title": "Department Of Engineering To Host Public Meeting For South Ave Bridge",
+  "summary": "The City of Syracuse Department of Engineering will host a public meeting on March 24, 2026 to gather community feedback on the planned rehabilitation of the South Avenue Bridge over Onondaga Creek. The $-amount-undisclosed project includes replacing bearings, rebuilding sidewalks, repairing masonry, and resealing the deck; online comments accepted through April 10.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "roads-bridges",
+    "capital-planning",
+    "residents",
+    "construction-staging"
+  ],
+  "department_refs": [
+    "Department of Engineering"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-F-OWENS"
+    },
+    {
+      "name": "City of Syracuse Department of Engineering",
+      "type": "organization",
+      "canonical_id": "ORG-DEPT-ENGINEERING"
+    },
+    {
+      "name": "Office of Communications",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor Owens frames bridge rehabilitation as critical infrastructure investment and public safety priority; positions project as preserving connectivity and community service.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Publication date discrepancy: header shows 'Published on March 20, 2026' but URL and content reference meeting on 'Tuesday, March 24'",
+    "No project budget or funding source disclosed in release",
+    "Seals Community Center location: Kirk Park, 300 W. Borden Ave confirmed as meeting venue",
+    "Public engagement mechanism: in-person meeting + online comments portal (syr.gov/south-ave-bridge)",
+    "Project scope clearly detailed: specific work items listed (bearings, sidewalks, masonry, deck sealing, painting)",
+    "Author listed as 'Unknown' - drafted by Department of Engineering or Office of Communications",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

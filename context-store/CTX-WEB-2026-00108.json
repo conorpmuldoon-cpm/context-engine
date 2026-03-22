@@ -1,0 +1,80 @@
+{
+  "record_id": "CTX-WEB-2026-00108",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2023/2023-10-05-Mayors-Office-News",
+  "publication_date": "2023-10-05",
+  "capture_date": "2026-03-22T14:28:42Z",
+  "title": "Mayor Walsh Announces Syracuse Wins Transportation Project of the Year",
+  "summary": "Syracuse DPW received the Transportation Project of the Year award from the Upstate Chapter of the Institute of Transportation Engineers for its data-driven Speed Hump Pilot Program. Since 2021, the City has installed over a dozen traffic-calming speed humps and cushions designed collaboratively with the Fire Department to support the Mayor's Vision Zero initiative aimed at eliminating traffic fatalities and serious injuries.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "transportation",
+    "vision-zero",
+    "infrastructure",
+    "public-safety-commission",
+    "sustainability",
+    "announcement",
+    "contract-award"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Neil Burke",
+      "type": "person",
+      "canonical_id": "PERSON-NEIL-BURKE"
+    },
+    {
+      "name": "Timothy Faulker",
+      "type": "person",
+      "canonical_id": "PERSON-TIMOTHY-FAULKER"
+    },
+    {
+      "name": "Fisher Associates",
+      "type": "organization",
+      "canonical_id": "ORG-FISHER-ASSOCIATES"
+    },
+    {
+      "name": "Institute of Transportation Engineers - Upstate Chapter",
+      "type": "organization",
+      "canonical_id": "ORG-ITE-UPSTATE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Award recognition demonstrates Mayor's Vision Zero commitment and data-driven infrastructure approach; signals sustained investment in traffic safety and sustainable transportation initiatives.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Title attribution discrepancy: headline attributes announcement to 'Mayor Walsh' but press release byline lists 'Unknown' author",
+    "Department of Parks, Recreation and Youth Programs mentioned in breadcrumb navigation but not substantively in content; mechanically extracted entity should be removed",
+    "Fisher Associates is external consultant partner, not a City department",
+    "Vision Zero commitment announced January 2023; this October award validates implementation progress",
+    "Expansion plans noted for fall 2023 but no specific budget or locations provided",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

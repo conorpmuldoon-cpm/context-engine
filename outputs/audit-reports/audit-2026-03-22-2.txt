@@ -1,0 +1,85 @@
+Context Engine Data Quality Audit — 2026-03-22
+============================================================
+
+Loading configuration...
+Loading context records...
+
+=======================================================
+  Context Engine Data Quality Audit
+  156 records scanned | 2026-03-22
+=======================================================
+
+Running checks...
+
+--- AUTO-FIXABLE ISSUES (use --fix to apply) ---
+
+  (none)
+
+--- RECOMMENDATIONS (require review) ---
+
+  [5] Potential missing cluster: 5 found
+           : 4 records on 2026-01-07 | Syracuse Fire Department | [council, fire]
+         Records: CTX-COUNCIL-2026-00012, CTX-COUNCIL-2026-00016, CTX-COUNCIL-2026-00017, CTX-COUNCIL-2026-00018
+           : 4 records on 2026-03-17 | Department of Public Works | [accessibility, council, roads-bridges]
+         Records: CTX-COUNCIL-2026-00048, CTX-COUNCIL-2026-00049, CTX-COUNCIL-2026-00050, CTX-COUNCIL-2026-00051
+           : 7 records on 2026-03-18 | (mixed) | [(varied)]
+         Records: CTX-COUNCIL-2026-00060, CTX-COUNCIL-2026-00061, CTX-COUNCIL-2026-00062, CTX-COUNCIL-2026-00063, CTX-COUNCIL-2026-00064, CTX-COUNCIL-2026-00065, CTX-COUNCIL-2026-00069
+           : 3 records on 2026-03-18 | Syracuse Police Department | [equity, grants, police]
+         Records: CTX-COUNCIL-2026-00066, CTX-COUNCIL-2026-00067, CTX-COUNCIL-2026-00068
+           : 5 records on 2026-03-16 | Department of Finance | [audit, budget, council]
+         Records: CTX-COUNCIL-2026-00147, CTX-COUNCIL-2026-00148, CTX-COUNCIL-2026-00149, CTX-COUNCIL-2026-00150, CTX-COUNCIL-2026-00151
+
+  [7] Unregistered frequent entity: 10 found
+           : Comstock Avenue (location, 8 records)
+           : SAEVI (organization, 7 records)
+           : Jeffrey Hoover (person, 6 records) — Director of Government Partnerships
+           : Paul Kalabufo (person, 6 records) — Operations Manager, Syracuse
+           : Parkside Commons (organization, 6 records)
+           : Greater Syracuse Property Development Corporation (organization, 4 records)
+           : Neil Burke (person, 4 records) — DPW Commissioner; DPW Staff; Fire Department Representative
+           : Rich Trudeau (person, 4 records) — Deputy Chief of Police; First Deputy Chief; SPD First Deputy Chief
+           : JCOM (organization, 4 records)
+           : Ostrom Avenue (location, 4 records)
+
+  [12] Unlinked duplicate: 31 issues across 11 records
+      CTX-COUNCIL-2026-00031: Matches dedup criteria with CTX-COUNCIL-2026-00139 but no shared cluster
+      CTX-COUNCIL-2026-00037: Matches dedup criteria with CTX-COUNCIL-2026-00078 but no shared cluster
+      CTX-COUNCIL-2026-00048: Matches dedup criteria with CTX-COUNCIL-2026-00060 but no shared cluster
+      CTX-COUNCIL-2026-00048: Matches dedup criteria with CTX-COUNCIL-2026-00061 but no shared cluster
+      CTX-COUNCIL-2026-00048: Matches dedup criteria with CTX-COUNCIL-2026-00062 but no shared cluster
+      CTX-COUNCIL-2026-00048: Matches dedup criteria with CTX-COUNCIL-2026-00063 but no shared cluster
+      CTX-COUNCIL-2026-00048: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00049: Matches dedup criteria with CTX-COUNCIL-2026-00060 but no shared cluster
+      CTX-COUNCIL-2026-00049: Matches dedup criteria with CTX-COUNCIL-2026-00061 but no shared cluster
+      CTX-COUNCIL-2026-00049: Matches dedup criteria with CTX-COUNCIL-2026-00062 but no shared cluster
+      CTX-COUNCIL-2026-00049: Matches dedup criteria with CTX-COUNCIL-2026-00063 but no shared cluster
+      CTX-COUNCIL-2026-00049: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00050: Matches dedup criteria with CTX-COUNCIL-2026-00060 but no shared cluster
+      CTX-COUNCIL-2026-00050: Matches dedup criteria with CTX-COUNCIL-2026-00061 but no shared cluster
+      CTX-COUNCIL-2026-00050: Matches dedup criteria with CTX-COUNCIL-2026-00062 but no shared cluster
+      CTX-COUNCIL-2026-00050: Matches dedup criteria with CTX-COUNCIL-2026-00063 but no shared cluster
+      CTX-COUNCIL-2026-00050: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00051: Matches dedup criteria with CTX-COUNCIL-2026-00061 but no shared cluster
+      CTX-COUNCIL-2026-00051: Matches dedup criteria with CTX-COUNCIL-2026-00062 but no shared cluster
+      CTX-COUNCIL-2026-00051: Matches dedup criteria with CTX-COUNCIL-2026-00063 but no shared cluster
+      CTX-COUNCIL-2026-00051: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00060: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00060: Matches dedup criteria with CTX-COUNCIL-2026-00115 but no shared cluster
+      CTX-COUNCIL-2026-00060: Matches dedup criteria with CTX-COUNCIL-2026-00116 but no shared cluster
+      CTX-COUNCIL-2026-00060: Matches dedup criteria with CTX-COUNCIL-2026-00117 but no shared cluster
+      CTX-COUNCIL-2026-00061: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00062: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00062: Matches dedup criteria with CTX-COUNCIL-2026-00116 but no shared cluster
+      CTX-COUNCIL-2026-00063: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00075: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00075: Matches dedup criteria with CTX-MANUAL-2026-00002 but no shared cluster
+
+--- SUMMARY ---
+
+  Auto-fixable:     0 issues
+  Recommendations:  46 issues
+  Errors:           0
+
+  No fixable issues found.
+
+  Schema valid: 156/156

@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-WEB-2026-00115",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2023/2023-09-05-City-News-1200",
+  "publication_date": "2023-09-05",
+  "capture_date": "2026-03-22T14:30:07Z",
+  "title": "Mayor Walsh Announces Distribution of 36,500 New Trash Carts",
+  "summary": "Mayor Ben Walsh announced the citywide distribution of 36,500 new covered trash carts to all Syracuse households, with delivery completed by mid-September. The semi-automated pickup system uses tipper-arm equipped trucks to reduce worker injuries and improve street cleanliness. This infrastructure modernization represents a significant operational change requiring resident compliance with new setout rules and storage requirements.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "infrastructure",
+    "fleet",
+    "workforce-development",
+    "public-safety",
+    "sustainability",
+    "residents",
+    "policy-change",
+    "initiative-launch"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE"
+    },
+    {
+      "name": "Cityline",
+      "type": "system",
+      "canonical_id": "SYS-CITYLINE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor emphasizes constituent benefits, neighborhood aesthetics, and worker safety as core priorities. Zero-injury safety record on deployed routes positions this as a leadership achievement.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00111"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field listed as 'Unknown' in source metadata despite mayoral attribution in body",
+    "Title discrepancy: byline says 'Mayor Walsh' but site header shows 'Mayor Sharon F. Owens' — verify current mayor",
+    "Multilingual accessibility (Spanish, Arabic, Vietnamese, Nepali) indicates equity-focused implementation",
+    "Related recycling cart rollout planned for 2024 suggests phased modernization strategy",
+    "Code enforcement implications: illegal setouts subject to citations/fines — may drive 311 complaint volume",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag corrected: 'safety' replaced with 'public-safety' (2026-03-22)",
+    "Potential duplicate of CTX-WEB-2026-00111 — linked for review"
+  ],
+  "last_relevance_update": null
+}

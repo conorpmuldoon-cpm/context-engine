@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-WEB-2026-00015",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2022",
+  "publication_date": "2026-03-22",
+  "capture_date": "2026-03-22T10:11:31Z",
+  "title": "Traffic & Infrastructure 2022",
+  "summary": "The City of Syracuse Department of Water is closing South Geddes Street between Richmond Avenue and Wilkinson Street beginning December 22, 2022 to repair a water main leak. This infrastructure maintenance work impacts traffic flow and public access in the affected corridor.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "roads-bridges",
+    "announcement",
+    "construction-staging",
+    "road-closure-fees"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "South Geddes Street",
+      "type": "system",
+      "canonical_id": "SYS-GEDDES-ST"
+    },
+    {
+      "name": "Richmond Avenue",
+      "type": "system",
+      "canonical_id": null
+    },
+    {
+      "name": "Wilkinson Street",
+      "type": "system",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field marked 'Unknown' - no individual attribution detected",
+    "Publication date (December 22, 2022) predates URL metadata date (2026-03-22); URL date appears to be archive/indexing date",
+    "No budget impact, dollar amounts, or timeline for repair completion specified",
+    "Standard infrastructure maintenance announcement with minimal operational detail for CIO purposes",
+    "No digital systems, IT infrastructure, or innovation components identified",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2026-03-21",
+    "briefing_type": "department",
+    "target": "Department of Public Works",
+    "records_reviewed": 61,
+    "records_core": 35,
+    "rating": null,
+    "notes": "First briefing generated. No rating collected."
+  },
+  {
+    "date": "2026-03-21",
+    "briefing_type": "entity",
+    "target": "Veo (micromobility program)",
+    "records_reviewed": 12,
+    "records_core": 9,
+    "rating": 5,
+    "notes": "Operator rated 5/5. Cluster-based briefing format worked well for tracking a vendor relationship across committee hearings."
+  }
+]

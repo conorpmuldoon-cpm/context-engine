@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-WEB-2026-00026",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-20-Infrastructure-News-1000-AM",
+  "publication_date": "2026-03-20",
+  "capture_date": "2026-03-22T14:12:08Z",
+  "title": "Department Of Engineering To Host Public Meeting For South Ave Bridge",
+  "summary": "The City of Syracuse Department of Engineering will host a public meeting on March 24, 2026, to present planned rehabilitation work on the South Avenue Bridge over Onondaga Creek and gather community feedback. Proposed work includes replacing bearings, rebuilding sidewalks, repairing masonry and concrete, and sealing/painting structural elements. Online comments will be accepted through April 10.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "roads-bridges",
+    "announcement",
+    "residents",
+    "transparency",
+    "construction-staging",
+    "capital-planning"
+  ],
+  "department_refs": [
+    "Department of Engineering"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    },
+    {
+      "name": "Seals Community Center at Kirk Park",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor publicly champions infrastructure investment and safety improvements as critical city priorities; framing bridge rehabilitation as essential for connectivity and community service continuity.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00001"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in source metadata.",
+    "No dollar amounts provided for project scope or budget.",
+    "Meeting location and date clearly specified (March 24, 7-8 PM); online comment period through April 10.",
+    "No specific department head or project manager identified beyond Department of Engineering.",
+    "URL structure suggests this is part of systematic infrastructure news reporting category.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00001 — linked for review"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-WEB-2026-00087",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/2024/2024-05-24-Infrastructure-News-445-PM",
+  "publication_date": "2024-05-24",
+  "capture_date": "2026-03-22T14:24:36Z",
+  "title": "Mayor Walsh Announces Road Reconstruction Project on Peat Street",
+  "summary": "Mayor Ben Walsh announced a road reconstruction project on Peat Street beginning May 25, 2024, involving milling and paving operations from Burnet Avenue to Erie Boulevard. The road will close daily from 6 a.m. to 6 p.m. for approximately one week, with traffic detours in place and businesses remaining accessible via Erie Boulevard.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "roads-bridges",
+    "infrastructure",
+    "construction-staging",
+    "transportation"
+  ],
+  "department_refs": [
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-OWENS-EXEC"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor-led announcement of infrastructure investment demonstrates commitment to roads and bridges maintenance, positioning administration as responsive to citywide asset management.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Sharon F. Owens appears in header navigation context but is not mentioned in article body; title reference is unclear",
+    "No dollar amount provided for project cost",
+    "No specific department responsible for execution identified in release",
+    "Weather contingency noted; actual completion timeline dependent on external factors",
+    "Community impact mitigation (business accessibility, detour planning) explicitly addressed",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

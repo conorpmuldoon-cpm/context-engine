@@ -1,0 +1,39 @@
+{
+  "date": "2026-01-26",
+  "source": "agenda_parse",
+  "names": [],
+  "organizations": [
+    {
+      "name": "Syracuse Inner City Rotary Club",
+      "context": "Item 76"
+    },
+    {
+      "name": "AXON Enterprises",
+      "context": "Item 78"
+    },
+    {
+      "name": "CBH Group",
+      "context": "Item 22"
+    },
+    {
+      "name": "MultiMed Billing Service",
+      "context": "Item 22"
+    },
+    {
+      "name": "New York, Susquehanna & Western Railroad",
+      "context": "Item 29"
+    },
+    {
+      "name": "Northland Communications",
+      "context": "Item 29"
+    },
+    {
+      "name": "Spectrum",
+      "context": "Item 32"
+    },
+    {
+      "name": "Flock Group",
+      "context": "Item 48"
+    }
+  ]
+}

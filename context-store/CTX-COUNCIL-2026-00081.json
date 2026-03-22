@@ -1,0 +1,50 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00081",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=m56feIFbY6s&t=315s",
+  "publication_date": "2026-03-04",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Items 12-22 Overview -- Midland Ave Lot Acquisition and DPW Infrastructure Batch",
+  "summary": "Councilor Majok presents items 12-22. Item 12: $5,000 acquisition of vacant 0.1-acre lot at 636-638 Midland Ave near the creek for passive recreational green space, consolidating city ownership of a flood zone block. DPW staff confirms property has been vacant 20+ years. Brief overview of remaining items before detailed presentations.",
+  "raw_content": "[00:05:15] >> Thank you, Madam President. I have item\n[00:05:18] 12 to 22.\n[00:05:23] Anybody from BPW here?\n[00:05:31] >> You can take draw. [laughter]\n[00:05:35] >> I'm not purchasing this lot on Midland.\n[00:05:37] Uh we own most of the properties in the\n[00:05:39] area. Property owner approached us uh\n[00:05:41] looking to get rid of his property. Got\n[00:05:43] it appraised. the sale prices for a\n[00:05:45] little less than appraised value, I\n[00:05:46] think. And this is just to create um an\n[00:05:49] open space assemblage in the\n[00:05:50] neighborhood.\n[00:05:54] >> Okay.\n[00:05:54] >> So, do we know what we want to do with\n[00:05:56] it?\n[00:05:56] >> Just holding it forever uh forever\n[00:05:59] recreational open space, passive\n[00:06:00] recreational space. [snorts]\n[00:06:03] >> It's right next to the creek lot. So,\n[00:06:04] it's forever green space, right?\n[00:06:06] >> Yeah. Yeah. It's in the it's in the\n[00:06:08] flood zone. Um but yeah, we thought it\n[00:06:11] was in the city's advantage when it was\n[00:06:12] available to to you know defensively buy\n[00:06:14] it so that we can have uninterrupted\n[00:06:15] ownership of the block.\n[00:06:17] >> Okay. Is [clears throat] getting bought\n[00:06:18] from a resident or from who?\n[00:06:20] >> Um\n[00:06:21] I do believe it's neighborhood resident.\n[00:06:23] Obviously it's vacant land so the person\n[00:06:24] wasn't living there at the time but\n[00:06:26] >> the the space has been vacant for my\n[00:06:29] entire life.\n[00:06:30] >> 20 20 years at least. [laughter] Yeah.\n[00:06:33] >> Okay.\n[00:06:33] >> Thanks all. But thank you.\n[00:06:37] Um, guess the next one may be Mayor\n[00:06:40] Robersonson\n[00:06:42] >> or Neil. Neil, is that you?\n[00:06:45] >> That's Neil.\n[00:06:47] >> Good afternoon, council. Afternoon. Um,",
+  "transcript_ref": "outputs/transcripts/m56feIFbY6s_corrected.txt",
+  "topic_tags": [
+    "land-use",
+    "capital-planning",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Dr. Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-MAJOK-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Dr. Chol Majok",
+      "role": "Committee Chair, Public Works & Infrastructure",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "$5,000 amount from agenda description not detected in transcript. Remaining items (13-22) covered in detail in subsequent segments.",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 2 of 14 from Common Council Study Session, Wednesday March 4th 2026",
+    "Transcript corrections applied: SU -> Syracuse University"
+  ],
+  "last_relevance_update": null
+}

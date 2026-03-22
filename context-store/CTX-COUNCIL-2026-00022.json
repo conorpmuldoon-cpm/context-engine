@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00022",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=-ZsKhcHXTd4&t=2002s",
+  "publication_date": "2026-01-07",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "NYS Uniform Building Code Update Held, Housing Technical Corrections, and Land Bank Property Transfers",
+  "summary": "Item 27 (NYS Uniform Fire Prevention and Building Code update) held pending rescheduled state meeting after prior cancellation. Items 28-29 are technical housing corrections. Items 30-35 request property transfers to Greater Syracuse Property Development Corporation (land bank) following foreclosure. Item 30 withdrawn for internal discussion on long-term land use.",
+  "raw_content": "[00:33:22] I have items 27 through 35.\n[00:33:26] >> Good afternoon, council. Jake Dishaw,\n[00:33:27] deputy commissioner of code enforcement\n[00:33:29] and zoning administration. Uh just a\n[00:33:31] quick reminder and update on item 27. Um\n[00:33:34] this was a carryover. If you recall the\n[00:33:36] last council meeting for those of you\n[00:33:38] that were um in the last uh meeting\n[00:33:41] before the new year, um we had a meeting\n[00:33:43] scheduled with the state in person and\n[00:33:45] they canled due to illness. Um we need\n[00:33:48] to reconnect with them. Um, and we hope\n[00:33:51] we can we can have this resolved and\n[00:33:53] finalized um, pretty soon here. So, I\n[00:33:57] kindly ask for a hold and we'll keep you\n[00:34:00] up to date.\n[00:34:01] >> Thank you.\n[00:34:02] >> Thank you.\n[00:34:10] >> Good afternoon, counselors. Kimone\n[00:34:11] Jordan, director of housing and",
+  "transcript_ref": "outputs/transcripts/-ZsKhcHXTd4_corrected.txt",
+  "topic_tags": [
+    "code-enforcement",
+    "housing",
+    "zoning",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development",
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Greater Syracuse Property Development Corporation",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Patrona Jones-Rowser",
+      "type": "person",
+      "canonical_id": "PERSON-JONES-ROWSER-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Jake Dishaw",
+      "role": "Deputy Commissioner, Code Enforcement",
+      "affiliation": "Department of Permits and Development"
+    },
+    {
+      "name": "Kimone Jordan",
+      "role": "Director of Housing and Neighborhood Planning",
+      "affiliation": "Department of Neighborhood and Business Development"
+    },
+    {
+      "name": "Patrona Jones-Rowser",
+      "role": "Council Member",
+      "affiliation": "Syracuse Common Council"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Jake Dishaw and Kimone Jordan not in entity registry",
+    "Item 27 carryover from prior council meeting — state meeting cancelled due to illness",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 15 of 19 from Common Council Study Session, Wednesday, January 7th 2026"
+  ],
+  "last_relevance_update": null
+}

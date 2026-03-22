@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-WEB-2026-00085",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/2024/2024-06-17-Infrastructure-News-1045AM",
+  "publication_date": "2024-06-17",
+  "capture_date": "2026-03-22T14:24:14Z",
+  "title": "Water Crews Working to Repair Hydrant Branch on Locksley Road",
+  "summary": "The City of Syracuse Department of Water is repairing a hydrant branch on the 200 block of Locksley Road, requiring shutdown of Guildford Pump Station and temporary water service disruption through afternoon of June 17, 2024. Locksley Road between William Drive and Euclid Avenue is closed to vehicle traffic; sidewalks remain open with detours in place.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "infrastructure",
+    "announcement",
+    "service-requests",
+    "construction-staging",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Guildford Pump Station",
+      "type": "system",
+      "canonical_id": "SYS-GUILDFORD-PUMP-STATION"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00083"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field listed as Unknown in source metadata",
+    "No budget impact or dollar amounts disclosed",
+    "Service disruption is temporary/same-day, characterized as routine maintenance",
+    "Repair scope limited to single hydrant branch on specific block",
+    "Contact number provided for resident inquiries (315) 448-8360",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00083 — linked for review"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,66 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00093",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=N0EQah0CZXw&t=393s",
+  "publication_date": "2026-02-18",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "iSol Talent Acquisition Agreement — Bridging Recruiting Gap to UKG",
+  "summary": "HR presents item 10, an agreement with iSol Talent Acquisition (formerly Applicant Pro) to bridge the recruiting gap until UKG Pro goes live. Indeed recently cut the city's free job postings from unlimited to 3 per month, with 90 vacancies to fill. iSol provides access to Indeed plus 300+ job boards with 2-3 day setup. Councilor Caldwell offers to partner on distributing job openings to local community workforce organizations like Northeast Community Center.",
+  "raw_content": "[00:06:33] Have item number 10.\n[00:06:35] >> Good afternoon council. Um item 10 is to\n[00:06:38] enter an agreement with Isol Talent\n[00:06:40] acquisition which used to be called\n[00:06:42] applicant pro. Um, and we are looking to\n[00:06:45] kind of bridge the gap between now and\n[00:06:47] we have when we have our own applicant\n[00:06:49] tracking system.\n[00:06:51] >> Um, and I'm not sure if you've heard\n[00:06:53] >> uh Indeed has kind of\n[00:06:56] >> uh\n[00:06:57] down a little bit.\n[00:06:59] >> So, we used to have unlimited posting.\n[00:07:01] We don't. We can only post three jobs a\n[00:07:02] month now. Um, which is we have 90\n[00:07:05] vacancies that we need to fill. Um, so\n[00:07:10] teaming with Isol will help us not\n[00:07:12] necessarily sidestep that, but paying\n[00:07:14] isol gives us full access to indeed job\n[00:07:17] posting plus 300 plus more or 300 plus\n[00:07:20] more job boards is what I was trying to\n[00:07:21] say. I apologize. Um so that monies\n[00:07:25] would help us a advertise but also b\n[00:07:28] manage our applicant pool until um we go\n[00:07:32] go live with uh UKG and they're aware of\n[00:07:35] that situation that they are not a\n[00:07:36] long-term solution. Um they're just here\n[00:07:39] to help us get bridge the gap to UKG and\n[00:07:42] it would be a two-day [snorts]\n[00:07:45] let's be generous 3-day setup to get us\n[00:07:47] up and running for them.\n[00:07:49] >> I have a question.\n[00:07:50] >> Sure. Um, I work in workforce\n[00:07:52] development at [clears throat] Northeast\n[00:07:54] Community Center. Do you guys send um\n[00:07:57] job openings to the different\n[00:07:58] organizations in our community that help\n[00:08:00] people find jobs?\n[00:08:02] >> Currently there limited selection. Um,\n[00:08:06] right now we're working heavy with New\n[00:08:07] York State, the their do um to get our\n[00:08:10] jobs posted there because Indeed came\n[00:08:12] down, but um that's our goal. But not\n[00:08:15] being able to get to the wide audience\n[00:08:17] of Indeed is the first problem. And then\n[00:08:20] >> yeah, I understand. But I I think that\n[00:08:22] um we could put together a list serve of\n[00:08:24] local agencies that are working with\n[00:08:26] people that are looking for work to try\n[00:08:28] to help them get jobs within our city.\n[00:08:31] >> Yeah, absolutely.\n[00:08:32] >> So if you want, I'll work with you on\n[00:08:34] that.\n[00:08:34] >> Okay. Yeah, that'd be great.\n[00:08:35] >> Okay.\n[00:08:35] >> Yeah, I'll take any help I can get.\n[00:08:38] >> Thank you.\n[00:08:38] >> Any other questions?\n[00:08:40] >> Thank you Catwell. Councelor Mock.\n[00:08:44] Thank you, [clears throat] Madam",
+  "transcript_ref": "outputs/transcripts/N0EQah0CZXw_corrected.txt",
+  "topic_tags": [
+    "hiring",
+    "workforce-development",
+    "software-systems",
+    "procurement",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Human Resources"
+  ],
+  "entity_refs": [
+    {
+      "name": "Rasheada Caldwell",
+      "type": "person",
+      "canonical_id": "PERSON-CALDWELL-COUNCIL"
+    },
+    {
+      "name": "SWC/UKG",
+      "type": "system",
+      "canonical_id": "SYS-SWC"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "HR presenter",
+      "role": "Human Resources staff",
+      "confidence": "low"
+    },
+    {
+      "name": "Rasheada Caldwell",
+      "role": "Common Councilor At-Large",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-PAYROLL-MODERNIZATION-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Department of Permits and Development detection is false positive; actual presenting department is Human Resources",
+    "HR presenter not identified by name",
+    "iSol is bridge solution until UKG Pro recruitment module deploys",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 2 of 19 from Common Council Study Session, Wednesday February 18th 2026",
+    "Transcript corrections applied: national grid -> National Grid"
+  ],
+  "last_relevance_update": null
+}

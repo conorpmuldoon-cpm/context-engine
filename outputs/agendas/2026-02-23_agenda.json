@@ -1,0 +1,524 @@
+{
+  "meeting_type": "Regular Meeting",
+  "date": "2026-02-23",
+  "time": "1:00 P.M.",
+  "roll_call": 8,
+  "item_count": 32,
+  "items": [
+    {
+      "number": 9,
+      "sponsors": [
+        "Paniagua"
+      ],
+      "description": "Resolution - Approving the Appointment of Various Persons as Commissioners of\nDeeds for 2025/2026.",
+      "vote": "8-0",
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 70,
+      "sponsors": [
+        "Caldwell"
+      ],
+      "description": "Agreement — With iSolved Talent Acquisition, formerly ApplicantPro, for temporary\njob posting and applicant tracking services, on a month-to-month basis, on behalf of\nthe Department of Personnel and Labor Relations. Total cost not to exceed $1,910\nper month, charged to Account #01.14300.520620.",
+      "vote": "8-0",
+      "organizations": [],
+      "people": [],
+      "departments": [
+        "Department of Personnel and Labor Relations"
+      ],
+      "amounts": [
+        "$1,910"
+      ]
+    },
+    {
+      "number": 17,
+      "sponsors": [
+        "Majok"
+      ],
+      "description": "",
+      "vote": "8-0",
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 12,
+      "sponsors": [
+        "Majok"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 13,
+      "sponsors": [
+        "Majok"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 14,
+      "sponsors": [
+        "Majok"
+      ],
+      "description": "\\\nAmend — Ord. #894 (10/28/2024) “Bond Ordinance — Authorizing the issuance and\nsale of bonds of the City of Syracuse to be used to defray the cost of the Scoping &\nPreliminary, Detailed Design, Construction and Construction Inspection Phases, of\nthe Midland Avenue Paving Project (Ostrander Avenue t...",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": [
+        "$4,666,000",
+        "$620,000",
+        "$4,065,000",
+        "$5,286,000",
+        "$601,000"
+      ]
+    },
+    {
+      "number": 15,
+      "sponsors": [
+        "Majok"
+      ],
+      "description": "",
+      "vote": "8-0",
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 16,
+      "sponsors": [
+        "Majok"
+      ],
+      "description": "Bond Ordinance — Authorizing the issuance and sale of bonds of the City of\nSyracuse to defray the cost of the Engineering Design Services Phase for the\ndevelopment of two (2) new parking lots at 115 South Geddes Street and 1171 West\nFayette Street & Magnolia Street and temporary pedestrian access ac...",
+      "vote": "8-0",
+      "organizations": [],
+      "people": [],
+      "departments": [
+        "Department of Engineering"
+      ],
+      "amounts": [
+        "$150,000"
+      ]
+    },
+    {
+      "number": 17,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "",
+      "vote": "8-0",
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 18,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 20,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "Accept — From the Breanna Stewart Foundation, a donation in the amount of\n$50,000 for various improvements to the basketball pavilion and other existing\namenities at Kirk Park, including new overhead lighting, court updates and\nimprovements, replacement of hoops, rims, nets, backboards, and other re...",
+      "vote": "8-0",
+      "organizations": [
+        "Barton & Loguidice",
+        "Colliers Engineering & Design, Architecture, Landscape Architecture, Surveying, CT P.C.",
+        "Environmental Design & Research, Landscape Architecture, Engineering & Environmental Services",
+        "Breanna Stewart Foundation"
+      ],
+      "people": [],
+      "departments": [
+        "Department of Parks"
+      ],
+      "amounts": [
+        "$50,000",
+        "$300,000"
+      ]
+    },
+    {
+      "number": 21,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 22,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 23,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 24,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "Ehrenreich\n— Abstain",
+      "vote": "7-0",
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 25,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "Agreement — With Keplinger Freeman Associates (KFA) for General Landscape\nArchitectural Services (RFP #26-176), for the two (2) year period of March 1, 2026 —\nFebruary 28, 2028, with two (2) one (1) year renewal options, subject to the approval\nof the Mayor and the Common Council, on behalf of the D...",
+      "vote": null,
+      "organizations": [
+        "Terry Horst Landscape Architecture",
+        "Cornell Cooperative Extension of Onondaga County",
+        "Barks & Rec, LLC"
+      ],
+      "people": [],
+      "departments": [
+        "Department of Parks, Recreation & Youth Programs",
+        "City Dog Control and Police Department"
+      ],
+      "amounts": [
+        "$300,000",
+        "$20,000",
+        "$100,000",
+        "$121,000"
+      ]
+    },
+    {
+      "number": 27,
+      "sponsors": [
+        "Nave",
+        "Caldwell",
+        "Paniagua"
+      ],
+      "description": "Resolution — Honoring Carmelita Sapp-Walker for her extraordinary service and\ncontribution to the Common Council Office and the City of Syracuse fc for 30 years.\n4\n8-R\n8-0\n8-0\n8-0",
+      "vote": "8-0",
+      "organizations": [],
+      "people": [
+        "Carmelita Sapp-Walker"
+      ],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 28,
+      "sponsors": [
+        "Moore"
+      ],
+      "description": "Accept — From the Pi Kappa Epsilon Fraternity, Syracuse University Chapter, funds\nin the amount of $13,280.52, generated by a fundraiser specifically to support the\nSyracuse Fire Department’s Behavioral Health Assistant Program Initiatives, Critical\nIncident Stress Management Team.",
+      "vote": null,
+      "organizations": [
+        "Pi Kappa Epsilon Fraternity, Syracuse University Chapter"
+      ],
+      "people": [],
+      "departments": [
+        "Syracuse Fire Department"
+      ],
+      "amounts": [
+        "$13,280.52"
+      ]
+    },
+    {
+      "number": 29,
+      "sponsors": [
+        "Moore",
+        "Paniagua"
+      ],
+      "description": "Resolution — Honoring Syracuse Police Officer Jamie Pastorello for his exemplary\nservice, compassion, and dedication to community well-being. On December 13,\n2025, while on a routine patrol Officer Pastorello offered a ride to a City resident, Ms.",
+      "vote": null,
+      "organizations": [],
+      "people": [
+        "Rhea Holmes",
+        "Syracuse Police Officer Jamie Pastorello"
+      ],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 30,
+      "sponsors": [
+        "Williams"
+      ],
+      "description": "Agreement — With Schneider Geospatial, LLC, for the migration of existing Image",
+      "vote": null,
+      "organizations": [
+        "Schneider Geospatial"
+      ],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 31,
+      "sponsors": [
+        "Williams"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 32,
+      "sponsors": [
+        "Williams"
+      ],
+      "description": "Mate Online customers to Beacon, on behalf of the Department of Analytics,\nPerformance & Innovation, Digital Services. Implementation and setup costs will be\nwaived ($14,000 value), additional details of services is outlined in the attached\nservice agreement.",
+      "vote": null,
+      "organizations": [
+        "Fiscal Advisors & Marketing",
+        "Naughton and Associates"
+      ],
+      "people": [],
+      "departments": [
+        "Department of Finance",
+        "Information Technology",
+        "Department of Analytics"
+      ],
+      "amounts": [
+        "$14,000",
+        "$8,512",
+        "$100,000",
+        "$160,000"
+      ]
+    },
+    {
+      "number": 33,
+      "sponsors": [
+        "Williams"
+      ],
+      "description": "Amend — Ord. #33 (01/26/2026) “Lease Agreement — With New York, Susquehanna\n& Western Railroad, for a portion of land located at 115 and 116-118 South Geddes\nStreet, including the bridge across South Geddes Street, for $1.",
+      "vote": null,
+      "organizations": [
+        "New York, Susquehanna & Western Railroad"
+      ],
+      "people": [],
+      "departments": [
+        "City Payment Center"
+      ],
+      "amounts": [
+        "$1.00",
+        "$8,000"
+      ]
+    },
+    {
+      "number": 36,
+      "sponsors": [
+        "Jones-Rowser"
+      ],
+      "description": "WD",
+      "vote": "WD",
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 39,
+      "sponsors": [
+        "Jones-Rowser"
+      ],
+      "description": "Local Law — Amend — “Local Law #5 (03/17/2011), of the City of Syracuse to adopt\nthe NYS Uniform Fire Prevention and Building Code which includes the latest\neditions of the following codes: Building, Residential, Existing Building, Fire,\nPlumbing, Mechanical, Fuel/Gas, Energy Conservation Constructi...",
+      "vote": "8-0",
+      "organizations": [],
+      "people": [],
+      "departments": [
+        "Department of Housing and Urban Development"
+      ],
+      "amounts": [
+        "$4,795,536",
+        "$1,278,624",
+        "$432,431"
+      ]
+    },
+    {
+      "number": 40,
+      "sponsors": [
+        "Monto"
+      ],
+      "description": "Authorize ~ A Tax Exemption Agreement with a Housing Development Fund",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 41,
+      "sponsors": [
+        "Monto"
+      ],
+      "description": "Corporation to be known as Parkside Commons Phase 1 Housing Development\nFund Corporation, pursuant to Section 573 and Section 577 of Article 11 of the New\nYork State Private Housing Finance Law and Section 402 of the New York State Not-\nFor-Profit Corporation Law, for the properties located at 1935 ...",
+      "vote": null,
+      "organizations": [
+        "Flock Group"
+      ],
+      "people": [],
+      "departments": [
+        "Department of Police"
+      ],
+      "amounts": [
+        "$550",
+        "$216,150"
+      ]
+    },
+    {
+      "number": 42,
+      "sponsors": [
+        "Monto",
+        "Paniagua"
+      ],
+      "description": "Approve — An installation of an Honorary Street Sign at the intersection Salt Springs\nRoad and Springfield Road, designating the section of Springfield Road on the west\nend of LeMoyne College’s campus as “Dr. Linda LeMura Lane.” Dr.",
+      "vote": "8-0",
+      "organizations": [],
+      "people": [
+        "Linda LeMura"
+      ],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 43,
+      "sponsors": [
+        "Monto",
+        "Paniagua"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 44,
+      "sponsors": [
+        "Monto",
+        "Paniagua"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 45,
+      "sponsors": [
+        "Monto",
+        "Paniagua"
+      ],
+      "description": "Adopt — A City-wide six (6) month moratorium (draft attached) on Battery Energy\nStorage Systems (BESS), regarding the issuance of permits and/or approvals related\nto BESS facilities within the City of Syracuse.",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 46,
+      "sponsors": [
+        "Majok",
+        "Councilor Nave"
+      ],
+      "description": "Agreement — With JACOMB, LLC, on behalf of the Division of Planning &\nSustainability, to work with the City to apply for two (2) grants (previously approved\napplication and agreement), one from NYS Department of Environment Conservation\nand the other with National Grid, “Battery Ready Program” to ov...",
+      "vote": null,
+      "organizations": [
+        "JACOMB"
+      ],
+      "people": [],
+      "departments": [],
+      "amounts": [
+        "$435,000,"
+      ]
+    }
+  ],
+  "names_detected": {
+    "council_members": [
+      "Rita Paniagua",
+      "Dr. Chol Majok",
+      "Rasheada Caldwell",
+      "Hanah Ehrenreich",
+      "Helen Hudson",
+      "Marino L. Nave",
+      "Donna Moore",
+      "Corey J. Williams",
+      "Patrona Jones-Rowser",
+      "Jimmy Monto"
+    ],
+    "external_people": [
+      "Carmelita Sapp-Walker",
+      "Rhea Holmes",
+      "Syracuse Police Officer Jamie Pastorello",
+      "Linda LeMura"
+    ],
+    "organizations": [
+      "Barton & Loguidice",
+      "Colliers Engineering & Design, Architecture, Landscape Architecture, Surveying, CT P.C.",
+      "Environmental Design & Research, Landscape Architecture, Engineering & Environmental Services",
+      "Breanna Stewart Foundation",
+      "Terry Horst Landscape Architecture",
+      "Cornell Cooperative Extension of Onondaga County",
+      "Barks & Rec, LLC",
+      "Pi Kappa Epsilon Fraternity, Syracuse University Chapter",
+      "Schneider Geospatial",
+      "Fiscal Advisors & Marketing",
+      "Naughton and Associates",
+      "New York, Susquehanna & Western Railroad",
+      "Flock Group",
+      "JACOMB"
+    ]
+  }
+}

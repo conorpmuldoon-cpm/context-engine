@@ -1,0 +1,84 @@
+{
+  "record_id": "CTX-WEB-2026-00069",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2024/2024-11-27-Mayors-Office-News",
+  "publication_date": "2024-11-27",
+  "capture_date": "2026-03-22T14:21:11Z",
+  "title": "City and County Share Progress on Water Filter Distribution Program",
+  "summary": "City of Syracuse and Onondaga County launched a water filter distribution program targeting households with pregnant women and children under six to address lead exposure from lead service lines. Over 1,175 filters distributed in first three days through WIC program; subsequent phases will expand through Salvation Army Christmas Bureau and Syracuse City School District Pre-K through first grade enrollment.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "lead-remediation",
+    "equity",
+    "accessibility",
+    "initiative-launch",
+    "intergovernmental",
+    "residents",
+    "public-safety-commission",
+    "sustainability"
+  ],
+  "department_refs": [
+    "Office of Communications",
+    "Onondaga County Health Department",
+    "Syracuse City School District"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Kathryn Anderson",
+      "type": "person",
+      "canonical_id": "PERSON-KATHRYN-ANDERSON"
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    },
+    {
+      "name": "Salvation Army",
+      "type": "organization",
+      "canonical_id": "ORG-SALVATION-ARMY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Executive leadership (Mayor Walsh, County Executive McMahon) publicly championing equitable public health initiative with vulnerable populations as primary focus; demonstrates intergovernmental coordination and data-driven decision-making aligned with health equity mandate.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown; press release from Mayor's Office/Communications Office",
+    "Sharon F. Owens mentioned in menu but not in article body; Ben Walsh identified as current Mayor",
+    "No budget figures or contract awards mentioned",
+    "Program tied to 2024 water sampling data finalization",
+    "Lead-Free Syracuse initiative referenced as umbrella program",
+    "Multi-phase rollout strategy emphasizes accessibility and equity",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,421 @@
+2026-03-22 09:30:24,916 [INFO] ============================================================
+2026-03-22 09:30:24,917 [INFO] News Scanner starting
+2026-03-22 09:30:24,919 [INFO] Fetching: Syracuse.com Politics
+2026-03-22 09:30:25,345 [INFO]   50 new articles from Syracuse.com Politics
+2026-03-22 09:30:25,345 [INFO] Fetching: Syracuse.com Government
+2026-03-22 09:30:25,620 [INFO]   0 new articles from Syracuse.com Government
+2026-03-22 09:30:25,620 [INFO] Fetching: Syracuse.com Local
+2026-03-22 09:30:25,848 [INFO]   0 new articles from Syracuse.com Local
+2026-03-22 09:30:25,848 [INFO] Fetching: Syracuse.com Main
+2026-03-22 09:30:26,258 [INFO]   0 new articles from Syracuse.com Main
+2026-03-22 09:30:26,258 [INFO] Total unique articles across all feeds: 50
+2026-03-22 09:30:26,258 [INFO] New articles (not previously processed): 50
+2026-03-22 09:30:29,130 [DEBUG]   Filtered (not relevant): Updated BetMGM Bonus Code CUSE150: $150 bonus and $5K+ casino bonus in PA for St
+2026-03-22 09:30:29,130 [DEBUG]   Filtered (not relevant): Center State Conference girls basketball all-stars announced for 2025-26
+2026-03-22 09:30:29,130 [INFO]   Relevant: Asking Eric: If you’re qualifying it as ‘not technically abuse,’ here’s a wake-u
+2026-03-22 09:30:29,131 [DEBUG]     → Departments: Department of Finance
+2026-03-22 09:30:29,131 [INFO]   [DRY RUN] Would process: Asking Eric: If you’re qualifying it as ‘not technically abuse,’ here’s a wake-u
+2026-03-22 09:30:29,131 [INFO]     Entities: []
+2026-03-22 09:30:29,131 [INFO]     Departments: ['Department of Finance']
+2026-03-22 09:30:29,131 [INFO]     Amounts: []
+2026-03-22 09:30:29,131 [DEBUG]   Filtered (not relevant): Salt City Athletic Conference Metro girls basketball all-stars announced for 202
+2026-03-22 09:30:29,132 [DEBUG]   Filtered (not relevant): Weather alert for freezing rain in North Country Sunday morning
+2026-03-22 09:30:29,132 [DEBUG]   Filtered (not relevant): Izoje sends a message and a smile back home to Nigeria: 'I would say I did a gre
+2026-03-22 09:30:29,132 [DEBUG]   Filtered (not relevant): Oneida County real estate: See all residential properties sold, March 9-15
+2026-03-22 09:30:29,132 [INFO]   Relevant: Editorial cartoons for March 22, 2026: Iran war week 3, burned bridges, Trump's 
+2026-03-22 09:30:29,132 [DEBUG]     → Departments: Syracuse Fire Department
+2026-03-22 09:30:29,133 [INFO]   [DRY RUN] Would process: Editorial cartoons for March 22, 2026: Iran war week 3, burned bridges, Trump's 
+2026-03-22 09:30:29,133 [INFO]     Entities: []
+2026-03-22 09:30:29,133 [INFO]     Departments: ['Syracuse Fire Department']
+2026-03-22 09:30:29,133 [INFO]     Amounts: []
+2026-03-22 09:30:29,133 [DEBUG]   Filtered (not relevant): Section III winter girls volleyball all-stars announced for 2025-26
+2026-03-22 09:30:29,133 [DEBUG]   Filtered (not relevant): Onondaga High School League Liberty girls basketball all-stars announced for 202
+2026-03-22 09:30:29,133 [DEBUG]   Filtered (not relevant): Asking Eric: Fiance had his life together when we met; it’s been a downward spir
+2026-03-22 09:30:29,134 [DEBUG]   Filtered (not relevant): $608,000 for newer 4 BR Colonial: Plus 65 more Onondaga County home sales
+2026-03-22 09:30:29,134 [DEBUG]   Filtered (not relevant): 5 CNY schools make ‘unprecedented’ football move: No CBA (Top stories)
+2026-03-22 09:30:29,134 [INFO]   Relevant: Syracuse missed opportunities to intervene at Nob Hill apartments (Editorial Boa
+2026-03-22 09:30:29,134 [DEBUG]     → Departments: Syracuse Fire Department
+2026-03-22 09:30:29,134 [INFO]   [DRY RUN] Would process: Syracuse missed opportunities to intervene at Nob Hill apartments (Editorial Boa
+2026-03-22 09:30:29,134 [INFO]     Entities: []
+2026-03-22 09:30:29,134 [INFO]     Departments: ['Syracuse Fire Department']
+2026-03-22 09:30:29,134 [INFO]     Amounts: []
+2026-03-22 09:30:29,135 [DEBUG]   Filtered (not relevant): Section III state basketball championship, flag football schedule for March 22
+2026-03-22 09:30:29,135 [DEBUG]   Filtered (not relevant): Where to watch Syracuse men’s lacrosse vs. Georgetown for free today
+2026-03-22 09:30:29,135 [DEBUG]   Filtered (not relevant): Five weeknight dishes: Fast chicken fajitas, cod with caper-orange sauce and mor
+2026-03-22 09:30:29,136 [DEBUG]   Filtered (not relevant): Hollywood legend, 95, underwent surgery this month following scary horseback rid
+2026-03-22 09:30:29,136 [DEBUG]   Filtered (not relevant): Glazed chile-garlic meatballs
+2026-03-22 09:30:29,136 [DEBUG]   Filtered (not relevant): Binge 'Someone's Hunting Us,' a podcast on the takedown of a serial killer
+2026-03-22 09:30:29,136 [DEBUG]   Filtered (not relevant): Central NY weather: Rain on Sunday, then icy roads possible Monday morning
+2026-03-22 09:30:29,137 [DEBUG]   Filtered (not relevant): Disgraced actor, 54, found dead in prison cell two months into sentence
+2026-03-22 09:30:29,137 [DEBUG]   Filtered (not relevant): Dear Abby: My whole life, people have accused me of things I didn’t do, and I’ve
+2026-03-22 09:30:29,137 [DEBUG]   Filtered (not relevant): Trump: ICE officers soon will help with airport security unless shutdown ends
+2026-03-22 09:30:29,137 [DEBUG]   Filtered (not relevant): Legendary singer to release first new album in 12 years
+2026-03-22 09:30:29,138 [DEBUG]   Filtered (not relevant): CNY Inspirations: Midway to Easter offers hope and renewal for seniors
+2026-03-22 09:30:29,138 [DEBUG]   Filtered (not relevant): Axe: Syracuse women’s basketball found a new  Fantastic 4 to advance in NCAA Tou
+2026-03-22 09:30:29,138 [DEBUG]   Filtered (not relevant): Dear Abby: Husband is eating himself to death, ruining our sex life and doesn’t 
+2026-03-22 09:30:29,138 [DEBUG]   Filtered (not relevant): Watch Sunday’s games in New York state basketball championships: Live stream, sc
+2026-03-22 09:30:29,139 [DEBUG]   Filtered (not relevant): Onondaga Community College briefly locked down; student found with paintball gun
+2026-03-22 09:30:29,139 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Saturday’s $120 million drawing
+2026-03-22 09:30:29,139 [DEBUG]   Filtered (not relevant): The unlikeliest of players leads SU to a March Madness win: ‘I’ve always been re
+2026-03-22 09:30:29,139 [DEBUG]   Filtered (not relevant): Tight end from Liverpool commits to play football at Alabama
+2026-03-22 09:30:29,139 [DEBUG]   Filtered (not relevant): New York's Maple Weekend is here and this Central New York farm has pancakes, to
+2026-03-22 09:30:29,140 [INFO]   Relevant: $300 FanDuel promo code announced in Arkansas for Saturday Night Basketball
+2026-03-22 09:30:29,140 [DEBUG]     → Departments: Law Department
+2026-03-22 09:30:29,140 [INFO]   [DRY RUN] Would process: $300 FanDuel promo code announced in Arkansas for Saturday Night Basketball
+2026-03-22 09:30:29,140 [INFO]     Entities: []
+2026-03-22 09:30:29,140 [INFO]     Departments: ['Law Department']
+2026-03-22 09:30:29,140 [INFO]     Amounts: ['$300']
+2026-03-22 09:30:29,140 [DEBUG]   Filtered (not relevant): Le Moyne lacrosse falls to LIU 9-5 at home
+2026-03-22 09:30:29,141 [DEBUG]   Filtered (not relevant): SU women’s basketball box score vs. Iowa State in NCAA Tournament
+2026-03-22 09:30:29,141 [DEBUG]   Filtered (not relevant): Syracuse women’s basketball knocks off Iowa State in NCAA Tournament to get shot
+2026-03-22 09:30:29,141 [DEBUG]   Filtered (not relevant): Spicy pork noodle soup
+2026-03-22 09:30:29,141 [DEBUG]   Filtered (not relevant): Kalshi Promo Code SYRACUSE: New $10 basketball bonus in New York and Pennsylvani
+2026-03-22 09:30:29,142 [DEBUG]   Filtered (not relevant): Blakeslee’s four goals power Le Moyne to 14-12 victory at Howard
+2026-03-22 09:30:29,142 [INFO]   Relevant: Several departments battle large house fire in Cayuga County
+2026-03-22 09:30:29,142 [DEBUG]     → Departments: Syracuse Fire Department
+2026-03-22 09:30:29,142 [INFO]   [DRY RUN] Would process: Several departments battle large house fire in Cayuga County
+2026-03-22 09:30:29,142 [INFO]     Entities: []
+2026-03-22 09:30:29,142 [INFO]     Departments: ['Syracuse Fire Department']
+2026-03-22 09:30:29,142 [INFO]     Amounts: []
+2026-03-22 09:30:29,142 [DEBUG]   Filtered (not relevant): Syracuse women’s lacrosse box score at Virginia
+2026-03-22 09:30:29,142 [DEBUG]   Filtered (not relevant): Syracuse women’s lacrosse wins 7th straight with victory over Virginia
+2026-03-22 09:30:29,142 [DEBUG]   Filtered (not relevant): Senior’s buzzer 3 sends Cooperstown back to state final: ‘You have to get lucky 
+2026-03-22 09:30:29,143 [DEBUG]   Filtered (not relevant): Fans worry after satire post claims popular actor was deported to Australia
+2026-03-22 09:30:29,143 [DEBUG]   Filtered (not relevant): Most expensive homes sold in six Central NY counties from March 9 to 15
+2026-03-22 09:30:29,143 [DEBUG]   Filtered (not relevant): Tompkins County real estate: 10 most expensive homes sold, March 9-15
+2026-03-22 09:30:29,143 [DEBUG]   Filtered (not relevant): Le Moyne women’s lacrosse box score at Howard
+2026-03-22 09:30:29,143 [DEBUG]   Filtered (not relevant): Syracuse women’s basketball beats Iowa State, advances to NCAA second-round matc
+2026-03-22 09:30:29,144 [INFO] News Scanner Run — 2026-03-22 09:30
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 0
+Filtered (not relevant): 50
+Errors: 0
+
+2026-03-22 09:35:49,316 [INFO] ============================================================
+2026-03-22 09:35:49,316 [INFO] News Scanner starting
+2026-03-22 09:35:49,319 [INFO] Fetching: Syracuse.com Politics
+2026-03-22 09:35:49,808 [INFO]   50 new articles from Syracuse.com Politics
+2026-03-22 09:35:49,809 [INFO] Fetching: Syracuse.com Government
+2026-03-22 09:35:50,131 [INFO]   0 new articles from Syracuse.com Government
+2026-03-22 09:35:50,131 [INFO] Fetching: Syracuse.com Local
+2026-03-22 09:35:50,672 [INFO]   0 new articles from Syracuse.com Local
+2026-03-22 09:35:50,672 [INFO] Fetching: Syracuse.com Main
+2026-03-22 09:35:50,981 [INFO]   0 new articles from Syracuse.com Main
+2026-03-22 09:35:50,981 [INFO] Total unique articles across all feeds: 50
+2026-03-22 09:35:50,981 [INFO] New articles (not previously processed): 1
+2026-03-22 09:35:51,049 [DEBUG]   Filtered (not relevant): Dear Annie: Drummer neighbor doesn’t care that it’s driving me crazy; is an HOA 
+2026-03-22 09:35:51,050 [INFO] News Scanner Run — 2026-03-22 09:35
+==================================================
+Articles in feeds: 50
+New (not seen before): 1
+Saved as records: 0
+Filtered (not relevant): 1
+Errors: 0
+
+2026-03-22 09:36:29,127 [INFO] ============================================================
+2026-03-22 09:36:29,127 [INFO] News Scanner starting
+2026-03-22 09:36:29,157 [INFO] Fetching: Syracuse.com Politics
+2026-03-22 09:36:29,588 [INFO]   50 new articles from Syracuse.com Politics
+2026-03-22 09:36:29,588 [INFO] Fetching: Syracuse.com Government
+2026-03-22 09:36:29,885 [INFO]   0 new articles from Syracuse.com Government
+2026-03-22 09:36:29,885 [INFO] Fetching: Syracuse.com Local
+2026-03-22 09:36:30,205 [INFO]   0 new articles from Syracuse.com Local
+2026-03-22 09:36:30,206 [INFO] Fetching: Syracuse.com Main
+2026-03-22 09:36:30,744 [INFO]   0 new articles from Syracuse.com Main
+2026-03-22 09:36:30,744 [INFO] Total unique articles across all feeds: 50
+2026-03-22 09:36:30,744 [INFO] New articles (not previously processed): 50
+2026-03-22 09:36:30,776 [DEBUG]   Filtered (not relevant): Dear Annie: Drummer neighbor doesn’t care that it’s driving me crazy; is an HOA 
+2026-03-22 09:36:30,777 [DEBUG]   Filtered (not relevant): Updated BetMGM Bonus Code CUSE150: $150 bonus and $5K+ casino bonus in PA for St
+2026-03-22 09:36:30,777 [DEBUG]   Filtered (not relevant): Center State Conference girls basketball all-stars announced for 2025-26
+2026-03-22 09:36:30,777 [DEBUG]   Filtered (not relevant): Asking Eric: If you’re qualifying it as ‘not technically abuse,’ here’s a wake-u
+2026-03-22 09:36:30,777 [DEBUG]   Filtered (not relevant): Salt City Athletic Conference Metro girls basketball all-stars announced for 202
+2026-03-22 09:36:30,778 [DEBUG]   Filtered (not relevant): Weather alert for freezing rain in North Country Sunday morning
+2026-03-22 09:36:30,778 [DEBUG]   Filtered (not relevant): Izoje sends a message and a smile back home to Nigeria: 'I would say I did a gre
+2026-03-22 09:36:30,778 [DEBUG]   Filtered (not relevant): Oneida County real estate: See all residential properties sold, March 9-15
+2026-03-22 09:36:30,778 [DEBUG]   Filtered (not relevant): Editorial cartoons for March 22, 2026: Iran war week 3, burned bridges, Trump's 
+2026-03-22 09:36:30,778 [DEBUG]   Filtered (not relevant): Section III winter girls volleyball all-stars announced for 2025-26
+2026-03-22 09:36:30,778 [DEBUG]   Filtered (not relevant): Onondaga High School League Liberty girls basketball all-stars announced for 202
+2026-03-22 09:36:30,779 [DEBUG]   Filtered (not relevant): Asking Eric: Fiance had his life together when we met; it’s been a downward spir
+2026-03-22 09:36:30,779 [DEBUG]   Filtered (not relevant): $608,000 for newer 4 BR Colonial: Plus 65 more Onondaga County home sales
+2026-03-22 09:36:30,779 [DEBUG]   Filtered (not relevant): 5 CNY schools make ‘unprecedented’ football move: No CBA (Top stories)
+2026-03-22 09:36:30,779 [DEBUG]   Filtered (not relevant): Syracuse missed opportunities to intervene at Nob Hill apartments (Editorial Boa
+2026-03-22 09:36:30,779 [DEBUG]   Filtered (not relevant): Section III state basketball championship, flag football schedule for March 22
+2026-03-22 09:36:30,780 [DEBUG]   Filtered (not relevant): Where to watch Syracuse men’s lacrosse vs. Georgetown for free today
+2026-03-22 09:36:30,780 [DEBUG]   Filtered (not relevant): Glazed chile-garlic meatballs
+2026-03-22 09:36:30,780 [DEBUG]   Filtered (not relevant): Five weeknight dishes: Fast chicken fajitas, cod with caper-orange sauce and mor
+2026-03-22 09:36:30,780 [DEBUG]   Filtered (not relevant): Hollywood legend, 95, underwent surgery this month following scary horseback rid
+2026-03-22 09:36:30,780 [DEBUG]   Filtered (not relevant): Binge 'Someone's Hunting Us,' a podcast on the takedown of a serial killer
+2026-03-22 09:36:30,781 [DEBUG]   Filtered (not relevant): Central NY weather: Rain on Sunday, then icy roads possible Monday morning
+2026-03-22 09:36:30,781 [DEBUG]   Filtered (not relevant): Disgraced actor, 54, found dead in prison cell two months into sentence
+2026-03-22 09:36:30,781 [DEBUG]   Filtered (not relevant): Dear Abby: My whole life, people have accused me of things I didn’t do, and I’ve
+2026-03-22 09:36:30,781 [DEBUG]   Filtered (not relevant): Trump: ICE officers soon will help with airport security unless shutdown ends
+2026-03-22 09:36:30,781 [DEBUG]   Filtered (not relevant): Legendary singer to release first new album in 12 years
+2026-03-22 09:36:30,781 [DEBUG]   Filtered (not relevant): CNY Inspirations: Midway to Easter offers hope and renewal for seniors
+2026-03-22 09:36:30,782 [DEBUG]   Filtered (not relevant): Axe: Syracuse women’s basketball found a new  Fantastic 4 to advance in NCAA Tou
+2026-03-22 09:36:30,782 [DEBUG]   Filtered (not relevant): Dear Abby: Husband is eating himself to death, ruining our sex life and doesn’t 
+2026-03-22 09:36:30,782 [DEBUG]   Filtered (not relevant): Watch Sunday’s games in New York state basketball championships: Live stream, sc
+2026-03-22 09:36:30,782 [DEBUG]   Filtered (not relevant): Onondaga Community College briefly locked down; student found with paintball gun
+2026-03-22 09:36:30,782 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Saturday’s $120 million drawing
+2026-03-22 09:36:30,783 [DEBUG]   Filtered (not relevant): The unlikeliest of players leads SU to a March Madness win: ‘I’ve always been re
+2026-03-22 09:36:30,783 [DEBUG]   Filtered (not relevant): Tight end from Liverpool commits to play football at Alabama
+2026-03-22 09:36:30,783 [DEBUG]   Filtered (not relevant): New York's Maple Weekend is here and this Central New York farm has pancakes, to
+2026-03-22 09:36:30,783 [DEBUG]   Filtered (not relevant): $300 FanDuel promo code announced in Arkansas for Saturday Night Basketball
+2026-03-22 09:36:30,783 [DEBUG]   Filtered (not relevant): Le Moyne lacrosse falls to LIU 9-5 at home
+2026-03-22 09:36:30,783 [DEBUG]   Filtered (not relevant): SU women’s basketball box score vs. Iowa State in NCAA Tournament
+2026-03-22 09:36:30,784 [DEBUG]   Filtered (not relevant): Syracuse women’s basketball knocks off Iowa State in NCAA Tournament to get shot
+2026-03-22 09:36:30,784 [DEBUG]   Filtered (not relevant): Spicy pork noodle soup
+2026-03-22 09:36:30,784 [DEBUG]   Filtered (not relevant): Kalshi Promo Code SYRACUSE: New $10 basketball bonus in New York and Pennsylvani
+2026-03-22 09:36:30,784 [DEBUG]   Filtered (not relevant): Blakeslee’s four goals power Le Moyne to 14-12 victory at Howard
+2026-03-22 09:36:30,785 [DEBUG]   Filtered (not relevant): Several departments battle large house fire in Cayuga County
+2026-03-22 09:36:30,785 [DEBUG]   Filtered (not relevant): Syracuse women’s lacrosse box score at Virginia
+2026-03-22 09:36:30,785 [DEBUG]   Filtered (not relevant): Syracuse women’s lacrosse wins 7th straight with victory over Virginia
+2026-03-22 09:36:30,785 [DEBUG]   Filtered (not relevant): Senior’s buzzer 3 sends Cooperstown back to state final: ‘You have to get lucky 
+2026-03-22 09:36:30,785 [DEBUG]   Filtered (not relevant): Fans worry after satire post claims popular actor was deported to Australia
+2026-03-22 09:36:30,785 [DEBUG]   Filtered (not relevant): Most expensive homes sold in six Central NY counties from March 9 to 15
+2026-03-22 09:36:30,786 [DEBUG]   Filtered (not relevant): Tompkins County real estate: 10 most expensive homes sold, March 9-15
+2026-03-22 09:36:30,786 [DEBUG]   Filtered (not relevant): Le Moyne women’s lacrosse box score at Howard
+2026-03-22 09:36:30,787 [INFO] News Scanner Run — 2026-03-22 09:36
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 0
+Filtered (not relevant): 50
+Errors: 0
+
+2026-03-22 09:38:19,437 [INFO] ============================================================
+2026-03-22 09:38:19,437 [INFO] News Scanner starting
+2026-03-22 09:38:19,438 [INFO] Fetching: Syracuse.com Politics
+2026-03-22 09:38:20,199 [INFO]   50 new articles from Syracuse.com Politics
+2026-03-22 09:38:20,199 [INFO] Fetching: Syracuse.com Government
+2026-03-22 09:38:20,474 [INFO]   0 new articles from Syracuse.com Government
+2026-03-22 09:38:20,474 [INFO] Fetching: Syracuse.com Local
+2026-03-22 09:38:21,000 [INFO]   0 new articles from Syracuse.com Local
+2026-03-22 09:38:21,000 [INFO] Fetching: Syracuse.com Main
+2026-03-22 09:38:21,276 [INFO]   0 new articles from Syracuse.com Main
+2026-03-22 09:38:21,276 [INFO] Total unique articles across all feeds: 50
+2026-03-22 09:38:21,276 [INFO] New articles (not previously processed): 50
+2026-03-22 09:38:21,311 [DEBUG]   Filtered (not relevant): Dear Annie: Drummer neighbor doesn’t care that it’s driving me crazy; is an HOA 
+2026-03-22 09:38:21,312 [INFO]   Relevant: Updated BetMGM Bonus Code CUSE150: $150 bonus and $5K+ casino bonus in PA for St
+2026-03-22 09:38:21,313 [DEBUG]     → Keywords: ward
+2026-03-22 09:38:21,313 [INFO]   [DRY RUN] Would process: Updated BetMGM Bonus Code CUSE150: $150 bonus and $5K+ casino bonus in PA for St
+2026-03-22 09:38:21,313 [INFO]     Entities: []
+2026-03-22 09:38:21,313 [INFO]     Departments: []
+2026-03-22 09:38:21,313 [INFO]     Amounts: ['$150', '$5', '$50', '$5,000']
+2026-03-22 09:38:21,313 [DEBUG]   Filtered (not relevant): Center State Conference girls basketball all-stars announced for 2025-26
+2026-03-22 09:38:21,314 [DEBUG]   Filtered (not relevant): Asking Eric: If you’re qualifying it as ‘not technically abuse,’ here’s a wake-u
+2026-03-22 09:38:21,314 [DEBUG]   Filtered (not relevant): Salt City Athletic Conference Metro girls basketball all-stars announced for 202
+2026-03-22 09:38:21,314 [DEBUG]   Filtered (not relevant): Weather alert for freezing rain in North Country Sunday morning
+2026-03-22 09:38:21,314 [DEBUG]   Filtered (not relevant): Izoje sends a message and a smile back home to Nigeria: 'I would say I did a gre
+2026-03-22 09:38:21,315 [DEBUG]   Filtered (not relevant): Oneida County real estate: See all residential properties sold, March 9-15
+2026-03-22 09:38:21,315 [DEBUG]   Filtered (not relevant): Editorial cartoons for March 22, 2026: Iran war week 3, burned bridges, Trump's 
+2026-03-22 09:38:21,315 [DEBUG]   Filtered (not relevant): Section III winter girls volleyball all-stars announced for 2025-26
+2026-03-22 09:38:21,315 [DEBUG]   Filtered (not relevant): Onondaga High School League Liberty girls basketball all-stars announced for 202
+2026-03-22 09:38:21,316 [INFO]   Relevant: Asking Eric: Fiance had his life together when we met; it’s been a downward spir
+2026-03-22 09:38:21,316 [DEBUG]     → Keywords: ward
+2026-03-22 09:38:21,316 [INFO]   [DRY RUN] Would process: Asking Eric: Fiance had his life together when we met; it’s been a downward spir
+2026-03-22 09:38:21,316 [INFO]     Entities: []
+2026-03-22 09:38:21,316 [INFO]     Departments: []
+2026-03-22 09:38:21,316 [INFO]     Amounts: []
+2026-03-22 09:38:21,316 [DEBUG]   Filtered (not relevant): $608,000 for newer 4 BR Colonial: Plus 65 more Onondaga County home sales
+2026-03-22 09:38:21,316 [DEBUG]   Filtered (not relevant): 5 CNY schools make ‘unprecedented’ football move: No CBA (Top stories)
+2026-03-22 09:38:21,317 [DEBUG]   Filtered (not relevant): Syracuse missed opportunities to intervene at Nob Hill apartments (Editorial Boa
+2026-03-22 09:38:21,317 [DEBUG]   Filtered (not relevant): Section III state basketball championship, flag football schedule for March 22
+2026-03-22 09:38:21,317 [DEBUG]   Filtered (not relevant): Where to watch Syracuse men’s lacrosse vs. Georgetown for free today
+2026-03-22 09:38:21,317 [DEBUG]   Filtered (not relevant): Glazed chile-garlic meatballs
+2026-03-22 09:38:21,317 [DEBUG]   Filtered (not relevant): Five weeknight dishes: Fast chicken fajitas, cod with caper-orange sauce and mor
+2026-03-22 09:38:21,318 [DEBUG]   Filtered (not relevant): Hollywood legend, 95, underwent surgery this month following scary horseback rid
+2026-03-22 09:38:21,318 [DEBUG]   Filtered (not relevant): Binge 'Someone's Hunting Us,' a podcast on the takedown of a serial killer
+2026-03-22 09:38:21,318 [DEBUG]   Filtered (not relevant): Central NY weather: Rain on Sunday, then icy roads possible Monday morning
+2026-03-22 09:38:21,318 [DEBUG]   Filtered (not relevant): Disgraced actor, 54, found dead in prison cell two months into sentence
+2026-03-22 09:38:21,318 [DEBUG]   Filtered (not relevant): Dear Abby: My whole life, people have accused me of things I didn’t do, and I’ve
+2026-03-22 09:38:21,318 [DEBUG]   Filtered (not relevant): Trump: ICE officers soon will help with airport security unless shutdown ends
+2026-03-22 09:38:21,319 [DEBUG]   Filtered (not relevant): Legendary singer to release first new album in 12 years
+2026-03-22 09:38:21,319 [DEBUG]   Filtered (not relevant): CNY Inspirations: Midway to Easter offers hope and renewal for seniors
+2026-03-22 09:38:21,319 [DEBUG]   Filtered (not relevant): Axe: Syracuse women’s basketball found a new  Fantastic 4 to advance in NCAA Tou
+2026-03-22 09:38:21,319 [DEBUG]   Filtered (not relevant): Dear Abby: Husband is eating himself to death, ruining our sex life and doesn’t 
+2026-03-22 09:38:21,319 [DEBUG]   Filtered (not relevant): Watch Sunday’s games in New York state basketball championships: Live stream, sc
+2026-03-22 09:38:21,320 [DEBUG]   Filtered (not relevant): Onondaga Community College briefly locked down; student found with paintball gun
+2026-03-22 09:38:21,320 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Saturday’s $120 million drawing
+2026-03-22 09:38:21,320 [DEBUG]   Filtered (not relevant): The unlikeliest of players leads SU to a March Madness win: ‘I’ve always been re
+2026-03-22 09:38:21,320 [DEBUG]   Filtered (not relevant): Tight end from Liverpool commits to play football at Alabama
+2026-03-22 09:38:21,320 [DEBUG]   Filtered (not relevant): New York's Maple Weekend is here and this Central New York farm has pancakes, to
+2026-03-22 09:38:21,321 [DEBUG]   Filtered (not relevant): $300 FanDuel promo code announced in Arkansas for Saturday Night Basketball
+2026-03-22 09:38:21,321 [DEBUG]   Filtered (not relevant): Le Moyne lacrosse falls to LIU 9-5 at home
+2026-03-22 09:38:21,321 [DEBUG]   Filtered (not relevant): SU women’s basketball box score vs. Iowa State in NCAA Tournament
+2026-03-22 09:38:21,321 [DEBUG]   Filtered (not relevant): Syracuse women’s basketball knocks off Iowa State in NCAA Tournament to get shot
+2026-03-22 09:38:21,321 [DEBUG]   Filtered (not relevant): Spicy pork noodle soup
+2026-03-22 09:38:21,322 [INFO]   Relevant: Kalshi Promo Code SYRACUSE: New $10 basketball bonus in New York and Pennsylvani
+2026-03-22 09:38:21,322 [DEBUG]     → Keywords: ward
+2026-03-22 09:38:21,322 [INFO]   [DRY RUN] Would process: Kalshi Promo Code SYRACUSE: New $10 basketball bonus in New York and Pennsylvani
+2026-03-22 09:38:21,322 [INFO]     Entities: []
+2026-03-22 09:38:21,322 [INFO]     Departments: []
+2026-03-22 09:38:21,322 [INFO]     Amounts: ['$10']
+2026-03-22 09:38:21,322 [INFO]   Relevant: Blakeslee’s four goals power Le Moyne to 14-12 victory at Howard
+2026-03-22 09:38:21,322 [DEBUG]     → Keywords: ward
+2026-03-22 09:38:21,322 [INFO]   [DRY RUN] Would process: Blakeslee’s four goals power Le Moyne to 14-12 victory at Howard
+2026-03-22 09:38:21,323 [INFO]     Entities: []
+2026-03-22 09:38:21,323 [INFO]     Departments: []
+2026-03-22 09:38:21,323 [INFO]     Amounts: []
+2026-03-22 09:38:21,323 [DEBUG]   Filtered (not relevant): Several departments battle large house fire in Cayuga County
+2026-03-22 09:38:21,323 [DEBUG]   Filtered (not relevant): Syracuse women’s lacrosse box score at Virginia
+2026-03-22 09:38:21,323 [DEBUG]   Filtered (not relevant): Syracuse women’s lacrosse wins 7th straight with victory over Virginia
+2026-03-22 09:38:21,323 [DEBUG]   Filtered (not relevant): Senior’s buzzer 3 sends Cooperstown back to state final: ‘You have to get lucky 
+2026-03-22 09:38:21,323 [DEBUG]   Filtered (not relevant): Fans worry after satire post claims popular actor was deported to Australia
+2026-03-22 09:38:21,324 [DEBUG]   Filtered (not relevant): Most expensive homes sold in six Central NY counties from March 9 to 15
+2026-03-22 09:38:21,324 [DEBUG]   Filtered (not relevant): Tompkins County real estate: 10 most expensive homes sold, March 9-15
+2026-03-22 09:38:21,324 [INFO]   Relevant: Le Moyne women’s lacrosse box score at Howard
+2026-03-22 09:38:21,324 [DEBUG]     → Keywords: ward
+2026-03-22 09:38:21,324 [INFO]   [DRY RUN] Would process: Le Moyne women’s lacrosse box score at Howard
+2026-03-22 09:38:21,324 [INFO]     Entities: []
+2026-03-22 09:38:21,324 [INFO]     Departments: []
+2026-03-22 09:38:21,324 [INFO]     Amounts: []
+2026-03-22 09:38:21,325 [INFO] News Scanner Run — 2026-03-22 09:38
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 0
+Filtered (not relevant): 50
+Errors: 0
+
+2026-03-22 09:39:17,646 [INFO] ============================================================
+2026-03-22 09:39:17,647 [INFO] News Scanner starting
+2026-03-22 09:39:17,648 [INFO] Fetching: Syracuse.com Politics
+2026-03-22 09:39:18,755 [INFO]   50 new articles from Syracuse.com Politics
+2026-03-22 09:39:18,756 [INFO] Fetching: Syracuse.com Government
+2026-03-22 09:39:19,384 [INFO]   0 new articles from Syracuse.com Government
+2026-03-22 09:39:19,384 [INFO] Fetching: Syracuse.com Local
+2026-03-22 09:39:19,892 [INFO]   0 new articles from Syracuse.com Local
+2026-03-22 09:39:19,892 [INFO] Fetching: Syracuse.com Main
+2026-03-22 09:39:20,180 [INFO]   0 new articles from Syracuse.com Main
+2026-03-22 09:39:20,180 [INFO] Total unique articles across all feeds: 50
+2026-03-22 09:39:20,180 [INFO] New articles (not previously processed): 50
+2026-03-22 09:39:20,212 [DEBUG]   Filtered (not relevant): Dear Annie: Drummer neighbor doesn’t care that it’s driving me crazy; is an HOA 
+2026-03-22 09:39:20,213 [DEBUG]   Filtered (not relevant): Updated BetMGM Bonus Code CUSE150: $150 bonus and $5K+ casino bonus in PA for St
+2026-03-22 09:39:20,213 [DEBUG]   Filtered (not relevant): Center State Conference girls basketball all-stars announced for 2025-26
+2026-03-22 09:39:20,213 [DEBUG]   Filtered (not relevant): Asking Eric: If you’re qualifying it as ‘not technically abuse,’ here’s a wake-u
+2026-03-22 09:39:20,214 [DEBUG]   Filtered (not relevant): Salt City Athletic Conference Metro girls basketball all-stars announced for 202
+2026-03-22 09:39:20,214 [DEBUG]   Filtered (not relevant): Weather alert for freezing rain in North Country Sunday morning
+2026-03-22 09:39:20,215 [DEBUG]   Filtered (not relevant): Izoje sends a message and a smile back home to Nigeria: 'I would say I did a gre
+2026-03-22 09:39:20,215 [DEBUG]   Filtered (not relevant): Oneida County real estate: See all residential properties sold, March 9-15
+2026-03-22 09:39:20,216 [DEBUG]   Filtered (not relevant): Editorial cartoons for March 22, 2026: Iran war week 3, burned bridges, Trump's 
+2026-03-22 09:39:20,216 [DEBUG]   Filtered (not relevant): Section III winter girls volleyball all-stars announced for 2025-26
+2026-03-22 09:39:20,216 [DEBUG]   Filtered (not relevant): Onondaga High School League Liberty girls basketball all-stars announced for 202
+2026-03-22 09:39:20,217 [DEBUG]   Filtered (not relevant): Asking Eric: Fiance had his life together when we met; it’s been a downward spir
+2026-03-22 09:39:20,217 [DEBUG]   Filtered (not relevant): $608,000 for newer 4 BR Colonial: Plus 65 more Onondaga County home sales
+2026-03-22 09:39:20,218 [DEBUG]   Filtered (not relevant): 5 CNY schools make ‘unprecedented’ football move: No CBA (Top stories)
+2026-03-22 09:39:20,218 [DEBUG]   Filtered (not relevant): Syracuse missed opportunities to intervene at Nob Hill apartments (Editorial Boa
+2026-03-22 09:39:20,218 [DEBUG]   Filtered (not relevant): Section III state basketball championship, flag football schedule for March 22
+2026-03-22 09:39:20,218 [DEBUG]   Filtered (not relevant): Where to watch Syracuse men’s lacrosse vs. Georgetown for free today
+2026-03-22 09:39:20,219 [DEBUG]   Filtered (not relevant): Glazed chile-garlic meatballs
+2026-03-22 09:39:20,220 [DEBUG]   Filtered (not relevant): Five weeknight dishes: Fast chicken fajitas, cod with caper-orange sauce and mor
+2026-03-22 09:39:20,220 [DEBUG]   Filtered (not relevant): Hollywood legend, 95, underwent surgery this month following scary horseback rid
+2026-03-22 09:39:20,220 [DEBUG]   Filtered (not relevant): Binge 'Someone's Hunting Us,' a podcast on the takedown of a serial killer
+2026-03-22 09:39:20,220 [DEBUG]   Filtered (not relevant): Central NY weather: Rain on Sunday, then icy roads possible Monday morning
+2026-03-22 09:39:20,221 [DEBUG]   Filtered (not relevant): Disgraced actor, 54, found dead in prison cell two months into sentence
+2026-03-22 09:39:20,221 [DEBUG]   Filtered (not relevant): Dear Abby: My whole life, people have accused me of things I didn’t do, and I’ve
+2026-03-22 09:39:20,222 [DEBUG]   Filtered (not relevant): Trump: ICE officers soon will help with airport security unless shutdown ends
+2026-03-22 09:39:20,222 [DEBUG]   Filtered (not relevant): Legendary singer to release first new album in 12 years
+2026-03-22 09:39:20,222 [DEBUG]   Filtered (not relevant): CNY Inspirations: Midway to Easter offers hope and renewal for seniors
+2026-03-22 09:39:20,222 [DEBUG]   Filtered (not relevant): Axe: Syracuse women’s basketball found a new  Fantastic 4 to advance in NCAA Tou
+2026-03-22 09:39:20,223 [DEBUG]   Filtered (not relevant): Dear Abby: Husband is eating himself to death, ruining our sex life and doesn’t 
+2026-03-22 09:39:20,223 [DEBUG]   Filtered (not relevant): Watch Sunday’s games in New York state basketball championships: Live stream, sc
+2026-03-22 09:39:20,224 [DEBUG]   Filtered (not relevant): Onondaga Community College briefly locked down; student found with paintball gun
+2026-03-22 09:39:20,224 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Saturday’s $120 million drawing
+2026-03-22 09:39:20,225 [DEBUG]   Filtered (not relevant): The unlikeliest of players leads SU to a March Madness win: ‘I’ve always been re
+2026-03-22 09:39:20,225 [DEBUG]   Filtered (not relevant): Tight end from Liverpool commits to play football at Alabama
+2026-03-22 09:39:20,225 [DEBUG]   Filtered (not relevant): New York's Maple Weekend is here and this Central New York farm has pancakes, to
+2026-03-22 09:39:20,226 [DEBUG]   Filtered (not relevant): $300 FanDuel promo code announced in Arkansas for Saturday Night Basketball
+2026-03-22 09:39:20,226 [DEBUG]   Filtered (not relevant): Le Moyne lacrosse falls to LIU 9-5 at home
+2026-03-22 09:39:20,227 [DEBUG]   Filtered (not relevant): SU women’s basketball box score vs. Iowa State in NCAA Tournament
+2026-03-22 09:39:20,227 [DEBUG]   Filtered (not relevant): Syracuse women’s basketball knocks off Iowa State in NCAA Tournament to get shot
+2026-03-22 09:39:20,228 [DEBUG]   Filtered (not relevant): Spicy pork noodle soup
+2026-03-22 09:39:20,228 [DEBUG]   Filtered (not relevant): Kalshi Promo Code SYRACUSE: New $10 basketball bonus in New York and Pennsylvani
+2026-03-22 09:39:20,228 [DEBUG]   Filtered (not relevant): Blakeslee’s four goals power Le Moyne to 14-12 victory at Howard
+2026-03-22 09:39:20,229 [DEBUG]   Filtered (not relevant): Several departments battle large house fire in Cayuga County
+2026-03-22 09:39:20,229 [DEBUG]   Filtered (not relevant): Syracuse women’s lacrosse box score at Virginia
+2026-03-22 09:39:20,229 [DEBUG]   Filtered (not relevant): Syracuse women’s lacrosse wins 7th straight with victory over Virginia
+2026-03-22 09:39:20,230 [DEBUG]   Filtered (not relevant): Senior’s buzzer 3 sends Cooperstown back to state final: ‘You have to get lucky 
+2026-03-22 09:39:20,230 [DEBUG]   Filtered (not relevant): Fans worry after satire post claims popular actor was deported to Australia
+2026-03-22 09:39:20,230 [DEBUG]   Filtered (not relevant): Most expensive homes sold in six Central NY counties from March 9 to 15
+2026-03-22 09:39:20,231 [DEBUG]   Filtered (not relevant): Tompkins County real estate: 10 most expensive homes sold, March 9-15
+2026-03-22 09:39:20,231 [DEBUG]   Filtered (not relevant): Le Moyne women’s lacrosse box score at Howard
+2026-03-22 09:39:20,232 [INFO] News Scanner Run — 2026-03-22 09:39
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 0
+Filtered (not relevant): 50
+Errors: 0
+
+2026-03-22 10:07:05,024 [INFO] ============================================================
+2026-03-22 10:07:05,024 [INFO] News Scanner starting
+2026-03-22 10:07:05,069 [INFO] Fetching: Syracuse.com Politics
+2026-03-22 10:07:05,624 [INFO]   50 new articles from Syracuse.com Politics
+2026-03-22 10:07:05,625 [INFO] Fetching: Syracuse.com Government
+2026-03-22 10:07:06,443 [INFO]   0 new articles from Syracuse.com Government
+2026-03-22 10:07:06,443 [INFO] Fetching: Syracuse.com Local
+2026-03-22 10:07:06,749 [INFO]   0 new articles from Syracuse.com Local
+2026-03-22 10:07:06,749 [INFO] Fetching: Syracuse.com Main
+2026-03-22 10:07:07,066 [INFO]   0 new articles from Syracuse.com Main
+2026-03-22 10:07:07,066 [INFO] Total unique articles across all feeds: 50
+2026-03-22 10:07:07,066 [INFO] New articles (not previously processed): 50
+2026-03-22 10:07:07,101 [DEBUG]   Filtered (not relevant): NCAA Tournament 2026: Sunday’s Round 2 TV schedule, bracket update
+2026-03-22 10:07:07,102 [DEBUG]   Filtered (not relevant): Dear Annie: I thought sister and I were close, but has it been a competition thi
+2026-03-22 10:07:07,102 [DEBUG]   Filtered (not relevant): Tompkins County real estate: See all residential properties sold, March 9-15
+2026-03-22 10:07:07,102 [DEBUG]   Filtered (not relevant): Bryan Hodgson takes job to be Providence’s next men’s basketball coach
+2026-03-22 10:07:07,103 [DEBUG]   Filtered (not relevant): Kalshi Promo Code SYRACUSE updated: New $10 bonus for NBA, PGA, and No. 7 Miami 
+2026-03-22 10:07:07,103 [DEBUG]   Filtered (not relevant): Dear Annie: Drummer neighbor doesn’t care that it’s driving me crazy; is an HOA 
+2026-03-22 10:07:07,104 [DEBUG]   Filtered (not relevant): Updated BetMGM Bonus Code CUSE150: $150 bonus and $5K+ casino bonus in PA for St
+2026-03-22 10:07:07,104 [DEBUG]   Filtered (not relevant): Center State Conference girls basketball all-stars announced for 2025-26
+2026-03-22 10:07:07,105 [DEBUG]   Filtered (not relevant): Asking Eric: If you’re qualifying it as ‘not technically abuse,’ here’s a wake-u
+2026-03-22 10:07:07,105 [DEBUG]   Filtered (not relevant): Salt City Athletic Conference Metro girls basketball all-stars announced for 202
+2026-03-22 10:07:07,106 [DEBUG]   Filtered (not relevant): Weather alert for freezing rain in North Country Sunday morning
+2026-03-22 10:07:07,106 [DEBUG]   Filtered (not relevant): Izoje sends a message and a smile back home to Nigeria: 'I would say I did a gre
+2026-03-22 10:07:07,106 [DEBUG]   Filtered (not relevant): Oneida County real estate: See all residential properties sold, March 9-15
+2026-03-22 10:07:07,107 [DEBUG]   Filtered (not relevant): Section III winter girls volleyball all-stars announced for 2025-26
+2026-03-22 10:07:07,107 [DEBUG]   Filtered (not relevant): Editorial cartoons for March 22, 2026: Iran war week 3, burned bridges, Trump's 
+2026-03-22 10:07:07,108 [DEBUG]   Filtered (not relevant): Asking Eric: Fiance had his life together when we met; it’s been a downward spir
+2026-03-22 10:07:07,108 [DEBUG]   Filtered (not relevant): Onondaga High School League Liberty girls basketball all-stars announced for 202
+2026-03-22 10:07:07,109 [DEBUG]   Filtered (not relevant): $608,000 for newer 4 BR Colonial: Plus 65 more Onondaga County home sales
+2026-03-22 10:07:07,109 [DEBUG]   Filtered (not relevant): 5 CNY schools make ‘unprecedented’ football move: No CBA (Top stories)
+2026-03-22 10:07:07,110 [DEBUG]   Filtered (not relevant): Glazed chile-garlic meatballs
+2026-03-22 10:07:07,110 [DEBUG]   Filtered (not relevant): Syracuse missed opportunities to intervene at Nob Hill apartments (Editorial Boa
+2026-03-22 10:07:07,111 [DEBUG]   Filtered (not relevant): Section III state basketball championship, flag football schedule for March 22
+2026-03-22 10:07:07,111 [DEBUG]   Filtered (not relevant): Where to watch Syracuse men’s lacrosse vs. Georgetown for free today
+2026-03-22 10:07:07,111 [DEBUG]   Filtered (not relevant): Hollywood legend, 95, underwent surgery this month following scary horseback rid
+2026-03-22 10:07:07,112 [DEBUG]   Filtered (not relevant): Five weeknight dishes: Fast chicken fajitas, cod with caper-orange sauce and mor
+2026-03-22 10:07:07,112 [DEBUG]   Filtered (not relevant): Binge 'Someone's Hunting Us,' a podcast on the takedown of a serial killer
+2026-03-22 10:07:07,113 [DEBUG]   Filtered (not relevant): Central NY weather: Rain on Sunday, then icy roads possible Monday morning
+2026-03-22 10:07:07,113 [DEBUG]   Filtered (not relevant): Dear Abby: My whole life, people have accused me of things I didn’t do, and I’ve
+2026-03-22 10:07:07,113 [DEBUG]   Filtered (not relevant): Disgraced actor, 54, found dead in prison cell two months into sentence
+2026-03-22 10:07:07,114 [DEBUG]   Filtered (not relevant): Trump: ICE officers soon will help with airport security unless shutdown ends
+2026-03-22 10:07:07,114 [DEBUG]   Filtered (not relevant): Legendary singer to release first new album in 12 years
+2026-03-22 10:07:07,114 [DEBUG]   Filtered (not relevant): CNY Inspirations: Midway to Easter offers hope and renewal for seniors
+2026-03-22 10:07:07,115 [DEBUG]   Filtered (not relevant): Axe: Syracuse women’s basketball found a new  Fantastic 4 to advance in NCAA Tou
+2026-03-22 10:07:07,115 [DEBUG]   Filtered (not relevant): Dear Abby: Husband is eating himself to death, ruining our sex life and doesn’t 
+2026-03-22 10:07:07,116 [DEBUG]   Filtered (not relevant): Watch Sunday’s games in New York state basketball championships: Live stream, sc
+2026-03-22 10:07:07,116 [DEBUG]   Filtered (not relevant): Onondaga Community College briefly locked down; student found with paintball gun
+2026-03-22 10:07:07,116 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Saturday’s $120 million drawing
+2026-03-22 10:07:07,117 [DEBUG]   Filtered (not relevant): The unlikeliest of players leads SU to a March Madness win: ‘I’ve always been re
+2026-03-22 10:07:07,117 [DEBUG]   Filtered (not relevant): Tight end from Liverpool commits to play football at Alabama
+2026-03-22 10:07:07,117 [DEBUG]   Filtered (not relevant): New York's Maple Weekend is here and this Central New York farm has pancakes, to
+2026-03-22 10:07:07,118 [DEBUG]   Filtered (not relevant): $300 FanDuel promo code announced in Arkansas for Saturday Night Basketball
+2026-03-22 10:07:07,118 [DEBUG]   Filtered (not relevant): Le Moyne lacrosse falls to LIU 9-5 at home
+2026-03-22 10:07:07,119 [DEBUG]   Filtered (not relevant): SU women’s basketball box score vs. Iowa State in NCAA Tournament
+2026-03-22 10:07:07,119 [DEBUG]   Filtered (not relevant): Syracuse women’s basketball knocks off Iowa State in NCAA Tournament to get shot
+2026-03-22 10:07:07,120 [DEBUG]   Filtered (not relevant): Spicy pork noodle soup
+2026-03-22 10:07:07,120 [DEBUG]   Filtered (not relevant): Kalshi Promo Code SYRACUSE: New $10 basketball bonus in New York and Pennsylvani
+2026-03-22 10:07:07,121 [DEBUG]   Filtered (not relevant): Blakeslee’s four goals power Le Moyne to 14-12 victory at Howard
+2026-03-22 10:07:07,121 [DEBUG]   Filtered (not relevant): Several departments battle large house fire in Cayuga County
+2026-03-22 10:07:07,121 [DEBUG]   Filtered (not relevant): Syracuse women’s lacrosse box score at Virginia
+2026-03-22 10:07:07,122 [DEBUG]   Filtered (not relevant): Syracuse women’s lacrosse wins 7th straight with victory over Virginia
+2026-03-22 10:07:07,123 [INFO] News Scanner Run — 2026-03-22 10:07
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 0
+Filtered (not relevant): 50
+Errors: 0
+

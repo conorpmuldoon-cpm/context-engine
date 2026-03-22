@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-WEB-2026-00073",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-11-03-Infrastructure-News-830AM",
+  "publication_date": "2024-11-03",
+  "capture_date": "2026-03-22T14:21:59Z",
+  "title": "Mayor Walsh Announces Road Reconstruction Project on Milton Avenue",
+  "summary": "Mayor Ben Walsh announced a road reconstruction project on Milton Avenue starting November 4, 2024, involving milling and paving from West Genesee Street to the city line. Work will occur 6 a.m. to 6 p.m. daily with an expected one-week completion timeline, weather permitting, while maintaining road access with potential traffic delays.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "roads-bridges",
+    "infrastructure",
+    "transportation",
+    "construction-staging"
+  ],
+  "department_refs": [
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor-led announcement of infrastructure investment signals prioritization of road maintenance and asset management within city transportation network.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown; byline attribution unclear",
+    "Sharon F. Owens appears in navigation header but not in article body—may be current mayor or website template artifact; Ben Walsh is identified as announcing mayor",
+    "No budget amount specified for project",
+    "No dollar impact or funding source disclosed",
+    "Geographic scope clearly defined (Milton Avenue, West Genesee to city line)",
+    "Timeline contingency noted (weather-dependent)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

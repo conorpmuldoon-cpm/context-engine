@@ -1,0 +1,47 @@
+{
+  "record_id": "CTX-WEB-2026-00013",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Fire-News/Fire-2022",
+  "publication_date": "2022-12-23",
+  "capture_date": "2026-03-22T10:11:08Z",
+  "title": "Fire News 2022",
+  "summary": "Syracuse Fire Department responded to a residential structure fire on December 23, 2022 at 200 Mather Street, extinguishing an enclosed front porch fire that displaced five occupants. The incident represents routine emergency response operations with no reported injuries or significant property damage metrics provided.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "fire",
+    "emergency-services",
+    "residents"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "200 block of Mather Street",
+      "type": "system",
+      "canonical_id": "LOC-MATHER-ST-200BLK"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Minimal content: brief incident report with no contextual details about cause, damage assessment, or response time",
+    "Author field marked 'Unknown' in source metadata",
+    "No dollar amounts, resource deployment details, or follow-up actions documented",
+    "Tagged generically as 'Syracuse Fire News' with no deeper categorization",
+    "No apparent connection to CIO strategic priorities (digital services, IT infrastructure, data governance, etc.)",
+    "Five displaced residents represents potential welfare follow-up opportunity for 311/constituent services integration",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

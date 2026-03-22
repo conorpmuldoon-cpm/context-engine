@@ -1,0 +1,70 @@
+{
+  "record_id": "CTX-WEB-2026-00068",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2024/2024-12-04-Mayors-Office-News-215PM",
+  "publication_date": "2024-12-04",
+  "capture_date": "2026-03-22T14:20:58Z",
+  "title": "Mayor Walsh Issues Snow Safety Alert for Upcoming Winter Storm",
+  "summary": "Mayor Ben Walsh issued a snow safety alert for a winter storm affecting Syracuse from Wednesday evening through Friday morning, December 4-6, 2024. The alert directs residents to follow parking restrictions, clear sidewalks and fire hydrants, and prepare for hazardous road conditions. The City will prioritize plowing primary and service roads while encouraging residents to monitor real-time conditions via the Snow Plow Map and social media.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "snow-removal",
+    "emergency-services",
+    "roads-bridges",
+    "residents",
+    "announcement",
+    "public-safety-commission",
+    "transportation"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Syracuse Fire Department",
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    },
+    {
+      "name": "Syracuse Fire Department",
+      "type": "organization",
+      "canonical_id": "ORG-SFD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor proactively communicates winter storm response and resident compliance expectations; emphasizes interagency coordination and data-driven parking enforcement strategy on priority streets.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Sharon F. Owens listed in header navigation (appears to be current mayor in system); Ben Walsh quoted as mayor in content—verify current mayoral tenure",
+    "Article truncated mid-list of parking restriction blocks; full downtown enforcement areas not captured",
+    "GIS and IT-infrastructure implied through Snow Plow Map and digital service tools (syr.gov/winter) but not explicitly mentioned",
+    "No budget, contract, or personnel impacts disclosed",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,70 @@
+{
+  "record_id": "CTX-WEB-2026-00097",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/2024/2024-02-09-Mayors-Office-News-3PM",
+  "publication_date": "2024-02-09",
+  "capture_date": "2026-03-22T14:26:30Z",
+  "title": "Mayor Walsh Appoints Robert Brandt to Deputy Commissioner of Water",
+  "summary": "Mayor Ben Walsh appointed Robert Brandt as Deputy Commissioner in the Department of Water, effective February 9, 2024. Brandt brings 30 years of municipal service experience, including roles in sanitation, sewer and water maintenance, and most recently as Assistant Superintendent of Street Cleaning/Snow and Ice. He will oversee day-to-day operations, program development, and personnel management within the water department.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "leadership-change",
+    "department-head",
+    "water",
+    "civil-service",
+    "workforce-development",
+    "labor-relations"
+  ],
+  "department_refs": [
+    "Department of Water",
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Robert Brandt",
+      "type": "person",
+      "canonical_id": "PERSON-ROBERT-BRANDT"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "AFSCME Council 66",
+      "type": "organization",
+      "canonical_id": "ORG-AFSCME"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor Walsh signals commitment to water department operations and institutional continuity by promoting experienced internal candidate with three decades of municipal service and union representation background.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article byline shows 'Unknown' author; published through Mayor's Office communications",
+    "Discrepancy in header: title references 'Mayor Walsh' but page header shows 'Mayor Sharon F. Owens' — suggests potential content template reuse or staffing transition context",
+    "Brandt's union role (AFSCME Regional VP) may be significant for labor-relations tracking",
+    "Washington Square neighborhood residence noted — potential community engagement angle",
+    "No specific implementation date or transition details provided beyond announcement",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

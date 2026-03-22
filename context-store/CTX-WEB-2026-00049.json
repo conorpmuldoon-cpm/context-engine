@@ -1,0 +1,77 @@
+{
+  "record_id": "CTX-WEB-2026-00049",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-05-07-Infrastructure-News-1115AM",
+  "publication_date": "2025-05-07",
+  "capture_date": "2026-03-22T14:17:17Z",
+  "title": "Mayor Announces Public Meetings for Phase 3 of Creekwalk Extension",
+  "summary": "Mayor Walsh announced two public meetings (May 13 & 15, 2025) to gather community input on Phase 3 of the Onondaga Creekwalk Extension, which will extend the existing 4.8-mile trail south three miles from West Colvin Street to Dorwin Avenue. The project aims to provide safe pedestrian and bicycle access through Southside and Valley neighborhoods, with preliminary design underway and interactive mapping stations for resident feedback.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "infrastructure",
+    "parks",
+    "micromobility",
+    "transportation",
+    "accessibility",
+    "equity",
+    "initiative-launch",
+    "residents",
+    "capital-planning"
+  ],
+  "department_refs": [
+    "Parks, Recreation and Youth Bureau"
+  ],
+  "entity_refs": [
+    {
+      "name": "Mayor Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-WALSH-MAYOR"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Office of Communications",
+      "type": "organization",
+      "canonical_id": "ORG-COMM"
+    },
+    {
+      "name": "Southwest Community Center",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Cecile Community Center",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor publicly champions Creekwalk Phase 3 as commitment to equity, active transportation, and quality-of-life improvement in Southside and Valley neighborhoods; framing infrastructure investment as community strengthening.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in source metadata",
+    "Mayor name in article body is 'Walsh' but header shows 'Sharon F. Owens' — clarify if Owens is current mayor or if this is a data inconsistency",
+    "No budget figures provided in release",
+    "Online feedback mechanism: goto.syr.gov/Creekwalk-Phase3",
+    "Project appears to be in early design phase; no contracts or timelines announced yet",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

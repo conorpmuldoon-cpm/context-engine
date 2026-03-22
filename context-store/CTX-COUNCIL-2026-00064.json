@@ -1,0 +1,49 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00064",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=i9Nn-8_gM4I&t=3185s",
+  "publication_date": "2026-03-18",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "SFD Bryer Code Compliance Software -- No Cost Three-Year Agreement",
+  "summary": "Deputy Chief Elton Davis presents item 31, a three-year agreement with Bryer for code compliance software used for sprinkler system and fire alarm report submissions. No cost to the city. Council enthusiastically approves.",
+  "raw_content": "[00:53:05] item 31 is agreement with uh Bryer. This\n[00:53:08] is a code compliant code compliant\n[00:53:11] software in which we\n[00:53:14] which we use it as a tool to\n[00:53:18] for the submission of uh excuse me for\n[00:53:22] the submission of uh reports that are\n[00:53:25] required for sprinkler systems, fire\n[00:53:27] alarms, things on along that line. It's\n[00:53:30] a three-year agreement and it's there is\n[00:53:33] no cost to the city.\n[00:53:35] >> Okay.\n[00:53:37] >> Like that.\n[00:53:37] >> Like that.\n[00:53:38] >> You should have started off with that\n[00:53:39] first.\n[00:53:40] >> All right.\n[00:53:41] >> Absolutely.\n[00:53:42] >> Any questions?\n[00:53:43] >> Not really.\n[00:53:46] >> Thank you.\n[00:53:50] >> Afternoon, counselors. First deputy\n[00:53:51] chief Rich Trudeell. That is a tough act\n[00:53:53] to follow. I'm not asking for money.",
+  "transcript_ref": "outputs/transcripts/i9Nn-8_gM4I_corrected.txt",
+  "topic_tags": [
+    "fire",
+    "software-systems",
+    "contract-award"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Elton Davis",
+      "type": "person"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Elton Davis",
+      "role": "SFD Deputy Chief",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Free software for fire code compliance reporting -- sprinkler systems, fire alarms.",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 10 of 23 from Common Council Study Session, Wednesday March 18th 2026",
+    "Transcript corrections applied: CNS -> CNS Engineers; SU -> Syracuse University"
+  ],
+  "last_relevance_update": null
+}

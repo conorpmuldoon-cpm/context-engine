@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-MANUAL-2026-00001",
+  "source_agent": "manual_input",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-10-Infrastructure-News-1255-PM",
+  "publication_date": "2026-03-10",
+  "capture_date": "2026-03-21T00:00:00Z",
+  "title": "Mayor Owens Announces Return of Veo Micromobility Operations for 2026 Season",
+  "summary": "Mayor Sharon F. Owens announced the return of Veo's shared micromobility service to Syracuse effective March 9, 2026, following its seasonal winter suspension. The 2025 season generated 648,000 rides exceeding 1 million miles, with 24% ridership growth. Survey data shows 66% of riders lack car access and 52% use Veo to connect with transit. The updated 2026 agreement includes cargo baskets, expanded community outreach, improved accessibility measures, and underage riding prevention.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "roads-bridges",
+    "economic-development",
+    "micromobility",
+    "vision-zero"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-OWENS-EXEC"
+    },
+    {
+      "name": "Candice Xie",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Veo",
+      "type": "organization",
+      "canonical_id": "ORG-VEO"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor actively championing Veo micromobility program as aligned with transportation equity, transit connectivity, and Vision Zero goals",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": ["CLUSTER-VEO-MICROMOBILITY-2026Q1"],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "DPW resolved to canonical 'Department of Public Works' via synonym table",
+    "First record in context store — no dedup check needed",
+    "2026-03-21: Linked to CLUSTER-VEO-MICROMOBILITY-2026Q1. Cleaned stale provisional tag notes (micromobility and vision-zero promoted to taxonomy)."
+  ],
+  "last_relevance_update": null
+}

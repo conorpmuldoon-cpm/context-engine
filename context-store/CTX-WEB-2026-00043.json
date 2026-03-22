@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-WEB-2026-00043",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Parks-News/Parks-2025/2025-06-18-Parks-News",
+  "publication_date": "2025-06-18",
+  "capture_date": "2026-03-22T14:16:04Z",
+  "title": "City of Syracuse Releases 2025 Outdoor Pool Schedule",
+  "summary": "The City of Syracuse Department of Parks, Recreation & Youth Programs announced the 2025 outdoor pool season opening on a rolling basis starting June 18, with all pools operational by end of June through mid-August. Free admission open swim, lap swimming, swim lessons ($3/session), competitive swim team, and youth aquathon events are available across multiple city pools with varying hour schedules and registration periods.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "parks",
+    "announcement",
+    "residents",
+    "initiative-launch",
+    "recurring"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation & Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Seasonal recreation program launch demonstrates investment in youth engagement, community wellness, and accessible public services (free admission). Aligns with equity and quality-of-life priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article truncated mid-sentence in Aquathon dates section; full event schedule not captured",
+    "Author marked 'Unknown'; likely departmental communications",
+    "Registration system (syracuse.recdesk.com) mentioned multiple times—digital services integration point",
+    "No budget figures provided beyond $3 lap swim fee; capital/operational costs not disclosed",
+    "Height/safety requirements and supervision rules present potential accessibility/equity monitoring opportunity",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

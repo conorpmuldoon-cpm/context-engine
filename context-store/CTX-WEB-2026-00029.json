@@ -1,0 +1,70 @@
+{
+  "record_id": "CTX-WEB-2026-00029",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-10-Infrastructure-News-1255-PM",
+  "publication_date": "2026-03-10",
+  "capture_date": "2026-03-22T14:13:17Z",
+  "title": "Mayor Sharon F. Owens Announces the Return of Veo Fleet",
+  "summary": "Mayor Owens announces the seasonal return of Veo micromobility fleet to full capacity as of March 9, 2026, following strong 2025 performance (648,000 rides, 24% growth). Updated operating agreement includes new cargo baskets, accessibility improvements, and underage riding prevention. Program serves residents without car access and supports transit connectivity.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "micromobility",
+    "transportation",
+    "sustainability",
+    "announcement",
+    "initiative-launch",
+    "business-community",
+    "equity",
+    "accessibility",
+    "residents"
+  ],
+  "department_refs": [
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Veo",
+      "type": "organization",
+      "canonical_id": "ORG-VEO"
+    },
+    {
+      "name": "Candice Xie",
+      "type": "person",
+      "canonical_id": "PERSON-CANDICE-XIE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor champions sustainable transportation and equity-focused mobility as part of broader vision for safer streets and accessible transit connections. Program metrics demonstrate constituent adoption among car-free populations.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00019"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field listed as 'Unknown' in metadata",
+    "Contact email syrops@veoride.com indicates dedicated Veo-Syracuse partnership coordination",
+    "Survey data (750 riders, 66% car-free, 52% transit connectors) suggests strong equity impact narrative",
+    "Spring promotion code SPRING26 indicates active rider acquisition strategy",
+    "No budget figures disclosed beyond $5 promo credit",
+    "Operating agreement changes suggest ongoing contract negotiation and community feedback integration",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00019 — linked for review"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,91 @@
+{
+  "record_id": "CTX-WEB-2026-00027",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-03-13-Mayors-Office-News-215-PM",
+  "publication_date": "2026-03-13",
+  "capture_date": "2026-03-22T14:12:31Z",
+  "title": "Mayor, Council and Auditor Thank Senate For One-House Budget Proposal",
+  "summary": "Mayor Sharon Owens, Common Council President Rita Paniagua, Finance Chair Corey Williams, and City Auditor Alexander Marion publicly thanked the New York State Senate for its One-House budget proposal allocating $30 million in additional aid to Syracuse—double Governor Hochul's executive budget commitment. Senator Rachel May championed the funding, which officials stated will support infrastructure, housing, neighborhood revitalization, and essential municipal services.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "state-agency",
+    "intergovernmental",
+    "grants",
+    "infrastructure",
+    "housing",
+    "announcement",
+    "mayor",
+    "council",
+    "capital-planning",
+    "economic-development"
+  ],
+  "department_refs": [
+    "Department of Finance",
+    "Office of the Mayor",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Rita Paniagua",
+      "type": "person",
+      "canonical_id": "PERSON-RITA-PANIAGUA"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Alexander Marion",
+      "type": "person",
+      "canonical_id": "PERSON-ALEXANDER-MARION"
+    },
+    {
+      "name": "Rachel May",
+      "type": "person",
+      "canonical_id": "PERSON-RACHEL-MAY"
+    },
+    {
+      "name": "Kathy Hochul",
+      "type": "person",
+      "canonical_id": "PERSON-KATHY-HOCHUL"
+    },
+    {
+      "name": "New York State Senate",
+      "type": "organization",
+      "canonical_id": "ORG-NYS-SENATE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "State Senate Democratic Majority committed $30M to Syracuse in One-House budget proposal, doubling governor's executive budget allocation. Reflects prioritization of Syracuse municipal needs and partnership between local and state leadership.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00018"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount extracted as $30M (30 million); quoted as doubling governor's proposal but absolute amount of executive budget not stated in document",
+    "Author listed as Unknown; source is official City of Syracuse press release",
+    "Corey Williams identified as Finance Chair (Council title); may require verification against canonical civil-service roster",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00018 — linked for review"
+  ],
+  "last_relevance_update": null
+}

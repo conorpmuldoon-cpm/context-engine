@@ -1,0 +1,78 @@
+{
+  "record_id": "CTX-WEB-2026-00019",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-03-11-Mayors-Office-News-130-PM",
+  "publication_date": "2026-03-11",
+  "capture_date": "2026-03-22T14:10:19Z",
+  "title": "Mayor Owens Announces the Return of the Bravest Vs. Finest Game",
+  "summary": "Mayor Sharon F. Owens announced the return of the Bravest vs. Finest basketball game on April 17, 2026, featuring the Syracuse Fire Department and Police Department in a charitable matchup benefiting United Way of Central New York. The community event, held at Henninger High School with $10 admission, raised over $2,500 last year and aims to exceed that total while celebrating first responders and funding regional social programs.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "emergency-services",
+    "fire",
+    "police",
+    "initiative-launch",
+    "neighborhood-services",
+    "residents"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Syracuse Police Department",
+    "Office of Communications",
+    "Syracuse City School District"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "United Way of Central New York",
+      "type": "organization",
+      "canonical_id": "ORG-UWCNY"
+    },
+    {
+      "name": "Carrie Large",
+      "type": "person",
+      "canonical_id": "PERSON-CARRIE-LARGE"
+    },
+    {
+      "name": "Pamela J. Odom",
+      "type": "person",
+      "canonical_id": "PERSON-PAMELA-ODOM"
+    },
+    {
+      "name": "Henninger High School",
+      "type": "organization",
+      "canonical_id": "ORG-HENNINGER-HS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor publicly champions inter-departmental collaboration and community service alignment with non-profit mission; signals administration support for public safety visibility and civic engagement.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field listed as 'Unknown' in source metadata",
+    "Event URL contains future date (2026); validated against publication date of 2026-03-11",
+    "Dollar amounts extracted: $10 ticket price, $2,500+ raised (prior year), fundraising goal unspecified for 2026",
+    "Three organizational leaders quoted (Owens, Large, Odom) indicating high-level stakeholder alignment",
+    "No CIO-specific digital services, IT infrastructure, or data governance components detected; primarily community engagement announcement",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag corrected: 'community-community' replaced with 'neighborhood-services' (2026-03-22)"
+  ],
+  "last_relevance_update": null
+}

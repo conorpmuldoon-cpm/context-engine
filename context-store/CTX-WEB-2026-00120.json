@@ -1,0 +1,65 @@
+{
+  "record_id": "CTX-WEB-2026-00120",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-06-13-Traffic-News-410PM",
+  "publication_date": "2023-06-13",
+  "capture_date": "2026-03-22T14:31:13Z",
+  "title": "Road Closures for 2023 Juneteenth Festival",
+  "summary": "The City of Syracuse announced street closures in the downtown Clinton Square area from June 15-18, 2023 to accommodate the annual Juneteenth Festival. Multiple streets including Clinton Street and Erie Boulevard West will be fully closed, while West Water Street will operate as two-way traffic. The festival parade runs Saturday, June 17, 11 a.m.–12 p.m., with expected delays on South State and South Salina streets.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "roads-bridges",
+    "road-closure-fees",
+    "transportation",
+    "parks",
+    "construction-staging",
+    "recurring"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs",
+    "Department of Transportation & Infrastructure Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Syracuse Juneteenth Festival",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Dunbar Center",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Proactive public communication and infrastructure support for established cultural celebration event demonstrates municipal commitment to community-engaged programming and advance planning.",
+    "confidence": "medium"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article title references '2023' but URL path shows '2024' - date discrepancy in CMS",
+    "Author listed as 'Unknown' - typical for departmental press releases",
+    "Event details sourced to external website (syracusejuneteenth.org) rather than city-led initiative",
+    "Contact routed through Office of Communications, not Parks department directly",
+    "No budget, procurement, or equity impact data provided in release",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

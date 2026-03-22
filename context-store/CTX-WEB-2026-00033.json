@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-WEB-2026-00033",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-14-01-Infrastructure-News-915",
+  "publication_date": "2026-03-22",
+  "capture_date": "2026-03-22T14:14:04Z",
+  "title": "City of Syracuse Launches Lead Water Educational Materials",
+  "summary": "The City of Syracuse Department of Water launched public educational materials on lead water safety in coordination with EPA and NYSDOH. Materials address health risks of lead exposure and mitigation steps, available online, in-person at City Hall and libraries, and by phone. The City is treating water with orthophosphate and actively replacing lead service lines ahead of EPA deadlines.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "lead-remediation",
+    "public-safety-commission",
+    "residents",
+    "federal-programs",
+    "state-agency",
+    "state-mandates",
+    "initiative-launch",
+    "announcement",
+    "equity"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Environmental Protection Agency",
+      "type": "organization",
+      "canonical_id": "ORG-EPA"
+    },
+    {
+      "name": "New York State Department of Health",
+      "type": "organization",
+      "canonical_id": "ORG-NYSDOH"
+    },
+    {
+      "name": "Office of Communications",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-COMMS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Executive demonstrates alignment with federal/state public health mandates and proactive infrastructure remediation; positions City as responsive to health equity and environmental compliance.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00010"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Date discrepancy: Title shows 2026-03-22 but body text states 'Published on January 14, 2026' — used body date as authoritative",
+    "Author listed as Unknown; likely Office of Communications based on press contact attribution",
+    "URL structure suggests article tagged under Traffic & Infrastructure but content is public health/water safety",
+    "No budget figures or procurement details provided",
+    "Health impact statements included suggest public health/equity framing",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00010 — linked for review"
+  ],
+  "last_relevance_update": null
+}

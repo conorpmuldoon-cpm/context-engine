@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-WEB-2026-00093",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/2024/2024-03-15-Infrastructure-News-10AM",
+  "publication_date": "2024-03-15",
+  "capture_date": "2026-03-22T14:25:44Z",
+  "title": "Mayor Walsh Announces the Return of Full Fleet of Veo",
+  "summary": "Mayor Ben Walsh announced the return of Veo's full micromobility fleet to Syracuse for the 2024 season following winter reduction. The program demonstrated strong growth in 2023 with 433,300 rides and nearly 1,000 scooters/e-bikes available, replacing over 100,000 car trips annually and supporting the city's sustainable transportation and equity goals.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "micromobility",
+    "transportation",
+    "sustainability",
+    "announcement",
+    "initiative-launch",
+    "residents",
+    "infrastructure",
+    "economic-development"
+  ],
+  "department_refs": [
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Candice Xie",
+      "type": "person",
+      "canonical_id": "PERSON-CANDICE-XIE"
+    },
+    {
+      "name": "Veo",
+      "type": "organization",
+      "canonical_id": "ORG-VEO"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor emphasizes micromobility as addressing transportation equity and accessibility for residents without vehicle access; frames program as success metric demonstrating administration commitment to sustainable infrastructure and alternate mobility options.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article title references 'Mayor Walsh' but body text and header reference 'Sharon F. Owens' as mayor—possible error or title inconsistency in source document; Ben Walsh quoted as mayor in content",
+    "No budget figures or financial commitments provided in release",
+    "Data points (433,300 rides, 700,000 miles, 100,000+ car trips replaced) suggest strong CIO analytics/monitoring capability",
+    "URL structure indicates this is Infrastructure News category content",
+    "Contact pathways (syrops@veoride.com, veoride.com/syracuse) suggest existing CIO integration with vendor systems",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

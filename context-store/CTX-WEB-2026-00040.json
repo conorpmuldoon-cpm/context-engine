@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-WEB-2026-00040",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-08-29-Press-Release-Mosley-Pump-Station-Project",
+  "publication_date": "2025-08-29",
+  "capture_date": "2026-03-22T14:15:28Z",
+  "title": "Department of Water to Begin Mosley Pump Station Project Sep. 2",
+  "summary": "The City of Syracuse Department of Water will begin the Mosley Pump Station replacement project on September 2, 2025, near Forest Hill Drive and James Street. The project includes pump station replacement, water main upgrades, and lead service line remediation for approximately 120 homes in the Eastwood area, with partial road closures expected but no water service disruptions anticipated.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "infrastructure",
+    "lead-remediation",
+    "construction-staging",
+    "road-closure-fees",
+    "announcement",
+    "recurring",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse Department of Water",
+      "type": "organization",
+      "canonical_id": "ORG-DOW"
+    },
+    {
+      "name": "Office of Communications",
+      "type": "organization",
+      "canonical_id": "ORG-COMMS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Demonstrates city commitment to infrastructure modernization and environmental health through lead remediation in residential neighborhoods, aligns with long-term infrastructure management strategy.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts not specified in release",
+    "Project scope indicates multi-phase work; completion timeline not provided",
+    "Geographic focus: Eastwood neighborhood (approximately 120 homes affected)",
+    "Lead service line remediation is a key health equity component worthy of CIO tracking for digital service delivery and constituent communication opportunities",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00038",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=A9JzKTb_Eo0&t=2390s",
+  "publication_date": "2026-02-09",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Items 40-43 UKG Pro Payroll Modernization -- Council Hesitation and Forward Vote",
+  "summary": "Councilor Williams introduces items 40-43 (Mosaic Consulting/UKG Pro payroll modernization) and delivers public statement acknowledging months of council concern about allocating additional funds. States council is 'at a point that we need to move forward' and hopes the administration can 'prove us wrong.' Items pass unanimously after extended disruption forced adjournment and constituent removal.",
+  "raw_content": "[00:39:50] one more time.\n[00:39:50] >> Thank you, Madam President. I have items\n[00:39:52] 40 through 43. I would like to introduce\n[00:39:54] nurse their adoption.\n[00:39:56] >> Item 40. Any discussion?\n[00:39:59] >> Yes, madam president.\n[00:40:01] >> Um the payroll modernization project has\n[00:40:05] been on our agenda since late last year.\n[00:40:09] Um, it's clearly been something that\n[00:40:14] our city has had a challenge with. Uh,\n[00:40:16] the common council over the past couple\n[00:40:17] months, we have expressed our concern\n[00:40:20] and our hesitation with allocating\n[00:40:23] additional funds to the process. Um,\n[00:40:25] however, we are at a point that we need\n[00:40:28] to move forward. Um, it is my hope that\n[00:40:33] the administration can prove us wrong.\n[00:40:37] um that we're able to move forward and\n[00:40:38] and complete this process and that we\n[00:40:41] can put all these concerns to rest and\n[00:40:43] be able to um you [clears throat] know\n[00:40:46] get to the the finish line that we all\n[00:40:47] know we need to reach. And so you know\n[00:40:49] thank you to the team spearheading that\n[00:40:51] effort and\n[00:40:53] let's move forward.\n[00:40:56] >> Thank you. Please call the role.\n[00:40:59] >> All in favor?\n[00:40:59] >> Is there any other discussion\n[00:41:01] >> more discussion? Nope. [clears throat]\n[00:41:02] Okay.\n[00:41:02] >> All in favor?",
+  "transcript_ref": "outputs/transcripts/A9JzKTb_Eo0_corrected.txt",
+  "topic_tags": [
+    "payroll",
+    "software-systems",
+    "procurement",
+    "council",
+    "vote",
+    "contract-award"
+  ],
+  "department_refs": [
+    "Department of Finance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Corey J. Williams",
+      "type": "person",
+      "canonical_id": "PERSON-WILLIAMS-COUNCIL"
+    },
+    {
+      "name": "SWC/UKG",
+      "type": "system",
+      "canonical_id": "SYS-SWC"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Corey J. Williams",
+      "role": "Councilor, District 3",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Councilor Williams publicly signals council's reservations about payroll modernization spending while voting to proceed, putting administration on notice to deliver results",
+    "confidence": "high"
+  },
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-PAYROLL-MODERNIZATION-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Connects to qUjV1ZYa2nY Finance Committee Feb 3 where payroll modernization was discussed in detail. Williams' statement is notable -- expresses hope administration 'proves us wrong.' UKG Pro contract is with Mosaic Consulting Group (RFP #25-266), 18-month implementation.",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 11 of 12 from Common Council Regular Meeting, Monday, February 9th, 2026",
+    "Transcript corrections applied: Sharon Owens -> Sharon F. Owens"
+  ],
+  "last_relevance_update": null
+}

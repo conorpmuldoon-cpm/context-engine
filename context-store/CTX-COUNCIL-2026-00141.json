@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00141",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=X4jrKb_RNrw&t=447s",
+  "publication_date": "2026-03-09",
+  "capture_date": "2026-03-21T23:23:19Z",
+  "title": "Transition and Item Confirmations -- Committee Handoffs",
+  "summary": "Brief procedural segment confirming item 11 is ready and transitioning between committee chairs. No substantive policy discussion. Councilor Ehrenreich and Councilor Jones-Rowser referenced picking up their items.",
+  "raw_content": "[00:07:27] >> And item 11's already\n[00:07:29] >> Thank you all.\n[00:07:30] >> Thank you.\n[00:07:33] >> One minute.\n[00:07:36] >> All right. Council theoretically\n[00:07:41] to\n[00:07:43] all my item already.\n[00:07:47] All right.\n[00:08:04] >> All the way back.\n[00:08:05] >> The waiver item is um it's a\n[00:08:07] supplemental. Okay. Number 10.\n[00:08:11] >> Oh gosh.\n[00:08:15] Are we are we okay?\n[00:08:17] >> We all we all went through.\n[00:08:18] >> Yeah,\n[00:08:18] >> I suppose we are upset.\n[00:08:20] >> Okay. So, councelor Erin Rick.\n[00:08:27] >> Thank you, Madam President.\n[00:08:29] I have item\n[00:08:50] >> more.\n[00:08:50] >> Thank you, Madam President. I have\n[00:08:53] 6:30 to go as long as\n[00:08:56] questions. Okay. Uh, councelor Jones\n[00:08:59] Rouser, who's taking",
+  "transcript_ref": "outputs/transcripts/X4jrKb_RNrw_corrected.txt",
+  "topic_tags": [
+    "council"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Hanah Ehrenreich",
+      "type": "person",
+      "canonical_id": "PERSON-EHRENREICH-COUNCIL"
+    },
+    {
+      "name": "Patrona Jones-Rowser",
+      "type": "person",
+      "canonical_id": "PERSON-JONES-ROWSER-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Hanah Ehrenreich",
+      "role": "Councilor At-Large",
+      "confidence": "low"
+    },
+    {
+      "name": "Patrona Jones-Rowser",
+      "role": "Councilor, District 4",
+      "confidence": "low"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Transcript heavily garbled during this transition. Minimal substance. Speaker attributions are low confidence due to poor audio.",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 3 of 4 from Common Council Study Session, Monday March 9th 2026"
+  ],
+  "last_relevance_update": null
+}

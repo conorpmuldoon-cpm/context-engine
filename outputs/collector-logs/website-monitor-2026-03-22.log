@@ -1,0 +1,887 @@
+2026-03-22 09:40:14,182 [INFO] ============================================================
+2026-03-22 09:40:14,182 [INFO] Website Monitor starting
+2026-03-22 09:40:16,215 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-03-22 09:40:16,215 [INFO]   Navigating to https://www.syr.gov/News
+2026-03-22 09:40:24,458 [INFO]   Found 16 article links in News
+2026-03-22 09:40:29,459 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-20-Infrastructure-News-1000-AM
+2026-03-22 09:40:36,722 [INFO]   [DRY RUN] Would process: Department Of Engineering To Host Public Meeting For South Ave Bridge
+2026-03-22 09:40:36,724 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 09:40:36,724 [INFO]     Departments: []
+2026-03-22 09:40:36,724 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-17-Infrastructure-News-447-PM
+2026-03-22 09:40:43,918 [INFO]   [DRY RUN] Would process: Dept. of Engineering Opens Comment Period for Stormwater Management
+2026-03-22 09:40:43,918 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 09:40:43,918 [INFO]     Departments: []
+2026-03-22 09:40:43,918 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-03-13-Mayors-Office-News-215-PM
+2026-03-22 09:40:50,938 [INFO]   [DRY RUN] Would process: Mayor, Council and Auditor Thank Senate For One-House Budget Proposal
+2026-03-22 09:40:50,940 [INFO]     Entities: ['Rita Paniagua', 'Sharon F. Owens', 'Alexander Marion']
+2026-03-22 09:40:50,941 [INFO]     Departments: ['Department of Finance']
+2026-03-22 09:40:50,941 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-03-11-Mayors-Office-News-130-PM
+2026-03-22 09:40:58,170 [INFO]   [DRY RUN] Would process: Mayor Owens Announces the Return of the Bravest Vs. Finest Game
+2026-03-22 09:40:58,170 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 09:40:58,171 [INFO]     Departments: ['Syracuse Fire Department', 'Syracuse Police Department']
+2026-03-22 09:40:58,171 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-10-Infrastructure-News-1255-PM
+2026-03-22 09:41:05,249 [INFO]   [DRY RUN] Would process: Mayor Sharon F. Owens Announces the Return of Veo Fleet
+2026-03-22 09:41:05,250 [INFO]     Entities: ['Sharon F. Owens', 'Veo']
+2026-03-22 09:41:05,250 [INFO]     Departments: []
+2026-03-22 09:41:05,250 [DEBUG]   Fetching: https://www.syr.gov/News/Parks-News/Parks-2026/2026-03-10-Parks-News-3PM
+2026-03-22 09:41:12,223 [INFO]   [DRY RUN] Would process: Traffic Advisory & Street Closure Notice for 2026 St. Patrick's Parade
+2026-03-22 09:41:12,223 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 09:41:12,223 [INFO]     Departments: ['Department of Parks, Recreation and Youth Programs']
+2026-03-22 09:41:12,223 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-03-09-Mayors-Office-News-930AM
+2026-03-22 09:41:19,226 [INFO]   [DRY RUN] Would process: Mayor Owens Announces Search for New Commissioner of Finance
+2026-03-22 09:41:19,227 [INFO]     Entities: ['Sharon F. Owens', 'Diane Nastri']
+2026-03-22 09:41:19,227 [INFO]     Departments: ['Department of Finance']
+2026-03-22 09:41:19,227 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-06-Infrastructure-News-420PM
+2026-03-22 09:41:26,294 [INFO]   [DRY RUN] Would process: West Kirkpatrick Street Bridge to Close Mar. 9 for Repairs
+2026-03-22 09:41:26,294 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 09:41:26,294 [INFO]     Departments: []
+2026-03-22 09:41:26,294 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-03-05-Mayors-Office-News-1030AM
+2026-03-22 09:41:33,356 [INFO]   [DRY RUN] Would process: Mayor Owens Launches Syracuse Community Solar
+2026-03-22 09:41:33,356 [INFO]     Entities: ['Sharon F. Owens', 'National Grid']
+2026-03-22 09:41:33,356 [INFO]     Departments: ['Department of Permits and Development']
+2026-03-22 09:41:33,356 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-03-02-Mayors-Office-News-9-AM
+2026-03-22 09:41:40,369 [INFO]   [DRY RUN] Would process: Water Department Reports 2nd Half 2025 Sampling Meet EPA Lead Standard
+2026-03-22 09:41:40,369 [INFO]     Entities: ['Sharon F. Owens', 'Robert Brandt']
+2026-03-22 09:41:40,369 [INFO]     Departments: []
+2026-03-22 09:41:40,370 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2023
+2026-03-22 09:41:48,202 [INFO]   [DRY RUN] Would process: City 2023
+2026-03-22 09:41:48,202 [INFO]     Entities: []
+2026-03-22 09:41:48,203 [INFO]     Departments: ['Department of Permits and Development']
+2026-03-22 09:41:48,203 [DEBUG]   Fetching: https://www.syr.gov/News/2022/Police-News
+2026-03-22 09:41:55,531 [INFO]   [DRY RUN] Would process: Police News
+2026-03-22 09:41:55,532 [INFO]     Entities: []
+2026-03-22 09:41:55,532 [INFO]     Departments: ['Syracuse Police Department']
+2026-03-22 09:41:55,532 [DEBUG]   Fetching: https://www.syr.gov/News/Fire-News/Fire-2022
+2026-03-22 09:42:02,895 [INFO]   [DRY RUN] Would process: Fire News 2022
+2026-03-22 09:42:02,895 [INFO]     Entities: []
+2026-03-22 09:42:02,895 [INFO]     Departments: ['Syracuse Fire Department']
+2026-03-22 09:42:02,896 [DEBUG]   Fetching: https://www.syr.gov/News/Parks-News/Parks-2022
+2026-03-22 09:42:10,134 [INFO]   [DRY RUN] Would process: 2022 P&R Releases
+2026-03-22 09:42:10,135 [INFO]     Entities: []
+2026-03-22 09:42:10,135 [INFO]     Departments: ['Department of Parks, Recreation and Youth Programs']
+2026-03-22 09:42:10,135 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2022
+2026-03-22 09:42:17,267 [INFO]   [DRY RUN] Would process: Traffic & Infrastructure 2022
+2026-03-22 09:42:17,267 [INFO]     Entities: []
+2026-03-22 09:42:17,267 [INFO]     Departments: []
+2026-03-22 09:42:17,267 [DEBUG]   Fetching: https://www.syr.gov/News/Archives
+2026-03-22 09:42:24,283 [INFO]   [DRY RUN] Would process: Archives – City of Syracuse
+2026-03-22 09:42:24,284 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 09:42:24,284 [INFO]     Departments: []
+2026-03-22 09:42:24,284 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-03-22 09:42:24,284 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-03-22 09:42:27,811 [INFO]   Found 0 article links in Announcements
+2026-03-22 09:42:32,811 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-03-22 09:42:32,811 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-03-22 09:42:35,996 [INFO]   Found 0 article links in Public Notices
+2026-03-22 09:42:41,146 [INFO] Website Monitor Run — 2026-03-22 09:42
+==================================================
+Sections scanned: 3
+New pages found: 16
+Saved as records: 0
+Already processed: 0
+Errors: 0
+
+2026-03-22 10:07:22,619 [INFO] ============================================================
+2026-03-22 10:07:22,619 [INFO] Website Monitor starting
+2026-03-22 10:07:23,863 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-03-22 10:07:23,864 [INFO]   Navigating to https://www.syr.gov/News
+2026-03-22 10:07:31,418 [INFO]   Found 16 article links in News
+2026-03-22 10:07:36,418 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-03-22 10:07:36,419 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-03-22 10:07:39,777 [INFO]   Found 0 article links in Announcements
+2026-03-22 10:07:44,777 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-03-22 10:07:44,777 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-03-22 10:07:47,903 [INFO]   Found 0 article links in Public Notices
+2026-03-22 10:07:53,034 [INFO] Website Monitor Run — 2026-03-22 10:07
+==================================================
+Sections scanned: 3
+New pages found: 0
+Saved as records: 0
+Already processed: 16
+Errors: 0
+
+2026-03-22 10:08:20,382 [INFO] ============================================================
+2026-03-22 10:08:20,383 [INFO] Website Monitor starting
+2026-03-22 10:08:21,389 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-03-22 10:08:21,389 [INFO]   Navigating to https://www.syr.gov/News
+2026-03-22 10:08:25,931 [INFO]   Found 16 article links in News
+2026-03-22 10:08:30,932 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-20-Infrastructure-News-1000-AM
+2026-03-22 10:08:43,854 [INFO]     Saved: CTX-WEB-2026-00001 → CTX-WEB-2026-00001.json
+2026-03-22 10:08:43,855 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-17-Infrastructure-News-447-PM
+2026-03-22 10:08:56,074 [INFO]     Saved: CTX-WEB-2026-00002 → CTX-WEB-2026-00002.json
+2026-03-22 10:08:56,074 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-03-13-Mayors-Office-News-215-PM
+2026-03-22 10:09:09,409 [WARNING]     Tag issue: Unknown tag 'infrastructure' not in taxonomy
+2026-03-22 10:09:09,426 [INFO]     Saved: CTX-WEB-2026-00003 → CTX-WEB-2026-00003.json
+2026-03-22 10:09:09,426 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-03-11-Mayors-Office-News-130-PM
+2026-03-22 10:09:21,252 [WARNING]     Tag issue: Unknown tag 'community-community' not in taxonomy
+2026-03-22 10:09:21,269 [INFO]     Saved: CTX-WEB-2026-00004 → CTX-WEB-2026-00004.json
+2026-03-22 10:09:21,270 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-10-Infrastructure-News-1255-PM
+2026-03-22 10:09:34,024 [WARNING]     Tag issue: Unknown tag 'sustainability' not in taxonomy
+2026-03-22 10:09:34,024 [WARNING]     Tag issue: Unknown tag 'transportation' not in taxonomy
+2026-03-22 10:09:34,041 [INFO]     Saved: CTX-WEB-2026-00005 → CTX-WEB-2026-00005.json
+2026-03-22 10:09:34,042 [DEBUG]   Fetching: https://www.syr.gov/News/Parks-News/Parks-2026/2026-03-10-Parks-News-3PM
+2026-03-22 10:09:45,487 [INFO]     Saved: CTX-WEB-2026-00006 → CTX-WEB-2026-00006.json
+2026-03-22 10:09:45,487 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-03-09-Mayors-Office-News-930AM
+2026-03-22 10:09:56,586 [INFO]     Dedup match: CTX-WEB-2026-00003 — linking via cluster
+2026-03-22 10:09:56,590 [INFO]     Saved: CTX-WEB-2026-00007 → CTX-WEB-2026-00007.json
+2026-03-22 10:09:56,590 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-06-Infrastructure-News-420PM
+2026-03-22 10:10:08,771 [INFO]     Dedup match: CTX-WEB-2026-00001 — linking via cluster
+2026-03-22 10:10:08,773 [INFO]     Saved: CTX-WEB-2026-00008 → CTX-WEB-2026-00008.json
+2026-03-22 10:10:08,773 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-03-05-Mayors-Office-News-1030AM
+2026-03-22 10:10:21,670 [INFO]     Saved: CTX-WEB-2026-00009 → CTX-WEB-2026-00009.json
+2026-03-22 10:10:21,670 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-03-02-Mayors-Office-News-9-AM
+2026-03-22 10:10:34,245 [INFO]     Saved: CTX-WEB-2026-00010 → CTX-WEB-2026-00010.json
+2026-03-22 10:10:34,245 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2023
+2026-03-22 10:10:45,439 [INFO]     Saved: CTX-WEB-2026-00011 → CTX-WEB-2026-00011.json
+2026-03-22 10:10:45,439 [DEBUG]   Fetching: https://www.syr.gov/News/2022/Police-News
+2026-03-22 10:10:57,167 [INFO]     Saved: CTX-WEB-2026-00012 → CTX-WEB-2026-00012.json
+2026-03-22 10:10:57,167 [DEBUG]   Fetching: https://www.syr.gov/News/Fire-News/Fire-2022
+2026-03-22 10:11:08,425 [INFO]     Saved: CTX-WEB-2026-00013 → CTX-WEB-2026-00013.json
+2026-03-22 10:11:08,425 [DEBUG]   Fetching: https://www.syr.gov/News/Parks-News/Parks-2022
+2026-03-22 10:11:19,717 [INFO]     Saved: CTX-WEB-2026-00014 → CTX-WEB-2026-00014.json
+2026-03-22 10:11:19,717 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2022
+2026-03-22 10:11:31,127 [INFO]     Saved: CTX-WEB-2026-00015 → CTX-WEB-2026-00015.json
+2026-03-22 10:11:31,128 [DEBUG]   Fetching: https://www.syr.gov/News/Archives
+2026-03-22 10:11:42,070 [INFO]     Saved: CTX-WEB-2026-00016 → CTX-WEB-2026-00016.json
+2026-03-22 10:11:42,070 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-03-22 10:11:42,070 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-03-22 10:11:44,929 [INFO]   Found 0 article links in Announcements
+2026-03-22 10:11:49,930 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-03-22 10:11:49,930 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-03-22 10:11:53,003 [INFO]   Found 0 article links in Public Notices
+2026-03-22 10:11:58,116 [INFO] Website Monitor Run — 2026-03-22 10:11
+==================================================
+Sections scanned: 3
+New pages found: 16
+Saved as records: 16
+Already processed: 0
+Errors: 0
+
+New records:
+  • Department Of Engineering To Host Public Meeting For South Ave Bridge
+  • Dept. of Engineering Opens Comment Period for Stormwater Management
+  • Mayor, Council and Auditor Thank Senate For One-House Budget Proposal
+  • Mayor Owens Announces the Return of the Bravest Vs. Finest Game
+  • Mayor Sharon F. Owens Announces the Return of Veo Fleet
+  • Traffic Advisory & Street Closure Notice for 2026 St. Patrick's Parade
+  • Mayor Owens Announces Search for New Commissioner of Finance
+  • West Kirkpatrick Street Bridge to Close Mar. 9 for Repairs
+  • Mayor Owens Launches Syracuse Community Solar
+  • Water Department Reports 2nd Half 2025 Sampling Meet EPA Lead Standard
+  • City 2023
+  • Police News
+  • Fire News 2022
+  • 2022 P&R Releases
+  • Traffic & Infrastructure 2022
+  • Archives – City of Syracuse
+
+2026-03-22 13:47:22,316 [INFO] ============================================================
+2026-03-22 13:47:22,317 [INFO] Website Monitor starting (backfill mode)
+2026-03-22 13:47:24,271 [INFO] Backfill mode: scanning 8 sections total
+2026-03-22 13:47:30,686 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-03-22 13:47:30,687 [INFO]   Navigating to https://www.syr.gov/News
+2026-03-22 13:47:38,743 [INFO]   Found 10 article links in News
+2026-03-22 13:47:43,744 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-03-22 13:47:43,745 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-03-22 13:47:47,309 [INFO]   Found 0 article links in Announcements
+2026-03-22 13:47:52,309 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-03-22 13:47:52,310 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-03-22 13:47:55,537 [INFO]   Found 0 article links in Public Notices
+2026-03-22 13:48:00,537 [INFO] Scanning: City News 2026 (https://www.syr.gov/News/City-News/City-2026)
+2026-03-22 13:48:00,538 [INFO]   Navigating to https://www.syr.gov/News/City-News/City-2026
+2026-03-22 13:48:03,719 [INFO]   Found 3 article links in City News 2026
+2026-03-22 13:48:08,720 [INFO] Scanning: Infrastructure 2026 (https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026)
+2026-03-22 13:48:08,720 [INFO]   Navigating to https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026
+2026-03-22 13:48:13,118 [INFO]   Found 98 article links in Infrastructure 2026
+2026-03-22 13:48:18,118 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-02-26-Infrastructure-News-230-PM
+2026-03-22 13:48:25,610 [INFO]   [DRY RUN] Would process: Public Meeting on Regional Market Area Mobility Improvements March 5
+2026-03-22 13:48:25,610 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:48:25,610 [INFO]     Departments: []
+2026-03-22 13:48:25,610 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-02-17-Infrastructure-News-430-PM
+2026-03-22 13:48:32,738 [INFO]   [DRY RUN] Would process: Reconnecting Communities to Unveil Designs for Five Key Corridors
+2026-03-22 13:48:32,739 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:48:32,739 [INFO]     Departments: ['Department of Parks, Recreation and Youth Programs']
+2026-03-22 13:48:32,739 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-14-01-Infrastructure-News-915
+2026-03-22 13:48:39,892 [INFO]   [DRY RUN] Would process: City of Syracuse Launches Lead Water Educational Materials
+2026-03-22 13:48:39,892 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:48:39,892 [INFO]     Departments: []
+2026-03-22 13:48:39,892 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-01-09-Infrastructure-News-830AM
+2026-03-22 13:48:47,144 [INFO]   [DRY RUN] Would process: Mayor Owens Announces Release of 2026 City Services Guide
+2026-03-22 13:48:47,144 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:48:47,144 [INFO]     Departments: ['Department of Public Works']
+2026-03-22 13:48:47,145 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-11-01-Infrastructure-News-440-PM
+2026-03-22 13:48:54,362 [INFO]   [DRY RUN] Would process: DPW to Begin Overnight Leaf and Snow Removal Operations
+2026-03-22 13:48:54,362 [INFO]     Entities: ['Sharon F. Owens', 'Jeremy Robinson']
+2026-03-22 13:48:54,362 [INFO]     Departments: ['Department of Public Works', 'Syracuse Fire Department']
+2026-03-22 13:48:54,362 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-10-29-Infrastructure-News-130PM
+2026-03-22 13:49:01,371 [INFO]   [DRY RUN] Would process: DPW to Convert Traffic Signals at Two Intersections to Flashing Lights
+2026-03-22 13:49:01,371 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:49:01,371 [INFO]     Departments: ['Department of Public Works']
+2026-03-22 13:49:01,372 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-10-23-Infrastructure-News-607-PM
+2026-03-22 13:49:08,446 [INFO]   [DRY RUN] Would process: City of Syracuse Announces Delay in Trash Collection on Southside.
+2026-03-22 13:49:08,446 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:49:08,446 [INFO]     Departments: ['Department of Public Works']
+2026-03-22 13:49:08,446 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2025/2025-10-02-City-News-130PM
+2026-03-22 13:49:15,512 [INFO]   [DRY RUN] Would process: City of Syracuse Shares School Zone Traffic Safety Warning Data
+2026-03-22 13:49:15,512 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:49:15,512 [INFO]     Departments: ['Syracuse Police Department', 'Law Department']
+2026-03-22 13:49:15,512 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-09-02-Infrastructure-News-12PM
+2026-03-22 13:49:22,677 [INFO]   [DRY RUN] Would process: Mayor Walsh Announces Launch of Redlight and Speed Cameras
+2026-03-22 13:49:22,677 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:49:22,677 [INFO]     Departments: []
+2026-03-22 13:49:22,678 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-08-29-Press-Release-Mosley-Pump-Station-Project
+2026-03-22 13:49:29,808 [INFO]   [DRY RUN] Would process: Department of Water to Begin Mosley Pump Station Project Sep. 2
+2026-03-22 13:49:29,808 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:49:29,809 [INFO]     Departments: []
+2026-03-22 13:49:29,809 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-08-20-Traffic-News-230-PM
+2026-03-22 13:49:36,891 [INFO]   [DRY RUN] Would process: Traffic Advisory Citrus in the City
+2026-03-22 13:49:36,892 [INFO]     Entities: ['Sharon F. Owens', 'Syracuse University']
+2026-03-22 13:49:36,892 [INFO]     Departments: []
+2026-03-22 13:49:36,892 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-07-10-Infrastructure-News-8-AM
+2026-03-22 13:49:43,982 [INFO]   [DRY RUN] Would process: Water Department Reports 1st Half 2025 Sampling Meet EPA Lead Standard
+2026-03-22 13:49:43,982 [INFO]     Entities: ['Sharon F. Owens', 'Robert Brandt']
+2026-03-22 13:49:43,983 [INFO]     Departments: []
+2026-03-22 13:49:43,983 [DEBUG]   Fetching: https://www.syr.gov/News/Parks-News/Parks-2025/2025-06-18-Parks-News
+2026-03-22 13:49:51,093 [INFO]   [DRY RUN] Would process: City of Syracuse Releases 2025 Outdoor Pool Schedule
+2026-03-22 13:49:51,093 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:49:51,093 [INFO]     Departments: ['Department of Parks, Recreation and Youth Programs']
+2026-03-22 13:49:51,093 [DEBUG]   Fetching: https://www.syr.gov/News/Parks-News/Parks-2025/2025-06-16-Parks-News-1015-AM
+2026-03-22 13:49:58,183 [INFO]   [DRY RUN] Would process: Department of Parks to Restore Hanover Square Fountain
+2026-03-22 13:49:58,184 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:49:58,184 [INFO]     Departments: ['Department of Parks, Recreation and Youth Programs']
+2026-03-22 13:49:58,184 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-06-05-Infrastructure-News-115-PM
+2026-03-22 13:50:05,269 [INFO]   [DRY RUN] Would process: Mayor Announces Completion of Phase 1 of Creekwalk Security Cameras
+2026-03-22 13:50:05,270 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:50:05,270 [INFO]     Departments: ['Syracuse Police Department', 'Law Department']
+2026-03-22 13:50:05,270 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2025/2025-06-03-Mayors-Office-News-2PM
+2026-03-22 13:50:12,771 [INFO]   [DRY RUN] Would process: Mayor and Superintendent Announce Public Meetings on Phase III of JSCB
+2026-03-22 13:50:12,772 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:50:12,772 [INFO]     Departments: []
+2026-03-22 13:50:12,772 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-05-29-Infrastructure-News-255-PM
+2026-03-22 13:50:20,079 [INFO]   [DRY RUN] Would process: Mayor Walsh Announces Elmwood Park Sediment Removal Project
+2026-03-22 13:50:20,079 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:50:20,080 [INFO]     Departments: ['Department of Parks, Recreation and Youth Programs']
+2026-03-22 13:50:20,080 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-05-07-Infrastructure-News-245-PM
+2026-03-22 13:50:27,153 [INFO]   [DRY RUN] Would process: Mayor Walsh Announces Opening of Kirk Park Canoe and Kayak Launch
+2026-03-22 13:50:27,153 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:50:27,153 [INFO]     Departments: []
+2026-03-22 13:50:27,153 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-05-07-Infrastructure-News-1115AM
+2026-03-22 13:50:34,264 [INFO]   [DRY RUN] Would process: Mayor Announces Public Meetings for Phase 3 of Creekwalk Extension
+2026-03-22 13:50:34,264 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:50:34,264 [INFO]     Departments: []
+2026-03-22 13:50:34,265 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2025/2025-04-07-Mayors-Office-News-855-AM
+2026-03-22 13:50:41,294 [INFO]   [DRY RUN] Would process: Mayor Announces Syracuse Wins Award for Trash & Recycling Education
+2026-03-22 13:50:41,294 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:50:41,295 [INFO]     Departments: ['Department of Permits and Development', 'Office of Analytics, Performance & Innovation']
+2026-03-22 13:50:41,295 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-03-21-Infrastructure-News-9AM
+2026-03-22 13:50:48,365 [INFO]   [DRY RUN] Would process: Dept. of Engineering Announces Open Comment Period for SWMP and MS4
+2026-03-22 13:50:48,366 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:50:48,366 [INFO]     Departments: []
+2026-03-22 13:50:48,366 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-03-16-Infrastructure-News-945PM
+2026-03-22 13:50:55,482 [INFO]   [DRY RUN] Would process: Department of Water Working to Increase Water Pressure Overnight
+2026-03-22 13:50:55,483 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:50:55,483 [INFO]     Departments: []
+2026-03-22 13:50:55,483 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-03-16-Infrastructure-News-625PM
+2026-03-22 13:51:03,704 [INFO]   [DRY RUN] Would process: City Department of Water Responding to Low Pressure in Water System
+2026-03-22 13:51:03,705 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:51:03,705 [INFO]     Departments: []
+2026-03-22 13:51:03,705 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-03-06-Infrastructure-News-11-am
+2026-03-22 13:51:10,818 [INFO]   [DRY RUN] Would process: City Department of Water Responding to Low Pressure in Water System
+2026-03-22 13:51:10,818 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:51:10,818 [INFO]     Departments: []
+2026-03-22 13:51:10,819 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-02-07-Infrastructure-News-11-AM
+2026-03-22 13:51:17,894 [INFO]   [DRY RUN] Would process: Mayor Announces Open Houses for Vision Zero Traffic Safety Initiative
+2026-03-22 13:51:17,894 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:51:17,894 [INFO]     Departments: []
+2026-03-22 13:51:17,894 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-02-05-Infrastructure-News-3-PM
+2026-03-22 13:51:24,921 [INFO]   [DRY RUN] Would process: City to Host Open House for Kirk Park Pedestrian Bridge Project
+2026-03-22 13:51:24,921 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:51:24,921 [INFO]     Departments: []
+2026-03-22 13:51:24,922 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-01-28-Infrastructure-News-1125AM
+2026-03-22 13:51:31,926 [INFO]   [DRY RUN] Would process: Water Crews Working to Repair Multiple Water Main Breaks
+2026-03-22 13:51:31,927 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:51:31,927 [INFO]     Departments: []
+2026-03-22 13:51:31,927 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-01-13-Infrastructure-News-1035AM
+2026-03-22 13:51:39,081 [INFO]   [DRY RUN] Would process: Water Crews Working to Repair Water Main Break on Sunnycrest Road
+2026-03-22 13:51:39,081 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:51:39,081 [INFO]     Departments: []
+2026-03-22 13:51:39,081 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-01-08-Infrastructure-News-11AM
+2026-03-22 13:51:46,180 [INFO]   [DRY RUN] Would process: Water Crews Working to Repair Water Main Break on East Genesee Street
+2026-03-22 13:51:46,181 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:51:46,181 [INFO]     Departments: []
+2026-03-22 13:51:46,181 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-01-04-Infrastructure-News-440PM
+2026-03-22 13:51:53,272 [INFO]   [DRY RUN] Would process: City of Syracuse Announces Delays in Trash and Recycling Collection
+2026-03-22 13:51:53,273 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:51:53,273 [INFO]     Departments: ['Department of Public Works']
+2026-03-22 13:51:53,273 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-01-03-Infrastructure-News-950AM
+2026-03-22 13:52:00,282 [INFO]   [DRY RUN] Would process: City of Syracuse to Begin Issuing Citations for Cart Violations
+2026-03-22 13:52:00,283 [INFO]     Entities: ['Sharon F. Owens', 'Jeremy Robinson', 'Onondaga County Resource Recovery Agency']
+2026-03-22 13:52:00,283 [INFO]     Departments: ['Department of Public Works']
+2026-03-22 13:52:00,283 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-12-28-Infrastructure-News-630PM
+2026-03-22 13:52:07,525 [INFO]   [DRY RUN] Would process: Water Crews Working to Repair Water Main Break on E Washington St
+2026-03-22 13:52:07,525 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:52:07,525 [INFO]     Departments: []
+2026-03-22 13:52:07,526 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-12-27-Infrastructure-News-1125AM
+2026-03-22 13:52:14,854 [INFO]   [DRY RUN] Would process: City of Syracuse to Collect Christmas Trees in January
+2026-03-22 13:52:14,854 [INFO]     Entities: ['Sharon F. Owens', 'Onondaga County Resource Recovery Agency']
+2026-03-22 13:52:14,854 [INFO]     Departments: ['Department of Public Works']
+2026-03-22 13:52:14,854 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-12-26-Infrastructure-News-2PM
+2026-03-22 13:52:21,957 [INFO]   [DRY RUN] Would process: Mayor Walsh Announces Release of 2025 City Services Guide
+2026-03-22 13:52:21,958 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:52:21,958 [INFO]     Departments: ['Department of Public Works']
+2026-03-22 13:52:21,958 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-12-25-Infrastructure-News-1215-PM
+2026-03-22 13:52:29,140 [INFO]   [DRY RUN] Would process: Water Crews Working to Repair Water Main Break on Pulaski Street
+2026-03-22 13:52:29,140 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:52:29,141 [INFO]     Departments: []
+2026-03-22 13:52:29,141 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-12-24-Infrastructure-News-10AM
+2026-03-22 13:52:36,564 [INFO]   [DRY RUN] Would process: Water Crews Working to Repair Water Main Break on E Washington St
+2026-03-22 13:52:36,565 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:52:36,565 [INFO]     Departments: []
+2026-03-22 13:52:36,565 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2024/2024-12-23-Mayors-Office-News-11AM
+2026-03-22 13:52:43,602 [INFO]   [DRY RUN] Would process: City of Syracuse to Close Offices for Christmas and New Years Holiday
+2026-03-22 13:52:43,603 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:52:43,603 [INFO]     Departments: ['Department of Public Works']
+2026-03-22 13:52:43,603 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2024/2024-12-04-Mayors-Office-News-215PM
+2026-03-22 13:52:50,616 [INFO]   [DRY RUN] Would process: Mayor Walsh Issues Snow Safety Alert for Upcoming Winter Storm
+2026-03-22 13:52:50,617 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:52:50,617 [INFO]     Departments: ['Department of Public Works', 'Syracuse Fire Department', 'Syracuse Police Department']
+2026-03-22 13:52:50,617 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2024/2024-11-27-Mayors-Office-News
+2026-03-22 13:52:57,678 [INFO]   [DRY RUN] Would process: City and County Share Progress on Water Filter Distribution Program
+2026-03-22 13:52:57,679 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:52:57,679 [INFO]     Departments: []
+2026-03-22 13:52:57,679 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-11-25-Infrastructure-News-1240-PM
+2026-03-22 13:53:05,165 [INFO]   [DRY RUN] Would process: County and City Announce Details of Free Water Filter Distribution
+2026-03-22 13:53:05,165 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:53:05,165 [INFO]     Departments: []
+2026-03-22 13:53:05,165 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-11-22-Infrastructure-News-605AM
+2026-03-22 13:53:12,193 [INFO]   [DRY RUN] Would process: City Releases Sampling Results That Show Water Meets EPA Lead Standard
+2026-03-22 13:53:12,193 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:53:12,193 [INFO]     Departments: []
+2026-03-22 13:53:12,193 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-11-21-Infrastructure-News-915AM
+2026-03-22 13:53:19,349 [INFO]   [DRY RUN] Would process: Water Crews Working to Repair Water Main Break on East Raynor Avenue
+2026-03-22 13:53:19,349 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:53:19,350 [INFO]     Departments: []
+2026-03-22 13:53:19,350 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-11-03-Infrastructure-News-830AM
+2026-03-22 13:53:26,350 [INFO]   [DRY RUN] Would process: Mayor Walsh Announces Road Reconstruction Project on Milton Avenue
+2026-03-22 13:53:26,350 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:53:26,350 [INFO]     Departments: []
+2026-03-22 13:53:26,350 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-11-01-Infrastructure-News-2PM
+2026-03-22 13:53:33,413 [INFO]   [DRY RUN] Would process: Mayor Walsh Announces DPW to Begin Overnight Leaf and Snow Removal
+2026-03-22 13:53:33,413 [INFO]     Entities: ['Sharon F. Owens', 'Jeremy Robinson']
+2026-03-22 13:53:33,413 [INFO]     Departments: ['Department of Public Works', 'Syracuse Fire Department']
+2026-03-22 13:53:33,413 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-11-01-Infrastructure-News-9AM
+2026-03-22 13:53:40,526 [INFO]   [DRY RUN] Would process: Water Crews Working to Repair Water Main Break on East Fayette Street
+2026-03-22 13:53:40,526 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:53:40,526 [INFO]     Departments: []
+2026-03-22 13:53:40,526 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-10-18-Infrastructure-News-530PM
+2026-03-22 13:53:47,537 [INFO]   [DRY RUN] Would process: Department of Water Releases Citywide Water Service Inventory
+2026-03-22 13:53:47,538 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:53:47,538 [INFO]     Departments: []
+2026-03-22 13:53:47,538 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-10-07-Mayors-Office-News-4-PM
+2026-03-22 13:53:54,958 [INFO]   [DRY RUN] Would process: Mayor Walsh Appoints Robert Brandt to Commissioner of Water
+2026-03-22 13:53:54,958 [INFO]     Entities: ['Sharon F. Owens', 'Robert Brandt']
+2026-03-22 13:53:54,959 [INFO]     Departments: ['Department of Public Works', 'Department of Human Resources']
+2026-03-22 13:53:54,959 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-09-06-Infrastructure-News-530-PM
+2026-03-22 13:54:02,276 [INFO]   [DRY RUN] Would process: Syracuse Water Crews to Repair Water Main Leak on West Street on Sep 8
+2026-03-22 13:54:02,276 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:54:02,276 [INFO]     Departments: []
+2026-03-22 13:54:02,276 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-09-03-Infrastructure-News-1145AM
+2026-03-22 13:54:09,401 [INFO]   [DRY RUN] Would process: DPW Announces End of Blue Bin Distribution for Recycling in the City
+2026-03-22 13:54:09,402 [INFO]     Entities: ['Sharon F. Owens', 'Onondaga County Resource Recovery Agency']
+2026-03-22 13:54:09,402 [INFO]     Departments: ['Department of Public Works']
+2026-03-22 13:54:09,402 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-08-27-Infrastructure-News-430-PM
+2026-03-22 13:54:16,988 [INFO]   [DRY RUN] Would process: Water Crews Working to Repair Water Main Leak on West Street
+2026-03-22 13:54:16,989 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:54:16,989 [INFO]     Departments: []
+2026-03-22 13:54:16,989 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-08-08-Infrastructure-News-4-PM
+2026-03-22 13:54:24,056 [INFO]   [DRY RUN] Would process: Water Department Closes S Warren St for Fire Service Repair
+2026-03-22 13:54:24,056 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:54:24,056 [INFO]     Departments: ['Syracuse Fire Department']
+2026-03-22 13:54:24,056 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-07-19-Infrastructure-News-6PM
+2026-03-22 13:54:31,443 [INFO]   [DRY RUN] Would process: Mayor Walsh Announces Road Reconstruction Project on Butternut Street
+2026-03-22 13:54:31,443 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:54:31,444 [INFO]     Departments: []
+2026-03-22 13:54:31,444 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-06-18-Infrastructure-News-3PM
+2026-03-22 13:54:38,529 [INFO]   [DRY RUN] Would process: Water Department Public Meeting for Westminster Avenue Area Neighbors
+2026-03-22 13:54:38,530 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:54:38,530 [INFO]     Departments: ['Syracuse Fire Department']
+2026-03-22 13:54:38,530 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-06-18-Infrastructure-News-12PM
+2026-03-22 13:54:45,742 [INFO]   [DRY RUN] Would process: Fire and Water Department Warn: Opening Hydrants Risks Public Safety
+2026-03-22 13:54:45,743 [INFO]     Entities: ['Sharon F. Owens', 'Michael Monds']
+2026-03-22 13:54:45,743 [INFO]     Departments: ['Department of Parks, Recreation and Youth Programs', 'Syracuse Fire Department']
+2026-03-22 13:54:45,743 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-06-17-Infrastructure-News-1045AM
+2026-03-22 13:54:53,058 [INFO]   [DRY RUN] Would process: Water Crews Working to Repair Hydrant Branch on Locksley Road
+2026-03-22 13:54:53,058 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:54:53,059 [INFO]     Departments: []
+2026-03-22 13:54:53,059 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-06-04-Infrastructure-News-1030-AM
+2026-03-22 13:55:00,050 [INFO]   [DRY RUN] Would process: Water Crews Working to Repair Water Main Break on North Geddes Street
+2026-03-22 13:55:00,051 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:55:00,051 [INFO]     Departments: []
+2026-03-22 13:55:00,051 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-05-24-Infrastructure-News-445-PM
+2026-03-22 13:55:07,210 [INFO]   [DRY RUN] Would process: Mayor Walsh Announces Road Reconstruction Project on Peat Street
+2026-03-22 13:55:07,210 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:55:07,211 [INFO]     Departments: []
+2026-03-22 13:55:07,211 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-05-09-Infrastructure-News-2-PM
+2026-03-22 13:55:14,474 [INFO]   [DRY RUN] Would process: Water Crews Working to Repair Water Main Leak on Midland Avenue
+2026-03-22 13:55:14,474 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:55:14,474 [INFO]     Departments: []
+2026-03-22 13:55:14,474 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-04-23-Infrastructure-News-430-PM
+2026-03-22 13:55:21,852 [INFO]   [DRY RUN] Would process: Water Crews Continue Repairs to Water Main Break on Shonnard Street
+2026-03-22 13:55:21,853 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:55:21,853 [INFO]     Departments: []
+2026-03-22 13:55:21,853 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-04-22-Infrastructure-News-12-PM
+2026-03-22 13:55:29,388 [INFO]   [DRY RUN] Would process: Water Crews Continue Repairs to Water Main Break on Velasko Road
+2026-03-22 13:55:29,388 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:55:29,388 [INFO]     Departments: []
+2026-03-22 13:55:29,389 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-04-22-Infrastructure-News-130-PM
+2026-03-22 13:55:36,406 [INFO]   [DRY RUN] Would process: Water Crews Working to Repair Water Main Break on Velasko Road
+2026-03-22 13:55:36,407 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:55:36,407 [INFO]     Departments: []
+2026-03-22 13:55:36,407 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-03-21-Infrastructure-News-1-PM
+2026-03-22 13:55:44,144 [INFO]   [DRY RUN] Would process: City of Syracuse Announces Water Department Public Meeting on April 4
+2026-03-22 13:55:44,145 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:55:44,145 [INFO]     Departments: ['Syracuse Fire Department']
+2026-03-22 13:55:44,145 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-03-15-Infrastructure-News-10AM
+2026-03-22 13:55:51,285 [INFO]   [DRY RUN] Would process: Mayor Walsh Announces the Return of Full Fleet of Veo
+2026-03-22 13:55:51,286 [INFO]     Entities: ['Sharon F. Owens', 'Veo']
+2026-03-22 13:55:51,286 [INFO]     Departments: []
+2026-03-22 13:55:51,286 [DEBUG]   Fetching: https://www.syr.gov/News/2024-03-11-Infrastructure-News-230PM
+2026-03-22 13:55:58,448 [INFO]   [DRY RUN] Would process: Mayor Walsh Announces 2024 Road Reconstruction Plans for the City
+2026-03-22 13:55:58,448 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:55:58,449 [INFO]     Departments: ['Department of Public Works']
+2026-03-22 13:55:58,449 [DEBUG]   Fetching: https://www.syr.gov/News/2024-02-24-Infrastructure-News
+2026-03-22 13:56:05,596 [INFO]   [DRY RUN] Would process: Water Crews Working to Repair Water Main Break on North Clinton Street
+2026-03-22 13:56:05,596 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:56:05,597 [INFO]     Departments: []
+2026-03-22 13:56:05,597 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-02-16-Infrastructure-News-430PM
+2026-03-22 13:56:12,566 [INFO]   [DRY RUN] Would process: Sewer Department to Complete Repair Work on S Clinton St on Feb 18
+2026-03-22 13:56:12,567 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:56:12,567 [INFO]     Departments: []
+2026-03-22 13:56:12,567 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-02-09-Mayors-Office-News-3PM
+2026-03-22 13:56:19,922 [INFO]   [DRY RUN] Would process: Mayor Walsh Appoints Robert Brandt to Deputy Commissioner of Water
+2026-03-22 13:56:19,922 [INFO]     Entities: ['Sharon F. Owens', 'Robert Brandt']
+2026-03-22 13:56:19,922 [INFO]     Departments: ['Department of Public Works', 'Department of Human Resources', 'Department of Permits and Development']
+2026-03-22 13:56:19,922 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-12-27-Infrastructure-News
+2026-03-22 13:56:27,082 [INFO]   [DRY RUN] Would process: City of Syracuse to Collect Christmas Trees in January
+2026-03-22 13:56:27,083 [INFO]     Entities: ['Sharon F. Owens', 'Onondaga County Resource Recovery Agency']
+2026-03-22 13:56:27,083 [INFO]     Departments: ['Department of Public Works']
+2026-03-22 13:56:27,083 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-11-22-Traffic-News
+2026-03-22 13:56:34,231 [INFO]   [DRY RUN] Would process: Home for the Holidays Tree Lighting Street Closures
+2026-03-22 13:56:34,231 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:56:34,232 [INFO]     Departments: ['Department of Parks, Recreation and Youth Programs']
+2026-03-22 13:56:34,232 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-11-21-Infrastructure-News-1
+2026-03-22 13:56:41,299 [INFO]   [DRY RUN] Would process: Downtown Syracuse Overnight Parking Restrictions In Effect
+2026-03-22 13:56:41,300 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:56:41,300 [INFO]     Departments: []
+2026-03-22 13:56:41,300 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-11-21-Infrastructure-News
+2026-03-22 13:56:48,773 [INFO]   [DRY RUN] Would process: Water Crews Working To Repair Water Main Break On West Fayette Street
+2026-03-22 13:56:48,773 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:56:48,774 [INFO]     Departments: []
+2026-03-22 13:56:48,774 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-11-16-Infrastructure-News
+2026-03-22 13:56:55,783 [INFO]   [DRY RUN] Would process: I-81 to Close Overnight Between Exits 16A & 17
+2026-03-22 13:56:55,784 [INFO]     Entities: ['Sharon F. Owens']
+2026-03-22 13:56:55,784 [INFO]     Departments: []
+2026-03-22 13:56:55,784 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2023/2023-10-31-City-News-1100
+2026-03-22 14:09:14,389 [INFO] ============================================================
+2026-03-22 14:09:14,390 [INFO] Website Monitor starting (backfill mode)
+2026-03-22 14:09:14,478 [INFO] Backfill mode: scanning 8 sections total
+2026-03-22 14:09:15,481 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-03-22 14:09:15,481 [INFO]   Navigating to https://www.syr.gov/News
+2026-03-22 14:09:23,049 [INFO]   Found 10 article links in News
+2026-03-22 14:09:28,050 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-20-Infrastructure-News-1000-AM
+2026-03-22 14:09:40,132 [INFO]     Dedup match: CTX-WEB-2026-00001 — linking via cluster
+2026-03-22 14:09:40,135 [INFO]     Saved: CTX-WEB-2026-00017 → CTX-WEB-2026-00017.json
+2026-03-22 14:09:40,136 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-17-Infrastructure-News-447-PM
+2026-03-22 14:09:52,604 [ERROR]     Schema error: Schema validation: 'state_mandates' is not one of ['championship', 'opposition', 'scrutiny', 'constituent_pressure', 'priority_alignment', 'budget_commitment']
+2026-03-22 14:09:52,613 [ERROR]     Cannot fix schema errors for Dept. of Engineering Opens Comment Period for Stormwater Man — skipping
+2026-03-22 14:09:52,614 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-03-13-Mayors-Office-News-215-PM
+2026-03-22 14:10:06,553 [INFO]     Saved: CTX-WEB-2026-00018 → CTX-WEB-2026-00018.json
+2026-03-22 14:10:06,554 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-03-11-Mayors-Office-News-130-PM
+2026-03-22 14:10:19,812 [WARNING]     Tag issue: Unknown tag 'community-community' not in taxonomy
+2026-03-22 14:10:19,829 [INFO]     Saved: CTX-WEB-2026-00019 → CTX-WEB-2026-00019.json
+2026-03-22 14:10:19,829 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-10-Infrastructure-News-1255-PM
+2026-03-22 14:10:32,446 [INFO]     Dedup match: CTX-WEB-2026-00019 — linking via cluster
+2026-03-22 14:10:32,448 [INFO]     Saved: CTX-WEB-2026-00020 → CTX-WEB-2026-00020.json
+2026-03-22 14:10:32,448 [DEBUG]   Fetching: https://www.syr.gov/News/Parks-News/Parks-2026/2026-03-10-Parks-News-3PM
+2026-03-22 14:10:43,912 [INFO]     Saved: CTX-WEB-2026-00021 → CTX-WEB-2026-00021.json
+2026-03-22 14:10:43,912 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-03-09-Mayors-Office-News-930AM
+2026-03-22 14:10:57,143 [INFO]     Saved: CTX-WEB-2026-00022 → CTX-WEB-2026-00022.json
+2026-03-22 14:10:57,143 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-06-Infrastructure-News-420PM
+2026-03-22 14:11:07,696 [INFO]     Saved: CTX-WEB-2026-00023 → CTX-WEB-2026-00023.json
+2026-03-22 14:11:07,697 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-03-05-Mayors-Office-News-1030AM
+2026-03-22 14:11:19,895 [INFO]     Saved: CTX-WEB-2026-00024 → CTX-WEB-2026-00024.json
+2026-03-22 14:11:19,895 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-03-02-Mayors-Office-News-9-AM
+2026-03-22 14:11:32,796 [INFO]     Saved: CTX-WEB-2026-00025 → CTX-WEB-2026-00025.json
+2026-03-22 14:11:32,796 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-03-22 14:11:32,796 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-03-22 14:11:35,817 [INFO]   Found 0 article links in Announcements
+2026-03-22 14:11:40,817 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-03-22 14:11:40,817 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-03-22 14:11:43,839 [INFO]   Found 0 article links in Public Notices
+2026-03-22 14:11:48,840 [INFO] Scanning: City News 2026 (https://www.syr.gov/News/City-News/City-2026)
+2026-03-22 14:11:48,840 [INFO]   Navigating to https://www.syr.gov/News/City-News/City-2026
+2026-03-22 14:11:52,097 [INFO]   Found 3 article links in City News 2026
+2026-03-22 14:11:57,098 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-20-Infrastructure-News-1000-AM
+2026-03-22 14:12:08,064 [INFO]     Dedup match: CTX-WEB-2026-00001 — linking via cluster
+2026-03-22 14:12:08,067 [INFO]     Saved: CTX-WEB-2026-00026 → CTX-WEB-2026-00026.json
+2026-03-22 14:12:08,076 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-17-Infrastructure-News-447-PM
+2026-03-22 14:12:19,224 [ERROR]     Schema error: Schema validation: 'state_mandates' is not one of ['championship', 'opposition', 'scrutiny', 'constituent_pressure', 'priority_alignment', 'budget_commitment']
+2026-03-22 14:12:19,230 [ERROR]     Cannot fix schema errors for Dept. of Engineering Opens Comment Period for Stormwater Man — skipping
+2026-03-22 14:12:19,231 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-03-13-Mayors-Office-News-215-PM
+2026-03-22 14:12:31,558 [INFO]     Dedup match: CTX-WEB-2026-00018 — linking via cluster
+2026-03-22 14:12:31,560 [INFO]     Saved: CTX-WEB-2026-00027 → CTX-WEB-2026-00027.json
+2026-03-22 14:12:31,560 [INFO] Scanning: Infrastructure 2026 (https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026)
+2026-03-22 14:12:31,560 [INFO]   Navigating to https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026
+2026-03-22 14:12:36,332 [INFO]   Found 98 article links in Infrastructure 2026
+2026-03-22 14:12:41,333 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-20-Infrastructure-News-1000-AM
+2026-03-22 14:12:53,162 [INFO]     Dedup match: CTX-WEB-2026-00001 — linking via cluster
+2026-03-22 14:12:53,165 [INFO]     Saved: CTX-WEB-2026-00028 → CTX-WEB-2026-00028.json
+2026-03-22 14:12:53,165 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-17-Infrastructure-News-447-PM
+2026-03-22 14:13:05,600 [ERROR]     Schema error: Schema validation: 'state_mandates' is not one of ['championship', 'opposition', 'scrutiny', 'constituent_pressure', 'priority_alignment', 'budget_commitment']
+2026-03-22 14:13:05,605 [ERROR]     Cannot fix schema errors for Dept. of Engineering Opens Comment Period for Stormwater Man — skipping
+2026-03-22 14:13:05,605 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-10-Infrastructure-News-1255-PM
+2026-03-22 14:13:17,746 [INFO]     Dedup match: CTX-WEB-2026-00019 — linking via cluster
+2026-03-22 14:13:17,749 [INFO]     Saved: CTX-WEB-2026-00029 → CTX-WEB-2026-00029.json
+2026-03-22 14:13:17,749 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-06-Infrastructure-News-420PM
+2026-03-22 14:13:28,493 [INFO]     Dedup match: CTX-WEB-2026-00023 — linking via cluster
+2026-03-22 14:13:28,507 [INFO]     Saved: CTX-WEB-2026-00030 → CTX-WEB-2026-00030.json
+2026-03-22 14:13:28,508 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-02-26-Infrastructure-News-230-PM
+2026-03-22 14:13:39,888 [INFO]     Saved: CTX-WEB-2026-00031 → CTX-WEB-2026-00031.json
+2026-03-22 14:13:39,888 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-02-17-Infrastructure-News-430-PM
+2026-03-22 14:13:52,308 [INFO]     Saved: CTX-WEB-2026-00032 → CTX-WEB-2026-00032.json
+2026-03-22 14:13:52,309 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-14-01-Infrastructure-News-915
+2026-03-22 14:14:04,743 [INFO]     Dedup match: CTX-WEB-2026-00010 — linking via cluster
+2026-03-22 14:14:04,745 [INFO]     Saved: CTX-WEB-2026-00033 → CTX-WEB-2026-00033.json
+2026-03-22 14:14:04,745 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-01-09-Infrastructure-News-830AM
+2026-03-22 14:14:16,773 [INFO]     Saved: CTX-WEB-2026-00034 → CTX-WEB-2026-00034.json
+2026-03-22 14:14:16,773 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-11-01-Infrastructure-News-440-PM
+2026-03-22 14:14:28,809 [INFO]     Saved: CTX-WEB-2026-00035 → CTX-WEB-2026-00035.json
+2026-03-22 14:14:28,809 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-10-29-Infrastructure-News-130PM
+2026-03-22 14:14:40,351 [WARNING]     Tag issue: Unknown tag 'safety' not in taxonomy
+2026-03-22 14:14:40,369 [INFO]     Saved: CTX-WEB-2026-00036 → CTX-WEB-2026-00036.json
+2026-03-22 14:14:40,369 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-10-23-Infrastructure-News-607-PM
+2026-03-22 14:14:51,287 [INFO]     Saved: CTX-WEB-2026-00037 → CTX-WEB-2026-00037.json
+2026-03-22 14:14:51,287 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2025/2025-10-02-City-News-130PM
+2026-03-22 14:15:05,016 [INFO]     Saved: CTX-WEB-2026-00038 → CTX-WEB-2026-00038.json
+2026-03-22 14:15:05,016 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-09-02-Infrastructure-News-12PM
+2026-03-22 14:15:17,355 [INFO]     Saved: CTX-WEB-2026-00039 → CTX-WEB-2026-00039.json
+2026-03-22 14:15:17,355 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-08-29-Press-Release-Mosley-Pump-Station-Project
+2026-03-22 14:15:28,548 [INFO]     Saved: CTX-WEB-2026-00040 → CTX-WEB-2026-00040.json
+2026-03-22 14:15:28,548 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-08-20-Traffic-News-230-PM
+2026-03-22 14:15:39,559 [INFO]     Saved: CTX-WEB-2026-00041 → CTX-WEB-2026-00041.json
+2026-03-22 14:15:39,560 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-07-10-Infrastructure-News-8-AM
+2026-03-22 14:15:52,303 [INFO]     Saved: CTX-WEB-2026-00042 → CTX-WEB-2026-00042.json
+2026-03-22 14:15:52,303 [DEBUG]   Fetching: https://www.syr.gov/News/Parks-News/Parks-2025/2025-06-18-Parks-News
+2026-03-22 14:16:04,284 [INFO]     Saved: CTX-WEB-2026-00043 → CTX-WEB-2026-00043.json
+2026-03-22 14:16:04,284 [DEBUG]   Fetching: https://www.syr.gov/News/Parks-News/Parks-2025/2025-06-16-Parks-News-1015-AM
+2026-03-22 14:16:15,562 [INFO]     Dedup match: CTX-WEB-2026-00043 — linking via cluster
+2026-03-22 14:16:15,564 [INFO]     Saved: CTX-WEB-2026-00044 → CTX-WEB-2026-00044.json
+2026-03-22 14:16:15,564 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-06-05-Infrastructure-News-115-PM
+2026-03-22 14:16:28,011 [INFO]     Saved: CTX-WEB-2026-00045 → CTX-WEB-2026-00045.json
+2026-03-22 14:16:28,012 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2025/2025-06-03-Mayors-Office-News-2PM
+2026-03-22 14:16:40,199 [INFO]     Dedup match: CTX-WEB-2026-00045 — linking via cluster
+2026-03-22 14:16:40,203 [INFO]     Saved: CTX-WEB-2026-00046 → CTX-WEB-2026-00046.json
+2026-03-22 14:16:40,203 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-05-29-Infrastructure-News-255-PM
+2026-03-22 14:16:52,675 [INFO]     Saved: CTX-WEB-2026-00047 → CTX-WEB-2026-00047.json
+2026-03-22 14:16:52,675 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-05-07-Infrastructure-News-245-PM
+2026-03-22 14:17:04,338 [WARNING]     Tag issue: Unknown tag 'recreation' not in taxonomy
+2026-03-22 14:17:04,359 [INFO]     Saved: CTX-WEB-2026-00048 → CTX-WEB-2026-00048.json
+2026-03-22 14:17:04,359 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-05-07-Infrastructure-News-1115AM
+2026-03-22 14:17:17,307 [INFO]     Saved: CTX-WEB-2026-00049 → CTX-WEB-2026-00049.json
+2026-03-22 14:17:17,307 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2025/2025-04-07-Mayors-Office-News-855-AM
+2026-03-22 14:17:30,111 [INFO]     Saved: CTX-WEB-2026-00050 → CTX-WEB-2026-00050.json
+2026-03-22 14:17:30,111 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-03-21-Infrastructure-News-9AM
+2026-03-22 14:17:42,878 [INFO]     Saved: CTX-WEB-2026-00051 → CTX-WEB-2026-00051.json
+2026-03-22 14:17:42,878 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-03-16-Infrastructure-News-945PM
+2026-03-22 14:17:56,436 [INFO]     Saved: CTX-WEB-2026-00052 → CTX-WEB-2026-00052.json
+2026-03-22 14:17:56,436 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-03-16-Infrastructure-News-625PM
+2026-03-22 14:18:08,589 [INFO]     Dedup match: CTX-WEB-2026-00052 — linking via cluster
+2026-03-22 14:18:08,591 [INFO]     Saved: CTX-WEB-2026-00053 → CTX-WEB-2026-00053.json
+2026-03-22 14:18:08,591 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-03-06-Infrastructure-News-11-am
+2026-03-22 14:18:20,345 [INFO]     Saved: CTX-WEB-2026-00054 → CTX-WEB-2026-00054.json
+2026-03-22 14:18:20,345 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-02-07-Infrastructure-News-11-AM
+2026-03-22 14:18:33,030 [INFO]     Saved: CTX-WEB-2026-00055 → CTX-WEB-2026-00055.json
+2026-03-22 14:18:33,030 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-02-05-Infrastructure-News-3-PM
+2026-03-22 14:18:44,077 [INFO]     Saved: CTX-WEB-2026-00056 → CTX-WEB-2026-00056.json
+2026-03-22 14:18:44,077 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-01-28-Infrastructure-News-1125AM
+2026-03-22 14:18:55,947 [INFO]     Saved: CTX-WEB-2026-00057 → CTX-WEB-2026-00057.json
+2026-03-22 14:18:55,947 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-01-13-Infrastructure-News-1035AM
+2026-03-22 14:19:06,407 [INFO]     Saved: CTX-WEB-2026-00058 → CTX-WEB-2026-00058.json
+2026-03-22 14:19:06,407 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-01-08-Infrastructure-News-11AM
+2026-03-22 14:19:16,577 [INFO]     Saved: CTX-WEB-2026-00059 → CTX-WEB-2026-00059.json
+2026-03-22 14:19:16,578 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-01-04-Infrastructure-News-440PM
+2026-03-22 14:19:26,995 [INFO]     Saved: CTX-WEB-2026-00060 → CTX-WEB-2026-00060.json
+2026-03-22 14:19:26,996 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-01-03-Infrastructure-News-950AM
+2026-03-22 14:19:39,296 [INFO]     Dedup match: CTX-WEB-2026-00060 — linking via cluster
+2026-03-22 14:19:39,298 [INFO]     Saved: CTX-WEB-2026-00061 → CTX-WEB-2026-00061.json
+2026-03-22 14:19:39,298 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-12-28-Infrastructure-News-630PM
+2026-03-22 14:19:50,270 [INFO]     Saved: CTX-WEB-2026-00062 → CTX-WEB-2026-00062.json
+2026-03-22 14:19:50,271 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-12-27-Infrastructure-News-1125AM
+2026-03-22 14:20:01,472 [INFO]     Saved: CTX-WEB-2026-00063 → CTX-WEB-2026-00063.json
+2026-03-22 14:20:01,472 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-12-26-Infrastructure-News-2PM
+2026-03-22 14:20:13,498 [INFO]     Dedup match: CTX-WEB-2026-00063 — linking via cluster
+2026-03-22 14:20:13,499 [INFO]     Saved: CTX-WEB-2026-00064 → CTX-WEB-2026-00064.json
+2026-03-22 14:20:13,500 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-12-25-Infrastructure-News-1215-PM
+2026-03-22 14:20:24,449 [INFO]     Saved: CTX-WEB-2026-00065 → CTX-WEB-2026-00065.json
+2026-03-22 14:20:24,449 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-12-24-Infrastructure-News-10AM
+2026-03-22 14:20:34,958 [INFO]     Dedup match: CTX-WEB-2026-00065 — linking via cluster
+2026-03-22 14:20:34,960 [INFO]     Saved: CTX-WEB-2026-00066 → CTX-WEB-2026-00066.json
+2026-03-22 14:20:34,960 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2024/2024-12-23-Mayors-Office-News-11AM
+2026-03-22 14:20:45,471 [INFO]     Saved: CTX-WEB-2026-00067 → CTX-WEB-2026-00067.json
+2026-03-22 14:20:45,471 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2024/2024-12-04-Mayors-Office-News-215PM
+2026-03-22 14:20:58,340 [INFO]     Saved: CTX-WEB-2026-00068 → CTX-WEB-2026-00068.json
+2026-03-22 14:20:58,341 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2024/2024-11-27-Mayors-Office-News
+2026-03-22 14:21:11,940 [INFO]     Saved: CTX-WEB-2026-00069 → CTX-WEB-2026-00069.json
+2026-03-22 14:21:11,940 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-11-25-Infrastructure-News-1240-PM
+2026-03-22 14:21:24,485 [WARNING]     Tag issue: Unknown tag 'health-equity' not in taxonomy
+2026-03-22 14:21:24,486 [WARNING]     Tag issue: Unknown tag 'vulnerability-populations' not in taxonomy
+2026-03-22 14:21:24,501 [INFO]     Dedup match: CTX-WEB-2026-00069 — linking via cluster
+2026-03-22 14:21:24,503 [INFO]     Saved: CTX-WEB-2026-00070 → CTX-WEB-2026-00070.json
+2026-03-22 14:21:24,503 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-11-22-Infrastructure-News-605AM
+2026-03-22 14:21:37,536 [INFO]     Saved: CTX-WEB-2026-00071 → CTX-WEB-2026-00071.json
+2026-03-22 14:21:37,537 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-11-21-Infrastructure-News-915AM
+2026-03-22 14:21:47,923 [INFO]     Saved: CTX-WEB-2026-00072 → CTX-WEB-2026-00072.json
+2026-03-22 14:21:47,924 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-11-03-Infrastructure-News-830AM
+2026-03-22 14:21:59,216 [INFO]     Saved: CTX-WEB-2026-00073 → CTX-WEB-2026-00073.json
+2026-03-22 14:21:59,216 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-11-01-Infrastructure-News-2PM
+2026-03-22 14:22:10,852 [INFO]     Saved: CTX-WEB-2026-00074 → CTX-WEB-2026-00074.json
+2026-03-22 14:22:10,852 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-11-01-Infrastructure-News-9AM
+2026-03-22 14:22:21,311 [INFO]     Saved: CTX-WEB-2026-00075 → CTX-WEB-2026-00075.json
+2026-03-22 14:22:21,311 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-10-18-Infrastructure-News-530PM
+2026-03-22 14:22:34,167 [INFO]     Saved: CTX-WEB-2026-00076 → CTX-WEB-2026-00076.json
+2026-03-22 14:22:34,167 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-10-07-Mayors-Office-News-4-PM
+2026-03-22 14:22:46,066 [INFO]     Saved: CTX-WEB-2026-00077 → CTX-WEB-2026-00077.json
+2026-03-22 14:22:46,067 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-09-06-Infrastructure-News-530-PM
+2026-03-22 14:22:56,236 [INFO]     Saved: CTX-WEB-2026-00078 → CTX-WEB-2026-00078.json
+2026-03-22 14:22:56,236 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-09-03-Infrastructure-News-1145AM
+2026-03-22 14:23:08,101 [INFO]     Saved: CTX-WEB-2026-00079 → CTX-WEB-2026-00079.json
+2026-03-22 14:23:08,101 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-08-27-Infrastructure-News-430-PM
+2026-03-22 14:23:18,586 [INFO]     Saved: CTX-WEB-2026-00080 → CTX-WEB-2026-00080.json
+2026-03-22 14:23:18,587 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-08-08-Infrastructure-News-4-PM
+2026-03-22 14:23:29,574 [WARNING]     Tag issue: Unknown tag 'roads' not in taxonomy
+2026-03-22 14:23:29,582 [INFO]     Saved: CTX-WEB-2026-00081 → CTX-WEB-2026-00081.json
+2026-03-22 14:23:29,582 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-07-19-Infrastructure-News-6PM
+2026-03-22 14:23:41,562 [INFO]     Saved: CTX-WEB-2026-00082 → CTX-WEB-2026-00082.json
+2026-03-22 14:23:41,562 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-06-18-Infrastructure-News-3PM
+2026-03-22 14:23:52,695 [INFO]     Saved: CTX-WEB-2026-00083 → CTX-WEB-2026-00083.json
+2026-03-22 14:23:52,695 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-06-18-Infrastructure-News-12PM
+2026-03-22 14:24:03,982 [INFO]     Dedup match: CTX-WEB-2026-00083 — linking via cluster
+2026-03-22 14:24:03,984 [INFO]     Saved: CTX-WEB-2026-00084 → CTX-WEB-2026-00084.json
+2026-03-22 14:24:03,985 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-06-17-Infrastructure-News-1045AM
+2026-03-22 14:24:14,461 [INFO]     Dedup match: CTX-WEB-2026-00083 — linking via cluster
+2026-03-22 14:24:14,465 [INFO]     Saved: CTX-WEB-2026-00085 → CTX-WEB-2026-00085.json
+2026-03-22 14:24:14,466 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-06-04-Infrastructure-News-1030-AM
+2026-03-22 14:24:24,954 [INFO]     Saved: CTX-WEB-2026-00086 → CTX-WEB-2026-00086.json
+2026-03-22 14:24:24,955 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-05-24-Infrastructure-News-445-PM
+2026-03-22 14:24:36,623 [INFO]     Saved: CTX-WEB-2026-00087 → CTX-WEB-2026-00087.json
+2026-03-22 14:24:36,623 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-05-09-Infrastructure-News-2-PM
+2026-03-22 14:24:47,550 [INFO]     Saved: CTX-WEB-2026-00088 → CTX-WEB-2026-00088.json
+2026-03-22 14:24:47,550 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-04-23-Infrastructure-News-430-PM
+2026-03-22 14:24:58,147 [INFO]     Saved: CTX-WEB-2026-00089 → CTX-WEB-2026-00089.json
+2026-03-22 14:24:58,147 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-04-22-Infrastructure-News-12-PM
+2026-03-22 14:25:09,424 [INFO]     Dedup match: CTX-WEB-2026-00089 — linking via cluster
+2026-03-22 14:25:09,426 [INFO]     Saved: CTX-WEB-2026-00090 → CTX-WEB-2026-00090.json
+2026-03-22 14:25:09,426 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-04-22-Infrastructure-News-130-PM
+2026-03-22 14:25:19,541 [INFO]     Dedup match: CTX-WEB-2026-00089 — linking via cluster
+2026-03-22 14:25:19,544 [INFO]     Saved: CTX-WEB-2026-00091 → CTX-WEB-2026-00091.json
+2026-03-22 14:25:19,544 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-03-21-Infrastructure-News-1-PM
+2026-03-22 14:25:31,806 [INFO]     Saved: CTX-WEB-2026-00092 → CTX-WEB-2026-00092.json
+2026-03-22 14:25:31,806 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-03-15-Infrastructure-News-10AM
+2026-03-22 14:25:44,989 [INFO]     Saved: CTX-WEB-2026-00093 → CTX-WEB-2026-00093.json
+2026-03-22 14:25:44,989 [DEBUG]   Fetching: https://www.syr.gov/News/2024-03-11-Infrastructure-News-230PM
+2026-03-22 14:25:57,997 [INFO]     Saved: CTX-WEB-2026-00094 → CTX-WEB-2026-00094.json
+2026-03-22 14:25:57,997 [DEBUG]   Fetching: https://www.syr.gov/News/2024-02-24-Infrastructure-News
+2026-03-22 14:26:08,407 [INFO]     Saved: CTX-WEB-2026-00095 → CTX-WEB-2026-00095.json
+2026-03-22 14:26:08,407 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-02-16-Infrastructure-News-430PM
+2026-03-22 14:26:18,895 [INFO]     Saved: CTX-WEB-2026-00096 → CTX-WEB-2026-00096.json
+2026-03-22 14:26:18,896 [DEBUG]   Fetching: https://www.syr.gov/News/2024/2024-02-09-Mayors-Office-News-3PM
+2026-03-22 14:26:30,992 [INFO]     Saved: CTX-WEB-2026-00097 → CTX-WEB-2026-00097.json
+2026-03-22 14:26:30,992 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-12-27-Infrastructure-News
+2026-03-22 14:26:42,580 [INFO]     Saved: CTX-WEB-2026-00098 → CTX-WEB-2026-00098.json
+2026-03-22 14:26:42,580 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-11-22-Traffic-News
+2026-03-22 14:26:54,911 [INFO]     Saved: CTX-WEB-2026-00099 → CTX-WEB-2026-00099.json
+2026-03-22 14:26:54,911 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-11-21-Infrastructure-News-1
+2026-03-22 14:27:07,665 [INFO]     Saved: CTX-WEB-2026-00100 → CTX-WEB-2026-00100.json
+2026-03-22 14:27:07,665 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-11-21-Infrastructure-News
+2026-03-22 14:27:18,413 [INFO]     Saved: CTX-WEB-2026-00101 → CTX-WEB-2026-00101.json
+2026-03-22 14:27:18,413 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-11-16-Infrastructure-News
+2026-03-22 14:27:31,037 [INFO]     Saved: CTX-WEB-2026-00102 → CTX-WEB-2026-00102.json
+2026-03-22 14:27:31,037 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2023/2023-10-31-City-News-1100
+2026-03-22 14:27:43,460 [WARNING]     Tag issue: Unknown tag 'sanitation' not in taxonomy
+2026-03-22 14:27:43,482 [INFO]     Saved: CTX-WEB-2026-00103 → CTX-WEB-2026-00103.json
+2026-03-22 14:27:43,483 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2023/2023-10-30-Mayors-Office-News
+2026-03-22 14:27:55,079 [INFO]     Saved: CTX-WEB-2026-00104 → CTX-WEB-2026-00104.json
+2026-03-22 14:27:55,079 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2023/2023-10-06-Mayors-Office-News
+2026-03-22 14:28:05,913 [INFO]     Saved: CTX-WEB-2026-00105 → CTX-WEB-2026-00105.json
+2026-03-22 14:28:05,913 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-10-05-Infrastructure-News
+2026-03-22 14:28:17,529 [INFO]     Saved: CTX-WEB-2026-00106 → CTX-WEB-2026-00106.json
+2026-03-22 14:28:17,530 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2023/2023-10-05-Mayors-Office-News-2pm
+2026-03-22 14:28:29,512 [INFO]     Saved: CTX-WEB-2026-00107 → CTX-WEB-2026-00107.json
+2026-03-22 14:28:29,512 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2023/2023-10-05-Mayors-Office-News
+2026-03-22 14:28:42,012 [INFO]     Saved: CTX-WEB-2026-00108 → CTX-WEB-2026-00108.json
+2026-03-22 14:28:42,013 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-09-12-Traffic-News-635-PM
+2026-03-22 14:28:53,760 [WARNING]     Tag issue: Unknown tag 'permits' not in taxonomy
+2026-03-22 14:28:53,776 [INFO]     Saved: CTX-WEB-2026-00109 → CTX-WEB-2026-00109.json
+2026-03-22 14:28:53,776 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-09-08-Infrastructure-News-1400
+2026-03-22 14:29:05,762 [INFO]     Saved: CTX-WEB-2026-00110 → CTX-WEB-2026-00110.json
+2026-03-22 14:29:05,762 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-09-07-Infrastructure-News-100
+2026-03-22 14:29:17,904 [INFO]     Saved: CTX-WEB-2026-00111 → CTX-WEB-2026-00111.json
+2026-03-22 14:29:17,904 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-09-06-Infrastructure-News-1200
+2026-03-22 14:29:29,037 [INFO]     Dedup match: CTX-WEB-2026-00111 — linking via cluster
+2026-03-22 14:29:29,040 [INFO]     Saved: CTX-WEB-2026-00112 → CTX-WEB-2026-00112.json
+2026-03-22 14:29:29,040 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2023/2023-09-06-City-News-1100
+2026-03-22 14:29:42,385 [INFO]     Dedup match: CTX-WEB-2026-00111 — linking via cluster
+2026-03-22 14:29:42,390 [INFO]     Saved: CTX-WEB-2026-00113 → CTX-WEB-2026-00113.json
+2026-03-22 14:29:42,390 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-09-05-Traffic-News-5PM
+2026-03-22 14:29:54,610 [INFO]     Saved: CTX-WEB-2026-00114 → CTX-WEB-2026-00114.json
+2026-03-22 14:29:54,611 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2023/2023-09-05-City-News-1200
+2026-03-22 14:30:07,953 [WARNING]     Tag issue: Unknown tag 'safety' not in taxonomy
+2026-03-22 14:30:07,971 [INFO]     Dedup match: CTX-WEB-2026-00111 — linking via cluster
+2026-03-22 14:30:07,976 [INFO]     Saved: CTX-WEB-2026-00115 → CTX-WEB-2026-00115.json
+2026-03-22 14:30:07,976 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-08-14-Traffic-News-3PM
+2026-03-22 14:30:21,312 [INFO]     Saved: CTX-WEB-2026-00116 → CTX-WEB-2026-00116.json
+2026-03-22 14:30:21,313 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-07-26-Traffic-News-4PM
+2026-03-22 14:30:36,578 [INFO]     Saved: CTX-WEB-2026-00117 → CTX-WEB-2026-00117.json
+2026-03-22 14:30:36,578 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2023/2023-06-21-Mayor-News-5pm
+2026-03-22 14:30:48,460 [INFO]     Saved: CTX-WEB-2026-00118 → CTX-WEB-2026-00118.json
+2026-03-22 14:30:48,461 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-06-21-Traffic-News-110PM
+2026-03-22 14:31:00,692 [INFO]     Saved: CTX-WEB-2026-00119 → CTX-WEB-2026-00119.json
+2026-03-22 14:31:00,692 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-06-13-Traffic-News-410PM
+2026-03-22 14:31:13,176 [INFO]     Saved: CTX-WEB-2026-00120 → CTX-WEB-2026-00120.json
+2026-03-22 14:31:13,177 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-06-07-Infrastructure-News-510PM
+2026-03-22 14:31:25,073 [INFO]     Saved: CTX-WEB-2026-00121 → CTX-WEB-2026-00121.json
+2026-03-22 14:31:25,073 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-06-06-Infrastructure-News-5PM
+2026-03-22 14:31:39,426 [WARNING]     Tag issue: Unknown tag 'public-input' not in taxonomy
+2026-03-22 14:31:39,426 [WARNING]     Tag issue: Unknown tag 'ADA-compliance' not in taxonomy
+2026-03-22 14:31:39,437 [INFO]     Saved: CTX-WEB-2026-00122 → CTX-WEB-2026-00122.json
+2026-03-22 14:31:39,437 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2023/2023-05-30-Mayors-Office-News
+2026-03-22 14:31:52,867 [INFO]     Saved: CTX-WEB-2026-00123 → CTX-WEB-2026-00123.json
+2026-03-22 14:31:52,867 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2023/2023-02-01-Mayors-Office-News-4pm
+2026-03-22 14:32:05,071 [INFO]     Saved: CTX-WEB-2026-00124 → CTX-WEB-2026-00124.json
+2026-03-22 14:32:05,071 [INFO] Scanning: Parks 2026 (https://www.syr.gov/News/Parks-News/Parks-2026)
+2026-03-22 14:32:05,071 [INFO]   Navigating to https://www.syr.gov/News/Parks-News/Parks-2026
+2026-03-22 14:32:08,113 [INFO]   Found 0 article links in Parks 2026
+2026-03-22 14:32:13,113 [INFO] Scanning: Fire 2026 (https://www.syr.gov/News/Fire-News/Fire-2026)
+2026-03-22 14:32:13,113 [INFO]   Navigating to https://www.syr.gov/News/Fire-News/Fire-2026
+2026-03-22 14:32:16,434 [INFO]   Found 0 article links in Fire 2026
+2026-03-22 14:32:21,434 [INFO] Scanning: Police 2026 (https://www.syr.gov/News/2026/Police-News)
+2026-03-22 14:32:21,435 [INFO]   Navigating to https://www.syr.gov/News/2026/Police-News
+2026-03-22 14:32:24,804 [INFO]   Found 0 article links in Police 2026
+2026-03-22 14:32:29,947 [INFO] Website Monitor Run — 2026-03-22 14:32
+==================================================
+Sections scanned: 8
+New pages found: 111
+Saved as records: 108
+Already processed: 0
+Errors: 0
+
+New records:
+  • Department Of Engineering To Host Public Meeting For South Ave Bridge
+  • Mayor, Council and Auditor Thank Senate For One-House Budget Proposal
+  • Mayor Owens Announces the Return of the Bravest Vs. Finest Game
+  • Mayor Sharon F. Owens Announces the Return of Veo Fleet
+  • Traffic Advisory & Street Closure Notice for 2026 St. Patrick's Parade
+  • Mayor Owens Announces Search for New Commissioner of Finance
+  • West Kirkpatrick Street Bridge to Close Mar. 9 for Repairs
+  • Mayor Owens Launches Syracuse Community Solar
+  • Water Department Reports 2nd Half 2025 Sampling Meet EPA Lead Standard
+  • Department Of Engineering To Host Public Meeting For South Ave Bridge
+  • Mayor, Council and Auditor Thank Senate For One-House Budget Proposal
+  • Department Of Engineering To Host Public Meeting For South Ave Bridge
+  • Mayor Sharon F. Owens Announces the Return of Veo Fleet
+  • West Kirkpatrick Street Bridge to Close Mar. 9 for Repairs
+  • Public Meeting on Regional Market Area Mobility Improvements March 5
+  • Reconnecting Communities to Unveil Designs for Five Key Corridors
+  • City of Syracuse Launches Lead Water Educational Materials
+  • Mayor Owens Announces Release of 2026 City Services Guide
+  • DPW to Begin Overnight Leaf and Snow Removal Operations
+  • DPW to Convert Traffic Signals at Two Intersections to Flashing Lights
+  • City of Syracuse Announces Delay in Trash Collection on Southside.
+  • City of Syracuse Shares School Zone Traffic Safety Warning Data
+  • Mayor Walsh Announces Launch of Redlight and Speed Cameras
+  • Department of Water to Begin Mosley Pump Station Project Sep. 2
+  • Traffic Advisory Citrus in the City
+  • Water Department Reports 1st Half 2025 Sampling Meet EPA Lead Standard
+  • City of Syracuse Releases 2025 Outdoor Pool Schedule
+  • Department of Parks to Restore Hanover Square Fountain
+  • Mayor Announces Completion of Phase 1 of Creekwalk Security Cameras
+  • Mayor and Superintendent Announce Public Meetings on Phase III of JSCB
+  • Mayor Walsh Announces Elmwood Park Sediment Removal Project
+  • Mayor Walsh Announces Opening of Kirk Park Canoe and Kayak Launch
+  • Mayor Announces Public Meetings for Phase 3 of Creekwalk Extension
+  • Mayor Announces Syracuse Wins Award for Trash & Recycling Education
+  • Dept. of Engineering Announces Open Comment Period for SWMP and MS4
+  • Department of Water Working to Increase Water Pressure Overnight
+  • City Department of Water Responding to Low Pressure in Water System
+  • City Department of Water Responding to Low Pressure in Water System
+  • Mayor Announces Open Houses for Vision Zero Traffic Safety Initiative
+  • City to Host Open House for Kirk Park Pedestrian Bridge Project
+  • Water Crews Working to Repair Multiple Water Main Breaks
+  • Water Crews Working to Repair Water Main Break on Sunnycrest Road
+  • Water Crews Working to Repair Water Main Break on East Genesee Street
+  • City of Syracuse Announces Delays in Trash and Recycling Collection
+  • City of Syracuse to Begin Issuing Citations for Cart Violations
+  • Water Crews Working to Repair Water Main Break on E Washington St
+  • City of Syracuse to Collect Christmas Trees in January
+  • Mayor Walsh Announces Release of 2025 City Services Guide
+  • Water Crews Working to Repair Water Main Break on Pulaski Street
+  • Water Crews Working to Repair Water Main Break on E Washington St
+  • City of Syracuse to Close Offices for Christmas and New Years Holiday
+  • Mayor Walsh Issues Snow Safety Alert for Upcoming Winter Storm
+  • City and County Share Progress on Water Filter Distribution Program
+  • County and City Announce Details of Free Water Filter Distribution
+  • City Releases Sampling Results That Show Water Meets EPA Lead Standard
+  • Water Crews Working to Repair Water Main Break on East Raynor Avenue
+  • Mayor Walsh Announces Road Reconstruction Project on Milton Avenue
+  • Mayor Walsh Announces DPW to Begin Overnight Leaf and Snow Removal
+  • Water Crews Working to Repair Water Main Break on East Fayette Street
+  • Department of Water Releases Citywide Water Service Inventory
+  • Mayor Walsh Appoints Robert Brandt to Commissioner of Water
+  • Syracuse Water Crews to Repair Water Main Leak on West Street on Sep 8
+  • DPW Announces End of Blue Bin Distribution for Recycling in the City
+  • Water Crews Working to Repair Water Main Leak on West Street
+  • Water Department Closes S Warren St for Fire Service Repair
+  • Mayor Walsh Announces Road Reconstruction Project on Butternut Street
+  • Water Department Public Meeting for Westminster Avenue Area Neighbors
+  • Fire and Water Department Warn: Opening Hydrants Risks Public Safety
+  • Water Crews Working to Repair Hydrant Branch on Locksley Road
+  • Water Crews Working to Repair Water Main Break on North Geddes Street
+  • Mayor Walsh Announces Road Reconstruction Project on Peat Street
+  • Water Crews Working to Repair Water Main Leak on Midland Avenue
+  • Water Crews Continue Repairs to Water Main Break on Shonnard Street
+  • Water Crews Continue Repairs to Water Main Break on Velasko Road
+  • Water Crews Working to Repair Water Main Break on Velasko Road
+  • City of Syracuse Announces Water Department Public Meeting on April 4
+  • Mayor Walsh Announces the Return of Full Fleet of Veo
+  • Mayor Walsh Announces 2024 Road Reconstruction Plans for the City
+  • Water Crews Working to Repair Water Main Break on North Clinton Street
+  • Sewer Department to Complete Repair Work on S Clinton St on Feb 18
+  • Mayor Walsh Appoints Robert Brandt to Deputy Commissioner of Water
+  • City of Syracuse to Collect Christmas Trees in January
+  • Home for the Holidays Tree Lighting Street Closures
+  • Downtown Syracuse Overnight Parking Restrictions In Effect
+  • Water Crews Working To Repair Water Main Break On West Fayette Street
+  • I-81 to Close Overnight Between Exits 16A & 17
+  • City Of Syracuse To Begin Issuing Citations For Trash Cart Violations
+  • Franklin Square Fountain to be Temporarily Removed for Restoration
+  • City Administrative Offices Closed Monday, October 9 for Columbus Day
+  • Mayor Walsh Announces Final Stage of West Genesee Street Project
+  • Annemarie Deegan Named First Deputy Commissioner of Finance
+  • Mayor Walsh Announces Syracuse Wins Transportation Project of the Year
+  • Street Closing Information for 2023 Festa Italiana
+  • Mayor Walsh Announces Repaving West Genesee Street Near Downtown
+  • City of Syracuse Warns of Traffic Delays on East Colvin Street
+  • Mayor Walsh Announces Road Reconstruction on Martin Luther King East
+  • Mayor Walsh Urges Employers to Offer Centro Services to Employees
+  • 2023 Irish Festival Street Closing Information
+  • Mayor Walsh Announces Distribution of 36,500 New Trash Carts
+  • Street Closing Information for 2023 Mary Nelson's Youth Day
+  • Street Closing Information for 2023 Arts Week Downtown
+  • West Fayette Street Closed for Sink Hole Repair
+  • Road Closures for 2023 Jazz Fest
+  • Road Closures for 2023 Juneteenth Festival
+  • City Announces Lane Restrictions for Greenspace Maintenance on West St
+  • City Invites Public Input on South Side Infrastructure Project
+  • New Covered Trash Carts Begin Arriving at Phase One Homes
+  • Mayor Walsh Announces Release of Trash Cart Rollout Fact Sheet
+

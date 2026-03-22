@@ -1,0 +1,52 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00133",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=rv3OkGSe59c&t=3222s",
+  "publication_date": "2026-02-04",
+  "capture_date": "2026-03-21T23:23:19Z",
+  "title": "IT Vendor License RFP Waiver and Railroad Property Assessment Reclassification",
+  "summary": "Two items: (1) IT Director completes request for RFP waiver on long-standing vendor (6-12 year relationship) — police department adoption expanded licenses past public bid threshold, but vendor is the only area provider of this product; (2) Commissioner of Assessment presents role corrections for railroad properties — state reclassified railroad from non-sealing to sealing, requiring assessment role changes. Sealing classification caps assessed value with exemption on amounts exceeding the state-dictated ceiling.",
+  "raw_content": "[00:53:42] permission to proceed with item number\n[00:53:44] 42. The vendor we've done business with\n[00:53:47] for 6 8 10 12 years just that um we're\n[00:53:52] buying [clears throat] more licenses now\n[00:53:53] because the police department is\n[00:53:55] adopting it as well. So the purchase\n[00:53:58] price is going over the annual uh public\n[00:54:00] bid limit. So they asked us to issue an\n[00:54:04] RFP. We're already purchasing it with\n[00:54:07] from the only vendor in the area that\n[00:54:09] offers it. So, we're asking for\n[00:54:12] permission to wave the RFP process and\n[00:54:14] continue using these guys.\n[00:54:20] >> Thank you.\n[00:54:28] >> Afternoon all. Matt OJ, Commissioner of\n[00:54:29] Assessment. We've got some role\n[00:54:31] corrections to request. Uh, primarily\n[00:54:33] this is um, and I don't want to don't\n[00:54:35] want to go too far down a technical\n[00:54:37] rabbit hole. We've got this railroad\n[00:54:39] question. Um there's two types of\n[00:54:41] railroads in New York State, ceiling and\n[00:54:43] non-sealing. Um this particular rail\n[00:54:45] railroad was classified for years as\n[00:54:47] non-sealing. Um the state dictates this.\n[00:54:51] Um after this role year, the state\n[00:54:53] changed its mind, so to speak, and uh\n[00:54:56] has reclassified the railroad, which\n[00:54:57] means we need to change the role for all\n[00:54:59] these properties um and make them\n[00:55:01] exempt.\n[00:55:02] They still pay on the partial exemption.\n[00:55:05] Um but the but the ceiling is is a level\n[00:55:07] beyond which they would not pay. Should\n[00:55:09] the should the assessed value exceed the\n[00:55:11] state dictated ceiling, the railroad\n[00:55:14] would then be exempt on the delta beyond\n[00:55:16] that. I apologize if that explanation\n[00:55:18] made things muddier.\n[00:55:24] >> Changes in the role not not financial.\n[00:55:26] >> I could have saved a couple words. Yeah.\n[00:55:28] >> Thank you.\n[00:55:29] >> Thank you all.\n[00:55:31] >> Uh thank you madam president. Uh,\n[00:55:33] councelor Jones Rouser.",
+  "transcript_ref": "outputs/transcripts/rv3OkGSe59c_corrected.txt",
+  "topic_tags": [
+    "IT-infrastructure",
+    "tax-revenue",
+    "procurement",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Information Technology",
+    "Department of Assessment"
+  ],
+  "entity_refs": [],
+  "speakers": [
+    {
+      "name": "Dave Prowak",
+      "role": "Director of IT",
+      "affiliation": "City of Syracuse"
+    },
+    {
+      "name": "Matt OJ",
+      "role": "Commissioner of Assessment",
+      "affiliation": "City of Syracuse"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Railroad sealing/non-sealing distinction is state-level classification affecting local assessment authority",
+    "IT vendor sole-source justification: only area provider of the product",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 17 of 19 from Common Council Study Session, Tuesday, February 4th, 2026",
+    "Transcript corrections applied: national grid -> National Grid"
+  ],
+  "last_relevance_update": null
+}

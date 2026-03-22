@@ -1,0 +1,60 @@
+{
+  "record_id": "CTX-WEB-2026-00051",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-03-21-Infrastructure-News-9AM",
+  "publication_date": "2025-03-21",
+  "capture_date": "2026-03-22T14:17:42Z",
+  "title": "Dept. of Engineering Announces Open Comment Period for SWMP and MS4",
+  "summary": "The City of Syracuse Department of Engineering opened a public comment period (through March 28, 2025) for the Stormwater Management Plan (SWMP) and MS4 Annual Report, which outline stormwater pollution reduction efforts required by NYSDEC's SPDES General Permit. These documents detail best management practices and progress toward reducing sediment and pollution entering surface and groundwater systems.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "sewer",
+    "water",
+    "sustainability",
+    "state-mandates",
+    "transparency",
+    "residents",
+    "permitting"
+  ],
+  "department_refs": [
+    "Department of Engineering",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "New York State Department of Environmental Conservation",
+      "type": "organization",
+      "canonical_id": "ORG-NYSDEC"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Regulatory compliance announcement demonstrating alignment with state environmental mandates and public engagement on stormwater management infrastructure.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author marked as Unknown; document is standard regulatory notice",
+    "Comment period deadline is March 28, 2025",
+    "Documents hosted on syr.gov/Departments/Engineering/Municipal-Separate-Storm-Sewer-Systems-MS4s",
+    "No budget, contract, or capital planning details present",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

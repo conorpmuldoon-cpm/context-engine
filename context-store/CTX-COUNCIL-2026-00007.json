@@ -1,0 +1,43 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00007",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=-26j2mt6jMU&t=1635s",
+  "publication_date": "2026-01-21",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Appraisal Authorization for Grape Alley Right-of-Way",
+  "summary": "Department of Assessment requests authorization to hire appraiser for Grape Alley, a city right-of-way off Townsend Street south of Erie Boulevard, near the recently demolished Goodyear building site now used as a parking lot. Brief discussion with location clarification (East Fayette area, near former Snowflake Bakery).",
+  "raw_content": "[00:27:15] >> Thank you. Uh item 28, the department of\n[00:27:18] assessments uh requesting authorization\n[00:27:20] to hire an appraiser um or where it's\n[00:27:24] nicknamed Grape Alley. It's a city right\n[00:27:26] ofway uh just off Townsend south of Erie\n[00:27:29] Boulevard. Do you remember where the the\n[00:27:31] Goodyear building was that was\n[00:27:32] demolished last year and turned into a\n[00:27:35] parking lot? It's just south of that\n[00:27:37] >> little spot.\n[00:27:39] >> Okay. If there are no further questions,\n[00:27:41] thank you very much, counselors.\n[00:27:42] >> Thank you.\n[00:27:43] >> I'm sorry, Mike. Can you go back to 26?\n[00:27:45] Yes, I can.\n[00:27:46] >> Um, exactly where is the um 2016 2024\n[00:27:49] East Fet?\n[00:27:51] U\n[00:27:54] Snowflake Bakery that were they\n[00:27:55] >> Oh, east.\n[00:27:56] >> Oh, I'm sorry. I was thinking west.\n[00:27:58] Okay. Sorry.\n[00:27:59] >> Yeah.\n[00:28:00] >> Thank you.\n[00:28:04] >> 29\n[00:28:11] 29.\n[00:28:13] >> Hey Dave,\n[00:28:14] >> good afternoon. councilors day pro",
+  "transcript_ref": "outputs/transcripts/-26j2mt6jMU_corrected.txt",
+  "topic_tags": [
+    "land-use",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Assessment"
+  ],
+  "entity_refs": [],
+  "speakers": [
+    {
+      "name": "Michael Layman",
+      "role": "Deputy Commissioner of Assessment",
+      "affiliation": "City of Syracuse"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Goodyear building demolished in 2024-2025, site converted to parking lot",
+    "Brief segment with minimal substantive discussion",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 12 of 19 from Common Council Study Session, January 21st 2026"
+  ],
+  "last_relevance_update": null
+}

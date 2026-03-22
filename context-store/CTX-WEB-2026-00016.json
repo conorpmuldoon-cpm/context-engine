@@ -1,0 +1,43 @@
+{
+  "record_id": "CTX-WEB-2026-00016",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Archives",
+  "publication_date": "2026-03-22",
+  "capture_date": "2026-03-22T10:11:42Z",
+  "title": "Archives – City of Syracuse",
+  "summary": "This is an archives page from the City of Syracuse website dated 2026-03-22, serving as a navigation hub for historical content and city services. The page contains contact information, social media links, and quick links to city resources, but does not contain substantive policy, initiative, or decision content relevant to innovation operations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "transparency",
+    "digital-services"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SFO-MAYOR-SYR"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "This is a structural/navigational page with minimal substantive content",
+    "No specific initiatives, decisions, or announcements are present",
+    "Page serves archival/administrative purposes rather than conveying policy information",
+    "Author field is unknown; likely auto-generated or system-managed page",
+    "Recommend filtering out similar structural pages from CIO briefing workflows unless tracking digital infrastructure changes",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

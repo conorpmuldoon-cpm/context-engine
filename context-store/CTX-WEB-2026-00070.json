@@ -1,0 +1,86 @@
+{
+  "record_id": "CTX-WEB-2026-00070",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-11-25-Infrastructure-News-1240-PM",
+  "publication_date": "2024-11-25",
+  "capture_date": "2026-03-22T14:21:24Z",
+  "title": "County and City Announce Details of Free Water Filter Distribution",
+  "summary": "Onondaga County and City of Syracuse are distributing free Brita Elite water filters to households with pregnant women and children under six due to potential lead contamination from lead service lines. Distribution begins November 25 at WIC program and Salvation Army sites, with school-based distribution planned for December. This addresses public health concerns stemming from earlier sampling protocol errors.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "lead-remediation",
+    "equity",
+    "residents",
+    "intergovernmental",
+    "initiative-launch",
+    "federal-programs"
+  ],
+  "department_refs": [
+    "Office of Communications",
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Kathryn Anderson",
+      "type": "person",
+      "canonical_id": "PERSON-KATHRYN-ANDERSON"
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    },
+    {
+      "name": "Syracuse City School District",
+      "type": "organization",
+      "canonical_id": "ORG-SCSD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "County Executive and Mayor jointly announce proactive health protection measure for vulnerable populations; acknowledges sampling protocol errors and commits to remediation through accessible filter distribution.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00069"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown; byline likely from Office of Communications",
+    "Press release acknowledges past data quality issue (sampling protocol errors)",
+    "Lead remediation program appears to be response to earlier EPA standard concerns",
+    "Multi-channel distribution strategy suggests equity focus (WIC, schools, daycares)",
+    "No budget dollar amounts specified in release",
+    "Health Commissioner quote adds public health legitimacy and provides citizen guidance",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag corrected: 'health-equity' replaced with 'equity' (2026-03-22)",
+    "Tag corrected: 'vulnerability-populations' removed (covered by 'equity') (2026-03-22)",
+    "Potential duplicate of CTX-WEB-2026-00069 — linked for review"
+  ],
+  "last_relevance_update": null
+}

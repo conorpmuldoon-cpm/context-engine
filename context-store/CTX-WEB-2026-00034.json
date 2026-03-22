@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-WEB-2026-00034",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-01-09-Infrastructure-News-830AM",
+  "publication_date": "2026-01-09",
+  "capture_date": "2026-03-22T14:14:16Z",
+  "title": "Mayor Owens Announces Release of 2026 City Services Guide",
+  "summary": "Mayor Sharon Owens announced the 2026 City Services Guide will be mailed to residents starting January 26, 2026. The guide, produced by the Department of Public Works, consolidates service information, schedules, and contact details across city departments. The announcement emphasizes digital accessibility through SYRCityline (mobile app and web portal) for service requests and real-time updates.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "residents",
+    "service-requests",
+    "digital-services",
+    "infrastructure",
+    "sewer",
+    "snow-removal",
+    "transparency",
+    "neighborhood-services",
+    "recurring"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "SYRCityline",
+      "type": "system",
+      "canonical_id": "SYS-SYRCITYLINE"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor signals commitment to resident communication, service accessibility, and transparency through modernized service delivery channels (digital-first approach with SYRCityline).",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No dollar amounts or budget figures provided",
+    "Author field was blank in source material",
+    "Date discrepancy: article published Jan 9, 2026 but guide distribution begins Jan 26, 2026 (17-day lead time)",
+    "Strong emphasis on digital service requests and non-emergency channels suggests IT infrastructure modernization initiative",
+    "Press contact routed through Office of Communications per standard protocol",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

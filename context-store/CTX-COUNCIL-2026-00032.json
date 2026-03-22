@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00032",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=7fCCamsh6U0&t=2212s",
+  "publication_date": "2026-02-23",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Carmelita Sapp-Walker 30-Year Service Resolution",
+  "summary": "Councilor Nave presents resolution honoring Carmelita Sapp-Walker for 30 years of service to the Common Council office. Walker shares that she treated every call as if it were from her mother, wanting each person to be received, respected, and helped. Resolution passes unanimously.",
+  "raw_content": "[00:36:52] >> Item 26. Any objections? Any discussion?\n[00:36:57] Please call the RO.\n[00:36:58] >> All in favor? I oppose. Unanimous.\n[00:37:01] >> Councelor Nav.\n[00:37:02] >> Thank you, Madam President.\n[00:37:05] I'm honored to present resolution 27\n[00:37:08] honoring Carmelita Sap Walker for her\n[00:37:12] extra extraordinary service and\n[00:37:15] contribution to the Syracuse Common\n[00:37:17] Council office and for the city of\n[00:37:19] Syracuse for 30 years. And I ask for its\n[00:37:22] adoption.\n[00:37:24] vote first before we cut. [laughter]\n[00:37:26] >> You guys can do whatever you want.\n[00:37:30] [applause and cheering]\n[00:37:35] [applause]\n[00:37:44] [applause]\n[00:37:45] Carmelita,\n[00:37:48] can you come forward? Say a few words.\n[00:37:57] Good afternoon. And this is the first\n[00:37:58] time I ever had to do something like\n[00:38:00] this, but [laughter] I um feel very\n[00:38:03] honored to be recognized for things that\n[00:38:07] I've done through the year. And one\n[00:38:09] person I'm going to share this honor\n[00:38:12] with is my mother who's not here, but I\n[00:38:15] used to always say\n[00:38:18] when I got a call that if my mother,\n[00:38:21] this was my mother calling, how would I\n[00:38:24] want her to be received and respected\n[00:38:27] and helped? And that's what kept me\n[00:38:29] going every day and doing my job and\n[00:38:33] doing it the way I did it. And I didn't\n[00:38:35] do it for me. I did it for the\n[00:38:38] counselors because they were elected\n[00:38:42] officials. I was just a secretary and I\n[00:38:46] wanted them to shine. So whatever I\n[00:38:50] could do as a person, that's what I did\n[00:38:53] for the years. And I and I really thank\n[00:38:57] you all for feeling that I deserve this\n[00:39:00] kind of recognition. Thank you.\n[00:39:04] THANK YOU. [applause]",
+  "transcript_ref": "outputs/transcripts/7fCCamsh6U0_corrected.txt",
+  "topic_tags": [
+    "council",
+    "vote"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Marino L. Nave",
+      "type": "person",
+      "canonical_id": "PERSON-NAVE-COUNCIL"
+    },
+    {
+      "name": "Carmelita Sapp-Walker",
+      "type": "person"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Marino L. Nave",
+      "role": "Councilor, District 1",
+      "confidence": "high"
+    },
+    {
+      "name": "Carmelita Sapp-Walker",
+      "role": "Common Council staff (30 years)",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 3 of 10 from Common Council Regular Meeting, Monday February 23rd 2026"
+  ],
+  "last_relevance_update": null
+}

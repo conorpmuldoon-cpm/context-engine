@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-WEB-2026-00006",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Parks-News/Parks-2026/2026-03-10-Parks-News-3PM",
+  "publication_date": "2026-03-22",
+  "capture_date": "2026-03-22T10:09:45Z",
+  "title": "Traffic Advisory & Street Closure Notice for 2026 St. Patrick's Parade",
+  "summary": "The City of Syracuse announced street closures and traffic advisories for the 2026 St. Patrick's Day Parade on March 14, 2026, with preparatory activities on March 13. The notice provides detailed closure information for 19+ street segments in downtown Syracuse and includes directional guidance for residents accessing downtown from four cardinal directions. This represents routine event management and public communication by Parks & Recreation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "parks",
+    "roads-bridges",
+    "road-closure-fees",
+    "construction-staging",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-sharon-f-owens"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-city-of-syracuse"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Publication date listed as March 10, 2026; article metadata shows March 22, 2026 - likely posting vs. event date discrepancy",
+    "No budget implications or resource costs mentioned",
+    "Author field marked 'Unknown' in source metadata",
+    "Standard public notice format with high specificity for traffic routing",
+    "No CIO-specific technology, digital services, or data governance implications detected",
+    "Event is cultural/civic (St. Patrick's Parade) rather than policy or governance-focused",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

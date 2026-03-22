@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-WEB-2026-00005",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-10-Infrastructure-News-1255-PM",
+  "publication_date": "2026-03-22",
+  "capture_date": "2026-03-22T10:09:34Z",
+  "title": "Mayor Sharon F. Owens Announces the Return of Veo Fleet",
+  "summary": "Mayor Sharon F. Owens announced the return of Veo's micromobility fleet to full capacity on March 9, 2026, following seasonal winter reduction. The 2025 program achieved 648,000 rides and 1M+ miles with 24% year-over-year growth. The 2026 operating agreement includes new cargo baskets, enhanced community education, accessibility improvements, and continued financial contributions to the city.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "micromobility",
+    "announcement",
+    "initiative-launch",
+    "residents",
+    "sustainability",
+    "transportation",
+    "equity",
+    "accessibility",
+    "PROVISIONAL:shared-mobility"
+  ],
+  "department_refs": [
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS-MAYOR"
+    },
+    {
+      "name": "Veo",
+      "type": "organization",
+      "canonical_id": "ORG-VEO-MICROMOBILITY"
+    },
+    {
+      "name": "Candice Xie",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor explicitly frames Veo as aligned with city goals around safer streets, sustainable transportation, and equitable mobility (66% of riders lack car access; 52% use for transit connections). Demonstrates administration commitment to Vision Zero and multimodal transportation infrastructure.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Publish date metadata conflict: title shows 2026-03-22 but article body shows 'Published on March 10, 2026' — used body date as authoritative",
+    "URL contains date 2026-03-10 confirming March 10 publication",
+    "Financial contribution amount not specified in agreement details",
+    "Strong data integration signal: rider survey (750+ participants) and usage metrics suggest mature data collection for program evaluation",
+    "Accessibility framing (underage prevention, discounted rates, cargo functionality) indicates equity-focused policy approach",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'sustainability' not in taxonomy",
+    "Tag warning: Unknown tag 'transportation' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

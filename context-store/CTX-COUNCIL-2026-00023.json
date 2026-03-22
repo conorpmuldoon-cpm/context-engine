@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00023",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=-ZsKhcHXTd4&t=2065s",
+  "publication_date": "2026-01-07",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Property Foreclosure Redemption Timelines and Community Outreach for Land Bank Transfers",
+  "summary": "Councilor Jones-Rowser clarifies property foreclosure redemption rights: vacant lots have 5-6 month window, structures 8-10 months, even after council action. NBD staff and councilors conduct extensive community outreach to property owners in foreclosure. Item 30 withdrawn pending internal discussion on long-term land use plans.",
+  "raw_content": "[00:34:25] actually like to withdraw item 30. Um I\n[00:34:27] did have a conversation with Caitlyn um\n[00:34:30] regarding long-term [snorts] land use.\n[00:34:31] So I think we just need to speak\n[00:34:32] internally about what we'll do there.\n[00:34:34] >> Okay. So that was already a carryover\n[00:34:37] that we had concerns about.\n[00:34:39] >> All right. [snorts]\n[00:34:40] >> Are these all vacant lots or are these\n[00:34:42] one of these? Um, one of them\n[00:34:43] [clears throat] had one of them said\n[00:34:45] masonry building. So, I need to um Oh,\n[00:34:47] we did talk about that one. Yes. So, we\n[00:34:49] are moving that just Yeah. So, yeah,\n[00:34:51] these are all are moving. Um, but I do\n[00:34:55] want to just state um, and Kimone or\n[00:34:57] Michael, you guys can correct me um, if\n[00:35:00] I'm wrong, but anyone who finds\n[00:35:02] themselves in the foreclosure process\n[00:35:05] with the city um, still has the ability\n[00:35:08] to redeem um, within as far as vacant\n[00:35:12] lots, I would say 5 to 6 months. And as\n[00:35:14] far as um, structural um, houses or\n[00:35:18] buildings um, 8 to 10 months. they still\n[00:35:21] have the ability to redeem while the\n[00:35:23] city is working their process. Um, so I\n[00:35:26] just want to put that out there for\n[00:35:28] people who may think that, oh, it's a\n[00:35:31] done deal. You still have time. Um, and\n[00:35:34] we do extensive outreach. The the the\n[00:35:37] the uh MBD staff as well as myself,\n[00:35:40] Rashidita has also been doing some many\n[00:35:42] of the council have done um outreach as\n[00:35:45] well. So even with that, once it hits\n[00:35:49] this table and it moves forward, there's\n[00:35:51] still months of possibility to redeem.\n[00:35:54] So\n[00:35:56] >> thank you for bringing that up. Yes,\n[00:35:57] that's important.\n[00:35:59] >> All right. Any additional questions?\n[00:36:03] >> Right. Thank you, counselors.\n[00:36:04] >> Thank you.\n[00:36:06] >> Um, thank you, Councelor Jones Rouser.\n[00:36:08] We're moving to councelor Mont.\n[00:36:10] >> Thank you, President Piaqua. I have",
+  "transcript_ref": "outputs/transcripts/-ZsKhcHXTd4_corrected.txt",
+  "topic_tags": [
+    "housing",
+    "code-enforcement",
+    "neighborhood-services",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Greater Syracuse Property Development Corporation",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Patrona Jones-Rowser",
+      "type": "person",
+      "canonical_id": "PERSON-JONES-ROWSER-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Patrona Jones-Rowser",
+      "role": "Council Member",
+      "affiliation": "Syracuse Common Council"
+    },
+    {
+      "name": "Kimone Jordan",
+      "role": "Director of Housing and Neighborhood Planning",
+      "affiliation": "Department of Neighborhood and Business Development"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "mixed",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Redemption timelines: 5-6 months for vacant lots, 8-10 months for structures",
+    "Caitlyn referenced for long-term land use discussion — not in entity registry",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 17 of 19 from Common Council Study Session, Wednesday, January 7th 2026",
+    "Potential duplicate detected: overlaps with CTX-COUNCIL-2026-00022 -- linked, not skipped"
+  ],
+  "last_relevance_update": null
+}

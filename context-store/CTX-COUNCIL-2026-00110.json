@@ -1,0 +1,51 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00110",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=oUKVthl47R8&t=547s",
+  "publication_date": "2026-01-26",
+  "capture_date": "2026-03-21T23:23:19Z",
+  "title": "Donna Reese Honorary Street Sign Installation Planning",
+  "summary": "Council member Jones-Rowser presents items 33-42; item 33 (building code update) continues to be held. Announces honorary street sign for Donna Reese with installation planned for February 20th or 27th; date to be announced at next meeting. Full history of Donna Reese to be presented at next study session. All council members agreed to co-sponsor.",
+  "raw_content": "[00:09:07] >> Thank you, Madam President. I have items\n[00:09:08] 33 through 42. Um item 33 will continue\n[00:09:13] to be held. Um I believe all other\n[00:09:15] items. Yes. All other items are ready.\n[00:09:18] Um we also have the honorary street sign\n[00:09:22] for U. Mrs. Donna Reese\n[00:09:26] um that we will we're looking to um\n[00:09:29] install either February 20th or 27th. We\n[00:09:33] that date will be determined um soon and\n[00:09:37] it will be announced um at our next\n[00:09:39] meeting. Uh I'll give the history of\n[00:09:43] Donna at our study session. that you\n[00:09:46] might um invite other counselors on\n[00:09:48] board.\n[00:09:48] >> Yes. Um all the other counselors did\n[00:09:50] agree to uh go in on that. Yes. And\n[00:09:54] thank you guys.\n[00:09:55] >> Thank you very much. Uh councelor",
+  "transcript_ref": "outputs/transcripts/oUKVthl47R8_corrected.txt",
+  "topic_tags": [
+    "neighborhood-services",
+    "council"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Patrona Jones-Rowser",
+      "type": "person",
+      "canonical_id": "PERSON-JONES-ROWSER-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Patrona Jones-Rowser",
+      "role": "Common Councilor, District 4",
+      "affiliation": "Syracuse Common Council"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Unanimous council support for community recognition of longtime resident",
+    "confidence": "high"
+  },
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Connects to Jan 21 study session seg 16 (-26j2mt6jMU) where honorary sign was first introduced",
+    "Installation date and full history to be presented at following sessions",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 8 of 11 from Common Council Study Session, January 26th 2026"
+  ],
+  "last_relevance_update": null
+}

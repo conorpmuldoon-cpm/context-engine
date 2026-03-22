@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-WEB-2026-00055",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-02-07-Infrastructure-News-11-AM",
+  "publication_date": "2025-02-07",
+  "capture_date": "2026-03-22T14:18:33Z",
+  "title": "Mayor Announces Open Houses for Vision Zero Traffic Safety Initiative",
+  "summary": "Mayor Ben Walsh announced four Vision Zero Initiative open houses scheduled throughout February 2025 across Syracuse's four quadrants to engage residents on traffic safety goals and the Vision Zero Action Plan. The initiative aims to eliminate all traffic fatalities and severe injuries through infrastructure improvements including sidewalk programs, automated school zone enforcement, speed cushions, and bicycle infrastructure.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "vision-zero",
+    "announcement",
+    "initiative-launch",
+    "transportation",
+    "public-safety-commission",
+    "infrastructure",
+    "equity",
+    "residents",
+    "roads-bridges",
+    "micromobility",
+    "snow-removal"
+  ],
+  "department_refs": [
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-OWENS-EXEC"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor-led public engagement on Vision Zero demonstrates executive commitment to traffic safety as a strategic priority. Four geographically distributed open houses signal inclusive, equitable outreach across city quadrants.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in source metadata; actual author likely City Communications Office",
+    "Sharon F. Owens referenced in navigation menu but not in article body; appears to be legacy template content",
+    "Vision Zero Action Plan is in development phase; open houses are input-gathering mechanism",
+    "Four specific locations and times provide clear CIO/operations tracking data for attendance and engagement metrics",
+    "Related infrastructure initiatives (sidewalk programs, enforcement, signal updates) suggest ongoing cross-departmental coordination",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

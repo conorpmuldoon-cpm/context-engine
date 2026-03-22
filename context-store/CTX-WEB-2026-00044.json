@@ -1,0 +1,66 @@
+{
+  "record_id": "CTX-WEB-2026-00044",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Parks-News/Parks-2025/2025-06-16-Parks-News-1015-AM",
+  "publication_date": "2025-06-16",
+  "capture_date": "2026-03-22T14:16:15Z",
+  "title": "Department of Parks to Restore Hanover Square Fountain",
+  "summary": "The City of Syracuse Department of Parks will begin rehabilitating the historic Hanover Square Fountain starting June 16, 2025, through late fall 2025. The project includes restoration of the 1981 fountain structure, new lighting and mechanical infrastructure, enhanced landscaping, and accessibility improvements. This represents a capital investment in downtown revitalization and public space quality.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "parks",
+    "infrastructure",
+    "historic-preservation",
+    "capital-planning",
+    "accessibility",
+    "announcement",
+    "construction-staging"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation & Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Syeisha Byrd",
+      "type": "person",
+      "canonical_id": "PERSON-BYRD-PARKS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Downtown revitalization and public space investment aligned with mayoral priorities for cultural/architectural enhancement and resident quality of life.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00043"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No budget amount specified in release; recommend cross-reference with capital projects database for funding details.",
+    "Commissioner Byrd's first name not provided; recommend canonical validation.",
+    "Project timeline spans 5+ months with defined work hours (7 AM–5 PM weekdays); minimal service disruption planned.",
+    "Contact number provided (315-473-4330) for constituent inquiries.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00043 — linked for review"
+  ],
+  "last_relevance_update": null
+}

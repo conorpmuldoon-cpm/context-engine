@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00089",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=m56feIFbY6s&t=3094s",
+  "publication_date": "2026-03-04",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "HUD Environmental Review Officer Designation and Property Disposition Updates",
+  "summary": "Kimone Jordan (NBD Director of Housing) presents item 30: designating Deputy Commissioner Dishaw as environmental review certifying officer per new HUD guidance that preparers cannot sign off on their own reviews. NBD staff will prepare NEPA/SEQR reviews; Dishaw will certify. Brief property updates: 635-637 North McBride Street in final 30-day surplus/foreclosure notice from Law Department; 532 Court Street going to land bank resolution before council.",
+  "raw_content": "[00:51:34] >> We have item 30. Also, Jake, um, if you\n[00:51:36] can just give I'm cuz I'm confused by\n[00:51:41] >> Oh, uh, I'll I'll try to do my best.\n[00:51:43] >> Oh, Kimone used to do it. It's going\n[00:51:46] from Kimone to me, so I'll let her talk\n[00:51:47] about it.\n[00:51:47] >> Okay.\n[00:51:49] >> All right. Good afternoon, counselors.\n[00:51:50] Kimone Jordan, director of housing and\n[00:51:52] neighborhood planning. So, this is a\n[00:51:54] request to have uh, deputy commissioner\n[00:51:56] Desaw named as the environmental review\n[00:51:58] certifying officer. So, for every\n[00:52:00] project that we put federal funds into,\n[00:52:02] we need to complete an environmental\n[00:52:04] review. We were informed by HUD a few\n[00:52:06] weeks ago that the person preparing the\n[00:52:08] review cannot be the person that signs\n[00:52:10] off. So, we would have NBD staff like\n[00:52:12] myself, um, people in zoning who would\n[00:52:15] complete the review and then Jake would\n[00:52:16] just sign off as the officer.\n[00:52:18] >> So, on CPC, is Mera that person? Does\n[00:52:24] Mera do that [clears throat]\n[00:52:27] >> in zoning? So, I'm conducting the\n[00:52:29] environmental reviews currently.\n[00:52:31] >> I'm sorry.\n[00:52:34] >> The the officeration\n[00:52:37] does the uh seeker reviews. Uh mayor um\n[00:52:41] is just the land use attorney from corp\n[00:52:43] council that's staffing um the zoning\n[00:52:46] office and our boards. Um but the staff\n[00:52:49] do the reviews and ultimately um as\n[00:52:52] zoning administrator it falls under my\n[00:52:54] purview. So I think what Kimon's saying\n[00:52:56] is this would just shift um in align\n[00:52:59] with that\n[00:53:00] >> path to you.\n[00:53:01] >> It would shift from her to me.\n[00:53:03] >> Oh. From you to her. Okay.\n[00:53:04] >> Yes. So this is\n[00:53:07] >> because you're the writer.\n[00:53:08] >> So I'm the currently I am the preparer.\n[00:53:11] So I'm doing the review and I'm signing\n[00:53:13] off on them.\n[00:53:14] >> Okay.\n[00:53:14] >> We I can't do both. So Jake will sign\n[00:53:16] off and I will do the reviews. Okay.\n[00:53:18] >> And NEPA is separate from Seeker.\n[00:53:20] There's two separate environmental\n[00:53:21] review processes.\n[00:53:22] >> Okay.\n[00:53:25] Come on. I have one question. Sure. Uh,\n[00:53:27] >> can you give me an update on the 635 637\n[00:53:31] East Well, North McBride Street?\n[00:53:34] >> Yeah. So, from my understanding, I\n[00:53:35] believe the law department was working\n[00:53:36] to send out the final 30-day and surplus\n[00:53:39] notice to foreclose. I can take a look\n[00:53:41] and follow up.\n[00:53:42] >> Please do. All right. I appreciate.\n[00:53:43] Thank you.\n[00:53:44] >> And I know you had another court street\n[00:53:45] address that you were curious about.\n[00:53:46] >> Yeah. 532 as well.\n[00:53:48] >> So, it'll go before the land bank for a\n[00:53:50] resolution. After that, we can bring it\n[00:53:51] before council.\n[00:53:52] >> Okay. Thank you.\n[00:53:55] >> Any questions?\n[00:53:57] >> Thank you.\n[00:53:58] >> You all set?\n[00:54:01] >> Yeah.\n[00:54:01] >> Yes.\n[00:54:02] >> Councelor Monto,",
+  "transcript_ref": "outputs/transcripts/m56feIFbY6s_corrected.txt",
+  "topic_tags": [
+    "housing",
+    "federal-programs",
+    "zoning",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Kimone Jordan",
+      "type": "person"
+    },
+    {
+      "name": "Jake Dishaw",
+      "type": "person",
+      "canonical_id": "PERSON-DISHAW-CODE"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Kimone Jordan",
+      "role": "Director of Housing and Neighborhood Planning",
+      "confidence": "high"
+    },
+    {
+      "name": "Jake Dishaw",
+      "role": "Deputy Commissioner, Code Enforcement and Zoning",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "NEPA and SEQR are separate environmental review processes. HUD = US Department of Housing and Urban Development. All federally funded projects require environmental review.",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 11 of 14 from Common Council Study Session, Wednesday March 4th 2026",
+    "Transcript corrections applied: SU -> Syracuse University"
+  ],
+  "last_relevance_update": null
+}

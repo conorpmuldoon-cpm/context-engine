@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-WEB-2026-00011",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2023",
+  "publication_date": "2026-03-22",
+  "capture_date": "2026-03-22T10:10:45Z",
+  "title": "City 2023",
+  "summary": "Mayor Ben Walsh appointed Ryan Shiel as Director of Code Enforcement within the Department of Neighborhood and Business Development. This leadership appointment signals continued focus on code enforcement operations and neighborhood development priorities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "leadership-change",
+    "department-head",
+    "hiring",
+    "code-enforcement"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-ben-walsh-mayor"
+    },
+    {
+      "name": "Ryan Shiel",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayoral appointment of director-level staff indicates executive commitment to code enforcement and neighborhood development as operational priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date (2026-03-22) is future-dated relative to publication date (2023-12-27); publication date is authoritative",
+    "Department name in mechanical extractions ('Department of Permits and Development') does not match article text ('Department of Neighborhood and Business Development'); article text used as canonical",
+    "Minimal biographical information on appointee; recommend cross-reference with civil service records",
+    "No budget, contract, or policy implications mentioned",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

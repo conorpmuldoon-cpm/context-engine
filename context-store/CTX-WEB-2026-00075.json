@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-WEB-2026-00075",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-11-01-Infrastructure-News-9AM",
+  "publication_date": "2024-11-01",
+  "capture_date": "2026-03-22T14:22:21Z",
+  "title": "Water Crews Working to Repair Water Main Break on East Fayette Street",
+  "summary": "The City of Syracuse Department of Water is repairing a water main break on East Fayette Street (2000 block), causing water service disruptions and street closures between Croly Street and Westmoreland Avenue. Vehicle traffic is redirected; sidewalks remain open. Residents and businesses can contact the Department of Water for updates.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "infrastructure",
+    "service-requests",
+    "announcement",
+    "construction-staging",
+    "roads-bridges",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    },
+    {
+      "name": "Office of Communications",
+      "type": "organization",
+      "canonical_id": "ORG-COMMUNICATIONS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown; press contact is Office of Communications (press@syr.gov)",
+    "Sharon F. Owens mentioned in navigation/header but not substantively in press release content",
+    "No budget impact, timeline for completion, or root cause analysis provided",
+    "Standard utility maintenance notification; operational rather than policy-driven",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,78 @@
+{
+  "record_id": "CTX-WEB-2026-00076",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/2024/2024-10-18-Infrastructure-News-530PM",
+  "publication_date": "2024-10-18",
+  "capture_date": "2026-03-22T14:22:34Z",
+  "title": "Department of Water Releases Citywide Water Service Inventory",
+  "summary": "The Department of Water released a citywide water service line inventory compliant with EPA regulations, allowing residents to identify their service line material. Recent lead sampling results (10 ppb at 90th percentile) showed improvement from August findings, with exceedances in only 5 of 115 sampled homes. The City committed to replacing over 3,000 lead service lines in the coming year using $22.8M in state funding.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "lead-remediation",
+    "infrastructure",
+    "transparency",
+    "data-governance",
+    "federal-programs",
+    "state-mandates",
+    "state-agency",
+    "residents",
+    "announcement",
+    "recurring"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "U.S. Environmental Protection Agency",
+      "type": "organization",
+      "canonical_id": "ORG-EPA"
+    },
+    {
+      "name": "New York State Department of Health",
+      "type": "organization",
+      "canonical_id": "ORG-NYSDOH"
+    },
+    {
+      "name": "Onondaga County Health Department",
+      "type": "organization",
+      "canonical_id": "ORG-OCHD"
+    },
+    {
+      "name": "Skaneateles Lake",
+      "type": "system",
+      "canonical_id": "SYS-SKANEATELES-LAKE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Lead service line replacement elevated as top priority with significant state funding commitment ($22.8M) and accelerated replacement targets (3,000+ lines); demonstrates alignment with EPA regulatory compliance and public health priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount in mechanical extraction incomplete: corrected to $22.8 million",
+    "Mayor mentioned in byline context but not directly quoted; retained as entity reference",
+    "No department head mentioned by name; Office of Communications listed for media contact",
+    "Sampling data shows improvement trajectory (August outlier vs. H2 2024 results) - potential narrative control element",
+    "CIO relevance: GIS/mapping system (syr.gov/water inventory tool) and data collection mechanism for service line identification",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-WEB-2026-00110",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-09-08-Infrastructure-News-1400",
+  "publication_date": "2023-09-08",
+  "capture_date": "2026-03-22T14:29:05Z",
+  "title": "Mayor Walsh Announces Repaving West Genesee Street Near Downtown",
+  "summary": "Mayor Ben Walsh announced a West Genesee Street repaving project near downtown Syracuse beginning September 11, 2023, involving milling and paving from North Clinton Street to West Street. The project is part of the \"Dig Once\" initiative coordinating with utility providers to replace underground infrastructure and minimize future excavations, with work expected to complete in one week during daytime hours while keeping roads open.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "roads-bridges",
+    "infrastructure",
+    "construction-staging",
+    "announcement",
+    "sustainability",
+    "PROVISIONAL:dig-once-program"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor publicly championing coordinated infrastructure investment that reduces future disruption and demonstrates efficient use of public resources through Dig Once coordination model.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in source metadata; actual author is City Communications Office",
+    "Date discrepancy: Title header shows 2024 breadcrumb but article date is 2023-09-08; content is internally consistent with September 2023",
+    "Sharon F. Owens appears in page header navigation but is not mentioned in article body; Ben Walsh is the acting Mayor in this announcement",
+    "No budget figures provided; no dollar amounts extracted",
+    "Utility coordination aspect suggests involvement of multiple infrastructure systems (water, sewer, telecom, gas) but specific departments not named",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,77 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00072",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=i9Nn-8_gM4I&t=4907s",
+  "publication_date": "2026-03-18",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Parkside Appraisal, Litigation Appraisal, Railroad Billboard Tax Correction",
+  "summary": "Michael Layman presents: Item 44 -- hiring appraiser for 1939 Fayette St East property in contemplation of sale to Parkside Commons; Councilor Nave notes Parkside has new property management crew as of last month. Item 45 -- independent trial-ready appraisal for ongoing litigation. Item 46 -- tax roll correction for four railroad properties with billboards inadvertently classified as Section 7 (railroad use), returning to Section 1 (fully taxable). Item 47 (executive session on pending settlement) deferred to Monday.",
+  "raw_content": "[01:21:47] item 44. The Department of Assessment\n[01:21:50] requests the hiring of an appraiser for\n[01:21:52] the property at 1939 Fiat Street East to\n[01:21:56] Ives um in contemplation of its sale.\n[01:22:00] >> And that's all the Parkside.\n[01:22:02] >> Uh yes, the applicant to purchase\n[01:22:03] Parkside comments.\n[01:22:08] >> Thank you.\n[01:22:10] Um,\n[01:22:12] >> I just want to let everybody know that\n[01:22:14] the Parkside Commons has a new um\n[01:22:17] >> new uh maintenance crew or property\n[01:22:19] management crew as of last month.\n[01:22:22] >> Okay,\n[01:22:24] >> Commissioner.\n[01:22:25] >> No, Councelor N, we're looking for a new\n[01:22:26] director of operations. I think you just\n[01:22:28] volunteered for a basement project.\n[01:22:30] [laughter]\n[01:22:32] >> Uh, we're requesting another appraisal.\n[01:22:33] This one is for ongoing litigation.\n[01:22:36] looking for an independent appraisal uh\n[01:22:37] to take to court.\n[01:22:40] >> And this does say trial ready, not trail\n[01:22:43] ready. Is that correct?\n[01:22:45] >> We're going to keep it indoors. Yeah,\n[01:22:46] >> just checking.\n[01:22:49] >> 46. We're requesting uh modification of\n[01:22:51] the tax roles. This is uh you might\n[01:22:53] remember that\n[01:22:55] >> larger role amendment that we brought a\n[01:22:56] few weeks ago with respect to railroad\n[01:22:58] properties. Four of these in\n[01:23:01] inadvertently included um billboards on\n[01:23:03] railroad properties. So these should not\n[01:23:05] be rule section seven. They should be\n[01:23:06] roll section one returning to fully\n[01:23:08] taxable railroad owned not railroad\n[01:23:10] used.\n[01:23:13] Finally 47 I think we'll go to executive\n[01:23:15] session on that. Discuss pending\n[01:23:16] settlement.\n[01:23:16] >> Um and madam president given the time\n[01:23:18] and the duration of our meeting I\n[01:23:20] request that we do that on Monday.\n[01:23:21] >> Okay.\n[01:23:22] >> If that works for you and for\n[01:23:23] corporation council.\n[01:23:24] >> Great. Thank you.\n[01:23:27] >> Um I'm all set. Thank you madam\n[01:23:29] president.\n[01:23:29] >> Thank you. Uh, councelor Joneser.",
+  "transcript_ref": "outputs/transcripts/i9Nn-8_gM4I_corrected.txt",
+  "topic_tags": [
+    "housing",
+    "tax-revenue",
+    "land-use",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Assessment"
+  ],
+  "entity_refs": [
+    {
+      "name": "Marino L. Nave",
+      "type": "person",
+      "canonical_id": "PERSON-NAVE-COUNCIL"
+    },
+    {
+      "name": "Corey J. Williams",
+      "type": "person",
+      "canonical_id": "PERSON-WILLIAMS-COUNCIL"
+    },
+    {
+      "name": "Michael Layman",
+      "type": "person",
+      "canonical_id": "PERSON-LAYMAN-ASSESSMENT"
+    },
+    {
+      "name": "Parkside Commons",
+      "type": "organization"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Michael Layman",
+      "role": "Deputy Commissioner, Assessment",
+      "confidence": "high"
+    },
+    {
+      "name": "Marino L. Nave",
+      "role": "Councilor, District 1",
+      "confidence": "medium"
+    },
+    {
+      "name": "Corey J. Williams",
+      "role": "Councilor, District 3",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-PARKSIDE-COMMONS-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Parkside Commons appraisal relates to larger development project. Railroad tax correction follows a larger roll amendment from prior weeks -- four billboards on railroad property inadvertently classified as railroad-use (Section 7) instead of fully taxable (Section 1).",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 20 of 23 from Common Council Study Session, Wednesday March 18th 2026",
+    "Transcript corrections applied: CNS -> CNS Engineers; SU -> Syracuse University"
+  ],
+  "last_relevance_update": null
+}

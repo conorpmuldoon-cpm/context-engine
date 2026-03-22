@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00132",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=rv3OkGSe59c&t=3066s",
+  "publication_date": "2026-02-04",
+  "capture_date": "2026-03-21T23:23:19Z",
+  "title": "Mosaic Consulting UKG Pro Contract Approval and Payroll Modernization Funding Clarification",
+  "summary": "Council member Williams presents Mosaic Consulting Group agreement for UKG Pro software implementation (payroll modernization) following previous day's committee meeting. Budget staff clarifies: $6.25M previously approved, $3.7M spent, approximately $2.5M remaining — no new funding requested. Contract is 18-month term from execution. Council identifies need for new request letter with corrected timeframe (originally introduced Sept/Oct 2025). Item 41 deferred to Wednesday executive session. Also: IT Director presents item 42 opening discussion.",
+  "raw_content": "[00:51:06] >> Thank you, Madam President. I have items\n[00:51:08] 40 through 43. Um item 40 is the\n[00:51:12] agreement with Mosaic that we had a\n[00:51:15] committee meeting about yesterday. Um\n[00:51:18] we'll work with the administration to\n[00:51:20] figure out a plan moving forward with\n[00:51:21] that. Um 41 will be in\n[00:51:24] >> council. Just one update on the mosaic\n[00:51:26] contract. Um just did want to confirm um\n[00:51:30] so the funds for that project have\n[00:51:31] already been approved with the the prior\n[00:51:33] iterations of payroll modernization. So\n[00:51:35] we had uh 6.25 million approved. Um\n[00:51:38] we've spent down 3.7 million. So we\n[00:51:40] still have about 2 and a.5 million\n[00:51:42] available in that project. So we aren't\n[00:51:43] asking for any more uh funding. And then\n[00:51:46] additionally um just in the the letter\n[00:51:48] it says the it's it's expiring March\n[00:51:50] 2027. This would be an 18-month\n[00:51:52] contract. So then that would um you know\n[00:51:54] go through about June or July of 2027.\n[00:51:56] So, thank you.\n[00:51:58] >> Mike, wait a second. So, make\n[00:52:00] >> clear that up for me. So, you're saying\n[00:52:02] all we would if what you'd be asking us\n[00:52:04] to do with this instead of spending\n[00:52:06] additional money, we would be approving\n[00:52:08] the contract, spending money that's\n[00:52:09] already approved. So, right. Yes. Okay.\n[00:52:11] Correct. [snorts]\n[00:52:12] >> Um,\n[00:52:14] we have to if money already approved,\n[00:52:15] why do we have to switch up the\n[00:52:18] contract?\n[00:52:18] >> We're approving the contract.\n[00:52:20] >> Determine the contract ended or\n[00:52:21] something.\n[00:52:22] >> Yeah.\n[00:52:22] >> Well, we we haven't entered into a\n[00:52:24] contract with Mosaic. We're looking to\n[00:52:25] enter into a contract.\n[00:52:26] >> That's what we're having the discussion.\n[00:52:28] >> So, we would uh we would need new\n[00:52:29] requests\n[00:52:31] up on that, wouldn't we, Joe? Because\n[00:52:33] I'm kind of confused.\n[00:52:34] >> Sounds like\n[00:52:36] >> time frame is changing, right?\n[00:52:37] >> Yeah. Because I think this uh this item\n[00:52:39] was uh originally introduced I think in\n[00:52:41] October or maybe September of uh 25. So,\n[00:52:44] it's an 18-month contract. So, really\n[00:52:46] once in, you know, it's in inception,\n[00:52:48] then we're looking at 18 months from\n[00:52:49] there. Absolutely. So, I think we're\n[00:52:51] going to need another request letter\n[00:52:52] because basically you're going to um\n[00:52:54] you're asking for to use a previous fund\n[00:52:57] in an account already. Um so, you\n[00:52:59] entering an agreement in an agreement\n[00:53:01] with this company here. Uh we're waving\n[00:53:04] RFP process or\n[00:53:05] >> No, no, we did an RFP.\n[00:53:06] >> All right. So, we enter into the uh\n[00:53:08] enter a contract with this person here\n[00:53:11] um to use money in account such as such\n[00:53:13] and such.\n[00:53:13] >> Yep.\n[00:53:14] >> Okay. So, that's what we're going to do.\n[00:53:15] >> In a new time\n[00:53:16] >> in a new time frame.\n[00:53:17] >> Okay. Thank you.\n[00:53:18] >> Thank you, Commissioner. Um 41 will be\n[00:53:21] discussed in executive session.\n[00:53:23] >> Is that today or or when are we doing\n[00:53:25] that?\n[00:53:27] >> Do do we want to do it today?\n[00:53:29] >> Yeah. Wednesday.\n[00:53:31] [snorts]\n[00:53:31] >> It's only what whichever.\n[00:53:33] >> Yep. It's on Wednesday.\n[00:53:34] >> Wednesday. Okay.\n[00:53:35] >> And 42.\n[00:53:38] >> Good afternoon, councilors. Dave Proak,\n[00:53:39] director of IT. um asking for your",
+  "transcript_ref": "outputs/transcripts/rv3OkGSe59c_corrected.txt",
+  "topic_tags": [
+    "payroll",
+    "IT-infrastructure",
+    "procurement",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Information Technology"
+  ],
+  "entity_refs": [
+    {
+      "name": "Corey J. Williams",
+      "type": "person",
+      "canonical_id": "PERSON-WILLIAMS-COUNCIL"
+    },
+    {
+      "name": "Mosaic Consulting Group",
+      "type": "organization",
+      "canonical_id": "ORG-MOSAIC"
+    },
+    {
+      "name": "SWC/UKG",
+      "type": "system",
+      "canonical_id": "SYS-SWC"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Corey J. Williams",
+      "role": "Common Councilor, District 3",
+      "affiliation": "Syracuse Common Council"
+    },
+    {
+      "name": "Evan Loving",
+      "role": "Budget Director",
+      "affiliation": "City of Syracuse"
+    },
+    {
+      "name": "Dave Prowak",
+      "role": "Director of IT",
+      "affiliation": "City of Syracuse"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-PAYROLL-MODERNIZATION-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "UKG Pro = Human Capital Management and Payroll Modernization system",
+    "No new funding — using remaining $2.5M from previously approved $6.25M project budget",
+    "Connects to Jan 7 study session UKG hold/assessment discussion (-ZsKhcHXTd4)",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 16 of 19 from Common Council Study Session, Tuesday, February 4th, 2026",
+    "Transcript corrections applied: national grid -> National Grid"
+  ],
+  "last_relevance_update": null
+}

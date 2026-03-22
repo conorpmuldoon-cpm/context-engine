@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00069",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=i9Nn-8_gM4I&t=4578s",
+  "publication_date": "2026-03-18",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Police and Fire Budget Audit Resolution",
+  "summary": "Councilor Donna Moore introduces item 40, a resolution requesting the city auditor conduct an independent budget review of police and fire departments within 3 weeks using existing resources. Council clarifies this is not an RFP for external audit -- the auditor will use in-house staff. Brief debate about scope; at least one councilor declines to co-sponsor. Councilor Williams asks about RFP implications; confirmed auditor uses existing resources only.",
+  "raw_content": "[01:16:18] I have item 40. Is anybody from the\n[01:16:21] auditor's office here?\n[01:16:25] >> And they probably wouldn't be here. This\n[01:16:28] is your resolution.\n[01:16:28] >> Well, I didn't know if they wanted to\n[01:16:29] speak to it. That's all. [laughter]\n[01:16:31] >> Okay, that's all I got.\n[01:16:33] >> Anybody Anybody on board with this right\n[01:16:36] here with Donna?\n[01:16:37] >> Yes.\n[01:16:38] >> Yes.\n[01:16:38] >> Yeah.\n[01:16:39] >> Is that everybody or who's everybody?\n[01:16:43] >> I would like to remove myself. I'm not\n[01:16:45] on board with that. that everybody's\n[01:16:47] suffer and rank.\n[01:16:48] >> Right. And I'm fine with this. I just\n[01:16:50] want to know does this include an RFP\n[01:16:51] process.\n[01:16:53] >> I'm I'm confused about the the bearing.\n[01:16:55] So, we want our auditor to undertake\n[01:16:56] this with his existing resources, not in\n[01:16:58] an independent review because it says an\n[01:17:01] independent review in the language.\n[01:17:02] >> I don't understand what you're asking.\n[01:17:04] Senate again as\n[01:17:05] >> we want the auditor to undertake a\n[01:17:08] review with the resources that he has at\n[01:17:10] his disposal right now within 3 weeks.\n[01:17:13] >> Yeah.\n[01:17:13] >> Okay. Yeah.\n[01:17:15] >> So, not an RFP process for additional\n[01:17:17] resources to do a line by line itemized\n[01:17:20] audit for police and fire.\n[01:17:23] >> That wouldn't be that wouldn't be us to\n[01:17:25] to put that out there.\n[01:17:26] >> Yeah. Okay.\n[01:17:27] >> So,\n[01:17:28] >> we're just requesting to come um for the\n[01:17:31] auditor, which is his position is to do\n[01:17:34] >> Yeah. That's his job.\n[01:17:34] >> That's his job. That's his main job.\n[01:17:37] >> Okay. I got you.\n[01:17:40] >> Joe, did you want to say anything on\n[01:17:41] this or\n[01:17:43] >> uh\n[01:17:44] Okay. All right.\n[01:17:46] >> All right. Are you all set?\n[01:17:47] >> Okay. And councelor Williams.\n[01:17:53] >> Thank you, Madam President. Councelor\n[01:17:55] Monto to get his rappers out of the way.",
+  "transcript_ref": "outputs/transcripts/i9Nn-8_gM4I_corrected.txt",
+  "topic_tags": [
+    "police",
+    "fire",
+    "audit",
+    "budget",
+    "council"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Donna Moore",
+      "type": "person",
+      "canonical_id": "PERSON-MOORE-COUNCIL"
+    },
+    {
+      "name": "Corey J. Williams",
+      "type": "person",
+      "canonical_id": "PERSON-WILLIAMS-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Donna Moore",
+      "role": "Councilor, District 2",
+      "confidence": "high"
+    },
+    {
+      "name": "Corey J. Williams",
+      "role": "Councilor, District 3",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council requesting budget audit of police and fire departments -- not unanimous support",
+    "confidence": "high"
+  },
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Resolution uses auditor's existing resources, not external RFP. At least one councilor declines to co-sponsor. 3-week timeline requested.",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 16 of 23 from Common Council Study Session, Wednesday March 18th 2026",
+    "Transcript corrections applied: CNS -> CNS Engineers; SU -> Syracuse University",
+    "Potential duplicate detected: overlaps with CTX-COUNCIL-2026-00065 -- linked, not skipped"
+  ],
+  "last_relevance_update": null
+}

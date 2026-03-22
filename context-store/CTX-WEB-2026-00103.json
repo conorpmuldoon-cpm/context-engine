@@ -1,0 +1,66 @@
+{
+  "record_id": "CTX-WEB-2026-00103",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2023/2023-10-31-City-News-1100",
+  "publication_date": "2023-10-31",
+  "capture_date": "2026-03-22T14:27:43Z",
+  "title": "City Of Syracuse To Begin Issuing Citations For Trash Cart Violations",
+  "summary": "The City of Syracuse Department of Public Works will begin issuing $100 citations on November 1, 2023, for improper trash cart setout violations. After a 7-week grace period following the September citywide expansion of the sanitation cart program, DPW will enforce requirements including bagging waste, closing lids, proper placement at collection time, and storing carts off-street when not in use.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "code-enforcement",
+    "initiative-launch",
+    "policy-change",
+    "residents",
+    "waste-management",
+    "PROVISIONAL:trash-management",
+    "announcement",
+    "recurring"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Jeremy Robinson",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-ROBINSON"
+    },
+    {
+      "name": "Onondaga County Resource Recovery Agency",
+      "type": "organization",
+      "canonical_id": "ORG-OCCRA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Enforcement of new sanitation infrastructure rollout demonstrates operational maturity of expanded citywide trash cart program; balanced messaging emphasizes voluntary compliance before penalties.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown; assume DPW or Office of Communications",
+    "Dollar amounts extracted: $100 citation fine, $350 separate health/sanitation violation fine",
+    "Related program details available at syr.gov/carts; recycling cart rollout mentioned for 2024",
+    "7-week warning period (mid-Sept to Nov 1) represents implementation ramp-up strategy",
+    "Original 'sanitation' tag replaced with valid taxonomy tag 'waste-management'",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag corrected: 'sanitation' replaced with 'waste-management' (2026-03-22)"
+  ],
+  "last_relevance_update": null
+}

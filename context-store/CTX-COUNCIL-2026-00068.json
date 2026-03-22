@@ -1,0 +1,49 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00068",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=i9Nn-8_gM4I&t=4526s",
+  "publication_date": "2026-03-18",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "SPD PAL Program -- $50K DCJS Anti-Violence Grant",
+  "summary": "Deputy Chief Tom Series presents item 39, a $50,000 grant from NYS DCJS Anti-Violence Initiative for the Police Athletic League. Funding covers equipment, uniforms, field trips, a teens-and-cops podcast series, a barbershop skills program for non-traditional career paths, and CPR/first aid certification for youth.",
+  "raw_content": "[01:15:26] item 39.\n[01:15:28] >> Good afternoon, counselors. Uh Deputy\n[01:15:30] Chief [clears throat] Tom Series,\n[01:15:31] please. I have item 39 is to enter into\n[01:15:34] agreement with New York State Department\n[01:15:35] of Criminal Justice Services for a uh\n[01:15:37] $50,000 grant from their anti-violence\n[01:15:40] initiative program to assist with our\n[01:15:42] PAL program. The funding will go towards\n[01:15:45] purchasing equipment, uniforms,\n[01:15:46] conducting field trips. Uh,\n[01:15:48] additionally, we're looking at um\n[01:15:51] hosting a\n[01:15:53] teens and cops podcast series. Um, a\n[01:15:58] barbershop\n[01:16:00] program for teens to develop additional\n[01:16:02] skills if they're not going towards the\n[01:16:04] traditional schooling route and also\n[01:16:06] work towards getting them CPR first aid\n[01:16:09] certified.\n[01:16:13] >> Any questions?\n[01:16:16] >> Okay. Thank you.",
+  "transcript_ref": "outputs/transcripts/i9Nn-8_gM4I_corrected.txt",
+  "topic_tags": [
+    "police",
+    "grants",
+    "equity"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Tom Series",
+      "type": "person"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Tom Series",
+      "role": "SPD Deputy Chief",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "IPS detection is false positive (from 'tips' in 'field trips'). PAL = Police Athletic League. DCJS = Division of Criminal Justice Services.",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 15 of 23 from Common Council Study Session, Wednesday March 18th 2026",
+    "Transcript corrections applied: CNS -> CNS Engineers; SU -> Syracuse University"
+  ],
+  "last_relevance_update": null
+}

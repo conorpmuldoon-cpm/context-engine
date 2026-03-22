@@ -1,0 +1,89 @@
+{
+  "record_id": "CTX-WEB-2026-00003",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-03-13-Mayors-Office-News-215-PM",
+  "publication_date": "2026-03-22",
+  "capture_date": "2026-03-22T10:09:09Z",
+  "title": "Mayor, Council and Auditor Thank Senate For One-House Budget Proposal",
+  "summary": "Mayor Sharon F. Owens and city leadership expressed gratitude to the New York State Senate for a One-House budget proposal that includes $30 million in additional aid for Syracuse—double the Governor's executive budget allocation. The funding, advanced by Senator Rachel May, is intended to support infrastructure, housing, neighborhood revitalization, and essential municipal services as the city pursues growth initiatives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "state-agency",
+    "intergovernmental",
+    "grants",
+    "mayor",
+    "council",
+    "economic-development",
+    "housing",
+    "infrastructure",
+    "announcement"
+  ],
+  "department_refs": [
+    "Department of Finance",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-OWENS-SHARON-F"
+    },
+    {
+      "name": "Rita Paniagua",
+      "type": "person",
+      "canonical_id": "PERSON-PANIAGUA-RITA"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-WILLIAMS-COREY"
+    },
+    {
+      "name": "Alexander Marion",
+      "type": "person",
+      "canonical_id": "PERSON-MARION-ALEXANDER"
+    },
+    {
+      "name": "Rachel May",
+      "type": "person",
+      "canonical_id": "PERSON-MAY-RACHEL"
+    },
+    {
+      "name": "Kathy Hochul",
+      "type": "person",
+      "canonical_id": "PERSON-HOCHUL-KATHY"
+    },
+    {
+      "name": "New York State Senate",
+      "type": "organization",
+      "canonical_id": "ORG-NYS-SENATE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "State Senate demonstrates commitment to Syracuse municipal funding through $30M allocation, doubling gubernatorial proposal. Signal of strong state-local partnership and mayoral leadership effectiveness in securing resources.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "URL date mismatch: title shows 2026-03-22 but content published date is 2026-03-13; used publication date as authoritative",
+    "Dollar amount extracted as $30M (30 million); specific line item allocations not detailed",
+    "Senator Ryan referenced generically without full name; likely Central New York regional representative",
+    "No direct CIO/technology infrastructure implications; classified as political/fiscal announcement with intergovernmental significance",
+    "Press contact: press@syr.gov",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'infrastructure' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

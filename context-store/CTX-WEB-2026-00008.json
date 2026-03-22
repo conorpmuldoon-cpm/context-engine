@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-WEB-2026-00008",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-06-Infrastructure-News-420PM",
+  "publication_date": "2026-03-22",
+  "capture_date": "2026-03-22T10:10:08Z",
+  "title": "West Kirkpatrick Street Bridge to Close Mar. 9 for Repairs",
+  "summary": "The City of Syracuse Department of Engineering will close the West Kirkpatrick Street bridge over Onondaga Creek starting March 9, 2026 for joint replacement and safety repairs lasting several weeks. Detours will route traffic via Van Rensselaer, Spencer, and Solar Streets, while pedestrian Creekwalk access remains unrestricted. This represents routine infrastructure maintenance with managed public communication.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "roads-bridges",
+    "construction-staging",
+    "announcement",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Engineering",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-sharon-f-owens"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-city-of-syracuse"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00001"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' - typical for official city press releases",
+    "Publication date (2026-03-22) is 16 days after announcement date (2026-03-06); article references March 9 closure start",
+    "No budget information provided despite capital infrastructure work",
+    "No contractor name specified in release",
+    "Detour routing and pedestrian access mitigation indicate standard project management protocols",
+    "CIO relevance: potential opportunity for real-time traffic/detour notification systems or GIS integration",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00001 — linked for review"
+  ],
+  "last_relevance_update": null
+}

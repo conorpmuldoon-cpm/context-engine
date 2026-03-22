@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00008",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=-26j2mt6jMU&t=1696s",
+  "publication_date": "2026-01-21",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Northland Pro Fiber Connection Extension for Council Meeting Broadcasting",
+  "summary": "IT Director requests extension of existing fiber agreement with Northland Pro for the connection between City Hall and WCNY on West Fayette Street used for recording and broadcasting council meetings. Extension needed while full RFP process is prepared. Connection is fiber-only and does not include post-production support. Council raises questions about YouTube live streaming quality; directed to contact WCNY directly.",
+  "raw_content": "[00:28:16] director of IT. Um item 29 is we're\n[00:28:20] requesting an extension of an agreement\n[00:28:21] we currently have with\n[00:28:23] >> with Northland. Northland pro provides\n[00:28:25] the fiber connection between here and uh\n[00:28:28] WCNY on W on West FET Street uh for the\n[00:28:32] recording of these meetings and anything\n[00:28:34] else that occurs in this room.\n[00:28:38] So this contract is just for fiber and\n[00:28:41] upgrading the fiber, not for the actual\n[00:28:45] recording. Correct.\n[00:28:46] >> It's not the upgrade. It's it there's an\n[00:28:48] existing contract. We need to RFP\n[00:28:51] everything. And we just need an\n[00:28:53] extension of this while we prepare to go\n[00:28:55] down that road. So it just keeps the\n[00:28:57] existing going on. And but to answer\n[00:28:59] your more specific question, it does not\n[00:29:01] include the cost for post-prouction\n[00:29:03] support or whatever they do to make it\n[00:29:05] TVable.\n[00:29:07] This is just this is just for the wire\n[00:29:09] just for the connection.\n[00:29:12] >> Councelor And I think um you had some\n[00:29:15] questions about um about\n[00:29:19] the um live streaming on uh YouTube.\n[00:29:22] Yes.\n[00:29:22] >> But I don't know who we should talk to\n[00:29:24] as far as like um\n[00:29:25] >> Well, that would be directly to WCNY,\n[00:29:27] right? Not\n[00:29:28] >> I believe so.\n[00:29:30] >> Thank you.\n[00:29:30] >> Okay.",
+  "transcript_ref": "outputs/transcripts/-26j2mt6jMU_corrected.txt",
+  "topic_tags": [
+    "IT-infrastructure",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Information Technology"
+  ],
+  "entity_refs": [
+    {
+      "name": "Northland Pro",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "WCNY",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Dave Pro",
+      "role": "Director of IT",
+      "affiliation": "City of Syracuse"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Council interest in YouTube live streaming quality — relevant to public transparency",
+    "WCNY handles post-production and TV broadcasting of council meetings",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 13 of 19 from Common Council Study Session, January 21st 2026"
+  ],
+  "last_relevance_update": null
+}

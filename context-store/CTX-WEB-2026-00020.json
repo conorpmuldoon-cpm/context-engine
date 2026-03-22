@@ -1,0 +1,70 @@
+{
+  "record_id": "CTX-WEB-2026-00020",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-10-Infrastructure-News-1255-PM",
+  "publication_date": "2026-03-10",
+  "capture_date": "2026-03-22T14:10:32Z",
+  "title": "Mayor Sharon F. Owens Announces the Return of Veo Fleet",
+  "summary": "Mayor Sharon F. Owens announced the return of Veo's micromobility fleet to full capacity on March 9, 2026, following seasonal winter reduction. The 2025 season achieved 648,000 rides and 1M+ miles with 24% YoY growth; an updated operating agreement includes cargo baskets, enhanced community outreach, and accessibility improvements. Survey data shows 66% of riders lack car access and 52% use Veo to connect to transit, aligning with city sustainable transportation and equity goals.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "micromobility",
+    "transportation",
+    "sustainability",
+    "accessibility",
+    "equity",
+    "initiative-launch",
+    "announcement",
+    "business-community",
+    "recurring",
+    "residents"
+  ],
+  "department_refs": [
+    "Office of Communications",
+    "Department of Transportation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Veo",
+      "type": "organization",
+      "canonical_id": "ORG-VEO"
+    },
+    {
+      "name": "Candice Xie",
+      "type": "person",
+      "canonical_id": "PERSON-CANDICE-XIE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor championship of micromobility as strategic infrastructure investment aligned with Vision Zero, equity, and sustainability commitments. Emphasizes multimodal transit access for unbanked/underbanked residents and environmental goals.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00019"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No specific CIO technology projects identified; micromobility program is operational/service-delivery focused rather than digital infrastructure",
+    "Contact: Office of Communications (press@syr.gov) and syrops@veoride.com for questions",
+    "Spring 2026 promotional code: SPRING26 ($5 credit)",
+    "Operating agreement is 2026-updated; full contract terms not disclosed in release",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00019 — linked for review"
+  ],
+  "last_relevance_update": null
+}

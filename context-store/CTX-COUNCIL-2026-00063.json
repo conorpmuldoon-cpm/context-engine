@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00063",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=i9Nn-8_gM4I&t=3134s",
+  "publication_date": "2026-03-18",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Vision Zero CIP Authorization",
+  "summary": "Neil Burke (DPW) presents items 29-30 authorizing the CIP program for Vision Zero work. Schedule A with project details was intended for the packet but may not have been included; Burke commits to sharing immediately. Council requests it be sent to the Law Department for review.",
+  "raw_content": "[00:52:14] Uh the items 29 and 30 are to authorize\n[00:52:19] the CIP program for our uh vision zero\n[00:52:22] work. And this was intended to have a\n[00:52:25] schedule A included with it. I'm not\n[00:52:27] sure if it made it, but we'll share that\n[00:52:29] with you uh immediately after this.\n[00:52:33] >> Can you send it to us so I can make sure\n[00:52:34] the law get it?\n[00:52:35] >> Absolutely. Any\n[00:52:40] questions among my colleagues on this?\n[00:52:47] >> If not, thank you. Thank you,\n[00:52:51] >> Council Moare.\n[00:52:53] >> Thank you, Madame President. I have",
+  "transcript_ref": "outputs/transcripts/i9Nn-8_gM4I_corrected.txt",
+  "topic_tags": [
+    "roads-bridges",
+    "vision-zero",
+    "capital-planning",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Marino L. Nave",
+      "type": "person",
+      "canonical_id": "PERSON-NAVE-COUNCIL"
+    },
+    {
+      "name": "Neil Burke",
+      "type": "person"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Neil Burke",
+      "role": "DPW Commissioner",
+      "confidence": "high"
+    },
+    {
+      "name": "Marino L. Nave",
+      "role": "Councilor, District 1",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Very brief. Vision Zero CIP details in Schedule A not yet shared with council. Law Department detected from request to send document to law department for review -- not a substantive Law Department involvement.",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 8 of 23 from Common Council Study Session, Wednesday March 18th 2026",
+    "Transcript corrections applied: CNS -> CNS Engineers; SU -> Syracuse University",
+    "Potential duplicate detected: overlaps with CTX-COUNCIL-2026-00060 -- linked, not skipped"
+  ],
+  "last_relevance_update": null
+}

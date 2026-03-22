@@ -1,0 +1,81 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00138",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=UL1tsfkLsjc&t=842s",
+  "publication_date": "2026-02-23",
+  "capture_date": "2026-03-21T23:23:19Z",
+  "title": "Items 40-45 — Parkside Held, BESS and Permits Ready",
+  "summary": "Jimmy Monto confirms items 40-45. Items 40-41 (Parkside Commons) held again. Item 42 (Dr. LeMura honorary sign) ready. Items 43 (BESS moratorium), 44 (Pond Street special use permit), and 45 ready. Brief coordination on waiver for item 46 (EV charging JCOM agreement) between Councilors Majok and Nave.",
+  "raw_content": "[00:14:02] >> councelor, President Pagua, I have items\n[00:14:05] 40 through 45.\n[00:14:08] 40 we're going to hold.\n[00:14:11] 41 we're going to hold.\n[00:14:15] 42 is a honorary street sign for Dr.\n[00:14:17] Lamura. That is ready.\n[00:14:22] 43 is ready. 44. Marty Nav, uh,\n[00:14:25] Councelor Na'vi, are you okay with the\n[00:14:27] special permit for Pond Street?\n[00:14:28] >> Uh, yeah. Okay,\n[00:14:29] >> I'm okay.\n[00:14:30] >> That is ready.\n[00:14:31] >> Thank you.\n[00:14:32] >> And 45 is ready.\n[00:14:33] >> So then, are you holding 42? Is that\n[00:14:35] what you said?\n[00:14:36] >> Yeah, 42 is ready.\n[00:14:38] >> It's ready. Okay.\n[00:14:40] >> 41.\n[00:14:41] >> Only 40 and 41.\n[00:14:42] >> 40 and 41.\n[00:14:44] >> Thank you, Council Monto. And then um\n[00:14:47] >> me with the uh waiver.\n[00:14:49] >> Do we do this now? The waiver or\n[00:14:51] >> put a name up there. Um that's councelor\n[00:14:53] Macho. My my bad.\n[00:14:56] >> It's me and Nav.\n[00:14:57] >> Council my joke and N. Are you okay?\n[00:14:59] Both me and Yes. Well, we'll make an\n[00:15:01] exception.\n[00:15:03] >> We don't you don't have your name there,\n[00:15:05] nor do I. So we make an exception,\n[00:15:08] >> right?\n[00:15:09] >> Go ahead, Cook.",
+  "transcript_ref": "outputs/transcripts/UL1tsfkLsjc_corrected.txt",
+  "topic_tags": [
+    "housing",
+    "zoning",
+    "legislation",
+    "council"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Jimmy Monto",
+      "type": "person",
+      "canonical_id": "PERSON-MONTO-COUNCIL"
+    },
+    {
+      "name": "Marino L. Nave",
+      "type": "person",
+      "canonical_id": "PERSON-NAVE-COUNCIL"
+    },
+    {
+      "name": "Rita Paniagua",
+      "type": "person",
+      "canonical_id": "PERSON-PANIAGUA-COUNCIL"
+    },
+    {
+      "name": "Dr. Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-MAJOK-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Jimmy Monto",
+      "role": "Common Councilor, District 5",
+      "confidence": "high"
+    },
+    {
+      "name": "Marino L. Nave",
+      "role": "Common Councilor, District 1",
+      "confidence": "high"
+    },
+    {
+      "name": "Rita Paniagua",
+      "role": "Council President",
+      "confidence": "high"
+    },
+    {
+      "name": "Dr. Chol Majok",
+      "role": "Common Councilor At-Large",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-PARKSIDE-COMMONS-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Parkside Commons items 40-41 held for fourth consecutive session",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 6 of 7 from Common Council Study Session, Monday February 23rd 2026",
+    "Transcript corrections applied: national grid -> National Grid"
+  ],
+  "last_relevance_update": null
+}

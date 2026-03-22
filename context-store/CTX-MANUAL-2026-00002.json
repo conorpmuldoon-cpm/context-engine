@@ -1,0 +1,124 @@
+{
+  "record_id": "CTX-MANUAL-2026-00002",
+  "source_agent": "manual_input",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=QEfsEBcZQoE&t=375s",
+  "publication_date": "2026-03-17",
+  "capture_date": "2026-03-21T00:00:00Z",
+  "title": "Public Works Committee Opening & SU Sophomore Housing Project Overview",
+  "summary": "Chair Dr. Chol Majok opens the Public Works and Infrastructure Committee meeting with council members present. Hayner Hoyt Corporation president Jeremy Thurston and Syracuse University Director of Campus Planning Joel Fury present an overview of the SU sophomore housing initiative: three residence halls totaling $360M — Waverly (762 beds), Comstock (537 beds) on Comstock Avenue, and Ostrom residence hall. Foundation work is underway on the Comstock/Waverly projects, with Ostrom already well advanced.",
+  "raw_content": "Welcome to public works and infrastructure committee meeting. I'm joined by my colleague Donna Moore, Hana Enright, Jimmy Manto, Marin Nave, myself, Chel Majuk as a chair, and our president, Rita Peawa. And Council Cory Williams as well. My name is Jeremy Thurston. I'm the president of the Hayner Hoyt Corporation and the contractor that's doing the work up at Syracuse University for the project we're going to discuss. I'm Joel Fury from Syracuse University. I'm the director of campus planning design construction. So about approximately two years ago the university put in place an initiative to move most of our sophomore class to the main campus. So we went through the zoning approval process. We have right now one of the buildings on Ostrom and then these two related to Comstock are the Waverly residence and dining hall and the Comstock residence hall. Waverly is 762 beds and Comstock's 537 beds. They're located on Comstock Avenue near the intersection of Comstock and Waverly. The Ostrom residence hall is located just a couple blocks away on Ostrom Avenue. The project on Ostrom is well underway. Hayner Hoyt represented by Jeremy Thurston is in the process of beginning the foundations work on the Waverly Comstock projects.",
+  "transcript_ref": null,
+  "topic_tags": [
+    "zoning",
+    "economic-development",
+    "construction-staging"
+  ],
+  "department_refs": [
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Dr. Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-MAJOK-COUNCIL"
+    },
+    {
+      "name": "Donna Moore",
+      "type": "person",
+      "canonical_id": "PERSON-MOORE-COUNCIL"
+    },
+    {
+      "name": "Hanah Ehrenreich",
+      "type": "person",
+      "canonical_id": "PERSON-EHRENREICH-COUNCIL"
+    },
+    {
+      "name": "Jimmy Monto",
+      "type": "person",
+      "canonical_id": "PERSON-MONTO-COUNCIL"
+    },
+    {
+      "name": "Marino L. Nave",
+      "type": "person",
+      "canonical_id": "PERSON-NAVE-COUNCIL"
+    },
+    {
+      "name": "Rita Paniagua",
+      "type": "person",
+      "canonical_id": "PERSON-PANIAGUA-COUNCIL"
+    },
+    {
+      "name": "Corey J. Williams",
+      "type": "person",
+      "canonical_id": "PERSON-WILLIAMS-COUNCIL"
+    },
+    {
+      "name": "Jeremy Thurston",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Joel Fury",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Hayner Hoyt Corporation",
+      "type": "organization",
+      "canonical_id": "ORG-HAYNER-HOYT"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIVERSITY"
+    },
+    {
+      "name": "Comstock Avenue",
+      "type": "location",
+      "canonical_id": null
+    },
+    {
+      "name": "Ostrom Avenue",
+      "type": "location",
+      "canonical_id": null
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Dr. Chol Majok",
+      "role": "Committee Chair, Common Councilor At-Large",
+      "affiliation": "Syracuse Common Council"
+    },
+    {
+      "name": "Jeremy Thurston",
+      "role": "President",
+      "affiliation": "Hayner Hoyt Corporation"
+    },
+    {
+      "name": "Joel Fury",
+      "role": "Director of Campus Planning Design Construction",
+      "affiliation": "Syracuse University"
+    }
+  ],
+  "speaker_confidence": "high",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-SU-COMSTOCK-CONSTRUCTION-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Auto-generated YouTube transcript — speaker names corrected via entity-registry.json (verified from syr.gov 2026-03-21)",
+    "Names corrected: Chel Majuk→Dr. Chol Majok, Rita Pñawa→Rita Paniagua, Hana Enright→Hanah Ehrenreich, Jimmy Manto→Jimmy Monto, Marin Nave→Marino L. Nave, Cory Williams→Corey J. Williams",
+    "'Hayner Hoy' normalized to 'Hayner Hoyt Corporation' (known Syracuse contractor)",
+    "Speaker confidence upgraded from medium to high — all council members verified against entity registry",
+    "Segment 1 of 4 from Public Works Committee Meeting, March 17, 2026",
+    "2026-03-21: Cleaned stale provisional tag note ('construction-staging' promoted to taxonomy)."
+  ],
+  "last_relevance_update": null
+}

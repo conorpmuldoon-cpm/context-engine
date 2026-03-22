@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-WEB-2026-00002",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-03-17-Infrastructure-News-447-PM",
+  "publication_date": "2026-03-22",
+  "capture_date": "2026-03-22T10:08:56Z",
+  "title": "Dept. of Engineering Opens Comment Period for Stormwater Management",
+  "summary": "The City of Syracuse Department of Engineering has opened a public comment period (through March 25, 2026) for its Stormwater Management Plan (SWMP) and MS4 Annual Report, both required by NYS DEC's SPDES General Permit. The SWMP outlines stormwater pollution reduction efforts and best management practices; the Annual Report reviews 2025 progress and sets 2026 goals. This is a compliance-driven initiative to reduce sediment and pollution entering surface and groundwater.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "sewer",
+    "water",
+    "state-mandates",
+    "state-agency",
+    "permitting",
+    "policy-change",
+    "transparency",
+    "recurring",
+    "intergovernmental",
+    "PROVISIONAL:stormwater-management",
+    "PROVISIONAL:environmental-compliance"
+  ],
+  "department_refs": [
+    "Department of Engineering"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-OWENS-SHARON"
+    },
+    {
+      "name": "New York State Department of Environmental Conservation",
+      "type": "organization",
+      "canonical_id": "ORG-NYSDEC"
+    },
+    {
+      "name": "Office of Communications",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "State regulatory compliance activity; demonstrates alignment with NYSDEC environmental protection mandates through required SPDES permit administration and public engagement.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field is unknown; byline not specified",
+    "URL publish date (2026-03-17) differs from header date (2026-03-22); using earlier publication date as source",
+    "No direct CIO IT/digital infrastructure relevance detected, though MS4 data management may involve GIS or data systems",
+    "Public comment portal referenced but not directly linked; engagement mechanism appears standard",
+    "This is recurring annual compliance activity under state mandate",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

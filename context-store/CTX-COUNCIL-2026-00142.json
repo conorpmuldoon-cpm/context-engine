@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00142",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=X4jrKb_RNrw&t=546s",
+  "publication_date": "2026-03-09",
+  "capture_date": "2026-03-21T23:23:19Z",
+  "title": "Items 27-30 Ready, Parkside and Flock Held, 1153 AV Bond Clarification",
+  "summary": "Councilor Jones-Rowser confirms items 27-30 are ready for Monday vote. Items 31 (Parkside Commons) and 32 (Flock ALPR) continue to be held. Item 33: Michael Layman (Assessment) clarifies the 1153 West Fayette AV/FFE items are tangible bondable goods, distinct from the $343K cash capital police moving expenses. Session adjourns with no executive session.",
+  "raw_content": "[00:09:06] item 27 to 30 and we're all set for\n[00:09:10] those.\n[00:09:13] >> I'm sorry. Can you speak to the mic now?\n[00:09:15] We can.\n[00:09:15] >> Oh, yeah. Cuz the four\n[00:09:44] Items 31 32 will both be held.\n[00:09:50] >> 31 and 32.\n[00:10:00] Thank you, Madam President.\n[00:10:09] again.\n[00:10:25] Okay. So then\n[00:10:37] Am I on the wrong item?\n[00:10:41] >> This particular item here, number 33. I\n[00:10:43] don't have my glasses, but this um\n[00:10:50] >> Thank you. Uh Michael Layman, deputy\n[00:10:52] commissioner with the Department of\n[00:10:53] Assessment. Uh councelor I believe this\n[00:10:56] is um\n[00:10:58] item\n[00:11:02] sorry it's it's the police item\n[00:11:04] >> number\n[00:11:05] >> 33\n[00:11:06] >> 33\n[00:11:06] >> 33\n[00:11:07] >> 33 yes uh that\n[00:11:10] >> that was my\n[00:11:11] >> No, I know the one we're looking at now.\n[00:11:12] So the the other one the police item is\n[00:11:14] the one they're switching the 343,000\n[00:11:17] from CIP to cash capital. These items\n[00:11:21] here are bondable. These are\n[00:11:22] >> Yeah, these are all tangible items,\n[00:11:24] furniturees, fixture, and equipment and\n[00:11:26] more specifically audiovisisual\n[00:11:27] equipment.\n[00:11:29] >> Okay,\n[00:11:31] >> thank you.\n[00:11:38] >> Thank you for the clarification.\n[00:11:40] >> My pleasure.\n[00:11:44] Wait,\n[00:11:44] >> thank you.\n[00:11:45] >> Thank you,\n[00:11:47] sir.\n[00:11:47] >> I think you talk about 26\n[00:11:53] Did that answer your question?\n[00:11:55] >> Yes.\n[00:11:56] >> All righty. We don't have any executive\n[00:11:58] session right now today, right? So, um\n[00:12:01] our meeting is uh we're adjourning our\n[00:12:03] meeting. So, motion. Thank you. Second.\n[00:12:07] Yes.",
+  "transcript_ref": "outputs/transcripts/X4jrKb_RNrw_corrected.txt",
+  "topic_tags": [
+    "housing",
+    "police",
+    "capital-planning",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Assessment",
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Patrona Jones-Rowser",
+      "type": "person",
+      "canonical_id": "PERSON-JONES-ROWSER-COUNCIL"
+    },
+    {
+      "name": "Michael Layman",
+      "type": "person",
+      "canonical_id": "PERSON-LAYMAN-ASSESSMENT"
+    },
+    {
+      "name": "Parkside Commons",
+      "type": "organization"
+    },
+    {
+      "name": "Flock Group",
+      "type": "organization",
+      "canonical_id": "ORG-FLOCK"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Michael Layman",
+      "role": "Deputy Commissioner, Assessment Department",
+      "confidence": "high"
+    },
+    {
+      "name": "Patrona Jones-Rowser",
+      "role": "Councilor, District 4",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-PARKSIDE-COMMONS-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Very short session -- mostly confirmations of items discussed at Mar 4 study session. Items 31-32 continue to be held from multiple prior sessions.",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 4 of 4 from Common Council Study Session, Monday March 9th 2026"
+  ],
+  "last_relevance_update": null
+}

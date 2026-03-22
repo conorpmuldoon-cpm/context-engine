@@ -1,0 +1,66 @@
+{
+  "record_id": "CTX-WEB-2026-00061",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-01-03-Infrastructure-News-950AM",
+  "publication_date": "2025-01-03",
+  "capture_date": "2026-03-22T14:19:39Z",
+  "title": "City of Syracuse to Begin Issuing Citations for Cart Violations",
+  "summary": "The City of Syracuse Department of Public Works will begin issuing $100 citations on January 6, 2025, for improper trash and recycling cart setouts, ending a grace period that began with the Fall 2024 uniform cart rollout. Property owners have 24 hours to correct violations before fines are assessed; common violations include placing trash in recycling bins, bagging recyclables, and failing to break down cardboard.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "code-enforcement",
+    "policy-change",
+    "residents",
+    "sustainability",
+    "announcement",
+    "neighborhood-services"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Jeremy Robinson",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-ROBINSON"
+    },
+    {
+      "name": "Onondaga County Resource Recovery Agency",
+      "type": "organization",
+      "canonical_id": "ORG-OCRRA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Enforcement of environmental compliance and waste management standards reflects sustainability and operational efficiency priorities; framed as resident-supportive with educational phase-in.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00060"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' — verify publication source in CMS",
+    "Press release cites two distinct fine levels ($100 for cart violations, $350 for health/sanitation) — ensure accurate fine structure documentation",
+    "URL structure suggests Traffic & Infrastructure news category; may connect to broader mobility/sustainability initiatives",
+    "DPW Commissioner Robinson's quote emphasizes compliance education over punishment; suggests soft-enforcement philosophy",
+    "Related resource link (syr.gov/Trash-and-Recycling) should be validated for digital accessibility compliance",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00060 — linked for review"
+  ],
+  "last_relevance_update": null
+}

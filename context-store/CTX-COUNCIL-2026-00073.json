@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00073",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=i9Nn-8_gM4I&t=5015s",
+  "publication_date": "2026-03-18",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Item 48 Confirmation",
+  "summary": "Councilor Jones-Rowser confirms item 48 is ready to move forward. No presentation needed.",
+  "raw_content": "[01:23:35] >> Oh, Madame President, I have item 48.\n[01:23:38] Um, item 48, I don't think we have\n[01:23:40] anybody speak on this. Um, we should be\n[01:23:43] moving forward with that though. Yeah,\n[01:23:54] >> I I'll come back for 49.\n[01:23:57] [laughter]\n[01:23:58] >> We would like to uh\n[01:23:59] >> Are you all set? Yeah.\n[01:24:00] >> Okay, we're all set.\n[01:24:02] >> Thank you, Council Roto.\n[01:24:04] >> Thank you, President Pago. Uh, I have",
+  "transcript_ref": "outputs/transcripts/i9Nn-8_gM4I_corrected.txt",
+  "topic_tags": [
+    "council"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Patrona Jones-Rowser",
+      "type": "person",
+      "canonical_id": "PERSON-JONES-ROWSER-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Patrona Jones-Rowser",
+      "role": "Councilor, District 4",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Very brief procedural confirmation. Item 48 content not discussed in study session.",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 21 of 23 from Common Council Study Session, Wednesday March 18th 2026",
+    "Transcript corrections applied: CNS -> CNS Engineers; SU -> Syracuse University"
+  ],
+  "last_relevance_update": null
+}

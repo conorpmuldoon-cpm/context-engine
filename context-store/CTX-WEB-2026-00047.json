@@ -1,0 +1,76 @@
+{
+  "record_id": "CTX-WEB-2026-00047",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-05-29-Infrastructure-News-255-PM",
+  "publication_date": "2025-05-29",
+  "capture_date": "2026-03-22T14:16:52Z",
+  "title": "Mayor Walsh Announces Elmwood Park Sediment Removal Project",
+  "summary": "Mayor Walsh announced a sediment removal and restoration project for Elmwood Park's Furnace Brook, running June–October 2025, funded by FEMA and NYS emergency grants. The project aims to restore the brook to pre-Tropical Storm Fred (2021) conditions through dredging, channel wall repair, and turf restoration. The park will be closed during construction, with moderate traffic impacts on Glenwood Avenue.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "parks",
+    "infrastructure",
+    "federal-programs",
+    "grants",
+    "sustainability",
+    "announcement",
+    "construction-staging",
+    "neighborhood-services",
+    "intergovernmental"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Mayor Sharon F. Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-WALSH"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    },
+    {
+      "name": "FEMA",
+      "type": "organization",
+      "canonical_id": "ORG-FEMA"
+    },
+    {
+      "name": "NYS Department of Homeland Security and Emergency Services",
+      "type": "organization",
+      "canonical_id": "ORG-NYS-DHSES"
+    },
+    {
+      "name": "Onondaga County Parks",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-PARKS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Environmental restoration and disaster recovery prioritized; successful grant coordination with state and federal emergency agencies demonstrates intergovernmental collaboration.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in source metadata; actual author likely Office of Communications.",
+    "Project duration spans May–October window to protect trout spawning season (Carpenter's Brook Fish Hatchery partnership noted).",
+    "No dollar amounts provided in release; grants from FEMA and NYS DHSES are source.",
+    "Furnace Brook is tributary ecosystem element worth tracking for water quality/GIS integration.",
+    "Park closure duration June–October 2025 may warrant 311/Parks service communication planning.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

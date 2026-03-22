@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00059",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=i9Nn-8_gM4I&t=272s",
+  "publication_date": "2026-03-18",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "State Aid Resolution -- Increase Aid to Municipalities",
+  "summary": "Councilor Hudson introduces item 10, a resolution co-sponsored with Council President Paniagua requesting increased state aid to municipalities. Council unanimously supportive with brief enthusiastic endorsement. Dr. Chol Majok transitions to items 11-23.",
+  "raw_content": "[00:04:32] >> Thank you. I have item number 10 and is\n[00:04:35] asking to increase aid to municipalities\n[00:04:38] along with President Panti. So if there\n[00:04:42] anybody have any questions?\n[00:04:44] >> Let's go. Put us on.\n[00:04:45] >> Let's go.\n[00:04:46] >> Let's get it done.\n[00:04:47] >> Let's get it done.\n[00:04:48] >> Let's go. Everybody on board.\n[00:04:52] >> Yes, please.\n[00:04:54] >> And councelor Maj request at the table.\n[00:05:02] Run, run, run. [laughter]\n[00:05:10] >> Thank you, counselor. Majoke.\n[00:05:12] >> Oh, it's me.\n[00:05:13] >> Yes, [laughter]\n[00:05:18] >> it was that quick, right?\n[00:05:20] >> Yeah.\n[00:05:21] >> So, [clears throat] thank you, Madam",
+  "transcript_ref": "outputs/transcripts/i9Nn-8_gM4I_corrected.txt",
+  "topic_tags": [
+    "intergovernmental",
+    "budget",
+    "council"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Helen Hudson",
+      "type": "person",
+      "canonical_id": "PERSON-HUDSON-COUNCIL"
+    },
+    {
+      "name": "Rita Paniagua",
+      "type": "person",
+      "canonical_id": "PERSON-PANIAGUA-COUNCIL"
+    },
+    {
+      "name": "Dr. Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-MAJOK-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Helen Hudson",
+      "role": "Councilor At-Large",
+      "confidence": "high"
+    },
+    {
+      "name": "Rita Paniagua",
+      "role": "Council President",
+      "confidence": "medium"
+    },
+    {
+      "name": "Dr. Chol Majok",
+      "role": "Councilor At-Large",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Unanimous council support for increased state aid to municipalities",
+    "confidence": "high"
+  },
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Very brief segment -- council enthusiastically endorses state aid resolution with no substantive discussion needed.",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 2 of 23 from Common Council Study Session, Wednesday March 18th 2026",
+    "Transcript corrections applied: CNS -> CNS Engineers; SU -> Syracuse University"
+  ],
+  "last_relevance_update": null
+}

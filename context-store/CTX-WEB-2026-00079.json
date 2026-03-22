@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-WEB-2026-00079",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/2024/2024-09-03-Infrastructure-News-1145AM",
+  "publication_date": "2024-09-03",
+  "capture_date": "2026-03-22T14:23:08Z",
+  "title": "DPW Announces End of Blue Bin Distribution for Recycling in the City",
+  "summary": "The Syracuse Department of Public Works announced the discontinuation of blue bin distribution for recycling, aligning with Onondaga County Resource Recovery Agency's countywide policy. Starting October 7, residents will receive new 96-gallon covered recycling carts, a service improvement that builds on 2023 trash cart implementation and is expected to increase recycling participation and improve worker safety.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "sustainability",
+    "residents",
+    "service-requests",
+    "announcement",
+    "intergovernmental",
+    "recurring"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Onondaga County Resource Recovery Agency",
+      "type": "organization",
+      "canonical_id": "ORG-OCRRA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Infrastructure modernization coordinated with county agency; frames service transition as improvement to worker safety, resident service quality, and environmental participation.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in source metadata",
+    "Content includes transitional support messaging and multiple contact methods (Cityline, website), suggesting proactive constituent communication planning",
+    "No budget figures or cost impact disclosed in release",
+    "Intergovernmental coordination with OCRRA indicates alignment of city/county recycling infrastructure policy",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

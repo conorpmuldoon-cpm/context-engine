@@ -1,0 +1,53 @@
+{
+  "record_id": "CTX-WEB-2026-00059",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-01-08-Infrastructure-News-11AM",
+  "publication_date": "2025-01-08",
+  "capture_date": "2026-03-22T14:19:16Z",
+  "title": "Water Crews Working to Repair Water Main Break on East Genesee Street",
+  "summary": "The City of Syracuse Department of Water is repairing a water main break on the 1800 block of East Genesee Street on January 8, 2025. Residents and businesses will experience water service disruptions through the evening, with East Genesee Street between Bassett Street and Columbus Avenue closed to vehicle traffic during repairs. Sidewalks remain open with traffic detours in place.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "infrastructure",
+    "service-requests",
+    "announcement",
+    "roads-bridges",
+    "construction-staging"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse Department of Water",
+      "type": "organization",
+      "canonical_id": "ORG-WATER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown; Sharon F. Owens mentioned only in navigation menu context, not in article body",
+    "Contact number provided (315-448-8360) for public inquiries",
+    "Press contact provided (press@syr.gov) for media",
+    "No budget, timeline specificity, or root cause analysis included in release",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

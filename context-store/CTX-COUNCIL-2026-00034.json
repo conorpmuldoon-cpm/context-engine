@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00034",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=7fCCamsh6U0&t=3046s",
+  "publication_date": "2026-02-23",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Dr. Linda LeMura Lane Honorary Street Sign -- Le Moyne College President",
+  "summary": "Councilor Monto reads tribute to Dr. Linda LeMura, 11-year president of Le Moyne College and first female lay person to lead a Jesuit institution in the US. Achievements include Division 2 to Division 1 athletics, doctoral programs, 20+ endowed professorships, and the Le Moyne Area Neighborhood Development Strategy with the city. Honorary street sign at Salt Springs Road and Springfield Road passes unanimously. Items 40 (Parkside Commons) and 41 continue held.",
+  "raw_content": "[00:50:46] Thank you. Item 40 will be held. Item 41\n[00:50:50] will be held. Item 42.\n[00:50:54] Any objections?\n[00:50:56] Any discussion?\n[00:50:57] >> Yes, President Piagua. I'll just read a\n[00:51:00] short piece from this from the letter.\n[00:51:01] Um, for the past 11 years, Dr. Linda\n[00:51:04] Lamura has served as president of Le Moy\n[00:51:06] College, overseeing a period of\n[00:51:07] significant growth and transformation.\n[00:51:09] During her tenure, the college welcomed\n[00:51:11] some of the largest classes in its\n[00:51:12] history, elevated its athletics program\n[00:51:15] from division 2 to division 1, and made\n[00:51:17] substantial infrastructure investments\n[00:51:19] across its 160 acre campus. In 2014, she\n[00:51:23] became the first female lay person to\n[00:51:25] lead a Jesuit institution in the United\n[00:51:27] States. She secured major naming gifts\n[00:51:29] for the PCEL School and Professional\n[00:51:31] Studies, the Carol College of Arts and\n[00:51:33] Sciences, and the McNeel Institute for\n[00:51:35] Risk and Uncertainty. She launched the\n[00:51:37] college's first two doctoral problem\n[00:51:40] programs and added more than 20 endowed\n[00:51:42] professorships, chairs, and faculty\n[00:51:44] fellowships. Under her leadership, Leo\n[00:51:46] strengthened its role within the Salt\n[00:51:48] Springs neighborhood through the Le\n[00:51:49] Moine area neighborhood development\n[00:51:51] strategy developed in partnership with\n[00:51:53] the city of Syracuse as well as the\n[00:51:54] purchase of approximately 40 surrounding\n[00:51:56] properties and efforts to establish a\n[00:51:58] neighborhood association. A Syracuse\n[00:52:00] native, Dr. Dr. Lamura has served as\n[00:52:01] co-chair of the regional economic\n[00:52:03] development council, contributing to\n[00:52:05] regional workforce development\n[00:52:06] initiative initiatives. Designing a\n[00:52:09] section of Springfield Road as Dr. Linda\n[00:52:11] Lamura Lane will serve as a meaningful\n[00:52:13] tribute to her leadership and tireless\n[00:52:14] advocacy for Le Moy College, her\n[00:52:16] hometown, and the entire region.\n[00:52:20] >> Thank you. Please call the role.\n[00:52:22] >> All in favor?\n[00:52:23] >> I oppose.",
+  "transcript_ref": "outputs/transcripts/7fCCamsh6U0_corrected.txt",
+  "topic_tags": [
+    "economic-development",
+    "council",
+    "vote"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Jimmy Monto",
+      "type": "person",
+      "canonical_id": "PERSON-MONTO-COUNCIL"
+    },
+    {
+      "name": "Dr. Linda LeMura",
+      "type": "person"
+    },
+    {
+      "name": "Le Moyne College",
+      "type": "organization",
+      "canonical_id": "ORG-LEMOYNE"
+    },
+    {
+      "name": "Parkside Commons",
+      "type": "organization"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Jimmy Monto",
+      "role": "Councilor, District 5",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-PARKSIDE-COMMONS-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "IPS detection is false positive (from 'professorships'). Dept of Permits and Development detection is false positive. Items 40-41 (Parkside Commons) continue held from prior sessions.",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 7 of 10 from Common Council Regular Meeting, Monday February 23rd 2026"
+  ],
+  "last_relevance_update": null
+}

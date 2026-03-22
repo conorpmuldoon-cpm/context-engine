@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-WEB-2026-00112",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-09-06-Infrastructure-News-1200",
+  "publication_date": "2023-09-06",
+  "capture_date": "2026-03-22T14:29:29Z",
+  "title": "Mayor Walsh Announces Road Reconstruction on Martin Luther King East",
+  "summary": "Mayor Ben Walsh announced a road reconstruction project on Martin Luther King East between South Salina Street and Renwick Avenue, beginning September 7, 2023. The project involves milling and paving with road closures to through traffic except at South State Street and Oakwood Avenue intersections, contingent on favorable weather conditions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "roads-bridges",
+    "infrastructure",
+    "construction-staging",
+    "announcement",
+    "transportation"
+  ],
+  "department_refs": [
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-OWENS-EXEC"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor-level announcement of infrastructure investment in MLK East corridor demonstrates visible commitment to neighborhood road maintenance and capital improvement priorities.",
+    "confidence": "medium"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00111"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Sharon F. Owens appears in navigation header but is not clearly identified as related to this announcement; Ben Walsh is identified as announcing Mayor but title discrepancy with header suggests possible transition or data inconsistency",
+    "No dollar amount provided for project scope",
+    "Weather-contingent timeline limits firm planning visibility",
+    "Road closure scope limited to maintain access at two key intersections",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00111 — linked for review"
+  ],
+  "last_relevance_update": null
+}

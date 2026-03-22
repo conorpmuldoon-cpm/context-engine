@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00112",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=oUKVthl47R8&t=793s",
+  "publication_date": "2026-01-26",
+  "capture_date": "2026-03-21T23:23:19Z",
+  "title": "Fire Apparatus Replacement Follow-Up: Training Truck Status and Fleet Deficiencies",
+  "summary": "Council member Dr. Chol Majok follows up on fire apparatus replacement data requested at Jan 21 study session. Training truck #1 has 86,000 miles, is severely overdue, and can no longer be used on roads — limited to recruit training for understanding truck components. Three spare trucks also past their operational life by one to five years. Current legislation (items 20-21) would replace one of the end-of-life trucks.",
+  "raw_content": "[00:13:13] the agenda, I'm going back to item 20\n[00:13:15] and 21.\n[00:13:21] Um, thank you for thank you for the\n[00:13:23] information uh that you had sent over\n[00:13:26] that we had requested last week. Um, so\n[00:13:30] I I I'm looking at uh training truck\n[00:13:35] uh number one, right? And you said it\n[00:13:38] like it's it's 10 years\n[00:13:41] over overdue, severely overdue. So what\n[00:13:43] does that mean? Does that mean you you\n[00:13:45] no longer use it and you parked it? It's\n[00:13:47] over at training and we use it very\n[00:13:49] limited for when we have recruits so\n[00:13:51] they can understand the components of\n[00:13:52] the truck but it's past it life that we\n[00:13:55] can't use it on the road.\n[00:13:56] >> Okay. So\n[00:13:57] >> Okay. Okay. So is is preserved for just\n[00:14:00] >> um yeah it's just over at training right\n[00:14:02] now for when we have a recruit class and\n[00:14:04] to like understand the components of the\n[00:14:06] truck.\n[00:14:06] >> So does this mean that uh station one uh\n[00:14:10] wait that's not station one. Wherever\n[00:14:12] this truck was does it mean we have\n[00:14:13] already replaced we have a replacement?\n[00:14:15] So, those there's um three spare trucks,\n[00:14:18] a recall truck, and the training truck.\n[00:14:20] Three of those trucks have already\n[00:14:22] >> um got to the end of their life. If you\n[00:14:25] see, I had uh they were already over by\n[00:14:28] one to five years. And so, those are as",
+  "transcript_ref": "outputs/transcripts/oUKVthl47R8_corrected.txt",
+  "topic_tags": [
+    "fire",
+    "capital-planning",
+    "council"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Dr. Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-MAJOK-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Dr. Chol Majok",
+      "role": "Common Councilor At-Large",
+      "affiliation": "Syracuse Common Council"
+    },
+    {
+      "name": "Fire Chief Mike Monz",
+      "role": "Fire Chief",
+      "affiliation": "Syracuse Fire Department"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council follows up on detailed apparatus replacement data, questioning severity of fleet deficiencies",
+    "confidence": "medium"
+  },
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Continues fire apparatus discussion from Jan 21 study session (-26j2mt6jMU seg 8)",
+    "Training truck #1 is past road-legal life but retained for recruit instruction",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 10 of 11 from Common Council Study Session, January 26th 2026"
+  ],
+  "last_relevance_update": null
+}

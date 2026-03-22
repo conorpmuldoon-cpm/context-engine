@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-WEB-2026-00124",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2023/2023-02-01-Mayors-Office-News-4pm",
+  "publication_date": "2023-02-01",
+  "capture_date": "2026-03-22T14:32:05Z",
+  "title": "Mayor Walsh Announces Release of Trash Cart Rollout Fact Sheet",
+  "summary": "Mayor Ben Walsh announced a phased rollout of 95-gallon lidded trash carts for semi-automated sanitation pickup, beginning summer 2023 with 20% of routes before full citywide implementation. The initiative prioritizes worker safety, sanitation, and operational efficiency, with recycling carts planned for 2024. Common Council ordinance changes are under consideration to enable the program.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "initiative-launch",
+    "infrastructure",
+    "sustainability",
+    "residents",
+    "policy-change",
+    "mayor",
+    "legislation"
+  ],
+  "department_refs": [
+    "Department of Sanitation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-OWENS-EXEC"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor championing infrastructure modernization with explicit focus on worker safety and community equity; positions as best-practice adoption and neighborhood investment.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Sharon F. Owens appears in navigation menu context, not article body—may be current mayor; Ben Walsh is identified as Mayor in article text",
+    "No dollar amounts or specific budget allocation disclosed in fact sheet announcement",
+    "Two-phase rollout strategy suggests change-management approach; recycling component signals broader solid-waste modernization vision",
+    "Ordinance dependency noted—legislative approval required for full implementation",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-WEB-2026-00099",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-11-22-Traffic-News",
+  "publication_date": "2023-11-22",
+  "capture_date": "2026-03-22T14:26:54Z",
+  "title": "Home for the Holidays Tree Lighting Street Closures",
+  "summary": "The City of Syracuse will close nine street segments in downtown Clinton Square on Friday, November 24, 2023, from 4-8 p.m. for the \"Home for the Holidays\" Tree Lighting event. The closure affects major thoroughfares including Clinton Street, Erie Boulevard, Water Street, Salina Street, Genesee Street, and James Street in the downtown core.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "transportation",
+    "road-closure-fees",
+    "parks",
+    "recurring"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs",
+    "Department of Transportation and Infrastructure"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    },
+    {
+      "name": "Clinton Square",
+      "type": "system",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Community event promotion and downtown activation through holiday programming; demonstrates municipal coordination of public spaces and civic gathering.",
+    "confidence": "medium"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in source metadata",
+    "Date published (2023-11-22) is 2 days before event (2023-11-24)",
+    "URL breadcrumb indicates article filed under '2024' path despite 2023 publication date—possible archival or CMS inconsistency",
+    "No budget, procurement, or staffing implications mentioned",
+    "Routine announcement with standard street closure notification format",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

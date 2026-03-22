@@ -1,0 +1,50 @@
+{
+  "record_id": "CTX-WEB-2026-00021",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Parks-News/Parks-2026/2026-03-10-Parks-News-3PM",
+  "publication_date": "2026-03-10",
+  "capture_date": "2026-03-22T14:10:43Z",
+  "title": "Traffic Advisory & Street Closure Notice for 2026 St. Patrick's Parade",
+  "summary": "The City of Syracuse issued a traffic advisory for the 2026 St. Patrick's Day Parade occurring March 14, with extensive street closures downtown beginning at 8 a.m. The notice includes detailed closure maps, parking guidance, and alternate routing instructions for residents and visitors accessing downtown from all cardinal directions. This is a recurring annual event requiring coordination across transportation, parks, and public safety infrastructure.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "parks",
+    "transportation",
+    "roads-bridges",
+    "road-closure-fees",
+    "construction-staging",
+    "recurring"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Content truncated mid-sentence in source material; routing instructions from North direction incomplete",
+    "Author listed as Unknown; attributed to Parks Department based on URL and content context",
+    "No budget impact, contracts, or policy changes detailed—informational notice only",
+    "Ceremonial Painting event (March 13) represents coordination opportunity for GIS/event-staging systems",
+    "Extensive street closure list suggests need for GIS validation and 311 service readiness planning",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

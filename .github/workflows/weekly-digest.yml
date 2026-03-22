@@ -1,0 +1,35 @@
+name: Weekly Digest
+
+on:
+  schedule:
+    - cron: '5 13 * * 1'  # 13:05 UTC Monday = ~8:05 AM ET
+  workflow_dispatch: {}    # Manual trigger via GitHub UI
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install anthropic jsonschema
+
+      - name: Run weekly digest
+        run: python scripts/weekly_digest.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_SENDER: ${{ secrets.GMAIL_SENDER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_RECIPIENT: ${{ secrets.GMAIL_RECIPIENT }}
+
+      - name: Commit digest output
+        run: |
+          git config user.name "Context Engine Bot"
+          git config user.email "context-engine-bot@users.noreply.github.com"
+          git add outputs/
+          git commit -m "Auto: weekly digest $(date +%Y-%m-%d)" || true
+          git push

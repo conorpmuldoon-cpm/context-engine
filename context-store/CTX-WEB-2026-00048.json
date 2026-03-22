@@ -1,0 +1,69 @@
+{
+  "record_id": "CTX-WEB-2026-00048",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-05-07-Infrastructure-News-245-PM",
+  "publication_date": "2025-05-07",
+  "capture_date": "2026-03-22T14:17:04Z",
+  "title": "Mayor Walsh Announces Opening of Kirk Park Canoe and Kayak Launch",
+  "summary": "Mayor Walsh announced the opening of the Kirk Park Canoe and Kayak Launch on May 21, 2025, a new water access point on Onondaga Creek near Hunt Avenue. The Department of Engineering completed significant upgrades including an ADA-compliant launch ramp, safety rails, lockable gate, and a stilling basin. This is part of Syracuse's broader initiative to develop outdoor recreational spaces and improve water access infrastructure.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "parks",
+    "infrastructure",
+    "accessibility",
+    "announcement",
+    "initiative-launch",
+    "water",
+    "parks-and-recreation"
+  ],
+  "department_refs": [
+    "Department of Engineering"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-WALSH"
+    },
+    {
+      "name": "Kirk Park",
+      "type": "organization",
+      "canonical_id": "null"
+    },
+    {
+      "name": "Onondaga Creek",
+      "type": "organization",
+      "canonical_id": "null"
+    },
+    {
+      "name": "Office of Communications",
+      "type": "organization",
+      "canonical_id": "ORG-COMMUNICATIONS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor demonstrates commitment to outdoor recreation and natural resource access as community priorities; positions water infrastructure as equity and quality-of-life initiative.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in metadata but content is mayoral announcement",
+    "Discrepancy: Title says 'Mayor Walsh' but page header shows 'Mayor Sharon F. Owens' — name correction applied to Walsh per announcement text",
+    "No budget or funding amounts provided in release",
+    "Third access point mentioned but other two locations not named in this release",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag corrected: 'recreation' replaced with 'parks-and-recreation' (2026-03-22)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,66 @@
+{
+  "record_id": "CTX-WEB-2026-00100",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-11-21-Infrastructure-News-1",
+  "publication_date": "2023-11-21",
+  "capture_date": "2026-03-22T14:27:07Z",
+  "title": "Downtown Syracuse Overnight Parking Restrictions In Effect",
+  "summary": "The City of Syracuse has implemented seasonal overnight parking restrictions in downtown areas effective November 1 through April 1 to facilitate snow removal operations. Odd-even alternating parking on designated blocks between 10 p.m. and 6 a.m. improves street clearance efficiency and pedestrian/vehicle safety. Violations subject to ticketing and towing; signage and parking alternatives are available through the Downtown Committee.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "snow-removal",
+    "infrastructure",
+    "transportation",
+    "roads-bridges",
+    "announcement",
+    "policy-change",
+    "residents",
+    "recurring"
+  ],
+  "department_refs": [
+    "Department of Traffic and Infrastructure",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Downtown Committee",
+      "type": "organization",
+      "canonical_id": "ORG-DOWNTOWN-COMMITTEE"
+    },
+    {
+      "name": "Downtown Syracuse",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Seasonal infrastructure initiative demonstrating municipal commitment to public safety and efficient service delivery during winter months. Focus on resident communication and alternative options suggests equity-conscious implementation.",
+    "confidence": "medium"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field marked unknown in source; appears to be official city communication",
+    "URL breadcrumb indicates 2024 filing but publication date is 2023-11-21; likely archival organization inconsistency",
+    "No dollar amounts or specific departmental ownership stated; inferred as Traffic & Infrastructure based on URL path and content",
+    "Recurring annual policy; restriction period Nov 1 - Apr 1 suggests this is seasonal standard operating procedure",
+    "Downtown Committee contact provided; no direct mayoral quotes or executive directive language detected",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

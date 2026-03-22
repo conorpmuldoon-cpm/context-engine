@@ -1,0 +1,71 @@
+{
+  "record_id": "CTX-WEB-2026-00084",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/2024/2024-06-18-Infrastructure-News-12PM",
+  "publication_date": "2024-06-18",
+  "capture_date": "2026-03-22T14:24:03Z",
+  "title": "Fire and Water Department Warn: Opening Hydrants Risks Public Safety",
+  "summary": "The Syracuse Fire Department and Department of Water issued a public safety warning against opening fire hydrants during heat waves, citing risks to water pressure, emergency response capability, and public safety. Violators face civil penalties up to $500. Residents are directed to city pools and spray features as alternatives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "emergency-services",
+    "fire",
+    "water",
+    "public-safety-commission",
+    "infrastructure",
+    "code-enforcement",
+    "residents",
+    "policy-change",
+    "sustainability",
+    "announcement"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Department of Water",
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Michael Monds",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-MONDS"
+    },
+    {
+      "name": "Joseph Awald",
+      "type": "person",
+      "canonical_id": "PERSON-JOSEPH-AWALD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Cross-departmental coordination (Fire & Water) on infrastructure integrity and public safety during climate stress events signals emergency preparedness priority alignment.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00083"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' — typical for official municipal press releases",
+    "No specific CIO/digital infrastructure implications detected; primarily operational/enforcement message",
+    "Heat wave context suggests climate adaptation messaging",
+    "Enforcement mechanism ($500 civil penalty) indicates code-enforcement infrastructure requirement",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00083 — linked for review"
+  ],
+  "last_relevance_update": null
+}

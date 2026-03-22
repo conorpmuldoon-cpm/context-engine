@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-WEB-2026-00102",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-11-16-Infrastructure-News",
+  "publication_date": "2023-11-16",
+  "capture_date": "2026-03-22T14:27:31Z",
+  "title": "I-81 to Close Overnight Between Exits 16A & 17",
+  "summary": "The New York State Department of Transportation will close I-81 between exits 16A and 17 in Syracuse during overnight hours (6 p.m. to 6 a.m.) beginning November 15, 2023, to remove steel bridge beams for the I-481 southbound ramp bridge demolition as part of the I-81 Viaduct Project. Signed detours will direct traffic via I-481 North, Brighton Avenue, and Route 11; additional closures dependent on weather and work progress will be announced Friday.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "roads-bridges",
+    "transportation",
+    "construction-staging",
+    "infrastructure",
+    "state-mandates",
+    "state-agency",
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "New York State Department of Transportation",
+      "type": "organization",
+      "canonical_id": "ORG-NYDOT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "I-81 Viaduct Project demolition represents major state infrastructure priority affecting city traffic patterns; Syracuse CIO should track project timeline, detour effectiveness, and potential smart traffic/real-time info opportunities.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown; byline reflects state agency (NYDOT) coordination",
+    "Date discrepancy: URL path shows 2024 but article dated 2023-11-16; content references November 15-16, 2023 events",
+    "No local City departments directly responsible; state-led project with city coordination role",
+    "Strong opportunity for CIO involvement: real-time traffic management, 511 system integration, mobile app detour notifications",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

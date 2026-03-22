@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00013",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=-ZsKhcHXTd4&t=368s",
+  "publication_date": "2026-01-07",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Magnarelli Center Sound System Grant and Items 14-15 Withdrawn",
+  "summary": "Clarification that Councilor Caldwell's grant item funds a new sound and music system at Magnarelli Community Center (Machznney Park) for youth and senior programming. Items 14 and 15 (bond ordinance and authorization) withdrawn by Parks Commissioner for further work.",
+  "raw_content": "[00:06:08] Council Aaron Reich has items 12 through\n[00:06:10] 17.\n[00:06:14] Sisha Bur, Commissioner Parks. Quickly\n[00:06:15] back to Rashida. Councelor Cowwell, the\n[00:06:19] item that you had was a grant\n[00:06:21] specifically for Machznney to be used\n[00:06:23] for youth sound and music and seniors,\n[00:06:26] whatever happens in that building. The\n[00:06:28] system is shot. We needed a new one.\n[00:06:30] There was an opportunity to apply for a\n[00:06:31] grant and so\n[00:06:32] >> Awesome.\n[00:06:33] >> Okay, just to clarify,\n[00:06:34] >> I thought it said at the CEO center.\n[00:06:36] >> It's Magnarelli.\n[00:06:37] >> It does say that.\n[00:06:37] >> Magnarian Magnarelli.\n[00:06:39] >> Magnarelli.\n[00:06:40] >> Sorry, I call it Machznney. Sorry.\n[00:06:42] Magnarelli center.\n[00:06:43] >> So it's everything is correct.\n[00:06:44] >> Yes. Right. We we us park kids play call\n[00:06:47] it by the park name, right?\n[00:06:49] >> Magnarelli. [laughter]\n[00:06:51] >> Magnarelli. Yeah. Yeah.\n[00:06:52] >> Which has name",
+  "transcript_ref": "outputs/transcripts/-ZsKhcHXTd4_corrected.txt",
+  "topic_tags": [
+    "parks",
+    "grants",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Rasheada Caldwell",
+      "type": "person",
+      "canonical_id": "PERSON-CALDWELL-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Sisha Bur",
+      "role": "Commissioner of Parks",
+      "affiliation": "Department of Parks, Recreation and Youth Programs"
+    },
+    {
+      "name": "Rasheada Caldwell",
+      "role": "Council Member",
+      "affiliation": "Syracuse Common Council"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Sisha Bur not in entity registry — Commissioner of Parks",
+    "Magnarelli Center also referred to as 'Machznney' (park name) in transcript",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 4 of 19 from Common Council Study Session, Wednesday, January 7th 2026"
+  ],
+  "last_relevance_update": null
+}

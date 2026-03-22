@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00009",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=-26j2mt6jMU&t=1772s",
+  "publication_date": "2026-01-21",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Southwest Community Center Fiber Upgrade for E-Gaming and Property Settlement Ordinance Correction",
+  "summary": "Two items: (1) IT presents agreement with Spectrum to upgrade Southwest Community Center from coax to fiber connection to support Parks Department e-gaming program, following similar upgrade at Wilson/McBride Street; (2) Department of Assessment corrects settlement ordinance — need to rescind incorrect ordinance reference and amend original Ord. #942 from March 2024 with refund amount of $1,523.89. Assistant Corporation Counsel Trevor McDaniel confirms corrected letter with refund amount being submitted.",
+  "raw_content": "[00:29:32] And if we could, item number 30 is a um\n[00:29:36] this is permission entering an agreement\n[00:29:38] with Spectrum. Um this is to upgrade the\n[00:29:42] Spectrum connection we have at Southwest\n[00:29:45] and this is for their we're set the\n[00:29:47] parks is setting up an e-gaming site\n[00:29:49] there. Uh we did a similar thing at\n[00:29:52] Wilson on McBride Street. We did a\n[00:29:54] similar upgrade from a regular coax\n[00:29:56] connection to a fiber connection to\n[00:29:57] support e-gaming activities.\n[00:29:59] >> Right.\n[00:30:01] >> Thank you. Thanks a\n[00:30:03] 31 and 32.\n[00:30:07] Welcome back Matt.\n[00:30:09] >> Thanks all. These two are related. Um\n[00:30:11] amended uh an ordinance authorizing a\n[00:30:14] settlement from March of 24 last\n[00:30:17] October. Somehow the ordinance itself um\n[00:30:21] amends a different ordinance. So, we'd\n[00:30:22] like to resend that ordinance and uh as\n[00:30:25] a companion piece obviously uh request\n[00:30:27] authorization amending the original\n[00:30:29] ordinance.\n[00:30:31] >> Um OJ, I need a new letter. The letter\n[00:30:34] request to amend ordinance number 952\n[00:30:37] [clears throat]\n[00:30:38] which is not so\n[00:30:40] >> right. We're looking for 942\n[00:30:41] >> letter request\n[00:30:42] >> the letter says 95. Okay.\n[00:30:44] >> Okay. So, and that's a landbake item.\n[00:30:46] They need a new letter for that. And\n[00:30:47] also in that same letter, the council\n[00:30:49] need to know what is the refund. There\n[00:30:51] is no refund amount in that letter. It's\n[00:30:53] it's amending\n[00:30:55] um to include know that. So I need a new\n[00:30:58] letter with\n[00:30:58] >> I know corp council was discussing that\n[00:31:00] with Vicki um and I think there was an\n[00:31:02] open question as to whether it's refund\n[00:31:03] or credit um but we'll clarify that.\n[00:31:05] >> Yeah, the letter says a refund.\n[00:31:07] >> We'll get that buttoned up and get that\n[00:31:08] into your hands.\n[00:31:09] >> All right, [clears throat]\n[00:31:10] >> cool. Thanks, Matt.\n[00:31:13] >> No, not thanks. Council's office.\n[00:31:17] >> Sorry, counselors. Uh Trevor McDaniel,\n[00:31:18] assistant corporation counsel. We do\n[00:31:20] have I believe we have a letter that's\n[00:31:22] signed and getting submitted today. We\n[00:31:24] also have a refund amount for uh the\n[00:31:26] ordinance. The the refund to be issued\n[00:31:28] will be uh $1,523.89\n[00:31:33] and that's also included in the letter\n[00:31:35] for you.\n[00:31:36] >> Thank you, Madam Clerk. [laughter]\n[00:31:40] >> Thank you. All set, Madam President.\n[00:31:45] >> All right. Um Kro Joneser.",
+  "transcript_ref": "outputs/transcripts/-26j2mt6jMU_corrected.txt",
+  "topic_tags": [
+    "IT-infrastructure",
+    "parks",
+    "land-use",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Information Technology",
+    "Department of Assessment",
+    "Department of Parks, Recreation and Youth Programs",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Spectrum",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Dave Pro",
+      "role": "Director of IT",
+      "affiliation": "City of Syracuse"
+    },
+    {
+      "name": "Matt OJ",
+      "role": "Commissioner of Assessment",
+      "affiliation": "City of Syracuse"
+    },
+    {
+      "name": "Trevor McDaniel",
+      "role": "Assistant Corporation Counsel",
+      "affiliation": "City of Syracuse"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "E-gaming initiative expanding to multiple community centers — Wilson/McBride already upgraded",
+    "Settlement ordinance correction is administrative cleanup, not new financial obligation",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 14 of 19 from Common Council Study Session, January 21st 2026"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-WEB-2026-00091",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/2024/2024-04-22-Infrastructure-News-130-PM",
+  "publication_date": "2024-04-22",
+  "capture_date": "2026-03-22T14:25:19Z",
+  "title": "Water Crews Working to Repair Water Main Break on Velasko Road",
+  "summary": "The City of Syracuse Department of Water is repairing a water main break on the 400 block of Velasko Road. Velasko Road between West Onondaga Street and Bellevue Avenue is closed to vehicle traffic; residents and businesses may experience water service disruptions. Crews are actively maintaining water services while completing repairs.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "water",
+    "announcement",
+    "road-closure-fees",
+    "service-requests",
+    "recurring"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse Department of Water",
+      "type": "organization",
+      "canonical_id": "ORG-DOW"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00089"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No author attribution; generic infrastructure maintenance notice",
+    "No dollar amounts or budget impact disclosed",
+    "Contact information provided for resident inquiries (315-448-8360)",
+    "Road closure details specified with detour notice",
+    "Minimal actionable intelligence for CIO unless part of broader water infrastructure modernization initiative",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00089 — linked for review"
+  ],
+  "last_relevance_update": null
+}

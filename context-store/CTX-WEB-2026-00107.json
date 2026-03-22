@@ -1,0 +1,71 @@
+{
+  "record_id": "CTX-WEB-2026-00107",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2023/2023-10-05-Mayors-Office-News-2pm",
+  "publication_date": "2023-10-05",
+  "capture_date": "2026-03-22T14:28:29Z",
+  "title": "Annemarie Deegan Named First Deputy Commissioner of Finance",
+  "summary": "Mayor Ben Walsh appointed Annemarie Deegan as First Deputy Commissioner of Finance, the newly created position. Deegan will oversee centralized financial operations, payroll, capital management, risk mitigation, and modernization initiatives across City departments. She brings 15 years of City service, including roles in Parks and the Office of Management and Budget, and is pursuing an MBA.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "department-head",
+    "hiring",
+    "budget",
+    "payroll",
+    "procurement",
+    "software-systems",
+    "initiative-launch"
+  ],
+  "department_refs": [
+    "Department of Finance",
+    "Department of Parks, Recreation and Youth Programs",
+    "Office of Management and Budget"
+  ],
+  "entity_refs": [
+    {
+      "name": "Annemarie Deegan",
+      "type": "person",
+      "canonical_id": "PERSON-ANNEMARIE-DEEGAN"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "CenterState CEO",
+      "type": "organization",
+      "canonical_id": "ORG-CENTERSTATE-CEO"
+    },
+    {
+      "name": "FOCUS Greater Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-FOCUS-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Administration demonstrates commitment to financial modernization and operational efficiency through internal promotion and new leadership structure in Finance.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Sharon F. Owens mentioned in navigation menu but not in article body—likely editorial artifact",
+    "First Deputy Commissioner appears to be newly created position",
+    "Strong internal mobility/succession planning signal",
+    "Deegan's education credentials (BFA, MBA-in-progress) noted but may indicate gap in finance-specific background",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

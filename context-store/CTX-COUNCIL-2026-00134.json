@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00134",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=rv3OkGSe59c&t=3338s",
+  "publication_date": "2026-02-04",
+  "capture_date": "2026-03-21T23:23:19Z",
+  "title": "Property Transfers, Foreclosure Completions, and Building Code Update Hold",
+  "summary": "Council member Jones-Rowser presents items 44-50. Item 44 (building code update) still held pending NYS Division of Building Standards guidance. Item 45 amends ordinance for 102 Elmhurst to reflect demolition (now vacant land). Items 46 and 49 create building lot sites in current and future housing strategy areas. Items 47, 48, 50 complete foreclosure process on three long-vacant residential properties in severe disrepair — Law Department discovered missing council authorization needed to close on foreclosures that had been in process through multiple cycles.",
+  "raw_content": "[00:55:38] >> Thank you, Madam President. I have item\n[00:55:39] 44 through 50. Um, item 44 is still\n[00:55:45] being held.\n[00:55:47] >> Yeah.\n[00:55:47] >> Yes. Okay.\n[00:55:48] >> All right. So, it's still being held.\n[00:55:50] We're waiting on New York State.\n[00:55:52] >> Um, so 45 through 50.\n[00:55:56] Um,\n[00:55:58] >> good afternoon, counselors. Kaylin\n[00:56:00] Hubard, neighborhood planner with MBD.\n[00:56:01] Um 45 is different. It's an amendment to\n[00:56:04] an ordinance. So um 102 Elmhurst that\n[00:56:08] was already approved. Uh there was a\n[00:56:10] structure on the lot when it was\n[00:56:11] approved, but it has since been demoed.\n[00:56:13] So that's amending the ordinance to\n[00:56:15] reflect vacant land now.\n[00:56:17] Um and then 46 through 50. So 46 and 49\n[00:56:23] are both uh requests for transfer. Those\n[00:56:25] would create uh building lot sites in um\n[00:56:29] both current and future housing strategy\n[00:56:31] areas. And then 50, 47, and 48. These\n[00:56:36] are properties that have been um through\n[00:56:39] multiple cycles of of our foreclosure\n[00:56:41] process. Law was about to close um and\n[00:56:45] then realized that we didn't have an\n[00:56:47] ordinance um from common counsel to to\n[00:56:50] be able to to fully close on it. So, um\n[00:56:52] it would be the last step that we would\n[00:56:54] need to complete the foreclosure on\n[00:56:55] these three properties. Each of them are\n[00:56:58] vacant residentials. Um have been vacant\n[00:57:01] for\n[00:57:02] I think uh one was occupied in 2023. The\n[00:57:06] other two have been vacant for nearly a\n[00:57:09] decade now at this point. Um but all\n[00:57:11] three are now vacant um in some pretty\n[00:57:13] severe disrepair.\n[00:57:16] >> Okay. Um, we didn't discuss these ones,\n[00:57:19] so we'll have to\n[00:57:20] >> We Yeah, we can meet if you'd like on\n[00:57:21] that one.\n[00:57:22] >> All right. Any questions so far?\n[00:57:26] >> Thank you, Taylor.\n[00:57:32] >> Are you all set? All right. Hey,\n[00:57:35] councelor Monto.",
+  "transcript_ref": "outputs/transcripts/rv3OkGSe59c_corrected.txt",
+  "topic_tags": [
+    "land-use",
+    "housing",
+    "code-enforcement",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Patrona Jones-Rowser",
+      "type": "person",
+      "canonical_id": "PERSON-JONES-ROWSER-COUNCIL"
+    },
+    {
+      "name": "Greater Syracuse Property Development Corporation",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Patrona Jones-Rowser",
+      "role": "Common Councilor, District 4",
+      "affiliation": "Syracuse Common Council"
+    },
+    {
+      "name": "Kaylin Hubbard",
+      "role": "Neighborhood Planner",
+      "affiliation": "Department of Neighborhood and Business Development"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Building code update (item 44) has been held across multiple study sessions pending NYS guidance",
+    "Foreclosure properties vacant for years — one occupied until 2023, others vacant nearly a decade",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 18 of 19 from Common Council Study Session, Tuesday, February 4th, 2026",
+    "Transcript corrections applied: national grid -> National Grid"
+  ],
+  "last_relevance_update": null
+}

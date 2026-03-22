@@ -1,0 +1,41 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00035",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=7fCCamsh6U0&t=3145s",
+  "publication_date": "2026-02-23",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "BESS Moratorium Vote -- Energy Storage Location vs. Technology Debate",
+  "summary": "Unnamed councilor votes yes on the 6-month Battery Energy Storage Systems (BESS) moratorium but cautions council not to miss energy efficiency opportunities. Argues the debate should focus on siting and zoning rather than opposing the technology itself, noting BESS facilities address blackouts and brownouts. Points out that at the prior public hearing, 8 of 10 attendees supported battery storage. Urges a comprehensive review of proper locations. Moratorium passes unanimously.",
+  "raw_content": "[00:52:25] >> Item 43. Any objections?\n[00:52:29] Any discussions?\n[00:52:30] >> Discussion.\n[00:52:32] >> Go ahead. Um\n[00:52:34] I\n[00:52:37] I am a yes for this for the moratorum.\n[00:52:40] However, I would like to express um that\n[00:52:44] I do feel that um\n[00:52:49] the intentions of the moratorum are\n[00:52:53] [clears throat] fine. However, I don't\n[00:52:56] want us to miss opportunities to improve\n[00:52:59] on our um energy um efficiency um\n[00:53:03] throughout Syracuse. I think that there\n[00:53:05] has been a lot of communications about\n[00:53:08] specific locations and we need to move\n[00:53:11] past locations um identify the correct\n[00:53:15] locations uh if that has to do with\n[00:53:18] zoning regulations or not. But we need\n[00:53:21] to really take a deep dive into the\n[00:53:26] energy storage versus location. Um I\n[00:53:30] just think that we're missing a point\n[00:53:32] because um as you guys seen last week we\n[00:53:35] we actually had quite a few flickers in\n[00:53:39] our power based on the weight of snow um\n[00:53:42] and with when certain storms happen. So,\n[00:53:45] these energy storage facilities address\n[00:53:48] blackouts and brownouts. Um, and we\n[00:53:52] really need to to take a hard look at um\n[00:53:56] what we could uh stand if we don't if we\n[00:53:59] lose this or if it's a win. Um, when we\n[00:54:02] had our public hearing,\n[00:54:05] I think many of us assumed that there\n[00:54:07] would be a ton of people here against\n[00:54:08] it. Everyone, I would probably say if\n[00:54:11] there was 10 people here, eight of them\n[00:54:12] were all for it. Um, so we really need\n[00:54:15] to take a comprehensive look at the\n[00:54:19] system,\n[00:54:20] identify locations, and not get stuck on\n[00:54:23] the locations that were proposed.\n[00:54:27] >> Thank you.\n[00:54:29] >> I didn't call the vote, right? Um, uh,\n[00:54:31] please call the vote.\n[00:54:33] >> All in favor?\n[00:54:34] >> I unanimous.",
+  "transcript_ref": "outputs/transcripts/7fCCamsh6U0_corrected.txt",
+  "topic_tags": [
+    "zoning",
+    "permitting",
+    "legislation",
+    "council",
+    "vote"
+  ],
+  "department_refs": [],
+  "entity_refs": [],
+  "speakers": [],
+  "speaker_confidence": "medium",
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Councilor supports BESS moratorium while cautioning council not to lose energy storage opportunities, framing debate as location-specific rather than technology opposition",
+    "confidence": "medium"
+  },
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Speaker identity unclear from transcript. BESS moratorium was discussed at public hearing Jan 26, 2026. Speaker appears knowledgeable about energy infrastructure and urges location-based rather than technology-based opposition.",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 8 of 10 from Common Council Regular Meeting, Monday February 23rd 2026"
+  ],
+  "last_relevance_update": null
+}

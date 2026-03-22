@@ -1,0 +1,73 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00078",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=JXzWDmOubsQ&t=1739s",
+  "publication_date": "2026-02-09",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "SPD 1153 Move Bond — Revised Schedule A from Bond Counsel",
+  "summary": "Donna Moore confirms items 33-38 are ready. Jimmy Monto notes that the Schedule A for items 33 and 34 (including the SPD 1153 West Fayette Street move plan, $1M bond) has been revised by bond counsel.",
+  "raw_content": "[00:28:59] >> Thank you, Madam President. I have items\n[00:29:01] 33 through 38. If there's no questions,\n[00:29:04] they're ready to go. Hearing\n[00:29:07] none. Uh, councelor Moore and Montto.\n[00:29:12] >> Council Moore. Oh, this is council\n[00:29:14] Montto. I'm sorry. Make sure that the\n[00:29:16] clerk speak to the microphone, please.\n[00:29:17] >> You know that they changed the um\n[00:29:19] schedule A4 33 and 34.\n[00:29:22] >> There's a new schedule A in your packet.\n[00:29:24] >> Okay. [snorts]\n[00:29:25] >> Because Yeah, because the binding\n[00:29:27] council had to look at look at review\n[00:29:30] and adjust some things.\n[00:29:31] >> Okay. Thank you.\n[00:29:34] in your packet. There's a new schedule.\n[00:29:36] >> Okay.\n[00:29:36] >> 33 and 34. Yep.",
+  "transcript_ref": "outputs/transcripts/JXzWDmOubsQ_corrected.txt",
+  "topic_tags": [
+    "police",
+    "capital-planning",
+    "facilities",
+    "legislation",
+    "council",
+    "vote"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Donna Moore",
+      "type": "person",
+      "canonical_id": "PERSON-MOORE-COUNCIL"
+    },
+    {
+      "name": "Jimmy Monto",
+      "type": "person",
+      "canonical_id": "PERSON-MONTO-COUNCIL"
+    },
+    {
+      "name": "Rita Paniagua",
+      "type": "person",
+      "canonical_id": "PERSON-PANIAGUA-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Donna Moore",
+      "role": "Common Councilor, District 2",
+      "confidence": "high"
+    },
+    {
+      "name": "Jimmy Monto",
+      "role": "Common Councilor, District 5",
+      "confidence": "high"
+    },
+    {
+      "name": "Rita Paniagua",
+      "role": "Council President",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Schedule A revision is procedural bond counsel adjustment; items 33-34 include the $1M SPD 1153 West Fayette move plan from Feb 4 study session",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 5 of 9 from Common Council Study Session, Monday, February 9th, 2026",
+    "Transcript corrections applied: national grid -> National Grid"
+  ],
+  "last_relevance_update": null
+}

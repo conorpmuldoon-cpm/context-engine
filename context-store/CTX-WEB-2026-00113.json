@@ -1,0 +1,83 @@
+{
+  "record_id": "CTX-WEB-2026-00113",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2023/2023-09-06-City-News-1100",
+  "publication_date": "2023-09-06",
+  "capture_date": "2026-03-22T14:29:42Z",
+  "title": "Mayor Walsh Urges Employers to Offer Centro Services to Employees",
+  "summary": "Mayor Ben Walsh announced a three-year agreement making Centro bus service free to City of Syracuse employees as an employee benefit, approved unanimously by Common Council. The initiative aims to improve employee recruitment and retention while reducing transportation costs, with service launching later in September 2023.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "benefits",
+    "business-community",
+    "economic-development",
+    "hiring",
+    "initiative-launch",
+    "intergovernmental",
+    "labor-relations",
+    "mayor",
+    "policy-change",
+    "recurring",
+    "transportation",
+    "workforce-development"
+  ],
+  "department_refs": [
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-OWENS-EXEC"
+    },
+    {
+      "name": "Brian Schultz",
+      "type": "person",
+      "canonical_id": "PERSON-BRIAN-SCHULTZ"
+    },
+    {
+      "name": "Centro",
+      "type": "organization",
+      "canonical_id": "ORG-CENTRO"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Mayor Walsh commits multi-year public resources to employee benefit program as competitive hiring/retention strategy; unanimous council approval signals institutional priority alignment around workforce development and public transit advocacy.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00111"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown; actual author may be Office of Communications",
+    "No specific dollar amounts provided for three-year agreement cost",
+    "Sharon F. Owens appears in navigation header but not in article body—role/connection unclear",
+    "Article mentions Centro mobile ticketing system debut pending—potential digital-services/software-systems angle for CIO",
+    "Intergovernmental partnership with regional transit authority (Centro serves 5-county region)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00111 — linked for review"
+  ],
+  "last_relevance_update": null
+}

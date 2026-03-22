@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00105",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=N0EQah0CZXw&t=3610s",
+  "publication_date": "2026-02-18",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Parkside Commons Held Again, Dr. Linda LeMura Honorary Sign, BESS Moratorium Introduced",
+  "summary": "Jimmy Monto presents items 40-45. Items 40 (Parkside Commons tax exemption) and 41 held for further discussion. Item 42: honorary street sign for Dr. Linda LeMura at Salt Springs/Springfield Road near LeMoyne College; name typo corrected late the prior night. All councilors join. Items 43-45 handed to Jake Dishaw (deputy commissioner, code enforcement and zoning).",
+  "raw_content": "[01:00:10] items 40 through 45. Uh, we will hold 40\n[01:00:14] for further discussion. Uh, 41 will also\n[01:00:17] be held for another meeting.\n[01:00:20] 42 is the installation of an honorary\n[01:00:23] street sign for Dr. Linda Lamira. I\n[01:00:24] would invite my other counselors to join\n[01:00:26] in with me if you'd like to.\n[01:00:28] >> I will. I will.\n[01:00:29] >> Me, too.\n[01:00:30] >> I will. There's um there's a typo on her\n[01:00:32] name is Linda. No, Linda.\n[01:00:34] >> We fixed that.\n[01:00:34] >> We fixed that.\n[01:00:35] >> We fixed that at 11:00 last night.\n[01:00:37] [laughter]\n[01:00:39] >> Um and then 43 through 45. Jake,\n[01:00:52] >> good afternoon, council. Jake Dishaw,\n[01:00:54] deputy commissioner of code enforcement",
+  "transcript_ref": "outputs/transcripts/N0EQah0CZXw_corrected.txt",
+  "topic_tags": [
+    "housing",
+    "zoning",
+    "legislation",
+    "council",
+    "vote"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Jimmy Monto",
+      "type": "person",
+      "canonical_id": "PERSON-MONTO-COUNCIL"
+    },
+    {
+      "name": "Rita Paniagua",
+      "type": "person",
+      "canonical_id": "PERSON-PANIAGUA-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Jimmy Monto",
+      "role": "Common Councilor, District 5",
+      "confidence": "high"
+    },
+    {
+      "name": "Rita Paniagua",
+      "role": "Council President",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-PARKSIDE-COMMONS-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Dr. Linda LeMura is associated with LeMoyne College",
+    "Parkside Commons continues to be held across multiple study sessions",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 17 of 19 from Common Council Study Session, Wednesday February 18th 2026",
+    "Transcript corrections applied: national grid -> National Grid"
+  ],
+  "last_relevance_update": null
+}

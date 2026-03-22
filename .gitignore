@@ -1,0 +1,28 @@
+# Credentials (never commit)
+config/api-config.json
+config/email-config.json
+
+# Personal data
+all_emails.csv
+cmuldoon emails input/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# Playwright browsers (installed at runtime)
+playwright-browsers/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp

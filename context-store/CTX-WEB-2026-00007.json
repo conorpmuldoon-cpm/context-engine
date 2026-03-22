@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-WEB-2026-00007",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-03-09-Mayors-Office-News-930AM",
+  "publication_date": "2026-03-22",
+  "capture_date": "2026-03-22T10:09:56Z",
+  "title": "Mayor Owens Announces Search for New Commissioner of Finance",
+  "summary": "Mayor Sharon F. Owens announced a search for a new Commissioner of Finance, the City's chief fiscal officer responsible for financial management, revenue collection, treasury operations, accounting, debt management, payroll, and financial reporting. Diane Nastri, Assistant Director of Accounting, was appointed Interim Commissioner effective March 4, 2026, with applications for the permanent position due by March 30, 2026.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "hiring",
+    "department-head",
+    "leadership-change",
+    "civil-service",
+    "payroll",
+    "budget",
+    "tax-revenue"
+  ],
+  "department_refs": [
+    "Department of Finance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Diane Nastri",
+      "type": "person",
+      "canonical_id": "PERSON-DIANE-NASTRI"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-OF-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Leadership vacancy in core fiscal operations signals continuity planning and commitment to financial stewardship; active recruitment emphasizes mayor's confidence in Department of Finance operations.",
+    "confidence": "medium"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00003"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "URL date mismatch: title shows 2026-03-22 but article published date shows 2026-03-09; using published date of March 9, 2026",
+    "No dollar amounts or budget figures mentioned",
+    "Application deadline clearly specified (March 30, 2026)",
+    "Department structure clearly defined: Payment Center, Bureau of Accounts, Bureau of Financial Operations",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00003 — linked for review"
+  ],
+  "last_relevance_update": null
+}

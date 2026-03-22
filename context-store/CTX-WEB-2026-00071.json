@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-WEB-2026-00071",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-11-22-Infrastructure-News-605AM",
+  "publication_date": "2024-11-22",
+  "capture_date": "2026-03-22T14:21:37Z",
+  "title": "City Releases Sampling Results That Show Water Meets EPA Lead Standard",
+  "summary": "Syracuse released water sampling results from August-October 2024 showing drinking water meets EPA lead standards at 12 ppb (action level: 15 ppb). The City is accelerating lead service line replacements, targeting over 3,000 lines in the next year using an equity-based prioritization model. Prior sampling protocol violations by Water Department staff are under investigation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "lead-remediation",
+    "infrastructure",
+    "equity",
+    "investigation",
+    "federal-programs",
+    "transparency",
+    "residents",
+    "announcement"
+  ],
+  "department_refs": [
+    "Water Department",
+    "Chief Innovation Officer"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Skaneateles Lake",
+      "type": "system",
+      "canonical_id": "SYS-SKANEATELES-LAKE"
+    },
+    {
+      "name": "U.S. Environmental Protection Agency",
+      "type": "organization",
+      "canonical_id": "ORG-EPA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "City demonstrates commitment to regulatory compliance and public health through accelerated lead remediation; however, prior protocol violations and administrative leave decisions signal internal governance concerns requiring oversight.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Content truncated mid-sentence; full document unavailable for complete analysis",
+    "Two Water Department employees placed on administrative leave—investigation status and timeline unclear; suggests potential disciplinary/personnel action forthcoming",
+    "Equity Score methodology explicitly detailed for service line prioritization—CIO should validate data governance and GIS integration for targeting",
+    "No budget figures provided despite significant capital commitment (3,000+ line replacements)",
+    "First-half 2024 sampling showed 26% exceedance rate (27/104 homes); second-half shows improved compliance (5/131 homes)—trend suggests remedial action effectiveness but requires ongoing monitoring",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

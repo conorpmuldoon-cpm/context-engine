@@ -1,0 +1,238 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://syr.gov/cme/context-engine/context-record/1.0.0",
+  "title": "CME Context Record",
+  "description": "Schema for Context Engine records — the universal data structure for political, operational, and environmental intelligence collected from public sources.",
+  "type": "object",
+  "required": [
+    "record_id",
+    "source_agent",
+    "source_type",
+    "publication_date",
+    "capture_date",
+    "title",
+    "summary",
+    "topic_tags",
+    "department_refs",
+    "sentiment",
+    "freshness_class",
+    "schema_version"
+  ],
+  "properties": {
+    "record_id": {
+      "type": "string",
+      "pattern": "^CTX-(COUNCIL|WEB|NEWS|BOARD|BUDGET|PEER|MANUAL)-\\d{4}-\\d{5}$",
+      "description": "Unique identifier. Format: CTX-{SOURCE_CODE}-{YYYY}-{SEQUENCE}"
+    },
+    "source_agent": {
+      "type": "string",
+      "enum": [
+        "council_transcriber",
+        "website_monitor",
+        "news_scanner",
+        "board_monitor",
+        "budget_agent",
+        "peer_watcher",
+        "manual_input"
+      ],
+      "description": "Which collector agent or input method produced this record"
+    },
+    "source_type": {
+      "type": "string",
+      "enum": [
+        "council_session",
+        "council_segment",
+        "resolution",
+        "press_release",
+        "news_article",
+        "board_minutes",
+        "board_agenda",
+        "budget_document",
+        "capital_plan",
+        "grant_award",
+        "peer_practice",
+        "ordinance",
+        "rfp",
+        "public_notice",
+        "manual_observation",
+        "internal_note"
+      ],
+      "description": "Content classification"
+    },
+    "source_url": {
+      "type": ["string", "null"],
+      "format": "uri",
+      "description": "Direct URL to the original source material"
+    },
+    "publication_date": {
+      "type": "string",
+      "format": "date",
+      "description": "When the source material was published or the event occurred (YYYY-MM-DD)"
+    },
+    "capture_date": {
+      "type": "string",
+      "format": "date-time",
+      "description": "When the collector agent or operator processed this material (ISO 8601)"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 5,
+      "maxLength": 300,
+      "description": "Human-readable title. For council segments: agenda item description. For news: headline."
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 20,
+      "maxLength": 2000,
+      "description": "2-4 sentence summary of the content"
+    },
+    "raw_content": {
+      "type": ["string", "null"],
+      "description": "Full text content. Null for video sources where transcript is stored separately."
+    },
+    "transcript_ref": {
+      "type": ["string", "null"],
+      "description": "Path to full transcript file (for council/board meeting segments)"
+    },
+
+    "topic_tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "description": "Tags from the controlled vocabulary (config/taxonomy.json). Minimum 1."
+    },
+    "department_refs": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "City departments referenced. Uses canonical full department names."
+    },
+    "entity_refs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "type"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Entity name"
+          },
+          "type": {
+            "type": "string",
+            "enum": ["person", "system", "organization", "process", "location", "budget_item"],
+            "description": "Entity type classification"
+          },
+          "canonical_id": {
+            "type": ["string", "null"],
+            "description": "Canonical identifier for cross-referencing (e.g., SYS-CAMINO, PERSON-RIVERA-COUNCIL)"
+          }
+        }
+      },
+      "description": "Named entities extracted: people, systems, organizations, processes"
+    },
+    "speakers": {
+      "type": ["array", "null"],
+      "items": {
+        "type": "object",
+        "required": ["name", "role"],
+        "properties": {
+          "name": { "type": "string" },
+          "role": { "type": "string" },
+          "affiliation": { "type": ["string", "null"] }
+        }
+      },
+      "description": "For council/board meeting segments: speaker identification. Null for non-meeting sources."
+    },
+    "speaker_confidence": {
+      "type": ["string", "null"],
+      "enum": ["high", "medium", "low", null],
+      "description": "Confidence level for speaker attribution in meeting segments"
+    },
+    "sentiment": {
+      "type": "string",
+      "enum": ["positive", "neutral", "critical", "mixed", "advocacy", "procedural"],
+      "description": "Tone classification of the content"
+    },
+    "political_signal": {
+      "type": ["object", "null"],
+      "properties": {
+        "signal_type": {
+          "type": "string",
+          "enum": [
+            "championship",
+            "opposition",
+            "scrutiny",
+            "constituent_pressure",
+            "priority_alignment",
+            "budget_commitment"
+          ]
+        },
+        "description": {
+          "type": "string",
+          "description": "Brief description of the political signal detected"
+        },
+        "confidence": {
+          "type": "string",
+          "enum": ["high", "medium", "low"]
+        }
+      },
+      "required": ["signal_type", "description", "confidence"],
+      "description": "Detectable political signal, if present"
+    },
+    "freshness_class": {
+      "type": "string",
+      "enum": ["long", "medium", "short"],
+      "description": "Decay category: long (24mo), medium (3-6mo), short (6wk)"
+    },
+    "cluster_ids": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "IDs of related context records grouped into thematic clusters"
+    },
+    "engagement_relevance": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["engagement_id", "score"],
+        "properties": {
+          "engagement_id": { "type": "string" },
+          "score": { "type": "number", "minimum": 0, "maximum": 1 },
+          "match_factors": {
+            "type": "array",
+            "items": { "type": "string" }
+          }
+        }
+      },
+      "description": "Relevance scores against active CME engagements"
+    },
+    "feedback": {
+      "type": ["object", "null"],
+      "properties": {
+        "useful": { "type": "boolean" },
+        "engagement_context": { "type": ["string", "null"] },
+        "date": { "type": "string", "format": "date" }
+      },
+      "description": "Operator feedback on this record's usefulness (populated after briefing review)"
+    },
+
+    "schema_version": {
+      "type": "string",
+      "const": "1.0.0",
+      "description": "Version of this schema"
+    },
+    "librarian_version": {
+      "type": ["string", "null"],
+      "description": "Version of the Librarian that processed this record"
+    },
+    "processing_notes": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Flags from processing: synonym resolutions, low-confidence tags, disambiguation notes, provisional tag creation"
+    },
+    "last_relevance_update": {
+      "type": ["string", "null"],
+      "format": "date-time",
+      "description": "When relevance scores were last recalculated"
+    }
+  },
+  "additionalProperties": false
+}

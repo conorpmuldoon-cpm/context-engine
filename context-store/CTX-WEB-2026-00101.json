@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-WEB-2026-00101",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-11-21-Infrastructure-News",
+  "publication_date": "2023-11-21",
+  "capture_date": "2026-03-22T14:27:18Z",
+  "title": "Water Crews Working To Repair Water Main Break On West Fayette Street",
+  "summary": "The City of Syracuse Department of Water is repairing a water main break at South Clinton and West Fayette Street. Service disruption affects the 200 block of West Fayette Street with expected restoration by 6 pm; the intersection remains closed to vehicle traffic with sidewalks open and detours in place.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "infrastructure",
+    "announcement",
+    "service-requests",
+    "construction-staging",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE"
+    },
+    {
+      "name": "Office of Communications",
+      "type": "organization",
+      "canonical_id": "ORG-COMMUNICATIONS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Date discrepancy: article header says 2023-11-21 but breadcrumb shows '2024' folder path; using 2023-11-21 as published date",
+    "Author listed as 'Unknown' in source metadata",
+    "No dollar amounts, budget impacts, or policy changes detected",
+    "Standard infrastructure maintenance notification with public service coordination",
+    "Contact information provided via Cityline 311 system",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

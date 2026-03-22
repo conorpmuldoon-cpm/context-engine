@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00016",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=-ZsKhcHXTd4&t=1153s",
+  "publication_date": "2026-01-07",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Syracuse Fire Department Wellness and Safety Contracts Introduction",
+  "summary": "Fire Chief introduces items 19 and 20 as essential and mandatory programs for firefighter wellness, safety, and operational readiness in high-risk environments. Item 22 withdrawn as already approved in prior year. Councilor Moore sponsoring all fire department items.",
+  "raw_content": "[00:19:13] items 19 through 22. We're going to\n[00:19:15] withdraw 22 that's already been approved\n[00:19:18] last year. Um 19 and his agreement with\n[00:19:21] Krauss Health um hospital for the help\n[00:19:24] people employee assistance program.\n[00:19:26] >> Hello. Hello Madame President Pantiagua.\n[00:19:29] Members of the council, welcome as a\n[00:19:30] chair, councelor Moore. Um the two items\n[00:19:33] in front of you um are essential and\n[00:19:36] mandatory um um items for firefighter\n[00:19:39] wellness and safety and for our\n[00:19:40] operational uh readiness. As you know,\n[00:19:43] our firefighters work in high-risisk and\n[00:19:45] high stress uh situations and\n[00:19:46] environments. And these two legislation",
+  "transcript_ref": "outputs/transcripts/-ZsKhcHXTd4_corrected.txt",
+  "topic_tags": [
+    "fire",
+    "benefits",
+    "council"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Crouse Health Hospital",
+      "type": "organization",
+      "canonical_id": "ORG-CROUSE"
+    },
+    {
+      "name": "Donna Moore",
+      "type": "person",
+      "canonical_id": "PERSON-MOORE-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Donna Moore",
+      "role": "Council Member",
+      "affiliation": "Syracuse Common Council"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "advocacy",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Fire Chief not identified by name in transcript — not in entity registry",
+    "Seg 7 is brief intro; detailed EAP discussion continues in seg 8",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 7 of 19 from Common Council Study Session, Wednesday, January 7th 2026"
+  ],
+  "last_relevance_update": null
+}

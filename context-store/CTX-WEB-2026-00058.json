@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-WEB-2026-00058",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2025/2025-01-13-Infrastructure-News-1035AM",
+  "publication_date": "2025-01-13",
+  "capture_date": "2026-03-22T14:19:06Z",
+  "title": "Water Crews Working to Repair Water Main Break on Sunnycrest Road",
+  "summary": "The City of Syracuse Department of Water is repairing a water main break on the 100 block of Sunnycrest Road, causing service disruptions for households and businesses in the area and low pressure in Eastwood. Sunnycrest Road between Shotwell Park and Hickok Avenue is closed to vehicle traffic; sidewalks remain open with detours in place.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "infrastructure",
+    "announcement",
+    "service-requests",
+    "roads-bridges",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    },
+    {
+      "name": "Office of Communications",
+      "type": "organization",
+      "canonical_id": "ORG-OFFICE-COMMUNICATIONS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Sharon F. Owens appears in navigation as Mayor but is not mentioned in article content",
+    "No dollar amounts or timeline for repair completion provided",
+    "Contact number provided (315-448-8360) for public inquiries",
+    "Geographic scope: Sunnycrest Road, Shotwell Park, Hickok Avenue, Eastwood neighborhood",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

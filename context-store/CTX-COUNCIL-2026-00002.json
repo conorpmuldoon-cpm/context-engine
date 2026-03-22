@@ -1,0 +1,52 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00002",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=-26j2mt6jMU&t=376s",
+  "publication_date": "2026-01-21",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Resolution Urging New York State Support for NY For All Act",
+  "summary": "Council member introduces resolution urging NY State Senate, Assembly, and Governor to support the New York For All Act. Seeks co-sponsors from fellow councilors; no immediate co-signers at this session.",
+  "raw_content": "[00:06:16] >> Thank you, Madam President. I have item\n[00:06:18] 11. It is a resolution\n[00:06:21] um urging the state of New York both was\n[00:06:24] uh the Senate and assembly and the\n[00:06:27] governor to support um New York\n[00:06:33] um New York for all act. Um, so I\n[00:06:37] wondering if is anybody willing to sign\n[00:06:39] on with this or\n[00:06:41] >> nobody on [clears throat and cough]\n[00:06:45] >> something.\n[00:06:47] That's something different. [laughter]\n[00:06:50] >> We're all\n[00:06:52] >> Thank you, Council M. Um, councelor Erin\n[00:06:56] Rick.",
+  "transcript_ref": "outputs/transcripts/-26j2mt6jMU_corrected.txt",
+  "topic_tags": [
+    "legislation",
+    "state-mandates",
+    "council"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Dr. Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-MAJOK-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Dr. Chol Majok",
+      "role": "Common Councilor At-Large",
+      "affiliation": "Syracuse Common Council"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Council member advocates for state-level immigrant protection legislation",
+    "confidence": "medium"
+  },
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Presenter identified as Dr. Chol Majok from 'Council mach' transcript reference",
+    "NY For All Act = state-level legislation, no city department involvement",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 3 of 19 from Common Council Study Session, January 21st 2026"
+  ],
+  "last_relevance_update": null
+}

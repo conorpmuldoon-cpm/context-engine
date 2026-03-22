@@ -1,0 +1,66 @@
+{
+  "record_id": "CTX-WEB-2026-00109",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-09-12-Traffic-News-635-PM",
+  "publication_date": "2023-09-12",
+  "capture_date": "2026-03-22T14:28:53Z",
+  "title": "Street Closing Information for 2023 Festa Italiana",
+  "summary": "Festa Italiana festival will operate September 15-17, 2023 in front of City Hall with multi-stage street closures beginning September 14 through September 18. Setup in the KeyBank Building adjacent lot and surrounding streets (East Washington, Montgomery, Market, East Water Streets) will be sequentially closed starting at 9 a.m., 1 p.m., and 5 p.m. Thursday through Monday morning reopening.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "recurring",
+    "roads-bridges",
+    "road-closure-fees",
+    "transportation",
+    "parks",
+    "permitting",
+    "construction-staging"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs",
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Festa Italiana Syracuse",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "KeyBank",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "City proactively communicates festival logistics and traffic management, signaling investment in cultural events and community engagement programming.",
+    "confidence": "medium"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Date discrepancy: press release published September 12, 2023 but URL path indicates 2024 archive; festival dates are 2023",
+    "No author attribution provided in byline",
+    "Document is primarily traffic/permitting notification rather than policy or budgetary content",
+    "No digital infrastructure implications detected for CIO purview",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag corrected: 'permits' replaced with 'permitting' (2026-03-22)"
+  ],
+  "last_relevance_update": null
+}

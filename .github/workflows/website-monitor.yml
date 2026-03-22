@@ -1,0 +1,34 @@
+name: Website Monitor
+
+on:
+  schedule:
+    - cron: '15 12 * * *'  # 12:15 UTC = ~7:15 AM ET
+  workflow_dispatch: {}     # Manual trigger via GitHub UI
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install playwright anthropic jsonschema
+          playwright install chromium
+
+      - name: Run website monitor
+        run: python scripts/scan_website.py --no-email
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit new records
+        run: |
+          git config user.name "Context Engine Bot"
+          git config user.email "context-engine-bot@users.noreply.github.com"
+          git add context-store/ outputs/
+          git commit -m "Auto: website monitor $(date +%Y-%m-%d)" || true
+          git push

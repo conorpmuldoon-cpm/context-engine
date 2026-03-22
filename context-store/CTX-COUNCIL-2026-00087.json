@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00087",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=m56feIFbY6s&t=2487s",
+  "publication_date": "2026-03-04",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Senior Property Tax Exemption Expansion -- 65% Exemption, $58,399 Income Cap",
+  "summary": "Assessment staff presents item 28: expanding the senior property tax exemption program to 65% of assessed value with income eligibility up to $58,399. Staff notes agreement with Councilor Jones-Rowser on the approach. Brief discussion confirms readiness for introduction and vote.",
+  "raw_content": "[00:41:27] item number 28\n[00:41:30] >> is [sighs]\n[00:41:39] [snorts]\n[00:41:39] >> hi again everybody. Uh\n[00:41:43] >> I can wait.\n[00:41:46] >> We're looking to expand the senior uh\n[00:41:48] exemption program. um expanding the pool\n[00:41:51] of um or I should say um increasing the\n[00:41:54] eligible exemption for uh incomes to 65%\n[00:41:58] of total uh property value.\n[00:42:02] We we've [snorts] provided some numbers\n[00:42:03] to councelor Jones Rouser. Uh I think\n[00:42:04] we've got a meeting of the minds uh that\n[00:42:06] this is a pretty good step in the right\n[00:42:08] direction for for the demographic we're\n[00:42:10] looking to serve and uh hope to get this\n[00:42:12] introduced and uh voted upon.\n[00:42:15] >> Yeah. Uh, council, um, what is the\n[00:42:18] maximum\n[00:42:19] >> maximum for income? The [cough] income.\n[00:42:23] >> Oh, gosh. And this is what I get for not\n[00:42:24] printing out my letter. Um, I think the\n[00:42:27] maximum is $54,999.99,\n[00:42:30] but I can double check and get back to\n[00:42:31] you.\n[00:42:31] >> 54\n[00:42:33] 549.99.\n[00:42:34] >> Okay.\n[00:42:35] >> 50.\n[00:42:36] >> Yeah,\n[00:42:36] >> but you if you have the letter in front\n[00:42:38] of you that\n[00:42:39] >> Okay, I'll look at the\n[00:42:43] [laughter]\n[00:42:44] letter.\n[00:42:44] >> Thank you.\n[00:42:54] 58399. I apologize.\n[00:43:00] >> So essentially this uh just ups the\n[00:43:04] percentage of taxable um assessed value\n[00:43:06] that would be eligible for the exemption\n[00:43:09] up to 65%\n[00:43:11] for those making under the the minimum\n[00:43:13] threshold. Any\n[00:43:16] questions?\n[00:43:18] Right.\n[00:43:18] >> Super. Thanks, Matt.\n[00:43:19] >> Thanks, Brian.\n[00:43:24] >> All right. 29 is uh what is this one?\n[00:43:29] >> Oh, Jake.\n[00:43:36] Good afternoon, council. Jake Dishaw,\n[00:43:38] deputy commissioner of code enforcement",
+  "transcript_ref": "outputs/transcripts/m56feIFbY6s_corrected.txt",
+  "topic_tags": [
+    "tax-revenue",
+    "legislation",
+    "equity",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Assessment"
+  ],
+  "entity_refs": [
+    {
+      "name": "Patrona Jones-Rowser",
+      "type": "person",
+      "canonical_id": "PERSON-JONES-ROWSER-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Brian",
+      "role": "Assessment Department staff",
+      "confidence": "medium"
+    },
+    {
+      "name": "Patrona Jones-Rowser",
+      "role": "Councilor, District 4",
+      "confidence": "medium"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Continues senior exemption discussion from Feb 18 and Feb 23 study sessions. $54,999.99 was initially stated but corrected to $58,399 during discussion. Amends General Ordinance #20-2023.",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 9 of 14 from Common Council Study Session, Wednesday March 4th 2026",
+    "Transcript corrections applied: SU -> Syracuse University"
+  ],
+  "last_relevance_update": null
+}

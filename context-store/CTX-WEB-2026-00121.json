@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-WEB-2026-00121",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-06-07-Infrastructure-News-510PM",
+  "publication_date": "2023-06-07",
+  "capture_date": "2026-03-22T14:31:25Z",
+  "title": "City Announces Lane Restrictions for Greenspace Maintenance on West St",
+  "summary": "City of Syracuse announced a greenspace maintenance project on West Street South (200-300 block of West Fayette Street) scheduled for Saturday, June 10, 2023. Two right lanes will be closed from 6 a.m. to 1 p.m. for shrub removal and soil preparation; wildflower seeds will be planted later. The left lane remains open during work.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "roads-bridges",
+    "parks",
+    "transportation",
+    "construction-staging",
+    "infrastructure"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Office of Communications",
+      "type": "organization",
+      "canonical_id": "ORG-COMMUNICATIONS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Greenspace and landscaping maintenance reflects sustainability and neighborhood beautification priorities aligned with livability goals.",
+    "confidence": "medium"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' - actual author/department not specified in press release",
+    "Publication date metadata shows 2023-06-07 but URL path references 2024 directory structure; chronology inconsistency noted",
+    "No budget or contract information provided",
+    "No department explicitly listed in content; inferred DPW/Parks involvement based on project type",
+    "Limited innovation/CIO relevance unless part of broader data or permit management initiative",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

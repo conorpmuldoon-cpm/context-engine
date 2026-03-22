@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-WEB-2026-00077",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/2024/2024-10-07-Mayors-Office-News-4-PM",
+  "publication_date": "2024-10-07",
+  "capture_date": "2026-03-22T14:22:46Z",
+  "title": "Mayor Walsh Appoints Robert Brandt to Commissioner of Water",
+  "summary": "Mayor Ben Walsh announced the permanent appointment of Robert Brandt as Commissioner of the Department of Water, effective October 7, 2024. Brandt transitioned from Interim Commissioner (since June 2024) to permanent role, bringing 30+ years of municipal service experience. The appointment signals organizational stability in water infrastructure management and oversight.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "leadership-change",
+    "department-head",
+    "water",
+    "infrastructure",
+    "civil-service"
+  ],
+  "department_refs": [
+    "Department of Water",
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Robert Brandt",
+      "type": "person",
+      "canonical_id": "PERSON-ROBERT-BRANDT"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "AFSCME Council 66",
+      "type": "organization",
+      "canonical_id": "ORG-AFSCME-COUNCIL-66"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor publicly champions water infrastructure management and operational continuity by formalizing Brandt's interim role; demonstrates commitment to departmental stability and experienced leadership.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in source metadata; actual author likely Mayor's Office of Communications",
+    "Discrepancy noted: press release byline references 'Mayor Walsh' but City website lists 'Mayor Sharon F. Owens' in quick links; verify current mayoral administration",
+    "Brandt's union background (AFSCME Vice President) may be relevant to labor-relations context; flagged for CIO awareness",
+    "No IT systems, digital services, or innovation initiatives mentioned in appointment announcement",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

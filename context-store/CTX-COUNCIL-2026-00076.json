@@ -1,0 +1,77 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00076",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=JXzWDmOubsQ&t=447s",
+  "publication_date": "2026-02-09",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Bond Ordinances Ready — Revised Schedule for City-Owned Buildings",
+  "summary": "Council reviews items 11-28 including multiple bond ordinances. Jimmy Monto (presenting for Dr. Chol Majok) confirms items 11-26 are ready, noting a revised schedule for city-owned buildings on items 15/16. Hanah Ehrenreich confirms item 28 is also ready. Items include the DPW Dig Once Streetscape ($245K) and CHIPS Reimbursable Sidewalk projects.",
+  "raw_content": "[00:07:27] Mook has items 11 through 26 and those\n[00:07:30] are all ready to go.\n[00:07:33] >> All right. There was a new schedule uh\n[00:07:35] for\n[00:07:38] or city\n[00:07:39] >> city own buildings that's in there and\n[00:07:41] it's it's all good\n[00:07:43] >> number what number\n[00:07:44] >> 156\n[00:07:46] >> okay\n[00:07:48] >> so we're moving on\n[00:07:50] >> okay [clears throat]\n[00:07:51] >> um with that said we're going to go to\n[00:07:56] >> oh 27 is ready too sorry\n[00:07:58] >> okay\n[00:07:58] >> I missed that one\n[00:08:00] >> all right then uh councelor Erin Rich\n[00:08:05] number 28 I have number 28 and I'm it's\n[00:08:10] ready to go.\n[00:08:12] >> Thank you. Uh councelor\n[00:08:15] Erin Rich again.",
+  "transcript_ref": "outputs/transcripts/JXzWDmOubsQ_corrected.txt",
+  "topic_tags": [
+    "capital-planning",
+    "roads-bridges",
+    "legislation",
+    "council",
+    "vote"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jimmy Monto",
+      "type": "person",
+      "canonical_id": "PERSON-MONTO-COUNCIL"
+    },
+    {
+      "name": "Dr. Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-MAJOK-COUNCIL"
+    },
+    {
+      "name": "Hanah Ehrenreich",
+      "type": "person",
+      "canonical_id": "PERSON-EHRENREICH-COUNCIL"
+    },
+    {
+      "name": "Rita Paniagua",
+      "type": "person",
+      "canonical_id": "PERSON-PANIAGUA-COUNCIL"
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Jimmy Monto",
+      "role": "Common Councilor, District 5",
+      "confidence": "high"
+    },
+    {
+      "name": "Hanah Ehrenreich",
+      "role": "Common Councilor At-Large",
+      "confidence": "high"
+    },
+    {
+      "name": "Rita Paniagua",
+      "role": "Council President",
+      "confidence": "high"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Items 11-26 presented by Monto on behalf of Majok; mostly ready confirmations with revised schedule note for items 15/16",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 3 of 9 from Common Council Study Session, Monday, February 9th, 2026",
+    "Transcript corrections applied: national grid -> National Grid"
+  ],
+  "last_relevance_update": null
+}

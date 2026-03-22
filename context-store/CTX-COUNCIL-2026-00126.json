@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00126",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=rv3OkGSe59c&t=1092s",
+  "publication_date": "2026-02-04",
+  "capture_date": "2026-03-21T23:23:19Z",
+  "title": "American Leak Detection Contract Extension for Water System Monitoring",
+  "summary": "Water Department Management Analyst presents extension of contract with American Leak for leak detection across the water distribution system using specialized sensors on conduits, services, and water mains. Council requests cost-benefit analysis quantifying water savings from early leak detection; staff offers to provide annual reports with volume and cost data.",
+  "raw_content": "[00:18:12] management analyst. Um item 24 is to\n[00:18:15] extend the contract with American leak.\n[00:18:18] We have used utilized them in the past.\n[00:18:20] Um they help um locate any leaks going\n[00:18:23] on throughout the system.\n[00:18:28] I have a question. Sure. Do we know how\n[00:18:30] much we are saving from detecting and\n[00:18:33] fixing the leaks in terms of financial\n[00:18:35] resources?\n[00:18:38] how much we're saving. Um,\n[00:18:41] well, we're locating the leaks before\n[00:18:44] they get worse, which is wonderful. Um,\n[00:18:47] we're [snorts] repairing them, you know,\n[00:18:49] ASAP. So, I couldn't really put a number\n[00:18:51] on that at this time. I could certainly\n[00:18:53] look into it.\n[00:18:55] >> They're the monitoring system, though.\n[00:18:57] So,\n[00:19:00] >> correct.\n[00:19:01] >> I'm sorry, what?\n[00:19:02] >> They're the monitoring\n[00:19:04] portion. They monitor where the leaks\n[00:19:08] are. Like they detect they detect where\n[00:19:10] it is.\n[00:19:10] >> Exactly. Exactly. So I'm just\n[00:19:12] >> They have specialized equipment.\n[00:19:14] >> Yeah.\n[00:19:14] >> Right. Right.\n[00:19:17] >> Right.\n[00:19:19] >> Is this on our pipes or valves or is it\n[00:19:22] on a car that we ride around in?\n[00:19:25] >> It's it's throughout the distribution\n[00:19:27] system on the conduits and the services\n[00:19:29] and water manes. and they um have\n[00:19:33] special sensors\n[00:19:35] >> that they will look\n[00:19:36] >> they did this they said that last year.\n[00:19:37] So that's what I'm just saying like I\n[00:19:38] don't\n[00:19:38] >> right\n[00:19:39] >> is the question that we're we are we're\n[00:19:42] saving here because\n[00:19:44] >> I'm just I'm just interested. Yeah.\n[00:19:46] >> Well, so if we don't find the leaks, we\n[00:19:50] lose water. Water is money and time and\n[00:19:53] resources and then the leaks get worse\n[00:19:55] and we have worse disruption. I just as\n[00:19:57] a costbenefit analysis, if we weren't\n[00:19:59] doing that, what financial position\n[00:20:01] would we be in? And we're doing that.\n[00:20:02] So, we're saving money and\n[00:20:04] infrastructure. I just want to situate\n[00:20:07] in context.\n[00:20:09] >> Sure. Um, it's it's certainly saving\n[00:20:10] money. Um, you know, if once a leak gets\n[00:20:14] larger, um, it's more people out of\n[00:20:17] water, you know, bigger reconstruction,\n[00:20:18] bigger.\n[00:20:19] >> I guess I was looking for the volume of\n[00:20:21] water and the cost savings from what\n[00:20:23] they've done for work for us before, but\n[00:20:25] I don't mean that.\n[00:20:26] >> We do have annual reports. I could\n[00:20:28] certainly, you know, look into that for\n[00:20:29] you.\n[00:20:30] >> Thank you. I appreciate.\n[00:20:30] >> Sure. Sure.",
+  "transcript_ref": "outputs/transcripts/rv3OkGSe59c_corrected.txt",
+  "topic_tags": [
+    "water",
+    "procurement",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "American Leak",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Beth Smith",
+      "role": "Management Analyst",
+      "affiliation": "Syracuse Water Department"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council requests quantitative ROI data on leak detection program",
+    "confidence": "low"
+  },
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Council interest in cost-benefit data for preventive infrastructure maintenance",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 4 of 19 from Common Council Study Session, Tuesday, February 4th, 2026",
+    "Transcript corrections applied: national grid -> National Grid"
+  ],
+  "last_relevance_update": null
+}

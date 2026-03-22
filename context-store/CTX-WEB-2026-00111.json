@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-WEB-2026-00111",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2023/2023-09-07-Infrastructure-News-100",
+  "publication_date": "2023-09-07",
+  "capture_date": "2026-03-22T14:29:17Z",
+  "title": "City of Syracuse Warns of Traffic Delays on East Colvin Street",
+  "summary": "The City of Syracuse is warning of traffic delays on East Colvin Street between I-81 and Jamesville Avenue during September 7-14, 2023 due to milling and paving work. The project includes full reconstruction with new pavement, bike lanes, sidewalks, water mains, sewer rehabilitation, and landscaping, expected to complete by end of October. One-lane traffic with flaggers will manage flow; evening reopening to two-way traffic occurs when work halts.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "roads-bridges",
+    "construction-staging",
+    "transportation",
+    "announcement",
+    "water",
+    "sewer",
+    "lead-remediation",
+    "micromobility"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Proactive public communication about infrastructure investment with comprehensive modernization scope (roads, water, sewer, sidewalks, bike lanes, landscaping). Demonstrates commitment to integrated 'dig once' approach and lead service replacement, aligning with sustainability and equity priorities.",
+    "confidence": "medium"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' - typical for institutional press releases",
+    "Date discrepancy: published 2023-09-07 but breadcrumb shows '2024' folder; URL confirms 2023-09-07",
+    "No budget amount specified for project; completion timeline provides constraint metric",
+    "Lead water service replacement noted—connects to lead-remediation tag",
+    "Mayor Owens mentioned in header navigation but not in article body",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

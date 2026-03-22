@@ -1,0 +1,105 @@
+{
+  "record_id": "CTX-MANUAL-2026-00003",
+  "source_agent": "manual_input",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=QEfsEBcZQoE&t=533s",
+  "publication_date": "2026-03-17",
+  "capture_date": "2026-03-21T00:00:00Z",
+  "title": "Comstock Avenue Road Closure Fee Schedule Debate — Unprecedented 2-Year Full Closure",
+  "summary": "City administration representative Eric presents the core policy issue: the SU Comstock construction project requires an unprecedented 2-year full road closure, but the city's fee schedule (adopted in 2025) compounds every 14 days, resulting in approximately $2.6M in fees — a scenario not contemplated when the fee structure was designed. The initial 90-day administrative closure (approved by DPW Commissioner) expires end of March; council authorization is needed for extension through June. Council members scrutinize whether modifying fees for this project sets a problematic precedent, especially given the city's projected $20M+ budget deficit heading into budget negotiations.",
+  "raw_content": "So when did this project commence? We probably started about two months ago where the first shovel went in the ground. And I take everything that you need from the city is in order, right? You've got your permits, you got everything you need. Yes. So right now we are in the process of doing third party review on the building permits for Waverly and Comstock. All of the city departments have provided comments and LaBella is closing out that process right now with the central permit office. But we do have site and foundation permits allowing us to start construction. So from this project, what have from the liability waiver, how's that been in terms of implementation of it? So there's a number of different permits and permissions that the project team and Syracuse University have come before the city on. That includes the parking meter rental for any portion of a roadway where the parking meter spaces are being taken up. City has a process and a calculation by which that needs to be calculated. The payments from the project team and from Hayner Hoyt have been paid. There's also a road cut permit application. Over the past year the engineering department as well as other city departments did work with the common council on making modifications to the project fee schedule. Part of that was looking at both the refundable and non-refundable fees in order to examine projects in which there's work happening in the right of way. There have been times in projects in the past where not all of the work from a full restoration standpoint had been completed. One of the things that was not contemplated at the time when we were developing that fee schedule is the particular instance in this project which is a upwards of a 2-year road closure. And ultimately what that means when you were to examine shutting down a right of way and a roadway. The road has two active construction sites on either side of Comstock. In terms of the background, this is the first project, first time we've encountered this situation where we have a full closure of the roadway. It's under the terminology of project staging. The methodology is that it renews every 14 days. So in this particular case, what we've really been looking at is the 14 days is compounded. A 90-day permission to be able to close down the road, something that is afforded in the charter, the DPW commissioner has the ability to approve. Anything longer than that 90 days does require common council approval. The legislation was submitted for consideration. The 90 days would take us from the end of March through the end of June. Any additional extension is also something the council would have to approve. We understand that this is likely not going to be the last time in which a project may need to close down a street. We also are in a position where the university has brand new leadership. So, the way that cumulatively works over the course of a time frame, when that formula currently is scheduled and compounding, is that it has potentially the ability for projects to not move forward or to not pencil out properly. I think it's one of the unintended effects potentially of the way that the fee schedule is written now. I fully comprehend that we don't want to make projects economically unfeasible, and we say that at the same time as we're entering budget negotiations at which point we have a $20 million projected if not more deficit. So at what point do we think about the economic feasibility of our city and try to balance that with the economic feasibility of our projects? It's a point that's extremely well taken. What is not being asked and what the legislation has not presented is to look at the entire road closure knowing that we need additional time. If there are moments in which the way the fee schedule is structured, does that make projects economically infeasible? We're talking about our fees as a whole across the city and across the board, some of which are far antiquated, have not been updated in quite some time.",
+  "transcript_ref": null,
+  "topic_tags": [
+    "roads-bridges",
+    "permitting",
+    "legislation",
+    "economic-development",
+    "construction-staging",
+    "road-closure-fees"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Eric",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Hayner Hoyt Corporation",
+      "type": "organization",
+      "canonical_id": "ORG-HAYNER-HOYT"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIVERSITY"
+    },
+    {
+      "name": "LaBella Associates",
+      "type": "organization",
+      "canonical_id": "ORG-LABELLA"
+    },
+    {
+      "name": "Comstock Avenue",
+      "type": "location",
+      "canonical_id": null
+    },
+    {
+      "name": "Central Permit Office",
+      "type": "process",
+      "canonical_id": null
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Dr. Chol Majok",
+      "role": "Committee Chair, Common Councilor At-Large",
+      "affiliation": "Syracuse Common Council"
+    },
+    {
+      "name": "Eric",
+      "role": "City Administration Representative",
+      "affiliation": "City of Syracuse"
+    },
+    {
+      "name": "Jeremy Thurston",
+      "role": "President",
+      "affiliation": "Hayner Hoyt Corporation"
+    },
+    {
+      "name": "Joel Fury",
+      "role": "Director of Campus Planning Design Construction",
+      "affiliation": "Syracuse University"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council members closely question the administration's request to modify fee schedule application for the Comstock road closure, raising concerns about precedent-setting and the city's $20M+ budget deficit. The tension between supporting development and protecting city revenue is explicitly debated.",
+    "confidence": "high"
+  },
+  "freshness_class": "long",
+  "cluster_ids": [
+    "CLUSTER-SU-COMSTOCK-CONSTRUCTION-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Auto-generated YouTube transcript — speaker names corrected via entity-registry.json where possible (verified from syr.gov 2026-03-21)",
+    "Speaker 'Eric' appears to be a city administration official (likely DPW or Engineering) — no last name given in transcript, not in entity registry",
+    "'LaBella' normalized to 'LaBella Associates' (known Syracuse engineering firm)",
+    "$20M+ budget deficit referenced in context of budget negotiations",
+    "raw_content is an edited condensation of the full transcript for this segment — full timestamped transcript available in outputs/",
+    "Segment 2 of 4 from Public Works Committee Meeting, March 17, 2026",
+    "2026-03-21: Cleaned stale provisional tag note ('construction-staging' promoted to taxonomy).",
+    "2026-03-21: Cleaned stale provisional tag note ('road-closure-fees' promoted to taxonomy).",
+    "2026-03-21: Cleaned stale provisional tag notes (road-closure-fees promoted to taxonomy)."
+  ],
+  "last_relevance_update": null
+}

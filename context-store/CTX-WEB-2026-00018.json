@@ -1,0 +1,88 @@
+{
+  "record_id": "CTX-WEB-2026-00018",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-03-13-Mayors-Office-News-215-PM",
+  "publication_date": "2026-03-13",
+  "capture_date": "2026-03-22T14:10:06Z",
+  "title": "Mayor, Council and Auditor Thank Senate For One-House Budget Proposal",
+  "summary": "Mayor Owens, Council President Paniagua, Finance Chair Williams, and City Auditor Marion publicly thanked the New York State Senate for proposing $30 million in additional state aid to Syracuse—double the Governor's executive budget proposal. The funding, advanced by Senator Rachel May, targets infrastructure, housing, and neighborhood revitalization as Syracuse enters a growth phase.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "state-agency",
+    "intergovernmental",
+    "mayor",
+    "council",
+    "grants",
+    "infrastructure",
+    "housing",
+    "economic-development",
+    "announcement"
+  ],
+  "department_refs": [
+    "Department of Finance",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Rita Paniagua",
+      "type": "person",
+      "canonical_id": "PERSON-RITA-PANIAGUA"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Alexander Marion",
+      "type": "person",
+      "canonical_id": "PERSON-ALEXANDER-MARION"
+    },
+    {
+      "name": "Rachel May",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "New York State Senate",
+      "type": "organization",
+      "canonical_id": "ORG-NYS-SENATE"
+    },
+    {
+      "name": "Kathy Hochul",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "State Senate Democrats prioritizing Syracuse with $30M in additional aid, signaling recognition of city's infrastructure and housing needs. Reflects strong intergovernmental partnership and Democratic alignment between local and state leadership.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount specified as $30 million in state budget aid, not general city funds",
+    "Author listed as 'Unknown'—likely City Communications Office",
+    "Senator Ryan mentioned briefly but not fully named; appears to represent Central NY region",
+    "No CIO/digital services angle detected in this budget announcement",
+    "Key stakeholders aligned: Mayor, Council President, Finance Chair, Auditor all unified in messaging",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

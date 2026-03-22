@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00012",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=-ZsKhcHXTd4&t=237s",
+  "publication_date": "2026-01-07",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "Emergency Signal Preemption System Contract: GTT to Miovision Name Change and Five-Year Extension",
+  "summary": "Contract adjustment changes vendor name from Global Traffic Technologies (GTT) to Miovision Technologies (parent company acquisition) and formalizes five-year term with one five-year renewal option. System enables fire trucks to preempt traffic signals for emergency response. Law Department confirmed contract language consistent with prior ordinance.",
+  "raw_content": "[00:03:57] >> Uh item 11 is a contract [clears throat]\n[00:04:01] adjustment to change the vendor's name.\n[00:04:05] Uh they were acquired by a different\n[00:04:07] company as well as the amount of the\n[00:04:10] contract. And so this is equipment that\n[00:04:13] serves uh the emergency signal\n[00:04:15] preeemption system that allows fire\n[00:04:18] trucks to interface with the traffic\n[00:04:21] signals. Um basically get them where\n[00:04:23] they're going as fast as possible. Any\n[00:04:27] questions?\n[00:04:28] >> Neil, I just want some clarification\n[00:04:30] with um Katherine Conrad and law about\n[00:04:33] the name. U we um we thought that the\n[00:04:36] name was still staying the same as\n[00:04:38] Global Traffic and that um this other\n[00:04:43] was it my vision or whatever it was\n[00:04:46] like?\n[00:04:47] >> Absolutely. We'll double check with\n[00:04:48] them. We got some information yesterday\n[00:04:50] which I think I shared, but if if you\n[00:04:52] want me to get with Katherine, I can as\n[00:04:53] well. Um it sounds like\n[00:04:55] >> what is it? Um what is is who is the who\n[00:04:58] is the company?\n[00:04:58] >> They were GTT then they were bought by\n[00:05:01] the the company but they've retained GTT\n[00:05:05] as a DBA or something similar for their\n[00:05:09] contracts.\n[00:05:10] >> Myiovision is the is the owner of the\n[00:05:12] company.\n[00:05:12] >> Yes.\n[00:05:13] >> All right. That's what she wanted me to\n[00:05:14] clarify.\n[00:05:15] >> I I know there it was confusing to wait\n[00:05:18] through. So, you're changing you're\n[00:05:19] changing the name and you're adding the\n[00:05:22] um the contract to be five years with a\n[00:05:24] one with a five with one fiveyear\n[00:05:26] renewal option and increases the\n[00:05:28] increasing.\n[00:05:29] >> Yes. Same terms as before. Those terms\n[00:05:31] just weren't in the original or\n[00:05:32] >> those terms was not in the original uh\n[00:05:34] ordinance. So, that's what we want to\n[00:05:36] make sure that we getting it in this\n[00:05:38] one.\n[00:05:39] >> Yes. And we worked with Jenna to make\n[00:05:40] sure that the the contract periods are\n[00:05:42] right as well as the start dates. So,\n[00:05:44] agreed. It's good to clean it up.\n[00:05:46] >> Okay. translate that to\n[00:05:49] >> Thank you.\n[00:05:50] >> Thanks, Neil.\n[00:05:51] >> Yeah.\n[00:05:52] >> Any other questions? Nope.\n[00:05:54] >> I'm all set, madam.\n[00:05:55] >> Um, uh, council Monto for Erin Bridge.\n[00:05:58] >> Thank you, President Piagua. Um, Sisha,\n[00:06:00] you're stuck with me.",
+  "transcript_ref": "outputs/transcripts/-ZsKhcHXTd4_corrected.txt",
+  "topic_tags": [
+    "fire",
+    "procurement",
+    "contract-award",
+    "council"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Miovision Technologies",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Global Traffic Technologies",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Rita Paniagua",
+      "type": "person",
+      "canonical_id": "PERSON-PANIAGUA-COUNCIL"
+    },
+    {
+      "name": "Katherine Conrad",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Neil Burke",
+      "role": "Fire Department Representative",
+      "affiliation": "Syracuse Fire Department"
+    },
+    {
+      "name": "Rita Paniagua",
+      "role": "Council President",
+      "affiliation": "Syracuse Common Council"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Neil Burke not in entity registry — Fire Department representative presenting item 11",
+    "Katherine Conrad (Law Department) referenced for vendor name review",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 3 of 19 from Common Council Study Session, Wednesday, January 7th 2026"
+  ],
+  "last_relevance_update": null
+}

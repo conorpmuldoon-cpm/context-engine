@@ -1,0 +1,49 @@
+{
+  "record_id": "CTX-COUNCIL-2026-00001",
+  "source_agent": "council_transcriber",
+  "source_type": "council_segment",
+  "source_url": "https://www.youtube.com/watch?v=-26j2mt6jMU&t=323s",
+  "publication_date": "2026-01-21",
+  "capture_date": "2026-03-21T23:23:18Z",
+  "title": "DSI Drug and Alcohol Testing Contract One-Year Extension for CDL Compliance",
+  "summary": "One-year extension of contract with DSI for random drug/alcohol testing and CDL testing to maintain federal compliance. Originally a 2+1+1 year agreement. HR Director confirms satisfactory service. Will go to RFP when contract expires.",
+  "raw_content": "[00:05:23] Thank you. I have item number 10.\n[00:05:26] >> Good afternoon, Council Rick Alceiver,\n[00:05:28] director of human resources. Uh item 10\n[00:05:30] is to extend our contract with DSI for\n[00:05:33] one more year. Um we did a 2 plus one\n[00:05:36] plus one, I believe. Um, so DSI handles\n[00:05:40] all of our random drug testing and drug\n[00:05:42] testing for CDLs. Um, and in order to\n[00:05:45] maintain compliance, we'd like to keep\n[00:05:47] them on board and when that contract is\n[00:05:50] up, we'll RFP and go back to the\n[00:05:53] >> drama. So, this is just one more year of\n[00:05:55] this one, right?\n[00:05:55] >> Correct. [clears throat] This is the\n[00:05:56] extension for one year.\n[00:05:57] >> Okay. Any questions?\n[00:05:59] >> Any questions, concerns?\n[00:06:00] >> Are we happy with the service?\n[00:06:01] >> Yes, they've been doing a fantastic job.\n[00:06:03] >> Okay. So\n[00:06:06] >> no other question.\n[00:06:07] >> Thank you very much.\n[00:06:08] >> Thank you.\n[00:06:09] >> Thank you.\n[00:06:10] >> All right. Thank you. And uh council\n[00:06:12] mach.",
+  "transcript_ref": "outputs/transcripts/-26j2mt6jMU_corrected.txt",
+  "topic_tags": [
+    "hiring",
+    "procurement",
+    "council"
+  ],
+  "department_refs": [
+    "Department of Human Resources"
+  ],
+  "entity_refs": [
+    {
+      "name": "DSI",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": [
+    {
+      "name": "Rick Alceiver",
+      "role": "Director of Human Resources",
+      "affiliation": "Department of Human Resources"
+    }
+  ],
+  "speaker_confidence": "medium",
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "long",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0",
+  "processing_notes": [
+    "Rick Alceiver not in entity registry — HR Director",
+    "Semi-automated: draft_records.py extraction + Claude enrichment",
+    "Segment 2 of 19 from Common Council Study Session, January 21st 2026"
+  ],
+  "last_relevance_update": null
+}

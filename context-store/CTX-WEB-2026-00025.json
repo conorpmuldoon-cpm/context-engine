@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-WEB-2026-00025",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-03-02-Mayors-Office-News-9-AM",
+  "publication_date": "2026-03-02",
+  "capture_date": "2026-03-22T14:11:32Z",
+  "title": "Water Department Reports 2nd Half 2025 Sampling Meet EPA Lead Standard",
+  "summary": "Syracuse Water Department reports successful compliance with EPA lead standards for the third consecutive period (H2 2025), with 90th percentile lead levels at 12 ppb, below the 15 ppb action level. The department continues corrosion control treatment, third-party sampling oversight, and lead service line replacement initiatives ahead of EPA deadlines.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "lead-remediation",
+    "federal-programs",
+    "transparency",
+    "infrastructure",
+    "announcement",
+    "resolved"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Robert Brandt",
+      "type": "person",
+      "canonical_id": "PERSON-ROBERT-BRANDT"
+    },
+    {
+      "name": "U.S. Environmental Protection Agency",
+      "type": "organization",
+      "canonical_id": "ORG-EPA"
+    },
+    {
+      "name": "New York State Department of Health",
+      "type": "organization",
+      "canonical_id": "ORG-NYS-DOH"
+    },
+    {
+      "name": "Onondaga County Health Department",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-HEALTH"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Public health compliance announcement demonstrating sustained regulatory adherence and proactive infrastructure management; positions administration as responsive to federal mandates and constituent safety concerns.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Date anomaly: Published March 2, 2026 reporting on H2 2025 results (appropriate lag for testing/analysis)",
+    "Author field genuinely unknown in source material",
+    "No budget figures disclosed; contractor/laboratory costs implicit but unquantified",
+    "Strong emphasis on third-party oversight and independent verification (transparency mechanism)",
+    "Health impact language suggests constituent education/advocacy component",
+    "CIO relevance: data systems, lab reporting integration, sampling database management, public portal (syr.gov/lead-free-syracuse)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

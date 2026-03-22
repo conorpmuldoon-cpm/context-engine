@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-WEB-2026-00082",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2024/2024-07-19-Infrastructure-News-6PM",
+  "publication_date": "2024-07-19",
+  "capture_date": "2026-03-22T14:23:41Z",
+  "title": "Mayor Walsh Announces Road Reconstruction Project on Butternut Street",
+  "summary": "Mayor Ben Walsh announced a road reconstruction project on Butternut Street beginning July 20, 2024, involving milling and paving from Lodi to North Salina Street. Work will occur 6 a.m. to 6 p.m. with single-lane traffic reductions and one-week estimated timeline, weather permitting. Sidewalks remain accessible and alternate routes are advised.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "infrastructure",
+    "roads-bridges",
+    "construction-staging",
+    "transportation"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-OWENS-EXEC"
+    },
+    {
+      "name": "City of Syracuse Office of Communications",
+      "type": "organization",
+      "canonical_id": "ORG-COMMS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor-led announcement of infrastructure maintenance project demonstrates commitment to road maintenance and infrastructure management. Emphasis on pedestrian accessibility and traffic management reflects balanced approach to public services.",
+    "confidence": "medium"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field shows 'Unknown' in original metadata; byline attributes announcement to Mayor Ben Walsh",
+    "Sharon F. Owens appears in navigation menu as 'Mayor Sharon F. Owens' but announcement credits 'Mayor Ben Walsh' — possible website template artifact or data inconsistency requiring verification",
+    "No dollar amounts or budget information provided",
+    "Specific street coordinates (Lodi to North Salina) enable GIS mapping if needed for infrastructure tracking",
+    "Weather contingency noted; may relate to project management systems",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
