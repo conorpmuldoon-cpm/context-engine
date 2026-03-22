@@ -419,3 +419,37 @@ Saved as records: 0
 Filtered (not relevant): 50
 Errors: 0
 
+2026-03-22 18:59:59,153 [INFO] ============================================================
+2026-03-22 18:59:59,153 [INFO] News Scanner starting
+2026-03-22 18:59:59,154 [INFO] Fetching: Syracuse.com Politics
+2026-03-22 18:59:59,664 [INFO]   50 new articles from Syracuse.com Politics
+2026-03-22 18:59:59,664 [INFO] Fetching: Syracuse.com Government
+2026-03-22 19:00:00,061 [INFO]   0 new articles from Syracuse.com Government
+2026-03-22 19:00:00,061 [INFO] Fetching: Syracuse.com Local
+2026-03-22 19:00:00,322 [INFO]   0 new articles from Syracuse.com Local
+2026-03-22 19:00:00,322 [INFO] Fetching: Syracuse.com Main
+2026-03-22 19:00:00,677 [INFO]   0 new articles from Syracuse.com Main
+2026-03-22 19:00:00,677 [INFO] Total unique articles across all feeds: 50
+2026-03-22 19:00:00,677 [INFO] New articles (not previously processed): 14
+2026-03-22 19:00:00,707 [DEBUG]   Filtered (not relevant): Fred Grandy shines in Syracuse production of ‘Da’ at Redhouse (review)
+2026-03-22 19:00:00,708 [DEBUG]   Filtered (not relevant): Syracuse basketball finalizing deal to hire Gerry McNamara as next head coach
+2026-03-22 19:00:00,708 [DEBUG]   Filtered (not relevant): Cayuga County real estate: See all residential properties sold, March 9-15
+2026-03-22 19:00:00,709 [DEBUG]   Filtered (not relevant): Cooperstown boys hoops knocks off defending champs to cap perfect season with Cl
+2026-03-22 19:00:00,709 [DEBUG]   Filtered (not relevant): One-pot orzo and meatballs
+2026-03-22 19:00:00,710 [DEBUG]   Filtered (not relevant): Cast a ballot and wait for the plane. In Alaska, a grace period for ballots is s
+2026-03-22 19:00:00,710 [DEBUG]   Filtered (not relevant): Beyond the inverted pyramid: Turning reporting into narrative journalism
+2026-03-22 19:00:00,711 [DEBUG]   Filtered (not relevant): Syracuse lacrosse vs. Georgetown: Live score, updates
+2026-03-22 19:00:00,711 [DEBUG]   Filtered (not relevant): Seneca County real estate: See all residential properties sold, March 9-15
+2026-03-22 19:00:00,712 [DEBUG]   Filtered (not relevant): Where to watch NASCAR Darlington Spring Race today: Free live stream
+2026-03-22 19:00:00,712 [DEBUG]   Filtered (not relevant): Sackets Harbor’s season ends in heartbreak with state finals loss: ‘Really wante
+2026-03-22 19:00:00,713 [DEBUG]   Filtered (not relevant): Utica Notre Dame feels heartbreak of state finals loss, joy of senior’s historic
+2026-03-22 19:00:00,713 [DEBUG]   Filtered (not relevant): Experts release new St. John’s vs. Kansas prediction after eye-catching Kalshi m
+2026-03-22 19:00:00,714 [DEBUG]   Filtered (not relevant): Updated DraftKings Promo Code: New $200 NBA bonus
+2026-03-22 19:00:00,714 [INFO] News Scanner Run — 2026-03-22 19:00
+==================================================
+Articles in feeds: 50
+New (not seen before): 14
+Saved as records: 0
+Filtered (not relevant): 14
+Errors: 0
+
