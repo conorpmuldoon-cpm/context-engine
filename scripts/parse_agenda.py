@@ -84,7 +84,7 @@ def check_dependencies():
 # PDF acquisition and OCR
 # ---------------------------------------------------------------------------
 
-def download_pdf(url: str) -> Path:
+def download_pdf(url: str, skip_size_check: bool = False) -> Path:
     """Download PDF to a temp file, return the path."""
     import urllib.request
     print(f"Downloading: {url}")
@@ -96,32 +96,38 @@ def download_pdf(url: str) -> Path:
         print("  Check the URL and try again.")
         sys.exit(1)
     size = Path(tmp.name).stat().st_size
-    if size > MAX_FILE_SIZE:
+    if not skip_size_check and size > MAX_FILE_SIZE:
         print(f"Error: File is {size/1024/1024:.1f} MB — too large.")
         print("  This might be the full agenda book instead of the short agenda.")
-        print("  The short agenda PDFs are typically under 1 MB.")
+        print("  Use --max-pages N to process only the first N pages of an agenda book.")
         Path(tmp.name).unlink()
         sys.exit(1)
     print(f"  Downloaded ({size/1024:.0f} KB)")
     return Path(tmp.name)
 
 
-def ocr_pdf(pdf_path: Path) -> str:
-    """Render each page at 300 DPI and OCR with Tesseract. Returns full text."""
+def ocr_pdf(pdf_path: Path, max_pages: int | None = None) -> str:
+    """Render each page at 300 DPI and OCR with Tesseract. Returns full text.
+
+    If max_pages is set, only OCR the first N pages (useful for agenda books
+    where the numbered item list is in the first ~5-8 pages).
+    """
     import fitz
     import pytesseract
     from PIL import Image
 
     doc = fitz.open(str(pdf_path))
-    print(f"  Pages: {len(doc)}")
+    total = len(doc)
+    pages_to_process = min(total, max_pages) if max_pages else total
+    print(f"  Pages: {total}" + (f" (processing first {pages_to_process})" if max_pages and max_pages < total else ""))
 
     all_text = []
-    for i in range(len(doc)):
+    for i in range(pages_to_process):
         pix = doc[i].get_pixmap(dpi=300)
         img = Image.open(io.BytesIO(pix.tobytes("png")))
         text = pytesseract.image_to_string(img)
         all_text.append(text)
-        print(f"  OCR page {i+1}/{len(doc)} done")
+        print(f"  OCR page {i+1}/{pages_to_process} done")
 
     doc.close()
     return "\n\n".join(all_text)
@@ -588,35 +594,53 @@ def save_outputs(
 # ---------------------------------------------------------------------------
 
 def main():
-    if len(sys.argv) < 2:
-        print("Usage: python scripts/parse_agenda.py <pdf_url_or_path>")
+    args = sys.argv[1:]
+
+    # Parse --max-pages flag
+    max_pages = None
+    if "--max-pages" in args:
+        idx = args.index("--max-pages")
+        if idx + 1 < len(args):
+            try:
+                max_pages = int(args[idx + 1])
+            except ValueError:
+                print("Error: --max-pages requires a number")
+                sys.exit(1)
+            args = args[:idx] + args[idx + 2:]
+        else:
+            print("Error: --max-pages requires a number")
+            sys.exit(1)
+
+    if not args:
+        print("Usage: python scripts/parse_agenda.py <pdf_url_or_path> [--max-pages N]")
         print('  Example: python scripts/parse_agenda.py "https://www.syr.gov/.../02.23.2026-agenda.pdf"')
-        print("  Parses the short agenda PDF (not the full agenda book).")
+        print("  Use --max-pages N for agenda books (only OCR the first N pages).")
         sys.exit(1)
 
     check_dependencies()
 
-    arg = sys.argv[1]
+    arg = args[0]
     is_url = arg.startswith("http://") or arg.startswith("https://")
+    skip_size_check = max_pages is not None
     tmp_path = None
 
     try:
         if is_url:
-            pdf_path = download_pdf(arg)
+            pdf_path = download_pdf(arg, skip_size_check=skip_size_check)
             tmp_path = pdf_path
         else:
             pdf_path = Path(arg)
             if not pdf_path.exists():
                 print(f"Error: File not found: {pdf_path}")
                 sys.exit(1)
-            if pdf_path.stat().st_size > MAX_FILE_SIZE:
+            if not skip_size_check and pdf_path.stat().st_size > MAX_FILE_SIZE:
                 print(f"Error: File is {pdf_path.stat().st_size/1024/1024:.1f} MB — too large.")
-                print("  This might be the full agenda book. Use the short agenda PDF instead.")
+                print("  Use --max-pages N for agenda books.")
                 sys.exit(1)
 
         # OCR the PDF
         print("Running OCR...")
-        full_text = ocr_pdf(pdf_path)
+        full_text = ocr_pdf(pdf_path, max_pages=max_pages)
 
         # Parse meeting header
         print("Parsing meeting metadata...")

@@ -18,8 +18,13 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install dependencies
-        run: pip install yt-dlp youtube_transcript_api anthropic jsonschema
+      - name: Install system dependencies
+        run: sudo apt-get update && sudo apt-get install -y tesseract-ocr
+
+      - name: Install Python dependencies
+        run: |
+          pip install yt-dlp youtube_transcript_api anthropic jsonschema PyMuPDF pytesseract Pillow playwright
+          playwright install chromium
 
       - name: Run council transcriber
         run: python scripts/auto_council.py --no-email

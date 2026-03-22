@@ -287,6 +287,17 @@ def main():
     logger = setup_logger("auto-council")
     logger.info(f"=== Auto Council Pipeline {'(DRY RUN)' if dry_run else ''} ===")
 
+    # Step 0: Scan for new agendas (best-effort — continues if it fails)
+    python = sys.executable
+    logger.info("Scanning for new council agendas...")
+    agenda_ok = run_step(
+        [python, str(SCRIPT_DIR / "scan_agendas.py")],
+        "scan_agendas",
+        logger,
+    )
+    if not agenda_ok:
+        logger.warning("Agenda scan failed — continuing without new agendas")
+
     # Detect new videos
     logger.info("Checking for new council meeting videos...")
     new_videos = detect_new_videos(limit=limit, logger=logger)
