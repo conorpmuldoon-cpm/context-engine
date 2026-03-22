@@ -1,0 +1,261 @@
+Context Engine Data Quality Audit — 2026-03-22
+============================================================
+
+Loading configuration...
+Loading context records...
+
+=======================================================
+  Context Engine Data Quality Audit
+  280 records scanned | 2026-03-22
+=======================================================
+
+Running checks...
+
+--- AUTO-FIXABLE ISSUES (use --fix to apply) ---
+
+  (none)
+
+--- RECOMMENDATIONS (require review) ---
+
+  [5] Potential missing cluster: 5 found
+           : 4 records on 2026-01-07 | Syracuse Fire Department | [council, fire]
+         Records: CTX-COUNCIL-2026-00012, CTX-COUNCIL-2026-00016, CTX-COUNCIL-2026-00017, CTX-COUNCIL-2026-00018
+           : 4 records on 2026-03-17 | Department of Public Works | [accessibility, council, roads-bridges]
+         Records: CTX-COUNCIL-2026-00048, CTX-COUNCIL-2026-00049, CTX-COUNCIL-2026-00050, CTX-COUNCIL-2026-00051
+           : 7 records on 2026-03-18 | (mixed) | [(varied)]
+         Records: CTX-COUNCIL-2026-00060, CTX-COUNCIL-2026-00061, CTX-COUNCIL-2026-00062, CTX-COUNCIL-2026-00063, CTX-COUNCIL-2026-00064, CTX-COUNCIL-2026-00065, CTX-COUNCIL-2026-00069
+           : 3 records on 2026-03-18 | Syracuse Police Department | [equity, grants, police]
+         Records: CTX-COUNCIL-2026-00066, CTX-COUNCIL-2026-00067, CTX-COUNCIL-2026-00068
+           : 5 records on 2026-03-16 | Department of Finance | [audit, budget, council]
+         Records: CTX-COUNCIL-2026-00147, CTX-COUNCIL-2026-00148, CTX-COUNCIL-2026-00149, CTX-COUNCIL-2026-00150, CTX-COUNCIL-2026-00151
+
+  [6] Possible cluster orphan: 141 issues across 61 records
+      CTX-WEB-2026-00001: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00002: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00010 (via CTX-WEB-2026-00033)
+      CTX-WEB-2026-00003: Shares 5 non-council entities + 8 substantive tags with DEDUP-CTX-WEB-2026-00018 (via CTX-WEB-2026-00027)
+      CTX-WEB-2026-00005: Shares 3 non-council entities + 6 substantive tags with DEDUP-CTX-WEB-2026-00019 (via CTX-WEB-2026-00020)
+      CTX-WEB-2026-00006: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00008)
+      CTX-WEB-2026-00006: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00006: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00043 (via CTX-WEB-2026-00044)
+      CTX-WEB-2026-00006: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00010: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00018: Shares 5 non-council entities + 8 substantive tags with DEDUP-CTX-WEB-2026-00018 (via CTX-WEB-2026-00027)
+      CTX-WEB-2026-00022: Shares 3 non-council entities + 6 substantive tags with DEDUP-CTX-WEB-2026-00003 (via CTX-WEB-2026-00007)
+      CTX-WEB-2026-00023: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00008)
+      CTX-WEB-2026-00023: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00023: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00043 (via CTX-WEB-2026-00044)
+      CTX-WEB-2026-00023: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00025: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00010 (via CTX-WEB-2026-00033)
+      CTX-WEB-2026-00034: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00034: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00035: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00060 (via CTX-WEB-2026-00061)
+      CTX-WEB-2026-00035: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00063 (via CTX-WEB-2026-00064)
+      CTX-WEB-2026-00035: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00115)
+      CTX-WEB-2026-00036: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00036: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00036: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00036: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00115)
+      CTX-WEB-2026-00038: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00115)
+      CTX-WEB-2026-00039: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00112)
+      CTX-WEB-2026-00040: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00010 (via CTX-WEB-2026-00033)
+      CTX-WEB-2026-00040: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00040: Shares 2 non-council entities + 5 substantive tags with DEDUP-CTX-WEB-2026-00065 (via CTX-WEB-2026-00066)
+      CTX-WEB-2026-00040: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00042: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00045: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00045: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00043 (via CTX-WEB-2026-00044)
+      CTX-WEB-2026-00045: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00045 (via CTX-WEB-2026-00046)
+      CTX-WEB-2026-00045: Shares 3 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00115)
+      CTX-WEB-2026-00049: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00010 (via CTX-WEB-2026-00033)
+      CTX-WEB-2026-00050: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00045 (via CTX-WEB-2026-00046)
+      CTX-WEB-2026-00050: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00063 (via CTX-WEB-2026-00064)
+      CTX-WEB-2026-00050: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00115)
+      CTX-WEB-2026-00052: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00052: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00054: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00054: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00065 (via CTX-WEB-2026-00066)
+      CTX-WEB-2026-00054: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00091)
+      CTX-WEB-2026-00055: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00055: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00055: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00069 (via CTX-WEB-2026-00070)
+      CTX-WEB-2026-00055: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00055: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00112)
+      CTX-WEB-2026-00057: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00057: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00065 (via CTX-WEB-2026-00066)
+      CTX-WEB-2026-00057: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00058: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00058: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00058: Shares 3 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00059: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00059: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00065 (via CTX-WEB-2026-00066)
+      CTX-WEB-2026-00059: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00091)
+      CTX-WEB-2026-00062: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00062: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00065 (via CTX-WEB-2026-00066)
+      CTX-WEB-2026-00062: Shares 2 non-council entities + 5 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00065: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00065: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00065 (via CTX-WEB-2026-00066)
+      CTX-WEB-2026-00065: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00068: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00112)
+      CTX-WEB-2026-00069: Shares 5 non-council entities + 5 substantive tags with DEDUP-CTX-WEB-2026-00069 (via CTX-WEB-2026-00070)
+      CTX-WEB-2026-00069: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00113)
+      CTX-WEB-2026-00071: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00072: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00072: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00065 (via CTX-WEB-2026-00066)
+      CTX-WEB-2026-00072: Shares 2 non-council entities + 5 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00073: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00112)
+      CTX-WEB-2026-00074: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00074: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00074: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00074: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00112)
+      CTX-WEB-2026-00075: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00008)
+      CTX-WEB-2026-00075: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00075: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00043 (via CTX-WEB-2026-00044)
+      CTX-WEB-2026-00075: Shares 3 non-council entities + 5 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00076: Shares 2 non-council entities + 5 substantive tags with DEDUP-CTX-WEB-2026-00010 (via CTX-WEB-2026-00033)
+      CTX-WEB-2026-00076: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00078: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00080: Shares 2 non-council entities + 5 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00081: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00008)
+      CTX-WEB-2026-00081: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00081: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00043 (via CTX-WEB-2026-00044)
+      CTX-WEB-2026-00081: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00082: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00112)
+      CTX-WEB-2026-00083: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00010 (via CTX-WEB-2026-00033)
+      CTX-WEB-2026-00083: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00086: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00086: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00065 (via CTX-WEB-2026-00066)
+      CTX-WEB-2026-00086: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00087: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00112)
+      CTX-WEB-2026-00088: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00089: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00089: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00065 (via CTX-WEB-2026-00066)
+      CTX-WEB-2026-00089: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00092: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00010 (via CTX-WEB-2026-00033)
+      CTX-WEB-2026-00092: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00093: Shares 3 non-council entities + 2 substantive tags with CLUSTER-VEO-MICROMOBILITY-2026Q1 (via CTX-MANUAL-2026-00001)
+      CTX-WEB-2026-00093: Shares 3 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00019 (via CTX-WEB-2026-00020)
+      CTX-WEB-2026-00093: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00093: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00112)
+      CTX-WEB-2026-00094: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00045 (via CTX-WEB-2026-00046)
+      CTX-WEB-2026-00094: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00063 (via CTX-WEB-2026-00064)
+      CTX-WEB-2026-00094: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00069 (via CTX-WEB-2026-00070)
+      CTX-WEB-2026-00094: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00112)
+      CTX-WEB-2026-00095: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00095: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00065 (via CTX-WEB-2026-00066)
+      CTX-WEB-2026-00095: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00091)
+      CTX-WEB-2026-00096: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00008)
+      CTX-WEB-2026-00096: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00096: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00043 (via CTX-WEB-2026-00044)
+      CTX-WEB-2026-00096: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00097: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00113)
+      CTX-WEB-2026-00101: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00026)
+      CTX-WEB-2026-00101: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00101: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00043 (via CTX-WEB-2026-00044)
+      CTX-WEB-2026-00101: Shares 3 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00103: Shares 3 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00060 (via CTX-WEB-2026-00061)
+      CTX-WEB-2026-00108: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00112)
+      CTX-WEB-2026-00110: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00115)
+      CTX-WEB-2026-00118: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00008)
+      CTX-WEB-2026-00118: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00118: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00043 (via CTX-WEB-2026-00044)
+      CTX-WEB-2026-00118: Shares 2 non-council entities + 5 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00119: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00008)
+      CTX-WEB-2026-00119: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00119: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00043 (via CTX-WEB-2026-00044)
+      CTX-WEB-2026-00119: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00121: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00122: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00122: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00122: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00043 (via CTX-WEB-2026-00044)
+      CTX-WEB-2026-00122: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00123: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00043 (via CTX-WEB-2026-00044)
+      CTX-WEB-2026-00123: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00113)
+      CTX-WEB-2026-00124: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00113)
+
+  [7] Unregistered frequent entity: 11 found
+           : Comstock Avenue (location, 8 records)
+           : SAEVI (organization, 7 records)
+           : Jeffrey Hoover (person, 6 records) — Director of Government Partnerships
+           : Paul Kalabufo (person, 6 records) — Operations Manager, Syracuse
+           : Parkside Commons (organization, 6 records)
+           : Greater Syracuse Property Development Corporation (organization, 4 records)
+           : Neil Burke (person, 4 records) — DPW Commissioner; DPW Staff; Fire Department Representative
+           : Rich Trudeau (person, 4 records) — Deputy Chief of Police; First Deputy Chief; SPD First Deputy Chief
+           : JCOM (organization, 4 records)
+           : Ostrom Avenue (location, 4 records)
+           : Office of Communications (organization, 3 records)
+
+  [9] Invalid tag: 5 issues across 5 records
+      CTX-WEB-2026-00036: Tag 'public-safety' not in taxonomy
+      CTX-WEB-2026-00048: Tag 'parks-and-recreation' not in taxonomy
+      CTX-WEB-2026-00103: Tag 'waste-management' not in taxonomy
+      CTX-WEB-2026-00115: Tag 'public-safety' not in taxonomy
+      CTX-WEB-2026-00122: Tag 'public-engagement' not in taxonomy
+
+  [12] Unlinked duplicate: 56 issues across 28 records
+      CTX-COUNCIL-2026-00031: Matches dedup criteria with CTX-COUNCIL-2026-00139 but no shared cluster
+      CTX-COUNCIL-2026-00037: Matches dedup criteria with CTX-COUNCIL-2026-00078 but no shared cluster
+      CTX-COUNCIL-2026-00048: Matches dedup criteria with CTX-COUNCIL-2026-00060 but no shared cluster
+      CTX-COUNCIL-2026-00048: Matches dedup criteria with CTX-COUNCIL-2026-00061 but no shared cluster
+      CTX-COUNCIL-2026-00048: Matches dedup criteria with CTX-COUNCIL-2026-00062 but no shared cluster
+      CTX-COUNCIL-2026-00048: Matches dedup criteria with CTX-COUNCIL-2026-00063 but no shared cluster
+      CTX-COUNCIL-2026-00048: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00049: Matches dedup criteria with CTX-COUNCIL-2026-00060 but no shared cluster
+      CTX-COUNCIL-2026-00049: Matches dedup criteria with CTX-COUNCIL-2026-00061 but no shared cluster
+      CTX-COUNCIL-2026-00049: Matches dedup criteria with CTX-COUNCIL-2026-00062 but no shared cluster
+      CTX-COUNCIL-2026-00049: Matches dedup criteria with CTX-COUNCIL-2026-00063 but no shared cluster
+      CTX-COUNCIL-2026-00049: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00050: Matches dedup criteria with CTX-COUNCIL-2026-00060 but no shared cluster
+      CTX-COUNCIL-2026-00050: Matches dedup criteria with CTX-COUNCIL-2026-00061 but no shared cluster
+      CTX-COUNCIL-2026-00050: Matches dedup criteria with CTX-COUNCIL-2026-00062 but no shared cluster
+      CTX-COUNCIL-2026-00050: Matches dedup criteria with CTX-COUNCIL-2026-00063 but no shared cluster
+      CTX-COUNCIL-2026-00050: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00051: Matches dedup criteria with CTX-COUNCIL-2026-00061 but no shared cluster
+      CTX-COUNCIL-2026-00051: Matches dedup criteria with CTX-COUNCIL-2026-00062 but no shared cluster
+      CTX-COUNCIL-2026-00051: Matches dedup criteria with CTX-COUNCIL-2026-00063 but no shared cluster
+      CTX-COUNCIL-2026-00051: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00060: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00060: Matches dedup criteria with CTX-COUNCIL-2026-00115 but no shared cluster
+      CTX-COUNCIL-2026-00060: Matches dedup criteria with CTX-COUNCIL-2026-00116 but no shared cluster
+      CTX-COUNCIL-2026-00060: Matches dedup criteria with CTX-COUNCIL-2026-00117 but no shared cluster
+      CTX-COUNCIL-2026-00061: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00062: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00062: Matches dedup criteria with CTX-COUNCIL-2026-00116 but no shared cluster
+      CTX-COUNCIL-2026-00063: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00075: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00075: Matches dedup criteria with CTX-MANUAL-2026-00002 but no shared cluster
+      CTX-WEB-2026-00001: Matches dedup criteria with CTX-WEB-2026-00008 but no shared cluster
+      CTX-WEB-2026-00001: Matches dedup criteria with CTX-WEB-2026-00017 but no shared cluster
+      CTX-WEB-2026-00001: Matches dedup criteria with CTX-WEB-2026-00026 but no shared cluster
+      CTX-WEB-2026-00001: Matches dedup criteria with CTX-WEB-2026-00028 but no shared cluster
+      CTX-WEB-2026-00003: Matches dedup criteria with CTX-WEB-2026-00007 but no shared cluster
+      CTX-WEB-2026-00005: Matches dedup criteria with CTX-WEB-2026-00008 but no shared cluster
+      CTX-WEB-2026-00010: Matches dedup criteria with CTX-WEB-2026-00033 but no shared cluster
+      CTX-WEB-2026-00018: Matches dedup criteria with CTX-WEB-2026-00027 but no shared cluster
+      CTX-WEB-2026-00019: Matches dedup criteria with CTX-WEB-2026-00020 but no shared cluster
+      CTX-WEB-2026-00019: Matches dedup criteria with CTX-WEB-2026-00029 but no shared cluster
+      CTX-WEB-2026-00023: Matches dedup criteria with CTX-WEB-2026-00030 but no shared cluster
+      CTX-WEB-2026-00043: Matches dedup criteria with CTX-WEB-2026-00044 but no shared cluster
+      CTX-WEB-2026-00045: Matches dedup criteria with CTX-WEB-2026-00046 but no shared cluster
+      CTX-WEB-2026-00052: Matches dedup criteria with CTX-WEB-2026-00053 but no shared cluster
+      CTX-WEB-2026-00060: Matches dedup criteria with CTX-WEB-2026-00061 but no shared cluster
+      CTX-WEB-2026-00063: Matches dedup criteria with CTX-WEB-2026-00064 but no shared cluster
+      CTX-WEB-2026-00065: Matches dedup criteria with CTX-WEB-2026-00066 but no shared cluster
+      CTX-WEB-2026-00069: Matches dedup criteria with CTX-WEB-2026-00070 but no shared cluster
+      CTX-WEB-2026-00083: Matches dedup criteria with CTX-WEB-2026-00084 but no shared cluster
+      CTX-WEB-2026-00083: Matches dedup criteria with CTX-WEB-2026-00085 but no shared cluster
+      CTX-WEB-2026-00089: Matches dedup criteria with CTX-WEB-2026-00090 but no shared cluster
+      CTX-WEB-2026-00089: Matches dedup criteria with CTX-WEB-2026-00091 but no shared cluster
+      CTX-WEB-2026-00111: Matches dedup criteria with CTX-WEB-2026-00112 but no shared cluster
+      CTX-WEB-2026-00111: Matches dedup criteria with CTX-WEB-2026-00113 but no shared cluster
+      CTX-WEB-2026-00111: Matches dedup criteria with CTX-WEB-2026-00115 but no shared cluster
+
+--- SUMMARY ---
+
+  Auto-fixable:     0 issues
+  Recommendations:  218 issues
+  Errors:           5
+
+  No fixable issues found.
+
+  Schema valid: 280/280
