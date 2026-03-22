@@ -1,0 +1,35 @@
+name: Council Transcriber
+
+on:
+  schedule:
+    - cron: '30 12 * * *'  # 12:30 UTC = ~7:30 AM ET (after news + web)
+  workflow_dispatch: {}     # Manual trigger via GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  transcribe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install yt-dlp youtube_transcript_api anthropic jsonschema
+
+      - name: Run council transcriber
+        run: python scripts/auto_council.py --no-email
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit new records
+        run: |
+          git config user.name "Context Engine Bot"
+          git config user.email "context-engine-bot@users.noreply.github.com"
+          git add context-store/ outputs/
+          git commit -m "Auto: council transcriber $(date +%Y-%m-%d)" || true
+          git push
