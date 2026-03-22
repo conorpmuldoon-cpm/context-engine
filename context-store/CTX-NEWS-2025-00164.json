@@ -1,0 +1,83 @@
+{
+  "record_id": "CTX-NEWS-2025-00164",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-ukraine-sister-cities-mark-2-years-with-youth-art-exchange",
+  "publication_date": "2025-11-22",
+  "capture_date": "2026-03-22T18:52:12Z",
+  "title": "Syracuse, Ukraine Sister Cities mark 2 years with youth art exchange",
+  "summary": "Syracuse and sister city Irpin, Ukraine marked their two-year partnership anniversary with 'Bridges of Hope,' a youth photography exchange involving 7-11 year olds from both cities. The exhibit opened simultaneously in Syracuse City Hall Commons and Irpin, featuring images captured by children documenting everyday life in their communities. Mayor Walsh framed the initiative as honoring resilience and unity, with Syracuse's Parks & Recreation and Youth Programs collaborating with the Onondaga Historical Association.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "initiative-launch",
+    "intergovernmental",
+    "parks",
+    "cultural-ties",
+    "equity",
+    "youth-engagement",
+    "PROVISIONAL:sister-cities",
+    "PROVISIONAL:international-relations"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs",
+    "Mayor's Office - Intergovernmental Affairs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Josephine Galdamez",
+      "type": "person",
+      "canonical_id": "PERSON-JOSEPHINE-GALDAMEZ"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Robert Searing",
+      "type": "person",
+      "canonical_id": "PERSON-ROBERT-SEARING"
+    },
+    {
+      "name": "City of Irpin",
+      "type": "organization",
+      "canonical_id": "ORG-IRPIN-UKRAINE"
+    },
+    {
+      "name": "Onondaga Historical Association",
+      "type": "organization",
+      "canonical_id": "ORG-OHA"
+    },
+    {
+      "name": "Ukraine 1991 Foundation",
+      "type": "organization",
+      "canonical_id": "ORG-UKRAINE-1991-FOUNDATION"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "City leadership leveraging sister city relationship and youth programming to advance international cultural diplomacy and demonstrate civic commitment to Ukrainian-American community support, particularly post-2022 invasion context.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on cultural/community initiative rather than operational CIO concerns; limited direct technology/digital services content",
+    "Mentions 'digital cameras donated' but no specifics on data management, platform infrastructure, or digital systems involved",
+    "Sister city partnership established April 2023; this marks public-facing milestone programming",
+    "Intergovernmental Affairs Coordinator quoted suggests Mayor's office coordination; no CIO office direct involvement noted",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'cultural-ties' not in taxonomy",
+    "Tag warning: Unknown tag 'youth-engagement' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

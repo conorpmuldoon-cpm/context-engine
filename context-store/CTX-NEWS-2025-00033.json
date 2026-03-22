@@ -1,0 +1,85 @@
+{
+  "record_id": "CTX-NEWS-2025-00033",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.wrvo.org/2025-05-12/state-housing-investments-helping-homeowners-in-syracuse",
+  "publication_date": "2025-05-12",
+  "capture_date": "2026-03-22T18:25:50Z",
+  "title": "State housing investments helping homeowners in Syracuse",
+  "summary": "New York State's Affordable Homeownership Opportunity Program (AHOP) is delivering results in Syracuse, with the first home sold to Theresa Durham on Loomis Ave. Gov. Hochul's state budget allocates over $500 million for housing initiatives statewide, with a goal to create or preserve 100,000 affordable homes in five years. Home HeadQuarters expects to complete 40 new homes this season under the program.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "grants",
+    "economic-development",
+    "state-agency",
+    "initiative-launch",
+    "residents",
+    "budget",
+    "intergovernmental"
+  ],
+  "department_refs": [
+    "Department of Permitting and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Kathy Hochul",
+      "type": "person",
+      "canonical_id": "PERSON-KATHY-HOCHUL"
+    },
+    {
+      "name": "Theresa Durham",
+      "type": "person",
+      "canonical_id": "PERSON-THERESA-DURHAM"
+    },
+    {
+      "name": "Kerry Quaglia",
+      "type": "person",
+      "canonical_id": "PERSON-KERRY-QUAGLIA"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Home HeadQuarters",
+      "type": "organization",
+      "canonical_id": "ORG-HOME-HEADQUARTERS"
+    },
+    {
+      "name": "New York State",
+      "type": "organization",
+      "canonical_id": "ORG-NYS"
+    },
+    {
+      "name": "Affordable Homeownership Opportunity Program",
+      "type": "system",
+      "canonical_id": "SYS-AHOP"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "State executive prioritizes affordable housing as budget anchor; aligns with local economic development and neighborhood revitalization goals; positions housing as foundational social equity issue.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount ($500M) is statewide, not Syracuse-specific; extraction noted only $500 due to parsing.",
+    "Home HeadQuarters is key local implementation partner for state program; recommend tracking for future CIO collaboration on infrastructure/permitting systems.",
+    "Article emphasizes impact on vacant lot remediation and neighborhood conditions; connects to land-use and code-enforcement priorities.",
+    "No direct digital infrastructure, IT systems, or data governance implications mentioned; frame as intergovernmental partnership opportunity.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.wrvo.org)"
+  ],
+  "last_relevance_update": null
+}

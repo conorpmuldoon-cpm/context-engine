@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-NEWS-2025-00124",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/nob-hill-tenants-demand-action-amid-ongoing-legal-battle-with-city",
+  "publication_date": "2025-08-27",
+  "capture_date": "2026-03-22T18:44:01Z",
+  "title": "Nob Hill tenants demand action amid ongoing legal battle",
+  "summary": "Nob Hill apartment tenants are escalating demands for action regarding persistent code violations and poor living conditions (lack of heat, maintenance issues, unhooked utilities). A city legal action initiated in April has been postponed five times; tenants are considering a rent strike and organizing collective pressure for the next hearing to proceed without further delays.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "code-enforcement",
+    "complaint",
+    "constituent-complaints",
+    "escalating",
+    "investigation",
+    "residents",
+    "PROVISIONAL:tenant-organizing",
+    "PROVISIONAL:rent-strike"
+  ],
+  "department_refs": [
+    "Law Department",
+    "Department of Neighborhood and Business Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Tieasha Muhammad",
+      "type": "person",
+      "canonical_id": "PERSON-TIEASHA-MUHAMMAD"
+    },
+    {
+      "name": "Jackie Patterson",
+      "type": "person",
+      "canonical_id": "PERSON-JACKIE-PATTERSON"
+    },
+    {
+      "name": "Kona Mahu",
+      "type": "person",
+      "canonical_id": "PERSON-KONA-MAHU"
+    },
+    {
+      "name": "Nob Hill apartment complex",
+      "type": "system",
+      "canonical_id": "SYS-NOB-HILL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Organized tenant activism demanding city follow through on enforcement action; potential rent strike indicates escalating pressure on both property management and municipal code enforcement responsiveness.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00123"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article lacks specific building owner/management entity name; recommend CIO research Nob Hill property records",
+    "Five postponements of legal hearing suggest potential coordination/procedural bottleneck worth investigating",
+    "$600 credit to tenant for 2-month heat outage may indicate compliance audit gap",
+    "No CIO systems or digital services mentioned; potential opportunity for 311 complaint tracking integration",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Potential duplicate of CTX-NEWS-2025-00123"
+  ],
+  "last_relevance_update": null
+}

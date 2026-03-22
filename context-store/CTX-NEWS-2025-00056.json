@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-NEWS-2025-00056",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-rescue-mission-city-putting-up-fencing-is-not-a-solution-dickeron-street-mayor-ben-walsh-unhoused-drugs-dickerson-street-gifford",
+  "publication_date": "2025-06-09",
+  "capture_date": "2026-03-22T18:30:17Z",
+  "title": "Syracuse Rescue Mission: Fence separating homeless from downtown is not a solution",
+  "summary": "Syracuse installed fencing along Dickerson Street near the Rescue Mission to address drug activity and protect vulnerable homeless populations, but leadership including the Rescue Mission Executive Director and unhoused residents dispute its effectiveness. The city frames this as a temporary Crime Prevention Through Environmental Design (CPTED) measure while exploring parallel solutions, but critics argue it displaces rather than solves the underlying problem.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "public-safety",
+    "homelessness",
+    "emergency-services",
+    "policy-change",
+    "constituent-complaints",
+    "equity",
+    "escalating"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Mayor's Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Dan Sieburg",
+      "type": "person",
+      "canonical_id": "PERSON-DAN-SIEBURG"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Ann Rooney",
+      "type": "person",
+      "canonical_id": "PERSON-ANN-ROONEY"
+    },
+    {
+      "name": "Syracuse Rescue Mission",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-RESCUE-MISSION"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Key community stakeholder (Rescue Mission Executive Director) publicly opposes city policy; unhoused residents frame fencing negatively as confinement rather than protection; county human services leader signals need for complementary solutions beyond enforcement.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article demonstrates implementation gap between city's stated CPTED strategy and effectiveness perception among stakeholders",
+    "Historical precedent cited: previous fencing under train bridge displaced activity rather than resolved it",
+    "No budget figures or specific timeline provided for alternative solutions mentioned by mayor",
+    "Deputy County Executive comments suggest multi-agency coordination ongoing but not fully resolved",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy",
+    "Tag warning: Unknown tag 'homelessness' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

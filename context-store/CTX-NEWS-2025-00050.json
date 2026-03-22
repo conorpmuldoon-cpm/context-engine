@@ -1,0 +1,82 @@
+{
+  "record_id": "CTX-NEWS-2025-00050",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-05-26/banners-honoring-syracuse-veterans-expand-to-all-corners-of-the-city",
+  "publication_date": "2025-05-26",
+  "capture_date": "2026-03-22T18:28:56Z",
+  "title": "Banners honoring Syracuse veterans expand to all corners of the city",
+  "summary": "The City of Syracuse is expanding its Hometown Heroes banner program, which honors local military veterans and service members. Originally launched along James Street and Kirk Park for a three-year run, the initiative now extends to five additional locations citywide (Burnet Park, NBT Bank Stadium, CNY Regional Market, Upper Onondaga Park, and Syracuse University's National Veteran's Resource Center) due to high community demand. Mayor Walsh framed this as a significant civic achievement in public celebration of veterans' service and legacy.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "initiative-launch",
+    "parks",
+    "community-engagement",
+    "PROVISIONAL:civic-commemoration",
+    "announcement",
+    "mayor",
+    "residents",
+    "transparency"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Diane Greenpope",
+      "type": "person",
+      "canonical_id": "PERSON-DIANE-GREENPOPE"
+    },
+    {
+      "name": "Linda Brown-Robinson",
+      "type": "person",
+      "canonical_id": "PERSON-LINDA-BROWN-ROBINSON"
+    },
+    {
+      "name": "Van Robinson",
+      "type": "person",
+      "canonical_id": "PERSON-VAN-ROBINSON"
+    },
+    {
+      "name": "Dunbar American Legion",
+      "type": "organization",
+      "canonical_id": "ORG-DUNBAR-AMERICAN-LEGION"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIVERSITY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor Walsh publicly champions veteran recognition as a core civic value and leadership priority; strong constituent pressure evident through families requesting banner placements; bipartisan community support via American Legion partnership.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Program expansion driven by grassroots demand rather than top-down mandate—suggests strong constituent pressure.",
+    "No budget figures provided; classified as 'one-time' or 'recurring' cost status unknown.",
+    "Geographic expansion across five new parks/institutions indicates coordinated multi-department implementation (Parks, possibly IT for lamp post infrastructure).",
+    "Syracuse University partnership adds intergovernmental coordination dimension.",
+    "Article emphasizes equity/inclusion angle: banners serve youth in underrepresented communities by showing local representation.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)",
+    "Tag warning: Unknown tag 'community-engagement' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,90 @@
+{
+  "record_id": "CTX-NEWS-2025-00054",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/in-syracuse-budget-battle-council-leader-pledges-to-override-all-mayoral-vetoes",
+  "publication_date": "2025-05-15",
+  "capture_date": "2026-03-22T18:29:53Z",
+  "title": "In Syracuse budget battle, council leader pledges to override all mayoral vetoes",
+  "summary": "Syracuse Common Council Acting President Pat Hogan pledged to override all mayoral vetoes on a budget that cuts $16 million from Mayor Ben Walsh's proposal to address a projected $27 million deficit. Walsh indicated he will issue vetoes on Monday, but has no legal recourse once the council's nine members vote unanimously to override; department heads warn the cuts will eliminate jobs and threaten core services like fire response and parks programming.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "council",
+    "mayor",
+    "vote",
+    "escalating",
+    "policy-change",
+    "leadership-change",
+    "procedural",
+    "transparency"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Syracuse Fire Department",
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE"
+    },
+    {
+      "name": "Syeisha Byrd",
+      "type": "person",
+      "canonical_id": "PERSON-SYEISHA-BYRD"
+    },
+    {
+      "name": "Michael Monds",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-MONDS"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Escalating public dispute between Mayor Walsh and Council leadership (Hogan) over budget priorities; council has locked in position with no compromise, mayor facing certain veto override with no legal remedies remaining.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts appear incomplete in source: '$16 million' and '$27 million' require context validation (millions vs full amounts)",
+    "Pat Hogan serving as Acting President/Council President Pro-Tempore—title inconsistency in source",
+    "Hogan noted as mayoral candidate, introducing political incentive dynamics beyond budget substance",
+    "Department impacts quantified: Parks (36 seasonal job eliminations mentioned), Fire (response capacity), Police (referenced concerns)",
+    "May 15, 2025 date is future-dated; recommend verification against publication metadata",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'procedural' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

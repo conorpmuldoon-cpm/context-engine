@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-NEWS-2025-00028",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/we-need-to-do-better-sha-board-chair-addresses-open-meetings-law-violation",
+  "publication_date": "2025-05-08",
+  "capture_date": "2026-03-22T18:24:57Z",
+  "title": "'We need to do better': SHA Board Chair addresses open meetings law violation",
+  "summary": "Syracuse Housing Authority Board Chair Calvin Corriders Sr. acknowledged a violation of New York State Open Meetings Law during an April 17 board meeting where the public and press were excluded from portions of the meeting. Corriders committed to accountability and self-reporting to the state, emphasizing the need for greater transparency and public engagement at SHA meetings and hearings.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "transparency",
+    "investigation",
+    "accountability",
+    "state-mandates",
+    "residents",
+    "leadership-change",
+    "procedural"
+  ],
+  "department_refs": [
+    "Syracuse Housing Authority",
+    "Department of Neighborhood and Business Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Calvin Corriders Sr.",
+      "type": "person",
+      "canonical_id": "PERSON-CALVIN-CORRIDERS-SR"
+    },
+    {
+      "name": "Syracuse Housing Authority",
+      "type": "organization",
+      "canonical_id": "ORG-SHA"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Mary Kielar",
+      "type": "person",
+      "canonical_id": "PERSON-MARY-KIELAR"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Media investigation into SHA open meetings law violations and low public participation at hearings; board leadership responding with accountability messaging but underlying governance concerns remain.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is media reporting (CNY Central) rather than official city communication",
+    "No dollar amounts or specific penalty information disclosed",
+    "Public hearing attendance concern noted but no data provided",
+    "Department of Neighborhood and Business Development noted as having representatives present at April 17 meeting",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'accountability' not in taxonomy",
+    "Tag warning: Unknown tag 'procedural' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

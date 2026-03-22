@@ -1,0 +1,60 @@
+{
+  "record_id": "CTX-NEWS-2025-00104",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-police-discuss-national-night-out-and-dome-patrols",
+  "publication_date": "2025-08-03",
+  "capture_date": "2026-03-22T18:40:01Z",
+  "title": "Syracuse Police discuss National Night Out and Dome Patrols",
+  "summary": "The Syracuse Police Department is organizing National Night Out at Kirk Park on Tuesday to build community-police relationships through informal engagement. Concurrently, the department has increased patrol presence inside and outside the Dome for the upcoming football season, with Chief Joe Cecile advising attendees to plan ahead for traffic and arrive early.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "emergency-services",
+    "public-safety-commission",
+    "community",
+    "residents",
+    "announcement",
+    "initiative-launch"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Chief Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE"
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Police leadership actively promoting community engagement and public safety measures aligned with departmental priorities. National Night Out demonstrates commitment to community policing; Dome patrols reflect resource allocation to major civic events.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on operational announcements rather than policy change or budget impact",
+    "No dollar amounts, contracts, or decision-making data present",
+    "Kirk Park and Dome venue references noted for potential cross-departmental coordination with Parks or Facilities",
+    "Football season context suggests coordination with external stakeholder (likely Syracuse University Athletics)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'community' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

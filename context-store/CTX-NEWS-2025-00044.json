@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-NEWS-2025-00044",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-05-22/syracuse-councilors-poised-to-override-mayors-attempt-to-restore-budget-cuts",
+  "publication_date": "2025-05-22",
+  "capture_date": "2026-03-22T18:27:53Z",
+  "title": "Syracuse councilors poised to override mayor's attempt to restore budget cuts",
+  "summary": "Syracuse Common Council is poised to override Mayor Walsh's veto of budget cuts, rejecting his attempt to restore $13 million in spending reductions and a 2% property tax increase. The council seeks to limit the city's $27 million reserve draw to approximately $13.5 million to preserve fiscal independence amid federal funding uncertainty. A council override vote is expected at Tuesday's meeting.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "council",
+    "mayor",
+    "vote",
+    "tax-revenue",
+    "policy-change",
+    "escalating",
+    "leadership-change"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Mayor Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-WALSH"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Council leadership (Pat Hogan, acting president and mayoral candidate) is directly opposing mayor's fiscal approach, signaling strong disagreement over reserve management philosophy and departmental spending accountability. Ideological divide evident: council emphasizes fiscal restraint and limits; mayor emphasizes service investment and tax-supported revenue.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts validated: $16M cuts, $3M restored by mayor, $27M reserve draw proposed, ~$13.5M target by council",
+    "Pat Hogan identified as acting council president and mayoral primary candidate—potential conflict of interest/political motivation flagged",
+    "No specific city departments mentioned by name; article focuses on budgetary philosophy rather than operational impact",
+    "Vote expected May 28, 2025 (Tuesday following May 22 publication); recommend monitoring for override outcome",
+    "Property tax increase history cited (6% under Walsh administration) relevant for CIO planning around IT infrastructure funding and digital services resources",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

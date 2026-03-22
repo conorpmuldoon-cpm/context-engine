@@ -1,0 +1,66 @@
+{
+  "record_id": "CTX-NEWS-2025-00140",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/car-thefts-down-almost-50-from-last-year-in-syracuse",
+  "publication_date": "2025-10-16",
+  "capture_date": "2026-03-22T18:47:36Z",
+  "title": "Syracuse car thefts drop by 50% in 2025, but university area remains a hot spot",
+  "summary": "Syracuse achieved a 50% reduction in car thefts in 2025 (500 incidents vs. 1,000+ in 2024), attributed partly to a steering wheel lock initiative with Syracuse University and increased license plate camera surveillance. However, the university area remains a theft hotspot, with students leaving keys in vehicles cited as a primary vulnerability. The Syracuse Police Department recommends standard prevention measures including vehicle locking, secure parking, and key retention.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "crime-data",
+    "police",
+    "public-safety-commission",
+    "data-governance",
+    "IT-infrastructure",
+    "initiative-launch",
+    "residents",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Rasheada Caldwell",
+      "type": "person",
+      "canonical_id": "PERSON-RASHEADA-CALDWELL"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIVERSITY"
+    },
+    {
+      "name": "Kieran Coffey",
+      "type": "person",
+      "canonical_id": "PERSON-KIERAN-COFFEY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Demonstrates measurable crime reduction through data-driven intervention (steering wheel locks, license plate cameras) and cross-sector partnership with university; signals effective public safety governance and community safety prioritization.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date discrepancy: headline states 2025-10-16 but content dated October 15-16, 2025; appears to be future-dated article or system error",
+    "No budget figures provided for steering wheel lock program or camera infrastructure investment",
+    "License plate camera deployment represents IT/surveillance infrastructure expansion worth flagging for CIO purview",
+    "Data quality: specific theft counts (500 vs. 1,000+) allow for outcome measurement; recommend standardized crime data reporting linkage",
+    "Vehicle security vulnerability (Kia/Hyundai flaw) external to city control but worth monitoring for resident advisory",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

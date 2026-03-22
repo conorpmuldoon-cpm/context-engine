@@ -1,0 +1,78 @@
+{
+  "record_id": "CTX-NEWS-2025-00128",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/clear-investment-group-pledges-to-transform-troubled-skyline-apartments-in-syracuse-fire-connie-tuori-fire-flooding",
+  "publication_date": "2025-09-25",
+  "capture_date": "2026-03-22T18:44:59Z",
+  "title": "Clear Investment Group pledges to transform troubled Skyline Apartments in Syracuse",
+  "summary": "Clear Investment Group has committed to remediate the Skyline Apartments (352 units) on James Street by April 30, 2026, following a court-approved settlement with the City of Syracuse. The property, rebranded as 'The Metropolitan,' suffered from serious habitability issues including a 2021 murder, drug activity, flooding, fire, and vermin. Clear inherited the troubled asset from the previous owner Green Skyline Apartments, LLC in 2023 and is now working collaboratively with city officials to restore the building to safe, habitable conditions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "code-enforcement",
+    "investigation",
+    "contract-award",
+    "facilities",
+    "public-safety-commission",
+    "resolved",
+    "economic-development",
+    "business-community"
+  ],
+  "department_refs": [
+    "Law Department",
+    "Department of Neighborhood and Business Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Clear Investment Group",
+      "type": "organization",
+      "canonical_id": "ORG-CLEAR-INVESTMENT"
+    },
+    {
+      "name": "Amy Rubenstein",
+      "type": "person",
+      "canonical_id": "PERSON-AMY-RUBENSTEIN"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Green Skyline Apartments, LLC",
+      "type": "organization",
+      "canonical_id": "ORG-GREEN-SKYLINE"
+    },
+    {
+      "name": "Legal Services of Central New York",
+      "type": "organization",
+      "canonical_id": "ORG-LEGAL-SERVICES-CNY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor Walsh's announcement of settlement and court approval signals administration priority on housing habitability and enforcement of developer accountability. Clear Investment Group's acceptance of remediation responsibility demonstrates successful regulatory pressure and legal action outcomes.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount $800,000 references former tenant settlement against previous owner Green Skyline Apartments, LLC; Clear Investment Group states non-involvement in that litigation",
+    "Court deadline April 30, 2026 provides measurable completion metric for CIO tracking",
+    "Property contains 352 units—significant housing stock impact for Syracuse",
+    "Previous legal action (announced early April) escalated to settlement (announced Sept. 22)—suggests effective enforcement strategy worth analyzing",
+    "Fire department involvement implied but not explicitly stated in article; may warrant cross-reference with fire incident data",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-NEWS-2025-00022",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/i-team/housing-authority-public-hearing-lasts-20-minutes-with-no-leadership-present",
+  "publication_date": "2025-04-26",
+  "capture_date": "2026-03-22T18:23:48Z",
+  "title": "Housing Authority public hearing lasts 20 minutes, with no leadership present",
+  "summary": "The Syracuse Housing Authority held a 20-minute public hearing on April 26, 2025 regarding its draft annual plan with minimal attendance and no leadership present—neither Board Commissioners nor Executive Director Bill Simmons attended. The sparsely attended hearing included only journalists, press, and two public housing residents, raising transparency and accountability concerns for the city's housing governance.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "transparency",
+    "leadership-change",
+    "residents",
+    "complaint",
+    "escalating"
+  ],
+  "department_refs": [
+    "Syracuse Housing Authority"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Housing Authority",
+      "type": "organization",
+      "canonical_id": "ORG-SHA"
+    },
+    {
+      "name": "Bill Simmons",
+      "type": "person",
+      "canonical_id": "PERSON-BILL-SIMMONS"
+    },
+    {
+      "name": "Mary Kielar",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Media coverage highlighting apparent leadership absence and minimal public engagement at a mandated federal compliance hearing signals potential governance gaps and accountability concerns at SHA.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on governance failure and public participation absence rather than policy substance",
+    "No specific dollar amounts, budget details, or policy changes documented",
+    "Draft annual plan content not described; article emphasizes procedural/accountability issues",
+    "CIO relevance: potential operational transparency or stakeholder engagement process issue",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

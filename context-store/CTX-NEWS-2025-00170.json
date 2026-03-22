@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-NEWS-2025-00170",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-issues-21000-tickets-for-school-zone-traffic-enforcement-violations",
+  "publication_date": "2025-12-23",
+  "capture_date": "2026-03-22T18:53:20Z",
+  "title": "Syracuse issues 21,000 tickets for School Zone Traffic Enforcement violations in November",
+  "summary": "Syracuse launched its School Zone Traffic Enforcement Program in November 2025, issuing 21,000 citations through automated cameras deployed around schools. The program captured speeding violations (90% of tickets), red light violations (10%), and school bus stop arm violations (645 tickets), with the city reporting a 60% decrease in speeding violations from October despite fewer cameras and school days in operation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "initiative-launch",
+    "police",
+    "public-safety-commission",
+    "transportation",
+    "vision-zero",
+    "code-enforcement",
+    "data-governance",
+    "software-systems",
+    "announcement"
+  ],
+  "department_refs": [
+    "Police Department",
+    "Department of Transportation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Brandon Roth",
+      "type": "person",
+      "canonical_id": "PERSON-BRANDON-ROTH"
+    },
+    {
+      "name": "School Zone Traffic Enforcement Program",
+      "type": "system",
+      "canonical_id": "SYS-SZTP"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Demonstrates municipal commitment to vision-zero and school safety through technology-enabled enforcement. High citation volume (21,000 tickets in first month) suggests aggressive implementation of automated traffic management infrastructure.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No CIO mentioned in article; relevance to innovation office primarily through software-systems and data-governance dimensions of automated enforcement infrastructure",
+    "Citation of 60% decrease in violations requires CIO attention: claims comparison validity questionable given stated reduction in active cameras and school days in November vs. October",
+    "Warning period generated 60,000+ citations; production enforcement generated 21,000—trend analysis and baseline metrics unclear from article",
+    "No mention of data governance, privacy policies, or appeals processes for automated citations",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

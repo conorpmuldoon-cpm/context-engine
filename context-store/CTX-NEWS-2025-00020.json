@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2025-00020",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.wrvo.org/2025-04-29/syracuse-lawmakers-say-plan-to-reassess-property-values-wont-happen-this-year",
+  "publication_date": "2025-04-29",
+  "capture_date": "2026-03-22T18:23:21Z",
+  "title": "Syracuse lawmakers say plan to reassess property values won't happen this year",
+  "summary": "Syracuse Common Council postponed a planned $1.8 million citywide property revaluation project—the first in 30 years—citing economic uncertainty and constituent anxiety about tax increases. The project, which would address 30-40% inaccuracy in property assessments, is now unlikely to advance in 2025. Council members face public concern that reassessment will raise taxes, despite the typical outcome being mixed (one-third up, one-third flat, one-third down).",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "tax-revenue",
+    "policy-change",
+    "constituent-complaints",
+    "budget",
+    "transparency",
+    "council",
+    "vote",
+    "one-time",
+    "procedural"
+  ],
+  "department_refs": [
+    "City Assessor's Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Council members cite constituent anxiety about economic conditions and tax impacts as primary reason for delay. Public concern about reassessment triggering tax increases is driving decision despite assessor recommendation and acknowledged assessment inaccuracy.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount in mechanical extraction is incomplete ($1 vs. $1.8M); corrected in summary",
+    "No specific CIO system dependencies mentioned, but project likely involves assessment data systems and GIS infrastructure",
+    "Delay suggests communication/transparency gap between city and residents regarding tax mechanics",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.wrvo.org)",
+    "Tag warning: Unknown tag 'procedural' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

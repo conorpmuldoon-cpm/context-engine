@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-NEWS-2025-00065",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/state-supreme-court-files-injunction-against-illegal-syracuse-weed-shop",
+  "publication_date": "2025-06-27",
+  "capture_date": "2026-03-22T18:31:55Z",
+  "title": "State Supreme Court files injunction against illegal Syracuse weed shop",
+  "summary": "New York State Supreme Court issued an injunction against The Herbal Center, an illegal cannabis retailer at 916 Salina St., prohibiting cannabis sales and operations. Mayor Ben Walsh announced the enforcement action, which resulted in a $10,000 penalty to the city and rejected the business's constitutional claims and privacy arguments.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "code-enforcement",
+    "police",
+    "business-community",
+    "public-safety-commission",
+    "resolved",
+    "mayor"
+  ],
+  "department_refs": [
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "The Herbal Center",
+      "type": "organization",
+      "canonical_id": "ORG-HERBAL-CENTER"
+    },
+    {
+      "name": "New York State Supreme Court",
+      "type": "organization",
+      "canonical_id": "ORG-NYS-SUPREME-COURT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor emphasizes city's commitment to enforcement against illegal cannabis operations and protection of neighborhoods and legitimate businesses, demonstrating alignment with state regulatory framework.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is a news report of completed enforcement action with no CIO technology or innovation implications detected",
+    "State agency (Supreme Court) action, not primarily a city initiative",
+    "Potential GIS relevance (location tracking of illegal retailers) not explicitly mentioned",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,74 @@
+{
+  "record_id": "CTX-NEWS-2025-00049",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-05-23/i-81-project-intensifying-across-the-city-of-syracuse-and-suburbs",
+  "publication_date": "2025-05-23",
+  "capture_date": "2026-03-22T18:28:45Z",
+  "title": "I-81 Project intensifying across the City of Syracuse and suburbs",
+  "summary": "The I-81 viaduct replacement project is intensifying across Syracuse and suburbs, moving from outer edges toward downtown with daily traffic pattern changes. The project includes a new flyover ramp in Cicero, South Bay Road Bridge construction, and plans to replace the viaduct with a Community Grid featuring tree-lined medians, pedestrian crosswalks, and bike lanes. State DOT projects completion by 2028 and urges drivers to use the I-81 Connect App and exercise caution in construction zones.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "roads-bridges",
+    "transportation",
+    "construction-staging",
+    "state-mandates",
+    "intergovernmental",
+    "trending"
+  ],
+  "department_refs": [
+    "Department of Transportation - New York State",
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "John Smith",
+      "type": "person",
+      "canonical_id": "PERSON-JOHN-SMITH"
+    },
+    {
+      "name": "David Smith",
+      "type": "person",
+      "canonical_id": "PERSON-DAVID-SMITH"
+    },
+    {
+      "name": "Marie Therese Dominguez",
+      "type": "person",
+      "canonical_id": "PERSON-MARIE-DOMINGUEZ"
+    },
+    {
+      "name": "New York State Department of Transportation",
+      "type": "organization",
+      "canonical_id": "ORG-NYDOT"
+    },
+    {
+      "name": "I-81 Connect App",
+      "type": "system",
+      "canonical_id": "SYS-I81-CONNECT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "State-level infrastructure investment with multi-year commitment; project framed as on-schedule with contractor performance praised. Signals sustained state investment in Syracuse region transportation infrastructure.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on state DOT operations; Syracuse CIO relevance is primarily in traffic management, digital citizen communication (I-81 Connect App), and potential smart city/mobility planning coordination",
+    "No budget figures provided despite major capital project",
+    "Community Grid redesign includes pedestrian/bike infrastructure—potential alignment with vision-zero or sustainability initiatives",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

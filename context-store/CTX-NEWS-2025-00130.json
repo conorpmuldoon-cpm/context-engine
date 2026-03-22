@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-NEWS-2025-00130",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/cracks-floor-collapse-force-syracuse-fires-maintenance-to-find-new-temporary-home-foundation-problems-michael-monds",
+  "publication_date": "2025-09-23",
+  "capture_date": "2026-03-22T18:45:24Z",
+  "title": "Cracks, floor collapse force Syracuse Fire's maintenance to find new temporary home",
+  "summary": "Syracuse Fire Department's Maintenance Division facility on State Fair Boulevard (built 1969) has structural integrity issues—foundation cracks identified September 2024 and floor collapse in July 2025—forcing relocation of equipment repair operations. Fire Chief Michael Monds reports the department is in crisis-level time pressure to secure a temporary indoor facility within 5 years, currently using Syracuse University's garage bay as emergency overflow. Failure to relocate risks firefighter safety and operational readiness as fleet maintenance cannot proceed reliably.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "fire",
+    "facilities",
+    "infrastructure",
+    "emergency-services",
+    "escalating",
+    "capital-planning",
+    "intergovernmental"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael Monds",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-MONDS"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIVERSITY"
+    },
+    {
+      "name": "City Engineering Department",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public safety operational vulnerability due to aging municipal infrastructure; Fire Chief escalating urgency to City Council regarding fleet readiness risks and need for immediate temporary facility solution.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Date discrepancy in article: Foundation cracks identified 'September 2024' but apparatus fell through floor 'July 18, 2024'—likely editorial error (July should precede September); treated as sequential timeline.",
+    "No budget amounts specified; capital planning implications unclear.",
+    "SU partnership is interim/emergency measure, not permanent solution.",
+    "Article references potential fleet exhaustion scenarios—suggests broader emergency readiness concern beyond maintenance facility.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

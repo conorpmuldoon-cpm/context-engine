@@ -1,0 +1,76 @@
+{
+  "record_id": "CTX-NEWS-2025-00059",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/fence-outside-syracuse-rescue-mission-sparks-major-concerns-from-homeless-community-live-city-violence-drugs-chain-dickerson-troubled-police-work-puboic-safety-overdoses-fights-problems-decades-animals-caging-emergency-human-connections-residents-uncle",
+  "publication_date": "2025-06-06",
+  "capture_date": "2026-03-22T18:30:49Z",
+  "title": "Fence outside Syracuse Rescue Mission sparks major concerns from homeless community",
+  "summary": "A new chain-link fence erected along Dickerson Street behind Syracuse's largest homeless shelter (Rescue Mission) is generating significant community backlash. While city officials frame it as a public safety measure to reduce drug activity and violence, unhoused residents and advocates argue it isolates vulnerable populations, impedes emergency response times, restricts family access, and merely displaces—rather than solves—underlying issues. The CIO should monitor this as a case study in how physical infrastructure interventions intersect with homelessness, mental health, and equity concerns.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "public-safety",
+    "housing",
+    "equity",
+    "emergency-services",
+    "infrastructure",
+    "PROVISIONAL:homelessness-services",
+    "PROVISIONAL:community-opposition",
+    "residents",
+    "policy-change",
+    "escalating"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Department of Public Safety",
+    "PROVISIONAL:Department of Homeless Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Rescue Mission",
+      "type": "organization",
+      "canonical_id": "ORG-RESCUE-MISSION"
+    },
+    {
+      "name": "Dickerson Street",
+      "type": "system",
+      "canonical_id": "SYS-DICKERSON-STREET"
+    },
+    {
+      "name": "Tryail Martin",
+      "type": "person",
+      "canonical_id": "PERSON-TRYAIL-MARTIN"
+    },
+    {
+      "name": "Gary Robinson Jr.",
+      "type": "person",
+      "canonical_id": "PERSON-GARY-ROBINSON-JR"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Unhoused community and advocates actively opposing city infrastructure decision; framing fence as punishment and caging rather than protection; demanding compassionate, long-term solutions addressing root causes (housing, mental health) rather than containment",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article contains strong advocacy language from homeless community; no official city response or counterstatement included",
+    "Emergency services impact (ambulance access/response times) is quantifiable concern for CIO coordination with fire/EMS",
+    "Fence described as 'short-term solution' by city—suggests possible policy review opportunity",
+    "Root cause analysis (housing crisis, mental health services) mentioned but not detailed—may warrant deeper investigation",
+    "No budget figures provided in article; capital project cost and funding source unknown",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

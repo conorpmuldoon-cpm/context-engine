@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-NEWS-2025-00014",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.wrvo.org/2025-04-24/syracuse-city-auditor-releases-analysis-of-walshs-city-budget-proposal",
+  "publication_date": "2025-04-24",
+  "capture_date": "2026-03-22T18:22:16Z",
+  "title": "Syracuse city auditor releases analysis of Walsh's city budget proposal",
+  "summary": "City Auditor Alex Marion released a pre-enactment analysis of Mayor Walsh's $348M FY2025-26 budget proposal, marking the first time a city auditor has reviewed a budget before passage. Marion acknowledges budget challenges while recommending revenue optimization through modernized fee structures (permits, parking, code enforcement) and clarification of fund balance accounting. The auditor also advocates for increased state support to address Syracuse's tax-exempt property crisis, where less than half of properties pay property taxes.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "audit",
+    "tax-revenue",
+    "permitting",
+    "code-enforcement",
+    "transparency",
+    "intergovernmental",
+    "state-agency",
+    "vote"
+  ],
+  "department_refs": [
+    "Office of the City Auditor",
+    "Mayor's Office",
+    "Common Council"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Alex Marion",
+      "type": "person",
+      "canonical_id": "PERSON-ALEX-MARION"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Auditor provides constructive but critical analysis of mayoral budget, identifying operational improvement opportunities and flagging structural revenue challenges requiring state intervention.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Auditor report title 'Budget Balancing Act' not captured in available tags; consider PROVISIONAL:budget-analysis-document",
+    "Parking revenue modernization referenced but micromobility tag may not fully capture parking garage/street parking focus",
+    "State-level tax-exempt property policy issue has intergovernmental implications requiring state agency coordination",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.wrvo.org)"
+  ],
+  "last_relevance_update": null
+}

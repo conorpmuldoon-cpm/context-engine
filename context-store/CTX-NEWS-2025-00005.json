@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-NEWS-2025-00005",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-code-enforcement-in-the-spotlight",
+  "publication_date": "2025-04-15",
+  "capture_date": "2026-03-22T18:20:25Z",
+  "title": "Syracuse Code Enforcement in the spotlight",
+  "summary": "Syracuse Code Enforcement Department is requesting $1M in additional budget funding, including $500K for third-party plan review firms to accelerate permit approval processes and $500K for hiring two additional code inspectors. The initiative responds to high-profile code violation incidents and constituent complaints about slow permitting that the Commissioner argues hampers economic growth.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "code-enforcement",
+    "permitting",
+    "budget",
+    "hiring",
+    "economic-development",
+    "public-safety-commission",
+    "mayor",
+    "council",
+    "infrastructure",
+    "procedural"
+  ],
+  "department_refs": [
+    "Department of Code Enforcement and Zoning Administration",
+    "Office of the Commissioner of Neighborhood and Business Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael Collins",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-COLLINS",
+      "role": "Commissioner of Neighborhood & Business Development"
+    },
+    {
+      "name": "Jake Dishaw",
+      "type": "person",
+      "canonical_id": "PERSON-JAKE-DISHAW",
+      "role": "Deputy Commissioner of Code Enforcement & Zoning Administration"
+    },
+    {
+      "name": "Jojo Dennis",
+      "type": "person",
+      "canonical_id": "PERSON-JOJO-DENNIS",
+      "role": "Syracuse Neighbor"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Mayor's budget plan commits $1M to Code Enforcement modernization; department leadership frames investment as essential to economic growth and public safety; city council requesting cost-benefit justification; constituent skepticism about affordability during inflationary period.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date inconsistency: Title shows 2025-04-15, byline shows Mon April 14, 2025 11:51 PM. Used April 14-15, 2025 as publication window.",
+    "Syracuse Academy of Science Charter School incident (January 2025) and convent fire (March 2025) cited as catalysts for policy attention.",
+    "Third-party plan review is a software/process modernization play—CIO should track implementation vendor selection and system integration.",
+    "Budget request appears in mayor's proposed plan; council approval status unknown from article.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'procedural' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

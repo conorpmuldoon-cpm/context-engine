@@ -1,0 +1,76 @@
+{
+  "record_id": "CTX-NEWS-2025-00008",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/we-need-to-replace-bill-simmons-sha-resident-calls-for-accountability",
+  "publication_date": "2025-04-18",
+  "capture_date": "2026-03-22T18:20:59Z",
+  "title": "'We need to replace Bill Simmons': SHA resident calls for accountability",
+  "summary": "Syracuse Housing Authority (SHA) resident Mable Wilson publicly called for the replacement of Executive Director Bill Simmons, citing poor treatment of residents and lack of accountability. Mayor Walsh has expressed lack of confidence in SHA leadership and stated the need for change, though termination authority rests with the SHA Board of Commissioners. This escalates ongoing scrutiny of SHA management following reports on the paused Children Rising Center project.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "leadership-change",
+    "accountability",
+    "residents",
+    "investigation",
+    "escalating",
+    "constituent-complaints",
+    "transparency",
+    "department-head"
+  ],
+  "department_refs": [
+    "Syracuse Housing Authority"
+  ],
+  "entity_refs": [
+    {
+      "name": "Bill Simmons",
+      "type": "person",
+      "canonical_id": "PERSON-BILL-SIMMONS"
+    },
+    {
+      "name": "Mable Wilson",
+      "type": "person",
+      "canonical_id": "PERSON-MABLE-WILSON"
+    },
+    {
+      "name": "Mayor Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-MAYOR-WALSH"
+    },
+    {
+      "name": "Syracuse Housing Authority",
+      "type": "organization",
+      "canonical_id": "ORG-SHA"
+    },
+    {
+      "name": "SHA Board of Commissioners",
+      "type": "organization",
+      "canonical_id": "ORG-SHA-BOARD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Resident advocacy for executive leadership removal, amplified by mayoral scrutiny. Mayor has publicly stated need for change but defers to board authority.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references prior I-Team reporting on SHA and Children Rising Center project paused status; suggests part of ongoing investigation",
+    "Mayor's position signals political pressure but formal decision authority remains with board structure",
+    "No financial data or specific remediation timeline mentioned",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'accountability' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

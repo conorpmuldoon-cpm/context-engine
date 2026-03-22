@@ -1,0 +1,83 @@
+{
+  "record_id": "CTX-NEWS-2025-00066",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/onondaga-park-pool-to-reopen-amid-safety-concerns-days-after-fatal-shooting-of-teen-syracuse-mayor-ben-walsh-police-department-patrols-adhon-thomas-wstm-wtvh",
+  "publication_date": "2025-06-26",
+  "capture_date": "2026-03-22T18:32:07Z",
+  "title": "'These pools raised me': Public stays hopeful about Onondaga Park despite recent violence",
+  "summary": "Following a fatal shooting of 15-year-old Adhon Thomas at Onondaga Park pool on June 24, 2025, the pool reopened June 26 with increased police patrols promised by Mayor Ben Walsh. Despite safety concerns and three additional child shootings on the northside, Parks Commissioner Syeisha Byrd and community members expressed commitment to the park's continued operation, noting its critical role in youth development while providing staff with trauma support services.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "parks",
+    "police",
+    "emergency-services",
+    "public-safety-commission",
+    "crime-data",
+    "residents",
+    "escalating",
+    "policy-change",
+    "trending",
+    "equity"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation & Youth Services",
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syeisha Byrd",
+      "type": "person",
+      "canonical_id": "PERSON-SYEISHA-BYRD"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Joseph Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOSEPH-CECILE"
+    },
+    {
+      "name": "Adhon Thomas",
+      "type": "person",
+      "canonical_id": "PERSON-ADHON-THOMAS"
+    },
+    {
+      "name": "Joseph McCoy",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Onondaga Park",
+      "type": "system",
+      "canonical_id": "SYS-ONONDAGA-PARK"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Community advocacy for park safety and continued access despite violent incidents; mayoral commitment to enhanced police presence; transparency concerns about actual patrol deployment verification.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Veo mentioned in context of northside shooting suspect (bike-sharing micromobility element)",
+    "Police presence claims by SPD not independently verified by reporters",
+    "Trauma support provision indicates HR/workforce development coordination with Parks Dept",
+    "Multiple violence incidents in single 24-hour period suggests escalating public safety pattern requiring CIO data integration for crime-analytics dashboards",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

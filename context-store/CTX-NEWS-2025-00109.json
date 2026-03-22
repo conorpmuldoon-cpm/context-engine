@@ -1,0 +1,65 @@
+{
+  "record_id": "CTX-NEWS-2025-00109",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-police-chief-clarifies-policy-adherence-after-pba-posts",
+  "publication_date": "2025-07-27",
+  "capture_date": "2026-03-22T18:40:53Z",
+  "title": "Syracuse police chief clarifies policy adherence after PBA posts",
+  "summary": "Syracuse Police Chief Joseph Cecile addressed tensions with the Police Benevolent Association (PBA) President Joe Moran, who posted that officers should disregard de-escalation policies in Armory Square due to crime concerns. Chief Cecile clarified that the PBA President lacks authority to direct policy and emphasized that officers will continue following established procedures. The Chief praised departmental professionalism and noted that Moran has partially walked back his controversial statements.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "policy-change",
+    "labor-relations",
+    "public-safety-commission",
+    "leadership-change",
+    "transparency",
+    "training",
+    "escalating"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Joseph Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOSEPH-CECILE"
+    },
+    {
+      "name": "Joe Moran",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-MORAN"
+    },
+    {
+      "name": "Police Benevolent Association",
+      "type": "organization",
+      "canonical_id": "ORG-PBA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Union leadership publicly advocating for departure from departmental de-escalation policies; departmental leadership asserting policy adherence and operational control.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references Armory Square as crime-affected area; geographic specificity may be relevant for GIS/neighborhood analysis",
+    "De-escalation policy adherence is core conflict; represents potential training or procedure enforcement issue",
+    "PBA President's Facebook posts indicate internal communication tensions that may warrant CIO attention for policy documentation/transparency systems",
+    "No budget, technology systems, or digital infrastructure issues identified in article",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

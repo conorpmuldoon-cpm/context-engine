@@ -1,0 +1,74 @@
+{
+  "record_id": "CTX-NEWS-2025-00057",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/long-awaited-outside-audit-complete-of-mayor-walshs-payroll-modernization-attempt",
+  "publication_date": "2025-06-08",
+  "capture_date": "2026-03-22T18:30:28Z",
+  "title": "Long awaited outside audit complete of Mayor Walsh's payroll modernization attempt",
+  "summary": "Syracuse Common Council scheduled a Finance Committee meeting (June 13, 2025) to review and publicly release an external audit of Mayor Walsh's five-year payroll modernization initiative, which has cost taxpayers over $8 million and remains incomplete. Foxpointe Solutions completed the commissioned audit, with the meeting marking a potential turning point as the administration issues new RFPs to complete remaining project components.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "audit",
+    "payroll",
+    "software-systems",
+    "IT-infrastructure",
+    "procurement",
+    "investigation",
+    "transparency",
+    "council",
+    "escalating",
+    "leadership-change"
+  ],
+  "department_refs": [
+    "Department of Finance",
+    "Department of Information Technology"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-COMMON-COUNCIL"
+    },
+    {
+      "name": "Foxpointe Solutions",
+      "type": "organization",
+      "canonical_id": "ORG-FOXPOINTE-SOLUTIONS"
+    },
+    {
+      "name": "EY",
+      "type": "organization",
+      "canonical_id": "ORG-EY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council exercising fiscal oversight through formal audit and public meeting on troubled $8M+ initiative; escalating oversight pattern indicated by prior AG review and whistleblower disputes",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount extracted as '$8 million+' from article text; precise total may be clarified in audit release",
+    "Meeting date inferred as Thursday June 13, 2025 based on article publication date June 8-9, 2025",
+    "Multiple prior I-Team investigations referenced; core issue involves incomplete modernization, cost overruns, consultant dependencies, and administrative changes",
+    "New RFP issuance signals project restart/pivot rather than resolution",
+    "PROVISIONAL tag 'escalating' applied due to pattern of investigations and administrative fallout indicated by article links",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

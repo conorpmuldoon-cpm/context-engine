@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-NEWS-2025-00175",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.wrvo.org/2025-12-31/walsh-ready-to-hand-syracuse-city-government-to-sharon-owens",
+  "publication_date": "2025-12-31",
+  "capture_date": "2026-03-22T18:54:17Z",
+  "title": "Walsh ready to hand Syracuse city government to Sharon Owens",
+  "summary": "Mayor Ben Walsh concludes his eight-year tenure as Syracuse's 54th mayor on December 31, 2025, handing leadership to Deputy Mayor Sharon Owens, who becomes the city's first Black mayor. Walsh highlights accomplishments in infrastructure (100+ miles of roads paved), housing, the I-81 community grid project, and basic city services, while transitioning to lead the New York State Canal Corporation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "mayor",
+    "announcement",
+    "housing",
+    "infrastructure",
+    "roads-bridges",
+    "intergovernmental"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "New York State Canal Corporation",
+      "type": "organization",
+      "canonical_id": "ORG-NYSCC"
+    },
+    {
+      "name": "Syracuse City Hall",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Outgoing mayor emphasizes foundational service delivery (trash collection, sidewalk programs, road maintenance) and strategic long-term initiatives (housing, I-81 grid redesign, SDC redevelopment, high school construction) as administration legacy. Independent political status cited as asset for cross-party collaboration.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily biographical/transition coverage rather than policy or operational announcement",
+    "Department references mentioned contextually (permits/development implied in housing/construction) but no specific departmental actions detailed",
+    "No budget figures, contracts, or quantified metrics beyond '100 miles of roads paved' and '8 years of service'",
+    "Historical/genealogical note: Walsh is grandson of a previous Syracuse mayor; Owens' appointment represents significant demographic/representational milestone",
+    "Future state relevance: Walsh's move to NYSCC may have implications for state-local infrastructure coordination on Canal projects",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.wrvo.org)"
+  ],
+  "last_relevance_update": null
+}

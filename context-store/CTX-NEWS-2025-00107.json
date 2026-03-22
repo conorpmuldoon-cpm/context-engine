@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-NEWS-2025-00107",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-07-31/burned-out-vacant-houses-contribute-to-syracuses-housing-shortage",
+  "publication_date": "2025-07-31",
+  "capture_date": "2026-03-22T18:40:31Z",
+  "title": "Burned out vacant houses contribute to Syracuse's housing shortage",
+  "summary": "City Auditor Alexander Marion's report identifies that over one-third of Syracuse's 87 house fires last year occurred in vacant structures, exacerbating the housing shortage. The report recommends proactive interventions including zoning code adjustments (minimum lot sizes), an early warning system for tax delinquency, enhanced property boarding, standardized FEMA-style vacancy marking, and enforcement of the vacant property registry to address the estimated 1,600 vacant houses in the city.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "audit",
+    "housing",
+    "fire",
+    "code-enforcement",
+    "zoning",
+    "land-use",
+    "policy-change",
+    "data-governance",
+    "emergency-services",
+    "investigation"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Office of the City Auditor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Alexander Marion",
+      "type": "person",
+      "canonical_id": "PERSON-ALEXANDER-MARION"
+    },
+    {
+      "name": "WAER",
+      "type": "organization",
+      "canonical_id": "ORG-WAER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Audit findings expose systemic gaps in vacant property management and highlight municipal capacity constraints; recommendations signal need for data infrastructure and policy modernization.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Report source is public audit; no budget figures provided but rehabilitation cost-benefit analysis is central issue",
+    "Zoning code reform flagged as actionable policy priority",
+    "Vacancy registry compliance gap (25% coverage) indicates data governance opportunity for CIO",
+    "Early warning system recommendation aligns with predictive analytics/data-driven governance initiatives",
+    "FEMA safety marking standard referenced as model for standardization",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

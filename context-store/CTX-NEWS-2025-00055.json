@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-NEWS-2025-00055",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-public-safety-building-could-become-apartments-next-to-jail-and-courthouse-justice-center-criminal-police-fire",
+  "publication_date": "2025-06-09",
+  "capture_date": "2026-03-22T18:30:06Z",
+  "title": "Syracuse Public Safety building could become apartments next to jail and courthouse",
+  "summary": "Syracuse's Public Safety Building on State Street will be repurposed following the relocation of police and fire departments to a leased facility at 1153 W. Fayette Street by January 2026. Onondaga County is leading an RFP process to redevelop the two-acre downtown property, with housing (apartments) as the preferred use case despite proximity to the county jail and courthouse. The city will pay $1.8M annually in rent for the new headquarters, comparable to current costs.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "capital-planning",
+    "facilities",
+    "economic-development",
+    "land-use",
+    "housing",
+    "procurement",
+    "police",
+    "fire",
+    "intergovernmental",
+    "construction-staging"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Syracuse Fire Department",
+    "City of Syracuse Department of Assessment",
+    "Onondaga County"
+  ],
+  "entity_refs": [
+    {
+      "name": "Matt Oja",
+      "type": "person",
+      "canonical_id": "PERSON-MATT-OJA"
+    },
+    {
+      "name": "Richard Shoff",
+      "type": "person",
+      "canonical_id": "PERSON-RICHARD-SHOFF"
+    },
+    {
+      "name": "Onondaga County Justice Center",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY-JUSTICE-CENTER"
+    },
+    {
+      "name": "Syracuse City Criminal Courthouse",
+      "type": "organization",
+      "canonical_id": "ORG-SYR-CRIMINAL-COURTHOUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "County leadership actively moving forward on property disposition with RFP process; city characterizing move as cost-effective and efficient; messaging around downtown revitalization suggests economic development priority.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount incomplete in mechanical extraction: actual figure is $1.8 million (annual rent)",
+    "Deputy Chief Richard Shoff title extracted from context rather than explicit role statement",
+    "Article focuses on real estate/facilities strategy; limited direct CIO implications unless digital infrastructure migration to new facility is planned",
+    "RFP process underway but no technology procurement angle evident in article text",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

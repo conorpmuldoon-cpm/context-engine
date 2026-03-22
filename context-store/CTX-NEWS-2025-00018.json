@@ -1,0 +1,82 @@
+{
+  "record_id": "CTX-NEWS-2025-00018",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/i-team/i-team-silence-from-syracuse-housing-authority-board-of-commissioners",
+  "publication_date": "2025-04-22",
+  "capture_date": "2026-03-22T18:23:03Z",
+  "title": "I-Team: Silence from Syracuse Housing Authority Board of Commissioners",
+  "summary": "The Syracuse Housing Authority Board of Commissioners (7 members appointed by Mayor Walsh) is under investigation by NBC3's I-Team for failed leadership, dysfunction, and Open Meetings Law violations. The board oversees the East Adams Neighborhood housing project (tens of millions in funding) but has not responded to journalist inquiries about legal violations or executive director accountability. All seven commissioners declined to comment on whether they were aware of the open meetings violation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "leadership-change",
+    "transparency",
+    "investigation",
+    "escalating",
+    "governance",
+    "PROVISIONAL:public-housing-authority",
+    "PROVISIONAL:open-meetings-compliance",
+    "mayor",
+    "state-agency",
+    "constituent-complaints"
+  ],
+  "department_refs": [
+    "Department of Permits and Development",
+    "Office of the Mayor",
+    "PROVISIONAL:Syracuse Housing Authority"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Housing Authority Board of Commissioners",
+      "type": "organization",
+      "canonical_id": "ORG-SHA"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Bill Simmons",
+      "type": "person",
+      "canonical_id": "PERSON-BILL-SIMMONS"
+    },
+    {
+      "name": "Mary Kielar",
+      "type": "person",
+      "canonical_id": "PERSON-MARY-KIELAR"
+    },
+    {
+      "name": "Calvin Corriders, Senior",
+      "type": "person",
+      "canonical_id": "PERSON-CALVIN-CORRIDERS-SR"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Media investigation into board governance failures, legal violations, and lack of accountability oversight by mayoral appointees managing major public housing initiative. Board's silence on media inquiries suggests defensive posture.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on institutional accountability and legal compliance failures rather than CIO direct purview, but signals governance/transparency issues relevant to city innovation/digital services infrastructure",
+    "No dollar amounts specified despite reference to 'tens of millions at stake'",
+    "Seven board commissioners explicitly named but only three quoted/identified in article",
+    "East Adams Neighborhood project is multi-agency initiative—SHA is lead but coordinating with other partners (not named)",
+    "Open Meetings Law violation is substantiated with specific incident (April 17 meeting)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'governance' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

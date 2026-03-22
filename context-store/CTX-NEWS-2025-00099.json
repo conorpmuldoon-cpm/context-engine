@@ -1,0 +1,70 @@
+{
+  "record_id": "CTX-NEWS-2025-00099",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-08-11/city-of-syracuse-seeks-to-close-nuisance-convenience-store-in-outer-comstock-neighborhood",
+  "publication_date": "2025-08-11",
+  "capture_date": "2026-03-22T18:39:09Z",
+  "title": "City of Syracuse seeks to close nuisance convenience store in Outer Comstock neighborhood",
+  "summary": "The City of Syracuse is pursuing revocation of a special use permit for Market convenience store in Outer Comstock neighborhood, citing illegal cannabis and vape sales, tobacco license violations, and quality-of-life complaints from residents. A public hearing is scheduled for August 27, 2025. The case demonstrates code enforcement action and community concern about nuisance retail operations near schools and parks.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "code-enforcement",
+    "complaint",
+    "permitting",
+    "land-use",
+    "public-safety-commission",
+    "residents",
+    "neighborhood-services",
+    "investigation"
+  ],
+  "department_refs": [
+    "Code Enforcement"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jake Dishaw",
+      "type": "person",
+      "canonical_id": "PERSON-JAKE-DISHAW"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIVERSITY"
+    },
+    {
+      "name": "Market convenience store",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Comfort Tyler Park",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Community complaints about illegal retail operations, parking violations, and litter driving formal city enforcement action with public hearing process.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Deputy Commissioner title suggests Jake Dishaw works in Code Enforcement Department",
+    "Article references multiple enforcement agencies: state (cannabis), county (health/vapes), city (code enforcement, tobacco)",
+    "Proximity to Syracuse Latin School and Syracuse University suggests intergovernmental coordination may be relevant",
+    "Special use permit revocation is formal legal process; public hearing date (8/27) is actionable milestone",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

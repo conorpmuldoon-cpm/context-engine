@@ -1,0 +1,82 @@
+{
+  "record_id": "CTX-NEWS-2025-00094",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-07-22/full-steam-ahead-for-new-regional-schools-first-cohort-of-students-this-fall",
+  "publication_date": "2025-07-22",
+  "capture_date": "2026-03-22T18:38:07Z",
+  "title": "Full STEAM ahead for new regional school's first cohort of students this fall",
+  "summary": "A new regional STEAM school is opening in downtown Syracuse this fall in the renovated 125-year-old Central Technical High School building. The inaugural cohort of 250 students (80% from Syracuse city) will occupy the first two floors while construction continues, with plans to eventually grow to 1,000 students over four years. City and county leaders view this as a potential model for cross-district educational collaboration and regional student recruitment.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "initiative-launch",
+    "education",
+    "PROVISIONAL:STEAM-education",
+    "capital-planning",
+    "facilities",
+    "intergovernmental",
+    "historic-preservation",
+    "workforce-development",
+    "economic-development"
+  ],
+  "department_refs": [
+    "Department of Education",
+    "Department of Facilities Management"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Anthony Davis",
+      "type": "person",
+      "canonical_id": "PERSON-ANTHONY-DAVIS"
+    },
+    {
+      "name": "Archie Wixson",
+      "type": "person",
+      "canonical_id": "PERSON-ARCHIE-WIXSON"
+    },
+    {
+      "name": "Syracuse City School District",
+      "type": "organization",
+      "canonical_id": "ORG-SCSD"
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Cross-sector leadership (mayor, county executive, school superintendent) publicly championing regional STEAM education initiative as economic development and workforce pipeline strategy; framed as potential statewide model.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on K-12 education rather than municipal IT operations; relevance to CIO office is indirect (facilities/construction digital systems, potential future technology integration in school infrastructure)",
+    "No direct budget figures provided",
+    "Historic preservation angle may intersect with accessibility/ADA compliance standards",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)",
+    "Tag warning: Unknown tag 'education' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

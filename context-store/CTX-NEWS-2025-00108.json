@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-NEWS-2025-00108",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.wrvo.org/2025-08-01/syracuse-city-auditor-releases-report-aiming-to-cut-down-on-vacant-structure-fires",
+  "publication_date": "2025-08-01",
+  "capture_date": "2026-03-22T18:40:39Z",
+  "title": "Syracuse city auditor releases report aiming to cut down on vacant structure fires",
+  "summary": "Syracuse City Auditor Alex Marion released a report titled 'Following the Fire' documenting 25 vacant property fires in 2024, averaging 2 fires monthly with $1M+ in damages and $160K in demolition costs. The report recommends preventive solutions including improved boarding methods, better hazard identification, and inter-departmental coordination to reduce future incidents.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "audit",
+    "fire",
+    "emergency-services",
+    "housing",
+    "policy-change",
+    "initiative-launch",
+    "public-safety-commission",
+    "code-enforcement",
+    "transparency"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "City Auditor's Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Alex Marion",
+      "type": "person",
+      "canonical_id": "PERSON-ALEX-MARION"
+    },
+    {
+      "name": "Walsh administration",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Maria Regina College",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Auditor framing vacant structure fires as preventable problem with executive and legislative support; references high-profile March fire incident to build momentum for policy changes",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article emphasizes cost quantification ($1M damages, $160K demolition) to strengthen policy case",
+    "Specific recommendations are operational/procedural (brace-and-bolt, red X marking) rather than capital-intensive",
+    "Maria Regina fire referenced as catalyzing event for broader initiative",
+    "No specific budget allocation or timeline mentioned for implementation",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.wrvo.org)"
+  ],
+  "last_relevance_update": null
+}

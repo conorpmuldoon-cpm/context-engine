@@ -1,0 +1,71 @@
+{
+  "record_id": "CTX-NEWS-2025-00085",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-07-21/syracuses-mayor-says-hes-never-used-the-term-sanctuary-city",
+  "publication_date": "2025-07-21",
+  "capture_date": "2026-03-22T18:35:55Z",
+  "title": "Syracuse's Mayor says he's never used the term sanctuary city",
+  "summary": "Mayor Ben Walsh clarifies that Syracuse is not officially designated a sanctuary city, distancing the city from the term as the Trump administration escalates ICE enforcement nationwide. Walsh emphasizes Syracuse's identity as a welcoming refugee resettlement community while confirming Syracuse Police will not conduct immigration raids, only arrest lawbreakers. County Executive McMahon reports no ICE raids have occurred in Syracuse or Onondaga County to date.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "mayor",
+    "policy-change",
+    "intergovernmental",
+    "police",
+    "public-safety",
+    "PROVISIONAL:immigration-policy",
+    "PROVISIONAL:refugee-services",
+    "transparency",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Stephanie Miner",
+      "type": "person",
+      "canonical_id": "PERSON-STEPHANIE-MINER"
+    },
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Mayor proactively clarifies position on sanctuary city designation amid escalated federal immigration enforcement, signaling defensive posture against federal policy while reaffirming local refugee integration commitment.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references historical policy under prior administration (Miner); current leadership distinction important for CIO tracking of policy continuity and communication strategy",
+    "No direct CIO infrastructure implications identified but may inform digital communication/transparency priorities around immigration policy clarifications",
+    "WAER is NPR affiliate - credible local news source",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

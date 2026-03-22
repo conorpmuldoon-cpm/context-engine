@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-NEWS-2025-00148",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-businesses-warned-of-scam-with-fake-zoning-invoices-requesting-wire-transfers",
+  "publication_date": "2025-10-24",
+  "capture_date": "2026-03-22T18:49:15Z",
+  "title": "Syracuse businesses warned of scam with fake zoning invoices requesting wire transfers",
+  "summary": "Syracuse Police and the Department of Neighborhood & Business Development issued a public alert warning businesses of an active scam involving fraudulent zoning invoices requesting wire transfer payments for approval, submission, environmental impact, and review fees. The city clarified it never requests wire transfers for zoning fees and directed businesses to verify invoices by contacting Code Enforcement at 315-442-8695.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "cybersecurity",
+    "code-enforcement",
+    "business-community",
+    "complaint",
+    "announcement",
+    "permitting",
+    "zoning"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Department of Neighborhood & Business Development",
+    "Division of Code Enforcement"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    },
+    {
+      "name": "Department of Neighborhood & Business Development",
+      "type": "organization",
+      "canonical_id": "ORG-DNBD"
+    },
+    {
+      "name": "Division of Code Enforcement",
+      "type": "organization",
+      "canonical_id": "ORG-DCE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Public safety alert addressing immediate fraud threat to local business community; demonstrates inter-departmental coordination on emerging public safety issue.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date shows October 24, 2025 (future date in source material—likely data entry error; should validate against publication records)",
+    "No specific financial impact or case count provided beyond 'multiple businesses'",
+    "Contact numbers provided: SPD 315-442-5222, Code Enforcement 315-442-8695",
+    "No CIO-relevant IT infrastructure, digital services, or cyber incident response details included in article",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,65 @@
+{
+  "record_id": "CTX-NEWS-2025-00086",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-07-17/syracuse-and-onondaga-county-leaders-report-progress-on-lead-paint-remediation",
+  "publication_date": "2025-07-17",
+  "capture_date": "2026-03-22T18:36:05Z",
+  "title": "Syracuse and Onondaga county leaders report progress on lead paint remediation",
+  "summary": "Syracuse and Onondaga County leadership report progress on a joint lead paint remediation initiative targeting the city's aging housing stock. Only 1% of 541 tested preschoolers showed elevated blood lead levels; 72% of 8,000+ code violations have been addressed, with the program also placing foster families in 12 remediated homes. County Executive McMahon noted mixed results, with further testing pending.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "lead-remediation",
+    "housing",
+    "code-enforcement",
+    "equity",
+    "initiative-launch",
+    "intergovernmental",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Health",
+    "Office of the Mayor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Syracuse City Schools",
+      "type": "organization",
+      "canonical_id": "ORG-SCS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Leadership highlighting cross-agency coordination on public health initiative with measurable outcomes; County Executive's 'mixed' characterization suggests cautious optimism requiring continued monitoring and investment.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No dollar amounts specified in article; budget implications unknown",
+    "Testing data limited to preschool population; broader residential testing referenced but results pending",
+    "72% violation closure rate represents significant operational progress but leaves 28% unresolved",
+    "Foster family placement component suggests equity-focused implementation approach",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

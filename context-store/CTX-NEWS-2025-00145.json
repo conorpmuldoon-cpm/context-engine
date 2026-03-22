@@ -1,0 +1,66 @@
+{
+  "record_id": "CTX-NEWS-2025-00145",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-to-launch-parking-amnesty-period-in-november-late-fees-to-be-waived",
+  "publication_date": "2025-10-28",
+  "capture_date": "2026-03-22T18:48:43Z",
+  "title": "Syracuse to launch parking amnesty period in November, late fees to be waived",
+  "summary": "Syracuse is launching a parking amnesty program from November 1-31, 2025, allowing holders of 140,000 unpaid parking tickets to pay reduced amounts (original ticket plus $15-$30 surcharge instead of accrued late fees). The initiative targets approximately $5.3M in uncollected revenue, with a successful 2020 precedent collecting $960K from 34,000 cleared tickets. A payment assistance program is also available for residents with substantial accumulated debt.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "initiative-launch",
+    "policy-change",
+    "tax-revenue",
+    "code-enforcement",
+    "residents",
+    "one-time"
+  ],
+  "department_refs": [
+    "Department of Finance",
+    "Department of Parking Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    },
+    {
+      "name": "Finance, Taxation & Assessment Committee",
+      "type": "organization",
+      "canonical_id": "ORG-FTA-COMMITTEE"
+    },
+    {
+      "name": "Brandon Ladd",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Revenue collection initiative with debt relief component; demonstrates administrative focus on recovering uncollected municipal revenue while reducing resident barriers through amnesty mechanism.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date shows October 28, 2025 with November 3 update; amnesty period is November 1-31, 2025",
+    "140,000 total unpaid tickets with 124,000 from past two decades suggests legacy debt collection focus",
+    "Historical comparison data (2020 amnesty) provides outcome benchmarking",
+    "Department of Parking Services not explicitly named; inferred from content context",
+    "No specific CIO technology/digital services angle detected in article content",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

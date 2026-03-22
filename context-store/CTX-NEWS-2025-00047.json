@@ -1,0 +1,82 @@
+{
+  "record_id": "CTX-NEWS-2025-00047",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-political-infighting-likely-to-continue-as-contentious-city-budget-is-finalized",
+  "publication_date": "2025-05-27",
+  "capture_date": "2026-03-22T18:28:24Z",
+  "title": "Syracuse political infighting likely to continue as contentious city budget is finalized",
+  "summary": "Syracuse Common Council unanimously overrode all 45 of Mayor Ben Walsh's budget vetoes on May 27, 2025, rejecting his proposed property tax increase and $27 million reserve fund draw. The contentious process—featuring closed-door executive sessions and a third-party cost-cutting report kept from public review—has triggered transparency concerns from open government advocates and sparked escalating personal conflict between Walsh and council leaders ahead of the 2025 mayoral election.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "council",
+    "mayor",
+    "vote",
+    "transparency",
+    "tax-revenue",
+    "escalating",
+    "political-infighting",
+    "PROVISIONAL:fiscal-responsibility",
+    "PROVISIONAL:reserve-fund"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-CHOL-MAJOK"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Conor Wight",
+      "type": "person",
+      "canonical_id": "PERSON-CONOR-WIGHT"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Council leadership (Hogan, Majok) directly opposed Mayor Walsh's fiscal approach and budget priorities. Three council members (Hogan, Majok, Owens) are competing to succeed Walsh in 2025 mayoral race, suggesting budget conflict has electoral dimensions beyond governance.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article mentions Michael Monds and Syeisha Byrd in mechanical extraction but they do not appear in provided text—likely extraction error from full article",
+    "Department references (Parks, Fire, Law) mentioned in mechanical extraction but absent from truncated article text provided",
+    "Dollar amount $27 million identified as reserve fund draw, not departmental budget",
+    "No specific IT infrastructure, data governance, or digital services implications evident in article—budget conflict is primarily fiscal and political",
+    "Transparency concerns warrant CIO attention if tied to government records management or public data portal practices",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'political-infighting' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

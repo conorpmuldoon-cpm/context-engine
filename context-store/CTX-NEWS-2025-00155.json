@@ -1,0 +1,66 @@
+{
+  "record_id": "CTX-NEWS-2025-00155",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/second-phase-of-east-adams-neighborhood-transformation-project-begins",
+  "publication_date": "2025-11-10",
+  "capture_date": "2026-03-22T18:50:32Z",
+  "title": "Second phase of East Adams neighborhood transformation project begins",
+  "summary": "The Syracuse Housing Authority and McCormack Baron Salazar have begun Phase 2 of the East Adams neighborhood transformation project, focusing on brownfield remediation at Burt and State Streets. The site contains petroleum-impacted soils and elevated lead/PAH levels requiring soil excavation, vapor barrier installation, and environmental monitoring through winter, with vertical construction for 125 affordable senior housing units expected to begin in early 2026 under the Choice Neighborhoods Initiative.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "brownfield-remediation",
+    "lead-remediation",
+    "affordable-housing",
+    "neighborhood-services",
+    "federal-programs",
+    "initiative-launch",
+    "construction-staging",
+    "equity",
+    "economic-development"
+  ],
+  "department_refs": [
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Housing Authority",
+      "type": "organization",
+      "canonical_id": "ORG-SHA"
+    },
+    {
+      "name": "McCormack Baron Salazar",
+      "type": "organization",
+      "canonical_id": "ORG-MBS"
+    },
+    {
+      "name": "Matthew Benninger",
+      "type": "person",
+      "canonical_id": "PERSON-MATTHEW-BENNINGER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Demonstrates commitment to Choice Neighborhoods Initiative (federal HUD program) and equity investment in 15th Ward, one of nation's poorest zip codes; positions administration as delivering on affordable housing and environmental remediation priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article from local news source CNY Central; remediation timeline extends through winter 2025-2026; no dollar amounts provided; federal Choice Neighborhoods Initiative partnership indicates multi-year commitment; lead remediation component relevant to city health equity goals",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'brownfield-remediation' not in taxonomy",
+    "Tag warning: Unknown tag 'affordable-housing' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

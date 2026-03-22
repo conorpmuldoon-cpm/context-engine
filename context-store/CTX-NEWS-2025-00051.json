@@ -1,0 +1,77 @@
+{
+  "record_id": "CTX-NEWS-2025-00051",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.wrvo.org/2025-05-29/officials-celebrate-success-of-i-81-projects-local-hiring-initiative",
+  "publication_date": "2025-05-29",
+  "capture_date": "2026-03-22T18:29:05Z",
+  "title": "Officials celebrate success of I-81 project's local hiring initiative",
+  "summary": "The I-81 reconstruction project has exceeded its 15% local hiring goal on two contracts and come close on two others, with 233 local residents hired so far. Success is attributed to word-of-mouth, training programs like Syracuse Build, and systematic removal of employment barriers through the Local Hire Initiative—a significant improvement over the historical 7% local hire rate on major public works projects.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "workforce-development",
+    "hiring",
+    "economic-development",
+    "equity",
+    "initiative-launch",
+    "federal-programs",
+    "intergovernmental",
+    "residents",
+    "training"
+  ],
+  "department_refs": [
+    "Department of Transportation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Marie Therese Dominguez",
+      "type": "person",
+      "canonical_id": "PERSON-MARIE-DOMINGUEZ"
+    },
+    {
+      "name": "Deka Eysaman",
+      "type": "person",
+      "canonical_id": "PERSON-DEKA-EYSAMAN"
+    },
+    {
+      "name": "Urban Jobs Task Force",
+      "type": "organization",
+      "canonical_id": "ORG-UJTF"
+    },
+    {
+      "name": "Syracuse Build",
+      "type": "organization",
+      "canonical_id": "ORG-SBUILD"
+    },
+    {
+      "name": "Onondaga Nation",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "State DOT and local workforce development programs demonstrating commitment to equity-focused hiring and community economic development on federally-funded infrastructure project; frames I-81 reconfiguration as reparative (addressing 60-year neighborhood harm) with measurable community benefit.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on state-led initiative but demonstrates Syracuse CIO relevance through local hiring metrics, workforce training partnerships, and community data. Consider cross-referencing with Syracuse Build program data and DOT contract compliance reporting.",
+    "No specific dollar amounts reported; 233 hires is quantified success metric",
+    "Mechanical extraction missed: state agency (NYSDOT) and Onondaga Nation as key partners",
+    "PROVISIONAL tag applied: 'initiative-launch' reflects ongoing program maturation rather than launch phase",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.wrvo.org)"
+  ],
+  "last_relevance_update": null
+}

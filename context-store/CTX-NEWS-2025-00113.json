@@ -1,0 +1,65 @@
+{
+  "record_id": "CTX-NEWS-2025-00113",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/overall-crime-in-syracuse-is-down-so-far-this-year-officials-say-shooting-murder-property-burglary-robbery-shots-fired-mayor-ben-walsh-police-chief-joe-cecile",
+  "publication_date": "2025-08-14",
+  "capture_date": "2026-03-22T18:41:33Z",
+  "title": "Overall crime in Syracuse is down so far this year, officials say",
+  "summary": "Syracuse Police Department reports significant crime reductions through July 2025, with overall crime down 27.3% year-to-date and violent offenses down 18%. Key metrics include homicides down 25%, burglaries down 30%, stolen vehicles down 51%, and gun crimes reduced across multiple categories. Mayor Ben Walsh and Police Chief Joe Cecile attribute these improvements to COMPSTAT data-driven policing strategies.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "crime-data",
+    "police",
+    "public-safety-commission",
+    "mayor",
+    "announcement",
+    "transparency",
+    "data-governance"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE"
+    },
+    {
+      "name": "Thomas Blake",
+      "type": "person",
+      "canonical_id": "PERSON-THOMAS-BLAKE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Leadership highlighting quantified public safety improvements as core municipal achievement. Data-driven approach reinforces commitment to measurable governance outcomes.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references COMPSTAT report PDF but does not embed full data",
+    "Gun crime metrics show mixed results (shots fired -22% vs shooting injuries only -3%)",
+    "Sergeant Blake's statement acknowledges continued violence incidents despite aggregate improvements",
+    "Five-year comparative analysis provided alongside year-to-date metrics",
+    "Publication date appears to be 2025; verify currency against current municipal records",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

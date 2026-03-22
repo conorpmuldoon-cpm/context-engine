@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-NEWS-2025-00167",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.wrvo.org/2025-12-14/walsh-credits-recent-initiatives-for-a-drop-in-crime-in-syracuse",
+  "publication_date": "2025-12-15",
+  "capture_date": "2026-03-22T18:52:51Z",
+  "title": "Walsh credits recent initiatives for a drop in crime in Syracuse",
+  "summary": "Mayor Walsh reports a 23.7% overall crime reduction in Syracuse year-over-year, with violent crime down 19% and property crime down 24.6%. He attributes success to the Syracuse Police Department and eight years of city initiatives including the Mayor's Office to Reduce Gun Violence, Safer Streets program, and Police/Athletic Activities League. The announcement comes as Walsh prepares to leave office, with Mayor-Elect Owens expected to continue these efforts.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "public-safety-commission",
+    "initiative-launch",
+    "leadership-change",
+    "mayor",
+    "trending",
+    "resolved"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Mayor's Office to Reduce Gun Violence",
+      "type": "system",
+      "canonical_id": "SYS-MORGV"
+    },
+    {
+      "name": "Safer Streets program",
+      "type": "system",
+      "canonical_id": "SYS-SAFER-STREETS"
+    },
+    {
+      "name": "Police/Athletic Activities League",
+      "type": "system",
+      "canonical_id": "SYS-PAAL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Outgoing Mayor Walsh champions crime reduction as policy success, positioning administration's public safety initiatives as model for other communities and establishing positive baseline for successor administration.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date metadata shows 2025-12-15 in header but 2025-12-14 in URL and byline; using publication date 2025-12-14 as authoritative",
+    "Three specific initiatives named but lack canonical system IDs in current database; marked as PROVISIONAL",
+    "No budget amounts or specific program costs mentioned",
+    "Transition context: outgoing mayor (Walsh) vs. incoming mayor (Owens) relevant for continuity planning",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.wrvo.org)"
+  ],
+  "last_relevance_update": null
+}

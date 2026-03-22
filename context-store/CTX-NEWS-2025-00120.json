@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-NEWS-2025-00120",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/crime/syracuse-residents-voice-privacy-concerns-over-proposed-police-drone-program",
+  "publication_date": "2025-09-16",
+  "capture_date": "2026-03-22T18:43:02Z",
+  "title": "Residents voice concerns over Syracuse Police drone program",
+  "summary": "Syracuse residents expressed privacy and civil rights concerns at a Common Council public hearing regarding a proposed five-year police drone program with vendor Axon Enterprises. The Syracuse Police Department stated drones would be used for investigations only, not patrol, but community groups argued for Fourth Amendment protections and safeguards prohibiting surveillance of public demonstrations. The program requires Common Council approval and represents an expansion of the city's existing technology partnership with Axon.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "procurement",
+    "policy-change",
+    "residents",
+    "transparency",
+    "PROVISIONAL:surveillance",
+    "PROVISIONAL:civil-liberties",
+    "council",
+    "legislation",
+    "PROVISIONAL:vendor-partnership"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Axon Enterprises",
+      "type": "organization",
+      "canonical_id": "ORG-AXON"
+    },
+    {
+      "name": "Syracuse Peace Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-PEACE-COUNCIL"
+    },
+    {
+      "name": "Lee Cridland",
+      "type": "person",
+      "canonical_id": "PERSON-LEE-CRIDLAND"
+    },
+    {
+      "name": "Charlotte Hansen",
+      "type": "person",
+      "canonical_id": "PERSON-CHARLOTTE-HANSEN"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Community advocates actively opposing police drone program expansion, citing privacy and Fourth Amendment concerns; public hearing indicates constituent pressure influencing legislative process",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date discrepancy: headline shows Sept. 16, 2025; byline shows Sept. 15, 2025 at 11:30 PM—likely publication lag",
+    "Related story reference to Gov. Hochul $6.7M police technology investment contextualizes state-level support for SPD modernization",
+    "No explicit information on CIO involvement; recommend cross-reference with IT procurement records and data governance policies",
+    "Privacy impact assessment and Fourth Amendment compliance analysis recommended before council vote",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

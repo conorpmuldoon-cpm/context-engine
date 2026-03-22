@@ -1,0 +1,82 @@
+{
+  "record_id": "CTX-NEWS-2025-00036",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-05-13/syracuse-common-council-stands-by-budget-cuts-as-mayor-decides-his-next-move",
+  "publication_date": "2025-05-14",
+  "capture_date": "2026-03-22T18:26:19Z",
+  "title": "Syracuse common council stands by budget cuts as mayor decides his next move",
+  "summary": "The Syracuse Common Council unanimously approved $16 million in budget cuts across city departments, eliminating a proposed property tax increase and reducing reserve draws. Acting Council President Pat Hogan defended the reductions despite criticism from the Walsh administration, stating the council remains firm on its proposal while remaining open to discussion. The mayor has until Monday to accept, reject, or negotiate the council's amendments, with a final budget deadline of early June.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "council",
+    "vote",
+    "mayor",
+    "department-head",
+    "constituent-complaints",
+    "policy-change",
+    "escalating"
+  ],
+  "department_refs": [
+    "Department of Codes Enforcement",
+    "Police Department",
+    "Fire Department",
+    "Department of Finance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Jake Dishaw",
+      "type": "person",
+      "canonical_id": "PERSON-JAKE-DISHAW"
+    },
+    {
+      "name": "Helen Hudson",
+      "type": "person",
+      "canonical_id": "PERSON-HELEN-HUDSON"
+    },
+    {
+      "name": "Patricia McBride",
+      "type": "person",
+      "canonical_id": "PERSON-PATRICIA-MCBRIDE"
+    },
+    {
+      "name": "Walsh Administration",
+      "type": "organization",
+      "canonical_id": "ORG-WALSH-ADMIN"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Council has adopted antagonistic budget position contrary to mayor's proposal; Hogan's mayoral candidacy creates potential conflict of interest; department heads expressing inability to meet constituent service expectations under cuts",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00032"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date inconsistency: headline dated 2025-05-14, body dated 2025-05-13; used body date as authoritative",
+    "Photo caption references 2024 date (May 6, 2024) but article is from May 2025—likely archival photo",
+    "Dollar amount extracted as $16 million (written as '$16 million' in text)",
+    "Political signal: Hogan's dual role as acting council president and mayoral candidate suggests budget dispute may have electoral dimensions",
+    "Service delivery risk flagged: Department heads reporting inability to respond to constituent complaints under proposed cuts",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)",
+    "Potential duplicate of CTX-NEWS-2025-00032"
+  ],
+  "last_relevance_update": null
+}

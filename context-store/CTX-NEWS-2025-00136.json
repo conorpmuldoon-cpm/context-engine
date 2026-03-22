@@ -1,0 +1,91 @@
+{
+  "record_id": "CTX-NEWS-2025-00136",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/as-mayor-walshs-term-ends-the-fate-of-the-columbus-statue-remains-uncertain",
+  "publication_date": "2025-10-09",
+  "capture_date": "2026-03-22T18:46:34Z",
+  "title": "As Mayor Walsh's term ends, the fate of the Columbus statue remains uncertain",
+  "summary": "As Mayor Ben Walsh's term concludes in January 2026, the Christopher Columbus statue in downtown Syracuse remains in limbo despite a 2020 relocation plan to Heritage Park. Ongoing litigation by the Columbus Monument Corporation has prevented removal despite New York Court of Appeals approval. The incoming mayor will inherit this contentious issue, with candidates holding divergent positions on whether to proceed with relocation, abandon it, or maintain the status quo.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "historic-preservation",
+    "leadership-change",
+    "policy-change",
+    "equity",
+    "litigation",
+    "PROVISIONAL:civic-monument",
+    "mayor"
+  ],
+  "department_refs": [
+    "Parks, Recreation & Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Alfonso Davis",
+      "type": "person",
+      "canonical_id": "PERSON-ALFONSO-DAVIS"
+    },
+    {
+      "name": "Timothy Rudd",
+      "type": "person",
+      "canonical_id": "PERSON-TIMOTHY-RUDD"
+    },
+    {
+      "name": "Tom Babalon",
+      "type": "person",
+      "canonical_id": "PERSON-TOM-BABALON"
+    },
+    {
+      "name": "Columbus Monument Corporation",
+      "type": "organization",
+      "canonical_id": "ORG-CMC"
+    },
+    {
+      "name": "New York Court of Appeals",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Heritage Park",
+      "type": "system",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Mayoral transition creates leadership vacuum on unresolved civic issue with deep community divisions around heritage, race, and resource allocation. Candidate positions span removal advocacy (Owens), status quo preservation (Rudd), efficiency concerns (Davis), and historical/cultural heritage framing (Babalon).",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date shows October 2025, suggesting this is future-dated or speculative content; verify current date context",
+    "Litigation status is key blocker—court case details warrant separate tracking",
+    "Mayoral election candidates represent divergent policy futures for CIO planning purposes",
+    "Heritage Park relocation project appears stalled; may warrant capital planning review",
+    "No budget or resource impact data provided in article",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'litigation' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,65 @@
+{
+  "record_id": "CTX-NEWS-2025-00157",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/vacant-city-hall-commons-in-downtown-syracuse-could-be-converted-to-housing",
+  "publication_date": "2025-11-21",
+  "capture_date": "2026-03-22T18:50:54Z",
+  "title": "Vacant City Hall Commons in Downtown Syracuse could be converted to housing",
+  "summary": "Holmes King Kallquist & Associates, a Syracuse architecture firm, proposes converting the vacant seven-story City Hall Commons building (built 1869) in Hanover Square into 39 mixed-use units featuring a restaurant anchor tenant and residential space. The Syracuse Landmark Preservation Board responded positively to the proposal on November 20, 2025, with further discussions planned. This project addresses downtown vacant property reactivation and historic preservation priorities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "historic-preservation",
+    "land-use",
+    "economic-development",
+    "zoning",
+    "permitting",
+    "capital-planning"
+  ],
+  "department_refs": [
+    "Department of Permits and Development",
+    "Department of Landmarks and Historic Preservation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Holmes King Kallquist & Associates",
+      "type": "organization",
+      "canonical_id": "ORG-HKKA"
+    },
+    {
+      "name": "Syracuse Landmark Preservation Board",
+      "type": "organization",
+      "canonical_id": "ORG-SLPB"
+    },
+    {
+      "name": "Brandon Ladd",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Article indicates alignment with downtown revitalization and historic preservation priorities. Board receptiveness signals administrative support for adaptive reuse of vacant municipal assets.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date (2025-11-21) is in future; verify if this is a planning/projection article or metadata error",
+    "No budget figures or specific timelines mentioned for project implementation",
+    "Property ownership by City of Syracuse suggests potential municipal asset management angle for CIO coordination",
+    "Mixed-use development with restaurant anchor aligns with downtown economic development strategy",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

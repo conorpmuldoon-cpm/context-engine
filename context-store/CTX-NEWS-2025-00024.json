@@ -1,0 +1,86 @@
+{
+  "record_id": "CTX-NEWS-2025-00024",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/independent-firm-used-by-walsh-administration-finds-26-red-flags-with-mayors-budget-pat-hogan-bonadio-group-finances-politics",
+  "publication_date": "2025-05-09",
+  "capture_date": "2026-03-22T18:24:14Z",
+  "title": "Independent firm, used by Walsh Administration, finds 26 'red flags' with mayor's budget",
+  "summary": "An independent audit by the Bonadio Group identified 26 red flags in Mayor Ben Walsh's $348M FY2026 budget, recommending $26M in cost reductions. The Syracuse Common Council voted unanimously to reject the budget and implement only $16M in cuts (7% across departments), creating conflict with the Administration over fiscal sustainability and departmental impact.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "audit",
+    "budget",
+    "council",
+    "mayor",
+    "escalating",
+    "fiscal-analysis",
+    "cost-cuts",
+    "deficit",
+    "transparency"
+  ],
+  "department_refs": [
+    "Department of Finance",
+    "Office of the Chief Administration Officer"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Bonadio Group",
+      "type": "organization",
+      "canonical_id": "ORG-BONADIO-GROUP"
+    },
+    {
+      "name": "Corey Driscoll Dunham",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-DRISCOLL-DUNHAM"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Marty Nave",
+      "type": "person",
+      "canonical_id": "PERSON-MARTY-NAVE"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYR-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Institutional tension between Common Council and Mayor's Administration over budget adequacy and fiscal management; Council's unanimous rejection and use of independent auditor signals loss of confidence in Administration's budget proposal.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article contains conflict narrative; recommend cross-referencing with official Common Council and Mayor's Office statements",
+    "PDF attachment referenced but content not provided in article text",
+    "Dollar figures: $348M total budget, $26M recommended cuts, $16M actual cuts, $27M projected deficit",
+    "Key stakeholder friction point: Administration characterizes independent audit as 'generic and superficial'; Council frames as necessary fiscal discipline",
+    "Follow-up action pending: Mayor vetoes announced for coming week(s)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'fiscal-analysis' not in taxonomy",
+    "Tag warning: Unknown tag 'cost-cuts' not in taxonomy",
+    "Tag warning: Unknown tag 'deficit' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

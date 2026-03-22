@@ -1,0 +1,79 @@
+{
+  "record_id": "CTX-NEWS-2025-00082",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-officials-explore-options-as-trump-kills-funding-for-neighborhood-rebuild",
+  "publication_date": "2025-07-07",
+  "capture_date": "2026-03-22T18:35:24Z",
+  "title": "Syracuse officials explore options as Trump kills funding for neighborhood rebuild",
+  "summary": "President Trump's spending bill rescinded $30 million in federal Neighborhood Access and Equity Grant funding awarded to Syracuse in 2024 for Pioneer Homes neighborhood infrastructure rebuild tied to I-81 viaduct removal. City officials are exploring legal arguments that funds may be obligated and alternative funding sources to replace the lost federal dollars, while internal disagreement exists over whether the administration delayed securing the money.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "federal-programs",
+    "grants",
+    "housing",
+    "infrastructure",
+    "neighborhood-services",
+    "budget",
+    "intergovernmental",
+    "policy-change",
+    "equity",
+    "escalating",
+    "PROVISIONAL:i-81-project"
+  ],
+  "department_refs": [
+    "Department of Permits and Development",
+    "Department of Finance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael Collins",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-COLLINS"
+    },
+    {
+      "name": "Mayor Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Joe Driscoll",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-DRISCOLL"
+    },
+    {
+      "name": "Federal Highway Administration",
+      "type": "organization",
+      "canonical_id": "ORG-FHWA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Federal executive action directly adversarial to city's neighborhood equity initiative; internal accountability tension between administration and Council on execution speed.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts extracted: $30M (federal), $150M (state), $3.4T (deficit impact) - verified in context",
+    "Key legal uncertainty: whether funds are 'obligated' under FHWA interpretation despite rescission language",
+    "Internal conflict signal: Hogan's critique of potential local 'fumbling' vs. Driscoll's environmental compliance defense suggests potential governance review",
+    "I-81 project is major infrastructure initiative with equity implications; recommend cross-reference with transportation and housing strategy files",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

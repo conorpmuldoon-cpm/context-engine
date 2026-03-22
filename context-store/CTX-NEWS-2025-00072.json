@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-NEWS-2025-00072",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-police-chief-discusses-city-pool-safety-after-homicide",
+  "publication_date": "2025-06-29",
+  "capture_date": "2026-03-22T18:33:13Z",
+  "title": "Syracuse Police Chief discusses city pool safety after homicide",
+  "summary": "Syracuse Police Department announced new public safety measures at city pools following a fatal shooting of a 15-year-old at Onondaga Park Pool. Chief Joseph Cecile detailed a roving officer detail and deployment of school resource officers to increase pool safety and community oversight during summer months when schools are closed.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "public-safety-commission",
+    "parks",
+    "emergency-services",
+    "community-relations",
+    "transparency",
+    "initiative-launch",
+    "crime-data"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Joseph Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOSEPH-CECILE"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Onondaga Park Pool",
+      "type": "system",
+      "canonical_id": "SYS-ONONDAGA-PARK-POOL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Reactive safety initiative launched by Mayor and Police Chief in response to youth homicide, demonstrating responsiveness to community safety concerns during peak summer season.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on police response rather than systemic CIO innovation priorities",
+    "No technology, digital services, or IT infrastructure components detected",
+    "Mayor Ben Walsh involvement suggests executive-level prioritization",
+    "Summer staffing coordination between SPD and school resource officers may warrant Parks/Recreation dept coordination tracking",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'community-relations' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

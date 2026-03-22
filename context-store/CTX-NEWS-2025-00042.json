@@ -1,0 +1,90 @@
+{
+  "record_id": "CTX-NEWS-2025-00042",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/i-team/i-team-a-closer-look-at-whats-behind-the-syracuse-mayors-budget-amendment-vetoes",
+  "publication_date": "2025-05-20",
+  "capture_date": "2026-03-22T18:27:32Z",
+  "title": "I-Team: A closer look at what's behind the Syracuse Mayor's budget amendment vetoes",
+  "summary": "Mayor Ben Walsh submitted 45 vetoes to the Syracuse Common Council's 82 budget amendments, protecting the ~$350M budget from property tax increases while proposing a $5/year water rate increase. Key vetoes target public safety cuts that would eliminate 20 police positions (10 crossing guards, 10 special patrol officers), risk ShotSpotter surveillance system, and impact fire department dispatch and equipment repair capabilities. The Common Council must adopt a final budget by June 2, 2025.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "mayor",
+    "council",
+    "police",
+    "fire",
+    "tax-revenue",
+    "water",
+    "payroll",
+    "public-safety-commission",
+    "vote",
+    "policy-change",
+    "investigation",
+    "labor-relations"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-CHOL-MAJOK"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "ShotSpotter",
+      "type": "system",
+      "canonical_id": "SYS-SHOTSPOTTER"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Council President Pro Tempore Pat Hogan and other councilors (including mayoral candidates Majok and Owens) are prioritizing property tax relief over public safety funding, creating direct policy opposition to the Mayor's veto strategy. Political tension evident with multiple candidates challenging Walsh's approach.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00039"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references '85 amendments' in headline but '82 amendments' in body text—used 82 per direct quote from Mayor",
+    "Water rate increase ($5/year) is relatively minor compared to property tax debate—may indicate CIO focus should be on service impact modeling",
+    "ShotSpotter and anonymous tip line are technology/software systems worth tracking separately for service continuity risk",
+    "Mayoral election context (Walsh vs. Hogan, Majok, Owens) suggests budget decisions have electoral implications; monitor for subsequent amendments or override votes",
+    "Police position cuts (20 total: 10 crossing guards, 10 special patrol officers) distinct from fire department impacts—separate operational risk assessments recommended",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Potential duplicate of CTX-NEWS-2025-00039"
+  ],
+  "last_relevance_update": null
+}

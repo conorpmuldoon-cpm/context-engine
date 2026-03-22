@@ -1,0 +1,70 @@
+{
+  "record_id": "CTX-NEWS-2025-00156",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-approves-funding-for-youth-alternative-to-incarceration-program",
+  "publication_date": "2025-11-11",
+  "capture_date": "2026-03-22T18:50:42Z",
+  "title": "Syracuse approves funding for youth alternative to incarceration program",
+  "summary": "The Syracuse Common Council approved funding for the Exalt Youth program, a criminal justice alternative that provides internships and professional opportunities for youth involved in the justice system. The pilot program, modeled on a NYC initiative, is supported by a New York State Division of Criminal Justice Services grant and has generated positive sentiment from city leadership including Common Councilor Chol Majok.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "initiative-launch",
+    "criminal-justice",
+    "youth",
+    "workforce-development",
+    "grants",
+    "state-programs",
+    "vote"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Exalt Youth",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-CHOL-MAJOK"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    },
+    {
+      "name": "New York State Division of Criminal Justice Services",
+      "type": "organization",
+      "canonical_id": "NYDCJS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Council approval and grant funding signal executive and state commitment to youth criminal justice alternatives as a policy priority.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date field shows '2025-11-11' in metadata but article byline shows 'Mon, November 10, 2025' — minor inconsistency",
+    "No specific dollar amount mentioned for approved funding",
+    "Program described as 'pilot model' of existing NYC program — suggests replication strategy",
+    "State funding source indicates intergovernmental coordination",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'criminal-justice' not in taxonomy",
+    "Tag warning: Unknown tag 'youth' not in taxonomy",
+    "Tag warning: Unknown tag 'state-programs' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

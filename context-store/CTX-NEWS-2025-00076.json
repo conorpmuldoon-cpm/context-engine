@@ -1,0 +1,65 @@
+{
+  "record_id": "CTX-NEWS-2025-00076",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/despite-recent-violence-overall-homicide-rate-in-syracuse-down-from-last-year",
+  "publication_date": "2025-07-13",
+  "capture_date": "2026-03-22T18:34:03Z",
+  "title": "Despite recent violence, overall homicide rate in Syracuse down from last year",
+  "summary": "Syracuse Police Department reports a 30% decrease in homicides compared to the same period last year, attributed to enhanced community outreach efforts and strategic policing. Despite the positive trend, the department acknowledges ongoing challenges and recent violent incidents. The decline is part of broader crime reduction efforts involving the Mayor's Office to Reduce Gun Violence and community partners.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "public-safety-commission",
+    "initiative-launch",
+    "community-outreach",
+    "transparency",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Chief Joseph Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOSEPH-CECILE"
+    },
+    {
+      "name": "Rev. Lateef Johnson-Kinsey",
+      "type": "person",
+      "canonical_id": "PERSON-LATEEF-JOHNSON-KINSEY"
+    },
+    {
+      "name": "Mayor's Office to Reduce Gun Violence",
+      "type": "organization",
+      "canonical_id": "ORG-MAYOR-GUN-VIOLENCE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Leadership highlighting measurable crime reduction success (30% homicide decrease) while maintaining cautious messaging about ongoing work; demonstrates data-driven public safety strategy alignment with mayoral gun violence reduction initiative.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date is July 13, 2025 (future date); verify source authenticity",
+    "Key metric: 30% homicide reduction year-over-year; 10% decrease in call volume attributed to process improvements (electronic reporting, alternative mental health responses)",
+    "Leadership quote emphasizes 'trends' focus and community partnership model as success factors",
+    "Caveat language present ('not declaring success') suggests measured communication strategy",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'community-outreach' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

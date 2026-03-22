@@ -1,0 +1,88 @@
+{
+  "record_id": "CTX-NEWS-2025-00147",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-school-zone-traffic-warnings-drop-41-as-enforcement-program-progresses",
+  "publication_date": "2025-10-26",
+  "capture_date": "2026-03-22T18:49:04Z",
+  "title": "Syracuse school zone traffic warnings drop 41% as enforcement program progresses",
+  "summary": "Syracuse's School Zone Traffic Enforcement program has achieved a 41% reduction in traffic warnings during its grace period (Sept 16-30), with automated speed and red-light cameras detecting 35,300 violations. Full enforcement with $50 fines begins Nov. 3 after a 60-day grace period. The data indicates drivers are responding to warnings, though continued violations suggest need for sustained awareness campaigns.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "vision-zero",
+    "public-safety-commission",
+    "data-governance",
+    "transportation",
+    "initiative-launch",
+    "policy-change",
+    "residents",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-CECILE-POLICE-CHIEF"
+    },
+    {
+      "name": "Mayor Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-WALSH-MAYOR"
+    },
+    {
+      "name": "Nicole La Fiandra",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "School Zone Traffic Enforcement Program",
+      "type": "system",
+      "canonical_id": "SYS-SCHOOL-ZONE-TRAFFIC-ENFORCEMENT"
+    },
+    {
+      "name": "School Bus Stop-Arm Camera Program",
+      "type": "system",
+      "canonical_id": "SYS-SCHOOL-BUS-STOP-ARM-CAMERA"
+    },
+    {
+      "name": "Dr. Weeks Elementary School",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "PSLA at Fowler",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Leadership (Police Chief and Mayor) publicly championing automated enforcement as safety initiative with measurable results during grace period; framing compliance as community responsibility to protect students.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date is Oct 26, 2025 (future date—verify source authenticity)",
+    "Police Chief name incomplete ('Cecile' only); may need canonical ID validation",
+    "Mayor name 'Walsh' requires verification against current Syracuse administration records",
+    "Dollar amounts: $50 fine, $25 late penalty, represents revenue mechanism tied to enforcement",
+    "Data spans Sept 16-30 (mid-grace period); 2,000 school bus violations cited since April 3 provides longitudinal context",
+    "High compliance signal: 41% warning reduction in 2 weeks suggests driver behavior change; qualifies as measurable outcome for CIO innovation tracking",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

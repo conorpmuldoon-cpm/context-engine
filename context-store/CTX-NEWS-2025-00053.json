@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-NEWS-2025-00053",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/a-rainbow-over-city-hall-syracuse-honors-pride-month-with-flag-raising-lgbtq-june-moment-personal-resilience-diversity-equality-message-fabric-cny-fly-neighbors-rain-symbolic",
+  "publication_date": "2025-05-31",
+  "capture_date": "2026-03-22T18:29:40Z",
+  "title": "A rainbow over City Hall: Syracuse honors Pride Month with flag raising",
+  "summary": "Syracuse held its annual Pride Month flag raising ceremony at City Hall on May 31, 2025, with Mayor Ben Walsh and CNY Pride leadership affirming the city's commitment to LGBTQ+ inclusion and equality. The Pride flag will remain flying throughout June as a visible symbol of the city's values around diversity, unity, and resilience.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "equity",
+    "initiative-launch",
+    "leadership-change",
+    "mayor",
+    "residents",
+    "transparency"
+  ],
+  "department_refs": [
+    "Mayor's Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Jimmy Monto",
+      "type": "person",
+      "canonical_id": "PERSON-JIMMY-MONTO"
+    },
+    {
+      "name": "CNY Pride",
+      "type": "organization",
+      "canonical_id": "ORG-CNY-PRIDE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "City leadership explicitly signaling commitment to LGBTQ+ community inclusion and protection as a municipal priority during Pride Month observance.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily ceremonial/symbolic in nature rather than policy or operational change",
+    "No mechanical extraction errors detected",
+    "Law Department reference in extractions appears to be false positive—no relevant law department content in article",
+    "No budget, procurement, or infrastructure implications identified",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

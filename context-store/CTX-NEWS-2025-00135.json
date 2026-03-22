@@ -1,0 +1,88 @@
+{
+  "record_id": "CTX-NEWS-2025-00135",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/rescue-missions-hosts-groundbreaking-ceremony-for-future-facility",
+  "publication_date": "2025-10-09",
+  "capture_date": "2026-03-22T18:46:21Z",
+  "title": "Rescue Missions hosts groundbreaking ceremony for future facility",
+  "summary": "Rescue Missions held a groundbreaking ceremony for the Mission Exchange Building, a $11.6M mixed-use facility at West Onondaga and Seymour Street in downtown Syracuse. The 45,000 sq. ft. project, funded through the state's Downtown Revitalization Initiative plus federal and private resources, will include office space, a 35,000 sq. ft. donation processing facility, and retail storefronts, representing a significant downtown revitalization investment.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "initiative-launch",
+    "capital-planning",
+    "downtown-revitalization",
+    "state-programs",
+    "federal-programs",
+    "intergovernmental",
+    "business-community"
+  ],
+  "department_refs": [
+    "Office of the Mayor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Walter Mosley",
+      "type": "person",
+      "canonical_id": "PERSON-WALTER-MOSLEY"
+    },
+    {
+      "name": "Rescue Missions",
+      "type": "organization",
+      "canonical_id": "ORG-RESCUE-MISSIONS"
+    },
+    {
+      "name": "CenterState CEO",
+      "type": "organization",
+      "canonical_id": "ORG-CENTERSTATE-CEO"
+    },
+    {
+      "name": "New York Secretary of State",
+      "type": "organization",
+      "canonical_id": "ORG-NYS-SOS"
+    },
+    {
+      "name": "Downtown Revitalization Initiative",
+      "type": "organization",
+      "canonical_id": "PROVISIONAL:DRI-NYS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor and state leadership visibly engaged in downtown revitalization through public-private partnership; demonstrates administration's commitment to economic development and downtown district investment.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount extracted: $11.6 million (project total)",
+    "Property location: West Onondaga and Seymour Street intersection",
+    "Land transfer from city to Rescue Missions appears recent (approximately 2 weeks prior to October 9, 2025)",
+    "State agency involvement via DRI suggests multi-year funding structure and monitoring",
+    "Article references 21st Rescue Mission thrift store location; may warrant tracking of organizational expansion patterns",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'downtown-revitalization' not in taxonomy",
+    "Tag warning: Unknown tag 'state-programs' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

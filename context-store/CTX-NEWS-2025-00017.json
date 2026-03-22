@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-NEWS-2025-00017",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-fire-and-police-chiefs-go-before-common-council-for-budget-hearings",
+  "publication_date": "2025-04-23",
+  "capture_date": "2026-03-22T18:22:49Z",
+  "title": "Syracuse Fire and Police Chiefs go before common council for budget hearings",
+  "summary": "Syracuse Fire and Police Chiefs presented budget requests to Common Council on April 22, 2025, with combined departmental spending around $100 million (one-quarter of city budget). Fire Chief Monds requested an additional $3 million for firefighter positions and training; Police Chief Cecile highlighted cost stabilization through 10-hour shifts and proposed expanding social worker response to mental health calls as a long-term savings strategy, citing Eugene, Oregon's 4% reduction in police calls.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "fire",
+    "police",
+    "emergency-services",
+    "council",
+    "labor-relations",
+    "training",
+    "payroll",
+    "public-safety-commission"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael Monds",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-MONDS"
+    },
+    {
+      "name": "Joseph Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOSEPH-CECILE"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Department heads advocating for budget increases and resource allocation. Fire Department seeking $3M increase; Police Department defending existing personnel costs while proposing alternative service delivery models.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount '$100 million' appears to be approximate ('hover around'); extracted as context not precise figure",
+    "Dollar amount '$3 million' is specific request from Fire Chief",
+    "Article references Eugene, Oregon case study—potential benchmarking interest for CIO regarding social worker dispatch systems and data tracking",
+    "Social worker expansion mentioned as cost-reduction strategy—may relate to digital dispatch/workflow systems",
+    "No direct mention of technology systems, data governance, or digital services initiatives",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

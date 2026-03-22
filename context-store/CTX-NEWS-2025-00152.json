@@ -1,0 +1,71 @@
+{
+  "record_id": "CTX-NEWS-2025-00152",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-11-11/the-syracuse-city-fire-departments-fleet-has-a-new-home-for-maintenance",
+  "publication_date": "2025-11-11",
+  "capture_date": "2026-03-22T18:49:58Z",
+  "title": "The Syracuse City Fire Department’s fleet has a new home for maintenance",
+  "summary": "Syracuse Common Council approved a $5.7 million capital project to convert a 25,000 sq. ft. portion of the Dunk & Bright furniture showroom into a new fire department maintenance facility. The move addresses critical infrastructure failure at the State Fair Blvd. facility, where structural damage to the floor was declared unsafe for vehicle lifts and heavy equipment in July 2025. The new facility is expected to be operational by late spring 2026.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "fire",
+    "fleet",
+    "facilities",
+    "capital-planning",
+    "infrastructure",
+    "emergency-services",
+    "contract-award",
+    "council",
+    "vote"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael Monds",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-MONDS"
+    },
+    {
+      "name": "Michael Lehmann",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-LEHMANN"
+    },
+    {
+      "name": "C&S Companies",
+      "type": "organization",
+      "canonical_id": "ORG-CS-COMPANIES"
+    },
+    {
+      "name": "Dunk & Bright",
+      "type": "organization",
+      "canonical_id": "ORG-DUNK-BRIGHT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Council approval of $5.7M emergency capital project demonstrates commitment to resolving critical fire department infrastructure failure and operational continuity ahead of winter season.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount corrected from extracted '$5' to '$5.7 million' per article text",
+    "Deputy Commissioner Michael Lehmann's full department title indicates Asset Management & Valuation function; asset management may be relevant to CIO strategic planning",
+    "Timeline note: Article dated 2025-11-11 with facility expected operational 'late spring 2026'",
+    "Structural engineering assessment conducted by city engineering and C&S Companies - potential IT/digital systems implications for facility monitoring not mentioned in article",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

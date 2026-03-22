@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-NEWS-2025-00030",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/inside-look-at-syracuse-mayor-ben-walshs-budget-strategy-over-his-tenure-in-office",
+  "publication_date": "2025-05-13",
+  "capture_date": "2026-03-22T18:25:21Z",
+  "title": "Inside look at Syracuse Mayor Ben Walsh's budget strategy over his tenure in office",
+  "summary": "Mayor Ben Walsh discussed his 8-year budget strategy emphasizing conservative planning and fund balance growth from $50M to $120M. The city has achieved surpluses in 4 of 8 budgets despite anticipated deficits, with investments generating additional revenue. Current $348M budget proposes $27M fund balance draw amid uncertainty over sales tax leveling and federal funding cuts.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "mayor",
+    "tax-revenue",
+    "transparency",
+    "fiscal-year",
+    "federal-programs"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Mary Kielar",
+      "type": "person",
+      "canonical_id": "PERSON-MARY-KIELAR"
+    },
+    {
+      "name": "CNY Central",
+      "type": "organization",
+      "canonical_id": "ORG-CNY-CENTRAL"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Mayor highlighting disciplined fiscal management, surplus achievement, and fund balance strategy as evidence of responsible stewardship despite anticipated revenue pressures.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts detected: $50M, $120M, $348M, $27M, $19M, $4.3M (in millions)",
+    "Article focuses on mayoral fiscal strategy rather than CIO innovation initiatives",
+    "No direct CIO or technology infrastructure references detected",
+    "Investment returns mentioned but details not specified—may warrant follow-up on treasury management systems",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'fiscal-year' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

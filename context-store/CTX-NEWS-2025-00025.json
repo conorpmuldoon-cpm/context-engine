@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-NEWS-2025-00025",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-democratic-mayoral-candidates-at-odds-over-budget-cuts-mayor-role-champion-blindside-respect-hundred",
+  "publication_date": "2025-05-09",
+  "capture_date": "2026-03-22T18:24:26Z",
+  "title": "Democratic mayoral candidates at odds over budget cuts",
+  "summary": "Three Democratic mayoral candidates are divided over a $3.5M budget amendment passed by the Common Council on May 9, 2025. Deputy Mayor Sharon Owens opposes the cuts and criticized the Council for lack of transparency, while Councilors Pat Hogan and Chol Majok—her opponents in the June primary—championed the reductions as fiscal responsibility. The Mayor has 10 days to reject the amendments.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "council",
+    "vote",
+    "mayor",
+    "leadership-change",
+    "policy-change",
+    "fiscal-responsibility",
+    "transparency",
+    "PROVISIONAL:primary-election"
+  ],
+  "department_refs": [
+    "Office of the Mayor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-CHOL-MAJOK"
+    },
+    {
+      "name": "Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Budget amendment reflects fiscal conservatism by two mayoral candidates; opponent frames it as abuse of power and lack of due process. Primary election positioning evident.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount is $3.5M (not $3 as initially extracted)",
+    "Article is primarily political/campaign coverage rather than administrative action notice",
+    "Key process detail: Mayor has 10-day veto window; Council can override",
+    "Date discrepancy in article metadata (May 9, 2025 is future date—likely data entry error or test scenario)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'fiscal-responsibility' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

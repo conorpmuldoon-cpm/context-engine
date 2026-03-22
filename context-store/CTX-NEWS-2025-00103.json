@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2025-00103",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-08-04/city-of-syracuse-shows-renters-and-homebuyers-how-to-choose-wisely-through-its-healthy-housing-101-program",
+  "publication_date": "2025-08-04",
+  "capture_date": "2026-03-22T18:39:52Z",
+  "title": "City of Syracuse shows renters and homebuyers how to choose wisely",
+  "summary": "Syracuse's Healthy Housing 101 program, launched in 2018, provides guided educational tours for renters and homebuyers to identify code violations and safety hazards in properties. The annual initiative, led by the Department of Neighborhood and Business Development, demonstrates inspection techniques for detecting lead deterioration, water damage, electrical hazards, and other health/safety risks to support informed housing decisions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "code-enforcement",
+    "lead-remediation",
+    "training",
+    "residents",
+    "initiative-launch",
+    "public-safety-commission"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Mujahid Muhammed",
+      "type": "person",
+      "canonical_id": "PERSON-MUJAHID-MUHAMMED"
+    },
+    {
+      "name": "Michael Collins",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-COLLINS"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Educational program demonstrates mayoral/departmental commitment to housing safety and public health equity; positions city as proactive in resident protection and informed decision-making.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Program launched 2018, now in recurring annual cycle; article focuses on educational/transparency mission rather than enforcement actions; no budget figures provided; Michael Collins title inferred as Neighborhood Development Commissioner from article context",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

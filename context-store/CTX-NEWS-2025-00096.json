@@ -1,0 +1,83 @@
+{
+  "record_id": "CTX-NEWS-2025-00096",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-07-29/groups-say-epa-should-use-emergency-powers-to-address-lead-water-problem-in-syracuse",
+  "publication_date": "2025-07-29",
+  "capture_date": "2026-03-22T18:38:37Z",
+  "title": "Groups say EPA should use emergency powers to address lead water problem in Syracuse",
+  "summary": "Advocacy coalition including EarthJustice and NRDC is petitioning the EPA to invoke emergency powers under the Safe Drinking Water Act to force Syracuse to address lead contamination in drinking water. The groups cite questionable sampling procedures from 2023-2024 and question the validity of subsequent independent testing, while the city maintains water meets EPA standards and sampling errors have been corrected.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "lead-remediation",
+    "federal-programs",
+    "state-agency",
+    "investigation",
+    "escalating",
+    "resident-complaints",
+    "transparency",
+    "equity",
+    "PROVISIONAL:drinking-water-safety"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Marissa Lieberman-Klein",
+      "type": "person",
+      "canonical_id": "PERSON-MARISSA-LIEBERMAN-KLEIN"
+    },
+    {
+      "name": "Valerie Baron",
+      "type": "person",
+      "canonical_id": "PERSON-VALERIE-BARON"
+    },
+    {
+      "name": "Greg Loh",
+      "type": "person",
+      "canonical_id": "PERSON-GREG-LOH"
+    },
+    {
+      "name": "EarthJustice",
+      "type": "organization",
+      "canonical_id": "ORG-EARTHJUSTICE"
+    },
+    {
+      "name": "Natural Resources Defense Council",
+      "type": "organization",
+      "canonical_id": "ORG-NRDC"
+    },
+    {
+      "name": "U.S. Environmental Protection Agency",
+      "type": "organization",
+      "canonical_id": "ORG-EPA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Organized advocacy coalition with 1,800 resident signatures escalating issue to federal level; city leadership responding defensively to repeated allegations; potential regulatory intervention signal",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article represents external pressure on city water system governance; CIO should monitor for data transparency, sampling protocol documentation, and potential emergency order implications",
+    "Chief Policy Officer Greg Loh is key city spokesperson—may indicate this is escalating to executive level",
+    "1,800 signatures suggests organized constituent base; relevant to equity and public trust in city services",
+    "No budget impacts mentioned; investigation/compliance costs likely downstream",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)",
+    "Tag warning: Unknown tag 'resident-complaints' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

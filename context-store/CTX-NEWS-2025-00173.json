@@ -1,0 +1,70 @@
+{
+  "record_id": "CTX-NEWS-2025-00173",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-officials-clear-your-fire-hydrants-move-vehicles-off-roads-amid-snowstorm",
+  "publication_date": "2025-12-30",
+  "capture_date": "2026-03-22T18:53:55Z",
+  "title": "Syracuse officials: Clear your fire hydrants, move vehicles off roads amid heavy snow",
+  "summary": "Syracuse city officials issued public guidance during a major December 2025 snowstorm, directing residents to clear fire hydrants (3-5 foot radius), remove vehicles from roads during overnight parking restrictions, and fully clear snow from vehicles. Fire Chief Monds and incoming Police Chief Rusin emphasized compliance to support emergency response, while Mayor Walsh highlighted the city's deployment of 30 vehicles and equipment with 12-hour shifts, characterizing this as the largest storm in years.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "snow-removal",
+    "emergency-services",
+    "fire",
+    "police",
+    "public-safety",
+    "residents",
+    "announcement",
+    "procedural"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Syracuse Police Department",
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael Monds",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-MONDS"
+    },
+    {
+      "name": "Mark Rusin",
+      "type": "person",
+      "canonical_id": "PERSON-MARK-RUSIN"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor Walsh frames winter snow response as critical city infrastructure capability ('would bring most cities to their knees'), emphasizing operational readiness and resource commitment during major weather event.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily an emergency management public advisory with operational updates from three department heads",
+    "No budget figures provided despite reference to 30 vehicles and 12-hour shifts (potential cost tracking opportunity)",
+    "Overnight parking restrictions mentioned as activated in November (policy_change event may exist in separate record)",
+    "Chief Rusin identified as 'incoming' — leadership transition signal; may cross-reference with separate leadership-change article",
+    "5,500 fire hydrant clearing task represents potential GIS/asset management coordination opportunity",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy",
+    "Tag warning: Unknown tag 'procedural' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

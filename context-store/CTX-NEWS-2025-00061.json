@@ -1,0 +1,92 @@
+{
+  "record_id": "CTX-NEWS-2025-00061",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/audit-reveals-failures-in-walsh-administrations-payroll-modernization-project",
+  "publication_date": "2025-06-13",
+  "capture_date": "2026-03-22T18:31:09Z",
+  "title": "Audit reveals failures in Walsh administration's payroll modernization project",
+  "summary": "A 36-page audit of the Walsh administration's payroll modernization project—which cost the city over $8 million in five years—reveals significant oversight failures, unusual procurement waivers, and incomplete system deployment. Key issues include reliance on external consultants (EY), non-cooperating former staff (Caliva, May), unpaid vendor claims, and continued employee reliance on paper checks despite modernization efforts.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "audit",
+    "payroll",
+    "IT-infrastructure",
+    "procurement",
+    "oversight",
+    "software-systems",
+    "investigation",
+    "transparency",
+    "leadership-change",
+    "escalating"
+  ],
+  "department_refs": [
+    "Department of Finance",
+    "Department of Information Technology",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Mayor Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Michael Cannizzaro",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-CANNIZZARO"
+    },
+    {
+      "name": "Frank Caliva",
+      "type": "person",
+      "canonical_id": "PERSON-FRANK-CALIVA"
+    },
+    {
+      "name": "Kelsey May",
+      "type": "person",
+      "canonical_id": "PERSON-KELSEY-MAY"
+    },
+    {
+      "name": "Amir Gethers",
+      "type": "person",
+      "canonical_id": "PERSON-AMIR-GETHERS"
+    },
+    {
+      "name": "EY",
+      "type": "organization",
+      "canonical_id": "ORG-EY"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public audit findings expose significant project management and procurement failures under Mayor Walsh administration; escalated by whistleblower exposure and council discussion; unresolved vendor payment disputes with EY signal potential legal/reputational risk.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount extracted as '$8 million' not '$8'",
+    "Whistleblower reference (October 2024) indicates prior escalation trigger",
+    "Two key witnesses (Caliva, May) declined interviews; Caliva's departure coincided with EY contract termination—suggests possible internal conflict",
+    "Redactions cited for cybersecurity and EY dispute areas indicate ongoing sensitivity",
+    "Core CIO concern: IT project governance, vendor management, and system deployment failure",
+    "Council members (Gethers) expressing surprise suggests information asymmetry or communication breakdown",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'oversight' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

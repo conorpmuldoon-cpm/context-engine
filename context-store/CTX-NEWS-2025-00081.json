@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-NEWS-2025-00081",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/major-syracuse-housing-authority-project-faces-completion-date-delay",
+  "publication_date": "2025-07-08",
+  "capture_date": "2026-03-22T18:35:12Z",
+  "title": "Major Syracuse Housing Authority project faces completion date delay",
+  "summary": "The Syracuse Housing Authority's East Adams neighborhood transformation project in the 15th Ward has received an 18-month completion extension from the Syracuse Planning Commission, pushing the deadline from Spring 2026 to September 2027. The delay was attributed to lender concerns about meeting the original timeline. Housing Authority leadership faces ongoing scrutiny regarding project management and tenant services.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "capital-planning",
+    "neighborhood-services",
+    "intergovernmental",
+    "escalating"
+  ],
+  "department_refs": [
+    "Syracuse Housing Authority"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Housing Authority",
+      "type": "organization",
+      "canonical_id": "ORG-SHA"
+    },
+    {
+      "name": "Syracuse Planning Commission",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Lane Russell",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Leadership accountability concerns regarding Housing Authority project management and tenant service delivery; community dissatisfaction evident from referenced neighbor feedback.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references external scrutiny of Housing Authority actions but provides limited detail on specific complaints",
+    "Related federal funding loss mentioned ('Trump kills funding') suggests interconnected policy challenges",
+    "No dollar amounts or specific budget impact disclosed in article",
+    "15th Ward East Adams neighborhood project is material citywide housing initiative requiring CIO awareness for potential digital service/data governance implications",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,71 @@
+{
+  "record_id": "CTX-NEWS-2025-00098",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-common-council-completes-swap-with-sha-intends-to-build-children-rising-center",
+  "publication_date": "2025-08-12",
+  "capture_date": "2026-03-22T18:39:01Z",
+  "title": "Syracuse Common Council completes swap with SHA, intends to build Children Rising Center",
+  "summary": "The Syracuse Common Council approved a land swap between the City and Syracuse Housing Authority on August 12, 2025, transferring Eastwood Heights to SHA and acquiring Latimer Terrace for the City. The City intends to develop the Children Rising Center at Latimer Terrace by 2033 as part of a HUD Choice Neighborhoods Implementation grant, addressing delays caused by SHA's failure to secure market tax credits.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "federal-programs",
+    "initiative-launch",
+    "intergovernmental",
+    "vote",
+    "capital-planning",
+    "land-use",
+    "community-center"
+  ],
+  "department_refs": [
+    "Department of Neighborhood Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Housing Authority",
+      "type": "organization",
+      "canonical_id": "ORG-SHA"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COUNCIL"
+    },
+    {
+      "name": "HUD",
+      "type": "organization",
+      "canonical_id": "ORG-HUD"
+    },
+    {
+      "name": "Brandon Ladd",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Council approval indicates executive alignment on housing revitalization and children-focused community infrastructure; federal grant pursuit suggests strategic federal partnership",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article dated August 12, 2025 (future date relative to typical 2024-2025 cycle); verify publication date accuracy",
+    "Key innovation component: land-swap mechanism to unblock stalled project due to third-party administrative failure",
+    "2033 completion timeline suggests multi-phase capital planning horizon",
+    "HUD grant submission implies compliance/reporting requirements for innovation office tracking",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'community-center' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,60 @@
+{
+  "record_id": "CTX-NEWS-2025-00095",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-police-departments-animal-control-unit-warns-of-increase-in-virus-impacting-dogs",
+  "publication_date": "2025-07-23",
+  "capture_date": "2026-03-22T18:38:22Z",
+  "title": "Syracuse Police Department's animal control unit warns of increase in virus impacting dogs",
+  "summary": "The Syracuse Police Department's Animal Control Unit issued a public health alert on July 22, 2025, warning of increased Parvovirus cases among dogs in Syracuse. The advisory provides symptom identification, prevention guidance (vaccination updates, avoiding unvaccinated animals), and directs residents to contact veterinarians for suspected exposures. This represents routine community health communication and potential operational demand on animal control resources.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "emergency-services",
+    "police",
+    "residents",
+    "procedural"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Brandon Ladd",
+      "type": "person",
+      "canonical_id": "PERSON-BRANDON-LADD"
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    },
+    {
+      "name": "CNY Central",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is a public health/safety announcement, not policy or budget-related",
+    "No CIO-level digital transformation, IT infrastructure, or data governance implications detected",
+    "Animal Control Unit operates under SPD; may have tangential relevance to 311 service request systems or permitting if dog quarantine protocols are tracked",
+    "No fiscal impact or resource allocation mentioned",
+    "Potential low-priority connection to public safety data reporting or community notification systems",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'procedural' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

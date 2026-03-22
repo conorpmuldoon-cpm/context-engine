@@ -1,0 +1,96 @@
+{
+  "record_id": "CTX-NEWS-2025-00034",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-05-10/city-departments-highlight-impact-of-steep-budget-cuts-approved-by-common-councilors",
+  "publication_date": "2025-05-10",
+  "capture_date": "2026-03-22T18:26:00Z",
+  "title": "City departments highlight impact of steep budget cuts approved by common councilors",
+  "summary": "Syracuse Common Council approved steep across-the-board budget cuts affecting multiple city departments with varying severity. DPW faces 9% cuts impacting trash, plowing, and road repair; Parks 7%; Police 5%; Code Enforcement 9%; and Fire Department $2.4M. Department heads report the cuts were unexpected, severe, and will directly compromise service delivery and public safety.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "council",
+    "vote",
+    "emergency-services",
+    "police",
+    "fire",
+    "parks",
+    "code-enforcement",
+    "department-head",
+    "service-requests",
+    "infrastructure",
+    "escalating",
+    "transparency"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Department of Parks, Recreation and Youth Programs",
+    "Syracuse Police Department",
+    "Syracuse Fire Department",
+    "Department of Code Enforcement"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jeremy Robinson",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-ROBINSON"
+    },
+    {
+      "name": "Jake Dishaw",
+      "type": "person",
+      "canonical_id": "PERSON-JAKE-DISHAW"
+    },
+    {
+      "name": "Syeisha Byrd",
+      "type": "person",
+      "canonical_id": "PERSON-SYEISHA-BYRD"
+    },
+    {
+      "name": "Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE"
+    },
+    {
+      "name": "Michael Monds",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-MONDS"
+    },
+    {
+      "name": "Walsh Administration",
+      "type": "organization",
+      "canonical_id": "ORG-WALSH-ADMIN"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Department heads express concerns about lack of council deliberation prior to vote and warn of serious operational and public safety consequences. Implicit accountability question regarding Council process and decision-making transparency.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00026"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount '$2.4 million' for Fire Department extracted and needs full validation; article references 'percent' cuts for other departments but exact dollar figures not provided for DPW, Parks, Police, Code Enforcement",
+    "Walsh administration mentioned but not detailed; may warrant separate research on administration's position and response strategy",
+    "Article emphasizes lack of questions from councilors during budget review—governance/process issue relevant to CIO oversight",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)",
+    "Potential duplicate of CTX-NEWS-2025-00026"
+  ],
+  "last_relevance_update": null
+}

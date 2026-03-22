@@ -15,12 +15,14 @@ Requires: pip install playwright && playwright install chromium
 """
 
 import csv
+import json as _json
 import re
 import sys
 import time
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlparse
+from urllib.request import urlopen, Request
 
 from playwright.sync_api import sync_playwright
 
@@ -114,6 +116,28 @@ def is_syracuse_com(url: str) -> bool:
     """Check if URL is from syracuse.com."""
     domain = get_domain(url)
     return "syracuse.com" in domain and "obits" not in domain
+
+
+def get_wayback_url(url: str, logger=None) -> str | None:
+    """Check the Wayback Machine for an archived copy of a URL.
+
+    Returns the archived URL or None.
+    """
+    api = f"https://archive.org/wayback/available?url={url}"
+    try:
+        req = Request(api, headers={"User-Agent": "ContextEngine/1.0"})
+        resp = urlopen(req, timeout=10)
+        data = _json.loads(resp.read())
+        snap = data.get("archived_snapshots", {}).get("closest", {})
+        if snap.get("available") and snap.get("status") == "200":
+            wb_url = snap["url"]
+            if logger:
+                logger.debug(f"  Wayback hit: {wb_url[:80]}")
+            return wb_url
+    except Exception as e:
+        if logger:
+            logger.debug(f"  Wayback lookup failed: {e}")
+    return None
 
 
 def extract_date_from_url(url: str) -> str | None:
@@ -423,6 +447,7 @@ def main():
     saved_count = 0
     filtered_count = 0
     blocked_count = 0
+    wayback_count = 0
     error_count = 0
     processed_in_run = []
     saved_titles = []
@@ -472,6 +497,17 @@ def main():
 
             # Fetch and extract
             article = extract_article(page, url, logger)
+
+            # If blocked and it's a paywalled domain, try Wayback Machine
+            if not article and is_syracuse_com(url):
+                wb_url = get_wayback_url(url, logger)
+                if wb_url:
+                    logger.info(f"{progress} Trying Wayback Machine...")
+                    article = extract_article(page, wb_url, logger)
+                    if article:
+                        # Restore original URL as source (not the archive URL)
+                        article["url"] = url
+                        wayback_count += 1
 
             if not article:
                 logger.info(f"{progress} Blocked/empty: {url[:80]}")
@@ -555,6 +591,10 @@ def main():
             record["processing_notes"].append(
                 f"Imported from email link archive ({domain})"
             )
+            if is_syracuse_com(url) and not has_session:
+                record["processing_notes"].append(
+                    "Content retrieved via Wayback Machine (archive.org)"
+                )
 
             # Validate
             tag_errors = validate_tags(record, valid_tags)
@@ -622,6 +662,7 @@ def main():
         f"Already processed: {len(urls) - len(new_urls)}\n"
         f"Attempted this run: {len(processed_in_run)}\n"
         f"Blocked/empty: {blocked_count}\n"
+        f"Recovered via Wayback Machine: {wayback_count}\n"
         f"Filtered (not relevant): {filtered_count}\n"
         f"Saved as records: {saved_count}\n"
         f"Errors: {error_count}\n"

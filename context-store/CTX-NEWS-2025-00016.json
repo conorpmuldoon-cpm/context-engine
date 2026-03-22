@@ -1,0 +1,77 @@
+{
+  "record_id": "CTX-NEWS-2025-00016",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/dpw-budget-hearing-held-to-discuss-where-things-stand-with-water-in-syracuse-lead-levels-drinking-country-safety-crisis-black-children-poor-communities-employees",
+  "publication_date": "2025-04-24",
+  "capture_date": "2026-03-22T18:22:37Z",
+  "title": "DPW budget hearing held to discuss where things stand with water in Syracuse",
+  "summary": "Syracuse Department of Water held a budget hearing before the Common Council to address a drinking water safety crisis marked by high lead levels (among worst in the nation per NRDC), low water pressure from aging pipes, and a staffing shortage of 16 employees. Commissioner Robert Brandt reported progress on water pressure repairs (+1.8M gallons/day) and plans to replace 2,900 lead service lines this fiscal year, while Council Member Chol Majok characterized the lead issue as a leadership problem requiring broader systemic solutions beyond departmental actions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "lead-remediation",
+    "budget",
+    "infrastructure",
+    "investigation",
+    "equity",
+    "escalating",
+    "council",
+    "department-head",
+    "labor-relations",
+    "federal-programs",
+    "transparency",
+    "residents",
+    "trending"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Robert Brandt",
+      "type": "person",
+      "canonical_id": "PERSON-ROBERT-BRANDT"
+    },
+    {
+      "name": "Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-CHOL-MAJOK"
+    },
+    {
+      "name": "National Resources Defense Council",
+      "type": "organization",
+      "canonical_id": "ORG-NRDC"
+    },
+    {
+      "name": "EPA",
+      "type": "organization",
+      "canonical_id": "ORG-EPA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council member Majok frames lead contamination as leadership problem; EPA investigation ongoing; community trust eroded; pressure for systemic solutions beyond department-level fixes",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date metadata inconsistent (headline says 2025-04-24, body says Wed April 23, 2025) — normalized to article publication date",
+    "Dollar amounts: No specific budget figures provided in article despite budget hearing context",
+    "Staffing crisis quantified (down 16 FTE) but no salary/overtime cost impact detailed",
+    "Lead service line replacement program (2,900 lines) is capital initiative; fiscal year designation unclear",
+    "6,000+ water filters distributed as interim mitigation — tactical response flagged as insufficient by leadership",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

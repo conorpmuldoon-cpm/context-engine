@@ -1,0 +1,74 @@
+{
+  "record_id": "CTX-NEWS-2025-00119",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-09-15/onondaga-county-budget-proposal-has-lower-taxes-money-for-law-enforcement-child-welfare",
+  "publication_date": "2025-09-16",
+  "capture_date": "2026-03-22T18:42:50Z",
+  "title": "Onondaga County budget proposal has lower taxes, money for law enforcement, child welfare",
+  "summary": "Onondaga County Executive Ryan McMahon proposed a 2026 budget with an 11% property tax cut for homeowners, representing a 42% total levy reduction since 2018. The $1.6B budget prioritizes law enforcement ($6M helicopter, $700K drones), lead abatement ($1.2M), early childhood education, and a convention/innovation district around the Oncenter, with revenue increasingly dependent on sales taxes (projected 1.5% growth) rather than property taxes.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "tax-revenue",
+    "capital-planning",
+    "economic-development",
+    "emergency-services",
+    "police",
+    "initiative-launch",
+    "intergovernmental",
+    "recurring"
+  ],
+  "department_refs": [
+    "Office of the County Executive",
+    "Sheriff's Office",
+    "Early Childhood Services",
+    "Lead Abatement Program"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Onondaga County Legislature",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY-LEGISLATURE"
+    },
+    {
+      "name": "Micron",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Oncenter",
+      "type": "organization",
+      "canonical_id": "ORG-ONCENTER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "County executive demonstrating fiscal responsibility through tax reduction while maintaining public safety investment and economic development focus; aligns with broader regional innovation agenda through convention/innovation district initiative.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is about Onondaga County (not City of Syracuse directly), but references innovation district development relevant to CIO mandate",
+    "Micron project mentioned as major revenue driver and construction milestone expected 2026 - potential innovation/economic development opportunity for City coordination",
+    "Drone 911 response initiative ($700K) represents emerging technology deployment in emergency services",
+    "Convention/innovation district around Oncenter warrants CIO attention for potential digital infrastructure, smart city, or innovation ecosystem development",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

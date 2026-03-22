@@ -1,0 +1,70 @@
+{
+  "record_id": "CTX-NEWS-2025-00149",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/esf-to-honor-mayor-ben-walsh-and-phil-bousquet-with-2025-sol-feinstone-environmental-award",
+  "publication_date": "2025-10-23",
+  "capture_date": "2026-03-22T18:49:28Z",
+  "title": "ESF to Honor Mayor Ben Walsh and Phil Bousquet with 2025 Sol Feinstone Environmental Award",
+  "summary": "SUNY College of Environmental Science and Forestry will award the 2025 Sol Feinstone Environmental Award to Syracuse Mayor Ben Walsh and attorney Phil Bousquet for environmental stewardship contributions. Walsh's administration has championed the Sustainable Syracuse Initiative and Climate Action Plan; Bousquet has leveraged New York's Brownfield Cleanup Program to support $9 billion in construction value statewide. The award dinner proceeds support ESF student scholarships.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "sustainability",
+    "initiative-launch",
+    "economic-development",
+    "workforce-development",
+    "housing",
+    "leadership-change",
+    "state-agency",
+    "announcement"
+  ],
+  "department_refs": [
+    "Office of the Mayor",
+    "Department of Sustainability and Innovation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Phil Bousquet",
+      "type": "person",
+      "canonical_id": "PERSON-PHIL-BOUSQUET"
+    },
+    {
+      "name": "SUNY College of Environmental Science and Forestry",
+      "type": "organization",
+      "canonical_id": "ORG-ESF"
+    },
+    {
+      "name": "Bousquet Holstein PLLC",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Recognition of Mayor Walsh's sustainability agenda (Climate Action Plan, Sustainable Syracuse Initiative) signals institutional validation of environmental stewardship as core municipal priority.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts extracted ($9B construction value, $1.5B tax credits) relate to statewide brownfield program impact, not direct Syracuse CIO budget",
+    "Article emphasizes clean energy, workforce development, and affordable housing—all aligned with innovation/sustainability mandate",
+    "No direct IT, GIS, or digital services angle detected; framed as environmental/community recognition event",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

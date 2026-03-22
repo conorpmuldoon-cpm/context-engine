@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-NEWS-2025-00162",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/freedom-of-espresso-celebrating-30-years-of-coffee-in-syracuse",
+  "publication_date": "2025-12-05",
+  "capture_date": "2026-03-22T18:51:49Z",
+  "title": "Freedom of Espresso celebrating 30 years of coffee in Syracuse",
+  "summary": "Freedom of Espresso, a local coffee business with 30 years of operations in Syracuse, is being honored with a proclamation from Mayor Ben Walsh on December 5, 2025. The business has expanded to multiple locations across Central New York and represents a successful local enterprise in the community.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "business-community",
+    "announcement",
+    "economic-development",
+    "mayor"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Freedom of Espresso",
+      "type": "organization",
+      "canonical_id": "ORG-FREEDOM-OF-ESPRESSO"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor's recognition of local business longevity and community presence demonstrates support for established small business and local economic development",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily promotional/celebratory in nature",
+    "No direct CIO operational relevance; relevant for business-community relations context",
+    "Addresses: 115 Solar Street, Syracuse (near Franklin Square Park)",
+    "No budget, policy, or administrative impacts noted",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

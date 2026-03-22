@@ -1,0 +1,66 @@
+{
+  "record_id": "CTX-NEWS-2025-00127",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-police-ask-public-to-avoid-area-of-suspicious-incident-montgomery-street-crime-developing-story-breaking",
+  "publication_date": "2025-09-29",
+  "capture_date": "2026-03-22T18:44:40Z",
+  "title": "Syracuse Police reveal 'suspicious package' that evacuated city hall",
+  "summary": "A suspicious package that prompted evacuation of Syracuse City Hall on September 29, 2025 was identified as a New York State Department of Transportation noise monitoring device (Pelican box with microphone) placed by a contractor on September 25. Mayor Walsh indicated the device placement bypassed normal City-DOT coordination protocols and remains under investigation regarding its tree-mounted placement rather than standard utility pole installation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "emergency-services",
+    "investigation",
+    "intergovernmental",
+    "facilities",
+    "transparency",
+    "state-agency"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Syracuse Fire Department",
+    "New York State Department of Transportation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Matthew Benninger",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Syracuse City Hall",
+      "type": "system",
+      "canonical_id": "SYS-CITY-HALL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Mayor's statement emphasizes breakdown in intergovernmental communication protocols with NYS DOT; highlights positive public vigilance ('see something, say something') while acknowledging operational surprise and coordination gap.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Event resolved—device identified and evacuation lifted",
+    "No budget, contract, or procurement implications identified",
+    "Highlights potential IT/facilities coordination opportunity between City and State agencies",
+    "Article focuses on public safety response rather than CIO-domain technology systems",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

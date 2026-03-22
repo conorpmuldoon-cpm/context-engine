@@ -1,0 +1,83 @@
+{
+  "record_id": "CTX-NEWS-2025-00139",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/supporters-not-ruling-out-new-legal-fight-if-push-to-remove-columbus-statue-continues",
+  "publication_date": "2025-10-13",
+  "capture_date": "2026-03-22T18:47:18Z",
+  "title": "Supporters not ruling out new legal fight if push to remove Columbus statue continues",
+  "summary": "The Columbus Monument Corporation is signaling willingness to pursue additional legal action if Syracuse's incoming administration continues efforts to remove and relocate the Christopher Columbus statue to a proposed Heritage Park. Current Mayor Walsh stated the statue will remain through his term; Deputy Mayor Sharon Owens (mayoral candidate) indicated Heritage Park would be a 2026 priority, while other candidates oppose removal. Monument Corp. member Nick Pirro indicated courts ruled their previous lawsuit premature but legal options remain available.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "historic-preservation",
+    "parks",
+    "land-use",
+    "leadership-change",
+    "litigation",
+    "PROVISIONAL:cultural-heritage-conflict",
+    "community-stakeholders",
+    "mayor"
+  ],
+  "department_refs": [
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Nick Pirro",
+      "type": "person",
+      "canonical_id": "PERSON-NICK-PIRRO"
+    },
+    {
+      "name": "Columbus Monument Corporation",
+      "type": "organization",
+      "canonical_id": "ORG-COLUMBUS-MONUMENT-CORP"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Monument Corporation explicitly reserving legal remedies and framing removal as unresolved despite prior court ruling; mayoral transition creates uncertainty as incoming administration may reprioritize or deprioritize Heritage Park initiative.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date listed as 2025-10-13 (future date); likely data entry error or test content",
+    "Court ruling from June 2024 upheld city authority to move statue, but implementation stalled",
+    "No direct CIO/technology infrastructure angle detected; primarily governance/legal/cultural affairs issue",
+    "Multiple mayoral candidates' positions noted as opposing removal—suggests political risk for continuation",
+    "PROVISIONAL tag added for cultural heritage conflict as this transcends standard service categories",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'litigation' not in taxonomy",
+    "Tag warning: Unknown tag 'community-stakeholders' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

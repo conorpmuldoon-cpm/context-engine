@@ -1,0 +1,79 @@
+{
+  "record_id": "CTX-NEWS-2025-00073",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/leaders-police-union-left-context-out-of-facebook-post-calling-armory-square-chaotic-mayor-walsh-chief-cecile-deputy-mayo-owens",
+  "publication_date": "2025-07-14",
+  "capture_date": "2026-03-22T18:33:25Z",
+  "title": "Leaders: Police union left context out of Facebook post calling Armory Square 'chaotic'",
+  "summary": "The Syracuse Police Benevolent Association's Facebook post describing Armory Square as 'chaotic' with 'gangbangers' and claiming 40 arrests was criticized by city leadership for lacking context. Chief Cecile clarified that most arrests were for low-level violations like open containers and loitering, not violent crimes, and expressed concern that inflammatory language damages business and community perception. The incident highlights tension between police union communications and municipal messaging priorities around public safety and economic development.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "labor-relations",
+    "public-safety-commission",
+    "transparency",
+    "crime-data",
+    "business-community",
+    "economic-development",
+    "equity",
+    "policy-change",
+    "PROVISIONAL:police-union-communications",
+    "PROVISIONAL:bail-reform"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Syracuse Police Benevolent Association",
+      "type": "organization",
+      "canonical_id": "ORG-SPBA"
+    },
+    {
+      "name": "Mary Kielar",
+      "type": "person",
+      "canonical_id": "PERSON-MARY-KIELAR"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "City leadership (Mayor Walsh, Deputy Mayor Owens, Police Chief Cecile) publicly scrutinizing police union's social media messaging for accuracy and community impact; tension between union communication style and municipal messaging strategy regarding public safety, economic vitality, and equitable language.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article contains quantified crime data for two consecutive dates (July 11-12, 2025) useful for trend analysis",
+    "Identifies specific governance friction point: police union social media autonomy vs. municipal communication standards",
+    "Deputy Mayor Owens' statement indicates equity-focused concern about language characterizing community members",
+    "Chief Cecile's rationale connects public safety messaging to tax base and economic development—municipal lens",
+    "PBA President unavailable for response until following day—union communication gap noted",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

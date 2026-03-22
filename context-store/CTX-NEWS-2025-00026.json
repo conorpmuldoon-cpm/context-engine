@@ -1,0 +1,82 @@
+{
+  "record_id": "CTX-NEWS-2025-00026",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/2025-05-08/syracuse-common-councilors-slash-budget-mayor-walsh-calls-cuts-draconian-and-dangerous",
+  "publication_date": "2025-05-08",
+  "capture_date": "2026-03-22T18:24:36Z",
+  "title": "Syracuse Common Councilors slash budget; Mayor Walsh calls cuts \"draconian and dangerous\"",
+  "summary": "The Syracuse Common Council unanimously approved a FY2025 budget that freezes property taxes but cuts $16 million across departments through 80+ amendments, rejecting Mayor Walsh's proposed 2% increase and $27M reserve draw. Walsh strongly opposed the cuts as 'draconian and dangerous,' citing risks to police, fire, parks, and code enforcement operations, while council leadership framed cuts as efficiency measures allowing departmental discretion. The mayor has veto authority but council appears positioned to override.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "council",
+    "mayor",
+    "vote",
+    "escalating",
+    "policy-change",
+    "fire",
+    "police",
+    "parks",
+    "code-enforcement",
+    "tax-revenue",
+    "leadership-change"
+  ],
+  "department_refs": [
+    "Department of Finance",
+    "Syracuse Police Department",
+    "Syracuse Fire Department",
+    "Department of Parks, Recreation and Youth Programs",
+    "Department of Code Enforcement"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Executive-legislative conflict over fiscal strategy: Council prioritizes tax freeze and departmental autonomy; Mayor opposes cuts as structurally unsound and warns of service delivery risks without new revenue mechanisms.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00024"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on governance conflict rather than CIO-specific technology or systems impact; no digital infrastructure, IT, or data governance dimensions explicitly mentioned",
+    "Dollar amounts: $348M (proposed budget), $16M (cuts), $27M (reserves proposed by mayor)",
+    "Timeline: Vote occurred May 8, 2025; mayoral veto window is 10 days; final budget deadline June 2, 2025",
+    "Council claims no job cuts, only line-item reductions; department heads present at press conference but not individually quoted",
+    "No revenue proposals from council side per Mayor Walsh—potential signal for CIO regarding strategic planning constraints",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)",
+    "Potential duplicate of CTX-NEWS-2025-00024"
+  ],
+  "last_relevance_update": null
+}

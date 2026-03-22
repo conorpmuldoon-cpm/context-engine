@@ -1,0 +1,66 @@
+{
+  "record_id": "CTX-NEWS-2025-00169",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/shootings-with-injuries-down-nearly-15-this-year-police-data-shows",
+  "publication_date": "2025-12-10",
+  "capture_date": "2026-03-22T18:53:09Z",
+  "title": "Shootings with injuries down nearly 15% so far this year in Syracuse, police data shows",
+  "summary": "Syracuse Police data shows shootings with injuries down 13% year-to-date (47 to 41 incidents), with shooting victims down 13% (64 to 56), reflecting success of Governor Hochul's state GIVE initiative across 28 participating communities. The statewide program, funded at $36.38 million for non-NYC agencies, continues through June 2026 using evidence-based gun violence reduction strategies. Albany, Buffalo, and Syracuse are among communities reporting double-digit declines in gun-related violence.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "public-safety-commission",
+    "state-agency",
+    "federal-programs",
+    "initiative-launch",
+    "transparency",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Governor Kathy Hochul",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Gun Involved Violence Elimination (GIVE)",
+      "type": "system",
+      "canonical_id": "SYS-GIVE"
+    },
+    {
+      "name": "CNY Central",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "State-funded public safety initiative demonstrating measurable crime reduction outcomes aligns with CIO's potential digital/data governance role in supporting evidence-based decision-making and data transparency.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article dated 2025-12-10 (future date—likely test data or typographical error)",
+    "Data metrics are year-to-date comparisons (Jan-Nov 2025 vs 2024)",
+    "No direct CIO involvement mentioned; relevance is secondary (data reporting, potential data infrastructure support)",
+    "GIVE program is state-level initiative; Syracuse Police implements locally",
+    "$36.38M allocation is statewide across 28 communities, not Syracuse-specific budget",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

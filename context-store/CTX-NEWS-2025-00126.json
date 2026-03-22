@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2025-00126",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/new-pilot-program-is-helping-lower-accidents-involving-deer-animals-wildlife-ticks-lyme-disease-traps-hunting-venison-food-bank-syracuse-city",
+  "publication_date": "2025-09-29",
+  "capture_date": "2026-03-22T18:44:27Z",
+  "title": "New pilot program is helping lower accidents involving deer",
+  "summary": "Syracuse launched a deer management pilot program in 2025 using traps and wildlife officers to reduce vehicle-deer collisions, property damage, and Lyme disease transmission. The program removed 137 white-tailed deer and generated 12,000+ meals for the food bank through venison donation, demonstrating co-benefits of public safety and food security initiatives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "parks",
+    "public-safety-commission",
+    "wildlife",
+    "PROVISIONAL:animal-management",
+    "PROVISIONAL:food-security",
+    "sustainability",
+    "initiative-launch",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Brooke Dehn",
+      "type": "person",
+      "canonical_id": "PERSON-BROOKE-DEHN"
+    },
+    {
+      "name": "Syracuse Food Bank",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Pilot program demonstrates multi-benefit approach to urban wildlife management addressing public safety (vehicle accidents), public health (Lyme disease), environmental stewardship (property damage), and food security simultaneously—signals innovation-forward governance.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on outcomes rather than governance mechanics; limited process detail available for CIO evaluation",
+    "No budget figures, procurement details, or technology systems mentioned—suggests reporting gap for innovation tracking",
+    "Venison distribution to food bank represents potential PROVISIONAL:food-equity or food-supply-chain angle worth exploring with relevant departments",
+    "Potential connection to vision-zero or broader wildlife-urban interface policy initiatives not explicitly stated",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'wildlife' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

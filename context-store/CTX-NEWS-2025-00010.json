@@ -1,0 +1,69 @@
+{
+  "record_id": "CTX-NEWS-2025-00010",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/spd-explains-use-of-tactical-strikes-seen-in-viral-arrest-video",
+  "publication_date": "2025-04-20",
+  "capture_date": "2026-03-22T18:21:25Z",
+  "title": "SPD explains use of \"tactical strikes\" seen in viral arrest video",
+  "summary": "Syracuse Police Chief Joseph Cecile defended the department's use of 'tactical strikes' (controlled punches to face/head) documented in a viral arrest video from April 9, 2025, stating the practice complies with DCJS-approved use of force policy and serves a tactical purpose to prevent suspects from accessing weapons. One officer faced discipline for minor body camera violations and will be retrained; the Chief characterized the arrest as within departmental standards.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "use of force",
+    "policy-change",
+    "transparency",
+    "investigation",
+    "training",
+    "public-safety-commission",
+    "PROVISIONAL:use-of-force-policy",
+    "PROVISIONAL:viral-incident-response"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Department of Criminal Justice Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Joseph Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOSEPH-CECILE"
+    },
+    {
+      "name": "Nicole La Fiandra",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "CNY Central",
+      "type": "organization",
+      "canonical_id": "ORG-CNY-CENTRAL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Viral social media criticism of police arrest tactics prompted public-facing departmental explanation and policy clarification; incident generated significant community anger and online scrutiny requiring chief-level response.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on police accountability and use-of-force transparency in response to community backlash",
+    "DCJS approval reference suggests state-mandated compliance framework",
+    "Minor disciplinary action indicates potential gap between policy and execution",
+    "No budget or procurement implications detected",
+    "Recommended for CIO review if related to body camera systems, evidence management, or public transparency dashboards",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'use of force' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

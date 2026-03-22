@@ -1,0 +1,82 @@
+{
+  "record_id": "CTX-NEWS-2025-00141",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/take-a-look-skyline-apartment-owners-reveal-new-progress-on-troubled-building-syracuse-mayor-ben-walsh-clear-investment-group-murder-flooding-bugs-drug-actvityu",
+  "publication_date": "2025-10-21",
+  "capture_date": "2026-03-22T18:47:49Z",
+  "title": "Take a look: Skyline Apartment owners reveal new progress on troubled building",
+  "summary": "Clear Investment Group is making progress on renovating the troubled Skyline Apartments (to be rebranded as The Metropolitan) on James Street, with modernized elevators, upgraded fire and security systems, and completion of first three floors. The company aims for partial occupancy by December 31, 2025, and full readiness by April 30, 2026. This follows a September 2025 legal settlement with Syracuse after the city threatened action over alleged repair delays on the 352-unit building plagued by flooding, crime, and safety issues.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "facilities",
+    "infrastructure",
+    "code-enforcement",
+    "business-community",
+    "mayor",
+    "economic-development",
+    "intergovernmental",
+    "contract-award",
+    "investigation",
+    "resolved"
+  ],
+  "department_refs": [
+    "Law Department",
+    "Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Clear Investment Group",
+      "type": "organization",
+      "canonical_id": "ORG-CLEAR-INVESTMENT"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Razi Uddin",
+      "type": "person",
+      "canonical_id": "PERSON-RAZI-UDDIN"
+    },
+    {
+      "name": "Amy Rubenstein",
+      "type": "person",
+      "canonical_id": "PERSON-AMY-RUBENSTEIN"
+    },
+    {
+      "name": "Green Skyline Apartments, LLC",
+      "type": "organization",
+      "canonical_id": "ORG-GREEN-SKYLINE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor Walsh's legal settlement demonstrates city prioritization of housing quality and resident safety; demonstrates executive enforcement of building standards and successful negotiated resolution with private developer.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date is October 21, 2025 (future-dated; likely test data or planning document)",
+    "Rent range ($800-$1,500) extracted but not high-dollar transaction",
+    "11 feet of water damage in mechanical room indicates significant infrastructure failure",
+    "Legal dispute resolved via settlement rather than court judgment",
+    "Building has 352 units—substantial housing impact for city",
+    "No IT systems or digital services angle detected",
+    "Previous operator (Green Skyline) liability claims suggest possible litigation history to track",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,90 @@
+{
+  "record_id": "CTX-NEWS-2025-00003",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-monday-safer-streets-project-heal-on-point-college-contract-initiative",
+  "publication_date": "2025-04-09",
+  "capture_date": "2026-03-22T18:19:38Z",
+  "title": "Safer Streets Programs looking to progress their initiative--asking for better training",
+  "summary": "The Safer Streets Program, which targets high-risk youth to reduce gun violence, is requesting contract extension and enhanced training from Syracuse Common Council. The program experienced a 4-month service gap after Project Heal abruptly ended their contract in September 2024, but resumed operations in February 2025 with On Point for College. Leadership emphasizes need for better-trained credible messengers and therapists to effectively engage youth in violence intervention and mentorship.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "public-safety-commission",
+    "initiative-launch",
+    "police",
+    "training",
+    "workforce-development",
+    "contract-award",
+    "emergency-services",
+    "leadership-change",
+    "equity",
+    "advocacy"
+  ],
+  "department_refs": [
+    "Mayor's Office to Reduce Gun Violence",
+    "Syracuse Common Council Public Safety Committee"
+  ],
+  "entity_refs": [
+    {
+      "name": "Aneesah Evans",
+      "type": "person",
+      "canonical_id": "PERSON-ANEESAH-EVANS"
+    },
+    {
+      "name": "Lateef Johnson-Kinsey",
+      "type": "person",
+      "canonical_id": "PERSON-LATEEF-JOHNSON-KINSEY"
+    },
+    {
+      "name": "Dr. Ednita Wright",
+      "type": "person",
+      "canonical_id": "PERSON-EDNITA-WRIGHT"
+    },
+    {
+      "name": "Safer Streets Program",
+      "type": "organization",
+      "canonical_id": "ORG-SAFER-STREETS"
+    },
+    {
+      "name": "Project Heal",
+      "type": "organization",
+      "canonical_id": "ORG-PROJECT-HEAL"
+    },
+    {
+      "name": "On Point for College",
+      "type": "organization",
+      "canonical_id": "ORG-ON-POINT-COLLEGE"
+    },
+    {
+      "name": "Onondaga Community College",
+      "type": "organization",
+      "canonical_id": "ORG-OCC"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Advocacy from Mayor's Office leadership for program continuation, enhanced funding, and better training infrastructure; emphasis on documented success outcomes despite operational disruptions",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Program pilot began 2023; service gap Sep 2024-Jan 2025 represents operational vulnerability",
+    "Current enrollment low (9-13 participants); success metrics anecdotal rather than quantified",
+    "Transition from Project Heal to On Point for College represents contractor change requiring oversight",
+    "Training gap identified as critical barrier to program effectiveness with target demographic",
+    "No budget figures provided; contract extension request implies recurring/ongoing funding need",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

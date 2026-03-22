@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-NEWS-2025-00138",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-schools-bid-farewell-to-superintendent-anthony-davis-amid-challenges",
+  "publication_date": "2025-10-09",
+  "capture_date": "2026-03-22T18:46:59Z",
+  "title": "Syracuse schools bid farewell to superintendent Anthony Davis amid challenges",
+  "summary": "Syracuse City Schools Superintendent Anthony Davis is departing at month-end after leading the district since 2022, with Deputy Superintendent Pamela Odom succeeding him. The transition occurs amid district challenges including payroll issues and below-average proficiency scores in ELA and math, with the board considering a $125,000 consultant contract for Davis post-retirement.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "department-head",
+    "payroll",
+    "federal-programs",
+    "intergovernmental"
+  ],
+  "department_refs": [
+    "Syracuse City Schools"
+  ],
+  "entity_refs": [
+    {
+      "name": "Anthony Davis",
+      "type": "person",
+      "canonical_id": "PERSON-ANTHONY-DAVIS"
+    },
+    {
+      "name": "Pamela Odom",
+      "type": "person",
+      "canonical_id": "PERSON-PAMELA-ODOM"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "John Mannion",
+      "type": "person",
+      "canonical_id": "PERSON-JOHN-MANNION"
+    },
+    {
+      "name": "Syracuse City Schools",
+      "type": "organization",
+      "canonical_id": "ORG-SCS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Leadership transition framed positively with mayoral and federal recognition, but underlying performance issues (payroll failures, low proficiency scores) suggest governance challenges requiring oversight. Post-departure consulting arrangement may warrant fiscal scrutiny.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date inconsistency: title shows 2025-10-09, body shows 'Wed, October 8, 2025'—using article-provided date of 2025-10-09",
+    "Consultant contract amount ($125,000) identified but board approval pending November meeting",
+    "No direct CIO/IT systems issues detected, but payroll system failures implied—may warrant IT infrastructure follow-up",
+    "Deputy superintendent succession is clear institutional knowledge transfer risk factor",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2025-00100",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/james-pass-arboretum-to-close-aug-1112-for-tree-work",
+  "publication_date": "2025-08-11",
+  "capture_date": "2026-03-22T18:39:18Z",
+  "title": "James Pass Arboretum to Close Aug. 11&ndash;12 for tree work",
+  "summary": "The City of Syracuse Department of Parks & Recreation's Forestry Division will temporarily close James Pass Arboretum on August 11-12, 2025 for tree removal and maintenance work as part of the Pass Arboretum Improvement Plan. Work includes removing invasive, dead, and structurally unsound trees while pruning others to improve health and storm resilience, with the park expected to reopen by 4 p.m. on August 12.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "parks",
+    "facilities",
+    "maintenance",
+    "announcement",
+    "recurring"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "James Pass Arboretum",
+      "type": "system",
+      "canonical_id": "FACILITY-JAMES-PASS-ARBORETUM"
+    },
+    {
+      "name": "Charlie Nichols",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Demonstrates Parks & Recreation commitment to infrastructure maintenance and public safety through planned facility improvements and community communication.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date stamp (August 11, 2025) is in future relative to typical processing; verify currency",
+    "No budget figures or contract awards mentioned",
+    "Educational mission emphasis suggests alignment with city sustainability/community engagement priorities",
+    "Storm resilience language indicates climate adaptation awareness in forestry operations",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'maintenance' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

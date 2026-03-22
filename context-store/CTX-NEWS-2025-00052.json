@@ -1,0 +1,87 @@
+{
+  "record_id": "CTX-NEWS-2025-00052",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/i-team-meeting-between-mayor-council-president-pro-temp-finance-chair-on-city-budget",
+  "publication_date": "2025-05-14",
+  "capture_date": "2026-03-22T18:29:20Z",
+  "title": "I-Team: Meeting between Mayor, Council President Pro Temp, Finance Chair on city budget",
+  "summary": "Mayor Ben Walsh met with Council President Pro Temp Pat Hogan and Finance Committee Chair Corey Williams for 45 minutes to discuss the city budget amid a dispute over proposed amendments. The Common Council voted unanimously to reject Walsh's $348M budget proposal and cut $16M through 7% departmental reductions, based on independent analysis by Bonadio Group. Walsh indicated openness to compromise and has 10 days to issue vetoes on the 80 proposed amendments.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "council",
+    "mayor",
+    "investigation",
+    "policy-change",
+    "vote",
+    "legislation"
+  ],
+  "department_refs": [
+    "Department of Finance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Michael Cannizzaro",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-CANNIZZARO"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Greg Loh",
+      "type": "person",
+      "canonical_id": "PERSON-GREG-LOH"
+    },
+    {
+      "name": "Bonadio Group",
+      "type": "organization",
+      "canonical_id": "ORG-BONADIO-GROUP"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Executive-legislative tension over FY2026 budget priorities. Council seeking $16M in cuts across all departments (7% reduction); Mayor signaling openness to compromise after unanimous Council rejection of original $348M proposal. Negotiation phase initiated.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00032"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Date metadata indicates May 2025 publication; verify current fiscal year context",
+    "Dollar amounts extracted: $348M (original budget), $16M (proposed cuts)",
+    "Bonadio Group analysis cited as independent review source used by both Mayor and Council",
+    "Veto timeline: Mayor Walsh expected to announce vetoes on Monday following meeting",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Potential duplicate of CTX-NEWS-2025-00032"
+  ],
+  "last_relevance_update": null
+}

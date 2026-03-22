@@ -1,0 +1,78 @@
+{
+  "record_id": "CTX-NEWS-2025-00043",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-05-20/mayor-walsh-rejects-most-of-common-councils-budget-cuts-calls-for-compromise",
+  "publication_date": "2025-05-20",
+  "capture_date": "2026-03-22T18:27:42Z",
+  "title": "Mayor Walsh rejects most of common council's budget cuts, calls for compromise",
+  "summary": "Mayor Walsh vetoed more than half of the Common Council's 81 budget amendments that cut $16M from his proposal, seeking to restore approximately $13M without a property tax increase. The dispute centers on protecting public safety and quality-of-life services, with a critical June 1 deadline for resolution before the July 1 fiscal year. Walsh cited lack of pre-amendment consultation and the council's failure to identify new revenue sources as limiting negotiation options.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "mayor",
+    "council",
+    "vote",
+    "policy-change",
+    "tax-revenue",
+    "public-safety",
+    "residents",
+    "escalating",
+    "procedural"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-CHOL-MAJOK"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    },
+    {
+      "name": "WAER",
+      "type": "organization",
+      "canonical_id": "ORG-WAER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Mayor actively resisting council's budget-cutting direction; expressing constituent concern about service degradation and framing cuts as 'step backwards.' Signals potential governance conflict with two council members running for mayor's office unlikely to support override compromise.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No specific city departments identified by name in article; references are generic ('all departments').",
+    "Dollar amounts validated: $16M cuts, $13M restoration target, $27M (original reserve draw), $120M+ (total reserves), $14M (council's proposed reserve draw).",
+    "Critical deadline: June 1, 2025 for agreement; July 1, 2025 fiscal year start.",
+    "Override threshold: 6 of 9 council votes needed; currently 2 likely opposition (Hogan, Majok).",
+    "PROVISIONAL tag consideration: 'reserves-management' not in available tags but relevant to fiscal policy discussion.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy",
+    "Tag warning: Unknown tag 'procedural' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,69 @@
+{
+  "record_id": "CTX-NEWS-2025-00158",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-snow-plow-operators-unlicensed-companies-begin-filing-paperwork",
+  "publication_date": "2025-12-10",
+  "capture_date": "2026-03-22T18:51:11Z",
+  "title": "Syracuse snow plow operators unlicensed, companies begin filing paperwork",
+  "summary": "Syracuse's private snow plow operators currently lack required licensing despite city regulations mandating them. Five companies have begun the licensing application process but none have completed submissions. City Auditor Alexander Marion emphasized the importance of licenses for equipment verification and driver training, while City Hall clarified that contracted sidewalk snow removal vendors operate under different authority and are exempt from annual licensing requirements.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "snow-removal",
+    "permitting",
+    "code-enforcement",
+    "audit",
+    "procurement",
+    "contract-award",
+    "compliance",
+    "transparency",
+    "policy-change"
+  ],
+  "department_refs": [
+    "Auditor's Office",
+    "Law Department",
+    "Department of Neighborhood and Community Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Alexander Marion",
+      "type": "person",
+      "canonical_id": "PERSON-ALEXANDER-MARION"
+    },
+    {
+      "name": "Syracuse City Hall",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-HALL"
+    },
+    {
+      "name": "City of Syracuse Auditor's Office",
+      "type": "organization",
+      "canonical_id": "ORG-AUDITOR-OFFICE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Auditor audit uncovered regulatory non-compliance; City Hall's clarification statement appears defensive, reframing licensing requirements as inapplicable to contracted sidewalk snow removal—potential jurisdictional or documentation ambiguity that could expose city liability.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date is December 10, 2025 (future date—verify source accuracy)",
+    "Discrepancy noted between Auditor Marion's statement (licensing required in RFP) and City Hall's response (licensing not required for contracted vendor); suggests potential process/communication gap requiring CIO attention",
+    "No IT systems or digital services explicitly mentioned, but licensing system referenced as having back-end tracking capability—may warrant software-systems review",
+    "Five companies in pipeline for licensing—business-community outreach/compliance support opportunity",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'compliance' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

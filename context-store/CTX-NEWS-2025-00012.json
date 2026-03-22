@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-NEWS-2025-00012",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/video-sha-executive-director-insists-he-wont-resign-in-confrontation-with-i-team-agency-city-hall-syracuse-housing-authority-bill-simmons",
+  "publication_date": "2025-04-17",
+  "capture_date": "2026-03-22T18:21:50Z",
+  "title": "VIDEO: SHA Executive Director insists he won't resign in confrontation with I-Team",
+  "summary": "Syracuse Housing Authority Executive Director Bill Simmons refused to resign amid agency problems during a confrontational I-Team interview. The SHA held a secret board meeting that violated New York State Open Meetings Law by conducting over an hour of discussion and taking votes before allowing press and public access.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "investigation",
+    "transparency",
+    "leadership-change",
+    "escalating",
+    "state-mandates",
+    "governance"
+  ],
+  "department_refs": [
+    "Syracuse Housing Authority",
+    "Department of Neighborhood and Business Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Bill Simmons",
+      "type": "person",
+      "canonical_id": "PERSON-BILL-SIMMONS"
+    },
+    {
+      "name": "Mary Kielar",
+      "type": "person",
+      "canonical_id": "PERSON-MARY-KIELAR"
+    },
+    {
+      "name": "Syracuse Housing Authority",
+      "type": "organization",
+      "canonical_id": "ORG-SHA"
+    },
+    {
+      "name": "CNY Central",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Media investigation into SHA leadership accountability and governance violations; potential pressure for executive action regarding director's tenure and agency compliance.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00008"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article emphasizes open meetings law violation and leadership defiance; CIO should note governance and compliance risks at SHA",
+    "No budget figures or specific innovation initiatives mentioned",
+    "Commissioner of Neighborhood & Business Development present at meeting—indicates inter-departmental awareness of SHA issues",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'governance' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00008"
+  ],
+  "last_relevance_update": null
+}

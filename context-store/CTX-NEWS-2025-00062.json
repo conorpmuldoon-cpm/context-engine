@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-NEWS-2025-00062",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/tower-701-is-seeking-1850-from-students-for-a-315-square-foot-studio-apartment-kitchen-renderings-apartments-zumper-average-wstm-wtvh",
+  "publication_date": "2025-06-11",
+  "capture_date": "2026-03-22T18:31:20Z",
+  "title": "Tower 701, geared toward young professionals, is asking for $1,850 a month for rent",
+  "summary": "Tower701, a converted Crowne Plaza hotel on East Genesee Street, is now leasing studio apartments (315 sq ft) to young professionals at $1,850/month—significantly above Syracuse's $1,230 average for one-bedrooms. Units lack full kitchens but include furnished spaces, utilities, and Wi-Fi; 12% will be affordable housing. Deputy Mayor Owens frames it as a partial solution to housing crisis while acknowledging need for broader strategic housing development.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "economic-development",
+    "affordable-housing",
+    "PROVISIONAL:rental-market",
+    "PROVISIONAL:downtown-development",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Tower 701",
+      "type": "organization",
+      "canonical_id": "ORG-TOWER701"
+    },
+    {
+      "name": "Isaac Dinton",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Deputy Mayor publicly associates new housing development with administration's housing crisis response strategy while tempering expectations about project scale and acknowledging ongoing need for multi-faceted approach.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article contains constituent skepticism (Dinton quote) regarding value proposition relative to market rate and amenities",
+    "12% affordable housing designation not clearly defined—tenure type, income limits, and affordability timeline unclear",
+    "Deputy Mayor language suggests this is incremental progress within broader housing strategy; positioning may indicate CIO/administration coordination on downtown development narrative",
+    "Zumper market data (65th most expensive nationally, 2.7% above national average) provides benchmarking context for cost assessment",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'affordable-housing' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

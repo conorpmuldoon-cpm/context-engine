@@ -1,0 +1,66 @@
+{
+  "record_id": "CTX-NEWS-2025-00116",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/housing-initiative-to-improve-curb-appeal-for-tipperary-hill-and-salt-spring-neighborhoods",
+  "publication_date": "2025-08-26",
+  "capture_date": "2026-03-22T18:42:17Z",
+  "title": "Housing initiative to improve curb appeal for Tipperary Hill and Salt Spring Neighborhoods",
+  "summary": "Mayor Ben Walsh launched SYRneighborhoods, a housing initiative administered by the Syracuse Housing Strategies Corporation (SHSC) targeting Tipperary Hill and Salt Springs neighborhoods. The Neighborhood Block Challenge Program offers 50% matching grants up to $2,500 per participant for teams of three or more neighbors completing exterior home improvements. Phase two (2026) will provide grants and low-interest financing for major repairs; the CIO should note the initiative's reliance on community organizing and potential for digital tools in grant administration and project tracking.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "initiative-launch",
+    "grants",
+    "neighborhood-services",
+    "economic-development",
+    "residents",
+    "announcement",
+    "mayor"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Syracuse Housing Strategies Corporation",
+      "type": "organization",
+      "canonical_id": "ORG-SHSC"
+    },
+    {
+      "name": "Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor-led housing initiative signals administration commitment to neighborhood revitalization and community engagement; targets specific neighborhoods suggesting strategic geographic focus.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Department reference corrected from 'Department of Permits and Development' to 'Department of Neighborhood and Business Development' per article text",
+    "Dollar amount validated: $2,500 maximum matching grant",
+    "Program operates in two phases; article covers Phase 1 launch (2025) with Phase 2 planned for 2026",
+    "CIO relevance: potential for digital grant management system, project tracking platform, or community engagement portal to support program administration",
+    "Article date anomaly: published August 26, 2025 (future date); recommend verification",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-NEWS-2025-00031",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/spd-syracuse-budget-cuts-threaten-police-safety-initiatives",
+  "publication_date": "2025-05-11",
+  "capture_date": "2026-03-22T18:25:32Z",
+  "title": "Syracuse budget cuts threaten police safety initiatives, chief says",
+  "summary": "The Syracuse Common Council unanimously rejected the city's proposed budget, prompting the Syracuse Police Department to warn that cuts could eliminate key public safety initiatives including noise party details, aggressive panhandling programs, and officer hiring plans. The department faces staffing shortages and risks losing overtime funding critical for these community-focused operations, though core functions like 911 response and major crimes investigations will continue.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "police",
+    "public-safety-commission",
+    "staffing",
+    "overtime",
+    "emergency-services",
+    "council",
+    "escalating"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Chief Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-CECILE-FIRSTNAME-UNKNOWN"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-COUNCIL"
+    },
+    {
+      "name": "ShotSpotter",
+      "type": "system",
+      "canonical_id": "SYS-SHOTSPOTTER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Police leadership actively opposing budget cuts and advocating for funding restoration; council rejection of mayor's budget proposal signals budget constraint scrutiny and potential fiscal crisis.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Chief's first name incomplete in source (only 'Chief Cecile' given); full canonical ID cannot be established",
+    "No dollar amounts specified in article despite budget cut discussion",
+    "Article mentions mayor but does not name current mayor",
+    "ShotSpotter referenced as critical technology tool for gunfire detection and investigation support",
+    "Staffing context: 10 officers lost this year, 15 expected retirements indicates workforce crisis compounding budget pressures",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'staffing' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

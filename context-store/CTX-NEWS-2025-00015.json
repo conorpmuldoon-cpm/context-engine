@@ -1,0 +1,70 @@
+{
+  "record_id": "CTX-NEWS-2025-00015",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/local-news/2025-04-23/mayor-walsh-launches-sustainable-syracuse-to-fight-climate-change-and-cut-carbon-emissions",
+  "publication_date": "2025-04-23",
+  "capture_date": "2026-03-22T18:22:23Z",
+  "title": "Mayor Walsh launches 'Sustainable Syracuse' to fight climate change and cut carbon emissions",
+  "summary": "Mayor Ben Walsh launched the 'Sustainable Syracuse' initiative to reduce the city's carbon footprint and build climate resilience. The program received $100,000 from New York State Department of Environmental Conservation and will develop a greenhouse gas inventory and climate action plan, led by Syracuse's Division of Planning and Sustainability in partnership with C&S Companies.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "sustainability",
+    "initiative-launch",
+    "grants",
+    "state-agency",
+    "equity",
+    "infrastructure"
+  ],
+  "department_refs": [
+    "Division of Planning and Sustainability"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "New York State Department of Environmental Conservation",
+      "type": "organization",
+      "canonical_id": "ORG-NYSDEC"
+    },
+    {
+      "name": "C&S Companies",
+      "type": "organization",
+      "canonical_id": "ORG-CS-COMPANIES"
+    },
+    {
+      "name": "SUNY ESF",
+      "type": "organization",
+      "canonical_id": "ORG-SUNY-ESF"
+    },
+    {
+      "name": "Emanuel Carter",
+      "type": "person",
+      "canonical_id": "PERSON-EMANUEL-CARTER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor-led climate initiative with state funding support signals municipal commitment to sustainability and environmental resilience as a governance priority.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Department extracted as 'Division of Planning and Sustainability' (more specific than initial 'Department of Permits and Development'). Partnership with private consultant (C&S Companies) indicates hybrid delivery model. Earth Week announcement timing suggests strategic communications alignment.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

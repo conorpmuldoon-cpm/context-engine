@@ -1,0 +1,66 @@
+{
+  "record_id": "CTX-NEWS-2025-00144",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-common-council-approves-plans-for-former-syracuse-developmental-center-property-construction-demolition-affordable-housing-development-rent",
+  "publication_date": "2025-10-28",
+  "capture_date": "2026-03-22T18:48:32Z",
+  "title": "Syracuse Common Council approves plans for former Syracuse Developmental Center",
+  "summary": "The Syracuse Common Council unanimously approved comprehensive plans for redevelopment of the vacant former Syracuse Developmental Center site, including funding, demolition, and phased construction. The Albanese Organization is leading the project and will issue construction bids for infrastructure, utilities, and roadways in November, with demolition targeted for completion by October 31, 2025.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "capital-planning",
+    "land-use",
+    "construction-staging",
+    "infrastructure",
+    "vote",
+    "economic-development",
+    "facilities",
+    "contract-award"
+  ],
+  "department_refs": [
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Albanese Organization",
+      "type": "organization",
+      "canonical_id": "ORG-ALBANESE-ORG"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYR-COUNCIL"
+    },
+    {
+      "name": "Brooke Dehn",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Unanimous council vote signals strong municipal consensus on housing development and brownfield remediation; indicates alignment between administration and legislative priorities on economic development.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article lacks specific dollar amounts for project funding; recommend follow-up with DPD for budget documentation",
+    "20-year vacancy period suggests significant community benefit narrative; recommend asset for outreach/transparency communications",
+    "Demolition deadline (Oct 31, 2025) appears to align with article publication date (Oct 28, 2025); verify actual completion status",
+    "Infrastructure bidding scheduled for November 2025; flag for procurement tracking and vendor compliance monitoring",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

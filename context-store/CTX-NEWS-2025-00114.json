@@ -1,0 +1,79 @@
+{
+  "record_id": "CTX-NEWS-2025-00114",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/this-is-how-far-some-school-zone-red-light-cameras-are-from-actual-schools-in-syracuse-mayor-ben-walsh-city-drivng-speeding-tickets-police-department",
+  "publication_date": "2025-08-13",
+  "capture_date": "2026-03-22T18:41:56Z",
+  "title": "This is how far some 'school zone red light cameras' are from actual schools in Syracuse",
+  "summary": "CNY Central investigates the placement of 36 school zone red light cameras across Syracuse, revealing that some cameras are positioned up to three-quarters of a mile away from actual schools. City officials justify the distances as preparing drivers entering school zones, with plans for potential expansion. Camera installations will be completed by September 3, with vendor Jenoptik maintaining infrastructure on city poles and right-of-way.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "transportation",
+    "public-safety-commission",
+    "infrastructure",
+    "policy-change",
+    "transparency",
+    "vision-zero",
+    "initiative-launch",
+    "PROVISIONAL:school-safety"
+  ],
+  "department_refs": [
+    "Police Department",
+    "Department of Transportation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Deputy Mayor Owens",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Jenoptik",
+      "type": "organization",
+      "canonical_id": "ORG-JENOPTIK"
+    },
+    {
+      "name": "State Department of Transportation",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Common Council",
+      "type": "organization",
+      "canonical_id": "ORGANIZATION-SYRACUSE-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Media investigation questioning the alignment between stated school safety objectives and actual camera placement distances, raising transparency and policy implementation concerns.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00112"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on discrepancy between policy intent (school zone safety) and execution (camera distances from schools)",
+    "Deputy Mayor name incomplete in source material ('Owens'—full name unknown)",
+    "No budget figures provided for camera program",
+    "Vendor relationship (Jenoptik) and maintenance responsibility represents IT-infrastructure and procurement angle for CIO awareness",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Potential duplicate of CTX-NEWS-2025-00112"
+  ],
+  "last_relevance_update": null
+}

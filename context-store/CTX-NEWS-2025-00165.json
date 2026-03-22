@@ -1,0 +1,86 @@
+{
+  "record_id": "CTX-NEWS-2025-00165",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/ben-walsh-sharon-owens-syracuse-flock-81-project-micron-syracuse",
+  "publication_date": "2025-12-12",
+  "capture_date": "2026-03-22T18:52:25Z",
+  "title": "'Paused in progress': Mayor Walsh passes the torch to Sharon Owens at his final briefing",
+  "summary": "Outgoing Mayor Ben Walsh held his final community briefing, highlighting achievements including exceeding housing development goals (3,151 units vs. 2,500 target), expanding online city services for permits and parking amnesty, and passing leadership to incoming Mayor Sharon Owens. The briefing emphasized continuity in vision while acknowledging the I-81 project and revitalization efforts as priorities for the incoming administration.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "mayor",
+    "housing",
+    "digital-services",
+    "permitting",
+    "code-enforcement",
+    "infrastructure",
+    "announcement",
+    "transparency",
+    "intergovernmental"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development",
+    "Office of Code Enforcement",
+    "Central Permit Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Governor Hochul",
+      "type": "person",
+      "canonical_id": "PERSON-KATHY-HOCHUL"
+    },
+    {
+      "name": "Home HeadQuarters",
+      "type": "organization",
+      "canonical_id": "ORG-HOME-HQ"
+    },
+    {
+      "name": "Jubilee Homes",
+      "type": "organization",
+      "canonical_id": "ORG-JUBILEE-HOMES"
+    },
+    {
+      "name": "Homes and Community Renewal",
+      "type": "organization",
+      "canonical_id": "ORG-HCR-NY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Incoming and outgoing administrations signal continuity on housing development, digital service expansion, and I-81 revitalization as shared strategic priorities despite different leadership styles.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date discrepancy: title shows 2025-12-12 but article header shows Thu Dec 11 updated Fri Dec 12 — treated as Dec 12, 2025",
+    "Mechanical extractions (Mark Rusin, Michael Monds, specific departments) do not appear in provided article text; validation unable to confirm",
+    "No dollar amounts detected in provided article excerpt despite $5 in mechanical extractions",
+    "I-81 project mentioned as ongoing but content truncated before details",
+    "Code Enforcement case study reference (Solano Press, Strategic Code Enforcement) may warrant tracking for external validation/citation",
+    "Housing metrics (1,215 complete, 1,936 underway, 3,151 total) are specific and verifiable achievement claims suitable for follow-up validation",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

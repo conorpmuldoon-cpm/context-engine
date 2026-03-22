@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-NEWS-2025-00132",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.wrvo.org/2025-10-03/nearly-60-000-drivers-get-warnings-for-speeding-in-syracuse-school-zones",
+  "publication_date": "2025-10-03",
+  "capture_date": "2026-03-22T18:45:43Z",
+  "title": "Nearly 60,000 drivers get warnings for speeding in Syracuse school zones",
+  "summary": "Syracuse launched a red light and speed camera program in school zones that issued nearly 60,000 warnings in the first two weeks of school (Sept 3-17, 2025). Mayor Walsh characterized the high volume as evidence of a 'speeding epidemic' and stated potential fines could exceed $3 million. A grace period ends November 2, after which violations will incur $50-$75 fines.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "vision-zero",
+    "traffic-enforcement",
+    "school-safety",
+    "data-governance",
+    "initiative-launch",
+    "PROVISIONAL:automated-enforcement",
+    "public-safety-commission"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Office of the Mayor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Jimmy Monto",
+      "type": "person",
+      "canonical_id": "PERSON-JIMMY-MONTO"
+    },
+    {
+      "name": "Lincoln Middle School",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor framing high violation counts as validation of program necessity and public safety priority. Bipartisan support signaled through Councilor Monto's acceptance of warning and behavioral correction.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00131"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article emphasizes data-driven decision-making and transparency (60k violations in 2 weeks as quantified evidence)",
+    "Grace period strategy indicates deliberate phased enforcement approach; potential CIO interest in camera system infrastructure, data pipeline, and notice distribution mechanisms",
+    "Geddes Street/Lincoln Middle School location mentioned; recommend cross-reference with city GIS for school zone camera deployment map",
+    "Financial impact ($3M potential revenue) may relate to budget forecasting; recommend tracking actual fine revenue vs. projections post-Nov 2",
+    "No mention of appeals process, data access, or public dashboard—potential transparency/accountability gap for CIO consideration",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.wrvo.org)",
+    "Tag warning: Unknown tag 'traffic-enforcement' not in taxonomy",
+    "Tag warning: Unknown tag 'school-safety' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00131"
+  ],
+  "last_relevance_update": null
+}

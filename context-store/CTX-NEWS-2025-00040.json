@@ -1,0 +1,76 @@
+{
+  "record_id": "CTX-NEWS-2025-00040",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.wrvo.org/2025-05-19/walsh-vetoes-more-than-half-of-syracuse-lawmakers-budget-amendments",
+  "publication_date": "2025-05-19",
+  "capture_date": "2026-03-22T18:27:07Z",
+  "title": "Walsh vetoes more than half of Syracuse lawmakers' budget amendments",
+  "summary": "Mayor Ben Walsh vetoed 45 of 82 budget amendments (55%) that Syracuse Common Council passed, reducing a proposed $348M budget by $16M. Walsh prioritized protecting public safety funding and revenue-generation initiatives while blocking elimination of a 2% property tax increase and water rate increases. Council has two weeks to override vetoes, needing only six votes, with Walsh signaling willingness to negotiate.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "mayor",
+    "council",
+    "vote",
+    "policy-change",
+    "public-safety",
+    "tax-revenue",
+    "water",
+    "code-enforcement",
+    "permitting",
+    "procedural"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Syracuse Police Department",
+    "Bureau of Administrative Adjudication",
+    "Code Enforcement"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    },
+    {
+      "name": "Ellen Abbott",
+      "type": "person",
+      "canonical_id": "PERSON-ELLEN-ABBOTT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor exercised veto authority to protect public safety and revenue operations against council cost-cutting; explicitly signaled willingness to compromise and negotiate. Council passed cuts unanimously but lacks override supermajority certainty.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00039"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date conflict: headline says May 20, 2025 news conference but publish date is May 19, 2025—likely conference scheduled after publication",
+    "Dollar amounts need unit clarification: $348M (budget), $16M (cuts), $5 (water rate increase per unit/month inferred)",
+    "Key deadline: 14 days for council final action",
+    "Vote math: unanimous passage of amendments (all 9 council members) but only 6 needed to override veto suggests political leverage shift",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.wrvo.org)",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy",
+    "Tag warning: Unknown tag 'procedural' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00039"
+  ],
+  "last_relevance_update": null
+}

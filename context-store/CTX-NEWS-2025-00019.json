@@ -1,0 +1,81 @@
+{
+  "record_id": "CTX-NEWS-2025-00019",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-04-30/city-of-syracuse-cracks-down-further-on-apartment-slumlords-with-nob-hill-its-latest-target",
+  "publication_date": "2025-05-01",
+  "capture_date": "2026-03-22T18:23:12Z",
+  "title": "City of Syracuse cracks down further on apartment slumlords with Nob Hill its latest target",
+  "summary": "Syracuse Mayor Ben Walsh announced court action against Nob Hill Apartments (managed by Mayfair Management Group) for $340,000 in code violations plus $100/day penalties. The 760-unit complex has deteriorated under current ownership, with residents reporting months without hot water, safety issues, and increased crime. This represents the city's second enforcement action this month against slumlord properties, signaling escalated code enforcement strategy.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "code-enforcement",
+    "housing",
+    "complaint",
+    "escalating",
+    "public-safety",
+    "residents",
+    "investigation",
+    "mayor",
+    "intergovernmental"
+  ],
+  "department_refs": [
+    "Office of the Mayor",
+    "Code Enforcement",
+    "Police Department",
+    "Neighborhood Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Mayfair Management Group",
+      "type": "organization",
+      "canonical_id": "ORG-MAYFAIR-MGMT"
+    },
+    {
+      "name": "Clear Investment Group",
+      "type": "organization",
+      "canonical_id": "ORG-CLEAR-INVESTMENT"
+    },
+    {
+      "name": "Joseph Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOSEPH-CECILE"
+    },
+    {
+      "name": "Nob Hill Apartments",
+      "type": "organization",
+      "canonical_id": "ORG-NOB-HILL-APT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Mayor Walsh is publicly championing aggressive code enforcement against negligent property owners as a policy priority and leadership position. Two enforcement actions filed within weeks demonstrate sustained commitment to resident protection and housing quality standards.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references parallel Skyline Apartments case filed earlier in April—pattern suggests systematic enforcement strategy",
+    "Mechanical extraction of $340,000 + $100/day penalties confirmed",
+    "No IT/digital infrastructure implications detected in narrative",
+    "Strong constituent pressure narrative embedded in resident quotes and police confirmation of crime patterns",
+    "State Supreme Court involvement indicates escalation beyond municipal authority",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

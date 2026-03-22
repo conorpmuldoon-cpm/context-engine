@@ -1,0 +1,74 @@
+{
+  "record_id": "CTX-NEWS-2025-00154",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-hosting-two-i-81-open-houses-this-week",
+  "publication_date": "2025-11-12",
+  "capture_date": "2026-03-22T18:50:20Z",
+  "title": "Syracuse hosting two I-81 open houses this week",
+  "summary": "The City of Syracuse is hosting two public open houses (November 12-13, 2025) as part of the Reconnecting Communities Planning Project to gather community feedback on draft street designs for five southside corridors and a proposed Linear Park following the I-81 Viaduct removal. This represents active community engagement on a major infrastructure and neighborhood reconnection initiative.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "initiative-launch",
+    "infrastructure",
+    "land-use",
+    "community-feedback",
+    "capital-planning",
+    "equity",
+    "transportation",
+    "public-engagement"
+  ],
+  "department_refs": [
+    "Department of Neighborhood Services",
+    "Department of Planning and Sustainability"
+  ],
+  "entity_refs": [
+    {
+      "name": "Reconnecting Communities Planning Project",
+      "type": "system",
+      "canonical_id": "PROJ-I81-RECONNECTING-COMMUNITIES"
+    },
+    {
+      "name": "I-81 Viaduct Project",
+      "type": "system",
+      "canonical_id": "PROJ-I81-VIADUCT"
+    },
+    {
+      "name": "Beauchamp Branch Library",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-LIBRARY"
+    },
+    {
+      "name": "Pioneer Homes Coffee Shop",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Public investment in community input and transparency for major infrastructure project addressing equity and neighborhood reconnection on southside corridors.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date metadata shows 2025-11-12 but content references November 11-13 events; treating as future-scheduled event coverage",
+    "No specific budget or dollar amounts mentioned",
+    "Linear Park referenced as 'proposed' between Roesler and Wilson parks—may require GIS/planning cross-reference",
+    "Five southside corridors identified as focus area—aligns with equity/neighborhood revitalization themes",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'community-feedback' not in taxonomy",
+    "Tag warning: Unknown tag 'public-engagement' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

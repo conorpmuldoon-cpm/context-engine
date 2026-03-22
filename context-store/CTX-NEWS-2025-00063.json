@@ -1,0 +1,79 @@
+{
+  "record_id": "CTX-NEWS-2025-00063",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/i-team/report-finds-syracuse-lead-paint-ordinance-may-not-be-preventing-poisoning-cases-in-kids",
+  "publication_date": "2025-06-06",
+  "capture_date": "2026-03-22T18:31:32Z",
+  "title": "Report finds Syracuse lead paint ordinance may not be preventing poisoning cases in kids",
+  "summary": "A report by Families for Lead Freedom Now and Earthjustice finds that Syracuse's 2022 lead paint ordinance, despite generating 7,000+ citations, is not reducing childhood lead poisoning cases. The analysis reveals enforcement gaps including repeated citations on same properties without follow-up and over half of rental properties unregistered. Code Enforcement and Health Department officials maintain the ordinance is still in early stages and expect longer-term data to demonstrate impact.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "lead-remediation",
+    "code-enforcement",
+    "housing",
+    "audit",
+    "investigation",
+    "equity",
+    "escalating",
+    "transparency",
+    "trending",
+    "policy-change"
+  ],
+  "department_refs": [
+    "Code Enforcement",
+    "Onondaga County Health Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jake DiShaw",
+      "type": "person",
+      "canonical_id": "PERSON-JAKE-DISHAW"
+    },
+    {
+      "name": "Oceanna Fair",
+      "type": "person",
+      "canonical_id": "PERSON-OCEANNA-FAIR"
+    },
+    {
+      "name": "Marissa Lieberman-Klein",
+      "type": "person",
+      "canonical_id": "PERSON-MARISSA-LIEBERMAN-KLEIN"
+    },
+    {
+      "name": "Families for Lead Freedom Now",
+      "type": "organization",
+      "canonical_id": "ORG-FAMILIES-FOR-LEAD-FREEDOM-NOW"
+    },
+    {
+      "name": "Earthjustice",
+      "type": "organization",
+      "canonical_id": "ORG-EARTHJUSTICE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "External advocacy organization and legal partner conducting independent audit of ordinance effectiveness; findings contradict city enforcement claims regarding policy impact on public health outcomes",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article from June 2025 - future date suggests hypothetical scenario",
+    "Mechanical extraction error: Law Department not mentioned in article; correction: Code Enforcement is primary department",
+    "Report title 'Falling through the Cracks' should be tracked as key deliverable",
+    "Public records requests methodology noted - may indicate broader data governance/transparency issue",
+    "Rental registry gaps (>50% unregistered) represent significant data infrastructure/GIS mapping opportunity for CIO",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,79 @@
+{
+  "record_id": "CTX-NEWS-2025-00125",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/candidates-speak-on-slave-owner-comment-made-by-fellow-candidate-fired-city-employee",
+  "publication_date": "2025-08-26",
+  "capture_date": "2026-03-22T18:44:13Z",
+  "title": "Candidates speak on 'slave owner' comment made by fellow candidate, fired city employee",
+  "summary": "Tim Rudd, a fired City Hall budget director and mayoral candidate, faced public scrutiny over January comments calling Deputy Mayor Sharon Owens a 'slave owner' used to control the city. At a campaign press conference, Rudd declined to address the remarks directly, instead focusing on his nine-point plan. Other candidates and the Democratic Party responded with condemnation; an Independent candidate defended Rudd's underlying critique of Mayor Walsh's governance.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "mayor",
+    "council",
+    "leadership-change",
+    "controversy",
+    "election",
+    "PROVISIONAL:personnel-conduct",
+    "PROVISIONAL:campaign-politics"
+  ],
+  "department_refs": [
+    "Mayor's Office",
+    "Office of the City Clerk"
+  ],
+  "entity_refs": [
+    {
+      "name": "Tim Rudd",
+      "type": "person",
+      "canonical_id": "PERSON-TIM-RUDD"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Alphonso Davis",
+      "type": "person",
+      "canonical_id": "PERSON-ALPHONSO-DAVIS"
+    },
+    {
+      "name": "Tom Babilon",
+      "type": "person",
+      "canonical_id": "PERSON-TOM-BABILON"
+    },
+    {
+      "name": "Onondaga County Democratic Committee",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-DEMS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Mayoral campaign controversy over offensive comments by candidate and fired city employee; Democratic Party demands apology and retracts support; Republican candidate attempts to contextualize severity of incident; independent candidate uses moment to critique incumbent mayor's governance.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is campaign/political news rather than operational city government issue; relevance to CIO limited unless connected to internal communications or HR systems; sponsored content section truncated and excluded from analysis; no direct technology or innovation policy angles identified",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'controversy' not in taxonomy",
+    "Tag warning: Unknown tag 'election' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

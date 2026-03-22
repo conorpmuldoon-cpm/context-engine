@@ -1,0 +1,69 @@
+{
+  "record_id": "CTX-NEWS-2025-00068",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/shootings-are-up-46-in-syracuse-from-this-time-last-year-data-shows-upper-onondaga-park-pool-shot-crime-criminal-wstm-wtch-police-department-guns",
+  "publication_date": "2025-06-25",
+  "capture_date": "2026-03-22T18:32:25Z",
+  "title": "Shootings are up in Syracuse from last year, Community speaks on child-involved violence",
+  "summary": "Syracuse experienced a 46% increase in shooting incidents compared to June 2024, with four children shot in less than 24 hours including one fatality at Upper Onondaga Park Pool. The Mayor's Office to Reduce Gun Violence, led by Director Lateef Johnson-Kinsey since 2022, reports progress through intervention and credible messenger programs, though year-over-year homicides are down (9 vs 11 deaths). Community anxiety is rising as residents, particularly youth, express fear about summer activities and public safety.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "public-safety-commission",
+    "emergency-services",
+    "initiative-launch",
+    "trending",
+    "escalating",
+    "equity",
+    "residents",
+    "intervention"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Mayor's Office to Reduce Gun Violence"
+  ],
+  "entity_refs": [
+    {
+      "name": "Lateef Johnson-Kinsey",
+      "type": "person",
+      "canonical_id": "PERSON-LATEEF-JOHNSON-KINSEY"
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    },
+    {
+      "name": "Mayor's Office to Reduce Gun Violence",
+      "type": "organization",
+      "canonical_id": "ORG-MORGV"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Community fear and youth avoidance of public spaces indicates erosion of public confidence in safety; constituent anxiety driving behavioral changes (avoiding pools, crowds). Escalating incidents amplify pressure on city leadership despite claimed programmatic success.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on gun violence prevention strategy effectiveness vs. recent spike; CIO relevance centers on data analytics (crime data tracking, comparative metrics) and potential technology solutions for public safety intervention programs",
+    "Director Johnson-Kinsey's 2022 office creation suggests prior CIO involvement in initiative launch; recommend cross-reference with innovation office records",
+    "Youth behavioral shift (avoiding outdoor activities) indicates downstream impacts on parks, recreation, summer programming—potential service disruption risk",
+    "No budget figures provided; recommend follow-up on MORGV funding/resource allocation",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'intervention' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

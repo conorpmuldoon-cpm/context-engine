@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-NEWS-2025-00146",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.wrvo.org/2025-10-28/syracuse-launches-amnesty-program-for-unpaid-parking-tickets",
+  "publication_date": "2025-10-28",
+  "capture_date": "2026-03-22T18:48:52Z",
+  "title": "Syracuse launches amnesty program for unpaid parking tickets",
+  "summary": "Syracuse Common Council approved a parking ticket amnesty program for November 2025 that waives late fees on delinquent parking tickets, allowing residents to pay original ticket amounts plus state surcharges. The city expects to recover approximately $1 million in revenue while providing financial relief to residents facing economic hardship. The program expands on a previous 18-day proposal to cover the entire month, with payment available in-person or online.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "initiative-launch",
+    "policy-change",
+    "tax-revenue",
+    "residents",
+    "equity",
+    "one-time",
+    "vote",
+    "code-enforcement",
+    "digital-services"
+  ],
+  "department_refs": [
+    "Department of Code Enforcement",
+    "Office of the Mayor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jimmy Monto",
+      "type": "person",
+      "canonical_id": "PERSON-JIMMY-MONTO"
+    },
+    {
+      "name": "Walsh administration",
+      "type": "organization",
+      "canonical_id": "ORG-WALSH-ADMIN"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Council member frames amnesty program as equity initiative addressing constituent financial hardship during economic stress; positions as relief measure alongside benefit reductions and inflation concerns.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts extracted: $1M (prior amnesty revenue), $5.3M (current late fees), $6M (delinquent principal). All figures validated from content.",
+    "Program timing (November 2025) is significant for holiday season messaging and may indicate seasonal revenue strategy.",
+    "Digital payment capability mentioned; IT-infrastructure and digital-services tags applicable if CIO oversees online portal systems.",
+    "No specific CIO department involvement detected, but online payment portal infrastructure may be relevant to digital services modernization.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.wrvo.org)"
+  ],
+  "last_relevance_update": null
+}

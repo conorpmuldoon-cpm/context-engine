@@ -1,0 +1,81 @@
+{
+  "record_id": "CTX-NEWS-2025-00002",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/2025-04-09/mayors-budget-plan-includes-tax-hike-for-syracuse-residents-investment-in-city-resources",
+  "publication_date": "2025-04-09",
+  "capture_date": "2026-03-22T18:19:27Z",
+  "title": "Mayor's budget plan includes tax hike for Syracuse residents, investment in city resources",
+  "summary": "Mayor Walsh's FY2026 budget proposal includes a 2% property tax increase ($57 per $100k assessed home) to raise $6.6M, plus a $27M draw from the $120M rainy day fund, to address rising mandatory costs and declining sales tax revenue in the $348M spending plan. The budget prioritizes infrastructure (27 miles road reconstruction, 6 miles sidewalk work), public safety (Fire Station 12 reopening, new police/fire academies, SPD drone program), workforce development (800 summer jobs), and strategic planning (Comprehensive Plan 2050), with notable IT/digital services reorganization and GIS expansion initiatives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "tax-revenue",
+    "mayor",
+    "capital-planning",
+    "roads-bridges",
+    "fire",
+    "police",
+    "workforce-development",
+    "digital-services",
+    "GIS",
+    "housing",
+    "code-enforcement",
+    "parks",
+    "emergency-services",
+    "infrastructure",
+    "economic-development",
+    "intergovernmental",
+    "vision-zero"
+  ],
+  "department_refs": [
+    "Department of Public Works and Parks",
+    "Syracuse Police Department",
+    "Syracuse Fire Department",
+    "Department of Permits and Development",
+    "Department of Information Technology",
+    "Office of Analytics, Performance & Innovation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    },
+    {
+      "name": "Syracuse Housing Strategies Corporation",
+      "type": "organization",
+      "canonical_id": "ORG-HOUSING-STRATEGIES"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Mayor framing tax increase as necessary trade-off for service delivery; emphasis on strategic investments (Comprehensive Plan 2050, GIS modernization, workforce development, fire/police capacity) signals administrative commitment to innovation and equity priorities despite revenue constraints.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts require normalization: $348M (budget total), $6.6M (tax increase revenue), $27M (rainy day fund draw), $120M (rainy day fund balance), $1M (Housing Strategies allocation). Confidence in entity extraction: Walsh clearly identified; council and housing corporation inferred from context.",
+    "CIO relevance: IT reorganization and GIS expansion are direct innovation/digital services priorities; drone first responder program represents emerging tech adoption; school zone automated enforcement shows smart city application.",
+    "Article truncated at improvements section; full budget highlights partially captured but incomplete.",
+    "Revenue vulnerability flagged: sales tax uncertainty due to tariffs; state aid formula static 15+ years; no federal pandemic relief continuation.",
+    "Council approval deadline: May 8, 2025.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

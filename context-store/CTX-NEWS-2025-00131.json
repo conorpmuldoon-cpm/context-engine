@@ -1,0 +1,81 @@
+{
+  "record_id": "CTX-NEWS-2025-00131",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-10-02/new-syracuse-school-zone-cameras-catch-nearly-60-000-speeders-in-just-two-weeks",
+  "publication_date": "2025-10-02",
+  "capture_date": "2026-03-22T18:45:33Z",
+  "title": "New Syracuse school zone cameras catch nearly 60,000 speeders in just two weeks",
+  "summary": "Syracuse deployed school zone speed enforcement cameras that issued nearly 60,000 warning letters in two weeks, with actual fines ($50) beginning November 3rd. The initiative detected one driver at 78 mph near Lincoln Middle School and 430 red-light violations city-wide, targeting behavior change in high-violation zones like S. Geddes St. near Fowler High School. Mayor Walsh and police leadership framed the program as child safety-focused rather than punitive.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "vision-zero",
+    "traffic-safety",
+    "code-enforcement",
+    "public-safety-commission",
+    "policy-change",
+    "initiative-launch",
+    "crime-data",
+    "PROVISIONAL:school-safety",
+    "transparency"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Syracuse City School District"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Richard Shoff",
+      "type": "person",
+      "canonical_id": "PERSON-RICHARD-SHOFF"
+    },
+    {
+      "name": "Jimmy Monto",
+      "type": "person",
+      "canonical_id": "PERSON-JIMMY-MONTO"
+    },
+    {
+      "name": "Alexander Marion",
+      "type": "person",
+      "canonical_id": "PERSON-ALEXANDER-MARION"
+    },
+    {
+      "name": "Robert DiFlorio",
+      "type": "person",
+      "canonical_id": "PERSON-ROBERT-DIFLORIO"
+    },
+    {
+      "name": "Connor Muldoon",
+      "type": "person",
+      "canonical_id": "PERSON-CONNOR-MULDOON"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor and police leadership publicly champion automated enforcement as child safety infrastructure; grace period messaging emphasizes behavior change over revenue generation.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references 5 school zones with violation data but names only 2 (Lincoln Middle/James St., Fowler High/S. Geddes St.); GIS/data-governance implications for camera deployment and violation mapping; technology procurement and IT infrastructure questions regarding camera system provider and data management not addressed in article",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)",
+    "Tag warning: Unknown tag 'traffic-safety' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

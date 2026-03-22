@@ -1,0 +1,77 @@
+{
+  "record_id": "CTX-NEWS-2025-00077",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-07-10/ikea-could-boost-struggling-destiny-usa-connect-nearby-attractions",
+  "publication_date": "2025-07-10",
+  "capture_date": "2026-03-22T18:34:12Z",
+  "title": "IKEA could boost struggling Destiny USA, connect nearby attractions",
+  "summary": "IKEA will open its first Upstate New York store in the former At Home space at Destiny USA mall, positioning the Swedish retailer as a major anchor tenant to stabilize the struggling shopping center. City leadership views the move as catalytic for regional economic development, strengthened by proximity to the Micron project, Inner Harbor, and CNY Regional Market. The store is expected to open later in 2025 and drive foot traffic to neighboring tenants and adjacent high-traffic areas.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "business-community",
+    "announcement",
+    "initiative-launch",
+    "land-use",
+    "zoning",
+    "PROVISIONAL:retail-anchor",
+    "PROVISIONAL:destination-marketing"
+  ],
+  "department_refs": [
+    "Department of Permits and Development",
+    "Office of the Chief Innovation Officer"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Bianca Hill",
+      "type": "person",
+      "canonical_id": "PERSON-BIANCA-HILL"
+    },
+    {
+      "name": "IKEA",
+      "type": "organization",
+      "canonical_id": "ORG-IKEA"
+    },
+    {
+      "name": "Destiny USA",
+      "type": "organization",
+      "canonical_id": "ORG-DESTINY-USA"
+    },
+    {
+      "name": "Micron",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor and business development leadership actively championed IKEA recruitment as strategic anchor investment; signals strong mayoral backing for retail-driven economic stabilization strategy and regional connectivity.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article does not specify opening date beyond 'later this year' (2025); may require follow-up for CIP scheduling",
+    "No financial incentive amounts mentioned; recommend verification with Department of Permits and Development regarding tax breaks or abatements",
+    "Destiny USA declined interview; recommend separate outreach for capital planning impact and mall restructuring timeline",
+    "Micron project cited as material factor in site selection; cross-reference with economic development impact modeling",
+    "Inner Harbor and CNY Regional Market connectivity mentioned as strategic assets; may warrant interdepartmental coordination on parking, transit, and wayfinding",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2025-00088",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/eastwood-heights-renovation-hits-another-snag-third-deal-kicked-back-to-city-council",
+  "publication_date": "2025-07-18",
+  "capture_date": "2026-03-22T18:36:26Z",
+  "title": "Eastwood Heights renovation hits another snag, third deal kicked back to city council",
+  "summary": "A reader comment expresses skepticism about delays in the Eastwood Heights renovation project, which has been returned to city council for the third time. The commenter suggests the repeated postponements may be intentional to allow the property to change hands for more profitable development once residents relocate.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "land-use",
+    "escalating",
+    "constituent-complaints",
+    "equity",
+    "council",
+    "PROVISIONAL:community-skepticism"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Eastwood Heights",
+      "type": "system",
+      "canonical_id": "PROJ-EASTWOOD-HEIGHTS"
+    },
+    {
+      "name": "Mary Kielar",
+      "type": "person",
+      "canonical_id": "PERSON-MARY-KIELAR"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Reader expressing frustration with project delays and alleging potential bad faith by city leadership regarding disposition of neighborhood property; suggests equity concerns around gentrification and resident displacement.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Source is user comment rather than news article body; limited substantive information about the actual project setback or technical reasons for council resubmission",
+    "No specific department, dollar amounts, or named officials mentioned in extracted content",
+    "Comment reflects broader community sentiment that warrants CIO attention for transparency/communication gaps on project status",
+    "Recommend cross-referencing with official city council meeting minutes and Eastwood Heights project documentation for factual project status",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

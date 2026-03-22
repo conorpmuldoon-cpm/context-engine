@@ -1,0 +1,83 @@
+{
+  "record_id": "CTX-NEWS-2025-00009",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/i-team-obtains-email-thread-between-sha-city-hall-and-developer-for-east-adams-project",
+  "publication_date": "2025-04-18",
+  "capture_date": "2026-03-22T18:21:12Z",
+  "title": "I-Team obtains email thread between SHA, city hall and developer for East Adams project",
+  "summary": "The Syracuse Housing Authority failed to vote on a $2M city funding agreement for environmental work on the East Adams housing project after commissioners claimed they hadn't reviewed the resolution beforehand. However, obtained emails reveal SHA leadership and counsel were involved in all negotiations. City lawyer Susan Katzoff expressed serious concern that SHA's board action jeopardizes a $30M RCN funding deadline dependent on NEPA completion.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "infrastructure",
+    "federal-programs",
+    "procurement",
+    "investigation",
+    "transparency",
+    "escalating",
+    "intergovernmental",
+    "capital-planning",
+    "PROVISIONAL:governance-oversight"
+  ],
+  "department_refs": [
+    "Law Department",
+    "Mayor's Office",
+    "Syracuse Housing Authority"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Housing Authority",
+      "type": "organization",
+      "canonical_id": "ORG-SHA"
+    },
+    {
+      "name": "Susan Katzoff",
+      "type": "person",
+      "canonical_id": "PERSON-SUSAN-KATZOFF"
+    },
+    {
+      "name": "Bill Simmons",
+      "type": "person",
+      "canonical_id": "PERSON-BILL-SIMMONS"
+    },
+    {
+      "name": "Brad Hunt",
+      "type": "person",
+      "canonical_id": "PERSON-BRAD-HUNT"
+    },
+    {
+      "name": "McCormack Baron Salazar",
+      "type": "organization",
+      "canonical_id": "ORG-MBS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "I-Team investigative reporting exposing governance failures and miscommunication at SHA board level; potential federal funding at risk due to project delays and board dysfunction.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00008"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts need precision: $2 million for environmental work, $30 million RCN federal funding at risk",
+    "Key timeline: Special SHA board meeting April 7, 2025; email sent by Katzoff same day",
+    "NEPA (National Environmental Policy Act) completion is critical path blocker for federal funds",
+    "Conflict between SHA Executive Director's claims of non-involvement and email evidence of full participation",
+    "Consider cross-referencing with East Adams Neighborhood project records and RCN federal grant documentation",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Potential duplicate of CTX-NEWS-2025-00008"
+  ],
+  "last_relevance_update": null
+}

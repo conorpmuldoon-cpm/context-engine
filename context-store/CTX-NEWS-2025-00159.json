@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-NEWS-2025-00159",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-12-08/syracuse-police-oversight-board-regains-momentum-under-leadership",
+  "publication_date": "2025-12-08",
+  "capture_date": "2026-03-22T18:51:19Z",
+  "title": "Syracuse police oversight board regains momentum under new leadership",
+  "summary": "Syracuse's Citizen Review Board has regained operational momentum under new administrator Nolita Tanyhill (hired May 2025) and chair Don Johnson, working through backlogged complaints and addressing cases that exceeded the 18-month statute of limitations. The board is expanding community engagement on police interaction protocols while Council public safety chair Chol Majok signals openness to legislative updates, though historically council and police have resisted expanding CRB investigative authority.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "complaint",
+    "constituent-complaints",
+    "public-safety-commission",
+    "investigation",
+    "leadership-change",
+    "transparency",
+    "training",
+    "legislation",
+    "policy-change",
+    "equity"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Citizen Review Board"
+  ],
+  "entity_refs": [
+    {
+      "name": "Don Johnson",
+      "type": "person",
+      "canonical_id": "PERSON-DON-JOHNSON"
+    },
+    {
+      "name": "Nolita Tanyhill",
+      "type": "person",
+      "canonical_id": "PERSON-NOLITA-TANYHILL"
+    },
+    {
+      "name": "Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-CHOL-MAJOK"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Public safety committee chair signaling receptiveness to legislative reforms that could expand CRB authority, representing potential shift from historical council/police resistance to oversight expansion.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Citizen Review Board is oversight agency but not a formal city department; listed as department reference for context",
+    "Article emphasizes procedural improvements and community engagement rather than specific policy changes",
+    "Political signal is cautious—council chair expressed openness but stopped short of commitment; historical pattern of resistance remains significant context",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

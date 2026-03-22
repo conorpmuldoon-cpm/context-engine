@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-NEWS-2025-00117",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-mural-project-aims-to-enhance-safety-and-community-spirit",
+  "publication_date": "2025-09-17",
+  "capture_date": "2026-03-22T18:42:30Z",
+  "title": "Syracuse mural project aims to enhance safety and community spirit",
+  "summary": "The City of Syracuse is implementing a mural project on the Southside at Taylor and State Street to enhance community aesthetics and pedestrian safety in advance of the I-81 viaduct removal. The initiative, led by the I-81 Project Director, includes monthly maintenance and serves as a demonstration of how tactical interventions can improve multimodal connectivity and neighborhood livability.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "initiative-launch",
+    "public-safety-commission",
+    "neighborhood-services",
+    "transportation",
+    "capital-planning",
+    "micromobility",
+    "vision-zero",
+    "equity"
+  ],
+  "department_refs": [
+    "Office of the Chief Innovation Officer",
+    "Department of Transportation",
+    "Parks and Recreation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Joe Driscoll",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-DRISCOLL"
+    },
+    {
+      "name": "I-81 Project",
+      "type": "system",
+      "canonical_id": "SYS-I81-PROJECT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Administration demonstrates commitment to neighborhood-scale safety and livability improvements linked to major infrastructure project (viaduct removal). Tactical urbanism approach signals innovation-forward approach to community engagement and multimodal transportation.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date discrepancy: headline shows 2025-09-17, byline shows 2025-09-16; treating as September 2025",
+    "No budget figures mentioned; described as volunteer effort with city maintenance commitment (resource allocation not quantified)",
+    "Project framed as 1-year pilot/demonstration; connection to broader I-81 corridor planning and multimodal connectivity strategy evident",
+    "Strong equity signal: explicit commitment to ensuring 'all communities have safer and more beautiful streets'",
+    "Recommend tracking maintenance commitment costs and community feedback mechanisms",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

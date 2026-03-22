@@ -1,0 +1,86 @@
+{
+  "record_id": "CTX-NEWS-2025-00078",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/local-news/2025-07-09/syracuse-expands-surge-link-broadband-to-more-underserved-neighborhoods",
+  "publication_date": "2025-07-09",
+  "capture_date": "2026-03-22T18:34:35Z",
+  "title": "Syracuse expands Surge Link broadband to more underserved neighborhoods",
+  "summary": "Syracuse is expanding Surge Link, its municipal broadband service, to 9,200+ additional households in underserved neighborhoods (Valley, Skunk City, Washington Square, Northside, Prospect Hill, Hawley-Green) through a $15M fixed-wireless infrastructure investment supported by a $10.8M ConnectALL grant from Governor Hochul. The service offers 100 Mbps at $14.99/month (low-income) or $36.99/month with no contracts, caps, or rental fees, positioning digital equity as essential infrastructure for education, healthcare, and economic opportunity.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "initiative-launch",
+    "IT-infrastructure",
+    "digital-services",
+    "equity",
+    "grants",
+    "federal-programs",
+    "economic-development",
+    "residents",
+    "infrastructure",
+    "accessibility",
+    "announcement"
+  ],
+  "department_refs": [
+    "Mayor's Office",
+    "Department of Information Technology",
+    "Chief Innovation Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Kathy Hochul",
+      "type": "person",
+      "canonical_id": "PERSON-KATHY-HOCHUL"
+    },
+    {
+      "name": "James Orioli",
+      "type": "person",
+      "canonical_id": "PERSON-JAMES-ORIOLI"
+    },
+    {
+      "name": "Surge Link",
+      "type": "system",
+      "canonical_id": "SYS-SURGE-LINK"
+    },
+    {
+      "name": "Community Broadband Networks",
+      "type": "organization",
+      "canonical_id": "ORG-CBN"
+    },
+    {
+      "name": "ConnectALL Initiative",
+      "type": "organization",
+      "canonical_id": "ORG-CONNECTALL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor publicly framing broadband access as essential infrastructure (not luxury); significant state partnership ($10.8M grant) signals alignment with NY ConnectALL priorities; municipal service model positions equity and affordability as policy goals.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts validated: $15M total project investment, $10.8M state grant confirmed; monthly pricing ($14.99 low-income, $36.99 standard) extracted",
+    "Six neighborhoods explicitly named as expansion targets for CIO neighborhood-level context",
+    "Service partner (Community Broadband Networks) identified for procurement/contract context",
+    "Governor Hochul credit suggests intergovernmental coordination opportunity",
+    "No departmental attribution in article—recommend confirmation of lead department (likely CIO or equivalent innovation/digital services function)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

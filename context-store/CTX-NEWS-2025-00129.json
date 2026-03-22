@@ -1,0 +1,86 @@
+{
+  "record_id": "CTX-NEWS-2025-00129",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/i-team/syracuse-council-scrutinizes-900k-request-for-consultant-in-payroll-project",
+  "publication_date": "2025-09-24",
+  "capture_date": "2026-03-22T18:45:12Z",
+  "title": "Syracuse council scrutinizes $900K request for consultant in payroll project",
+  "summary": "Syracuse Common Council scrutinized a $900,000 request to hire Mosaic Consulting Group (Nashville-based) to implement UKG payroll software, with annual operating costs of ~$750,000. Finance Commissioner acknowledged prior external consultant spending was excessive. Project approval likely, but implementation will occur under next administration as Mayor Walsh's term ends December 2025.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "payroll",
+    "software-systems",
+    "procurement",
+    "budget",
+    "contract-award",
+    "council",
+    "transparency",
+    "IT-infrastructure"
+  ],
+  "department_refs": [
+    "Department of Finance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Mosaic Consulting Group",
+      "type": "organization",
+      "canonical_id": "ORG-MOSAIC-CONSULTING"
+    },
+    {
+      "name": "UKG Software",
+      "type": "system",
+      "canonical_id": "SYS-UKG"
+    },
+    {
+      "name": "Mike Cannizzaro",
+      "type": "person",
+      "canonical_id": "PERSON-MIKE-CANNIZZARO"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYR-COUNCIL"
+    },
+    {
+      "name": "ATZ Solution LLC",
+      "type": "organization",
+      "canonical_id": "ORG-ATZ-SOLUTION"
+    },
+    {
+      "name": "Consultadd Inc.",
+      "type": "organization",
+      "canonical_id": "ORG-CONSULTADD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council exercising oversight on high-cost external consulting; Finance Commissioner acknowledging cost control failures in prior phases. Delayed implementation timeline creates transition risk and accountability questions.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date 2025-09-24 is future-dated; verify publication authenticity",
+    "No local vendor bids received despite RFP—procurement equity concern flagged implicitly",
+    "5-year project history suggests recurring cost/scope management issues; recommend linking to prior audit records",
+    "Mayor term-end timing (Dec 2025) creates execution and political accountability gap",
+    "Annual recurring cost ($750K) nearly equals one-time consultant fee—lifecycle cost implications significant for CIO planning",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

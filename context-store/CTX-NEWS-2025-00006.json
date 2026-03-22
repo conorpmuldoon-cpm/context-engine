@@ -1,0 +1,113 @@
+{
+  "record_id": "CTX-NEWS-2025-00006",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-common-council-questions-walsh-administration-over-unfinished-it-project",
+  "publication_date": "2025-04-15",
+  "capture_date": "2026-03-22T18:20:40Z",
+  "title": "Syracuse Common Council questions Walsh administration over unfinished IT project",
+  "summary": "Syracuse Common Council scrutinized a $8.1M Payroll Modernization IT project that remains incomplete since 2020. The Walsh administration scaled down the original four-phase initiative to focus on timekeeping functionality. Council members expressed concerns about value delivery, questioned procurement practices involving waivers and external consultants, and demanded greater accountability for future project phases. The NY State Attorney General is investigating the project.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "IT-infrastructure",
+    "software-systems",
+    "payroll",
+    "procurement",
+    "audit",
+    "investigation",
+    "budget",
+    "council",
+    "escalating",
+    "transparency",
+    "contract-award"
+  ],
+  "department_refs": [
+    "Department of Finance",
+    "Department of Information Technology",
+    "Office of Analytics, Performance and Innovation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael Cannizzaro",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-CANNIZZARO"
+    },
+    {
+      "name": "Corey Dunham",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-DUNHAM"
+    },
+    {
+      "name": "Nicolas Diaz",
+      "type": "person",
+      "canonical_id": "PERSON-NICOLAS-DIAZ"
+    },
+    {
+      "name": "Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-CHOL-MAJOK"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Rita Paniagua",
+      "type": "person",
+      "canonical_id": "PERSON-RITA-PANIAGUA"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Advanced IT",
+      "type": "organization",
+      "canonical_id": "ORG-ADVANCED-IT"
+    },
+    {
+      "name": "Ernst and Young",
+      "type": "organization",
+      "canonical_id": "ORG-ERNST-YOUNG"
+    },
+    {
+      "name": "Oracle Fusion",
+      "type": "system",
+      "canonical_id": "SYS-ORACLE-FUSION"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Common Council exercising oversight authority on delayed, over-budget IT project with procurement irregularities. Council members signaling tighter controls on future approvals and questioning value delivery of $8.1M spend since 2020.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date in metadata shows 2025-04-15 but byline shows 2025-04-14 at 9:35 PM; used earlier date as published",
+    "Dollar amount extracted as $8.1M not $8",
+    "Multiple council members quoted indicating broad institutional concern",
+    "External investigation by NY State Attorney General adds severity",
+    "CAO Corey Dunham recently appointed; this is early accountability test",
+    "Procurement irregularities (waivers, pass-through arrangements) are significant governance concern for CIO review",
+    "Original four-phase HCM project scope significantly narrowed to timekeeping only",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

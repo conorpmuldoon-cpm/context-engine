@@ -1,0 +1,79 @@
+{
+  "record_id": "CTX-NEWS-2025-00080",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.wrvo.org/2025-07-08/city-of-syracuse-considers-adding-electric-vehicle-chargers",
+  "publication_date": "2025-07-08",
+  "capture_date": "2026-03-22T18:35:03Z",
+  "title": "City of Syracuse considers adding electric vehicle chargers",
+  "summary": "Syracuse Public Works Committee is exploring municipal electric vehicle charging infrastructure. City staff presented three state funding programs (NYSERDA Charge Ready, National Grid Make Ready, NY DEC ZEV program) to support installation of 16 chargers across three city garages. Council members expressed interest in pursuing funding sources, with further research and meetings planned before implementation decisions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "sustainability",
+    "transportation",
+    "infrastructure",
+    "grants",
+    "capital-planning",
+    "initiative-launch",
+    "council",
+    "state-agency"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Office of Sustainability"
+  ],
+  "entity_refs": [
+    {
+      "name": "Owen Kerney",
+      "type": "person",
+      "canonical_id": "PERSON-OWEN-KERNEY",
+      "title": "Deputy Commissioner of Planning and Sustainability"
+    },
+    {
+      "name": "Amir Gethers",
+      "type": "person",
+      "canonical_id": "PERSON-AMIR-GETHERS",
+      "title": "Councilor At-Large"
+    },
+    {
+      "name": "National Grid",
+      "type": "organization",
+      "canonical_id": "ORG-NATIONAL-GRID"
+    },
+    {
+      "name": "NYSERDA",
+      "type": "organization",
+      "canonical_id": "ORG-NYSERDA"
+    },
+    {
+      "name": "New York State Department of Environmental Conservation",
+      "type": "organization",
+      "canonical_id": "ORG-NY-DEC"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "City council demonstrating support for municipal sustainability initiative with interest in leveraging available state/utility funding mechanisms. Procedural approach suggests deliberate planning phase before commitment.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No budget amounts specified in article",
+    "Proposed scope: 16 total chargers across 3 municipal garages (Washington St., Madison Irving, Fayette St.)",
+    "Context: 1,200+ private chargers already exist in Syracuse; this would add first municipally-owned infrastructure",
+    "Next steps pending: additional staff research and council meetings",
+    "Multiple funding sources identified—integration with capital planning and grants procurement workflows recommended",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.wrvo.org)"
+  ],
+  "last_relevance_update": null
+}

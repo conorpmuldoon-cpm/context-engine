@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2025-00090",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/brooklyn-pickle-owner-says-new-marshall-st-location-could-open-in-august",
+  "publication_date": "2025-07-17",
+  "capture_date": "2026-03-22T18:37:01Z",
+  "title": "Brooklyn Pickle Owner says new Marshall St. location could open in August",
+  "summary": "Brooklyn Pickle, a local Syracuse sandwich shop celebrating its 50th anniversary, announced plans to open a new location on Marshall Street at Syracuse University, potentially in August 2025. This expansion represents continued business growth for the established local brand, which has recently opened locations in Utica and North Carolina.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "business-community",
+    "economic-development",
+    "announcement",
+    "PROVISIONAL:local-business-expansion"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Brooklyn Pickle",
+      "type": "organization",
+      "canonical_id": "ORG-BROOKLYN-PICKLE"
+    },
+    {
+      "name": "Craig Kowadla",
+      "type": "person",
+      "canonical_id": "PERSON-CRAIG-KOWADLA"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Local business expansion on university property signals economic vitality and institutional partnership alignment with downtown/campus development priorities.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on private business expansion rather than municipal policy or operations",
+    "No direct CIO relevance detected; included for economic-development context and potential future campus/downtown digital infrastructure needs",
+    "Marshall Street location may have implications for campus/university IT coordination if CIO office engages in intergovernmental planning",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

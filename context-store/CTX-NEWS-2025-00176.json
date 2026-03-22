@@ -1,0 +1,74 @@
+{
+  "record_id": "CTX-NEWS-2025-00176",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2025/03/state-senator-city-auditor-ny-aid-to-cities-isnt-keeping-up-your-letters.html",
+  "publication_date": "2025-03-31",
+  "capture_date": "2026-03-22T19:40:43Z",
+  "title": "State senator, city auditor: NY aid to cities isn’t keeping up (Your Letters)",
+  "summary": "State Senator Christopher J. Ryan and City Auditor Alexander Marion advocate for a state commission to redesign New York's municipal aid formula (AIM), which has been frozen since 2012. Syracuse relies heavily on state aid as its second-largest revenue source, but cost inflation in salaries, benefits, and infrastructure has outpaced frozen funding, creating fiscal sustainability concerns across upstate cities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "state-mandates",
+    "state-agency",
+    "intergovernmental",
+    "tax-revenue",
+    "infrastructure",
+    "labor-relations",
+    "policy-change",
+    "legislation",
+    "advocacy"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Christopher J. Ryan",
+      "type": "person",
+      "canonical_id": "PERSON-CHRISTOPHER-RYAN"
+    },
+    {
+      "name": "Alexander Marion",
+      "type": "person",
+      "canonical_id": "PERSON-ALEXANDER-MARION"
+    },
+    {
+      "name": "New York State Senate",
+      "type": "organization",
+      "canonical_id": "ORG-NY-SENATE"
+    },
+    {
+      "name": "Aid and Incentives for Municipalities (AIM)",
+      "type": "system",
+      "canonical_id": "SYS-AIM"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Advocacy from state senator (Chair of Cities 2 Committee) and city auditor for legislative action to establish commission redesigning municipal aid formula; framed as necessary intervention to prevent fiscal cliff and sustain city services.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts: $50 million (state infusion), $5 million (Syracuse portion), $13.5 million (unrelated opinion piece) — only first two relevant to article",
+    "AIM freeze occurred in 2012 under Gov. Cuomo; modest $50M infusion in prior year under Gov. Hochul represents partial thaw",
+    "Key CIO concerns: state aid dependency, infrastructure cost inflation, cybersecurity challenges, tax-exempt property growth (hospitals/universities)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

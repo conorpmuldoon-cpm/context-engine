@@ -1,0 +1,98 @@
+{
+  "record_id": "CTX-NEWS-2025-00123",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-08-28/hundreds-of-tenants-wait-yet-again-for-a-hearing-to-hold-notorious-nob-hill-apartment-owners-accountable",
+  "publication_date": "2025-08-28",
+  "capture_date": "2026-03-22T18:43:51Z",
+  "title": "Hundreds of tenants wait, yet again, for a hearing to hold notorious Nob Hill Apartment owners accountable",
+  "summary": "Over 200 tenants at Nob Hill Apartments in Syracuse are experiencing unsafe living conditions including non-functional elevators, lack of hot water, and unrepaired damage. A city housing court hearing against the apartment owners has been postponed five times, leaving residents in a legal and contractual bind. Mayor Ben Walsh filed a State Supreme Court complaint in April against Nob Hill Apartment Group and its partners; tenants are demanding repairs by October 1 and a rent increase freeze.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "complaint",
+    "code-enforcement",
+    "mayor",
+    "residents",
+    "equity",
+    "escalating",
+    "investigation",
+    "constituent-complaints",
+    "accessibility",
+    "facilities"
+  ],
+  "department_refs": [
+    "Office of the Mayor",
+    "Syracuse Housing Court",
+    "Department of Neighborhood and Business Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Nob Hill Apartment Group, LLC",
+      "type": "organization",
+      "canonical_id": "ORG-NOHILLAPTGROUP"
+    },
+    {
+      "name": "Sinatra & Company Real Estate",
+      "type": "organization",
+      "canonical_id": "ORG-SINATRA-REALESTATE"
+    },
+    {
+      "name": "Windsor Capital Group",
+      "type": "organization",
+      "canonical_id": "ORG-WINDSORCP"
+    },
+    {
+      "name": "Basalt Capital LLC",
+      "type": "organization",
+      "canonical_id": "ORG-BASALTCAP"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Kona Lisa Mahu",
+      "type": "person",
+      "canonical_id": "PERSON-KONA-MAHU"
+    },
+    {
+      "name": "Tieasha Muhammad",
+      "type": "person",
+      "canonical_id": "PERSON-TIEASHA-MUHAMMAD"
+    },
+    {
+      "name": "Nob Hill Tenants Association",
+      "type": "organization",
+      "canonical_id": "ORG-NOHILLTENANT-ASSOC"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Grassroots tenant organization mobilizing 200+ residents with petitions and courthouse demonstrations; repeated court postponements amplifying public frustration and media coverage of housing code violations.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00116"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on tenant advocacy and municipal enforcement delays; potential process improvement opportunity in housing court scheduling/expediting cases.",
+    "Mayor's April 2025 complaint suggests ongoing CIO relevance for tracking case resolution and data systems supporting housing inspections/complaints.",
+    "Accessibility angle: tenant with Lupus unable to use elevators—intersects with ADA/accessibility policy.",
+    "Section 8 involvement indicates federal housing program interaction requiring cross-agency coordination.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)",
+    "Potential duplicate of CTX-NEWS-2025-00116"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-NEWS-2025-00093",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/i-team/syracuse-dog-shelter-location-still-up-in-the-air-more-than-a-year-after-site-search-began",
+  "publication_date": "2025-07-24",
+  "capture_date": "2026-03-22T18:37:45Z",
+  "title": "Syracuse dog shelter location still up in the air more than a year after site search began",
+  "summary": "The Syracuse Parks and Recreation Department has withdrawn a municipal dog shelter proposal from Common Council consideration after more than a year of planning. Parks Commissioner Syeisha Byrd cited the need for additional time to develop a comprehensive campus plan and explore alternative locations, though the department maintains commitment to the project. The $500,000 planning and design appropriation has been tabled indefinitely with no timeline for reintroduction.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "parks",
+    "capital-planning",
+    "facilities",
+    "legislation",
+    "vote",
+    "public-safety-commission",
+    "equity",
+    "PROVISIONAL:animal-services",
+    "PROVISIONAL:site-selection"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syeisha Byrd",
+      "type": "person",
+      "canonical_id": "PERSON-SYEISHA-BYRD",
+      "role": "Parks and Recreation Commissioner"
+    },
+    {
+      "name": "Rasheada Caldwell",
+      "type": "person",
+      "canonical_id": "PERSON-RASHEADA-CALDWELL",
+      "role": "Common Council Member, Parks Committee Chair"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council members expressed surprise at withdrawal and raised concerns about site viability and operational planning during June committee meeting. Commissioner framed as prudent recalibration, but timing (withdrawal ~1 hour before study session) and repeated vote delays suggest internal alignment issues.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article addresses infrastructure/capital planning challenge with equity dimensions (stray dog crisis cited as municipal service gap).",
+    "No CIO-specific innovation angle detected, but project involves site selection, budget planning, and intergovernmental coordination relevant to municipal operations.",
+    "Critical detail: $500K appropriation not yet authorized; no funds committed pending new proposal.",
+    "Spencer Street Parks campus site appears to have lost support; alternative locations remain unspecified.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

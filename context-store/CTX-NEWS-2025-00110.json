@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-NEWS-2025-00110",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/plan-to-redevelop-former-lafayette-country-club-into-housing-clears-first-hurdle",
+  "publication_date": "2025-08-19",
+  "capture_date": "2026-03-22T18:41:07Z",
+  "title": "Plan to redevelop former Lafayette Country Club into housing clears first hurdle",
+  "summary": "The Syracuse Planning Commission approved the master site plan for a 263-unit housing development at the former Lafayette Country Club on August 18, 2025. The project, featuring homes ranging from $350,000 to $1+ million, requires additional approvals including major site review, environmental impact studies, and code enforcement before construction can begin. Developers initially targeted late 2025 for groundbreaking but timeline remains uncertain.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "land-use",
+    "permitting",
+    "economic-development",
+    "zoning",
+    "infrastructure",
+    "roads-bridges",
+    "code-enforcement"
+  ],
+  "department_refs": [
+    "Department of Permits and Development",
+    "City Planning Commission"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Planning Commission",
+      "type": "organization",
+      "canonical_id": "ORG-SYR-PLAN-COMM"
+    },
+    {
+      "name": "Lafayette Country Club",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Brandon Ladd",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Housing development project demonstrates city commitment to residential growth and economic development; approval signals government support for mixed-income housing initiatives on underutilized urban land.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article describes procedural milestone (master site plan approval) rather than final authorization; multiple approval stages remain",
+    "Price range cited ($350K-$1M+) suggests mixed-to-luxury income targeting; no affordability requirements mentioned in article excerpt",
+    "Seven new public roads required indicates significant infrastructure investment/coordination needed",
+    "Timeline uncertainty noted—developers' late 2025 groundbreaking target may be at risk pending remaining approvals",
+    "No specific developer organization name provided in article",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

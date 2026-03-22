@@ -1,0 +1,60 @@
+{
+  "record_id": "CTX-NEWS-2025-00122",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-common-council-approves-sale-old-fire-station-900k-renovation-project-restaurant-apartments-jf-real-estate",
+  "publication_date": "2025-09-03",
+  "capture_date": "2026-03-22T18:43:31Z",
+  "title": "Syracuse Common Council approves sale of old fire station for $900K renovation project",
+  "summary": "Syracuse Common Council approved the sale of a vacant East Fayette Street fire station to JF Real Estate for a $900,000 renovation project. The former station, inactive for over a decade, will be converted into four second-floor apartments and a ground-floor restaurant. This represents mixed-use adaptive reuse of city-owned property aligned with economic development and housing goals.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "housing",
+    "facilities",
+    "historic-preservation",
+    "land-use",
+    "procurement",
+    "vote",
+    "business-community"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "JF Real Estate",
+      "type": "organization",
+      "canonical_id": "ORG-JFREALESTATE"
+    },
+    {
+      "name": "Charlotte Hansen",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Council approval of adaptive reuse project signals alignment with downtown revitalization and mixed-use development priorities. Project converts dormant municipal asset into housing + commercial space.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Project timeline incomplete—article notes developers 'have not shared when they hope to have the project completed'",
+    "Discrepancy in renovation budget description: headline states '$900K' but article references 'multi-million-dollar renovations'—clarification needed on actual project cost",
+    "Location: East Fayette Street, Syracuse (specific address not provided)",
+    "No community benefit agreement, affordable housing requirements, or workforce development terms mentioned in article",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

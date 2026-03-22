@@ -1,0 +1,100 @@
+{
+  "record_id": "CTX-NEWS-2025-00029",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-common-council-mayor-at-odds-over-proposed-city-budget-pat-hogan-mayor-walsh-cecile-monds-fiscal-year-2026",
+  "publication_date": "2025-05-08",
+  "capture_date": "2026-03-22T18:25:10Z",
+  "title": "Syracuse Common Council, Mayor at odds over proposed city budget",
+  "summary": "Syracuse Common Council unanimously rejected Mayor Ben Walsh's proposed $348M FY2026 budget due to a projected $27M deficit. The Council passed a revised budget with 7% cuts across all departments ($16M total) and no tax increase, but Mayor Walsh and department heads warned the cuts will eliminate seasonal jobs, reduce public safety initiatives (including ShotSpotter), curtail parks events, and impact fire/police operations. Walsh has 10 days to accept or reject the Council's amendments.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "council",
+    "mayor",
+    "deficit",
+    "cuts",
+    "jobs",
+    "police",
+    "fire",
+    "parks",
+    "vote",
+    "policy-change",
+    "escalating",
+    "public-safety-commission"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Syracuse Fire Department",
+    "Department of Public Works",
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Syeisha Byrd",
+      "type": "person",
+      "canonical_id": "PERSON-SYEISHA-BYRD"
+    },
+    {
+      "name": "Joseph Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOSEPH-CECILE"
+    },
+    {
+      "name": "Michael Monds",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-MONDS"
+    },
+    {
+      "name": "Jeremy Robinson",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-ROBINSON"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Mayor's administration directly opposes Common Council's budget revision; administration held immediate news conference with department heads to contest the cuts, characterizing them as a 'crisis of the council's making.' Significant friction between executive and legislative branches on fiscal priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00026"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts normalized: $348M (proposed budget), $27M (projected deficit), $16M (total cuts)",
+    "Key conflict: Council prioritizes deficit reduction and no tax increase; Mayor prioritizes service continuity and public safety",
+    "ShotSpotter system specifically flagged as at-risk—note for CIO regarding public safety technology infrastructure",
+    "Fire Chief Michael Monds and DPW Commissioner Jeremy Robinson also raised concerns; Parks Commissioner Byrd warned of 36 seasonal job eliminations",
+    "Developing story; outcome pending Mayor's 10-day decision window",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'deficit' not in taxonomy",
+    "Tag warning: Unknown tag 'cuts' not in taxonomy",
+    "Tag warning: Unknown tag 'jobs' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00026"
+  ],
+  "last_relevance_update": null
+}

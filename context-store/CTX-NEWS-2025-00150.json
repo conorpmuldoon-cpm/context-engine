@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-NEWS-2025-00150",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-parking-garage-closes-due-to-structural-concerns",
+  "publication_date": "2025-11-07",
+  "capture_date": "2026-03-22T18:49:38Z",
+  "title": "Syracuse parking garage closes due to structural concerns",
+  "summary": "The parking garage at 300 East Fayette Street in downtown Syracuse has closed due to structural deterioration identified during an engineering inspection. The 41-year-old facility served 100-150 daily parkers including city staff and private monthly users. The city is directing users to the Washington Street parking garage as an alternative while safety concerns are addressed.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "facilities",
+    "infrastructure",
+    "code-enforcement",
+    "announcement",
+    "public-safety-commission",
+    "escalating"
+  ],
+  "department_refs": [
+    "Department of Code Enforcement"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jake DeShaw",
+      "type": "person",
+      "canonical_id": "PERSON-JAKE-DESHAW"
+    },
+    {
+      "name": "300 East Fayette Street Parking Garage",
+      "type": "system",
+      "canonical_id": "SYS-FAYETTE-GARAGE"
+    },
+    {
+      "name": "Washington Street Parking Garage",
+      "type": "system",
+      "canonical_id": "SYS-WASHINGTON-GARAGE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "City prioritizing public safety over operational convenience; proactive communication about infrastructure vulnerability and contingency planning.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date shows November 6, 2025 publication but metadata shows November 7, 2025 — minor inconsistency",
+    "No budget impact figures provided; cost of repairs and revenue loss unknown",
+    "No timeline for reopening or remediation plan disclosed",
+    "Relates to broader downtown infrastructure and asset management concerns relevant to capital planning",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

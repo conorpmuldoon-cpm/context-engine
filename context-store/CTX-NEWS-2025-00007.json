@@ -1,0 +1,71 @@
+{
+  "record_id": "CTX-NEWS-2025-00007",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-04-11/syracuse-councilor-worries-mayors-budget-relies-too-heavily-on-rainy-day-fund",
+  "publication_date": "2025-04-11",
+  "capture_date": "2026-03-22T18:20:49Z",
+  "title": "Syracuse Councilor worries Mayor's budget relies too heavily on rainy day fund",
+  "summary": "Syracuse Common Council Finance Chair Corey Williams expressed concern that Mayor Ben Walsh's $348 million budget proposal relies too heavily on a $27 million draw from the city's general fund reserve, compounded by a proposed 2% property tax increase. Williams warns that the cumulative structural deficit ($27M + $7M) signals unsustainable long-term fiscal trends, while Walsh defends the plan noting reserves remain $35 million above recommended levels despite the withdrawal.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "council",
+    "mayor",
+    "tax-revenue",
+    "fiscal-sustainability",
+    "fund-balance",
+    "PROVISIONAL:structural-deficit"
+  ],
+  "department_refs": [
+    "Finance Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Scott Willis",
+      "type": "person",
+      "canonical_id": "PERSON-SCOTT-WILLIS"
+    },
+    {
+      "name": "WAER",
+      "type": "organization",
+      "canonical_id": "ORG-WAER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council Finance Committee Chair conducting budget oversight with expressed concern about reserve depletion trajectory and long-term fiscal viability, citing external economic pressures from federal and state levels.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount '$6' appears to be corrupted extraction; should be '$6.6 million' per article text",
+    "Article discusses fund balance/reserve management which may intersect with CIO's financial planning and data governance responsibilities",
+    "Budget review deadline: May 8, 2025",
+    "No specific innovation or technology initiatives mentioned; relevance to CIO office is indirect (fiscal context for planning)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)",
+    "Tag warning: Unknown tag 'fiscal-sustainability' not in taxonomy",
+    "Tag warning: Unknown tag 'fund-balance' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

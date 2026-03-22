@@ -1,0 +1,87 @@
+{
+  "record_id": "CTX-NEWS-2025-00032",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-05-12/mayor-ben-walsh-department-leaders-raise-concerns-over-council-budget-transparency",
+  "publication_date": "2025-05-12",
+  "capture_date": "2026-03-22T18:25:41Z",
+  "title": "Mayor Ben Walsh, department leaders raise concerns over council budget transparency",
+  "summary": "Mayor Ben Walsh and department heads publicly criticized the Common Council's lack of transparency during budget deliberations, citing an eleventh-hour approval of 80+ amendments cutting $16M from the proposed budget with no prior notice or negotiation. The Council engaged an outside accounting firm ($20,750) whose recommendations were withheld from the administration and public, prompting concerns about accountability and proper governance processes.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "transparency",
+    "council",
+    "mayor",
+    "department-head",
+    "escalating",
+    "policy-change",
+    "vote"
+  ],
+  "department_refs": [
+    "Police Department",
+    "Law Department",
+    "Department of Finance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE"
+    },
+    {
+      "name": "Sue Katzoff",
+      "type": "person",
+      "canonical_id": "PERSON-SUE-KATZOFF"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Amir Gethers",
+      "type": "person",
+      "canonical_id": "PERSON-AMIR-GETHERS"
+    },
+    {
+      "name": "Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Executive branch openly questioning legislative branch's budget process integrity, transparency standards, and use of external consultants; Council defending autonomy but declining to justify withholding analyst recommendations.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts extracted: $16M (cuts), $3.5M (police cut), $20,750 (accounting firm contract)",
+    "Date: May 12, 2025 - budget vote occurred 'last week'",
+    "Substantive governance tension between Mayor and Council on procedural accountability",
+    "Council's refusal to explain withholding of firm's report suggests potential data governance or deliberative privilege issue relevant to CIO transparency initiatives",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

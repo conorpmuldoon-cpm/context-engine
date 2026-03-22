@@ -1,0 +1,79 @@
+{
+  "record_id": "CTX-NEWS-2025-00142",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/new-energy-efficient-homes-syracuse-offer-opportunity-income-eligible-buyers-ben-walsh-affordable-nys",
+  "publication_date": "2025-10-29",
+  "capture_date": "2026-03-22T18:48:07Z",
+  "title": "New energy-efficient homes in Syracuse offer opportunity for income-eligible buyers",
+  "summary": "Syracuse is building four new energy-efficient, affordable homes on Tipperary Hill through a partnership between Home Headquarters, the city's Resurgent Neighborhood Initiative, and New York State's Affordable Homeownership Opportunity Program (AHOP). The homes will be Energy Star-rated and available to income-eligible buyers, with one representing Home Headquarters' 26th build. Mayor Ben Walsh emphasized the collaborative approach involving neighborhood advocacy, private housing partners, and municipal/state support.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "affordable-housing",
+    "economic-development",
+    "sustainability",
+    "initiative-launch",
+    "intergovernmental",
+    "state-agency",
+    "mayor",
+    "neighborhood-services",
+    "announcement"
+  ],
+  "department_refs": [
+    "Chief Innovation Officer",
+    "Department of Neighborhood and Business Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Home Headquarters",
+      "type": "organization",
+      "canonical_id": "ORG-HOME-HEADQUARTERS"
+    },
+    {
+      "name": "New York State Affordable Homeownership Opportunity Program",
+      "type": "system",
+      "canonical_id": "SYS-AHOP"
+    },
+    {
+      "name": "Resurgent Neighborhood Initiative",
+      "type": "system",
+      "canonical_id": "SYS-RNI"
+    },
+    {
+      "name": "Tipperary Hill",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Leadership explicitly prioritizing affordable housing and sustainability through multi-sector collaboration. Messaging emphasizes equitable geographic distribution ('Southside or the Westside, any part of the city').",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No budget figures or specific unit counts beyond '4 homes' mentioned",
+    "Article date inconsistency: headline shows 2025-10-29, body shows Oct 28, 2025 (likely publication timing difference)",
+    "Strong mayoral attribution suggests CIO-relevant innovation/partnership model",
+    "Community advocacy explicitly cited as initiative catalyst",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'affordable-housing' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

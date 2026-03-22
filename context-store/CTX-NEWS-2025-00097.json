@@ -1,0 +1,73 @@
+{
+  "record_id": "CTX-NEWS-2025-00097",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/common-council-holds-off-adding-red-light-and-speed-zone-camera",
+  "publication_date": "2025-08-12",
+  "capture_date": "2026-03-22T18:38:48Z",
+  "title": "Common Council holds off on decision of adding red light and speed zone cameras",
+  "summary": "The Syracuse Common Council delayed approval of the Automated School Zone Enforcement Program, which would deploy 34 speed cameras and 36 red light cameras at school zone locations citywide starting Sept. 3, 2025. The third-party vendor Jenoptik will fund all infrastructure costs and recoup investment through fine revenue sharing at $50 per violation. Council cited insufficient information as reason for the postponement.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "code-enforcement",
+    "PROVISIONAL:automated-enforcement",
+    "police",
+    "public-safety-commission",
+    "vote",
+    "policy-change",
+    "procurement",
+    "contract-award"
+  ],
+  "department_refs": [
+    "Department of Permits and Development",
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jenoptik",
+      "type": "organization",
+      "canonical_id": "ORG-JENOPTIK"
+    },
+    {
+      "name": "Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-CHOL-MAJOK"
+    },
+    {
+      "name": "Conor Muldoon",
+      "type": "person",
+      "canonical_id": "PERSON-CONOR-MULDOON"
+    },
+    {
+      "name": "Hannah Devanny",
+      "type": "person",
+      "canonical_id": "PERSON-HANNAH-DEVANNY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council requested additional information before approving automated enforcement infrastructure; suggests deliberative governance process and possible constituent or council concerns about implementation readiness or policy details.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date discrepancy: title dated 2025-08-12 but content shows 'Mon, August 11' with update 'Thu, August 14' — treated publication as 2025-08-11 with update 2025-08-14",
+    "34 speed camera locations listed but only 25 street names provided; list may be incomplete in source",
+    "36 red light camera intersections listed with complete detail",
+    "No dollar amount identified for total project cost; vendor cost absorption noted but specific figures not disclosed",
+    "Operational start date conditional on Council approval",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

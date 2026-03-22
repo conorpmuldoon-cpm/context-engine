@@ -1,0 +1,71 @@
+{
+  "record_id": "CTX-NEWS-2025-00118",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/city-officials-comment-on-the-progress-of-i-81-viaduct-project",
+  "publication_date": "2025-09-17",
+  "capture_date": "2026-03-22T18:42:42Z",
+  "title": "City Officials comment on the progress of I-81 Viaduct Project",
+  "summary": "The I-81 Viaduct Project is advancing on schedule with visible construction progress on bridge replacements. City officials report mixed public feedback: residents appreciate rapid construction updates, but express frustration with traffic impacts and communication gaps. The viaduct removal remains on track for 2027, with project leadership emphasizing improved walkability and bikeability as core objectives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "roads-bridges",
+    "construction-staging",
+    "transportation",
+    "micromobility",
+    "accessibility",
+    "residents",
+    "transparency",
+    "constituent-complaints",
+    "capital-planning"
+  ],
+  "department_refs": [
+    "Department of Transportation",
+    "Office of the Mayor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Joe Driscoll",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-DRISCOLL"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "I-81 Viaduct Project",
+      "type": "system",
+      "canonical_id": "SYS-I81-VIADUCT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Public frustration with traffic impacts and communication gaps during active construction, offsetting positive sentiment about project pace and urban design goals.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00117"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date shows 2025-09-17 in metadata but body states 2025-09-16; using metadata date",
+    "No budget figures or specific dollar amounts mentioned",
+    "Project Director and Mayor both quoted; provides governance visibility",
+    "Communication challenges flagged as actionable issue for CIO stakeholder engagement strategy",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Potential duplicate of CTX-NEWS-2025-00117"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,82 @@
+{
+  "record_id": "CTX-NEWS-2025-00174",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-residents-share-their-thoughts-on-the-snow-one-called-it-a-nightmare",
+  "publication_date": "2025-12-30",
+  "capture_date": "2026-03-22T18:54:08Z",
+  "title": "Syracuse residents share their thoughts on the snow; one called it a 'nightmare'",
+  "summary": "Syracuse experienced significant lake-effect snowfall on December 30, 2025, with Onondaga County towns receiving a foot or more of snow. The article captures resident reactions ranging from negative (new international student calling it a 'nightmare') to pragmatic (local families managing shoveling and winter routines). Mayor Ben Walsh advised residents to stay home if unnecessary, and city officials reminded residents to clear snow around fire hydrants and vents.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "snow-removal",
+    "residents",
+    "emergency-services",
+    "trending",
+    "weather",
+    "neighborhood-services"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Rachel Culver",
+      "type": "person",
+      "canonical_id": "PERSON-RACHEL-CULVER"
+    },
+    {
+      "name": "Shwaban Swiri",
+      "type": "person",
+      "canonical_id": "PERSON-SHWABAN-SWIRI"
+    },
+    {
+      "name": "Giovanni Esposito",
+      "type": "person",
+      "canonical_id": "PERSON-GIOVANNI-ESPOSITO"
+    },
+    {
+      "name": "Mehgi Taibi",
+      "type": "person",
+      "canonical_id": "PERSON-MEHGI-TAIBI"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Onondaga Community College",
+      "type": "organization",
+      "canonical_id": "ORG-OCC"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor Walsh's public advisory to stay home during winter weather event and city reminders about snow clearing around critical infrastructure (fire hydrants, vents) demonstrate active snow-management and public-safety communication.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00173"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is human-interest journalism rather than policy or administrative coverage; limited direct CIO relevance unless connected to snow-removal operations, emergency coordination systems, or public communication platforms",
+    "Mayor Ben Walsh quoted but context is routine winter weather advisory, not innovation-related",
+    "No budget, procurement, or technology infrastructure details present",
+    "Potential data point for constituent sentiment tracking on winter services and resident preparedness",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'weather' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00173"
+  ],
+  "last_relevance_update": null
+}

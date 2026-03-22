@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2025-00092",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-surpasses-greenhouse-gas-reduction-goals-set-in-2010-mayor-says-climate-change-greenhouse-gases-emission-inventory-community-report-net-zero",
+  "publication_date": "2025-07-24",
+  "capture_date": "2026-03-22T18:37:33Z",
+  "title": "Syracuse surpasses greenhouse gas reduction goals set in 2010; mayor says",
+  "summary": "Syracuse has exceeded its 2010 greenhouse gas reduction targets, achieving 67% emissions reductions for city operations (goal: 40%) and 29% for the community (goal: 7%) as documented in the 2024 Greenhouse Gas Emission Inventory report. Mayor Walsh attributes success to LED conversion, fuel-efficient vehicles, and optimized waste collection. The city plans to develop a data-informed Climate Action Plan with public meetings scheduled for Fall 2025 to guide pursuit of net-zero emissions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "sustainability",
+    "initiative-launch",
+    "policy-change",
+    "data-governance",
+    "announcement",
+    "PROVISIONAL:climate-action-plan",
+    "PROVISIONAL:net-zero-emissions"
+  ],
+  "department_refs": [
+    "Mayor's Office",
+    "Chief Innovation Officer"
+  ],
+  "entity_refs": [
+    {
+      "name": "Mayor Walsh",
+      "type": "person",
+      "canonical_id": "null"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor's office leveraging emissions reduction achievement to build momentum for next-phase climate action planning (net-zero pursuit). Frames as collective community success, positioning for sustained engagement and funding support.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date (2025-07-24) is future-dated relative to current context; verify publication authenticity",
+    "No specific CIO mention in article text despite role relevance; CIO likely coordinating implementation of data-informed Climate Action Plan",
+    "Report referenced as '2024 Greenhouse Gas Emission Inventory' but link not extracted; recommend locating full report for detailed baseline data and methodology",
+    "Public comment period and Fall 2025 meetings present engagement/feedback collection opportunity for CIO coordination",
+    "GHG reduction metrics suggest IT/data systems role in monitoring and reporting (fleet telematics, LED controls, waste routing optimization)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,66 @@
+{
+  "record_id": "CTX-NEWS-2025-00111",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-08-18/proactive-policing-and-interventions-result-in-lower-crime-rates-in-syracuse",
+  "publication_date": "2025-08-18",
+  "capture_date": "2026-03-22T18:41:15Z",
+  "title": "Proactive policing and interventions result in lower crime rates in Syracuse",
+  "summary": "Syracuse Police Department reports significant crime reduction through August 2025: 27% overall crime decrease, 18% violent crime reduction, and 29% property crime decline compared to 2024. Success attributed to proactive policing strategies including community beat walking and the Mayor's Office to Reduce Gun Violence's custom notifications program targeting youth involvement with firearms.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "public-safety-commission",
+    "emergency-services",
+    "initiative-launch",
+    "trending",
+    "equity",
+    "residents",
+    "transparency"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Mayor's Office to Reduce Gun Violence"
+  ],
+  "entity_refs": [
+    {
+      "name": "Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE"
+    },
+    {
+      "name": "Lateef Johnson-Kinsey",
+      "type": "person",
+      "canonical_id": "PERSON-LATEEF-JOHNSON-KINSEY"
+    },
+    {
+      "name": "WAER",
+      "type": "organization",
+      "canonical_id": "ORG-WAER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Article champions proactive policing and gun violence intervention programs as successful public safety initiatives; demonstrates measurable outcomes aligning with mayoral priorities on community safety and youth intervention.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article emphasizes data-driven outcomes; CIO may track integration of crime analytics systems and beat-walking coordination tools",
+    "Gun violence intervention references community engagement and parental outreach; potential IT infrastructure needs for youth tracking/notification systems",
+    "No specific technology systems, budgets, or capital projects mentioned; focus is programmatic/operational rather than infrastructure-related",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

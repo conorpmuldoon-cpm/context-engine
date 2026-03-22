@@ -1,0 +1,77 @@
+{
+  "record_id": "CTX-NEWS-2025-00023",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/i-team/syracuse-housing-authority-to-hold-public-hearing-on-annual-plan-friday-night",
+  "publication_date": "2025-04-25",
+  "capture_date": "2026-03-22T18:24:02Z",
+  "title": "Syracuse Housing Authority to hold public hearing on annual plan Friday night",
+  "summary": "The Syracuse Housing Authority will hold a public hearing Friday, April 25 at 6 p.m. on its five-year annual plan covering 2,157 public housing units and $62 million in expected funding. The plan also addresses the stalled $32 million Children Rising Center project and a new central office relocation, amid concerns about missed deadlines and accessibility of public meeting notices.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "public-safety-commission",
+    "budget",
+    "announcement",
+    "transparency",
+    "investigation",
+    "equity",
+    "capital-planning",
+    "federal-programs",
+    "escalating"
+  ],
+  "department_refs": [
+    "Syracuse Housing Authority"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Housing Authority",
+      "type": "organization",
+      "canonical_id": "ORG-SHA"
+    },
+    {
+      "name": "Bill Simmons",
+      "type": "person",
+      "canonical_id": "PERSON-BILL-SIMMONS"
+    },
+    {
+      "name": "Mary Kielar",
+      "type": "person",
+      "canonical_id": "PERSON-MARY-KIELAR"
+    },
+    {
+      "name": "Children Rising Center",
+      "type": "organization",
+      "canonical_id": "ORG-CRC"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Investigative reporting on SHA governance, transparency violations (open meetings law breach), missed project deadlines, and accessibility of public notices. Housing crisis highlighted with 10,000 families on waiting list (8,255 extremely low-income).",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00022"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts extracted: $62 million (annual funding), $32 million (Children Rising Center project cost)",
+    "Key issue: Open meetings law violation documented on April 24 (prior day)",
+    "Geographic anchor: East Adams Neighborhood Transformation linked to I-81 Viaduct project",
+    "Waiting list data: 9,984 families (~10,000) as of March 7, 2025",
+    "Housing units managed: 2,157 as of July 2024",
+    "No direct CIO department reference; SHA operates as state agency under HUD; potential IT/transparency systems involvement",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Potential duplicate of CTX-NEWS-2025-00022"
+  ],
+  "last_relevance_update": null
+}

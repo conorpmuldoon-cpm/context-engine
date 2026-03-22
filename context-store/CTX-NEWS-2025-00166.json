@@ -1,0 +1,76 @@
+{
+  "record_id": "CTX-NEWS-2025-00166",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/violent-crime-sexual-violence-compstat-syracuse-police-ben-walsh-black-lives-matter",
+  "publication_date": "2025-12-12",
+  "capture_date": "2026-03-22T18:52:37Z",
+  "title": "Syracuse crime is down overall, but sexual violence in one area drives citywide increase",
+  "summary": "Syracuse violent crime decreased 19% citywide in 2025, with homicides down 41%, continuing a downward trend since 2020. However, sexual violence in the Southeast District (Valley, University Hill, Meadowbrook) increased 21.1% year-over-year and has risen 38.6% over five years, driving a 1% net increase in citywide rape cases. Outgoing Mayor Walsh credited state and federal resources plus police reform investments; incoming Mayor Owens is expected to maintain this public safety strategy.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "crime-data",
+    "police",
+    "public-safety-commission",
+    "leadership-change",
+    "transparency",
+    "equity",
+    "investigation",
+    "PROVISIONAL:sexual-violence-hotspot",
+    "PROVISIONAL:geographic-disparity"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Southeast District",
+      "type": "system",
+      "canonical_id": "SYS-SOUTHEAST-DISTRICT"
+    },
+    {
+      "name": "Southwest District",
+      "type": "system",
+      "canonical_id": "SYS-SOUTHWEST-DISTRICT"
+    },
+    {
+      "name": "Northside District",
+      "type": "system",
+      "canonical_id": "SYS-NORTHSIDE-DISTRICT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Outgoing administration frames crime reduction as success of combined police reform + investment strategy; incoming administration's commitment to continuation signals sustained public safety priority under new leadership.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date listed as 2025-12-12 (future date); byline shows Thu, December 11, 2025 — flag for date validation",
+    "Geographic analysis by district is critical for CIO: Southeast District is isolated hotspot for sexual violence requiring targeted intervention/data analysis",
+    "COMPSTAT data referenced but specific report URL/dataset not provided — recommend linking to authoritative source",
+    "Suggests potential need for GIS mapping, predictive analytics, or community safety technology initiatives targeting Southeast District",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

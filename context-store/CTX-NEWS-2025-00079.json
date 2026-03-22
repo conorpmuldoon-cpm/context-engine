@@ -1,0 +1,81 @@
+{
+  "record_id": "CTX-NEWS-2025-00079",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuses-broad-band-service-surge-link-expands-to-more-impoverished-neighborhoods-alley-skunk-city-washington-square-northside-prospect-hill-and-hawley-green-governor-kathy-hochul-connectall-covid-pandemic",
+  "publication_date": "2025-07-08",
+  "capture_date": "2026-03-22T18:34:46Z",
+  "title": "Syracuse's broadband service, Surge Link, expands to more low-income households",
+  "summary": "Syracuse Mayor Ben Walsh announced the expansion of Surge Link, the city's municipal broadband service, to six additional low-income neighborhoods (Valley, Skunk City, Washington Square, Northside, Prospect Hill, Hawley-Green), bringing total coverage to 9,200+ households. The $10.8M expansion was funded through New York State's ConnectALL program and targets areas with lower broadband utilization, higher poverty/unemployment rates, and educational barriers. Service pricing remains $14.99/month for low-income subscribers and $36.99 for others, with no equipment rental fees.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "digital-services",
+    "infrastructure",
+    "equity",
+    "economic-development",
+    "grants",
+    "federal-programs",
+    "initiative-launch",
+    "residents",
+    "neighborhood-services"
+  ],
+  "department_refs": [
+    "Department of Innovation and Technology",
+    "Mayor's Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Kathy Hochul",
+      "type": "person",
+      "canonical_id": "PERSON-KATHY-HOCHUL"
+    },
+    {
+      "name": "Surge Link",
+      "type": "system",
+      "canonical_id": "SYS-SURGE-LINK"
+    },
+    {
+      "name": "ConnectALL",
+      "type": "organization",
+      "canonical_id": "ORG-CONNECTALL"
+    },
+    {
+      "name": "New York State",
+      "type": "organization",
+      "canonical_id": "ORG-NYS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor Walsh prioritizes digital equity and economic inclusion; state-municipal partnership on broadband infrastructure demonstrates alignment with ConnectALL state initiative; targets underserved populations as equity strategy.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00078"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date is future-dated (2025-07-08); verify publication accuracy",
+    "Department references inferred from CIO role context; Law Department extraction appears erroneous",
+    "Six target neighborhoods explicitly named for CIO GIS/service mapping",
+    "Price points ($14.99 low-income, $36.99 standard) relevant for subsidy/sustainability modeling",
+    "Grant source clearly attributed to state; follow-up on matching funds and implementation timeline recommended",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Potential duplicate of CTX-NEWS-2025-00078"
+  ],
+  "last_relevance_update": null
+}

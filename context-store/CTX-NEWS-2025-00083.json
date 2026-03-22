@@ -1,0 +1,74 @@
+{
+  "record_id": "CTX-NEWS-2025-00083",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/latest-construction-update-for-steam-school-in-syracuse-reveals-plan-to-create-bus-loop",
+  "publication_date": "2025-07-08",
+  "capture_date": "2026-03-22T18:35:35Z",
+  "title": "Latest construction update for STEAM School in Syracuse reveals plan to create bus loop",
+  "summary": "The STEAM High School construction project has advanced with city leaders requesting permanent closure of South Warren Street in front of the school to create a dedicated bus loop. The Syracuse Common Council will review the proposal, which requires State Department of Transportation input. The school is on track to open in September 2025 with 250 ninth-grade students.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "capital-planning",
+    "construction-staging",
+    "infrastructure",
+    "intergovernmental",
+    "land-use",
+    "legislation",
+    "permitting",
+    "roads-bridges",
+    "transportation",
+    "initiative-launch"
+  ],
+  "department_refs": [
+    "Department of Transportation",
+    "Department of Public Works",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse City School District",
+      "type": "organization",
+      "canonical_id": "ORG-SCSD"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COUNCIL"
+    },
+    {
+      "name": "New York State Department of Transportation",
+      "type": "organization",
+      "canonical_id": "ORG-NYDOT"
+    },
+    {
+      "name": "Brandon Ladd",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "City leadership actively advancing STEAM High School infrastructure through street closure proposal and coordination with state agencies, indicating strong institutional commitment to education and facility development.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on operational logistics rather than budgetary details",
+    "Street closure decision requires multi-agency coordination",
+    "No specific dollar amounts or vendor information provided",
+    "Opening date confirmed for September 2025",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

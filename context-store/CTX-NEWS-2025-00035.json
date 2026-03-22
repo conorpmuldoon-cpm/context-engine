@@ -1,0 +1,95 @@
+{
+  "record_id": "CTX-NEWS-2025-00035",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/bk",
+  "publication_date": "2025-05-10",
+  "capture_date": "2026-03-22T18:26:10Z",
+  "title": "Decisions on Syracuse budget cuts happened behind closed doors",
+  "summary": "The Syracuse Common Council conducted a closed-door meeting on May 2nd with the Bonadio Group to review budget analysis recommending $26M in cuts, ultimately implementing $16M in reductions via 80 amendments. The non-public meeting, while technically legal as a caucus, has triggered transparency concerns from the mayor's administration and open government advocates who question whether budget decisions should occur outside public view.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "council",
+    "transparency",
+    "audit",
+    "policy-change",
+    "escalating",
+    "PROVISIONAL:closed-door-governance"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Syracuse Fire Department",
+    "Office of the Mayor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Bonadio Group",
+      "type": "organization",
+      "canonical_id": "ORG-BONADIO"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Corey Driscoll Dunham",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-DRISCOLL-DUNHAM"
+    },
+    {
+      "name": "Marty Nave",
+      "type": "person",
+      "canonical_id": "PERSON-MARTY-NAVE"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Paul Wolf",
+      "type": "person",
+      "canonical_id": "PERSON-PAUL-WOLF"
+    },
+    {
+      "name": "Gary Robinson Jr.",
+      "type": "person",
+      "canonical_id": "PERSON-GARY-ROBINSON-JR"
+    },
+    {
+      "name": "New York Coalition for Open Government",
+      "type": "organization",
+      "canonical_id": "ORG-NYCOG"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council-executive branch tension over budget process legitimacy; open government advocates questioning procedural propriety of closed caucus meeting on budget matters; mayor's office formally objecting to exclusion from decision-making process.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00025"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date inconsistency: title says May 10, byline says May 9; using May 9 as publication date",
+    "No specific dollar amounts for cuts included in extracted text",
+    "Bonadio Group serves dual role as city auditor and budget analyst (potential conflict of interest not addressed in article)",
+    "Legal status of caucus meeting confirmed but advocacy position against its use for budget matters is clear",
+    "CIO should monitor for governance policy implications and potential IT/data governance intersections with audit process",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Potential duplicate of CTX-NEWS-2025-00025"
+  ],
+  "last_relevance_update": null
+}

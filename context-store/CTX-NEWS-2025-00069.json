@@ -1,0 +1,60 @@
+{
+  "record_id": "CTX-NEWS-2025-00069",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-hosted-healthy-housing-101-event-for-safe-home-practices",
+  "publication_date": "2025-06-26",
+  "capture_date": "2026-03-22T18:32:36Z",
+  "title": "Syracuse hosted Healthy Housing 101 event for safe home practices",
+  "summary": "Syracuse City Code Enforcement Department held the annual 'Healthy Housing 101' event to educate residents on safe home practices and encourage reporting of housing violations. Code officials emphasized that renters should not hesitate to contact the department about issues like lead, heat, water, and smoke detectors, with enforcement officers pledging support to address reported problems.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "code-enforcement",
+    "housing",
+    "public-safety-commission",
+    "residents",
+    "complaint",
+    "initiative-launch",
+    "transparency",
+    "training"
+  ],
+  "department_refs": [
+    "Department of Codes and Enforcement"
+  ],
+  "entity_refs": [
+    {
+      "name": "Matt Moran",
+      "type": "person",
+      "canonical_id": "PERSON-MATT-MORAN"
+    },
+    {
+      "name": "Syracuse City Code Enforcement",
+      "type": "organization",
+      "canonical_id": "ORG-SCCE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Department proactively engaging residents on housing safety compliance and removing barriers to complaint filing. Messaging emphasizes partnership ('we'll fight for you') to build trust and increase reporting of code violations.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date discrepancy: headline shows 2025-06-26 but byline shows 'Wed, June 25, 2025' — used article header date as authoritative",
+    "No mechanical extractions validated; Law Department reference in instructions appears to be template artifact",
+    "Event framing suggests constituent engagement and transparency priority for CIO innovation initiatives",
+    "Potential connection to 311 service ecosystem if complaint intake/routing documented separately",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

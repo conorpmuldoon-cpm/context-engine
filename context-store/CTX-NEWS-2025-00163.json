@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2025-00163",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/headed-out-in-syracuse-dont-forget-the-citys-snow-operations-map",
+  "publication_date": "2025-11-28",
+  "capture_date": "2026-03-22T18:51:59Z",
+  "title": "Headed out in Syracuse? Don't forget the city's Snow Operations Map",
+  "summary": "The City of Syracuse operates a real-time Snow Operations Map that tracks plow locations and illegal parking during winter weather events. This digital service tool helps residents and visitors determine road conditions and accessibility during significant snowfall, supporting safe travel planning across the city.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "snow-removal",
+    "GIS",
+    "digital-services",
+    "transportation",
+    "residents",
+    "announcement"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "City of Syracuse Snow Operations Map",
+      "type": "system",
+      "canonical_id": "SYS-SNOW-OPS-MAP"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-CITY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Public communication promoting use of existing digital service infrastructure for emergency preparedness and resident safety during winter weather.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date (2025-11-28) is future-dated; appears to be template or scheduled content",
+    "No specific CIO or digital services office quoted; information is service announcement",
+    "Snow Operations Map represents existing GIS/digital infrastructure capability worth tracking for innovation assessment",
+    "Article emphasizes real-time data availability and public accessibility—relevant to transparency and digital equity initiatives",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

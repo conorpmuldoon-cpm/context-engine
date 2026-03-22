@@ -1,0 +1,70 @@
+{
+  "record_id": "CTX-NEWS-2025-00087",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-police-chief-gives-his-take-on-public-saftey-trends-in-armory-square",
+  "publication_date": "2025-07-21",
+  "capture_date": "2026-03-22T18:36:15Z",
+  "title": "Syracuse Police Chief gives his take on \"Public Saftey trends\" in Armory Square\"",
+  "summary": "Syracuse Police Chief Joe Cecile issued a statement responding to public safety concerns in Armory Square, crediting SPD officers and commanders for implementing a coordinated strategy to address late-night loitering and block parties. The statement emphasizes proactive policing and professional conduct, contrasting with the Police Benevolent Association's more inflammatory social media messaging about the same weekend enforcement operations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "public-safety",
+    "proactive-policing",
+    "labor-relations",
+    "community-safety",
+    "trending",
+    "escalating",
+    "transparency"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE"
+    },
+    {
+      "name": "Syracuse Police Benevolent Association",
+      "type": "organization",
+      "canonical_id": "ORG-SPD-PBA"
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Police leadership and union presenting divergent narratives on enforcement tactics in high-visibility downtown district; chief's emphasis on 'poise and professionalism' appears to moderate union's aggressive rhetoric; suggests internal tension over public messaging strategy and policing approach.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article contains spelling error in title ('Saftey' vs 'Safety')",
+    "Content truncated mid-sentence at end of article",
+    "Implicit tension between department leadership and PBA union messaging detected",
+    "References to prior coverage suggest ongoing community debate (NAACP critique, de-escalation controversy)",
+    "No budget, procurement, or infrastructure implications identified",
+    "Date discrepancy: title shows 2025-07-21, article metadata shows 2025-07-20 publication",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy",
+    "Tag warning: Unknown tag 'proactive-policing' not in taxonomy",
+    "Tag warning: Unknown tag 'community-safety' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

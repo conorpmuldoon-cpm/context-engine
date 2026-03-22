@@ -1,0 +1,73 @@
+{
+  "record_id": "CTX-NEWS-2025-00058",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-06-06/westcott-neighborhood-remains-resilient-amid-recent-challenges",
+  "publication_date": "2025-06-06",
+  "capture_date": "2026-03-22T18:30:37Z",
+  "title": "Westcott neighborhood remains resilient amid recent challenges",
+  "summary": "The Westcott neighborhood, a mixed-use commercial district known for unique retail and dining, faces challenges from recent break-ins and theater-related incidents that threaten small business viability. City leadership (Mayor Walsh) and neighborhood association (Sam Gruber) emphasize the area's resilience and economic importance while announcing increased police patrols and event enforcement to prevent further deterioration.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "public-safety-commission",
+    "neighborhood-services",
+    "business-community",
+    "crime-data",
+    "residents",
+    "escalating"
+  ],
+  "department_refs": [
+    "Mayor's Office",
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sam Gruber",
+      "type": "person",
+      "canonical_id": "PERSON-SAM-GRUBER"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Westcott Neighborhood Association",
+      "type": "organization",
+      "canonical_id": "ORG-WESTCOTT-NA"
+    },
+    {
+      "name": "Westcott Theater",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor publicly commits to increased police enforcement and preservation of Westcott as a vibrant mixed-use neighborhood asset, signaling executive prioritization of public safety and economic vitality in this district.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00045"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article discusses recurring crime/vandalism incidents (break-ins fall 2024, recent gunshots) affecting business margins—relevant for police resource allocation analysis",
+    "No specific dollar amounts or budget commitments mentioned; qualitative commitment only",
+    "Theater-related incidents mentioned but not detailed; may warrant cross-reference with permitting or venue licensing data",
+    "Occupancy rate cited (almost 100% retail) is data point for economic-development tracking",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)",
+    "Potential duplicate of CTX-WEB-2026-00045"
+  ],
+  "last_relevance_update": null
+}

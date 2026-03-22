@@ -1,0 +1,86 @@
+{
+  "record_id": "CTX-NEWS-2025-00102",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.wrvo.org/2025-08-07/organizations-call-for-more-information-about-lead-levels-in-syracuse-water",
+  "publication_date": "2025-08-07",
+  "capture_date": "2026-03-22T18:39:39Z",
+  "title": "Organizations call for more information about lead levels in Syracuse water",
+  "summary": "Community organizations including Families for Lead Freedom Now have filed an EPA petition demanding investigation into elevated lead levels detected in Syracuse drinking water during summer 2024. The Chief Policy Officer disputes the findings, attributing prior exceedances to sampling errors and asserting current water meets EPA standards. Community advocates are calling for emergency declaration, at-tap water filters, and public education campaigns.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "lead-remediation",
+    "investigation",
+    "equity",
+    "transparency",
+    "residents",
+    "escalating",
+    "intergovernmental",
+    "federal-programs",
+    "state-agency",
+    "advocacy"
+  ],
+  "department_refs": [
+    "Department of Water",
+    "Office of the Chief Policy Officer"
+  ],
+  "entity_refs": [
+    {
+      "name": "Oceanna Fair",
+      "type": "person",
+      "canonical_id": "PERSON-OCEANNA-FAIR"
+    },
+    {
+      "name": "Families for Lead Freedom Now",
+      "type": "organization",
+      "canonical_id": "ORG-FLMFN"
+    },
+    {
+      "name": "Natural Resources Defense Council",
+      "type": "organization",
+      "canonical_id": "ORG-NRDC"
+    },
+    {
+      "name": "Greg Loh",
+      "type": "person",
+      "canonical_id": "PERSON-GREG-LOH"
+    },
+    {
+      "name": "Lanessa Owens-Chaplin",
+      "type": "person",
+      "canonical_id": "PERSON-LANESSA-OWENS-CHAPLIN"
+    },
+    {
+      "name": "New York Civil Liberties Union",
+      "type": "organization",
+      "canonical_id": "ORG-NYCLU"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Community organizations escalating pressure through EPA petition and media coverage; advocates demanding emergency response measures and greater transparency; city administration defending current compliance position.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article presents direct contradiction between city's compliance claims and community testing results—requires data reconciliation",
+    "Reference to 'sampling protocol errors' claim needs independent verification by CIO's data governance team",
+    "Multiple advocacy groups aligned on issue suggests sustained community mobilization",
+    "Chief Policy Officer statement indicates this is active dispute requiring ongoing media/stakeholder monitoring",
+    "No specific financial impact stated but emergency declaration request could trigger capital/operational spending",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.wrvo.org)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

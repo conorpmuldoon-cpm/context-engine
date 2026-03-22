@@ -1,0 +1,78 @@
+{
+  "record_id": "CTX-NEWS-2025-00064",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-06-10/syracuse-councilors-kill-city-wide-property-reassessment-in-politically-charged-year",
+  "publication_date": "2025-06-10",
+  "capture_date": "2026-03-22T18:31:41Z",
+  "title": "Syracuse councilors kill city-wide property reassessment in politically charged year",
+  "summary": "Syracuse Common Council voted to withdraw a $1.8 million city-wide property reassessment initiative that the Walsh administration championed to address tax inequities across 41,000+ properties. The decision became politically charged during the Democratic mayoral primary, with councilors citing constituent affordability concerns despite analysis showing only one-third of homeowners would face tax increases. The city will continue reassessments at a slower individual pace.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "council",
+    "vote",
+    "tax-revenue",
+    "policy-change",
+    "equity",
+    "budget",
+    "residents",
+    "procedural",
+    "trending"
+  ],
+  "department_refs": [
+    "Department of Assessment",
+    "Office of the Mayor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Matt Oja",
+      "type": "person",
+      "canonical_id": "PERSON-MATT-OJA"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-CHOL-MAJOK"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Council leadership blocked mayoral initiative citing constituent pressure around affordability; became proxy battleground in Democratic primary between mayoral candidates (Owens supporting revaluation, Hogan/Majok opposing). Decision reflects political risk aversion despite equitable policy rationale.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount ($1.8M) mentioned in text but not auto-extracted; manually added to summary context",
+    "Walsh administration's CIO should note assessment modernization blocked—potential future IT/data governance implications if reassessment is revisited",
+    "Primary election dynamic may influence future policy window for this initiative",
+    "Department of Assessment canonical name inferred; verify official department title",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)",
+    "Tag warning: Unknown tag 'procedural' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

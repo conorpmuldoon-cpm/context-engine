@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-NEWS-2025-00084",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/skan-native-rachel-dewitt-to-swim-length-of-skaneateles-tuesday-raising-awareness",
+  "publication_date": "2025-07-22",
+  "capture_date": "2026-03-22T18:35:47Z",
+  "title": "Skan native Rachel Dewitt to swim length of Skaneateles Lake Tuesday, raising awareness",
+  "summary": "Rachel DeWitt, a Skaneateles native, swam the 16-mile length of Skaneateles Lake on July 22, 2025, to raise awareness and funds for the Skaneateles Lake Association. The effort raised approximately $7,000 to support clean water initiatives for the lake, which serves as a major drinking water source for Syracuse and surrounding communities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "sustainability",
+    "residents",
+    "parks",
+    "announcement",
+    "PROVISIONAL:community-engagement"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Rachel DeWitt",
+      "type": "person",
+      "canonical_id": "PERSON-RACHEL-DEWITT"
+    },
+    {
+      "name": "Skaneateles Lake Association",
+      "type": "organization",
+      "canonical_id": "ORG-SKANEATELES-LAKE-ASSOC"
+    },
+    {
+      "name": "Skaneateles Lake",
+      "type": "system",
+      "canonical_id": "SYS-SKANEATELES-LAKE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Community-led initiative demonstrating constituent engagement with critical water infrastructure asset serving Syracuse's potable water supply. Aligns with sustainability and environmental stewardship priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is community interest/human interest rather than governance-focused; limited direct CIO relevance unless connected to water quality monitoring systems or public engagement platforms",
+    "Skaneateles Lake is critical infrastructure for Syracuse water supply—may warrant CIO awareness for resilience/sustainability context",
+    "No technology, innovation, or digital services components detected in article",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

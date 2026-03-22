@@ -1,0 +1,104 @@
+{
+  "record_id": "CTX-NEWS-2025-00027",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.wrvo.org/2025-05-08/syracuse-lawmakers-slash-city-budget-by-16-million-walsh-calls-cuts-draconian-and-dangerous",
+  "publication_date": "2025-05-08",
+  "capture_date": "2026-03-22T18:24:47Z",
+  "title": "Syracuse lawmakers slash city budget by $16 million; Walsh calls cuts 'draconian and dangerous'",
+  "summary": "Syracuse Common Council voted unanimously to cut Mayor Ben Walsh's $348M budget by $16M, eliminating a proposed 2% property tax increase and implementing 7% cuts across all departments. Walsh and City Auditor Marion criticized the process as secretive and dangerous, with department heads warning of service reductions in fire, police, and parks operations. The mayor has 10 days to veto the amendments.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "council",
+    "vote",
+    "mayor",
+    "fire",
+    "police",
+    "parks",
+    "workforce-development",
+    "tax-revenue",
+    "transparency",
+    "labor-relations",
+    "escalating",
+    "procedural"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Syracuse Police Department",
+    "Department of Parks, Recreation and Youth Programs",
+    "Department of Finance",
+    "Office of the City Auditor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Alex Marion",
+      "type": "person",
+      "canonical_id": "PERSON-ALEX-MARION"
+    },
+    {
+      "name": "Michael Monds",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-MONDS"
+    },
+    {
+      "name": "Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE"
+    },
+    {
+      "name": "Syeisha Byrd",
+      "type": "person",
+      "canonical_id": "PERSON-SYEISHA-BYRD"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Mayor Walsh directly opposes Council's budget cuts as 'draconian and dangerous'; City Auditor challenges transparency of process. Council cites fiscal responsibility and constituent pressure over tax increases. Fundamental disagreement on budget prioritization strategy.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00024"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts in mechanical extraction incomplete (missing 'million' unit designation); corrected in summary",
+    "Unanimous Council vote unusual and newsworthy—indicates strong institutional pressure independent of partisan lines",
+    "Transparency concern flagged by both Mayor and City Auditor—potential governance/process improvement issue for CIO",
+    "Service delivery impact areas identified: public safety events/festivals, seasonal hiring, emergency response staffing",
+    "10-day veto window creates near-term decision point with potential escalation if Mayor exercises veto against unanimous Council",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.wrvo.org)",
+    "Tag warning: Unknown tag 'procedural' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00024"
+  ],
+  "last_relevance_update": null
+}

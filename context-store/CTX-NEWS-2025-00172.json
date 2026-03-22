@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2025-00172",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/spd-recaps-end-of-year-crime-stats",
+  "publication_date": "2025-12-21",
+  "capture_date": "2026-03-22T18:53:43Z",
+  "title": "SPD recaps end-of-year crime stats",
+  "summary": "Syracuse Police Department reported significant year-end crime reductions: violent crime down 18%, property crime down 24%, and shootings with injuries/fatalities decreased from 165 in 2020 to 56 in 2025. Chief Joe Cecile attributed success to proactive policing and outreach efforts while cautioning that challenges remain. The department uses COMPSTAT reporting for performance tracking and public transparency.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "public-safety-commission",
+    "transparency",
+    "data-governance",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE"
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Crime reduction achievement aligns with public safety priorities; Chief's measured language ('not ready to declare success') suggests data-driven, cautious approach to performance management and continued investment in proactive strategies.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date is future-dated (2025-12-21) — appears to be template or test content",
+    "COMPSTAT reports referenced but not directly linked in extracted content",
+    "Car theft spike on Nov 10 noted as unexplained anomaly; warrants investigation trigger for pattern analysis",
+    "Shooting reduction metric (2020-2025 trend) is strong quantitative signal for violence prevention initiative success",
+    "CIO relevant: mentions data reporting infrastructure (COMPSTAT) and public transparency mechanisms",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

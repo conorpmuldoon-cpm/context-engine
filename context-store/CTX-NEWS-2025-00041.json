@@ -1,0 +1,73 @@
+{
+  "record_id": "CTX-NEWS-2025-00041",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.wrvo.org/2025-05-19/syracuse-budget-battle-continues-between-walsh-and-city-lawmakers",
+  "publication_date": "2025-05-19",
+  "capture_date": "2026-03-22T18:27:16Z",
+  "title": "Walsh vetoes more than half of Syracuse lawmakers' budget amendments",
+  "summary": "Mayor Walsh vetoed 45 of 82 budget amendments (55%) that the Common Council passed, cutting $16M from his $348M spending plan. Key vetoes targeted public safety (police/fire), revenue-generating departments (Code Enforcement, Administrative Adjudication), and eliminated a proposed property tax increase while preserving a water rate increase. The Council has two weeks to override vetoes with a six-vote majority.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "mayor",
+    "council",
+    "vote",
+    "policy-change",
+    "tax-revenue",
+    "public-safety",
+    "police",
+    "fire",
+    "water",
+    "code-enforcement",
+    "permitting",
+    "escalating"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Syracuse Police Department",
+    "Bureau of Administrative Adjudication",
+    "Code Enforcement"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Executive-legislative branch conflict over budget priorities. Mayor prioritizes public safety and revenue generation; Council prioritizes spending cuts. Veto overrides possible but uncertain based on stated willingness to compromise by some members.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00039"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts: $348M (budget), $16M (cuts), $5 (water rate increase mentioned)",
+    "Timeline: Two-week deadline for final budget approval; veto override requires 6 votes",
+    "Public safety was primary contention area—all 45 vetoes included public safety-related amendments",
+    "Unanimous initial vote on amendments suggests potential Council cohesion, but override prospects unclear",
+    "Revenue generation framed as strategic priority by Mayor; may signal fiscal stress or sustainability concerns",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.wrvo.org)",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00039"
+  ],
+  "last_relevance_update": null
+}

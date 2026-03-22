@@ -1,0 +1,78 @@
+{
+  "record_id": "CTX-NEWS-2025-00021",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-residents-urged-to-voice-opinions-on-proposed-348m-budget",
+  "publication_date": "2025-04-29",
+  "capture_date": "2026-03-22T18:23:38Z",
+  "title": "Syracuse residents urged to voice opinions on proposed $348M budget",
+  "summary": "Syracuse Mayor Walsh proposed a historic $348M budget with a 2% tax and water rate increase, requiring $27M in reserve fund withdrawals. A public meeting on April 29 invited resident input before the Common Council considers amendments by May 7. City Auditor Alexander Marion issued a first-ever budget review, warning that the shrinking tax base cannot sustain the highest property tax in city history and cautioning about long-term fiscal sustainability if reserve depletion continues.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "tax-revenue",
+    "council",
+    "mayor",
+    "residents",
+    "audit",
+    "transparency",
+    "recurring",
+    "water",
+    "fiscal-sustainability"
+  ],
+  "department_refs": [
+    "Office of the City Auditor",
+    "Common Council",
+    "Office of the Mayor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Alexander Marion",
+      "type": "person",
+      "canonical_id": "PERSON-ALEXANDER-MARION"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Marty Nave",
+      "type": "person",
+      "canonical_id": "PERSON-MARTY-NAVE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "City Auditor's unprecedented budget review signals governance oversight concern; councilor opposition to tax increase reflects constituent pressure and fiscal sustainability scrutiny; reserve fund depletion framed as unsustainable long-term strategy.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00019"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts: $348M (budget), $27M (reserve withdrawal); 2% increases (tax and water rates)",
+    "Key data quality note: Article contains publication date inconsistency (April 28 and April 29); public meeting date inferred as April 29, 2025",
+    "First-time City Auditor budget review is innovation governance signal",
+    "Reserve fund sustainability emerging as systemic fiscal risk—relevant for CIO long-term financial planning systems",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'fiscal-sustainability' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00019"
+  ],
+  "last_relevance_update": null
+}

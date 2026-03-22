@@ -1,0 +1,98 @@
+{
+  "record_id": "CTX-NEWS-2025-00038",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/eys-private-meeting-with-syracuse-city-leaders-raises-questions-on-payroll-modernization",
+  "publication_date": "2025-05-02",
+  "capture_date": "2026-03-22T18:26:43Z",
+  "title": "EY's private meeting with Syracuse city leaders raises questions on payroll modernization",
+  "summary": "EY's October 2022 private 'wavespace' brainstorming session with senior Walsh administration officials at Firebarn Community Center raises transparency concerns about the $8.1M Payroll Modernization project. Whistleblower Advanced IT owner Susan Fahrenkrug alleged EY used her company as a 'pass-through' to secure the contract, with EY presenting timelines before her contract was signed. Mayor Walsh terminated EY's contract in January 2025, but questions persist about procurement practices and contract structure.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "payroll",
+    "procurement",
+    "investigation",
+    "software-systems",
+    "transparency",
+    "PROVISIONAL:contractor-oversight",
+    "PROVISIONAL:payroll-modernization",
+    "leadership-change",
+    "escalating"
+  ],
+  "department_refs": [
+    "Department of Information Technology",
+    "Office of the Mayor",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "EY (Ernst & Young)",
+      "type": "organization",
+      "canonical_id": "ORG-EY"
+    },
+    {
+      "name": "Advanced IT",
+      "type": "organization",
+      "canonical_id": "ORG-ADVANCEDIT"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Susan Fahrenkrug",
+      "type": "person",
+      "canonical_id": "PERSON-SUSAN-FAHRENKRUG"
+    },
+    {
+      "name": "Frank Caliva",
+      "type": "person",
+      "canonical_id": "PERSON-FRANK-CALIVA"
+    },
+    {
+      "name": "Kelsey May",
+      "type": "person",
+      "canonical_id": "PERSON-KELSEY-MAY"
+    },
+    {
+      "name": "Lou Mosher",
+      "type": "person",
+      "canonical_id": "PERSON-LOU-MOSHER"
+    },
+    {
+      "name": "Tim Rudd",
+      "type": "person",
+      "canonical_id": "PERSON-TIM-RUDD"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public investigative reporting reveals potential procurement irregularities and contract mismanagement in high-profile IT modernization project, with whistleblower allegations of vendor pass-through arrangements and exclusionary planning.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00019"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date is May 2025 (future date - verify); dollar amount incomplete ($8.1M extracted from context); key issue is contractor relationship opacity and potential circumvention of fair competition; CAO departure may indicate administrative response to controversy; article cites email documentation and named whistleblower providing substantive evidence",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Potential duplicate of CTX-NEWS-2025-00019"
+  ],
+  "last_relevance_update": null
+}

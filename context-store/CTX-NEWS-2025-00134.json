@@ -1,0 +1,82 @@
+{
+  "record_id": "CTX-NEWS-2025-00134",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-10-10/syracuse-common-councilors-question-locations-of-new-school-zone-cameras",
+  "publication_date": "2025-10-10",
+  "capture_date": "2026-03-22T18:46:09Z",
+  "title": "Syracuse Common Councilors question locations of new school zone cameras",
+  "summary": "Syracuse Common Council is scrutinizing the placement and enforcement of new camera-monitored school speed zones that launched over a month ago, with 60,000+ warning notices issued. Council members question whether cameras target actual student crossing patterns and are calling for extended warning periods and comprehensive review before fines begin November 3rd at $50 per violation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "transportation",
+    "vision-zero",
+    "code-enforcement",
+    "constituent-complaints",
+    "policy-change",
+    "transparency",
+    "PROVISIONAL:school-safety",
+    "PROVISIONAL:traffic-enforcement"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Rasheada Caldwell",
+      "type": "person",
+      "canonical_id": "PERSON-RASHEADA-CALDWELL"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Connor Muldoon",
+      "type": "person",
+      "canonical_id": "PERSON-CONNOR-MULDOON"
+    },
+    {
+      "name": "Nottingham High School",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Syracuse Latin School",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Fowler High School",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council members expressing concern about implementation methodology, camera placement rationale, and enforcement timeline; requesting hold on penalty phase pending comprehensive review",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "COO Connor Muldoon cited constraints from property owners and traffic regulation compliance as factors limiting camera placement flexibility",
+    "Suggests underlying tension between safety goals and constituent concerns about visibility/intrusiveness",
+    "CIO should monitor: GIS data accuracy for school zone definitions, signage compliance tracking, camera placement methodology documentation",
+    "Potential downstream implications: data governance around traffic enforcement records, public transparency reporting requirements",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

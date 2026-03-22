@@ -1,0 +1,79 @@
+{
+  "record_id": "CTX-NEWS-2025-00074",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-officials-and-residents-question-police-unions-portrayal-of-armory-square-safety",
+  "publication_date": "2025-07-15",
+  "capture_date": "2026-03-22T18:33:37Z",
+  "title": "Syracuse officials and residents question police union's portrayal of Armory Square safety",
+  "summary": "Syracuse Police Benevolent Association's social media post characterizing Armory Square as 'chaotic' and claiming gang infiltration has drawn pushback from city officials and business owners. Police Chief Joe Cecile distanced himself from the union's messaging, clarifying that weekend arrests involved open container and loitering violations rather than serious crimes, and warned that such posts could harm downtown business confidence and tax revenue. The incident reflects tensions between police union communications, official departmental messaging, and downtown stakeholder interests.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "union",
+    "labor-relations",
+    "public-safety-commission",
+    "business-community",
+    "transparency",
+    "escalating",
+    "residents",
+    "crime-data"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE"
+    },
+    {
+      "name": "Rachel Culver",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Zakary George",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Syracuse Police Benevolent Association",
+      "type": "organization",
+      "canonical_id": "ORG-SPBA"
+    },
+    {
+      "name": "Nick's Tomato Pie",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Police union's public safety messaging is under official scrutiny from Police Chief; potential misalignment between union communications strategy and departmental leadership messaging around downtown safety and economic vitality.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00073"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article reveals internal police department friction over public communications and union advocacy",
+    "Downtown Armory Square is key economic-development zone; safety narrative directly impacts business confidence and tax base",
+    "No official union response provided; opportunity for structured dialogue flagged by reporting",
+    "Consider monitoring union-management communications patterns around public safety narratives",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Potential duplicate of CTX-NEWS-2025-00073"
+  ],
+  "last_relevance_update": null
+}

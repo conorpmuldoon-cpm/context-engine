@@ -1,0 +1,78 @@
+{
+  "record_id": "CTX-NEWS-2025-00171",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-12-18/streets-sidewalks-garbage-plus-hiring-and-housing-programs-define-mayor-walshs-tenure",
+  "publication_date": "2025-12-18",
+  "capture_date": "2026-03-22T18:53:29Z",
+  "title": "Streets, sidewalks, garbage, plus hiring and housing programs define Mayor Walsh's tenure",
+  "summary": "Mayor Walsh reflects on eight years in office, highlighting infrastructure improvements (100+ miles of roads paved, 47 miles of sidewalks reconstructed), workforce development and hiring programs targeting marginalized populations, and housing initiatives. Deputy Mayor Sharon Owens will assume the mayoralty in January, with Walsh emphasizing continuity as the city prepares for I-81 removal and Micron development.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "mayor",
+    "leadership-change",
+    "roads-bridges",
+    "infrastructure",
+    "snow-removal",
+    "hiring",
+    "workforce-development",
+    "housing",
+    "economic-development",
+    "equity",
+    "policy-change"
+  ],
+  "department_refs": [
+    "Department of Finance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    },
+    {
+      "name": "Micron",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "I-81",
+      "type": "system",
+      "canonical_id": "SYS-I81-CORRIDOR"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Outgoing mayor frames administration's tenure positively, emphasizing quantifiable infrastructure wins and equity-focused programs; successor positioned as continuity candidate with high mayoral confidence endorsement.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No dollar amounts cited despite infrastructure scale claims; quantitative claims (100 miles roads, 47 miles sidewalks) should be verified against capital planning records.",
+    "Article focuses on legacy narrative rather than current challenges or criticism; sentiment skews toward retrospective celebration.",
+    "Future infrastructure considerations (I-81 removal, Micron economic impact) mentioned but not detailed—may warrant separate CIO attention for planning and technology implications.",
+    "Reference to 'new trash and recycling program using standardized bins' suggests potential IT/311 systems change not elaborated in article.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

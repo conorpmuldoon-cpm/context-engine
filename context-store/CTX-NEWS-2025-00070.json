@@ -1,0 +1,83 @@
+{
+  "record_id": "CTX-NEWS-2025-00070",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/neighbors-question-safety-at-syracuse-city-pool-after-fatal-shooting",
+  "publication_date": "2025-06-26",
+  "capture_date": "2026-03-22T18:32:49Z",
+  "title": "Neighbors question safety at Syracuse city pool after fatal shooting",
+  "summary": "A fatal shooting of a 15-year-old outside Onondaga Park Pool on June 25 has sparked community safety concerns and criticism of the city's response. Mayor Walsh promised increased police presence at pools, but residents report seeing no visible officer patrols at three visited facilities (Kirk Park, Lincoln Park, McKinley Park) on June 26, raising questions about implementation and transparency.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "public-safety-commission",
+    "parks",
+    "complaint",
+    "constituent_complaints",
+    "escalating",
+    "transparency",
+    "emergency-services",
+    "residents",
+    "crime-data"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs",
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Gary Robinson Jr.",
+      "type": "person",
+      "canonical_id": "PERSON-GARY-ROBINSON-JR"
+    },
+    {
+      "name": "H. Bernard Alex",
+      "type": "person",
+      "canonical_id": "PERSON-BERNARD-ALEX"
+    },
+    {
+      "name": "Dwayne Jefferson",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Anthony Spratt",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Community members expressing public doubt about municipal commitment to public safety promises; residents report gap between mayoral announcement and ground-level implementation, generating reputational risk around government transparency and service delivery.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00066"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Incident date discrepancy: article dated June 26 but references shooting on June 25 (Tuesday); lead states 'a day after' shooting",
+    "No specific budget or procurement data mentioned",
+    "Investigation ongoing; Onondaga Park Pool remains closed",
+    "Potential IT/data governance angle: real-time police dispatch visibility and community communication systems",
+    "Related escalating trend: article references multiple shooting incidents within 24 hours in Syracuse",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'constituent_complaints' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00066"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-NEWS-2025-00105",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/box-truck-strikes-parkway-bridge-again-salina-511ny-injuries-clanker-devices-onondaga-county-sheriffs-office-oswego-street-park-street-railroad-bridge-mayor-ben-walsh",
+  "publication_date": "2025-08-01",
+  "capture_date": "2026-03-22T18:40:12Z",
+  "title": "Box truck strikes Parkway Bridge again",
+  "summary": "A box truck struck the underside of the Parkway Bridge in Salina on August 1, 2025, closing all traffic lanes between Oswego Street and Park Street. The incident occurred two days after Syracuse Mayor Ben Walsh proposed installing \"clanker\" devices—audible warning systems positioned before bridges to alert drivers of insufficient clearance—following repeated strikes at the Park Street railroad bridge. No injuries were reported.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "roads-bridges",
+    "transportation",
+    "emergency-services",
+    "infrastructure",
+    "policy-change",
+    "public-safety-commission"
+  ],
+  "department_refs": [
+    "Department of Transportation and Infrastructure",
+    "Emergency Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Onondaga County Sheriff's Office",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-SHERIFF"
+    },
+    {
+      "name": "New York State",
+      "type": "organization",
+      "canonical_id": "ORG-NYS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor Walsh's recent proposal for clanker devices reflects emerging focus on reducing bridge strikes through low-cost preventive infrastructure; incident timing reinforces urgency of intervention strategy.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Parkway Bridge owned/operated by NYS, not City of Syracuse—intergovernmental coordination required",
+    "Article mentions Park Street railroad bridge as separate recurring problem site within City limits",
+    "Clanker device proposal represents potential innovation/pilot candidate for CIO review",
+    "No budget, contract, or implementation details provided in article",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

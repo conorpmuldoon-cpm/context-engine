@@ -1,0 +1,87 @@
+{
+  "record_id": "CTX-NEWS-2025-00046",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-05-27/common-council-overrides-mayors-vetoes-approves-broad-budget-cuts",
+  "publication_date": "2025-05-27",
+  "capture_date": "2026-03-22T18:28:12Z",
+  "title": "Common council overrides mayor's vetoes, approves broad budget cuts",
+  "summary": "Syracuse Common Council unanimously overrode Mayor Ben Walsh's vetoes on May 27, 2025, approving $16 million in broad budget cuts across city departments. The council processed 45 amendments to restore cuts without public hearings on the amendments themselves, keeping taxes flat and eliminating a proposed water rate increase. The process drew criticism for lack of transparency, with Mayor Walsh stating there was zero public dialogue about the council's amendments and characterizing it as the council's unilateral budget decision.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "council",
+    "mayor",
+    "vote",
+    "transparency",
+    "escalating",
+    "policy-change",
+    "PROVISIONAL:veto-override",
+    "PROVISIONAL:budget-cuts"
+  ],
+  "department_refs": [
+    "Department of Finance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Amir Gethers",
+      "type": "person",
+      "canonical_id": "PERSON-AMIR-GETHERS"
+    },
+    {
+      "name": "Patricia McBride",
+      "type": "person",
+      "canonical_id": "PERSON-PATRICIA-MCBRIDE"
+    },
+    {
+      "name": "Scott Willis",
+      "type": "person",
+      "canonical_id": "PERSON-SCOTT-WILLIS"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Mayor Walsh publicly opposes council's budget methodology and transparency practices; council (led by mayoral primary candidate Hogan) asserts procedural legitimacy while avoiding public explanation; governance conflict over decision-making authority and public accountability.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount ($16M) refers to total cuts, not itemized departmental allocations",
+    "45 amendments processed but specific departmental impacts not detailed in article",
+    "Water rate increase elimination is significant policy outcome warranting separate tracking",
+    "Pat Hogan's dual role as council president and Democratic mayoral primary candidate creates political dimension worth monitoring",
+    "Mayor's commitment to transparent contingency budget review (stated for following week) should be tracked for follow-up",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

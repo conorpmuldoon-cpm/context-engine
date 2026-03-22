@@ -1,0 +1,1670 @@
+2026-03-22 15:12:40,876 [INFO] ============================================================
+2026-03-22 15:12:40,876 [INFO] Link Importer starting
+2026-03-22 15:12:40,876 [INFO] Opening browser for Syracuse.com login...
+2026-03-22 18:08:41,060 [INFO] ============================================================
+2026-03-22 18:08:41,060 [INFO] Link Importer starting
+2026-03-22 18:08:41,061 [INFO] Opening browser for Syracuse.com login...
+2026-03-22 18:11:44,046 [INFO] ============================================================
+2026-03-22 18:11:44,046 [INFO] Link Importer starting
+2026-03-22 18:11:44,051 [INFO] Loaded 452 unique URLs from CSV
+2026-03-22 18:11:44,053 [INFO] Skipped 4 URLs from irrelevant domains
+2026-03-22 18:11:44,053 [INFO] New URLs to process: 448 (of 448 total)
+2026-03-22 18:11:44,053 [INFO] Limited to 10 URLs
+2026-03-22 18:11:44,150 [WARNING] 4 Syracuse.com URLs but no saved session. Run with --login first for subscriber access.
+2026-03-22 18:11:47,449 [INFO] [1/10] Fetching: https://cnycentral.com/news/local/former-sears-building-to-be-site-of-states-first-workforce-innovat
+2026-03-22 18:11:58,220 [INFO] [1/10] Relevant: Former Sears Building to be site of state's first workforce innovation hub
+2026-03-22 18:11:58,220 [DEBUG]   → Departments: Department of Permits and Development, Law Department, Office of Analytics, Performance & Innovation
+2026-03-22 18:11:58,220 [DEBUG]   → Keywords: mayor, city of syracuse, syracuse mayor
+2026-03-22 18:11:58,224 [INFO] [1/10] [DRY RUN] Would process: Former Sears Building to be site of state's first workforce innovation hub
+2026-03-22 18:11:58,224 [INFO]   Date: 2025-03-28 | Entities: []
+2026-03-22 18:11:59,225 [INFO] [2/10] Fetching: https://www.syracuse.com/news/2025/03/former-sears-store-on-syracuses-south-side-to-be-turned-into-s
+2026-03-22 18:11:59,589 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/03/former-sears-store-on-syracuses-south-side
+2026-03-22 18:11:59,589 [INFO] [2/10] Blocked/empty: https://www.syracuse.com/news/2025/03/former-sears-store-on-syracuses-south-side
+2026-03-22 18:12:00,590 [INFO] [3/10] Fetching: https://cnycentral.com/news/local/residents-worried-about-property-tax-increase-due-to-2-million-dol
+2026-03-22 18:12:06,068 [INFO] [3/10] Relevant: Residents worried about property tax increase due to $1.8 million plan
+2026-03-22 18:12:06,068 [DEBUG]   → Keywords: common council, city officials
+2026-03-22 18:12:06,070 [INFO] [3/10] [DRY RUN] Would process: Residents worried about property tax increase due to $1.8 million plan
+2026-03-22 18:12:06,070 [INFO]   Date: 2025-03-27 | Entities: []
+2026-03-22 18:12:07,071 [INFO] [4/10] Fetching: https://www.syracuse.com/news/2025/03/dozens-of-new-homes-planned-for-vacant-lots-in-poor-syracuse-n
+2026-03-22 18:12:07,446 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/03/dozens-of-new-homes-planned-for-vacant-lot
+2026-03-22 18:12:07,447 [INFO] [4/10] Blocked/empty: https://www.syracuse.com/news/2025/03/dozens-of-new-homes-planned-for-vacant-lot
+2026-03-22 18:12:08,447 [INFO] [5/10] Fetching: https://cnycentral.com/news/local/syracuse-taxpayers-bear-financial-burden-as-city-maintains-neglect
+2026-03-22 18:12:12,704 [INFO] [5/10] Relevant: Syracuse maintains neglected St. Anthony's Convent for absent property owner
+2026-03-22 18:12:12,704 [DEBUG]   → Departments: Syracuse Fire Department, Department of Permits and Development
+2026-03-22 18:12:12,705 [DEBUG]   → Keywords: mayor, syracuse mayor, city officials
+2026-03-22 18:12:12,707 [INFO] [5/10] [DRY RUN] Would process: Syracuse maintains neglected St. Anthony's Convent for absent property owner
+2026-03-22 18:12:12,707 [INFO]   Date: 2025-03-26 | Entities: []
+2026-03-22 18:12:13,708 [INFO] [6/10] Fetching: https://www.waer.org/news/2025-03-31/impending-demolition-of-former-northside-convent-elicits-memori
+2026-03-22 18:12:16,616 [INFO] [6/10] Relevant: Impending demolition of former northside convent elicits memories of its long hi
+2026-03-22 18:12:16,616 [DEBUG]   → Entities: Michael Collins, Jake Dishaw
+2026-03-22 18:12:16,616 [DEBUG]   → Departments: Syracuse Fire Department, Department of Permits and Development
+2026-03-22 18:12:16,616 [DEBUG]   → Keywords: mayor, code enforcement
+2026-03-22 18:12:16,617 [INFO] [6/10] [DRY RUN] Would process: Impending demolition of former northside convent elicits memories of its long hi
+2026-03-22 18:12:16,618 [INFO]   Date: 2025-04-01 | Entities: ['Michael Collins', 'Jake Dishaw']
+2026-03-22 18:12:17,618 [INFO] [7/10] Fetching: https://www.syracuse.com/opinion/2025/03/state-senator-city-auditor-ny-aid-to-cities-isnt-keeping-up
+2026-03-22 18:12:17,764 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2025/03/state-senator-city-auditor-ny-aid-to-ci
+2026-03-22 18:12:17,764 [INFO] [7/10] Blocked/empty: https://www.syracuse.com/opinion/2025/03/state-senator-city-auditor-ny-aid-to-ci
+2026-03-22 18:12:20,765 [INFO] [8/10] Fetching: https://www.syracuse.com/business/2025/03/syracuse-auditor-citys-lifeless-wage-ordinance-needs-a-ser
+2026-03-22 18:12:20,934 [DEBUG]   HTTP 403: https://www.syracuse.com/business/2025/03/syracuse-auditor-citys-lifeless-wage-o
+2026-03-22 18:12:20,935 [INFO] [8/10] Blocked/empty: https://www.syracuse.com/business/2025/03/syracuse-auditor-citys-lifeless-wage-o
+2026-03-22 18:12:21,935 [INFO] [9/10] Fetching: https://cnycentral.com/news/local/landowners-absence-fuels-frustration-at-town-meeting-after-convent
+2026-03-22 18:12:25,334 [INFO] [9/10] Relevant: Landowner's absence fuels frustration at town meeting after convent condemnation
+2026-03-22 18:12:25,335 [DEBUG]   → Departments: Syracuse Fire Department, Department of Permits and Development
+2026-03-22 18:12:25,335 [DEBUG]   → Keywords: common council, code enforcement, city officials
+2026-03-22 18:12:25,337 [INFO] [9/10] [DRY RUN] Would process: Landowner's absence fuels frustration at town meeting after convent condemnation
+2026-03-22 18:12:25,337 [INFO]   Date: 2025-04-02 | Entities: []
+2026-03-22 18:12:26,337 [INFO] [10/10] Fetching: https://www.localsyr.com/news/your-stories/your-stories-qa-dispute-over-repairing-potholes-leads-to-
+2026-03-22 18:12:26,540 [DEBUG]   HTTP 403: https://www.localsyr.com/news/your-stories/your-stories-qa-dispute-over-repairin
+2026-03-22 18:12:26,541 [INFO] [10/10] Blocked/empty: https://www.localsyr.com/news/your-stories/your-stories-qa-dispute-over-repairin
+2026-03-22 18:12:26,841 [INFO] Link Importer Run — 2026-03-22 18:12
+==================================================
+URLs in CSV: 452
+Skipped (domain): 4
+Already processed: 438
+Attempted this run: 10
+Blocked/empty: 5
+Filtered (not relevant): 0
+Saved as records: 0
+Errors: 0
+
+2026-03-22 18:14:54,345 [INFO] ============================================================
+2026-03-22 18:14:54,345 [INFO] Link Importer starting
+2026-03-22 18:14:54,348 [INFO] Loaded 452 unique URLs from CSV
+2026-03-22 18:14:54,350 [INFO] Skipped 4 URLs from irrelevant domains
+2026-03-22 18:14:54,351 [INFO] Skipped 191 Syracuse.com URLs (--skip-blocked)
+2026-03-22 18:14:54,351 [INFO] New URLs to process: 257 (of 257 total)
+2026-03-22 18:14:54,351 [INFO] Limited to 20 URLs
+2026-03-22 18:14:56,481 [INFO] [1/20] Fetching: https://cnycentral.com/news/local/former-sears-building-to-be-site-of-states-first-workforce-innovat
+2026-03-22 18:15:02,069 [INFO] [1/20] Relevant: Former Sears Building to be site of state's first workforce innovation hub
+2026-03-22 18:15:02,069 [DEBUG]   → Departments: Department of Permits and Development, Law Department, Office of Analytics, Performance & Innovation
+2026-03-22 18:15:02,069 [DEBUG]   → Keywords: mayor, city of syracuse, syracuse mayor
+2026-03-22 18:15:09,435 [ERROR]   Schema error: Schema validation: 'link_importer' is not one of ['council_transcriber', 'website_monitor', 'news_scanner', 'board_monitor', 'budget_agent', 'peer_watcher', 'manual_input']
+2026-03-22 18:15:09,440 [ERROR]   Cannot fix schema errors — skipping
+2026-03-22 18:15:12,440 [INFO] [2/20] Fetching: https://cnycentral.com/news/local/residents-worried-about-property-tax-increase-due-to-2-million-dol
+2026-03-22 18:15:15,346 [INFO] [2/20] Relevant: Residents worried about property tax increase due to $1.8 million plan
+2026-03-22 18:15:15,346 [DEBUG]   → Keywords: common council, city officials
+2026-03-22 18:15:22,644 [ERROR]   Schema error: Schema validation: 'link_importer' is not one of ['council_transcriber', 'website_monitor', 'news_scanner', 'board_monitor', 'budget_agent', 'peer_watcher', 'manual_input']
+2026-03-22 18:15:22,650 [ERROR]   Cannot fix schema errors — skipping
+2026-03-22 18:15:25,650 [INFO] [3/20] Fetching: https://cnycentral.com/news/local/syracuse-taxpayers-bear-financial-burden-as-city-maintains-neglect
+2026-03-22 18:15:29,908 [INFO] [3/20] Relevant: Syracuse maintains neglected St. Anthony's Convent for absent property owner
+2026-03-22 18:15:29,908 [DEBUG]   → Departments: Syracuse Fire Department, Department of Permits and Development, Law Department
+2026-03-22 18:15:29,908 [DEBUG]   → Keywords: mayor, syracuse mayor, city officials
+2026-03-22 18:15:37,449 [WARNING]   Tag issue: Unknown tag 'property-neglect' not in taxonomy
+2026-03-22 18:15:37,457 [ERROR]   Schema error: Schema validation: 'link_importer' is not one of ['council_transcriber', 'website_monitor', 'news_scanner', 'board_monitor', 'budget_agent', 'peer_watcher', 'manual_input']
+2026-03-22 18:15:37,462 [ERROR]   Cannot fix schema errors — skipping
+2026-03-22 18:15:38,463 [INFO] [4/20] Fetching: https://www.waer.org/news/2025-03-31/impending-demolition-of-former-northside-convent-elicits-memori
+2026-03-22 18:15:41,250 [INFO] [4/20] Relevant: Impending demolition of former northside convent elicits memories of its long hi
+2026-03-22 18:15:41,250 [DEBUG]   → Entities: Michael Collins, Jake Dishaw
+2026-03-22 18:15:41,250 [DEBUG]   → Departments: Syracuse Fire Department, Department of Permits and Development
+2026-03-22 18:15:41,250 [DEBUG]   → Keywords: mayor, code enforcement
+2026-03-22 18:15:46,923 [ERROR]   Schema error: Schema validation: 'link_importer' is not one of ['council_transcriber', 'website_monitor', 'news_scanner', 'board_monitor', 'budget_agent', 'peer_watcher', 'manual_input']
+2026-03-22 18:15:46,928 [ERROR]   Cannot fix schema errors — skipping
+2026-03-22 18:15:47,928 [INFO] [5/20] Fetching: https://cnycentral.com/news/local/landowners-absence-fuels-frustration-at-town-meeting-after-convent
+2026-03-22 18:15:51,504 [INFO] [5/20] Relevant: Landowner's absence fuels frustration at town meeting after convent condemnation
+2026-03-22 18:15:51,504 [DEBUG]   → Departments: Syracuse Fire Department, Department of Permits and Development
+2026-03-22 18:15:51,504 [DEBUG]   → Keywords: common council, code enforcement, city officials
+2026-03-22 18:15:57,995 [ERROR]   Schema error: Schema validation: 'link_importer' is not one of ['council_transcriber', 'website_monitor', 'news_scanner', 'board_monitor', 'budget_agent', 'peer_watcher', 'manual_input']
+2026-03-22 18:15:58,001 [ERROR]   Cannot fix schema errors — skipping
+2026-03-22 18:15:59,002 [INFO] [6/20] Fetching: https://www.localsyr.com/news/your-stories/your-stories-qa-dispute-over-repairing-potholes-leads-to-
+2026-03-22 18:15:59,190 [DEBUG]   HTTP 403: https://www.localsyr.com/news/your-stories/your-stories-qa-dispute-over-repairin
+2026-03-22 18:15:59,191 [INFO] [6/20] Blocked/empty: https://www.localsyr.com/news/your-stories/your-stories-qa-dispute-over-repairin
+2026-03-22 18:16:00,191 [INFO] [7/20] Fetching: https://cnycentral.com/news/local/tensions-boil-over-handling-of-maria-regina-property-between-syrac
+2026-03-22 18:16:05,953 [INFO] [7/20] Relevant: Tensions boil over handling of Maria Regina property between Syracuse Mayor, cou
+2026-03-22 18:16:05,953 [DEBUG]   → Departments: Syracuse Fire Department, Law Department
+2026-03-22 18:16:05,953 [DEBUG]   → Keywords: city hall, common council, mayor
+2026-03-22 18:16:11,926 [ERROR]   Schema error: Schema validation: 'link_importer' is not one of ['council_transcriber', 'website_monitor', 'news_scanner', 'board_monitor', 'budget_agent', 'peer_watcher', 'manual_input']
+2026-03-22 18:16:11,930 [ERROR]   Cannot fix schema errors — skipping
+2026-03-22 18:16:12,931 [INFO] [8/20] Fetching: https://www.localsyr.com/news/local-news/syracuses-north-side-residents-air-their-frustrations-the-f
+2026-03-22 18:16:13,031 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuses-north-side-residents-air-thei
+2026-03-22 18:16:13,031 [INFO] [8/20] Blocked/empty: https://www.localsyr.com/news/local-news/syracuses-north-side-residents-air-thei
+2026-03-22 18:16:14,031 [INFO] [9/20] Fetching: https://cnycentral.com/news/local/syracuse-asks-court-to-replace-current-redeveloper-of-skyline-apar
+2026-03-22 18:16:19,811 [INFO] [9/20] Relevant: Syracuse asks court to replace current redeveloper of Skyline Apartments with re
+2026-03-22 18:16:19,811 [DEBUG]   → Entities: Michael Collins
+2026-03-22 18:16:19,811 [DEBUG]   → Departments: Syracuse Fire Department, Department of Permits and Development
+2026-03-22 18:16:19,811 [DEBUG]   → Keywords: mayor, city of syracuse, syracuse mayor
+2026-03-22 18:16:26,871 [ERROR]   Schema error: Schema validation: 'link_importer' is not one of ['council_transcriber', 'website_monitor', 'news_scanner', 'board_monitor', 'budget_agent', 'peer_watcher', 'manual_input']
+2026-03-22 18:16:26,879 [ERROR]   Cannot fix schema errors — skipping
+2026-03-22 18:16:27,879 [INFO] [10/20] Fetching: https://www.waer.org/local-news/2025-04-03/syracuse-seeks-court-order-to-remove-skyline-apartments-o
+2026-03-22 18:16:30,409 [INFO] [10/20] Relevant: Syracuse seeks court order to remove Skyline Apartments owner
+2026-03-22 18:16:30,409 [DEBUG]   → Departments: Syracuse Fire Department
+2026-03-22 18:16:30,409 [DEBUG]   → Keywords: mayor, syracuse mayor
+2026-03-22 18:16:34,736 [ERROR]   Schema error: Schema validation: 'link_importer' is not one of ['council_transcriber', 'website_monitor', 'news_scanner', 'board_monitor', 'budget_agent', 'peer_watcher', 'manual_input']
+2026-03-22 18:16:34,740 [ERROR]   Cannot fix schema errors — skipping
+2026-03-22 18:16:35,741 [INFO] [11/20] Fetching: https://cnycentral.com/news/local/syracuse-landlord-argues-property-on-euclid-ave-should-not-be-cons
+2026-03-22 18:16:38,870 [INFO] [11/20] Relevant: Syracuse landlord argues property on Euclid Ave. should not be consider historic
+2026-03-22 18:16:38,870 [DEBUG]   → Entities: National Grid
+2026-03-22 18:16:38,870 [DEBUG]   → Departments: Law Department
+2026-03-22 18:16:43,305 [ERROR]   Schema error: Schema validation: 'link_importer' is not one of ['council_transcriber', 'website_monitor', 'news_scanner', 'board_monitor', 'budget_agent', 'peer_watcher', 'manual_input']
+2026-03-22 18:16:43,310 [ERROR]   Cannot fix schema errors — skipping
+2026-03-22 18:16:46,310 [INFO] [12/20] Fetching: https://cnycentral.com/news/local/clear-investment-says-its-still-committed-to-redeveloping-dilapida
+2026-03-22 18:16:49,559 [INFO] [12/20] Relevant: Clear Investment says it's still committed to redeveloping dilapidated Skyline A
+2026-03-22 18:16:49,559 [DEBUG]   → Departments: Syracuse Fire Department, Law Department
+2026-03-22 18:16:49,559 [DEBUG]   → Keywords: city of syracuse
+2026-03-22 18:16:55,189 [WARNING]   Tag issue: Unknown tag 'legal-action' not in taxonomy
+2026-03-22 18:16:55,197 [ERROR]   Schema error: Schema validation: 'link_importer' is not one of ['council_transcriber', 'website_monitor', 'news_scanner', 'board_monitor', 'budget_agent', 'peer_watcher', 'manual_input']
+2026-03-22 18:16:55,202 [ERROR]   Cannot fix schema errors — skipping
+2026-03-22 18:16:58,203 [INFO] [13/20] Fetching: https://cnycentral.com/news/local/syracuse-councilors-oppose-proposed-tax-hike-amid-budget-surplus-b
+2026-03-22 18:17:02,269 [INFO] [13/20] Relevant: Syracuse councilors Hogan & Majok oppose proposed tax hike amid reserve surplus
+2026-03-22 18:17:02,269 [DEBUG]   → Keywords: city government
+2026-03-22 18:17:07,998 [WARNING]   Tag issue: Unknown tag 'fiscal-policy' not in taxonomy
+2026-03-22 18:17:08,008 [ERROR]   Schema error: Schema validation: 'link_importer' is not one of ['council_transcriber', 'website_monitor', 'news_scanner', 'board_monitor', 'budget_agent', 'peer_watcher', 'manual_input']
+2026-03-22 18:17:08,012 [ERROR]   Cannot fix schema errors — skipping
+2026-03-22 18:17:11,013 [INFO] [14/20] Fetching: https://cnycentral.com/news/i-team/consultants-waivers-lack-of-bids-relied-on-during-incomplete-over
+2026-03-22 18:17:14,372 [INFO] [14/20] Relevant: Consultants, waivers, lack of bids relied on during incomplete overhaul of Syrac
+2026-03-22 18:17:14,372 [DEBUG]   → Entities: Corey Dunham, Bonadio Group
+2026-03-22 18:17:14,372 [DEBUG]   → Departments: Department of Finance, Department of Information Technology
+2026-03-22 18:17:14,372 [DEBUG]   → Keywords: city hall, common council, mayor
+2026-03-22 18:17:20,799 [ERROR]   Schema error: Schema validation: 'link_importer' is not one of ['council_transcriber', 'website_monitor', 'news_scanner', 'board_monitor', 'budget_agent', 'peer_watcher', 'manual_input']
+2026-03-22 18:17:20,804 [ERROR]   Cannot fix schema errors — skipping
+2026-03-22 18:17:23,804 [INFO] [15/20] Fetching: https://cnycentral.com/news/local/syracuse-leaders-propose-updates-to-municipal-tree-ordinance
+2026-03-22 18:17:26,990 [INFO] [15/20] Relevant: Syracuse leaders propose updates to municipal tree ordinance
+2026-03-22 18:17:26,990 [DEBUG]   → Keywords: ordinance, municipal
+2026-03-22 18:17:32,525 [WARNING]   Tag issue: Unknown tag 'community-engagement' not in taxonomy
+2026-03-22 18:17:32,535 [ERROR]   Schema error: Schema validation: 'link_importer' is not one of ['council_transcriber', 'website_monitor', 'news_scanner', 'board_monitor', 'budget_agent', 'peer_watcher', 'manual_input']
+2026-03-22 18:17:32,540 [ERROR]   Cannot fix schema errors — skipping
+2026-03-22 18:17:35,541 [INFO] [16/20] Fetching: https://cnycentral.com/news/local/city-says-syracuse-housing-authority-leaders-are-shooting-holes-in
+2026-03-22 18:17:38,378 [INFO] [16/20] Relevant: City says Syracuse Housing Authority leaders are 'shooting holes in their own bo
+2026-03-22 18:17:38,378 [DEBUG]   → Entities: Michael Collins
+2026-03-22 18:17:38,378 [DEBUG]   → Departments: Department of Permits and Development
+2026-03-22 18:17:38,378 [DEBUG]   → Keywords: city hall, city council, resolution
+2026-03-22 18:17:45,048 [WARNING]   Tag issue: Unknown tag 'governance' not in taxonomy
+2026-03-22 18:17:45,059 [ERROR]   Schema error: Schema validation: 'link_importer' is not one of ['council_transcriber', 'website_monitor', 'news_scanner', 'board_monitor', 'budget_agent', 'peer_watcher', 'manual_input']
+2026-03-22 18:17:45,064 [ERROR]   Cannot fix schema errors — skipping
+2026-03-22 18:17:46,065 [INFO] [17/20] Fetching: https://www.localsyr.com/news/local-news/policy-and-procedure-violations-found-in-arrest-that-went-v
+2026-03-22 18:17:46,185 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/policy-and-procedure-violations-found-i
+2026-03-22 18:17:46,185 [INFO] [17/20] Blocked/empty: https://www.localsyr.com/news/local-news/policy-and-procedure-violations-found-i
+2026-03-22 18:17:47,185 [INFO] [18/20] Fetching: https://cnycentral.com/news/local/police-chief-officers-will-face-discipline-in-viral-south-avenue-a
+2026-03-22 18:17:51,717 [INFO] [18/20] Relevant: Police Chief: Officers will face discipline in viral South Avenue arrests
+2026-03-22 18:17:51,718 [DEBUG]   → Departments: Syracuse Police Department, Law Department
+2026-03-22 18:17:51,718 [DEBUG]   → Keywords: syracuse police
+2026-03-22 18:17:57,631 [WARNING]   Tag issue: Unknown tag 'use-of-force' not in taxonomy
+2026-03-22 18:17:57,631 [WARNING]   Tag issue: Unknown tag 'accountability' not in taxonomy
+2026-03-22 18:17:57,644 [ERROR]   Schema error: Schema validation: 'link_importer' is not one of ['council_transcriber', 'website_monitor', 'news_scanner', 'board_monitor', 'budget_agent', 'peer_watcher', 'manual_input']
+2026-03-22 18:17:57,656 [ERROR]   Cannot fix schema errors — skipping
+2026-03-22 18:17:58,656 [INFO] [19/20] Fetching: https://www.localsyr.com/news/your-stories/after-nearly-two-weeks-hot-water-returns-to-nob-hill-apar
+2026-03-22 18:17:58,980 [DEBUG]   HTTP 403: https://www.localsyr.com/news/your-stories/after-nearly-two-weeks-hot-water-retu
+2026-03-22 18:17:58,980 [INFO] [19/20] Blocked/empty: https://www.localsyr.com/news/your-stories/after-nearly-two-weeks-hot-water-retu
+2026-03-22 18:17:59,980 [INFO] [20/20] Fetching: https://cnycentral.com/news/local/syracuse-police-drone-program-green-lit-amid-privacy-concerns-offi
+2026-03-22 18:18:03,859 [INFO] [20/20] Relevant: Syracuse Police drone program green-lit amid privacy concerns
+2026-03-22 18:18:03,859 [DEBUG]   → Departments: Syracuse Police Department, Law Department
+2026-03-22 18:18:03,859 [DEBUG]   → Keywords: common council, syracuse police
+2026-03-22 18:18:09,744 [WARNING]   Tag issue: Unknown tag 'surveillance technology' not in taxonomy
+2026-03-22 18:18:09,744 [WARNING]   Tag issue: Unknown tag 'privacy' not in taxonomy
+2026-03-22 18:18:09,752 [ERROR]   Schema error: Schema validation: 'link_importer' is not one of ['council_transcriber', 'website_monitor', 'news_scanner', 'board_monitor', 'budget_agent', 'peer_watcher', 'manual_input']
+2026-03-22 18:18:09,756 [ERROR]   Cannot fix schema errors — skipping
+2026-03-22 18:18:10,087 [INFO] Link Importer Run — 2026-03-22 18:18
+==================================================
+URLs in CSV: 452
+Skipped (domain): 4
+Already processed: 237
+Attempted this run: 20
+Blocked/empty: 4
+Filtered (not relevant): 0
+Saved as records: 0
+Errors: 16
+
+2026-03-22 18:18:58,641 [INFO] ============================================================
+2026-03-22 18:18:58,641 [INFO] Link Importer starting
+2026-03-22 18:18:58,644 [INFO] Loaded 452 unique URLs from CSV
+2026-03-22 18:18:58,645 [INFO] Skipped 4 URLs from irrelevant domains
+2026-03-22 18:18:58,647 [INFO] Skipped 191 Syracuse.com URLs (--skip-blocked)
+2026-03-22 18:18:58,695 [INFO] New URLs to process: 237 (of 257 total)
+2026-03-22 18:18:58,695 [INFO] Limited to 5 URLs
+2026-03-22 18:19:00,650 [INFO] [1/5] Fetching: https://cnycentral.com/news/local/syracuse-mayor-taxes-water-2-percent-money-home-owner-doctor-fisca
+2026-03-22 18:19:06,793 [INFO] [1/5] Relevant: Syracuse Mayor Walsh's proposed budget raises taxes and water rates by 2%
+2026-03-22 18:19:06,794 [DEBUG]   → Departments: Department of Permits and Development, Law Department
+2026-03-22 18:19:06,794 [DEBUG]   → Keywords: mayor, syracuse mayor
+2026-03-22 18:19:14,324 [WARNING]   Tag issue: Unknown tag 'constituent_pressure' not in taxonomy
+2026-03-22 18:19:14,335 [WARNING]   Tag issue: Unknown tag 'fiscal-pressure' not in taxonomy
+2026-03-22 18:19:14,342 [INFO]   Saved: CTX-NEWS-2025-00001 → CTX-NEWS-2025-00001.json
+2026-03-22 18:19:15,343 [INFO] [2/5] Fetching: https://www.localsyr.com/news/local-news/mayor-walsh-proposes-a-property-tax-increase-for-syracuses-
+2026-03-22 18:19:15,625 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/mayor-walsh-proposes-a-property-tax-inc
+2026-03-22 18:19:15,625 [INFO] [2/5] Blocked/empty: https://www.localsyr.com/news/local-news/mayor-walsh-proposes-a-property-tax-inc
+2026-03-22 18:19:16,626 [INFO] [3/5] Fetching: https://www.waer.org/2025-04-09/mayors-budget-plan-includes-tax-hike-for-syracuse-residents-investme
+2026-03-22 18:19:19,840 [INFO] [3/5] Relevant: Mayor's budget plan includes tax hike for Syracuse residents, investment in city
+2026-03-22 18:19:19,840 [DEBUG]   → Departments: Department of Public Works, Department of Parks, Recreation and Youth Programs, Syracuse Fire Department
+2026-03-22 18:19:19,840 [DEBUG]   → Keywords: city hall, common council, mayor
+2026-03-22 18:19:27,539 [INFO]   Saved: CTX-NEWS-2025-00002 → CTX-NEWS-2025-00002.json
+2026-03-22 18:19:28,540 [INFO] [4/5] Fetching: https://cnycentral.com/news/local/syracuse-monday-safer-streets-project-heal-on-point-college-contra
+2026-03-22 18:19:31,556 [INFO] [4/5] Relevant: Safer Streets Programs looking to progress their initiative--asking for better t
+2026-03-22 18:19:31,556 [DEBUG]   → Departments: Law Department
+2026-03-22 18:19:31,557 [DEBUG]   → Keywords: common council, mayor
+2026-03-22 18:19:38,102 [WARNING]   Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-03-22 18:19:38,110 [INFO]   Saved: CTX-NEWS-2025-00003 → CTX-NEWS-2025-00003.json
+2026-03-22 18:19:41,111 [INFO] [5/5] Fetching: https://cnycentral.com/news/i-team/baffled-company-running-former-skyline-responds-to-city-of-syracu
+2026-03-22 18:19:44,048 [INFO] [5/5] Relevant: 'Baffled': Company running former Skyline responds to City of Syracuse lawsuit
+2026-03-22 18:19:44,048 [DEBUG]   → Entities: Michael Collins
+2026-03-22 18:19:44,049 [DEBUG]   → Departments: Department of Permits and Development, Law Department
+2026-03-22 18:19:44,049 [DEBUG]   → Keywords: city hall, mayor, city of syracuse
+2026-03-22 18:19:50,729 [INFO]   Saved: CTX-NEWS-2025-00004 → CTX-NEWS-2025-00004.json
+2026-03-22 18:19:50,917 [INFO] Link Importer Run — 2026-03-22 18:19
+==================================================
+URLs in CSV: 452
+Skipped (domain): 4
+Already processed: 252
+Attempted this run: 5
+Blocked/empty: 1
+Filtered (not relevant): 0
+Saved as records: 4
+Errors: 0
+
+New records:
+  • Syracuse Mayor Walsh's proposed budget raises taxes and water rates by (2025-04-10)
+  • Mayor's budget plan includes tax hike for Syracuse residents, investme (2025-04-09)
+  • Safer Streets Programs looking to progress their initiative--asking fo (2025-04-09)
+  • 'Baffled': Company running former Skyline responds to City of Syracuse (2025-04-15)
+
+2026-03-22 18:20:10,500 [INFO] ============================================================
+2026-03-22 18:20:10,501 [INFO] Link Importer starting
+2026-03-22 18:20:10,503 [INFO] Loaded 452 unique URLs from CSV
+2026-03-22 18:20:10,505 [INFO] Skipped 4 URLs from irrelevant domains
+2026-03-22 18:20:10,507 [INFO] Skipped 191 Syracuse.com URLs (--skip-blocked)
+2026-03-22 18:20:10,542 [INFO] New URLs to process: 232 (of 257 total)
+2026-03-22 18:20:12,868 [INFO] [1/232] Fetching: https://cnycentral.com/news/local/syracuse-code-enforcement-in-the-spotlight
+2026-03-22 18:20:19,092 [INFO] [1/232] Relevant: Syracuse Code Enforcement in the spotlight
+2026-03-22 18:20:19,092 [DEBUG]   → Entities: Michael Collins, Jake Dishaw
+2026-03-22 18:20:19,092 [DEBUG]   → Departments: Syracuse Fire Department, Department of Permits and Development, Law Department
+2026-03-22 18:20:19,092 [DEBUG]   → Keywords: mayor, city of syracuse, code enforcement
+2026-03-22 18:20:25,618 [WARNING]   Tag issue: Unknown tag 'procedural' not in taxonomy
+2026-03-22 18:20:25,626 [INFO]   Saved: CTX-NEWS-2025-00005 → CTX-NEWS-2025-00005.json
+2026-03-22 18:20:26,626 [INFO] [2/232] Fetching: https://www.localsyr.com/news/local-news/syracuse-anti-violence-workers-at-center-of-drug-case/
+2026-03-22 18:20:26,875 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-anti-violence-workers-at-cente
+2026-03-22 18:20:26,875 [INFO] [2/232] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-anti-violence-workers-at-cente
+2026-03-22 18:20:27,876 [INFO] [3/232] Fetching: https://cnycentral.com/news/local/syracuse-common-council-questions-walsh-administration-over-unfini
+2026-03-22 18:20:32,646 [INFO] [3/232] Relevant: Syracuse Common Council questions Walsh administration over unfinished IT projec
+2026-03-22 18:20:32,646 [DEBUG]   → Entities: Rita Paniagua, Corey Dunham
+2026-03-22 18:20:32,646 [DEBUG]   → Departments: Department of Finance, Department of Information Technology, Office of Analytics, Performance & Innovation
+2026-03-22 18:20:32,646 [DEBUG]   → Keywords: city hall, common council, mayor
+2026-03-22 18:20:40,172 [INFO]   Saved: CTX-NEWS-2025-00006 → CTX-NEWS-2025-00006.json
+2026-03-22 18:20:41,173 [INFO] [4/232] Fetching: https://www.waer.org/news/2025-04-11/syracuse-councilor-worries-mayors-budget-relies-too-heavily-on-
+2026-03-22 18:20:44,489 [INFO] [4/232] Relevant: Syracuse Councilor worries Mayor's budget relies too heavily on rainy day fund
+2026-03-22 18:20:44,489 [DEBUG]   → Departments: Department of Finance
+2026-03-22 18:20:44,489 [DEBUG]   → Keywords: mayor
+2026-03-22 18:20:49,446 [WARNING]   Tag issue: Unknown tag 'fiscal-sustainability' not in taxonomy
+2026-03-22 18:20:49,446 [WARNING]   Tag issue: Unknown tag 'fund-balance' not in taxonomy
+2026-03-22 18:20:49,462 [INFO]   Saved: CTX-NEWS-2025-00007 → CTX-NEWS-2025-00007.json
+2026-03-22 18:20:50,462 [INFO] [5/232] Fetching: https://cnycentral.com/news/local/we-need-to-replace-bill-simmons-sha-resident-calls-for-accountabil
+2026-03-22 18:20:54,212 [INFO] [5/232] Relevant: 'We need to replace Bill Simmons': SHA resident calls for accountability
+2026-03-22 18:20:54,212 [DEBUG]   → Departments: Law Department
+2026-03-22 18:20:54,212 [DEBUG]   → Keywords: mayor
+2026-03-22 18:20:59,509 [WARNING]   Tag issue: Unknown tag 'accountability' not in taxonomy
+2026-03-22 18:20:59,516 [INFO]   Saved: CTX-NEWS-2025-00008 → CTX-NEWS-2025-00008.json
+2026-03-22 18:21:02,516 [INFO] [6/232] Fetching: https://cnycentral.com/news/local/i-team-obtains-email-thread-between-sha-city-hall-and-developer-fo
+2026-03-22 18:21:06,224 [INFO] [6/232] Relevant: I-Team obtains email thread between SHA, city hall and developer for East Adams 
+2026-03-22 18:21:06,225 [DEBUG]   → Departments: Law Department
+2026-03-22 18:21:06,225 [DEBUG]   → Keywords: city hall, mayor, resolution
+2026-03-22 18:21:12,410 [INFO]   Dedup match: CTX-NEWS-2025-00008
+2026-03-22 18:21:12,413 [INFO]   Saved: CTX-NEWS-2025-00009 → CTX-NEWS-2025-00009.json
+2026-03-22 18:21:15,413 [INFO] [7/232] Fetching: https://cnycentral.com/news/local/spd-explains-use-of-tactical-strikes-seen-in-viral-arrest-video
+2026-03-22 18:21:19,737 [INFO] [7/232] Relevant: SPD explains use of "tactical strikes" seen in viral arrest video
+2026-03-22 18:21:19,738 [DEBUG]   → Departments: Syracuse Police Department, Law Department
+2026-03-22 18:21:19,738 [DEBUG]   → Keywords: city of syracuse, syracuse police
+2026-03-22 18:21:25,626 [WARNING]   Tag issue: Unknown tag 'use of force' not in taxonomy
+2026-03-22 18:21:25,640 [INFO]   Saved: CTX-NEWS-2025-00010 → CTX-NEWS-2025-00010.json
+2026-03-22 18:21:28,641 [INFO] [8/232] Fetching: https://cnycentral.com/news/local/syracuse-police-officer-to-face-discipline-following-forceful-arre
+2026-03-22 18:21:32,168 [INFO] [8/232] Relevant: One police officer to face discipline following viral forceful arrest in Syracus
+2026-03-22 18:21:32,168 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-22 18:21:32,169 [DEBUG]   → Keywords: syracuse police
+2026-03-22 18:21:38,168 [WARNING]   Tag issue: Unknown tag 'use-of-force' not in taxonomy
+2026-03-22 18:21:38,175 [INFO]   Dedup match: CTX-NEWS-2025-00010
+2026-03-22 18:21:38,177 [INFO]   Saved: CTX-NEWS-2025-00011 → CTX-NEWS-2025-00011.json
+2026-03-22 18:21:41,177 [INFO] [9/232] Fetching: https://cnycentral.com/news/local/video-sha-executive-director-insists-he-wont-resign-in-confrontati
+2026-03-22 18:21:45,735 [INFO] [9/232] Relevant: VIDEO: SHA Executive Director insists he won't resign in confrontation with I-Te
+2026-03-22 18:21:45,735 [DEBUG]   → Departments: Department of Permits and Development, Law Department
+2026-03-22 18:21:45,735 [DEBUG]   → Keywords: city hall
+2026-03-22 18:21:50,630 [WARNING]   Tag issue: Unknown tag 'governance' not in taxonomy
+2026-03-22 18:21:50,641 [INFO]   Dedup match: CTX-NEWS-2025-00008
+2026-03-22 18:21:50,645 [INFO]   Saved: CTX-NEWS-2025-00012 → CTX-NEWS-2025-00012.json
+2026-03-22 18:21:53,645 [INFO] [10/232] Fetching: https://cnycentral.com/news/local/syracuse-mayor-taking-nob-hill-to-supreme-court
+2026-03-22 18:21:56,737 [INFO] [10/232] Relevant: Syracuse Mayor taking Nob Hill to Supreme Court
+2026-03-22 18:21:56,737 [DEBUG]   → Departments: Syracuse Fire Department, Law Department
+2026-03-22 18:21:56,737 [DEBUG]   → Keywords: mayor, syracuse mayor
+2026-03-22 18:22:03,020 [INFO]   Saved: CTX-NEWS-2025-00013 → CTX-NEWS-2025-00013.json
+2026-03-22 18:22:04,021 [INFO] [11/232] Fetching: https://www.localsyr.com/news/local-news/syracuse-awarded-15-million-in-reforestation-grants/
+2026-03-22 18:22:04,205 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-awarded-15-million-in-reforest
+2026-03-22 18:22:04,205 [INFO] [11/232] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-awarded-15-million-in-reforest
+2026-03-22 18:22:07,206 [INFO] [12/232] Fetching: https://www.localsyr.com/news/local-news/syracuse-taking-owners-of-nob-hill-apartments-to-state-supr
+2026-03-22 18:22:07,293 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-taking-owners-of-nob-hill-apar
+2026-03-22 18:22:07,293 [INFO] [12/232] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-taking-owners-of-nob-hill-apar
+2026-03-22 18:22:08,294 [INFO] [13/232] Fetching: https://www.wrvo.org/2025-04-24/syracuse-city-auditor-releases-analysis-of-walshs-city-budget-propos
+2026-03-22 18:22:11,520 [INFO] [13/232] Relevant: Syracuse city auditor releases analysis of Walsh's city budget proposal
+2026-03-22 18:22:11,520 [DEBUG]   → Keywords: common council, mayor, city budget
+2026-03-22 18:22:16,421 [INFO]   Saved: CTX-NEWS-2025-00014 → CTX-NEWS-2025-00014.json
+2026-03-22 18:22:17,422 [INFO] [14/232] Fetching: https://www.waer.org/local-news/2025-04-23/mayor-walsh-launches-sustainable-syracuse-to-fight-climat
+2026-03-22 18:22:19,999 [INFO] [14/232] Relevant: Mayor Walsh launches 'Sustainable Syracuse' to fight climate change and cut carb
+2026-03-22 18:22:19,999 [DEBUG]   → Departments: Department of Permits and Development
+2026-03-22 18:22:19,999 [DEBUG]   → Keywords: mayor, syr.gov, syracuse mayor
+2026-03-22 18:22:23,736 [INFO]   Saved: CTX-NEWS-2025-00015 → CTX-NEWS-2025-00015.json
+2026-03-22 18:22:24,737 [INFO] [15/232] Fetching: https://cnycentral.com/news/local/dpw-budget-hearing-held-to-discuss-where-things-stand-with-water-i
+2026-03-22 18:22:30,282 [INFO] [15/232] Relevant: DPW budget hearing held to discuss where things stand with water in Syracuse
+2026-03-22 18:22:30,283 [DEBUG]   → Entities: Robert Brandt
+2026-03-22 18:22:30,283 [DEBUG]   → Departments: Department of Public Works, Law Department
+2026-03-22 18:22:30,283 [DEBUG]   → Keywords: common council, city council, city of syracuse
+2026-03-22 18:22:37,217 [INFO]   Saved: CTX-NEWS-2025-00016 → CTX-NEWS-2025-00016.json
+2026-03-22 18:22:40,218 [INFO] [16/232] Fetching: https://cnycentral.com/news/local/syracuse-fire-and-police-chiefs-go-before-common-council-for-budge
+2026-03-22 18:22:44,308 [INFO] [16/232] Relevant: Syracuse Fire and Police Chiefs go before common council for budget hearings
+2026-03-22 18:22:44,308 [DEBUG]   → Entities: Michael Monds
+2026-03-22 18:22:44,308 [DEBUG]   → Departments: Department of Human Resources, Syracuse Fire Department, Syracuse Police Department
+2026-03-22 18:22:44,308 [DEBUG]   → Keywords: common council, city budget, city of syracuse
+2026-03-22 18:22:49,929 [INFO]   Saved: CTX-NEWS-2025-00017 → CTX-NEWS-2025-00017.json
+2026-03-22 18:22:52,930 [INFO] [17/232] Fetching: https://cnycentral.com/news/i-team/i-team-silence-from-syracuse-housing-authority-board-of-commissio
+2026-03-22 18:22:55,381 [INFO] [17/232] Relevant: I-Team: Silence from Syracuse Housing Authority Board of Commissioners
+2026-03-22 18:22:55,381 [DEBUG]   → Departments: Department of Permits and Development, Law Department
+2026-03-22 18:22:55,381 [DEBUG]   → Keywords: mayor
+2026-03-22 18:23:03,576 [WARNING]   Tag issue: Unknown tag 'governance' not in taxonomy
+2026-03-22 18:23:03,589 [INFO]   Saved: CTX-NEWS-2025-00018 → CTX-NEWS-2025-00018.json
+2026-03-22 18:23:04,589 [INFO] [18/232] Fetching: https://www.waer.org/news/2025-04-30/city-of-syracuse-cracks-down-further-on-apartment-slumlords-wit
+2026-03-22 18:23:07,117 [INFO] [18/232] Relevant: City of Syracuse cracks down further on apartment slumlords with Nob Hill its la
+2026-03-22 18:23:07,118 [DEBUG]   → Keywords: mayor, city of syracuse, syracuse mayor
+2026-03-22 18:23:12,738 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-22 18:23:12,754 [INFO]   Saved: CTX-NEWS-2025-00019 → CTX-NEWS-2025-00019.json
+2026-03-22 18:23:13,754 [INFO] [19/232] Fetching: https://www.wrvo.org/2025-04-29/syracuse-lawmakers-say-plan-to-reassess-property-values-wont-happen-
+2026-03-22 18:23:16,262 [INFO] [19/232] Relevant: Syracuse lawmakers say plan to reassess property values won't happen this year
+2026-03-22 18:23:16,262 [DEBUG]   → Keywords: city officials
+2026-03-22 18:23:21,445 [WARNING]   Tag issue: Unknown tag 'procedural' not in taxonomy
+2026-03-22 18:23:21,451 [INFO]   Saved: CTX-NEWS-2025-00020 → CTX-NEWS-2025-00020.json
+2026-03-22 18:23:22,452 [INFO] [20/232] Fetching: https://cnycentral.com/news/local/lafayette-country-club-turning-into-a-lifestyle-community-golf-dog
+2026-03-22 18:23:26,287 [DEBUG] [20/232] Filtered (not relevant): Lafayette Country Club turning into a lifestyle community
+2026-03-22 18:23:29,287 [INFO] [21/232] Fetching: https://cnycentral.com/news/local/syracuse-residents-urged-to-voice-opinions-on-proposed-348m-budget
+2026-03-22 18:23:32,514 [INFO] [21/232] Relevant: Syracuse residents urged to voice opinions on proposed $348M budget
+2026-03-22 18:23:32,514 [DEBUG]   → Entities: Alexander Marion
+2026-03-22 18:23:32,515 [DEBUG]   → Keywords: common council, mayor, city budget
+2026-03-22 18:23:38,418 [WARNING]   Tag issue: Unknown tag 'fiscal-sustainability' not in taxonomy
+2026-03-22 18:23:38,429 [INFO]   Dedup match: CTX-NEWS-2025-00019
+2026-03-22 18:23:38,430 [INFO]   Saved: CTX-NEWS-2025-00021 → CTX-NEWS-2025-00021.json
+2026-03-22 18:23:39,431 [INFO] [22/232] Fetching: https://www.localsyr.com/news/local-news/mayor-walsh-announces-hiring-events-to-fill-openings-in-cit
+2026-03-22 18:23:39,796 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/mayor-walsh-announces-hiring-events-to-
+2026-03-22 18:23:39,796 [INFO] [22/232] Blocked/empty: https://www.localsyr.com/news/local-news/mayor-walsh-announces-hiring-events-to-
+2026-03-22 18:23:40,797 [INFO] [23/232] Fetching: https://cnycentral.com/news/i-team/housing-authority-public-hearing-lasts-20-minutes-with-no-leaders
+2026-03-22 18:23:43,819 [INFO] [23/232] Relevant: Housing Authority public hearing lasts 20 minutes, with no leadership present
+2026-03-22 18:23:43,819 [DEBUG]   → Keywords: public hearing
+2026-03-22 18:23:48,617 [INFO]   Saved: CTX-NEWS-2025-00022 → CTX-NEWS-2025-00022.json
+2026-03-22 18:23:51,618 [INFO] [24/232] Fetching: https://cnycentral.com/news/i-team/syracuse-housing-authority-to-hold-public-hearing-on-annual-plan-
+2026-03-22 18:23:55,892 [INFO] [24/232] Relevant: Syracuse Housing Authority to hold public hearing on annual plan Friday night
+2026-03-22 18:23:55,892 [DEBUG]   → Departments: Department of Permits and Development, Department of Finance, Law Department
+2026-03-22 18:23:55,893 [DEBUG]   → Keywords: public hearing
+2026-03-22 18:24:02,150 [INFO]   Dedup match: CTX-NEWS-2025-00022
+2026-03-22 18:24:02,152 [INFO]   Saved: CTX-NEWS-2025-00023 → CTX-NEWS-2025-00023.json
+2026-03-22 18:24:05,152 [INFO] [25/232] Fetching: https://cnycentral.com/news/local/independent-firm-used-by-walsh-administration-finds-26-red-flags-w
+2026-03-22 18:24:08,199 [INFO] [25/232] Relevant: Independent firm, used by Walsh Administration, finds 26 'red flags' with mayor'
+2026-03-22 18:24:08,199 [DEBUG]   → Entities: Bonadio Group
+2026-03-22 18:24:08,199 [DEBUG]   → Departments: Department of Finance
+2026-03-22 18:24:08,199 [DEBUG]   → Keywords: common council, mayor, city budget
+2026-03-22 18:24:14,145 [WARNING]   Tag issue: Unknown tag 'fiscal-analysis' not in taxonomy
+2026-03-22 18:24:14,145 [WARNING]   Tag issue: Unknown tag 'cost-cuts' not in taxonomy
+2026-03-22 18:24:14,145 [WARNING]   Tag issue: Unknown tag 'deficit' not in taxonomy
+2026-03-22 18:24:14,159 [INFO]   Saved: CTX-NEWS-2025-00024 → CTX-NEWS-2025-00024.json
+2026-03-22 18:24:17,160 [INFO] [26/232] Fetching: https://cnycentral.com/news/local/syracuse-democratic-mayoral-candidates-at-odds-over-budget-cuts-ma
+2026-03-22 18:24:20,889 [INFO] [26/232] Relevant: Democratic mayoral candidates at odds over budget cuts
+2026-03-22 18:24:20,889 [DEBUG]   → Keywords: common council, city council, mayor
+2026-03-22 18:24:26,593 [WARNING]   Tag issue: Unknown tag 'fiscal-responsibility' not in taxonomy
+2026-03-22 18:24:26,602 [INFO]   Saved: CTX-NEWS-2025-00025 → CTX-NEWS-2025-00025.json
+2026-03-22 18:24:27,603 [INFO] [27/232] Fetching: https://www.waer.org/2025-05-08/syracuse-common-councilors-slash-budget-mayor-walsh-calls-cuts-draco
+2026-03-22 18:24:30,102 [INFO] [27/232] Relevant: Syracuse Common Councilors slash budget; Mayor Walsh calls cuts "draconian and d
+2026-03-22 18:24:30,102 [DEBUG]   → Departments: Department of Parks, Recreation and Youth Programs, Syracuse Fire Department, Department of Finance
+2026-03-22 18:24:30,102 [DEBUG]   → Keywords: mayor, code enforcement, council president
+2026-03-22 18:24:36,769 [INFO]   Dedup match: CTX-NEWS-2025-00024
+2026-03-22 18:24:36,782 [INFO]   Saved: CTX-NEWS-2025-00026 → CTX-NEWS-2025-00026.json
+2026-03-22 18:24:37,783 [INFO] [28/232] Fetching: https://www.wrvo.org/2025-05-08/syracuse-lawmakers-slash-city-budget-by-16-million-walsh-calls-cuts-
+2026-03-22 18:24:40,347 [INFO] [28/232] Relevant: Syracuse lawmakers slash city budget by $16 million; Walsh calls cuts 'draconian
+2026-03-22 18:24:40,347 [DEBUG]   → Entities: Michael Monds, Syeisha Byrd
+2026-03-22 18:24:40,347 [DEBUG]   → Departments: Department of Human Resources, Department of Parks, Recreation and Youth Programs, Syracuse Fire Department
+2026-03-22 18:24:40,347 [DEBUG]   → Keywords: common council, mayor, city budget
+2026-03-22 18:24:47,030 [WARNING]   Tag issue: Unknown tag 'procedural' not in taxonomy
+2026-03-22 18:24:47,042 [INFO]   Dedup match: CTX-NEWS-2025-00024
+2026-03-22 18:24:47,046 [INFO]   Saved: CTX-NEWS-2025-00027 → CTX-NEWS-2025-00027.json
+2026-03-22 18:24:48,046 [INFO] [29/232] Fetching: https://www.localsyr.com/news/local-news/syracuses-common-council-cutting-expenses-for-dozens-of-dep
+2026-03-22 18:24:48,112 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuses-common-council-cutting-expens
+2026-03-22 18:24:48,112 [INFO] [29/232] Blocked/empty: https://www.localsyr.com/news/local-news/syracuses-common-council-cutting-expens
+2026-03-22 18:24:49,113 [INFO] [30/232] Fetching: https://cnycentral.com/news/local/we-need-to-do-better-sha-board-chair-addresses-open-meetings-law-v
+2026-03-22 18:24:51,817 [INFO] [30/232] Relevant: 'We need to do better': SHA Board Chair addresses open meetings law violation
+2026-03-22 18:24:51,817 [DEBUG]   → Departments: Department of Permits and Development, Law Department
+2026-03-22 18:24:51,817 [DEBUG]   → Keywords: common council, public hearing, council president
+2026-03-22 18:24:57,627 [WARNING]   Tag issue: Unknown tag 'accountability' not in taxonomy
+2026-03-22 18:24:57,627 [WARNING]   Tag issue: Unknown tag 'procedural' not in taxonomy
+2026-03-22 18:24:57,642 [INFO]   Saved: CTX-NEWS-2025-00028 → CTX-NEWS-2025-00028.json
+2026-03-22 18:25:00,643 [INFO] [31/232] Fetching: https://cnycentral.com/news/local/syracuse-common-council-mayor-at-odds-over-proposed-city-budget-pa
+2026-03-22 18:25:03,276 [INFO] [31/232] Relevant: Syracuse Common Council, Mayor at odds over proposed city budget
+2026-03-22 18:25:03,276 [DEBUG]   → Entities: Michael Monds, Jeremy Robinson, Syeisha Byrd
+2026-03-22 18:25:03,276 [DEBUG]   → Departments: Department of Public Works, Department of Parks, Recreation and Youth Programs, Syracuse Fire Department
+2026-03-22 18:25:03,276 [DEBUG]   → Keywords: common council, city council, mayor
+2026-03-22 18:25:10,504 [WARNING]   Tag issue: Unknown tag 'deficit' not in taxonomy
+2026-03-22 18:25:10,504 [WARNING]   Tag issue: Unknown tag 'cuts' not in taxonomy
+2026-03-22 18:25:10,504 [WARNING]   Tag issue: Unknown tag 'jobs' not in taxonomy
+2026-03-22 18:25:10,517 [INFO]   Dedup match: CTX-NEWS-2025-00026
+2026-03-22 18:25:10,519 [INFO]   Saved: CTX-NEWS-2025-00029 → CTX-NEWS-2025-00029.json
+2026-03-22 18:25:13,520 [INFO] [32/232] Fetching: https://cnycentral.com/news/local/inside-look-at-syracuse-mayor-ben-walshs-budget-strategy-over-his-
+2026-03-22 18:25:16,135 [INFO] [32/232] Relevant: Inside look at Syracuse Mayor Ben Walsh's budget strategy over his tenure in off
+2026-03-22 18:25:16,135 [DEBUG]   → Keywords: city hall, mayor, syracuse mayor
+2026-03-22 18:25:21,139 [WARNING]   Tag issue: Unknown tag 'fiscal-year' not in taxonomy
+2026-03-22 18:25:21,148 [INFO]   Saved: CTX-NEWS-2025-00030 → CTX-NEWS-2025-00030.json
+2026-03-22 18:25:24,149 [INFO] [33/232] Fetching: https://cnycentral.com/news/local/spd-syracuse-budget-cuts-threaten-police-safety-initiatives
+2026-03-22 18:25:27,021 [INFO] [33/232] Relevant: Syracuse budget cuts threaten police safety initiatives, chief says
+2026-03-22 18:25:27,021 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-22 18:25:27,021 [DEBUG]   → Keywords: common council, mayor, syracuse police
+2026-03-22 18:25:32,548 [WARNING]   Tag issue: Unknown tag 'staffing' not in taxonomy
+2026-03-22 18:25:32,562 [INFO]   Saved: CTX-NEWS-2025-00031 → CTX-NEWS-2025-00031.json
+2026-03-22 18:25:33,563 [INFO] [34/232] Fetching: https://www.waer.org/news/2025-05-12/mayor-ben-walsh-department-leaders-raise-concerns-over-council-
+2026-03-22 18:25:36,055 [INFO] [34/232] Relevant: Mayor Ben Walsh, department leaders raise concerns over council budget transpare
+2026-03-22 18:25:36,055 [DEBUG]   → Departments: Department of Finance, Law Department
+2026-03-22 18:25:36,055 [DEBUG]   → Keywords: city hall, common council, mayor
+2026-03-22 18:25:41,518 [INFO]   Saved: CTX-NEWS-2025-00032 → CTX-NEWS-2025-00032.json
+2026-03-22 18:25:42,519 [INFO] [35/232] Fetching: https://www.wrvo.org/2025-05-12/state-housing-investments-helping-homeowners-in-syracuse
+2026-03-22 18:25:45,002 [INFO] [35/232] Relevant: State housing investments helping homeowners in Syracuse
+2026-03-22 18:25:45,002 [DEBUG]   → Departments: Department of Permits and Development
+2026-03-22 18:25:45,002 [DEBUG]   → Keywords: mayor, syracuse mayor
+2026-03-22 18:25:50,570 [INFO]   Saved: CTX-NEWS-2025-00033 → CTX-NEWS-2025-00033.json
+2026-03-22 18:25:51,571 [INFO] [36/232] Fetching: https://www.waer.org/news/2025-05-10/city-departments-highlight-impact-of-steep-budget-cuts-approved
+2026-03-22 18:25:53,988 [INFO] [36/232] Relevant: City departments highlight impact of steep budget cuts approved by common counci
+2026-03-22 18:25:53,988 [DEBUG]   → Entities: Michael Monds, Jeremy Robinson, Syeisha Byrd
+2026-03-22 18:25:53,988 [DEBUG]   → Departments: Department of Public Works, Department of Parks, Recreation and Youth Programs, Syracuse Fire Department
+2026-03-22 18:25:53,988 [DEBUG]   → Keywords: department of public works, dpw, syracuse police
+2026-03-22 18:26:00,007 [INFO]   Dedup match: CTX-NEWS-2025-00026
+2026-03-22 18:26:00,008 [INFO]   Saved: CTX-NEWS-2025-00034 → CTX-NEWS-2025-00034.json
+2026-03-22 18:26:01,009 [INFO] [37/232] Fetching: https://cnycentral.com/news/local/bk
+2026-03-22 18:26:03,768 [INFO] [37/232] Relevant: Decisions on Syracuse budget cuts happened behind closed doors
+2026-03-22 18:26:03,769 [DEBUG]   → Entities: Bonadio Group
+2026-03-22 18:26:03,769 [DEBUG]   → Departments: Syracuse Fire Department, Department of Finance, Law Department
+2026-03-22 18:26:03,769 [DEBUG]   → Keywords: city hall, common council, mayor
+2026-03-22 18:26:10,080 [INFO]   Dedup match: CTX-NEWS-2025-00025
+2026-03-22 18:26:10,081 [INFO]   Saved: CTX-NEWS-2025-00035 → CTX-NEWS-2025-00035.json
+2026-03-22 18:26:11,082 [INFO] [38/232] Fetching: https://www.waer.org/news/2025-05-13/syracuse-common-council-stands-by-budget-cuts-as-mayor-decides-
+2026-03-22 18:26:13,474 [INFO] [38/232] Relevant: Syracuse common council stands by budget cuts as mayor decides his next move
+2026-03-22 18:26:13,474 [DEBUG]   → Entities: Helen Hudson, Jake Dishaw
+2026-03-22 18:26:13,474 [DEBUG]   → Departments: Syracuse Fire Department, Department of Finance
+2026-03-22 18:26:13,474 [DEBUG]   → Keywords: common council, mayor, city clerk
+2026-03-22 18:26:19,293 [INFO]   Dedup match: CTX-NEWS-2025-00032
+2026-03-22 18:26:19,296 [INFO]   Saved: CTX-NEWS-2025-00036 → CTX-NEWS-2025-00036.json
+2026-03-22 18:26:20,297 [INFO] [39/232] Fetching: https://cnycentral.com/news/local/syracuse-city-budget-under-mayor-walsh-increased-by-102-million-ov
+2026-03-22 18:26:23,151 [INFO] [39/232] Relevant: Syracuse city budget under Mayor Walsh increased by $102 million over eight-year
+2026-03-22 18:26:23,151 [DEBUG]   → Departments: Department of Public Works, Syracuse Fire Department, Syracuse Police Department
+2026-03-22 18:26:23,151 [DEBUG]   → Keywords: common council, mayor, city budget
+2026-03-22 18:26:29,419 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-22 18:26:29,425 [INFO]   Dedup match: CTX-NEWS-2025-00031
+2026-03-22 18:26:29,428 [INFO]   Saved: CTX-NEWS-2025-00037 → CTX-NEWS-2025-00037.json
+2026-03-22 18:26:32,428 [INFO] [40/232] Fetching: https://cnycentral.com/news/local/eys-private-meeting-with-syracuse-city-leaders-raises-questions-on
+2026-03-22 18:26:35,458 [INFO] [40/232] Relevant: EY's private meeting with Syracuse city leaders raises questions on payroll mode
+2026-03-22 18:26:35,458 [DEBUG]   → Departments: Department of Finance, Department of Information Technology, Law Department
+2026-03-22 18:26:35,458 [DEBUG]   → Keywords: city hall, common council, mayor
+2026-03-22 18:26:43,825 [INFO]   Dedup match: CTX-NEWS-2025-00019
+2026-03-22 18:26:43,827 [INFO]   Saved: CTX-NEWS-2025-00038 → CTX-NEWS-2025-00038.json
+2026-03-22 18:26:46,828 [INFO] [41/232] Fetching: https://cnycentral.com/news/politics/mayor-issues-vetoes-to-common-council-amendments-on-syracuse-ci
+2026-03-22 18:26:49,612 [INFO] [41/232] Relevant: Mayor issues 45 vetoes to Common Council's amendments on Syracuse city budget
+2026-03-22 18:26:49,612 [DEBUG]   → Entities: Bonadio Group
+2026-03-22 18:26:49,612 [DEBUG]   → Departments: Department of Public Works, Department of Parks, Recreation and Youth Programs, Syracuse Fire Department
+2026-03-22 18:26:49,613 [DEBUG]   → Keywords: city hall, common council, city council
+2026-03-22 18:26:58,282 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-22 18:26:58,294 [INFO]   Saved: CTX-NEWS-2025-00039 → CTX-NEWS-2025-00039.json
+2026-03-22 18:26:59,295 [INFO] [42/232] Fetching: https://www.wrvo.org/2025-05-19/walsh-vetoes-more-than-half-of-syracuse-lawmakers-budget-amendments
+2026-03-22 18:27:01,972 [INFO] [42/232] Relevant: Walsh vetoes more than half of Syracuse lawmakers' budget amendments
+2026-03-22 18:27:01,973 [DEBUG]   → Departments: Syracuse Fire Department
+2026-03-22 18:27:01,973 [DEBUG]   → Keywords: mayor, syracuse mayor, code enforcement
+2026-03-22 18:27:07,386 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-22 18:27:07,387 [WARNING]   Tag issue: Unknown tag 'procedural' not in taxonomy
+2026-03-22 18:27:07,400 [INFO]   Dedup match: CTX-NEWS-2025-00039
+2026-03-22 18:27:07,402 [INFO]   Saved: CTX-NEWS-2025-00040 → CTX-NEWS-2025-00040.json
+2026-03-22 18:27:08,402 [INFO] [43/232] Fetching: https://www.localsyr.com/news/local-news/through-formal-vetoes-syracuse-mayor-asks-common-council-to
+2026-03-22 18:27:08,477 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/through-formal-vetoes-syracuse-mayor-as
+2026-03-22 18:27:08,477 [INFO] [43/232] Blocked/empty: https://www.localsyr.com/news/local-news/through-formal-vetoes-syracuse-mayor-as
+2026-03-22 18:27:09,477 [INFO] [44/232] Fetching: https://www.wrvo.org/2025-05-19/syracuse-budget-battle-continues-between-walsh-and-city-lawmakers
+2026-03-22 18:27:11,907 [INFO] [44/232] Relevant: Walsh vetoes more than half of Syracuse lawmakers' budget amendments
+2026-03-22 18:27:11,907 [DEBUG]   → Departments: Syracuse Fire Department
+2026-03-22 18:27:11,907 [DEBUG]   → Keywords: mayor, syracuse mayor, code enforcement
+2026-03-22 18:27:16,806 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-22 18:27:16,821 [INFO]   Dedup match: CTX-NEWS-2025-00039
+2026-03-22 18:27:16,823 [INFO]   Saved: CTX-NEWS-2025-00041 → CTX-NEWS-2025-00041.json
+2026-03-22 18:27:17,823 [INFO] [45/232] Fetching: https://www.localsyr.com/news/local-news/leader-says-common-council-will-probably-override-syracuse-
+2026-03-22 18:27:17,897 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/leader-says-common-council-will-probabl
+2026-03-22 18:27:17,897 [INFO] [45/232] Blocked/empty: https://www.localsyr.com/news/local-news/leader-says-common-council-will-probabl
+2026-03-22 18:27:20,897 [INFO] [46/232] Fetching: https://www.localsyr.com/news/local-news/warning-period-concludes-for-syracuse-bus-stop-arm-camera-e
+2026-03-22 18:27:20,995 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/warning-period-concludes-for-syracuse-b
+2026-03-22 18:27:20,995 [INFO] [46/232] Blocked/empty: https://www.localsyr.com/news/local-news/warning-period-concludes-for-syracuse-b
+2026-03-22 18:27:21,996 [INFO] [47/232] Fetching: https://cnycentral.com/news/i-team/i-team-a-closer-look-at-whats-behind-the-syracuse-mayors-budget-a
+2026-03-22 18:27:24,852 [INFO] [47/232] Relevant: I-Team: A closer look at what's behind the Syracuse Mayor's budget amendment vet
+2026-03-22 18:27:24,852 [DEBUG]   → Departments: Syracuse Fire Department, Law Department
+2026-03-22 18:27:24,852 [DEBUG]   → Keywords: common council, mayor, city budget
+2026-03-22 18:27:32,556 [INFO]   Dedup match: CTX-NEWS-2025-00039
+2026-03-22 18:27:32,558 [INFO]   Saved: CTX-NEWS-2025-00042 → CTX-NEWS-2025-00042.json
+2026-03-22 18:27:33,559 [INFO] [48/232] Fetching: https://www.waer.org/news/2025-05-20/mayor-walsh-rejects-most-of-common-councils-budget-cuts-calls-f
+2026-03-22 18:27:35,971 [INFO] [48/232] Relevant: Mayor Walsh rejects most of common council's budget cuts, calls for compromise
+2026-03-22 18:27:35,971 [DEBUG]   → Keywords: common council, mayor, syracuse mayor
+2026-03-22 18:27:42,229 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-22 18:27:42,229 [WARNING]   Tag issue: Unknown tag 'procedural' not in taxonomy
+2026-03-22 18:27:42,244 [INFO]   Saved: CTX-NEWS-2025-00043 → CTX-NEWS-2025-00043.json
+2026-03-22 18:27:45,245 [INFO] [49/232] Fetching: https://www.waer.org/news/2025-05-22/syracuse-councilors-poised-to-override-mayors-attempt-to-restor
+2026-03-22 18:27:47,668 [INFO] [49/232] Relevant: Syracuse councilors poised to override mayor's attempt to restore budget cuts
+2026-03-22 18:27:47,668 [DEBUG]   → Keywords: common council, mayor, city budget
+2026-03-22 18:27:53,761 [INFO]   Saved: CTX-NEWS-2025-00044 → CTX-NEWS-2025-00044.json
+2026-03-22 18:27:54,762 [INFO] [50/232] Fetching: https://www.wrvo.org/2025-05-27/syracuse-lawmakers-unanimously-vote-to-override-walshs-budget-vetoes
+2026-03-22 18:27:57,321 [INFO] [50/232] Relevant: Syracuse lawmakers unanimously vote to override Walsh's budget vetoes
+2026-03-22 18:27:57,321 [DEBUG]   → Departments: Law Department
+2026-03-22 18:27:57,321 [DEBUG]   → Keywords: common council, mayor, city auditor
+2026-03-22 18:28:03,227 [INFO]   Saved: CTX-NEWS-2025-00045 → CTX-NEWS-2025-00045.json
+2026-03-22 18:28:04,228 [INFO] [51/232] Fetching: https://www.waer.org/news/2025-05-27/common-council-overrides-mayors-vetoes-approves-broad-budget-cu
+2026-03-22 18:28:06,696 [INFO] [51/232] Relevant: Common council overrides mayor's vetoes, approves broad budget cuts
+2026-03-22 18:28:06,696 [DEBUG]   → Departments: Department of Finance
+2026-03-22 18:28:06,696 [DEBUG]   → Keywords: common council, mayor, city clerk
+2026-03-22 18:28:12,609 [INFO]   Saved: CTX-NEWS-2025-00046 → CTX-NEWS-2025-00046.json
+2026-03-22 18:28:13,610 [INFO] [52/232] Fetching: https://cnycentral.com/news/local/syracuse-political-infighting-likely-to-continue-as-contentious-ci
+2026-03-22 18:28:17,877 [INFO] [52/232] Relevant: Syracuse political infighting likely to continue as contentious city budget is f
+2026-03-22 18:28:17,877 [DEBUG]   → Entities: Michael Monds, Syeisha Byrd
+2026-03-22 18:28:17,877 [DEBUG]   → Departments: Department of Parks, Recreation and Youth Programs, Syracuse Fire Department, Law Department
+2026-03-22 18:28:17,877 [DEBUG]   → Keywords: city hall, common council, mayor
+2026-03-22 18:28:24,389 [WARNING]   Tag issue: Unknown tag 'political-infighting' not in taxonomy
+2026-03-22 18:28:24,402 [INFO]   Saved: CTX-NEWS-2025-00047 → CTX-NEWS-2025-00047.json
+2026-03-22 18:28:27,403 [INFO] [53/232] Fetching: https://cnycentral.com/news/local/syracuse-police-and-fire-departments-face-off-in-charity-basketbal
+2026-03-22 18:28:30,377 [INFO] [53/232] Relevant: Syracuse police and fire departments face off in charity basketball game
+2026-03-22 18:28:30,377 [DEBUG]   → Entities: Michael Monds
+2026-03-22 18:28:30,377 [DEBUG]   → Departments: Syracuse Fire Department, Syracuse Police Department
+2026-03-22 18:28:30,378 [DEBUG]   → Keywords: syracuse police, syracuse fire
+2026-03-22 18:28:34,684 [WARNING]   Tag issue: Unknown tag 'community-community' not in taxonomy
+2026-03-22 18:28:34,698 [INFO]   Saved: CTX-NEWS-2025-00048 → CTX-NEWS-2025-00048.json
+2026-03-22 18:28:35,698 [INFO] [54/232] Fetching: https://www.localsyr.com/news/local-news/bravest-vs-finest-basketball-game-returns-while-both-depart
+2026-03-22 18:28:35,785 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/bravest-vs-finest-basketball-game-retur
+2026-03-22 18:28:35,785 [INFO] [54/232] Blocked/empty: https://www.localsyr.com/news/local-news/bravest-vs-finest-basketball-game-retur
+2026-03-22 18:28:36,786 [INFO] [55/232] Fetching: https://www.waer.org/news/2025-05-23/i-81-project-intensifying-across-the-city-of-syracuse-and-subur
+2026-03-22 18:28:39,285 [INFO] [55/232] Relevant: I-81 Project intensifying across the City of Syracuse and suburbs
+2026-03-22 18:28:39,285 [DEBUG]   → Departments: Department of Permits and Development
+2026-03-22 18:28:39,285 [DEBUG]   → Keywords: city of syracuse
+2026-03-22 18:28:45,544 [INFO]   Saved: CTX-NEWS-2025-00049 → CTX-NEWS-2025-00049.json
+2026-03-22 18:28:48,544 [INFO] [56/232] Fetching: https://www.waer.org/news/2025-05-26/banners-honoring-syracuse-veterans-expand-to-all-corners-of-the
+2026-03-22 18:28:50,945 [INFO] [56/232] Relevant: Banners honoring Syracuse veterans expand to all corners of the city
+2026-03-22 18:28:50,945 [DEBUG]   → Entities: Syracuse University
+2026-03-22 18:28:50,945 [DEBUG]   → Departments: Department of Parks, Recreation and Youth Programs
+2026-03-22 18:28:50,945 [DEBUG]   → Keywords: common council, mayor, council president
+2026-03-22 18:28:56,735 [WARNING]   Tag issue: Unknown tag 'community-engagement' not in taxonomy
+2026-03-22 18:28:56,742 [INFO]   Saved: CTX-NEWS-2025-00050 → CTX-NEWS-2025-00050.json
+2026-03-22 18:28:57,743 [INFO] [57/232] Fetching: https://www.wrvo.org/2025-05-29/officials-celebrate-success-of-i-81-projects-local-hiring-initiative
+2026-03-22 18:29:00,247 [INFO] [57/232] Relevant: Officials celebrate success of I-81 project's local hiring initiative
+2026-03-22 18:29:00,247 [DEBUG]   → Departments: Department of Public Works
+2026-03-22 18:29:00,247 [DEBUG]   → Keywords: city of syracuse
+2026-03-22 18:29:05,957 [INFO]   Saved: CTX-NEWS-2025-00051 → CTX-NEWS-2025-00051.json
+2026-03-22 18:29:06,958 [INFO] [58/232] Fetching: https://www.localsyr.com/news/local-news/from-policing-landlords-to-issuing-permits-common-councils-
+2026-03-22 18:29:07,034 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/from-policing-landlords-to-issuing-perm
+2026-03-22 18:29:07,034 [INFO] [58/232] Blocked/empty: https://www.localsyr.com/news/local-news/from-policing-landlords-to-issuing-perm
+2026-03-22 18:29:10,035 [INFO] [59/232] Fetching: https://www.localsyr.com/news/local-news/syracuse-fire-department-urging-mayor-to-reject-proposed-cu
+2026-03-22 18:29:10,134 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-fire-department-urging-mayor-t
+2026-03-22 18:29:10,134 [INFO] [59/232] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-fire-department-urging-mayor-t
+2026-03-22 18:29:11,134 [INFO] [60/232] Fetching: https://cnycentral.com/news/local/i-team-meeting-between-mayor-council-president-pro-temp-finance-ch
+2026-03-22 18:29:15,176 [INFO] [60/232] Relevant: I-Team: Meeting between Mayor, Council President Pro Temp, Finance Chair on city
+2026-03-22 18:29:15,177 [DEBUG]   → Entities: Bonadio Group
+2026-03-22 18:29:15,177 [DEBUG]   → Departments: Department of Finance
+2026-03-22 18:29:15,177 [DEBUG]   → Keywords: common council, mayor, city budget
+2026-03-22 18:29:20,474 [INFO]   Dedup match: CTX-NEWS-2025-00032
+2026-03-22 18:29:20,475 [INFO]   Saved: CTX-NEWS-2025-00052 → CTX-NEWS-2025-00052.json
+2026-03-22 18:29:23,475 [INFO] [61/232] Fetching: https://cnycentral.com/news/local/village-of-north-syracuse-give-little-notice-for-taking-away-trash
+2026-03-22 18:29:26,554 [DEBUG] [61/232] Filtered (not relevant): Village of North Syracuse give little notice for taking away trash cans
+2026-03-22 18:29:29,555 [INFO] [62/232] Fetching: https://cnycentral.com/news/local/a-rainbow-over-city-hall-syracuse-honors-pride-month-with-flag-rai
+2026-03-22 18:29:32,800 [INFO] [62/232] Relevant: A rainbow over City Hall: Syracuse honors Pride Month with flag raising
+2026-03-22 18:29:32,800 [DEBUG]   → Entities: Jimmy Monto
+2026-03-22 18:29:32,800 [DEBUG]   → Departments: Law Department
+2026-03-22 18:29:32,800 [DEBUG]   → Keywords: city hall, mayor
+2026-03-22 18:29:40,520 [INFO]   Saved: CTX-NEWS-2025-00053 → CTX-NEWS-2025-00053.json
+2026-03-22 18:29:43,520 [INFO] [63/232] Fetching: https://cnycentral.com/news/local/in-syracuse-budget-battle-council-leader-pledges-to-override-all-m
+2026-03-22 18:29:47,070 [INFO] [63/232] Relevant: In Syracuse budget battle, council leader pledges to override all mayoral vetoes
+2026-03-22 18:29:47,070 [DEBUG]   → Entities: Michael Monds, Syeisha Byrd
+2026-03-22 18:29:47,071 [DEBUG]   → Departments: Department of Parks, Recreation and Youth Programs, Syracuse Fire Department, Syracuse Police Department
+2026-03-22 18:29:47,071 [DEBUG]   → Keywords: common council, mayor, city budget
+2026-03-22 18:29:53,728 [WARNING]   Tag issue: Unknown tag 'procedural' not in taxonomy
+2026-03-22 18:29:53,745 [INFO]   Saved: CTX-NEWS-2025-00054 → CTX-NEWS-2025-00054.json
+2026-03-22 18:29:54,745 [INFO] [64/232] Fetching: https://www.localsyr.com/news/local-news/where-does-the-columbus-statue-in-syracuse-stand
+2026-03-22 18:29:54,825 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/where-does-the-columbus-statue-in-syrac
+2026-03-22 18:29:54,825 [INFO] [64/232] Blocked/empty: https://www.localsyr.com/news/local-news/where-does-the-columbus-statue-in-syrac
+2026-03-22 18:29:55,825 [INFO] [65/232] Fetching: https://cnycentral.com/news/local/syracuse-public-safety-building-could-become-apartments-next-to-ja
+2026-03-22 18:29:59,978 [INFO] [65/232] Relevant: Syracuse Public Safety building could become apartments next to jail and courtho
+2026-03-22 18:29:59,978 [DEBUG]   → Departments: Syracuse Fire Department, Law Department
+2026-03-22 18:29:59,978 [DEBUG]   → Keywords: city hall
+2026-03-22 18:30:06,632 [INFO]   Saved: CTX-NEWS-2025-00055 → CTX-NEWS-2025-00055.json
+2026-03-22 18:30:09,632 [INFO] [66/232] Fetching: https://cnycentral.com/news/local/syracuse-rescue-mission-city-putting-up-fencing-is-not-a-solution-
+2026-03-22 18:30:12,350 [INFO] [66/232] Relevant: Syracuse Rescue Mission: Fence separating homeless from downtown is not a soluti
+2026-03-22 18:30:12,350 [DEBUG]   → Departments: Department of Public Works, Law Department
+2026-03-22 18:30:12,350 [DEBUG]   → Keywords: mayor, city of syracuse, department of public works
+2026-03-22 18:30:17,533 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-22 18:30:17,533 [WARNING]   Tag issue: Unknown tag 'homelessness' not in taxonomy
+2026-03-22 18:30:17,549 [INFO]   Saved: CTX-NEWS-2025-00056 → CTX-NEWS-2025-00056.json
+2026-03-22 18:30:18,549 [INFO] [67/232] Fetching: https://www.localsyr.com/news/local-news/syracuses-jail-could-become-new-housing/
+2026-03-22 18:30:18,650 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuses-jail-could-become-new-housing
+2026-03-22 18:30:18,650 [INFO] [67/232] Blocked/empty: https://www.localsyr.com/news/local-news/syracuses-jail-could-become-new-housing
+2026-03-22 18:30:19,650 [INFO] [68/232] Fetching: https://cnycentral.com/news/local/long-awaited-outside-audit-complete-of-mayor-walshs-payroll-modern
+2026-03-22 18:30:22,892 [INFO] [68/232] Relevant: Long awaited outside audit complete of Mayor Walsh's payroll modernization attem
+2026-03-22 18:30:22,892 [DEBUG]   → Departments: Department of Finance, Department of Information Technology
+2026-03-22 18:30:22,892 [DEBUG]   → Keywords: city hall, common council, mayor
+2026-03-22 18:30:28,896 [INFO]   Saved: CTX-NEWS-2025-00057 → CTX-NEWS-2025-00057.json
+2026-03-22 18:30:29,896 [INFO] [69/232] Fetching: https://www.waer.org/news/2025-06-06/westcott-neighborhood-remains-resilient-amid-recent-challenges
+2026-03-22 18:30:32,385 [INFO] [69/232] Relevant: Westcott neighborhood remains resilient amid recent challenges
+2026-03-22 18:30:32,385 [DEBUG]   → Keywords: mayor
+2026-03-22 18:30:37,326 [INFO]   Dedup match: CTX-WEB-2026-00045
+2026-03-22 18:30:37,328 [INFO]   Saved: CTX-NEWS-2025-00058 → CTX-NEWS-2025-00058.json
+2026-03-22 18:30:38,329 [INFO] [70/232] Fetching: https://cnycentral.com/news/local/fence-outside-syracuse-rescue-mission-sparks-major-concerns-from-h
+2026-03-22 18:30:42,639 [INFO] [70/232] Relevant: Fence outside Syracuse Rescue Mission sparks major concerns from homeless commun
+2026-03-22 18:30:42,639 [DEBUG]   → Departments: Department of Public Works, Department of Human Resources, Law Department
+2026-03-22 18:30:42,639 [DEBUG]   → Keywords: city officials
+2026-03-22 18:30:49,067 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-22 18:30:49,081 [INFO]   Saved: CTX-NEWS-2025-00059 → CTX-NEWS-2025-00059.json
+2026-03-22 18:30:50,082 [INFO] [71/232] Fetching: https://www.waer.org/local-news/2025-06-04/moodys-affirms-syracuses-strong-bond-rating-for-seventh-s
+2026-03-22 18:30:52,540 [INFO] [71/232] Relevant: Moody’s affirms Syracuse’s strong bond rating for seventh straight year
+2026-03-22 18:30:52,540 [DEBUG]   → Departments: Department of Finance
+2026-03-22 18:30:52,540 [DEBUG]   → Keywords: mayor, municipal, syracuse mayor
+2026-03-22 18:30:56,514 [WARNING]   Tag issue: Unknown tag 'financial-management' not in taxonomy
+2026-03-22 18:30:56,525 [INFO]   Saved: CTX-NEWS-2025-00060 → CTX-NEWS-2025-00060.json
+2026-03-22 18:30:57,525 [INFO] [72/232] Fetching: https://cnycentral.com/news/local/audit-reveals-failures-in-walsh-administrations-payroll-modernizat
+2026-03-22 18:31:02,888 [INFO] [72/232] Relevant: Audit reveals failures in Walsh administration's payroll modernization project
+2026-03-22 18:31:02,889 [DEBUG]   → Departments: Department of Permits and Development, Department of Finance, Department of Information Technology
+2026-03-22 18:31:02,889 [DEBUG]   → Keywords: city hall, common council, mayor
+2026-03-22 18:31:09,751 [WARNING]   Tag issue: Unknown tag 'oversight' not in taxonomy
+2026-03-22 18:31:09,766 [INFO]   Saved: CTX-NEWS-2025-00061 → CTX-NEWS-2025-00061.json
+2026-03-22 18:31:10,766 [INFO] [73/232] Fetching: https://www.localsyr.com/news/local-news/newschannel-9-goes-inside-the-demolition-zone-as-century-ol
+2026-03-22 18:31:10,921 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/newschannel-9-goes-inside-the-demolitio
+2026-03-22 18:31:10,921 [INFO] [73/232] Blocked/empty: https://www.localsyr.com/news/local-news/newschannel-9-goes-inside-the-demolitio
+2026-03-22 18:31:11,922 [INFO] [74/232] Fetching: https://cnycentral.com/news/local/tower-701-is-seeking-1850-from-students-for-a-315-square-foot-stud
+2026-03-22 18:31:14,838 [INFO] [74/232] Relevant: Tower 701, geared toward young professionals, is asking for $1,850 a month for r
+2026-03-22 18:31:14,838 [DEBUG]   → Departments: Department of Permits and Development
+2026-03-22 18:31:14,839 [DEBUG]   → Keywords: mayor
+2026-03-22 18:31:20,312 [WARNING]   Tag issue: Unknown tag 'affordable-housing' not in taxonomy
+2026-03-22 18:31:20,327 [INFO]   Saved: CTX-NEWS-2025-00062 → CTX-NEWS-2025-00062.json
+2026-03-22 18:31:23,328 [INFO] [75/232] Fetching: https://cnycentral.com/news/i-team/report-finds-syracuse-lead-paint-ordinance-may-not-be-preventing-
+2026-03-22 18:31:26,803 [INFO] [75/232] Relevant: Report finds Syracuse lead paint ordinance may not be preventing poisoning cases
+2026-03-22 18:31:26,803 [DEBUG]   → Entities: Jake Dishaw
+2026-03-22 18:31:26,803 [DEBUG]   → Departments: Law Department
+2026-03-22 18:31:26,803 [DEBUG]   → Keywords: ordinance, city budget, city of syracuse
+2026-03-22 18:31:32,865 [INFO]   Saved: CTX-NEWS-2025-00063 → CTX-NEWS-2025-00063.json
+2026-03-22 18:31:33,866 [INFO] [76/232] Fetching: https://www.waer.org/news/2025-06-10/syracuse-councilors-kill-city-wide-property-reassessment-in-pol
+2026-03-22 18:31:36,330 [INFO] [76/232] Relevant: Syracuse councilors kill city-wide property reassessment in politically charged 
+2026-03-22 18:31:36,330 [DEBUG]   → Departments: Department of Finance
+2026-03-22 18:31:36,330 [DEBUG]   → Keywords: mayor
+2026-03-22 18:31:41,807 [WARNING]   Tag issue: Unknown tag 'procedural' not in taxonomy
+2026-03-22 18:31:41,825 [INFO]   Saved: CTX-NEWS-2025-00064 → CTX-NEWS-2025-00064.json
+2026-03-22 18:31:42,826 [INFO] [77/232] Fetching: https://www.localsyr.com/news/local-news/syracuse-to-close-illegal-marijuana-shop-after-court-order/
+2026-03-22 18:31:42,908 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-to-close-illegal-marijuana-sho
+2026-03-22 18:31:42,908 [INFO] [77/232] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-to-close-illegal-marijuana-sho
+2026-03-22 18:31:43,908 [INFO] [78/232] Fetching: https://cnycentral.com/news/local/state-supreme-court-files-injunction-against-illegal-syracuse-weed
+2026-03-22 18:31:47,173 [INFO] [78/232] Relevant: State Supreme Court files injunction against illegal Syracuse weed shop
+2026-03-22 18:31:47,173 [DEBUG]   → Departments: Law Department
+2026-03-22 18:31:47,173 [DEBUG]   → Keywords: mayor, syracuse mayor
+2026-03-22 18:31:55,288 [INFO]   Saved: CTX-NEWS-2025-00065 → CTX-NEWS-2025-00065.json
+2026-03-22 18:31:58,289 [INFO] [79/232] Fetching: https://cnycentral.com/news/local/onondaga-park-pool-to-reopen-amid-safety-concerns-days-after-fatal
+2026-03-22 18:32:01,108 [INFO] [79/232] Relevant: 'These pools raised me': Public stays hopeful about Onondaga Park despite recent
+2026-03-22 18:32:01,108 [DEBUG]   → Entities: Syeisha Byrd, Veo
+2026-03-22 18:32:01,108 [DEBUG]   → Departments: Department of Parks, Recreation and Youth Programs, Syracuse Police Department
+2026-03-22 18:32:01,108 [DEBUG]   → Keywords: mayor, syracuse mayor, syracuse police
+2026-03-22 18:32:07,302 [INFO]   Saved: CTX-NEWS-2025-00066 → CTX-NEWS-2025-00066.json
+2026-03-22 18:32:08,303 [INFO] [80/232] Fetching: https://www.waer.org/news/2025-06-26/mayor-walsh-syracuse-democrats-send-message-with-owens-resoundi
+2026-03-22 18:32:10,823 [INFO] [80/232] Relevant: Mayor Walsh: Syracuse Democrats send message with Owens' resounding primary win
+2026-03-22 18:32:10,823 [DEBUG]   → Keywords: mayor, city government
+2026-03-22 18:32:15,555 [WARNING]   Tag issue: Unknown tag 'election' not in taxonomy
+2026-03-22 18:32:15,569 [INFO]   Saved: CTX-NEWS-2025-00067 → CTX-NEWS-2025-00067.json
+2026-03-22 18:32:16,570 [INFO] [81/232] Fetching: https://cnycentral.com/news/local/shootings-are-up-46-in-syracuse-from-this-time-last-year-data-show
+2026-03-22 18:32:19,458 [INFO] [81/232] Relevant: Shootings are up in Syracuse from last year, Community speaks on child-involved 
+2026-03-22 18:32:19,458 [DEBUG]   → Departments: Syracuse Police Department, Law Department
+2026-03-22 18:32:19,459 [DEBUG]   → Keywords: mayor, syracuse police
+2026-03-22 18:32:25,923 [WARNING]   Tag issue: Unknown tag 'intervention' not in taxonomy
+2026-03-22 18:32:25,945 [INFO]   Saved: CTX-NEWS-2025-00068 → CTX-NEWS-2025-00068.json
+2026-03-22 18:32:28,946 [INFO] [82/232] Fetching: https://cnycentral.com/news/local/syracuse-hosted-healthy-housing-101-event-for-safe-home-practices
+2026-03-22 18:32:31,775 [INFO] [82/232] Relevant: Syracuse hosted Healthy Housing 101 event for safe home practices
+2026-03-22 18:32:31,775 [DEBUG]   → Departments: Law Department
+2026-03-22 18:32:31,775 [DEBUG]   → Keywords: code enforcement, property maintenance
+2026-03-22 18:32:36,940 [INFO]   Saved: CTX-NEWS-2025-00069 → CTX-NEWS-2025-00069.json
+2026-03-22 18:32:39,940 [INFO] [83/232] Fetching: https://cnycentral.com/news/local/neighbors-question-safety-at-syracuse-city-pool-after-fatal-shooti
+2026-03-22 18:32:43,377 [INFO] [83/232] Relevant: Neighbors question safety at Syracuse city pool after fatal shooting
+2026-03-22 18:32:43,377 [DEBUG]   → Departments: Department of Parks, Recreation and Youth Programs
+2026-03-22 18:32:43,377 [DEBUG]   → Keywords: mayor
+2026-03-22 18:32:49,532 [WARNING]   Tag issue: Unknown tag 'constituent_complaints' not in taxonomy
+2026-03-22 18:32:49,541 [INFO]   Dedup match: CTX-NEWS-2025-00066
+2026-03-22 18:32:49,542 [INFO]   Saved: CTX-NEWS-2025-00070 → CTX-NEWS-2025-00070.json
+2026-03-22 18:32:52,543 [INFO] [84/232] Fetching: https://cnycentral.com/news/local/syracuse-residents-frustrated-by-delays-in-convent-demolition-mark
+2026-03-22 18:32:56,910 [INFO] [84/232] Relevant: Syracuse residents frustrated by delays in convent demolition
+2026-03-22 18:32:56,910 [DEBUG]   → Entities: Michael Collins
+2026-03-22 18:32:56,911 [DEBUG]   → Departments: Syracuse Fire Department, Department of Permits and Development
+2026-03-22 18:33:02,902 [WARNING]   Tag issue: Unknown tag 'demolition' not in taxonomy
+2026-03-22 18:33:02,902 [WARNING]   Tag issue: Unknown tag 'property-neglect' not in taxonomy
+2026-03-22 18:33:02,918 [INFO]   Saved: CTX-NEWS-2025-00071 → CTX-NEWS-2025-00071.json
+2026-03-22 18:33:03,918 [INFO] [85/232] Fetching: https://www.localsyr.com/news/local-news/steam-high-school-to-open-this-september-syracuse-city-scho
+2026-03-22 18:33:04,402 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/steam-high-school-to-open-this-septembe
+2026-03-22 18:33:04,402 [INFO] [85/232] Blocked/empty: https://www.localsyr.com/news/local-news/steam-high-school-to-open-this-septembe
+2026-03-22 18:33:05,402 [INFO] [86/232] Fetching: https://cnycentral.com/news/local/syracuse-police-chief-discusses-city-pool-safety-after-homicide
+2026-03-22 18:33:08,495 [INFO] [86/232] Relevant: Syracuse Police Chief discusses city pool safety after homicide
+2026-03-22 18:33:08,496 [DEBUG]   → Departments: Department of Parks, Recreation and Youth Programs, Syracuse Police Department, Law Department
+2026-03-22 18:33:08,496 [DEBUG]   → Keywords: mayor, syracuse police
+2026-03-22 18:33:13,069 [WARNING]   Tag issue: Unknown tag 'community-relations' not in taxonomy
+2026-03-22 18:33:13,083 [INFO]   Saved: CTX-NEWS-2025-00072 → CTX-NEWS-2025-00072.json
+2026-03-22 18:33:16,084 [INFO] [87/232] Fetching: https://cnycentral.com/news/local/leaders-police-union-left-context-out-of-facebook-post-calling-arm
+2026-03-22 18:33:19,275 [INFO] [87/232] Relevant: Leaders: Police union left context out of Facebook post calling Armory Square 'c
+2026-03-22 18:33:19,275 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-22 18:33:19,275 [DEBUG]   → Keywords: mayor, syracuse police
+2026-03-22 18:33:25,522 [INFO]   Saved: CTX-NEWS-2025-00073 → CTX-NEWS-2025-00073.json
+2026-03-22 18:33:28,523 [INFO] [88/232] Fetching: https://cnycentral.com/news/local/syracuse-officials-and-residents-question-police-unions-portrayal-
+2026-03-22 18:33:31,804 [INFO] [88/232] Relevant: Syracuse officials and residents question police union's portrayal of Armory Squ
+2026-03-22 18:33:31,804 [DEBUG]   → Departments: Syracuse Police Department, Law Department
+2026-03-22 18:33:31,804 [DEBUG]   → Keywords: syracuse police, city officials
+2026-03-22 18:33:37,881 [INFO]   Dedup match: CTX-NEWS-2025-00073
+2026-03-22 18:33:37,883 [INFO]   Saved: CTX-NEWS-2025-00074 → CTX-NEWS-2025-00074.json
+2026-03-22 18:33:38,884 [INFO] [89/232] Fetching: https://www.localsyr.com/news/local-news/facing-gangs-and-guns-officers-union-calls-weekend-in-armor
+2026-03-22 18:33:38,979 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/facing-gangs-and-guns-officers-union-ca
+2026-03-22 18:33:38,979 [INFO] [89/232] Blocked/empty: https://www.localsyr.com/news/local-news/facing-gangs-and-guns-officers-union-ca
+2026-03-22 18:33:39,980 [INFO] [90/232] Fetching: https://cnycentral.com/news/local/it-was-nothing-short-of-chaos-police-union-leader-defends-vague-ar
+2026-03-22 18:33:44,204 [INFO] [90/232] Relevant: 'Nothing short of chaos': Police Union leader defends vague Armory Square Facebo
+2026-03-22 18:33:44,204 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-22 18:33:44,204 [DEBUG]   → Keywords: city hall, mayor, syracuse police
+2026-03-22 18:33:50,610 [INFO]   Dedup match: CTX-NEWS-2025-00073
+2026-03-22 18:33:50,613 [INFO]   Saved: CTX-NEWS-2025-00075 → CTX-NEWS-2025-00075.json
+2026-03-22 18:33:53,613 [INFO] [91/232] Fetching: https://cnycentral.com/news/local/despite-recent-violence-overall-homicide-rate-in-syracuse-down-fro
+2026-03-22 18:33:57,590 [INFO] [91/232] Relevant: Despite recent violence, overall homicide rate in Syracuse down from last year
+2026-03-22 18:33:57,590 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-22 18:33:57,590 [DEBUG]   → Keywords: mayor, syracuse police
+2026-03-22 18:34:03,334 [WARNING]   Tag issue: Unknown tag 'community-outreach' not in taxonomy
+2026-03-22 18:34:03,346 [INFO]   Saved: CTX-NEWS-2025-00076 → CTX-NEWS-2025-00076.json
+2026-03-22 18:34:04,346 [INFO] [92/232] Fetching: https://www.waer.org/news/2025-07-10/ikea-could-boost-struggling-destiny-usa-connect-nearby-attracti
+2026-03-22 18:34:06,786 [INFO] [92/232] Relevant: IKEA could boost struggling Destiny USA, connect nearby attractions
+2026-03-22 18:34:06,786 [DEBUG]   → Departments: Department of Permits and Development, Department of Finance
+2026-03-22 18:34:06,786 [DEBUG]   → Keywords: mayor
+2026-03-22 18:34:12,636 [INFO]   Saved: CTX-NEWS-2025-00077 → CTX-NEWS-2025-00077.json
+2026-03-22 18:34:15,636 [INFO] [93/232] Fetching: http://www.waer.org
+2026-03-22 18:34:18,094 [INFO] [93/232] Relevant: Homepage
+2026-03-22 18:34:18,094 [DEBUG]   → Entities: Syracuse University
+2026-03-22 18:34:18,094 [DEBUG]   → Departments: Syracuse Fire Department, Syracuse Police Department, Law Department
+2026-03-22 18:34:18,094 [DEBUG]   → Keywords: syracuse police
+2026-03-22 18:34:23,761 [INFO]   Saved: CTX-NEWS-2026-00001 → CTX-NEWS-2026-00001.json
+2026-03-22 18:34:26,762 [INFO] [94/232] Fetching: https://www.waer.org/local-news/2025-07-09/syracuse-expands-surge-link-broadband-to-more-underserved
+2026-03-22 18:34:29,183 [INFO] [94/232] Relevant: Syracuse expands Surge Link broadband to more underserved neighborhoods
+2026-03-22 18:34:29,184 [DEBUG]   → Keywords: mayor, municipal
+2026-03-22 18:34:35,220 [INFO]   Saved: CTX-NEWS-2025-00078 → CTX-NEWS-2025-00078.json
+2026-03-22 18:34:36,220 [INFO] [95/232] Fetching: https://cnycentral.com/news/local/syracuses-broad-band-service-surge-link-expands-to-more-impoverish
+2026-03-22 18:34:40,183 [INFO] [95/232] Relevant: Syracuse's broadband service, Surge Link, expands to more low-income households
+2026-03-22 18:34:40,183 [DEBUG]   → Departments: Law Department
+2026-03-22 18:34:40,183 [DEBUG]   → Keywords: mayor, municipal, syracuse mayor
+2026-03-22 18:34:46,959 [INFO]   Dedup match: CTX-NEWS-2025-00078
+2026-03-22 18:34:46,961 [INFO]   Saved: CTX-NEWS-2025-00079 → CTX-NEWS-2025-00079.json
+2026-03-22 18:34:49,962 [INFO] [96/232] Fetching: https://cnycentral.com/news/local/community-activist-talks-about-rash-of-violent-crime-young-suspect
+2026-03-22 18:34:53,280 [DEBUG] [96/232] Filtered (not relevant): Community activist talks about rash of violent crime, young suspects in Syracuse
+2026-03-22 18:34:54,280 [INFO] [97/232] Fetching: https://www.localsyr.com/news/local-news/low-income-internet-provider-expands-coverage-to-more-than-
+2026-03-22 18:34:54,370 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/low-income-internet-provider-expands-co
+2026-03-22 18:34:54,370 [INFO] [97/232] Blocked/empty: https://www.localsyr.com/news/local-news/low-income-internet-provider-expands-co
+2026-03-22 18:34:55,370 [INFO] [98/232] Fetching: https://www.wrvo.org/2025-07-08/city-of-syracuse-considers-adding-electric-vehicle-chargers
+2026-03-22 18:34:58,291 [INFO] [98/232] Relevant: City of Syracuse considers adding electric vehicle chargers
+2026-03-22 18:34:58,291 [DEBUG]   → Entities: Owen Kerney, National Grid
+2026-03-22 18:34:58,291 [DEBUG]   → Departments: Department of Public Works
+2026-03-22 18:34:58,291 [DEBUG]   → Keywords: city of syracuse
+2026-03-22 18:35:03,255 [INFO]   Saved: CTX-NEWS-2025-00080 → CTX-NEWS-2025-00080.json
+2026-03-22 18:35:04,256 [INFO] [99/232] Fetching: https://cnycentral.com/news/local/major-syracuse-housing-authority-project-faces-completion-date-del
+2026-03-22 18:35:07,519 [INFO] [99/232] Relevant: Major Syracuse Housing Authority project faces completion date delay
+2026-03-22 18:35:07,519 [DEBUG]   → Departments: Law Department
+2026-03-22 18:35:07,519 [DEBUG]   → Keywords: planning commission
+2026-03-22 18:35:12,502 [INFO]   Saved: CTX-NEWS-2025-00081 → CTX-NEWS-2025-00081.json
+2026-03-22 18:35:15,503 [INFO] [100/232] Fetching: https://cnycentral.com/news/local/syracuse-officials-explore-options-as-trump-kills-funding-for-neig
+2026-03-22 18:35:18,495 [INFO] [100/232] Relevant: Syracuse officials explore options as Trump kills funding for neighborhood rebui
+2026-03-22 18:35:18,495 [DEBUG]   → Entities: Michael Collins
+2026-03-22 18:35:18,495 [DEBUG]   → Departments: Department of Permits and Development, Department of Finance, Law Department
+2026-03-22 18:35:18,495 [DEBUG]   → Keywords: common council, mayor, city of syracuse
+2026-03-22 18:35:24,882 [INFO]   Saved: CTX-NEWS-2025-00082 → CTX-NEWS-2025-00082.json
+2026-03-22 18:35:27,882 [INFO] [101/232] Fetching: https://cnycentral.com/news/local/latest-construction-update-for-steam-school-in-syracuse-reveals-pl
+2026-03-22 18:35:30,607 [INFO] [101/232] Relevant: Latest construction update for STEAM School in Syracuse reveals plan to create b
+2026-03-22 18:35:30,607 [DEBUG]   → Departments: Law Department
+2026-03-22 18:35:30,607 [DEBUG]   → Keywords: common council
+2026-03-22 18:35:35,725 [INFO]   Saved: CTX-NEWS-2025-00083 → CTX-NEWS-2025-00083.json
+2026-03-22 18:35:38,725 [INFO] [102/232] Fetching: https://cnycentral.com/news/local/skan-native-rachel-dewitt-to-swim-length-of-skaneateles-tuesday-ra
+2026-03-22 18:35:42,802 [INFO] [102/232] Relevant: Skan native Rachel Dewitt to swim length of Skaneateles Lake Tuesday, raising aw
+2026-03-22 18:35:42,802 [DEBUG]   → Departments: Law Department
+2026-03-22 18:35:42,802 [DEBUG]   → Keywords: city of syracuse
+2026-03-22 18:35:47,555 [INFO]   Saved: CTX-NEWS-2025-00084 → CTX-NEWS-2025-00084.json
+2026-03-22 18:35:48,555 [INFO] [103/232] Fetching: https://www.waer.org/news/2025-07-21/syracuses-mayor-says-hes-never-used-the-term-sanctuary-city
+2026-03-22 18:35:51,029 [INFO] [103/232] Relevant: Syracuse's Mayor says he's never used the term sanctuary city
+2026-03-22 18:35:51,029 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-22 18:35:51,029 [DEBUG]   → Keywords: city hall, mayor, syracuse police
+2026-03-22 18:35:55,662 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-22 18:35:55,677 [INFO]   Saved: CTX-NEWS-2025-00085 → CTX-NEWS-2025-00085.json
+2026-03-22 18:35:58,677 [INFO] [104/232] Fetching: https://www.waer.org/news/2025-07-17/syracuse-and-onondaga-county-leaders-report-progress-on-lead-pa
+2026-03-22 18:36:01,036 [INFO] [104/232] Relevant: Syracuse and Onondaga county leaders report progress on lead paint remediation
+2026-03-22 18:36:01,037 [DEBUG]   → Keywords: mayor, ordinance
+2026-03-22 18:36:05,545 [INFO]   Saved: CTX-NEWS-2025-00086 → CTX-NEWS-2025-00086.json
+2026-03-22 18:36:06,546 [INFO] [105/232] Fetching: https://cnycentral.com/news/local/syracuse-police-chief-gives-his-take-on-public-saftey-trends-in-ar
+2026-03-22 18:36:09,628 [INFO] [105/232] Relevant: Syracuse Police Chief gives his take on "Public Saftey trends" in Armory Square"
+2026-03-22 18:36:09,628 [DEBUG]   → Departments: Syracuse Police Department, Law Department
+2026-03-22 18:36:09,628 [DEBUG]   → Keywords: syracuse police
+2026-03-22 18:36:15,321 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-22 18:36:15,321 [WARNING]   Tag issue: Unknown tag 'proactive-policing' not in taxonomy
+2026-03-22 18:36:15,321 [WARNING]   Tag issue: Unknown tag 'community-safety' not in taxonomy
+2026-03-22 18:36:15,340 [INFO]   Saved: CTX-NEWS-2025-00087 → CTX-NEWS-2025-00087.json
+2026-03-22 18:36:18,341 [INFO] [106/232] Fetching: https://cnycentral.com/news/local/eastwood-heights-renovation-hits-another-snag-third-deal-kicked-ba
+2026-03-22 18:36:21,860 [INFO] [106/232] Relevant: Eastwood Heights renovation hits another snag, third deal kicked back to city co
+2026-03-22 18:36:21,860 [DEBUG]   → Keywords: city council
+2026-03-22 18:36:26,226 [INFO]   Saved: CTX-NEWS-2025-00088 → CTX-NEWS-2025-00088.json
+2026-03-22 18:36:29,226 [INFO] [107/232] Fetching: https://cnycentral.com/news/local/blueprint-15-executive-director-resigns-as-children-rising-center-
+2026-03-22 18:36:32,349 [DEBUG] [107/232] Filtered (not relevant): Blueprint 15 Executive Director resigns as Children Rising Center project remain
+2026-03-22 18:36:35,350 [INFO] [108/232] Fetching: https://cnycentral.com/news/local/onondaga-county-syracuse-invest-in-unprecedented-efforts-to-tackle
+2026-03-22 18:36:38,447 [DEBUG] [108/232] Filtered (not relevant): Onondaga County, Syracuse invest in unprecedented efforts to tackle lead contami
+2026-03-22 18:36:41,448 [INFO] [109/232] Fetching: https://cnycentral.com/news/local/naacp-leaders-react-to-syracuse-police-union-president-doubling-do
+2026-03-22 18:36:44,651 [INFO] [109/232] Relevant: NAACP, leaders react to Syracuse Police Union President doubling down on social 
+2026-03-22 18:36:44,651 [DEBUG]   → Departments: Syracuse Police Department, Law Department
+2026-03-22 18:36:44,652 [DEBUG]   → Keywords: mayor, city of syracuse, syracuse mayor
+2026-03-22 18:36:50,645 [WARNING]   Tag issue: Unknown tag 'community-community' not in taxonomy
+2026-03-22 18:36:50,652 [INFO]   Dedup match: CTX-NEWS-2025-00073
+2026-03-22 18:36:50,654 [INFO]   Saved: CTX-NEWS-2025-00089 → CTX-NEWS-2025-00089.json
+2026-03-22 18:36:53,654 [INFO] [110/232] Fetching: https://cnycentral.com/news/local/brooklyn-pickle-owner-says-new-marshall-st-location-could-open-in-
+2026-03-22 18:36:56,914 [INFO] [110/232] Relevant: Brooklyn Pickle Owner says new Marshall St. location could open in August
+2026-03-22 18:36:56,914 [DEBUG]   → Entities: Syracuse University
+2026-03-22 18:37:01,921 [INFO]   Saved: CTX-NEWS-2025-00090 → CTX-NEWS-2025-00090.json
+2026-03-22 18:37:02,922 [INFO] [111/232] Fetching: https://www.localsyr.com/news/local-news/firefighters-manage-brush-fire-by-nbt-bank-stadium/
+2026-03-22 18:37:03,022 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/firefighters-manage-brush-fire-by-nbt-b
+2026-03-22 18:37:03,022 [INFO] [111/232] Blocked/empty: https://www.localsyr.com/news/local-news/firefighters-manage-brush-fire-by-nbt-b
+2026-03-22 18:37:04,023 [INFO] [112/232] Fetching: https://cnycentral.com/news/local/new-baseball-themed-splashpad-opens-at-cummings-field
+2026-03-22 18:37:09,486 [DEBUG] [112/232] Filtered (not relevant): New baseball-themed splashpad opens at Cummings Field
+2026-03-22 18:37:12,487 [INFO] [113/232] Fetching: https://cnycentral.com/news/local/look-at-what-were-living-with-eastwood-heights-residents-show-cond
+2026-03-22 18:37:15,246 [INFO] [113/232] Relevant: 'Look at what we're living with': Eastwood Heights residents show conditions to 
+2026-03-22 18:37:15,246 [DEBUG]   → Keywords: common council, city of syracuse
+2026-03-22 18:37:20,964 [INFO]   Saved: CTX-NEWS-2025-00091 → CTX-NEWS-2025-00091.json
+2026-03-22 18:37:21,964 [INFO] [114/232] Fetching: https://www.localsyr.com/news/local-news/syracuse-dropped-its-carbon-emissions-over-decade-by-wide-m
+2026-03-22 18:37:22,083 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-dropped-its-carbon-emissions-o
+2026-03-22 18:37:22,083 [INFO] [114/232] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-dropped-its-carbon-emissions-o
+2026-03-22 18:37:23,084 [INFO] [115/232] Fetching: https://cnycentral.com/news/local/syracuse-surpasses-greenhouse-gas-reduction-goals-set-in-2010-mayo
+2026-03-22 18:37:27,123 [INFO] [115/232] Relevant: Syracuse surpasses greenhouse gas reduction goals set in 2010; mayor says
+2026-03-22 18:37:27,124 [DEBUG]   → Departments: Law Department
+2026-03-22 18:37:27,124 [DEBUG]   → Keywords: mayor, city of syracuse
+2026-03-22 18:37:33,362 [INFO]   Saved: CTX-NEWS-2025-00092 → CTX-NEWS-2025-00092.json
+2026-03-22 18:37:36,369 [INFO] [116/232] Fetching: https://cnycentral.com/news/i-team/syracuse-dog-shelter-location-still-up-in-the-air-more-than-a-yea
+2026-03-22 18:37:39,221 [INFO] [116/232] Relevant: Syracuse dog shelter location still up in the air more than a year after site se
+2026-03-22 18:37:39,221 [DEBUG]   → Entities: Rasheada Caldwell, Syeisha Byrd
+2026-03-22 18:37:39,221 [DEBUG]   → Departments: Department of Parks, Recreation and Youth Programs, Law Department
+2026-03-22 18:37:39,221 [DEBUG]   → Keywords: common council, municipal
+2026-03-22 18:37:45,884 [INFO]   Saved: CTX-NEWS-2025-00093 → CTX-NEWS-2025-00093.json
+2026-03-22 18:37:48,884 [INFO] [117/232] Fetching: https://cnycentral.com/news/local/light-comedy-and-a-catch-phrase-to-help-stop-parkway-bridge-strike
+2026-03-22 18:37:52,286 [DEBUG] [117/232] Filtered (not relevant): Light comedy and a catch phrase to help stop Parkway bridge strikes?
+2026-03-22 18:37:55,287 [INFO] [118/232] Fetching: https://cnycentral.com/news/local/d-07-23-2025
+2026-03-22 18:37:58,369 [DEBUG] [118/232] Filtered (not relevant): Recurring harmful algal blooms -- is a long term fix on the horizon?
+2026-03-22 18:37:59,370 [INFO] [119/232] Fetching: https://www.waer.org/news/2025-07-22/full-steam-ahead-for-new-regional-schools-first-cohort-of-stude
+2026-03-22 18:38:01,918 [INFO] [119/232] Relevant: Full STEAM ahead for new regional school's first cohort of students this fall
+2026-03-22 18:38:01,918 [DEBUG]   → Departments: Department of Information Technology
+2026-03-22 18:38:01,918 [DEBUG]   → Keywords: mayor
+2026-03-22 18:38:07,161 [WARNING]   Tag issue: Unknown tag 'education' not in taxonomy
+2026-03-22 18:38:07,173 [INFO]   Saved: CTX-NEWS-2025-00094 → CTX-NEWS-2025-00094.json
+2026-03-22 18:38:08,173 [INFO] [120/232] Fetching: https://cnycentral.com/news/local/talks-collapse-over-early-childhood-center-at-former-st-anns-churc
+2026-03-22 18:38:12,084 [DEBUG] [120/232] Filtered (not relevant): Talks collapse over early childhood center at former St. Ann's Church
+2026-03-22 18:38:15,084 [INFO] [121/232] Fetching: https://cnycentral.com/news/local/syracuse-police-departments-animal-control-unit-warns-of-increase-
+2026-03-22 18:38:18,124 [INFO] [121/232] Relevant: Syracuse Police Department's animal control unit warns of increase in virus impa
+2026-03-22 18:38:18,124 [DEBUG]   → Departments: Syracuse Police Department, Law Department
+2026-03-22 18:38:18,124 [DEBUG]   → Keywords: syracuse police
+2026-03-22 18:38:22,738 [WARNING]   Tag issue: Unknown tag 'procedural' not in taxonomy
+2026-03-22 18:38:22,750 [INFO]   Saved: CTX-NEWS-2025-00095 → CTX-NEWS-2025-00095.json
+2026-03-22 18:38:25,750 [INFO] [122/232] Fetching: https://cnycentral.com/news/local/sisters-reflect-on-the-demolition-of-the-motherhouse
+2026-03-22 18:38:28,728 [DEBUG] [122/232] Filtered (not relevant): Sisters reflect on the demolition of the Maria Regina Motherhouse
+2026-03-22 18:38:29,728 [INFO] [123/232] Fetching: https://www.waer.org/news/2025-07-29/groups-say-epa-should-use-emergency-powers-to-address-lead-wate
+2026-03-22 18:38:32,137 [INFO] [123/232] Relevant: Groups say EPA should use emergency powers to address lead water problem in Syra
+2026-03-22 18:38:32,137 [DEBUG]   → Keywords: city hall, city of syracuse
+2026-03-22 18:38:37,709 [WARNING]   Tag issue: Unknown tag 'resident-complaints' not in taxonomy
+2026-03-22 18:38:37,725 [INFO]   Saved: CTX-NEWS-2025-00096 → CTX-NEWS-2025-00096.json
+2026-03-22 18:38:38,726 [INFO] [124/232] Fetching: https://cnycentral.com/news/local/common-council-holds-off-adding-red-light-and-speed-zone-camera
+2026-03-22 18:38:42,606 [INFO] [124/232] Relevant: Common Council holds off on decision of adding red light and speed zone cameras
+2026-03-22 18:38:42,606 [DEBUG]   → Departments: Department of Permits and Development, Law Department
+2026-03-22 18:38:42,606 [DEBUG]   → Keywords: common council, city of syracuse
+2026-03-22 18:38:48,962 [INFO]   Saved: CTX-NEWS-2025-00097 → CTX-NEWS-2025-00097.json
+2026-03-22 18:38:51,963 [INFO] [125/232] Fetching: https://cnycentral.com/news/local/syracuse-common-council-completes-swap-with-sha-intends-to-build-c
+2026-03-22 18:38:55,568 [INFO] [125/232] Relevant: Syracuse Common Council completes swap with SHA, intends to build Children Risin
+2026-03-22 18:38:55,568 [DEBUG]   → Departments: Law Department
+2026-03-22 18:38:55,568 [DEBUG]   → Keywords: common council, city officials
+2026-03-22 18:39:01,278 [WARNING]   Tag issue: Unknown tag 'community-center' not in taxonomy
+2026-03-22 18:39:01,287 [INFO]   Saved: CTX-NEWS-2025-00098 → CTX-NEWS-2025-00098.json
+2026-03-22 18:39:02,287 [INFO] [126/232] Fetching: https://www.waer.org/news/2025-08-11/city-of-syracuse-seeks-to-close-nuisance-convenience-store-in-o
+2026-03-22 18:39:04,882 [INFO] [126/232] Relevant: City of Syracuse seeks to close nuisance convenience store in Outer Comstock nei
+2026-03-22 18:39:04,882 [DEBUG]   → Entities: Jake Dishaw, Syracuse University
+2026-03-22 18:39:04,882 [DEBUG]   → Keywords: city of syracuse, public hearing, code enforcement
+2026-03-22 18:39:09,039 [INFO]   Saved: CTX-NEWS-2025-00099 → CTX-NEWS-2025-00099.json
+2026-03-22 18:39:10,040 [INFO] [127/232] Fetching: https://cnycentral.com/news/local/james-pass-arboretum-to-close-aug-1112-for-tree-work
+2026-03-22 18:39:14,181 [INFO] [127/232] Relevant: James Pass Arboretum to Close Aug. 11&ndash;12 for tree work
+2026-03-22 18:39:14,181 [DEBUG]   → Departments: Department of Parks, Recreation and Youth Programs
+2026-03-22 18:39:14,182 [DEBUG]   → Keywords: city of syracuse
+2026-03-22 18:39:18,711 [WARNING]   Tag issue: Unknown tag 'maintenance' not in taxonomy
+2026-03-22 18:39:18,722 [INFO]   Saved: CTX-NEWS-2025-00100 → CTX-NEWS-2025-00100.json
+2026-03-22 18:39:19,723 [INFO] [128/232] Fetching: https://www.wrvo.org/2025-08-09/new-york-state-budget-gap-federal-spending-cuts
+2026-03-22 18:39:22,625 [INFO] [128/232] Relevant: New York facing $34 billion budget gap in wake of federal spending cuts
+2026-03-22 18:39:22,625 [DEBUG]   → Departments: Department of Finance, Law Department
+2026-03-22 18:39:28,500 [WARNING]   Tag issue: Unknown tag 'crisis' not in taxonomy
+2026-03-22 18:39:28,514 [INFO]   Saved: CTX-NEWS-2025-00101 → CTX-NEWS-2025-00101.json
+2026-03-22 18:39:31,514 [INFO] [129/232] Fetching: https://www.wrvo.org/2025-08-07/organizations-call-for-more-information-about-lead-levels-in-syracus
+2026-03-22 18:39:31,528 [INFO] ============================================================
+2026-03-22 18:39:31,528 [INFO] Link Importer starting
+2026-03-22 18:39:31,532 [INFO] Loaded 452 unique URLs from CSV
+2026-03-22 18:39:31,534 [INFO] Skipped 4 URLs from irrelevant domains
+2026-03-22 18:39:31,534 [INFO] New URLs to process: 423 (of 448 total)
+2026-03-22 18:39:31,535 [INFO] Limited to 10 URLs
+2026-03-22 18:39:31,648 [WARNING] 10 Syracuse.com URLs but no saved session. Run with --login first for subscriber access.
+2026-03-22 18:39:33,980 [INFO] [1/10] Fetching: https://www.syracuse.com/news/2025/03/former-sears-store-on-syracuses-south-side-to-be-turned-into-s
+2026-03-22 18:39:34,061 [INFO] [129/232] Relevant: Organizations call for more information about lead levels in Syracuse water
+2026-03-22 18:39:34,061 [DEBUG]   → Departments: Law Department
+2026-03-22 18:39:34,061 [DEBUG]   → Keywords: city of syracuse
+2026-03-22 18:39:34,369 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/03/former-sears-store-on-syracuses-south-side
+2026-03-22 18:39:35,815 [DEBUG]   Wayback hit: http://web.archive.org/web/20250725070214/https://www.syracuse.com/news/2025/03/
+2026-03-22 18:39:35,815 [INFO] [1/10] Trying Wayback Machine...
+2026-03-22 18:39:39,532 [WARNING]   Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-03-22 18:39:39,543 [INFO]   Saved: CTX-NEWS-2025-00102 → CTX-NEWS-2025-00102.json
+2026-03-22 18:39:40,544 [INFO] [130/232] Fetching: https://cnycentral.com/news/local/historic-convent-complex-chapels-fate-uncertain-as-convent-deconst
+2026-03-22 18:39:43,869 [DEBUG] [1/10] Filtered (not relevant): Former Sears store on Syracuse’s South Side to be turned into semiconductor work
+2026-03-22 18:39:45,326 [DEBUG] [130/232] Filtered (not relevant): Historic Convent Complex chapel's fate uncertain as convent deconstruction is co
+2026-03-22 18:39:46,327 [INFO] [131/232] Fetching: https://www.waer.org/news/2025-08-04/city-of-syracuse-shows-renters-and-homebuyers-how-to-choose-wis
+2026-03-22 18:39:46,869 [INFO] [2/10] Fetching: https://www.syracuse.com/news/2025/03/dozens-of-new-homes-planned-for-vacant-lots-in-poor-syracuse-n
+2026-03-22 18:39:47,065 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/03/dozens-of-new-homes-planned-for-vacant-lot
+2026-03-22 18:39:48,897 [INFO] [131/232] Relevant: City of Syracuse shows renters and homebuyers how to choose wisely
+2026-03-22 18:39:48,897 [DEBUG]   → Entities: Michael Collins
+2026-03-22 18:39:48,897 [DEBUG]   → Departments: Department of Permits and Development
+2026-03-22 18:39:48,897 [DEBUG]   → Keywords: mayor, city of syracuse
+2026-03-22 18:39:49,721 [DEBUG]   Wayback hit: http://web.archive.org/web/20250723075027/https://www.syracuse.com/news/2025/03/
+2026-03-22 18:39:49,722 [INFO] [2/10] Trying Wayback Machine...
+2026-03-22 18:39:52,789 [INFO]   Saved: CTX-NEWS-2025-00103 → CTX-NEWS-2025-00103.json
+2026-03-22 18:39:53,790 [INFO] [132/232] Fetching: https://cnycentral.com/news/local/syracuse-police-discuss-national-night-out-and-dome-patrols
+2026-03-22 18:39:56,923 [INFO] [132/232] Relevant: Syracuse Police discuss National Night Out and Dome Patrols
+2026-03-22 18:39:56,923 [DEBUG]   → Departments: Syracuse Police Department, Law Department
+2026-03-22 18:39:56,923 [DEBUG]   → Keywords: syracuse police
+2026-03-22 18:39:58,387 [DEBUG]   Content too short (0 chars): http://web.archive.org/web/20250723075027/https://www.syracuse.com/news/2025/03/
+2026-03-22 18:39:58,388 [INFO] [2/10] Blocked/empty: https://www.syracuse.com/news/2025/03/dozens-of-new-homes-planned-for-vacant-lot
+2026-03-22 18:40:01,278 [WARNING]   Tag issue: Unknown tag 'community' not in taxonomy
+2026-03-22 18:40:01,291 [INFO]   Saved: CTX-NEWS-2025-00104 → CTX-NEWS-2025-00104.json
+2026-03-22 18:40:01,388 [INFO] [3/10] Fetching: https://www.syracuse.com/opinion/2025/03/state-senator-city-auditor-ny-aid-to-cities-isnt-keeping-up
+2026-03-22 18:40:01,541 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2025/03/state-senator-city-auditor-ny-aid-to-ci
+2026-03-22 18:40:04,292 [INFO] [133/232] Fetching: https://cnycentral.com/news/local/box-truck-strikes-parkway-bridge-again-salina-511ny-injuries-clank
+2026-03-22 18:40:05,196 [DEBUG]   Wayback hit: http://web.archive.org/web/20250509085256/https://www.syracuse.com/opinion/2025/
+2026-03-22 18:40:05,196 [INFO] [3/10] Trying Wayback Machine...
+2026-03-22 18:40:07,618 [INFO] [133/232] Relevant: Box truck strikes Parkway Bridge again
+2026-03-22 18:40:07,619 [DEBUG]   → Departments: Law Department
+2026-03-22 18:40:07,619 [DEBUG]   → Keywords: mayor, syracuse mayor
+2026-03-22 18:40:12,744 [INFO] [3/10] Relevant: State senator, city auditor: NY aid to cities isn’t keeping up (Your Letters)
+2026-03-22 18:40:12,744 [DEBUG]   → Entities: Alexander Marion
+2026-03-22 18:40:12,744 [DEBUG]   → Departments: Syracuse Fire Department
+2026-03-22 18:40:12,744 [DEBUG]   → Keywords: taxpayer, city of syracuse, city auditor
+2026-03-22 18:40:12,747 [INFO] [3/10] [DRY RUN] Would process: State senator, city auditor: NY aid to cities isn’t keeping up (Your Letters)
+2026-03-22 18:40:12,747 [INFO]   Date: 2025-03-31 | Entities: ['Alexander Marion']
+2026-03-22 18:40:12,816 [INFO]   Saved: CTX-NEWS-2025-00105 → CTX-NEWS-2025-00105.json
+2026-03-22 18:40:15,747 [INFO] [4/10] Fetching: https://www.syracuse.com/business/2025/03/syracuse-auditor-citys-lifeless-wage-ordinance-needs-a-ser
+2026-03-22 18:40:15,817 [INFO] [134/232] Fetching: https://cnycentral.com/news/local/syracuse-auditor-calls-for-measures-to-prevent-vacant-home-fires
+2026-03-22 18:40:15,921 [DEBUG]   HTTP 403: https://www.syracuse.com/business/2025/03/syracuse-auditor-citys-lifeless-wage-o
+2026-03-22 18:40:20,142 [INFO] [134/232] Relevant: Syracuse auditor calls for measures to prevent vacant home fires
+2026-03-22 18:40:20,142 [DEBUG]   → Entities: Alexander Marion
+2026-03-22 18:40:21,295 [INFO] [4/10] Blocked/empty: https://www.syracuse.com/business/2025/03/syracuse-auditor-citys-lifeless-wage-o
+2026-03-22 18:40:23,667 [INFO]   Saved: CTX-NEWS-2025-00106 → CTX-NEWS-2025-00106.json
+2026-03-22 18:40:24,295 [INFO] [5/10] Fetching: https://www.syracuse.com/news/2025/04/syracuse-sues-company-that-was-supposed-to-save-skyline-apartm
+2026-03-22 18:40:24,407 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/syracuse-sues-company-that-was-supposed-to
+2026-03-22 18:40:24,668 [INFO] [135/232] Fetching: https://www.waer.org/news/2025-07-31/burned-out-vacant-houses-contribute-to-syracuses-housing-shorta
+2026-03-22 18:40:25,863 [DEBUG]   Wayback hit: http://web.archive.org/web/20250724235738/https://www.syracuse.com/news/2025/04/
+2026-03-22 18:40:25,863 [INFO] [5/10] Trying Wayback Machine...
+2026-03-22 18:40:27,113 [INFO] [135/232] Relevant: Burned out vacant houses contribute to Syracuse's housing shortage
+2026-03-22 18:40:27,113 [DEBUG]   → Entities: Alexander Marion
+2026-03-22 18:40:27,113 [DEBUG]   → Departments: Syracuse Fire Department
+2026-03-22 18:40:27,113 [DEBUG]   → Keywords: city auditor
+2026-03-22 18:40:31,853 [INFO]   Saved: CTX-NEWS-2025-00107 → CTX-NEWS-2025-00107.json
+2026-03-22 18:40:32,853 [INFO] [136/232] Fetching: https://www.wrvo.org/2025-08-01/syracuse-city-auditor-releases-report-aiming-to-cut-down-on-vacant-s
+2026-03-22 18:40:33,978 [INFO] [5/10] Relevant: Syracuse sues company that was supposed to save Skyline Apartments, says they ‘f
+2026-03-22 18:40:33,978 [DEBUG]   → Keywords: mayor, syracuse mayor, city officials
+2026-03-22 18:40:33,978 [INFO] [5/10] [DRY RUN] Would process: Syracuse sues company that was supposed to save Skyline Apartments, says they ‘f
+2026-03-22 18:40:33,978 [INFO]   Date: 2025-04-02 | Entities: []
+2026-03-22 18:40:35,415 [INFO] [136/232] Relevant: Syracuse city auditor releases report aiming to cut down on vacant structure fir
+2026-03-22 18:40:35,415 [DEBUG]   → Departments: Syracuse Fire Department
+2026-03-22 18:40:35,415 [DEBUG]   → Keywords: city of syracuse, city auditor
+2026-03-22 18:40:36,978 [INFO] [6/10] Fetching: https://www.syracuse.com/news/2025/04/owners-of-former-skyline-apartments-in-syracuse-hope-to-talk-t
+2026-03-22 18:40:37,128 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/owners-of-former-skyline-apartments-in-syr
+2026-03-22 18:40:39,539 [INFO]   Saved: CTX-NEWS-2025-00108 → CTX-NEWS-2025-00108.json
+2026-03-22 18:40:40,540 [INFO] [137/232] Fetching: https://www.localsyr.com/news/local-news/syracuses-city-auditor-wants-to-prevent-vacant-structure-fi
+2026-03-22 18:40:40,606 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuses-city-auditor-wants-to-prevent
+2026-03-22 18:40:40,606 [INFO] [137/232] Blocked/empty: https://www.localsyr.com/news/local-news/syracuses-city-auditor-wants-to-prevent
+2026-03-22 18:40:41,607 [INFO] [138/232] Fetching: https://www.wrvo.org/2025-07-28/syracuse-schools-brace-for-cuts-from-recently-passed-spending-bill
+2026-03-22 18:40:42,546 [INFO] [6/10] Blocked/empty: https://www.syracuse.com/news/2025/04/owners-of-former-skyline-apartments-in-syr
+2026-03-22 18:40:44,288 [DEBUG] [138/232] Filtered (not relevant): Syracuse schools brace for cuts from recently passed spending bill
+2026-03-22 18:40:45,288 [INFO] [139/232] Fetching: https://cnycentral.com/news/local/syracuse-police-chief-clarifies-policy-adherence-after-pba-posts
+2026-03-22 18:40:45,546 [INFO] [7/10] Fetching: https://www.syracuse.com/news/2025/04/how-owner-mark-congel-lost-control-of-historic-syracuse-conven
+2026-03-22 18:40:45,671 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/how-owner-mark-congel-lost-control-of-hist
+2026-03-22 18:40:46,371 [DEBUG]   Wayback hit: http://web.archive.org/web/20250724125336/https://www.syracuse.com/news/2025/04/
+2026-03-22 18:40:46,371 [INFO] [7/10] Trying Wayback Machine...
+2026-03-22 18:40:47,994 [INFO] [139/232] Relevant: Syracuse police chief clarifies policy adherence after PBA posts
+2026-03-22 18:40:47,994 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-22 18:40:47,994 [DEBUG]   → Keywords: syracuse police
+2026-03-22 18:40:48,867 [DEBUG]   Navigation error: http://web.archive.org/web/20250724125336/https://www.syracuse.com/news/2025/04/ — Page.goto: net::ERR_CONNECTION_REFUSED at http://web.archive.org/web/20250724125336/https://www.syracuse.com/news/2025/04/how-owner-mark-congel-lost-control-of-historic-syracuse-convent-before-fire-ravaged-it.html
+Call log:
+  - navigating to "http://web.archive.org/web/20250724125336/https://www.syracuse.com/news/2025/04/how-owner-mark-congel-lost-control-of-historic-syracuse-convent-before-fire-ravaged-it.html", waiting until "domcontentloaded"
+
+2026-03-22 18:40:48,867 [INFO] [7/10] Blocked/empty: https://www.syracuse.com/news/2025/04/how-owner-mark-congel-lost-control-of-hist
+2026-03-22 18:40:51,868 [INFO] [8/10] Fetching: https://www.syracuse.com/news/2025/04/whos-on-the-ballots-for-syracuse-common-council-school-board-r
+2026-03-22 18:40:51,995 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/whos-on-the-ballots-for-syracuse-common-co
+2026-03-22 18:40:53,023 [DEBUG]   Wayback hit: http://web.archive.org/web/20250723191132/https://www.syracuse.com/news/2025/04/
+2026-03-22 18:40:53,023 [INFO] [8/10] Trying Wayback Machine...
+2026-03-22 18:40:53,931 [INFO]   Saved: CTX-NEWS-2025-00109 → CTX-NEWS-2025-00109.json
+2026-03-22 18:40:55,477 [DEBUG]   Navigation error: http://web.archive.org/web/20250723191132/https://www.syracuse.com/news/2025/04/ — Page.goto: net::ERR_CONNECTION_REFUSED at http://web.archive.org/web/20250723191132/https://www.syracuse.com/news/2025/04/whos-on-the-ballots-for-syracuse-common-council-school-board-races-in-2025.html
+Call log:
+  - navigating to "http://web.archive.org/web/20250723191132/https://www.syracuse.com/news/2025/04/whos-on-the-ballots-for-syracuse-common-council-school-board-races-in-2025.html", waiting until "domcontentloaded"
+
+2026-03-22 18:40:55,477 [INFO] [8/10] Blocked/empty: https://www.syracuse.com/news/2025/04/whos-on-the-ballots-for-syracuse-common-co
+2026-03-22 18:40:56,932 [INFO] [140/232] Fetching: https://cnycentral.com/news/local/plan-to-redevelop-former-lafayette-country-club-into-housing-clear
+2026-03-22 18:40:58,478 [INFO] [9/10] Fetching: https://www.syracuse.com/news/2025/04/developer-shrinks-syracuse-apartment-project-near-i-81-for-sec
+2026-03-22 18:40:58,613 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/developer-shrinks-syracuse-apartment-proje
+2026-03-22 18:41:01,230 [INFO] [140/232] Relevant: Plan to redevelop former Lafayette Country Club into housing clears first hurdle
+2026-03-22 18:41:01,230 [DEBUG]   → Departments: Department of Permits and Development, Law Department
+2026-03-22 18:41:01,230 [DEBUG]   → Keywords: city of syracuse, planning commission
+2026-03-22 18:41:01,888 [DEBUG]   Wayback hit: http://web.archive.org/web/20250724210113/https://www.syracuse.com/news/2025/04/
+2026-03-22 18:41:01,888 [INFO] [9/10] Trying Wayback Machine...
+2026-03-22 18:41:04,374 [DEBUG]   Navigation error: http://web.archive.org/web/20250724210113/https://www.syracuse.com/news/2025/04/ — Page.goto: net::ERR_CONNECTION_REFUSED at http://web.archive.org/web/20250724210113/https://www.syracuse.com/news/2025/04/developer-shrinks-syracuse-apartment-project-near-i-81-for-second-time.html
+Call log:
+  - navigating to "http://web.archive.org/web/20250724210113/https://www.syracuse.com/news/2025/04/developer-shrinks-syracuse-apartment-project-near-i-81-for-second-time.html", waiting until "domcontentloaded"
+
+2026-03-22 18:41:04,374 [INFO] [9/10] Blocked/empty: https://www.syracuse.com/news/2025/04/developer-shrinks-syracuse-apartment-proje
+2026-03-22 18:41:07,333 [INFO]   Saved: CTX-NEWS-2025-00110 → CTX-NEWS-2025-00110.json
+2026-03-22 18:41:07,375 [INFO] [10/10] Fetching: https://www.syracuse.com/crime/2025/04/syracuse-chief-defends-officers-hitting-man-during-arrest-but
+2026-03-22 18:41:07,584 [DEBUG]   HTTP 403: https://www.syracuse.com/crime/2025/04/syracuse-chief-defends-officers-hitting-m
+2026-03-22 18:41:08,338 [INFO] [141/232] Fetching: https://www.waer.org/news/2025-08-18/proactive-policing-and-interventions-result-in-lower-crime-rate
+2026-03-22 18:41:10,899 [INFO] [141/232] Relevant: Proactive policing and interventions result in lower crime rates in Syracuse
+2026-03-22 18:41:10,899 [DEBUG]   → Departments: Syracuse Fire Department, Syracuse Police Department
+2026-03-22 18:41:10,899 [DEBUG]   → Keywords: mayor, syracuse police
+2026-03-22 18:41:12,906 [INFO] [10/10] Blocked/empty: https://www.syracuse.com/crime/2025/04/syracuse-chief-defends-officers-hitting-m
+2026-03-22 18:41:13,529 [INFO] Link Importer Run — 2026-03-22 18:41
+==================================================
+URLs in CSV: 452
+Skipped (domain): 4
+Already processed: 438
+Attempted this run: 10
+Blocked/empty: 7
+Recovered via Wayback Machine: 3
+Filtered (not relevant): 1
+Saved as records: 0
+Errors: 0
+
+2026-03-22 18:41:15,365 [INFO]   Saved: CTX-NEWS-2025-00111 → CTX-NEWS-2025-00111.json
+2026-03-22 18:41:16,366 [INFO] [142/232] Fetching: https://www.wrvo.org/2025-08-15/statistics-show-drop-in-crime-in-syracuse
+2026-03-22 18:41:19,025 [INFO] [142/232] Relevant: Statistics show drop in crime in Syracuse
+2026-03-22 18:41:19,025 [DEBUG]   → Keywords: mayor, city of syracuse
+2026-03-22 18:41:23,617 [INFO]   Saved: CTX-NEWS-2025-00112 → CTX-NEWS-2025-00112.json
+2026-03-22 18:41:24,618 [INFO] [143/232] Fetching: https://cnycentral.com/news/local/overall-crime-in-syracuse-is-down-so-far-this-year-officials-say-s
+2026-03-22 18:41:28,050 [INFO] [143/232] Relevant: Overall crime in Syracuse is down so far this year, officials say
+2026-03-22 18:41:28,050 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-22 18:41:28,050 [DEBUG]   → Keywords: mayor, city of syracuse, syracuse police
+2026-03-22 18:41:33,121 [INFO]   Saved: CTX-NEWS-2025-00113 → CTX-NEWS-2025-00113.json
+2026-03-22 18:41:34,121 [INFO] [144/232] Fetching: https://www.localsyr.com/news/local-news/crime-in-syracuse-drops-significantly-compared-to-last-year
+2026-03-22 18:41:34,216 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/crime-in-syracuse-drops-significantly-c
+2026-03-22 18:41:34,216 [INFO] [144/232] Blocked/empty: https://www.localsyr.com/news/local-news/crime-in-syracuse-drops-significantly-c
+2026-03-22 18:41:35,216 [INFO] [145/232] Fetching: https://cnycentral.com/news/local/mary-nelson-youth-center-hosts-annual-back-to-school-giveaway
+2026-03-22 18:41:40,875 [DEBUG] [145/232] Filtered (not relevant): Mary Nelson Youth Center hosts annual back-to-school giveaway
+2026-03-22 18:41:43,876 [INFO] [146/232] Fetching: https://cnycentral.com/news/local/this-is-how-far-some-school-zone-red-light-cameras-are-from-actual
+2026-03-22 18:41:50,757 [INFO] [146/232] Relevant: This is how far some 'school zone red light cameras' are from actual schools in 
+2026-03-22 18:41:50,758 [DEBUG]   → Keywords: common council, mayor, city of syracuse
+2026-03-22 18:41:56,961 [INFO]   Dedup match: CTX-NEWS-2025-00112
+2026-03-22 18:41:56,967 [INFO]   Saved: CTX-NEWS-2025-00114 → CTX-NEWS-2025-00114.json
+2026-03-22 18:41:57,968 [INFO] [147/232] Fetching: https://www.wrvo.org/2025-08-13/syracuse-common-council-honors-president-helen-hudson
+2026-03-22 18:42:00,852 [INFO] [147/232] Relevant: Syracuse Common Council honors President Helen Hudson
+2026-03-22 18:42:00,852 [DEBUG]   → Entities: Rasheada Caldwell, Helen Hudson
+2026-03-22 18:42:00,852 [DEBUG]   → Keywords: common council, council president
+2026-03-22 18:42:04,894 [INFO]   Saved: CTX-NEWS-2025-00115 → CTX-NEWS-2025-00115.json
+2026-03-22 18:42:05,895 [INFO] [148/232] Fetching: https://cnycentral.com/news/local/housing-initiative-to-improve-curb-appeal-for-tipperary-hill-and-s
+2026-03-22 18:42:11,805 [INFO] [148/232] Relevant: Housing initiative to improve curb appeal for Tipperary Hill and Salt Spring Nei
+2026-03-22 18:42:11,805 [DEBUG]   → Departments: Department of Permits and Development
+2026-03-22 18:42:11,805 [DEBUG]   → Keywords: common council, mayor, syracuse mayor
+2026-03-22 18:42:17,432 [INFO]   Saved: CTX-NEWS-2025-00116 → CTX-NEWS-2025-00116.json
+2026-03-22 18:42:20,433 [INFO] [149/232] Fetching: https://cnycentral.com/news/local/syracuse-mural-project-aims-to-enhance-safety-and-community-spirit
+2026-03-22 18:42:25,171 [INFO] [149/232] Relevant: Syracuse mural project aims to enhance safety and community spirit
+2026-03-22 18:42:25,172 [DEBUG]   → Keywords: city of syracuse
+2026-03-22 18:42:30,696 [INFO]   Saved: CTX-NEWS-2025-00117 → CTX-NEWS-2025-00117.json
+2026-03-22 18:42:33,696 [INFO] [150/232] Fetching: https://cnycentral.com/news/local/city-officials-comment-on-the-progress-of-i-81-viaduct-project
+2026-03-22 18:42:36,670 [INFO] [150/232] Relevant: City Officials comment on the progress of I-81 Viaduct Project
+2026-03-22 18:42:36,670 [DEBUG]   → Keywords: mayor, city of syracuse, syracuse mayor
+2026-03-22 18:42:42,164 [INFO]   Dedup match: CTX-NEWS-2025-00117
+2026-03-22 18:42:42,166 [INFO]   Saved: CTX-NEWS-2025-00118 → CTX-NEWS-2025-00118.json
+2026-03-22 18:42:43,167 [INFO] [151/232] Fetching: https://www.waer.org/news/2025-09-15/onondaga-county-budget-proposal-has-lower-taxes-money-for-law-e
+2026-03-22 18:42:45,648 [INFO] [151/232] Relevant: Onondaga County budget proposal has lower taxes, money for law enforcement, chil
+2026-03-22 18:42:45,648 [DEBUG]   → Departments: Law Department, Office of Analytics, Performance & Innovation
+2026-03-22 18:42:50,788 [INFO]   Saved: CTX-NEWS-2025-00119 → CTX-NEWS-2025-00119.json
+2026-03-22 18:42:51,789 [INFO] [152/232] Fetching: https://cnycentral.com/news/crime/syracuse-residents-voice-privacy-concerns-over-proposed-police-dro
+2026-03-22 18:42:56,389 [INFO] [152/232] Relevant: Residents voice concerns over Syracuse Police drone program
+2026-03-22 18:42:56,389 [DEBUG]   → Entities: Axon
+2026-03-22 18:42:56,389 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-22 18:42:56,389 [DEBUG]   → Keywords: common council, public hearing, syracuse police
+2026-03-22 18:43:02,162 [INFO]   Saved: CTX-NEWS-2025-00120 → CTX-NEWS-2025-00120.json
+2026-03-22 18:43:03,163 [INFO] [153/232] Fetching: https://www.localsyr.com/news/local-news/the-public-shares-concerns-over-drones-in-the-syracuse-poli
+2026-03-22 18:43:03,400 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/the-public-shares-concerns-over-drones-
+2026-03-22 18:43:03,400 [INFO] [153/232] Blocked/empty: https://www.localsyr.com/news/local-news/the-public-shares-concerns-over-drones-
+2026-03-22 18:43:04,400 [INFO] [154/232] Fetching: https://www.waer.org/news/2025-09-13/long-planned-development-project-on-syracuses-south-side-gains-
+2026-03-22 18:43:06,856 [DEBUG] [154/232] Filtered (not relevant): Long-planned development project on Syracuse’s south side gains momentum
+2026-03-22 18:43:07,857 [INFO] [155/232] Fetching: https://www.wrvo.org/2025-09-15/new-syracuse-housing-project-aims-to-transform-one-of-the-citys-poor
+2026-03-22 18:43:10,403 [INFO] [155/232] Relevant: New Syracuse housing project aims to transform one of the city's poorest neighbo
+2026-03-22 18:43:10,403 [DEBUG]   → Departments: Department of Permits and Development
+2026-03-22 18:43:10,403 [DEBUG]   → Keywords: mayor
+2026-03-22 18:43:18,284 [INFO]   Saved: CTX-NEWS-2025-00121 → CTX-NEWS-2025-00121.json
+2026-03-22 18:43:19,284 [INFO] [156/232] Fetching: https://www.localsyr.com/news/local-news/fulton-polices-drone-program-proves-to-be-successful-spd-lo
+2026-03-22 18:43:19,352 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/fulton-polices-drone-program-proves-to-
+2026-03-22 18:43:19,352 [INFO] [156/232] Blocked/empty: https://www.localsyr.com/news/local-news/fulton-polices-drone-program-proves-to-
+2026-03-22 18:43:20,353 [INFO] [157/232] Fetching: https://www.waer.org/news/2025-09-02/onondaga-county-expands-hotel-room-tax-to-include-short-term-re
+2026-03-22 18:43:22,849 [DEBUG] [157/232] Filtered (not relevant): Onondaga County expands hotel room tax to include short-term rentals
+2026-03-22 18:43:23,850 [INFO] [158/232] Fetching: https://cnycentral.com/news/local/syracuse-common-council-approves-sale-old-fire-station-900k-renova
+2026-03-22 18:43:27,212 [INFO] [158/232] Relevant: Syracuse Common Council approves sale of old fire station for $900K renovation p
+2026-03-22 18:43:27,213 [DEBUG]   → Departments: Syracuse Fire Department
+2026-03-22 18:43:27,213 [DEBUG]   → Keywords: common council, syracuse fire
+2026-03-22 18:43:31,756 [INFO]   Saved: CTX-NEWS-2025-00122 → CTX-NEWS-2025-00122.json
+2026-03-22 18:43:34,757 [INFO] [159/232] Fetching: https://cnycentral.com/news/local/parents-feel-extra-safe-with-the-new-school-zone-spedometers
+2026-03-22 18:43:41,048 [DEBUG] [159/232] Filtered (not relevant): Parents feel extra safe with the new school zone spedometers
+2026-03-22 18:43:42,048 [INFO] [160/232] Fetching: https://www.waer.org/news/2025-08-28/hundreds-of-tenants-wait-yet-again-for-a-hearing-to-hold-notori
+2026-03-22 18:43:44,529 [INFO] [160/232] Relevant: Hundreds of tenants wait, yet again, for a hearing to hold notorious Nob Hill Ap
+2026-03-22 18:43:44,529 [DEBUG]   → Departments: Syracuse Fire Department
+2026-03-22 18:43:44,529 [DEBUG]   → Keywords: mayor, syracuse mayor, housing court
+2026-03-22 18:43:51,073 [INFO]   Dedup match: CTX-NEWS-2025-00116
+2026-03-22 18:43:51,075 [INFO]   Saved: CTX-NEWS-2025-00123 → CTX-NEWS-2025-00123.json
+2026-03-22 18:43:52,076 [INFO] [161/232] Fetching: https://cnycentral.com/news/local/nob-hill-tenants-demand-action-amid-ongoing-legal-battle-with-city
+2026-03-22 18:43:55,677 [INFO] [161/232] Relevant: Nob Hill tenants demand action amid ongoing legal battle
+2026-03-22 18:43:55,677 [DEBUG]   → Departments: Syracuse Fire Department, Law Department
+2026-03-22 18:44:01,940 [INFO]   Dedup match: CTX-NEWS-2025-00123
+2026-03-22 18:44:01,942 [INFO]   Saved: CTX-NEWS-2025-00124 → CTX-NEWS-2025-00124.json
+2026-03-22 18:44:04,944 [INFO] [162/232] Fetching: https://cnycentral.com/news/local/candidates-speak-on-slave-owner-comment-made-by-fellow-candidate-f
+2026-03-22 18:44:08,006 [INFO] [162/232] Relevant: Candidates speak on 'slave owner' comment made by fellow candidate, fired city e
+2026-03-22 18:44:08,006 [DEBUG]   → Departments: Law Department
+2026-03-22 18:44:08,006 [DEBUG]   → Keywords: city hall, mayor, city of syracuse
+2026-03-22 18:44:13,753 [WARNING]   Tag issue: Unknown tag 'controversy' not in taxonomy
+2026-03-22 18:44:13,753 [WARNING]   Tag issue: Unknown tag 'election' not in taxonomy
+2026-03-22 18:44:13,762 [INFO]   Saved: CTX-NEWS-2025-00125 → CTX-NEWS-2025-00125.json
+2026-03-22 18:44:14,763 [INFO] [163/232] Fetching: https://www.wrvo.org/2025-09-30/syracuse-officials-expect-deer-management-pilot-program-to-continue
+2026-03-22 18:44:17,337 [DEBUG] [163/232] Filtered (not relevant): Syracuse officials expect deer management pilot program to continue
+2026-03-22 18:44:18,338 [INFO] [164/232] Fetching: https://cnycentral.com/news/local/new-pilot-program-is-helping-lower-accidents-involving-deer-animal
+2026-03-22 18:44:22,197 [INFO] [164/232] Relevant: New pilot program is helping lower accidents involving deer
+2026-03-22 18:44:22,197 [DEBUG]   → Departments: Department of Parks, Recreation and Youth Programs
+2026-03-22 18:44:22,197 [DEBUG]   → Keywords: city of syracuse
+2026-03-22 18:44:27,518 [WARNING]   Tag issue: Unknown tag 'wildlife' not in taxonomy
+2026-03-22 18:44:27,530 [INFO]   Saved: CTX-NEWS-2025-00126 → CTX-NEWS-2025-00126.json
+2026-03-22 18:44:28,531 [INFO] [165/232] Fetching: https://www.localsyr.com/news/local-news/syracuse-reports-progress-in-tick-and-deer-management-progr
+2026-03-22 18:44:28,630 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-reports-progress-in-tick-and-d
+2026-03-22 18:44:28,630 [INFO] [165/232] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-reports-progress-in-tick-and-d
+2026-03-22 18:44:29,631 [INFO] [166/232] Fetching: https://cnycentral.com/news/local/syracuse-police-ask-public-to-avoid-area-of-suspicious-incident-mo
+2026-03-22 18:44:34,499 [INFO] [166/232] Relevant: Syracuse Police reveal 'suspicious package' that evacuated city hall
+2026-03-22 18:44:34,499 [DEBUG]   → Departments: Syracuse Fire Department, Syracuse Police Department
+2026-03-22 18:44:34,499 [DEBUG]   → Keywords: city hall, mayor, syracuse mayor
+2026-03-22 18:44:40,172 [INFO]   Saved: CTX-NEWS-2025-00127 → CTX-NEWS-2025-00127.json
+2026-03-22 18:44:41,173 [INFO] [167/232] Fetching: https://www.localsyr.com/news/local-news/police-asking-public-to-avoid-area-in-city-of-syracuse/
+2026-03-22 18:44:43,963 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/police-asking-public-to-avoid-area-in-c
+2026-03-22 18:44:43,963 [INFO] [167/232] Blocked/empty: https://www.localsyr.com/news/local-news/police-asking-public-to-avoid-area-in-c
+2026-03-22 18:44:44,964 [INFO] [168/232] Fetching: https://cnycentral.com/news/local/clear-investment-group-pledges-to-transform-troubled-skyline-apart
+2026-03-22 18:44:48,052 [INFO] [168/232] Relevant: Clear Investment Group pledges to transform troubled Skyline Apartments in Syrac
+2026-03-22 18:44:48,052 [DEBUG]   → Departments: Syracuse Fire Department, Law Department
+2026-03-22 18:44:48,052 [DEBUG]   → Keywords: mayor, city of syracuse, syracuse mayor
+2026-03-22 18:44:59,649 [INFO]   Saved: CTX-NEWS-2025-00128 → CTX-NEWS-2025-00128.json
+2026-03-22 18:45:02,649 [INFO] [169/232] Fetching: https://cnycentral.com/news/i-team/syracuse-council-scrutinizes-900k-request-for-consultant-in-payro
+2026-03-22 18:45:05,749 [INFO] [169/232] Relevant: Syracuse council scrutinizes $900K request for consultant in payroll project
+2026-03-22 18:45:05,749 [DEBUG]   → Entities: Mosaic Consulting Group
+2026-03-22 18:45:05,749 [DEBUG]   → Departments: Department of Finance, Law Department
+2026-03-22 18:45:05,749 [DEBUG]   → Systems: SWC/UKG
+2026-03-22 18:45:05,749 [DEBUG]   → Keywords: common council, mayor
+2026-03-22 18:45:12,301 [INFO]   Saved: CTX-NEWS-2025-00129 → CTX-NEWS-2025-00129.json
+2026-03-22 18:45:15,302 [INFO] [170/232] Fetching: https://cnycentral.com/news/local/cracks-floor-collapse-force-syracuse-fires-maintenance-to-find-new
+2026-03-22 18:45:18,229 [INFO] [170/232] Relevant: Cracks, floor collapse force Syracuse Fire's maintenance to find new temporary h
+2026-03-22 18:45:18,230 [DEBUG]   → Entities: Michael Monds, Syracuse University
+2026-03-22 18:45:18,230 [DEBUG]   → Departments: Syracuse Fire Department
+2026-03-22 18:45:18,230 [DEBUG]   → Keywords: syracuse fire
+2026-03-22 18:45:24,092 [INFO]   Saved: CTX-NEWS-2025-00130 → CTX-NEWS-2025-00130.json
+2026-03-22 18:45:25,093 [INFO] [171/232] Fetching: https://www.localsyr.com/video/syracuse-fire-dept-races-to-find-safe-space-after-garage-floor-deemed
+2026-03-22 18:45:25,189 [DEBUG]   HTTP 403: https://www.localsyr.com/video/syracuse-fire-dept-races-to-find-safe-space-after
+2026-03-22 18:45:25,190 [INFO] [171/232] Blocked/empty: https://www.localsyr.com/video/syracuse-fire-dept-races-to-find-safe-space-after
+2026-03-22 18:45:26,190 [INFO] [172/232] Fetching: https://www.waer.org/news/2025-10-02/new-syracuse-school-zone-cameras-catch-nearly-60-000-speeders-i
+2026-03-22 18:45:28,685 [INFO] [172/232] Relevant: New Syracuse school zone cameras catch nearly 60,000 speeders in just two weeks
+2026-03-22 18:45:28,685 [DEBUG]   → Entities: Jimmy Monto, Alexander Marion
+2026-03-22 18:45:28,685 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-22 18:45:28,685 [DEBUG]   → Keywords: mayor, city auditor, syracuse police
+2026-03-22 18:45:33,904 [WARNING]   Tag issue: Unknown tag 'traffic-safety' not in taxonomy
+2026-03-22 18:45:33,921 [INFO]   Saved: CTX-NEWS-2025-00131 → CTX-NEWS-2025-00131.json
+2026-03-22 18:45:34,921 [INFO] [173/232] Fetching: https://www.wrvo.org/2025-10-03/nearly-60-000-drivers-get-warnings-for-speeding-in-syracuse-school-z
+2026-03-22 18:45:37,524 [INFO] [173/232] Relevant: Nearly 60,000 drivers get warnings for speeding in Syracuse school zones
+2026-03-22 18:45:37,524 [DEBUG]   → Entities: Jimmy Monto
+2026-03-22 18:45:37,524 [DEBUG]   → Keywords: mayor, city of syracuse, city officials
+2026-03-22 18:45:43,261 [WARNING]   Tag issue: Unknown tag 'traffic-enforcement' not in taxonomy
+2026-03-22 18:45:43,261 [WARNING]   Tag issue: Unknown tag 'school-safety' not in taxonomy
+2026-03-22 18:45:43,267 [INFO]   Dedup match: CTX-NEWS-2025-00131
+2026-03-22 18:45:43,269 [INFO]   Saved: CTX-NEWS-2025-00132 → CTX-NEWS-2025-00132.json
+2026-03-22 18:45:44,269 [INFO] [174/232] Fetching: https://cnycentral.com/news/local/how-many-traffic-violations-have-been-found-since-the-school-zone-
+2026-03-22 18:45:47,229 [INFO] [174/232] Relevant: How many traffic violations have been found in Syracuse's School Zone Enforcemen
+2026-03-22 18:45:47,229 [DEBUG]   → Keywords: mayor, city of syracuse, syracuse mayor
+2026-03-22 18:45:52,825 [INFO]   Saved: CTX-NEWS-2025-00133 → CTX-NEWS-2025-00133.json
+2026-03-22 18:45:53,826 [INFO] [175/232] Fetching: https://www.localsyr.com/news/local-news/mayor-walsh-denounces-speeding-epidemic-after-cameras-catch
+2026-03-22 18:45:53,913 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/mayor-walsh-denounces-speeding-epidemic
+2026-03-22 18:45:53,914 [INFO] [175/232] Blocked/empty: https://www.localsyr.com/news/local-news/mayor-walsh-denounces-speeding-epidemic
+2026-03-22 18:45:54,914 [INFO] [176/232] Fetching: https://cnycentral.com/news/local/syracuse-city-school-district-looks-to-pay-outgoing-superintendent
+2026-03-22 18:46:00,011 [DEBUG] [176/232] Filtered (not relevant): Syracuse City School District looks to pay outgoing Superintendent $125,000 for 
+2026-03-22 18:46:01,012 [INFO] [177/232] Fetching: https://www.waer.org/news/2025-10-10/syracuse-common-councilors-question-locations-of-new-school-zon
+2026-03-22 18:46:03,463 [INFO] [177/232] Relevant: Syracuse Common Councilors question locations of new school zone cameras
+2026-03-22 18:46:03,463 [DEBUG]   → Entities: Rasheada Caldwell
+2026-03-22 18:46:03,463 [DEBUG]   → Departments: Department of Public Works
+2026-03-22 18:46:03,463 [DEBUG]   → Keywords: department of public works
+2026-03-22 18:46:09,940 [INFO]   Saved: CTX-NEWS-2025-00134 → CTX-NEWS-2025-00134.json
+2026-03-22 18:46:10,940 [INFO] [178/232] Fetching: https://www.localsyr.com/news/local-news/syracuse-rescue-mission-expansion/
+2026-03-22 18:46:11,016 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-rescue-mission-expansion/
+2026-03-22 18:46:11,016 [INFO] [178/232] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-rescue-mission-expansion/
+2026-03-22 18:46:12,017 [INFO] [179/232] Fetching: https://cnycentral.com/news/local/rescue-missions-hosts-groundbreaking-ceremony-for-future-facility
+2026-03-22 18:46:15,344 [INFO] [179/232] Relevant: Rescue Missions hosts groundbreaking ceremony for future facility
+2026-03-22 18:46:15,344 [DEBUG]   → Keywords: mayor
+2026-03-22 18:46:21,914 [WARNING]   Tag issue: Unknown tag 'downtown-revitalization' not in taxonomy
+2026-03-22 18:46:21,914 [WARNING]   Tag issue: Unknown tag 'state-programs' not in taxonomy
+2026-03-22 18:46:21,927 [INFO]   Saved: CTX-NEWS-2025-00135 → CTX-NEWS-2025-00135.json
+2026-03-22 18:46:24,927 [INFO] [180/232] Fetching: https://cnycentral.com/news/local/as-mayor-walshs-term-ends-the-fate-of-the-columbus-statue-remains-
+2026-03-22 18:46:28,115 [INFO] [180/232] Relevant: As Mayor Walsh's term ends, the fate of the Columbus statue remains uncertain
+2026-03-22 18:46:28,116 [DEBUG]   → Keywords: mayor
+2026-03-22 18:46:34,445 [WARNING]   Tag issue: Unknown tag 'litigation' not in taxonomy
+2026-03-22 18:46:34,458 [INFO]   Saved: CTX-NEWS-2025-00136 → CTX-NEWS-2025-00136.json
+2026-03-22 18:46:37,458 [INFO] [181/232] Fetching: https://cnycentral.com/news/local/the-old-syracuse-developmental-center-will-soon-be-a-residential-s
+2026-03-22 18:46:40,615 [INFO] [181/232] Relevant: The old Syracuse Developmental Center will soon be a residential space, if appro
+2026-03-22 18:46:40,615 [DEBUG]   → Departments: Department of Permits and Development
+2026-03-22 18:46:40,615 [DEBUG]   → Keywords: common council, city of syracuse
+2026-03-22 18:46:46,290 [WARNING]   Tag issue: Unknown tag 'state-programs' not in taxonomy
+2026-03-22 18:46:46,302 [INFO]   Saved: CTX-NEWS-2025-00137 → CTX-NEWS-2025-00137.json
+2026-03-22 18:46:49,302 [INFO] [182/232] Fetching: https://cnycentral.com/news/local/syracuse-schools-bid-farewell-to-superintendent-anthony-davis-amid
+2026-03-22 18:46:53,495 [INFO] [182/232] Relevant: Syracuse schools bid farewell to superintendent Anthony Davis amid challenges
+2026-03-22 18:46:53,495 [DEBUG]   → Keywords: mayor
+2026-03-22 18:46:59,509 [INFO]   Saved: CTX-NEWS-2025-00138 → CTX-NEWS-2025-00138.json
+2026-03-22 18:47:02,510 [INFO] [183/232] Fetching: https://cnycentral.com/news/local/syracuse-city-schools-spend-50-more-per-student-yet-rank-near-bott
+2026-03-22 18:47:05,612 [DEBUG] [183/232] Filtered (not relevant): Syracuse City Schools spend 50% more per student yet rank near bottom in state t
+2026-03-22 18:47:08,613 [INFO] [184/232] Fetching: https://cnycentral.com/news/local/supporters-not-ruling-out-new-legal-fight-if-push-to-remove-columb
+2026-03-22 18:47:11,971 [INFO] [184/232] Relevant: Supporters not ruling out new legal fight if push to remove Columbus statue cont
+2026-03-22 18:47:11,971 [DEBUG]   → Departments: Law Department
+2026-03-22 18:47:11,972 [DEBUG]   → Keywords: mayor
+2026-03-22 18:47:18,591 [WARNING]   Tag issue: Unknown tag 'litigation' not in taxonomy
+2026-03-22 18:47:18,591 [WARNING]   Tag issue: Unknown tag 'community-stakeholders' not in taxonomy
+2026-03-22 18:47:18,601 [INFO]   Saved: CTX-NEWS-2025-00139 → CTX-NEWS-2025-00139.json
+2026-03-22 18:47:21,602 [INFO] [185/232] Fetching: https://cnycentral.com/news/local/calvin-corriders-syracuse-housing-authority-children-rising-center
+2026-03-22 18:47:24,913 [DEBUG] [185/232] Filtered (not relevant): Calvin Corriders Sr. has left his position as chair of the Syracuse Housing Auth
+2026-03-22 18:47:27,914 [INFO] [186/232] Fetching: https://cnycentral.com/news/local/car-thefts-down-almost-50-from-last-year-in-syracuse
+2026-03-22 18:47:30,359 [INFO] [186/232] Relevant: Syracuse car thefts drop by 50% in 2025, but university area remains a hot spot
+2026-03-22 18:47:30,359 [DEBUG]   → Entities: Rasheada Caldwell, Syracuse University
+2026-03-22 18:47:30,359 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-22 18:47:30,359 [DEBUG]   → Keywords: city of syracuse, syracuse police
+2026-03-22 18:47:36,468 [INFO]   Saved: CTX-NEWS-2025-00140 → CTX-NEWS-2025-00140.json
+2026-03-22 18:47:39,469 [INFO] [187/232] Fetching: https://cnycentral.com/news/local/take-a-look-skyline-apartment-owners-reveal-new-progress-on-troubl
+2026-03-22 18:47:42,606 [INFO] [187/232] Relevant: Take a look: Skyline Apartment owners reveal new progress on troubled building
+2026-03-22 18:47:42,606 [DEBUG]   → Departments: Syracuse Fire Department, Law Department
+2026-03-22 18:47:42,606 [DEBUG]   → Keywords: mayor, syracuse mayor
+2026-03-22 18:47:49,208 [INFO]   Saved: CTX-NEWS-2025-00141 → CTX-NEWS-2025-00141.json
+2026-03-22 18:47:52,209 [INFO] [188/232] Fetching: https://cnycentral.com/news/local/demolition-starts-at-mckinney-manor-first-step-in-syracuses-50m-ea
+2026-03-22 18:47:54,878 [DEBUG] [188/232] Filtered (not relevant): Demolition starts at McKinney Manor in Syracuse's $50M East Adams project
+2026-03-22 18:47:57,879 [INFO] [189/232] Fetching: https://cnycentral.com/news/local/new-energy-efficient-homes-syracuse-offer-opportunity-income-eligi
+2026-03-22 18:48:00,932 [INFO] [189/232] Relevant: New energy-efficient homes in Syracuse offer opportunity for income-eligible buy
+2026-03-22 18:48:00,932 [DEBUG]   → Keywords: mayor, syracuse mayor, city officials
+2026-03-22 18:48:07,856 [WARNING]   Tag issue: Unknown tag 'affordable-housing' not in taxonomy
+2026-03-22 18:48:07,875 [INFO]   Saved: CTX-NEWS-2025-00142 → CTX-NEWS-2025-00142.json
+2026-03-22 18:48:10,876 [INFO] [190/232] Fetching: https://cnycentral.com/news/i-team/mayor-walsh-doles-out-more-than-60k-bonuses-challenging-fiscal-en
+2026-03-22 18:48:14,090 [INFO] [190/232] Relevant: Mayor Walsh doles out more than $60K in bonuses in 'challenging fiscal environme
+2026-03-22 18:48:14,090 [DEBUG]   → Entities: Robert Brandt
+2026-03-22 18:48:14,090 [DEBUG]   → Departments: Department of Public Works, Department of Human Resources, Department of Parks, Recreation and Youth Programs
+2026-03-22 18:48:14,090 [DEBUG]   → Keywords: city hall, common council, mayor
+2026-03-22 18:48:20,406 [WARNING]   Tag issue: Unknown tag 'compensation' not in taxonomy
+2026-03-22 18:48:20,418 [INFO]   Saved: CTX-NEWS-2025-00143 → CTX-NEWS-2025-00143.json
+2026-03-22 18:48:23,419 [INFO] [191/232] Fetching: https://cnycentral.com/news/local/syracuse-common-council-approves-plans-for-former-syracuse-develop
+2026-03-22 18:48:26,755 [INFO] [191/232] Relevant: Syracuse Common Council approves plans for former Syracuse Developmental Center
+2026-03-22 18:48:26,755 [DEBUG]   → Departments: Department of Permits and Development, Law Department
+2026-03-22 18:48:26,755 [DEBUG]   → Keywords: common council
+2026-03-22 18:48:32,148 [INFO]   Saved: CTX-NEWS-2025-00144 → CTX-NEWS-2025-00144.json
+2026-03-22 18:48:33,149 [INFO] [192/232] Fetching: https://www.localsyr.com/news/local-news/syracuse-valley-plaza-to-welcome-new-grocery-store-resident
+2026-03-22 18:48:33,254 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-valley-plaza-to-welcome-new-gr
+2026-03-22 18:48:33,254 [INFO] [192/232] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-valley-plaza-to-welcome-new-gr
+2026-03-22 18:48:34,255 [INFO] [193/232] Fetching: https://cnycentral.com/news/local/syracuse-to-launch-parking-amnesty-period-in-november-late-fees-to
+2026-03-22 18:48:37,879 [INFO] [193/232] Relevant: Syracuse to launch parking amnesty period in November, late fees to be waived
+2026-03-22 18:48:37,879 [DEBUG]   → Departments: Department of Finance
+2026-03-22 18:48:37,879 [DEBUG]   → Keywords: common council, city council, city of syracuse
+2026-03-22 18:48:43,988 [INFO]   Saved: CTX-NEWS-2025-00145 → CTX-NEWS-2025-00145.json
+2026-03-22 18:48:44,988 [INFO] [194/232] Fetching: https://www.wrvo.org/2025-10-28/syracuse-launches-amnesty-program-for-unpaid-parking-tickets
+2026-03-22 18:48:47,590 [INFO] [194/232] Relevant: Syracuse launches amnesty program for unpaid parking tickets
+2026-03-22 18:48:47,590 [DEBUG]   → Entities: Jimmy Monto
+2026-03-22 18:48:52,730 [INFO]   Saved: CTX-NEWS-2025-00146 → CTX-NEWS-2025-00146.json
+2026-03-22 18:48:53,731 [INFO] [195/232] Fetching: https://cnycentral.com/news/local/syracuse-school-zone-traffic-warnings-drop-41-as-enforcement-progr
+2026-03-22 18:48:57,563 [INFO] [195/232] Relevant: Syracuse school zone traffic warnings drop 41% as enforcement program progresses
+2026-03-22 18:48:57,563 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-22 18:48:57,563 [DEBUG]   → Keywords: mayor, city of syracuse, syracuse police
+2026-03-22 18:49:04,519 [INFO]   Saved: CTX-NEWS-2025-00147 → CTX-NEWS-2025-00147.json
+2026-03-22 18:49:05,519 [INFO] [196/232] Fetching: https://www.localsyr.com/news/local-news/syracuse-school-zone-traffic-data-shows-significant-drop-in
+2026-03-22 18:49:05,649 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-school-zone-traffic-data-shows
+2026-03-22 18:49:05,649 [INFO] [196/232] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-school-zone-traffic-data-shows
+2026-03-22 18:49:06,650 [INFO] [197/232] Fetching: https://cnycentral.com/news/local/syracuse-businesses-warned-of-scam-with-fake-zoning-invoices-reque
+2026-03-22 18:49:10,574 [INFO] [197/232] Relevant: Syracuse businesses warned of scam with fake zoning invoices requesting wire tra
+2026-03-22 18:49:10,574 [DEBUG]   → Departments: Syracuse Police Department, Department of Permits and Development
+2026-03-22 18:49:10,574 [DEBUG]   → Keywords: city of syracuse, syracuse police, code enforcement
+2026-03-22 18:49:16,009 [INFO]   Saved: CTX-NEWS-2025-00148 → CTX-NEWS-2025-00148.json
+2026-03-22 18:49:17,010 [INFO] [198/232] Fetching: https://www.localsyr.com/news/local-news/scam-alert-fake-zoning-invoices-in-cny/
+2026-03-22 18:49:17,162 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/scam-alert-fake-zoning-invoices-in-cny/
+2026-03-22 18:49:17,162 [INFO] [198/232] Blocked/empty: https://www.localsyr.com/news/local-news/scam-alert-fake-zoning-invoices-in-cny/
+2026-03-22 18:49:18,163 [INFO] [199/232] Fetching: https://cnycentral.com/news/local/esf-to-honor-mayor-ben-walsh-and-phil-bousquet-with-2025-sol-feins
+2026-03-22 18:49:22,809 [INFO] [199/232] Relevant: ESF to Honor Mayor Ben Walsh and Phil Bousquet with 2025 Sol Feinstone Environme
+2026-03-22 18:49:22,809 [DEBUG]   → Departments: Department of Permits and Development
+2026-03-22 18:49:22,809 [DEBUG]   → Keywords: mayor, syracuse mayor
+2026-03-22 18:49:28,424 [INFO]   Saved: CTX-NEWS-2025-00149 → CTX-NEWS-2025-00149.json
+2026-03-22 18:49:29,425 [INFO] [200/232] Fetching: https://www.localsyr.com/news/local-news/fayette-street-parking-garage-closes-due-to-safety-concerns
+2026-03-22 18:49:29,535 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/fayette-street-parking-garage-closes-du
+2026-03-22 18:49:29,535 [INFO] [200/232] Blocked/empty: https://www.localsyr.com/news/local-news/fayette-street-parking-garage-closes-du
+2026-03-22 18:49:30,536 [INFO] [201/232] Fetching: https://cnycentral.com/news/local/syracuse-parking-garage-closes-due-to-structural-concerns
+2026-03-22 18:49:33,964 [INFO] [201/232] Relevant: Syracuse parking garage closes due to structural concerns
+2026-03-22 18:49:33,964 [DEBUG]   → Keywords: city hall, code enforcement
+2026-03-22 18:49:38,616 [INFO]   Saved: CTX-NEWS-2025-00150 → CTX-NEWS-2025-00150.json
+2026-03-22 18:49:41,617 [INFO] [202/232] Fetching: https://cnycentral.com/news/local/common-council-discusses-pilot-program-for-alternatives-to-youth-i
+2026-03-22 18:49:45,127 [INFO] [202/232] Relevant: Syracuse Common Council discusses pilot program for alternatives to youth incarc
+2026-03-22 18:49:45,127 [DEBUG]   → Departments: Department of Permits and Development
+2026-03-22 18:49:45,127 [DEBUG]   → Keywords: common council
+2026-03-22 18:49:49,848 [WARNING]   Tag issue: Unknown tag 'criminal-justice' not in taxonomy
+2026-03-22 18:49:49,849 [WARNING]   Tag issue: Unknown tag 'youth-services' not in taxonomy
+2026-03-22 18:49:49,860 [INFO]   Saved: CTX-NEWS-2025-00151 → CTX-NEWS-2025-00151.json
+2026-03-22 18:49:50,861 [INFO] [203/232] Fetching: https://www.waer.org/news/2025-11-11/the-syracuse-city-fire-departments-fleet-has-a-new-home-for-mai
+2026-03-22 18:49:53,279 [INFO] [203/232] Relevant: The Syracuse City Fire Department’s fleet has a new home for maintenance
+2026-03-22 18:49:53,279 [DEBUG]   → Entities: Michael Monds
+2026-03-22 18:49:53,279 [DEBUG]   → Departments: Department of Human Resources, Syracuse Fire Department
+2026-03-22 18:49:53,279 [DEBUG]   → Keywords: common council, syracuse fire
+2026-03-22 18:49:58,076 [INFO]   Saved: CTX-NEWS-2025-00152 → CTX-NEWS-2025-00152.json
+2026-03-22 18:49:59,077 [INFO] [204/232] Fetching: https://cnycentral.com/news/local/syracuse-partners-with-exalt-to-support-at-risk-youth-what-we-know
+2026-03-22 18:50:02,816 [INFO] [204/232] Relevant: Syracuse partners with exalt to support at-risk youth: What we know now
+2026-03-22 18:50:02,816 [DEBUG]   → Departments: Department of Permits and Development
+2026-03-22 18:50:02,817 [DEBUG]   → Keywords: common council, mayor, city of syracuse
+2026-03-22 18:50:09,329 [WARNING]   Tag issue: Unknown tag 'criminal-justice' not in taxonomy
+2026-03-22 18:50:09,329 [WARNING]   Tag issue: Unknown tag 'youth-services' not in taxonomy
+2026-03-22 18:50:09,347 [INFO]   Saved: CTX-NEWS-2025-00153 → CTX-NEWS-2025-00153.json
+2026-03-22 18:50:12,348 [INFO] [205/232] Fetching: https://cnycentral.com/news/local/syracuse-hosting-two-i-81-open-houses-this-week
+2026-03-22 18:50:15,287 [INFO] [205/232] Relevant: Syracuse hosting two I-81 open houses this week
+2026-03-22 18:50:15,287 [DEBUG]   → Departments: Department of Parks, Recreation and Youth Programs, Law Department
+2026-03-22 18:50:15,287 [DEBUG]   → Keywords: city of syracuse
+2026-03-22 18:50:20,948 [WARNING]   Tag issue: Unknown tag 'community-feedback' not in taxonomy
+2026-03-22 18:50:20,948 [WARNING]   Tag issue: Unknown tag 'public-engagement' not in taxonomy
+2026-03-22 18:50:20,957 [INFO]   Saved: CTX-NEWS-2025-00154 → CTX-NEWS-2025-00154.json
+2026-03-22 18:50:23,958 [INFO] [206/232] Fetching: https://cnycentral.com/news/local/second-phase-of-east-adams-neighborhood-transformation-project-beg
+2026-03-22 18:50:26,970 [INFO] [206/232] Relevant: Second phase of East Adams neighborhood transformation project begins
+2026-03-22 18:50:26,970 [DEBUG]   → Departments: Department of Permits and Development, Law Department
+2026-03-22 18:50:32,150 [WARNING]   Tag issue: Unknown tag 'brownfield-remediation' not in taxonomy
+2026-03-22 18:50:32,150 [WARNING]   Tag issue: Unknown tag 'affordable-housing' not in taxonomy
+2026-03-22 18:50:32,173 [INFO]   Saved: CTX-NEWS-2025-00155 → CTX-NEWS-2025-00155.json
+2026-03-22 18:50:35,174 [INFO] [207/232] Fetching: https://cnycentral.com/news/local/syracuse-approves-funding-for-youth-alternative-to-incarceration-p
+2026-03-22 18:50:38,031 [INFO] [207/232] Relevant: Syracuse approves funding for youth alternative to incarceration program
+2026-03-22 18:50:38,031 [DEBUG]   → Keywords: common council, city of syracuse
+2026-03-22 18:50:42,877 [WARNING]   Tag issue: Unknown tag 'criminal-justice' not in taxonomy
+2026-03-22 18:50:42,878 [WARNING]   Tag issue: Unknown tag 'youth' not in taxonomy
+2026-03-22 18:50:42,878 [WARNING]   Tag issue: Unknown tag 'state-programs' not in taxonomy
+2026-03-22 18:50:42,888 [INFO]   Saved: CTX-NEWS-2025-00156 → CTX-NEWS-2025-00156.json
+2026-03-22 18:50:45,888 [INFO] [208/232] Fetching: https://cnycentral.com/news/local/vacant-city-hall-commons-in-downtown-syracuse-could-be-converted-t
+2026-03-22 18:50:48,866 [INFO] [208/232] Relevant: Vacant City Hall Commons in Downtown Syracuse could be converted to housing
+2026-03-22 18:50:48,866 [DEBUG]   → Departments: Department of Permits and Development
+2026-03-22 18:50:48,866 [DEBUG]   → Keywords: city hall, city of syracuse
+2026-03-22 18:50:54,070 [INFO]   Saved: CTX-NEWS-2025-00157 → CTX-NEWS-2025-00157.json
+2026-03-22 18:50:55,070 [INFO] [209/232] Fetching: https://www.localsyr.com/news/local-news/syracuse-auto-business-in-trouble-with-city-lawmakers-after
+2026-03-22 18:50:55,155 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-auto-business-in-trouble-with-
+2026-03-22 18:50:55,155 [INFO] [209/232] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-auto-business-in-trouble-with-
+2026-03-22 18:50:56,155 [INFO] [210/232] Fetching: https://cnycentral.com/news/local/ice-comments-syracuse-business-owners-self-deportation-amid-visa-c
+2026-03-22 18:50:59,115 [DEBUG] [210/232] Filtered (not relevant): ICE comments on Syracuse business owner’s self-deportation amid visa controversy
+2026-03-22 18:51:02,115 [INFO] [211/232] Fetching: https://cnycentral.com/news/local/syracuse-snow-plow-operators-unlicensed-companies-begin-filing-pap
+2026-03-22 18:51:05,201 [INFO] [211/232] Relevant: Syracuse snow plow operators unlicensed, companies begin filing paperwork
+2026-03-22 18:51:05,201 [DEBUG]   → Entities: Alexander Marion
+2026-03-22 18:51:05,201 [DEBUG]   → Departments: Law Department
+2026-03-22 18:51:05,201 [DEBUG]   → Keywords: city hall, city of syracuse, city auditor
+2026-03-22 18:51:11,076 [WARNING]   Tag issue: Unknown tag 'compliance' not in taxonomy
+2026-03-22 18:51:11,087 [INFO]   Saved: CTX-NEWS-2025-00158 → CTX-NEWS-2025-00158.json
+2026-03-22 18:51:12,087 [INFO] [212/232] Fetching: https://www.waer.org/news/2025-12-08/syracuse-police-oversight-board-regains-momentum-under-leadersh
+2026-03-22 18:51:14,466 [INFO] [212/232] Relevant: Syracuse police oversight board regains momentum under new leadership
+2026-03-22 18:51:14,467 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-22 18:51:14,467 [DEBUG]   → Keywords: common council, city of syracuse, syracuse police
+2026-03-22 18:51:19,108 [INFO]   Saved: CTX-NEWS-2025-00159 → CTX-NEWS-2025-00159.json
+2026-03-22 18:51:22,109 [INFO] [213/232] Fetching: https://www.waer.org/news/2025-12-05/mayor-walsh-and-mayor-elect-owens-reflect-on-significance-of-ea
+2026-03-22 18:51:24,528 [INFO] [213/232] Relevant: Mayor Walsh and Mayor-elect Owens reflect on significance of East Adams after ye
+2026-03-22 18:51:24,528 [DEBUG]   → Departments: Department of Permits and Development
+2026-03-22 18:51:24,528 [DEBUG]   → Keywords: city hall, mayor, city of syracuse
+2026-03-22 18:51:29,522 [INFO]   Saved: CTX-NEWS-2025-00160 → CTX-NEWS-2025-00160.json
+2026-03-22 18:51:30,522 [INFO] [214/232] Fetching: https://cnycentral.com/news/local/inspired-by-delaware-syracuse-to-install-clanker-system-in-2026-to
+2026-03-22 18:51:33,227 [INFO] [214/232] Relevant: Inspired by Delaware, Syracuse to install 'clanker' system in 2026 to stop bridg
+2026-03-22 18:51:33,227 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-22 18:51:33,227 [DEBUG]   → Keywords: city of syracuse, syracuse police
+2026-03-22 18:51:39,350 [INFO]   Saved: CTX-NEWS-2025-00161 → CTX-NEWS-2025-00161.json
+2026-03-22 18:51:42,350 [INFO] [215/232] Fetching: https://cnycentral.com/news/local/freedom-of-espresso-celebrating-30-years-of-coffee-in-syracuse
+2026-03-22 18:51:45,375 [INFO] [215/232] Relevant: Freedom of Espresso celebrating 30 years of coffee in Syracuse
+2026-03-22 18:51:45,375 [DEBUG]   → Keywords: mayor, city of syracuse, syracuse mayor
+2026-03-22 18:51:49,257 [INFO]   Saved: CTX-NEWS-2025-00162 → CTX-NEWS-2025-00162.json
+2026-03-22 18:51:52,258 [INFO] [216/232] Fetching: https://cnycentral.com/news/local/headed-out-in-syracuse-dont-forget-the-citys-snow-operations-map
+2026-03-22 18:51:55,486 [INFO] [216/232] Relevant: Headed out in Syracuse? Don't forget the city's Snow Operations Map
+2026-03-22 18:51:55,486 [DEBUG]   → Departments: Law Department
+2026-03-22 18:51:55,487 [DEBUG]   → Keywords: city of syracuse
+2026-03-22 18:51:59,918 [INFO]   Saved: CTX-NEWS-2025-00163 → CTX-NEWS-2025-00163.json
+2026-03-22 18:52:02,919 [INFO] [217/232] Fetching: https://cnycentral.com/news/local/syracuse-ukraine-sister-cities-mark-2-years-with-youth-art-exchang
+2026-03-22 18:52:05,931 [INFO] [217/232] Relevant: Syracuse, Ukraine Sister Cities mark 2 years with youth art exchange
+2026-03-22 18:52:05,931 [DEBUG]   → Departments: Department of Parks, Recreation and Youth Programs, Law Department
+2026-03-22 18:52:05,931 [DEBUG]   → Keywords: city hall, mayor, city of syracuse
+2026-03-22 18:52:12,683 [WARNING]   Tag issue: Unknown tag 'cultural-ties' not in taxonomy
+2026-03-22 18:52:12,683 [WARNING]   Tag issue: Unknown tag 'youth-engagement' not in taxonomy
+2026-03-22 18:52:12,702 [INFO]   Saved: CTX-NEWS-2025-00164 → CTX-NEWS-2025-00164.json
+2026-03-22 18:52:13,712 [INFO] [218/232] Fetching: https://www.localsyr.com/news/local-news/syracuse-mayors-final-community-briefing-highlights-public-
+2026-03-22 18:52:13,817 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-mayors-final-community-briefin
+2026-03-22 18:52:13,818 [INFO] [218/232] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-mayors-final-community-briefin
+2026-03-22 18:52:14,818 [INFO] [219/232] Fetching: https://cnycentral.com/news/local/ben-walsh-sharon-owens-syracuse-flock-81-project-micron-syracuse
+2026-03-22 18:52:18,238 [INFO] [219/232] Relevant: 'Paused in progress': Mayor Walsh passes the torch to Sharon Owens at his final 
+2026-03-22 18:52:18,238 [DEBUG]   → Entities: Mark Rusin, Michael Monds
+2026-03-22 18:52:18,238 [DEBUG]   → Departments: Syracuse Fire Department, Department of Permits and Development, Law Department
+2026-03-22 18:52:18,238 [DEBUG]   → Keywords: mayor, city of syracuse, syracuse mayor
+2026-03-22 18:52:25,295 [INFO]   Saved: CTX-NEWS-2025-00165 → CTX-NEWS-2025-00165.json
+2026-03-22 18:52:28,295 [INFO] [220/232] Fetching: https://cnycentral.com/news/local/violent-crime-sexual-violence-compstat-syracuse-police-ben-walsh-b
+2026-03-22 18:52:31,287 [INFO] [220/232] Relevant: Syracuse crime is down overall, but sexual violence in one area drives citywide 
+2026-03-22 18:52:31,288 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-22 18:52:31,288 [DEBUG]   → Keywords: mayor, city of syracuse, syracuse police
+2026-03-22 18:52:37,334 [INFO]   Saved: CTX-NEWS-2025-00166 → CTX-NEWS-2025-00166.json
+2026-03-22 18:52:38,335 [INFO] [221/232] Fetching: https://www.localsyr.com/interviews/interview-common-councilor-jimmy-monto-on-what-to-expect-for-202
+2026-03-22 18:52:38,457 [DEBUG]   HTTP 403: https://www.localsyr.com/interviews/interview-common-councilor-jimmy-monto-on-wh
+2026-03-22 18:52:38,457 [INFO] [221/232] Blocked/empty: https://www.localsyr.com/interviews/interview-common-councilor-jimmy-monto-on-wh
+2026-03-22 18:52:39,457 [INFO] [222/232] Fetching: https://www.waer.org/news/2025-12-17/ocwa-still-seeking-water-service-line-information-from-48-000-c
+2026-03-22 18:52:41,941 [DEBUG] [222/232] Filtered (not relevant): OCWA still seeking water service line information from 48,000 customers
+2026-03-22 18:52:42,943 [INFO] [223/232] Fetching: https://www.localsyr.com/news/local-news/syracuse-begins-winter-deer-management-program-across-the-c
+2026-03-22 18:52:43,013 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-begins-winter-deer-management-
+2026-03-22 18:52:43,013 [INFO] [223/232] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-begins-winter-deer-management-
+2026-03-22 18:52:44,013 [INFO] [224/232] Fetching: https://www.wrvo.org/2025-12-14/walsh-credits-recent-initiatives-for-a-drop-in-crime-in-syracuse
+2026-03-22 18:52:46,736 [INFO] [224/232] Relevant: Walsh credits recent initiatives for a drop in crime in Syracuse
+2026-03-22 18:52:46,736 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-22 18:52:46,736 [DEBUG]   → Keywords: mayor, syracuse mayor, syracuse police
+2026-03-22 18:52:51,566 [INFO]   Saved: CTX-NEWS-2025-00167 → CTX-NEWS-2025-00167.json
+2026-03-22 18:52:52,567 [INFO] [225/232] Fetching: https://www.waer.org/news/2025-12-11/syracuses-plow-operations-more-prepared-to-tackle-snow-events
+2026-03-22 18:52:54,964 [INFO] [225/232] Relevant: Syracuse's plow operations more prepared to tackle snow events
+2026-03-22 18:52:54,964 [DEBUG]   → Keywords: mayor
+2026-03-22 18:52:59,360 [INFO]   Saved: CTX-NEWS-2025-00168 → CTX-NEWS-2025-00168.json
+2026-03-22 18:53:00,360 [INFO] [226/232] Fetching: https://cnycentral.com/news/local/shootings-with-injuries-down-nearly-15-this-year-police-data-shows
+2026-03-22 18:53:03,266 [INFO] [226/232] Relevant: Shootings with injuries down nearly 15% so far this year in Syracuse, police dat
+2026-03-22 18:53:03,266 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-22 18:53:03,266 [DEBUG]   → Keywords: city of syracuse, syracuse police
+2026-03-22 18:53:09,127 [INFO]   Saved: CTX-NEWS-2025-00169 → CTX-NEWS-2025-00169.json
+2026-03-22 18:53:12,127 [INFO] [227/232] Fetching: https://cnycentral.com/news/local/syracuse-issues-21000-tickets-for-school-zone-traffic-enforcement-
+2026-03-22 18:53:14,657 [INFO] [227/232] Relevant: Syracuse issues 21,000 tickets for School Zone Traffic Enforcement violations in
+2026-03-22 18:53:14,658 [DEBUG]   → Keywords: city officials
+2026-03-22 18:53:20,518 [INFO]   Saved: CTX-NEWS-2025-00170 → CTX-NEWS-2025-00170.json
+2026-03-22 18:53:21,519 [INFO] [228/232] Fetching: https://www.waer.org/news/2025-12-18/streets-sidewalks-garbage-plus-hiring-and-housing-programs-defi
+2026-03-22 18:53:23,928 [INFO] [228/232] Relevant: Streets, sidewalks, garbage, plus hiring and housing programs define Mayor Walsh
+2026-03-22 18:53:23,928 [DEBUG]   → Departments: Department of Finance
+2026-03-22 18:53:23,928 [DEBUG]   → Keywords: mayor, municipal, syracuse mayor
+2026-03-22 18:53:29,245 [INFO]   Saved: CTX-NEWS-2025-00171 → CTX-NEWS-2025-00171.json
+2026-03-22 18:53:30,246 [INFO] [229/232] Fetching: https://cnycentral.com/news/local/spd-recaps-end-of-year-crime-stats
+2026-03-22 18:53:34,862 [INFO] [229/232] Relevant: SPD recaps end-of-year crime stats
+2026-03-22 18:53:34,863 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-22 18:53:34,863 [DEBUG]   → Keywords: syracuse police
+2026-03-22 18:53:43,475 [INFO]   Saved: CTX-NEWS-2025-00172 → CTX-NEWS-2025-00172.json
+2026-03-22 18:53:46,475 [INFO] [230/232] Fetching: https://cnycentral.com/news/local/syracuse-officials-clear-your-fire-hydrants-move-vehicles-off-road
+2026-03-22 18:53:49,744 [INFO] [230/232] Relevant: Syracuse officials: Clear your fire hydrants, move vehicles off roads amid heavy
+2026-03-22 18:53:49,744 [DEBUG]   → Entities: Mark Rusin, Michael Monds
+2026-03-22 18:53:49,745 [DEBUG]   → Departments: Department of Public Works, Syracuse Fire Department, Syracuse Police Department
+2026-03-22 18:53:49,745 [DEBUG]   → Keywords: mayor, syracuse mayor, department of public works
+2026-03-22 18:53:55,360 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-22 18:53:55,360 [WARNING]   Tag issue: Unknown tag 'procedural' not in taxonomy
+2026-03-22 18:53:55,372 [INFO]   Saved: CTX-NEWS-2025-00173 → CTX-NEWS-2025-00173.json
+2026-03-22 18:53:58,373 [INFO] [231/232] Fetching: https://cnycentral.com/news/local/syracuse-residents-share-their-thoughts-on-the-snow-one-called-it-
+2026-03-22 18:54:01,517 [INFO] [231/232] Relevant: Syracuse residents share their thoughts on the snow; one called it a 'nightmare'
+2026-03-22 18:54:01,517 [DEBUG]   → Departments: Syracuse Fire Department
+2026-03-22 18:54:01,517 [DEBUG]   → Keywords: mayor, syracuse mayor
+2026-03-22 18:54:08,346 [WARNING]   Tag issue: Unknown tag 'weather' not in taxonomy
+2026-03-22 18:54:08,356 [INFO]   Dedup match: CTX-NEWS-2025-00173
+2026-03-22 18:54:08,358 [INFO]   Saved: CTX-NEWS-2025-00174 → CTX-NEWS-2025-00174.json
+2026-03-22 18:54:09,359 [INFO] [232/232] Fetching: https://www.wrvo.org/2025-12-31/walsh-ready-to-hand-syracuse-city-government-to-sharon-owens
+2026-03-22 18:54:12,076 [INFO] [232/232] Relevant: Walsh ready to hand Syracuse city government to Sharon Owens
+2026-03-22 18:54:12,076 [DEBUG]   → Departments: Department of Permits and Development
+2026-03-22 18:54:12,076 [DEBUG]   → Keywords: city hall, mayor, municipal
+2026-03-22 18:54:17,748 [INFO]   Saved: CTX-NEWS-2025-00175 → CTX-NEWS-2025-00175.json
+2026-03-22 18:54:17,962 [INFO] Link Importer Run — 2026-03-22 18:54
+==================================================
+URLs in CSV: 452
+Skipped (domain): 4
+Already processed: 25
+Attempted this run: 232
+Blocked/empty: 37
+Filtered (not relevant): 23
+Saved as records: 172
+Errors: 0
+
+New records:
+  • Syracuse Code Enforcement in the spotlight (2025-04-15)
+  • Syracuse Common Council questions Walsh administration over unfinished (2025-04-15)
+  • Syracuse Councilor worries Mayor's budget relies too heavily on rainy  (2025-04-11)
+  • 'We need to replace Bill Simmons': SHA resident calls for accountabili (2025-04-18)
+  • I-Team obtains email thread between SHA, city hall and developer for E (2025-04-18)
+  • SPD explains use of "tactical strikes" seen in viral arrest video (2025-04-20)
+  • One police officer to face discipline following viral forceful arrest  (2025-04-18)
+  • VIDEO: SHA Executive Director insists he won't resign in confrontation (2025-04-17)
+  • Syracuse Mayor taking Nob Hill to Supreme Court (2025-04-25)
+  • Syracuse city auditor releases analysis of Walsh's city budget proposa (2025-04-24)
+  • Mayor Walsh launches 'Sustainable Syracuse' to fight climate change an (2025-04-23)
+  • DPW budget hearing held to discuss where things stand with water in Sy (2025-04-24)
+  • Syracuse Fire and Police Chiefs go before common council for budget he (2025-04-23)
+  • I-Team: Silence from Syracuse Housing Authority Board of Commissioners (2025-04-22)
+  • City of Syracuse cracks down further on apartment slumlords with Nob H (2025-05-01)
+  • Syracuse lawmakers say plan to reassess property values won't happen t (2025-04-29)
+  • Syracuse residents urged to voice opinions on proposed $348M budget (2025-04-29)
+  • Housing Authority public hearing lasts 20 minutes, with no leadership  (2025-04-26)
+  • Syracuse Housing Authority to hold public hearing on annual plan Frida (2025-04-25)
+  • Independent firm, used by Walsh Administration, finds 26 'red flags' w (2025-05-09)
+  • Democratic mayoral candidates at odds over budget cuts (2025-05-09)
+  • Syracuse Common Councilors slash budget; Mayor Walsh calls cuts "draco (2025-05-08)
+  • Syracuse lawmakers slash city budget by $16 million; Walsh calls cuts  (2025-05-08)
+  • 'We need to do better': SHA Board Chair addresses open meetings law vi (2025-05-08)
+  • Syracuse Common Council, Mayor at odds over proposed city budget (2025-05-08)
+  • Inside look at Syracuse Mayor Ben Walsh's budget strategy over his ten (2025-05-13)
+  • Syracuse budget cuts threaten police safety initiatives, chief says (2025-05-11)
+  • Mayor Ben Walsh, department leaders raise concerns over council budget (2025-05-12)
+  • State housing investments helping homeowners in Syracuse (2025-05-12)
+  • City departments highlight impact of steep budget cuts approved by com (2025-05-10)
+  • Decisions on Syracuse budget cuts happened behind closed doors (2025-05-10)
+  • Syracuse common council stands by budget cuts as mayor decides his nex (2025-05-14)
+  • Syracuse city budget under Mayor Walsh increased by $102 million over  (2025-05-12)
+  • EY's private meeting with Syracuse city leaders raises questions on pa (2025-05-02)
+  • Mayor issues 45 vetoes to Common Council's amendments on Syracuse city (2025-05-19)
+  • Walsh vetoes more than half of Syracuse lawmakers' budget amendments (2025-05-19)
+  • Walsh vetoes more than half of Syracuse lawmakers' budget amendments (2025-05-19)
+  • I-Team: A closer look at what's behind the Syracuse Mayor's budget ame (2025-05-20)
+  • Mayor Walsh rejects most of common council's budget cuts, calls for co (2025-05-20)
+  • Syracuse councilors poised to override mayor's attempt to restore budg (2025-05-22)
+  • Syracuse lawmakers unanimously vote to override Walsh's budget vetoes (2025-05-27)
+  • Common council overrides mayor's vetoes, approves broad budget cuts (2025-05-27)
+  • Syracuse political infighting likely to continue as contentious city b (2025-05-27)
+  • Syracuse police and fire departments face off in charity basketball ga (2025-05-24)
+  • I-81 Project intensifying across the City of Syracuse and suburbs (2025-05-23)
+  • Banners honoring Syracuse veterans expand to all corners of the city (2025-05-26)
+  • Officials celebrate success of I-81 project's local hiring initiative (2025-05-29)
+  • I-Team: Meeting between Mayor, Council President Pro Temp, Finance Cha (2025-05-14)
+  • A rainbow over City Hall: Syracuse honors Pride Month with flag raisin (2025-05-31)
+  • In Syracuse budget battle, council leader pledges to override all mayo (2025-05-15)
+  • Syracuse Public Safety building could become apartments next to jail a (2025-06-09)
+  • Syracuse Rescue Mission: Fence separating homeless from downtown is no (2025-06-09)
+  • Long awaited outside audit complete of Mayor Walsh's payroll moderniza (2025-06-08)
+  • Westcott neighborhood remains resilient amid recent challenges (2025-06-06)
+  • Fence outside Syracuse Rescue Mission sparks major concerns from homel (2025-06-06)
+  • Moody’s affirms Syracuse’s strong bond rating for seventh straight yea (2025-06-04)
+  • Audit reveals failures in Walsh administration's payroll modernization (2025-06-13)
+  • Tower 701, geared toward young professionals, is asking for $1,850 a m (2025-06-11)
+  • Report finds Syracuse lead paint ordinance may not be preventing poiso (2025-06-06)
+  • Syracuse councilors kill city-wide property reassessment in politicall (2025-06-10)
+  • State Supreme Court files injunction against illegal Syracuse weed sho (2025-06-27)
+  • 'These pools raised me': Public stays hopeful about Onondaga Park desp (2025-06-26)
+  • Mayor Walsh: Syracuse Democrats send message with Owens' resounding pr (2025-06-26)
+  • Shootings are up in Syracuse from last year, Community speaks on child (2025-06-25)
+  • Syracuse hosted Healthy Housing 101 event for safe home practices (2025-06-26)
+  • Neighbors question safety at Syracuse city pool after fatal shooting (2025-06-26)
+  • Syracuse residents frustrated by delays in convent demolition (2025-07-02)
+  • Syracuse Police Chief discusses city pool safety after homicide (2025-06-29)
+  • Leaders: Police union left context out of Facebook post calling Armory (2025-07-14)
+  • Syracuse officials and residents question police union's portrayal of  (2025-07-15)
+  • 'Nothing short of chaos': Police Union leader defends vague Armory Squ (2025-07-15)
+  • Despite recent violence, overall homicide rate in Syracuse down from l (2025-07-13)
+  • IKEA could boost struggling Destiny USA, connect nearby attractions (2025-07-10)
+  • Homepage (2026-03-22)
+  • Syracuse expands Surge Link broadband to more underserved neighborhood (2025-07-09)
+  • Syracuse's broadband service, Surge Link, expands to more low-income h (2025-07-08)
+  • City of Syracuse considers adding electric vehicle chargers (2025-07-08)
+  • Major Syracuse Housing Authority project faces completion date delay (2025-07-08)
+  • Syracuse officials explore options as Trump kills funding for neighbor (2025-07-07)
+  • Latest construction update for STEAM School in Syracuse reveals plan t (2025-07-08)
+  • Skan native Rachel Dewitt to swim length of Skaneateles Lake Tuesday,  (2025-07-22)
+  • Syracuse's Mayor says he's never used the term sanctuary city (2025-07-21)
+  • Syracuse and Onondaga county leaders report progress on lead paint rem (2025-07-17)
+  • Syracuse Police Chief gives his take on "Public Saftey trends" in Armo (2025-07-21)
+  • Eastwood Heights renovation hits another snag, third deal kicked back  (2025-07-18)
+  • NAACP, leaders react to Syracuse Police Union President doubling down  (2025-07-16)
+  • Brooklyn Pickle Owner says new Marshall St. location could open in Aug (2025-07-17)
+  • 'Look at what we're living with': Eastwood Heights residents show cond (2025-07-24)
+  • Syracuse surpasses greenhouse gas reduction goals set in 2010; mayor s (2025-07-24)
+  • Syracuse dog shelter location still up in the air more than a year aft (2025-07-24)
+  • Full STEAM ahead for new regional school's first cohort of students th (2025-07-22)
+  • Syracuse Police Department's animal control unit warns of increase in  (2025-07-23)
+  • Groups say EPA should use emergency powers to address lead water probl (2025-07-29)
+  • Common Council holds off on decision of adding red light and speed zon (2025-08-12)
+  • Syracuse Common Council completes swap with SHA, intends to build Chil (2025-08-12)
+  • City of Syracuse seeks to close nuisance convenience store in Outer Co (2025-08-11)
+  • James Pass Arboretum to Close Aug. 11&ndash;12 for tree work (2025-08-11)
+  • New York facing $34 billion budget gap in wake of federal spending cut (2025-08-09)
+  • Organizations call for more information about lead levels in Syracuse  (2025-08-07)
+  • City of Syracuse shows renters and homebuyers how to choose wisely (2025-08-04)
+  • Syracuse Police discuss National Night Out and Dome Patrols (2025-08-03)
+  • Box truck strikes Parkway Bridge again (2025-08-01)
+  • Syracuse auditor calls for measures to prevent vacant home fires (2025-07-31)
+  • Burned out vacant houses contribute to Syracuse's housing shortage (2025-07-31)
+  • Syracuse city auditor releases report aiming to cut down on vacant str (2025-08-01)
+  • Syracuse police chief clarifies policy adherence after PBA posts (2025-07-27)
+  • Plan to redevelop former Lafayette Country Club into housing clears fi (2025-08-19)
+  • Proactive policing and interventions result in lower crime rates in Sy (2025-08-18)
+  • Statistics show drop in crime in Syracuse (2025-08-15)
+  • Overall crime in Syracuse is down so far this year, officials say (2025-08-14)
+  • This is how far some 'school zone red light cameras' are from actual s (2025-08-13)
+  • Syracuse Common Council honors President Helen Hudson (2025-08-13)
+  • Housing initiative to improve curb appeal for Tipperary Hill and Salt  (2025-08-26)
+  • Syracuse mural project aims to enhance safety and community spirit (2025-09-17)
+  • City Officials comment on the progress of I-81 Viaduct Project (2025-09-17)
+  • Onondaga County budget proposal has lower taxes, money for law enforce (2025-09-16)
+  • Residents voice concerns over Syracuse Police drone program (2025-09-16)
+  • New Syracuse housing project aims to transform one of the city's poore (2025-09-15)
+  • Syracuse Common Council approves sale of old fire station for $900K re (2025-09-03)
+  • Hundreds of tenants wait, yet again, for a hearing to hold notorious N (2025-08-28)
+  • Nob Hill tenants demand action amid ongoing legal battle (2025-08-27)
+  • Candidates speak on 'slave owner' comment made by fellow candidate, fi (2025-08-26)
+  • New pilot program is helping lower accidents involving deer (2025-09-29)
+  • Syracuse Police reveal 'suspicious package' that evacuated city hall (2025-09-29)
+  • Clear Investment Group pledges to transform troubled Skyline Apartment (2025-09-25)
+  • Syracuse council scrutinizes $900K request for consultant in payroll p (2025-09-24)
+  • Cracks, floor collapse force Syracuse Fire's maintenance to find new t (2025-09-23)
+  • New Syracuse school zone cameras catch nearly 60,000 speeders in just  (2025-10-02)
+  • Nearly 60,000 drivers get warnings for speeding in Syracuse school zon (2025-10-03)
+  • How many traffic violations have been found in Syracuse's School Zone  (2025-10-02)
+  • Syracuse Common Councilors question locations of new school zone camer (2025-10-10)
+  • Rescue Missions hosts groundbreaking ceremony for future facility (2025-10-09)
+  • As Mayor Walsh's term ends, the fate of the Columbus statue remains un (2025-10-09)
+  • The old Syracuse Developmental Center will soon be a residential space (2025-10-09)
+  • Syracuse schools bid farewell to superintendent Anthony Davis amid cha (2025-10-09)
+  • Supporters not ruling out new legal fight if push to remove Columbus s (2025-10-13)
+  • Syracuse car thefts drop by 50% in 2025, but university area remains a (2025-10-16)
+  • Take a look: Skyline Apartment owners reveal new progress on troubled  (2025-10-21)
+  • New energy-efficient homes in Syracuse offer opportunity for income-el (2025-10-29)
+  • Mayor Walsh doles out more than $60K in bonuses in 'challenging fiscal (2025-10-28)
+  • Syracuse Common Council approves plans for former Syracuse Development (2025-10-28)
+  • Syracuse to launch parking amnesty period in November, late fees to be (2025-10-28)
+  • Syracuse launches amnesty program for unpaid parking tickets (2025-10-28)
+  • Syracuse school zone traffic warnings drop 41% as enforcement program  (2025-10-26)
+  • Syracuse businesses warned of scam with fake zoning invoices requestin (2025-10-24)
+  • ESF to Honor Mayor Ben Walsh and Phil Bousquet with 2025 Sol Feinstone (2025-10-23)
+  • Syracuse parking garage closes due to structural concerns (2025-11-07)
+  • Syracuse Common Council discusses pilot program for alternatives to yo (2025-11-07)
+  • The Syracuse City Fire Department’s fleet has a new home for maintenan (2025-11-11)
+  • Syracuse partners with exalt to support at-risk youth: What we know no (2025-11-13)
+  • Syracuse hosting two I-81 open houses this week (2025-11-12)
+  • Second phase of East Adams neighborhood transformation project begins (2025-11-10)
+  • Syracuse approves funding for youth alternative to incarceration progr (2025-11-11)
+  • Vacant City Hall Commons in Downtown Syracuse could be converted to ho (2025-11-21)
+  • Syracuse snow plow operators unlicensed, companies begin filing paperw (2025-12-10)
+  • Syracuse police oversight board regains momentum under new leadership (2025-12-08)
+  • Mayor Walsh and Mayor-elect Owens reflect on significance of East Adam (2025-12-05)
+  • Inspired by Delaware, Syracuse to install 'clanker' system in 2026 to  (2025-12-04)
+  • Freedom of Espresso celebrating 30 years of coffee in Syracuse (2025-12-05)
+  • Headed out in Syracuse? Don't forget the city's Snow Operations Map (2025-11-28)
+  • Syracuse, Ukraine Sister Cities mark 2 years with youth art exchange (2025-11-22)
+  • 'Paused in progress': Mayor Walsh passes the torch to Sharon Owens at  (2025-12-12)
+  • Syracuse crime is down overall, but sexual violence in one area drives (2025-12-12)
+  • Walsh credits recent initiatives for a drop in crime in Syracuse (2025-12-15)
+  • Syracuse's plow operations more prepared to tackle snow events (2025-12-12)
+  • Shootings with injuries down nearly 15% so far this year in Syracuse,  (2025-12-10)
+  • Syracuse issues 21,000 tickets for School Zone Traffic Enforcement vio (2025-12-23)
+  • Streets, sidewalks, garbage, plus hiring and housing programs define M (2025-12-18)
+  • SPD recaps end-of-year crime stats (2025-12-21)
+  • Syracuse officials: Clear your fire hydrants, move vehicles off roads  (2025-12-30)
+  • Syracuse residents share their thoughts on the snow; one called it a ' (2025-12-30)
+  • Walsh ready to hand Syracuse city government to Sharon Owens (2025-12-31)
+

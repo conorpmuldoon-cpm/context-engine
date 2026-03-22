@@ -1,0 +1,83 @@
+{
+  "record_id": "CTX-NEWS-2025-00089",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/naacp-leaders-react-to-syracuse-police-union-president-doubling-down-on-social-media-post",
+  "publication_date": "2025-07-16",
+  "capture_date": "2026-03-22T18:36:50Z",
+  "title": "NAACP, leaders react to Syracuse Police Union President doubling down on social media post",
+  "summary": "Syracuse Police Benevolent Association President Joe Moran's social media post characterizing Armory Square as infiltrated by 'gangbangers' has prompted criticism from NAACP Regional Director Linda Brown-Robinson, who characterizes the messaging as racially coded and an 'injustice.' The post cited 40 arrests and 5 recovered guns from proactive policing operations, but lacks context. NAACP leadership has signaled willingness to engage with PBA leadership on the matter.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "labor-relations",
+    "equity",
+    "public-safety-commission",
+    "escalating",
+    "transparency",
+    "community-community",
+    "PROVISIONAL:police-union-communication"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Joe Moran",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-MORAN"
+    },
+    {
+      "name": "Linda Brown-Robinson",
+      "type": "person",
+      "canonical_id": "PERSON-LINDA-BROWN-ROBINSON"
+    },
+    {
+      "name": "Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "NAACP",
+      "type": "organization",
+      "canonical_id": "ORG-NAACP"
+    },
+    {
+      "name": "Syracuse Police Benevolent Association",
+      "type": "organization",
+      "canonical_id": "ORG-PBA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Community advocacy organization (NAACP) scrutinizing police union leadership communication regarding downtown policing operations and language choices; Deputy Mayor and Police Chief seeking to manage messaging and community perception.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00073"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on reputational and labor-relations risk rather than operational innovation; relevant for CIO primarily as constituent engagement and transparency issue",
+    "No specific technology systems mentioned; potential communication/social media policy angle for future consideration",
+    "Incident involves downtown district (Armory Square) which may connect to economic development and neighborhood services initiatives",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'community-community' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00073"
+  ],
+  "last_relevance_update": null
+}

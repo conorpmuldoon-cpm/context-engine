@@ -1,0 +1,65 @@
+{
+  "record_id": "CTX-NEWS-2025-00168",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-12-11/syracuses-plow-operations-more-prepared-to-tackle-snow-events",
+  "publication_date": "2025-12-12",
+  "capture_date": "2026-03-22T18:52:59Z",
+  "title": "Syracuse's plow operations more prepared to tackle snow events",
+  "summary": "Mayor Ben Walsh reports Syracuse's snowplow operations are better equipped than in years past to handle winter weather events. The city has doubled its fleet from 12 to 20 plows since 2018 and recently hired additional drivers undergoing intensive on-the-job training. The article highlights ongoing recruitment for drivers and mechanics as the city addresses capacity challenges and workforce experience gaps.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "snow-removal",
+    "fleet",
+    "hiring",
+    "workforce-development",
+    "training",
+    "leadership-change",
+    "announcement"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Office of the Mayor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "WAER",
+      "type": "organization",
+      "canonical_id": "ORG-WAER"
+    },
+    {
+      "name": "Scott Willis",
+      "type": "person",
+      "canonical_id": "PERSON-SCOTT-WILLIS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Mayor Walsh publicly emphasizes multi-year capital investment in fleet modernization and workforce development as signature achievements of his administration, signaling sustained commitment to snow removal infrastructure.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date metadata shows 2025-12-12 but publication date is 2025-12-11; using publication date as authoritative",
+    "No specific budget figures provided; investment quantified only by truck count increase (12→20 units)",
+    "New driver retention and experience gaps identified as operational challenges worth monitoring",
+    "No department head formally identified in article; mayoral commentary is primary source",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

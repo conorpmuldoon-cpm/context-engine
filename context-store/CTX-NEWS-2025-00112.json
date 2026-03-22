@@ -1,0 +1,71 @@
+{
+  "record_id": "CTX-NEWS-2025-00112",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.wrvo.org/2025-08-15/statistics-show-drop-in-crime-in-syracuse",
+  "publication_date": "2025-08-15",
+  "capture_date": "2026-03-22T18:41:23Z",
+  "title": "Statistics show drop in crime in Syracuse",
+  "summary": "Syracuse crime statistics show a 27% overall decrease through the first seven months of 2025, with violent crime down 18% and property crime down 29%. Mayor Walsh and Police Chief Cecile attribute improvements to proactive policing programs including COPRA (community officer foot patrols) and the Mayor's Office to Reduce Gun Violence, with homicides down 33% compared to the national average of 17%.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "crime-data",
+    "police",
+    "public-safety-commission",
+    "initiative-launch",
+    "trending",
+    "transparency",
+    "mayor",
+    "residents"
+  ],
+  "department_refs": [
+    "Police Department",
+    "Mayor's Office to Reduce Gun Violence"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE"
+    },
+    {
+      "name": "Lateef Johnson-Kinsey",
+      "type": "person",
+      "canonical_id": "PERSON-LATEEF-JOHNSON-KINSEY"
+    },
+    {
+      "name": "COPRA",
+      "type": "system",
+      "canonical_id": "SYS-COPRA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Mayor and police leadership highlighting crime reduction achievements and promoting effectiveness of city public safety initiatives and programs to constituents.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references COMPSTAT report available on city website—potential data governance/transparency connection for CIO",
+    "COPRA program represents operational data collection touchpoint (officer field activities); potential for performance measurement systems integration",
+    "No budget figures or specific funding amounts mentioned despite discussion of multiple programs",
+    "Crime-data tag appropriate given reliance on statistics; data infrastructure may require CIO attention for COMPSTAT system",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.wrvo.org)"
+  ],
+  "last_relevance_update": null
+}

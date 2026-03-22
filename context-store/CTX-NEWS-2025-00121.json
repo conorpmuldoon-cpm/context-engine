@@ -1,0 +1,85 @@
+{
+  "record_id": "CTX-NEWS-2025-00121",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.wrvo.org/2025-09-15/new-syracuse-housing-project-aims-to-transform-one-of-the-citys-poorest-neighborhoods",
+  "publication_date": "2025-09-15",
+  "capture_date": "2026-03-22T18:43:18Z",
+  "title": "New Syracuse housing project aims to transform one of the city's poorest neighborhoods",
+  "summary": "The Southside Renaissance Project, a $41 million mixed-use housing development in Syracuse's Elmwood neighborhood, is advancing with state, local, and federal funding support. Led by Charlene Tarver's coalition and co-developed by Brooklyn-based St. Nicks Alliance, the two-building project will deliver 75+ senior apartments plus ground-floor amenities including a food hall, daycare, workforce lab, rooftop garden, and retail incubator. Groundbreaking expected 2027; completion 2029.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "economic-development",
+    "workforce-development",
+    "federal-programs",
+    "grants",
+    "initiative-launch",
+    "equity",
+    "capital-planning",
+    "intergovernmental",
+    "PROVISIONAL:community-revitalization",
+    "PROVISIONAL:mixed-use-development"
+  ],
+  "department_refs": [
+    "Department of Permits and Development",
+    "Office of the Mayor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Charlene Tarver",
+      "type": "person",
+      "canonical_id": "PERSON-CHARLENE-TARVER"
+    },
+    {
+      "name": "Frank Lang",
+      "type": "person",
+      "canonical_id": "PERSON-FRANK-LANG"
+    },
+    {
+      "name": "St. Nicks Alliance",
+      "type": "organization",
+      "canonical_id": "ORG-ST-NICKS-ALLIANCE"
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor and County Executive personal investment in neighborhood transformation; public commitment of tax breaks and grants; cross-sector coalition-building signals executive-level priority alignment on equitable economic development.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount ($41M) is project total; funding sources are mixed (state/local/federal/tax-breaks) but specific breakdown not provided",
+    "Project timeline extends beyond current fiscal year; relevant for multi-year capital planning and CIO infrastructure/digital systems integration (broadband access, IT components of workforce lab mentioned)",
+    "Elmwood Park location and neighboring 51-unit project suggest broader neighborhood revitalization corridor; recommend cross-referencing with GIS/land-use planning data",
+    "St. Nicks Alliance partnership is significant for housing/workforce precedent; recommend documenting institutional knowledge transfer",
+    "Article source is WRVO (public radio); consider monitoring for follow-up reporting on federal funding applications (mentioned for next year)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.wrvo.org)"
+  ],
+  "last_relevance_update": null
+}

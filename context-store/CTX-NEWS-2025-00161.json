@@ -1,0 +1,77 @@
+{
+  "record_id": "CTX-NEWS-2025-00161",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/inspired-by-delaware-syracuse-to-install-clanker-system-in-2026-to-stop-bridge-strikes",
+  "publication_date": "2025-12-04",
+  "capture_date": "2026-03-22T18:51:39Z",
+  "title": "Inspired by Delaware, Syracuse to install 'clanker' system in 2026 to stop bridge strikes",
+  "summary": "Syracuse will install a 'clanker' safety system on the CSX railroad bridge along Park Street in 2026, modeled after Delaware's successful implementation in Newark. The system uses a giant arm with hanging buoys to physically warn oversized trucks before they strike the bridge, addressing 42 documented strikes since 2020. This infrastructure safety initiative reflects the City's proactive approach to accident prevention and public safety.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "roads-bridges",
+    "public-safety-commission",
+    "transportation",
+    "initiative-launch",
+    "capital-planning",
+    "intergovernmental",
+    "vision-zero"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Office of the Chief Innovation Officer"
+  ],
+  "entity_refs": [
+    {
+      "name": "Conor Muldoon",
+      "type": "person",
+      "canonical_id": "PERSON-CONOR-MULDOON"
+    },
+    {
+      "name": "Matheu Carter",
+      "type": "person",
+      "canonical_id": "PERSON-MATHEU-CARTER"
+    },
+    {
+      "name": "University of Delaware",
+      "type": "organization",
+      "canonical_id": "ORG-UNIV-DELAWARE"
+    },
+    {
+      "name": "CSX Railroad",
+      "type": "organization",
+      "canonical_id": "ORG-CSX"
+    },
+    {
+      "name": "Mary Kielar",
+      "type": "person",
+      "canonical_id": "PERSON-MARY-KIELAR"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "CIO office is championing infrastructure safety innovation through best-practice adoption from peer municipalities (Newark, DE), demonstrating evidence-based governance and proactive risk management.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article quotes COO Conor Muldoon, indicating CIO office involvement in capital project planning",
+    "Bridge strike data (42 incidents since 2020) provides quantified problem statement; no budget figure disclosed",
+    "Implementation timeline: 2026 suggests planning/design phase currently underway",
+    "Intergovernmental learning component suggests possible data-sharing or best-practices network with other cities",
+    "Strong community engagement signal (Halloween costumes, Christmas ornaments, Facebook page) indicates potential for constituency support",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-NEWS-2025-00060",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/local-news/2025-06-04/moodys-affirms-syracuses-strong-bond-rating-for-seventh-straight-year",
+  "publication_date": "2025-06-04",
+  "capture_date": "2026-03-22T18:30:56Z",
+  "title": "Moody’s affirms Syracuse’s strong bond rating for seventh straight year",
+  "summary": "Moody's Investors Service affirmed Syracuse's A-1 bond rating and stable outlook for the seventh consecutive year, covering Mayor Ben Walsh's entire tenure. Walsh cited this rating as vindication of his administration's financial management against council members who have argued for deep budget cuts based on claims of fiscal mismanagement.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "financial-management",
+    "mayor",
+    "council",
+    "announcement",
+    "transparency"
+  ],
+  "department_refs": [
+    "Department of Finance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Moody's Investors Service",
+      "type": "organization",
+      "canonical_id": "ORG-MOODYS"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Mayor Walsh leverages third-party credit rating agency validation to counter political opposition from council members regarding budget cuts and fiscal management claims.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article frames financial rating as political vindication rather than neutral fiscal reporting",
+    "Council member opposition mentioned but not directly quoted or attributed",
+    "No specific budget figures or departmental performance metrics provided",
+    "Seven-year consecutive rating streak is significant but underlying fiscal indicators not detailed",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)",
+    "Tag warning: Unknown tag 'financial-management' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

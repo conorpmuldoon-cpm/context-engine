@@ -1,0 +1,81 @@
+{
+  "record_id": "CTX-NEWS-2025-00071",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-residents-frustrated-by-delays-in-convent-demolition-mark-congel-maria-regina-ben-walsh",
+  "publication_date": "2025-07-02",
+  "capture_date": "2026-03-22T18:33:02Z",
+  "title": "Syracuse residents frustrated by delays in convent demolition",
+  "summary": "Demolition of the former Maria Regina College convent complex remains stalled months after a March fire, frustrating northside residents and local officials. The project requires finalized agreements between current owner Mark Congel and Home Leasing (developer of a planned 181-unit housing project) before deconstruction can begin. Commissioner Michael Collins indicates paperwork is nearly complete, though Councilor Marty Nave has criticized Congel's property neglect and suggested the city may need to intervene.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "demolition",
+    "property-neglect",
+    "neighborhood-services",
+    "economic-development",
+    "land-use",
+    "permitting",
+    "complaint",
+    "escalating",
+    "residents",
+    "historic-preservation"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development",
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael Collins",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-COLLINS"
+    },
+    {
+      "name": "Mark Congel",
+      "type": "person",
+      "canonical_id": "PERSON-MARK-CONGEL"
+    },
+    {
+      "name": "Marty Nave",
+      "type": "person",
+      "canonical_id": "PERSON-MARTY-NAVE"
+    },
+    {
+      "name": "Home Leasing",
+      "type": "organization",
+      "canonical_id": "ORG-HOME-LEASING"
+    },
+    {
+      "name": "Maria Regina College",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Residents and city council member escalating frustration over delayed demolition and housing redevelopment; potential municipal intervention threatened if property owner inaction continues.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date discrepancy: headline says 2025-07-02, byline says 2025-07-01; using headline date as authoritative",
+    "No budget or financial impacts quantified in article",
+    "Department of Permits and Development inferred from permitting/demolition context; not explicitly named",
+    "Potential follow-up: intergovernmental coordination between city and private developers needed for resolution",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'demolition' not in taxonomy",
+    "Tag warning: Unknown tag 'property-neglect' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

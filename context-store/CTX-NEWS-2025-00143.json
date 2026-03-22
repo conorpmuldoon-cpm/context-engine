@@ -1,0 +1,90 @@
+{
+  "record_id": "CTX-NEWS-2025-00143",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/i-team/mayor-walsh-doles-out-more-than-60k-bonuses-challenging-fiscal-environment",
+  "publication_date": "2025-10-28",
+  "capture_date": "2026-03-22T18:48:20Z",
+  "title": "Mayor Walsh doles out more than $60K in bonuses in 'challenging fiscal environment'",
+  "summary": "Mayor Walsh distributed over $60K in merit-based bonuses to 37 city employees in three tranches during 2025, including $2K awards to top administrators like Police Chief Cecile, Finance Commissioner Cannizzaro, and Water Commissioner Brandt. The bonuses, combined with 3% COLA raises and 20-40% pay grade increases, were distributed without Common Council approval. New York State Comptroller opinions cited in the article suggest such bonus payments may violate the state constitution.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "payroll",
+    "budget",
+    "compensation",
+    "mayor",
+    "transparency",
+    "state-mandates",
+    "labor-relations",
+    "investigation",
+    "PROVISIONAL:constitutional-compliance",
+    "PROVISIONAL:discretionary-spending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Department of Finance",
+    "Department of Public Works",
+    "Department of Parks, Recreation and Youth Programs",
+    "Department of Human Resources",
+    "Department of Information Technology",
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE"
+    },
+    {
+      "name": "Mike Cannizzaro",
+      "type": "person",
+      "canonical_id": "PERSON-MIKE-CANNIZZARO"
+    },
+    {
+      "name": "Robert Brandt",
+      "type": "person",
+      "canonical_id": "PERSON-ROBERT-BRANDT"
+    },
+    {
+      "name": "Corey Driscoll Dunham",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-DRISCOLL-DUNHAM"
+    },
+    {
+      "name": "New York State Comptroller",
+      "type": "organization",
+      "canonical_id": "ORG-NY-STATE-COMPTROLLER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Investigative reporting highlighting potential constitutional violations in bonus distribution during fiscal constraints; lack of Council transparency and State Comptroller legal concerns suggest governance oversight issues.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article truncated mid-sentence regarding State Comptroller legal opinions—full legal analysis unavailable",
+    "Payroll Modernization project context suggests potential connection to IT-infrastructure initiatives",
+    "No Common Council approval requirement noted but advance notification mentioned—governance process clarity needed",
+    "All 37 recipients not individually named; extracted representative high-level examples",
+    "Timing of bonuses (Feb, Apr, Jul 2025) and 'pool payment system' mention suggest systematic rather than ad-hoc distribution",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'compensation' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

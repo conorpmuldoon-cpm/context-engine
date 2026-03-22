@@ -1,0 +1,69 @@
+{
+  "record_id": "CTX-NEWS-2025-00011",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-police-officer-to-face-discipline-following-forceful-arrest-on-south-avenue-handcuffs-chief-joseph-cecile-facebook-video",
+  "publication_date": "2025-04-18",
+  "capture_date": "2026-03-22T18:21:38Z",
+  "title": "One police officer to face discipline following viral forceful arrest in Syracuse",
+  "summary": "Syracuse Police Chief Joseph Cecile announced on April 18, 2025, that one officer will face discipline following a viral April 9 arrest on South Avenue. The incident involved two men stopped for tinted windows; video showed forceful takedowns and head strikes by officers. Chief Cecile characterized the strikes as \"controlled strikes\" consistent with use-of-force policy, though the specific nature of the discipline remains pending investigation completion.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "investigation",
+    "policy-change",
+    "use-of-force",
+    "transparency",
+    "PROVISIONAL:officer-discipline",
+    "PROVISIONAL:viral-incident",
+    "complaint"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Joseph Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOSEPH-CECILE"
+    },
+    {
+      "name": "Jaumar Chandler",
+      "type": "person",
+      "canonical_id": "PERSON-JAUMAR-CHANDLER"
+    },
+    {
+      "name": "Nicole La Fiandra",
+      "type": "person",
+      "canonical_id": "PERSON-NICOLE-LAFIANDRA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Viral video incident generating public scrutiny of police use-of-force practices; chief's framing of head strikes as policy-compliant suggests potential friction between department actions and community perception.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00010"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article emphasizes viral social media amplification (Facebook); suggests significant constituent pressure component",
+    "Chief's defensive characterization of strikes may indicate institutional pushback against external criticism",
+    "Investigation incomplete—final discipline nature unknown; recommend follow-up tracking",
+    "Incident date (April 9) precedes announcement by 9 days; typical institutional investigation lag",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'use-of-force' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00010"
+  ],
+  "last_relevance_update": null
+}

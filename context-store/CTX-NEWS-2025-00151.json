@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-NEWS-2025-00151",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/common-council-discusses-pilot-program-for-alternatives-to-youth-incarceration",
+  "publication_date": "2025-11-07",
+  "capture_date": "2026-03-22T18:49:49Z",
+  "title": "Syracuse Common Council discusses pilot program for alternatives to youth incarceration",
+  "summary": "Syracuse Common Council is piloting an alternative-to-incarceration program for youth in partnership with Exalt, a New York-based organization. The program offers resume building, professional development, internships, and employment opportunities as alternatives to incarceration, modeled after an existing NYC initiative. Participants undergo application and acceptance processes before enrollment.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "initiative-launch",
+    "criminal-justice",
+    "workforce-development",
+    "equity",
+    "policy-change",
+    "council",
+    "youth-services",
+    "PROVISIONAL:alternatives-to-incarceration"
+  ],
+  "department_refs": [
+    "Department of Public Safety",
+    "PROVISIONAL:Department of Youth Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Exalt",
+      "type": "organization",
+      "canonical_id": "ORG-EXALT"
+    },
+    {
+      "name": "Jason Alleyne",
+      "type": "person",
+      "canonical_id": "PERSON-JASON-ALLEYNE"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYR-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Council approval of restorative/alternative criminal justice approach signals institutional commitment to diversion programs and equity-focused youth interventions rather than punitive models.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article lacks specific budget amounts, implementation timeline, and expected participant numbers",
+    "No direct CIO department mention; potential relevance for IT systems integration or data tracking infrastructure for program management",
+    "Program referenced as 'pilot model' suggesting potential for scaling and data collection needs",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'criminal-justice' not in taxonomy",
+    "Tag warning: Unknown tag 'youth-services' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

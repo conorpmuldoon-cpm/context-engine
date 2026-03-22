@@ -1,0 +1,84 @@
+{
+  "record_id": "CTX-NEWS-2025-00004",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/i-team/baffled-company-running-former-skyline-responds-to-city-of-syracuse-lawsuit",
+  "publication_date": "2025-04-15",
+  "capture_date": "2026-03-22T18:19:50Z",
+  "title": "'Baffled': Company running former Skyline responds to City of Syracuse lawsuit",
+  "summary": "The City of Syracuse filed a lawsuit on April 2, 2025 against Clear Investment, the company managing the former Skyline Apartments, seeking to install a receiver due to alleged failure to complete renovations. CEO Amy Rubenstein claims the company remains committed to the project and attributes delays to vandalism and flooding incidents, while city officials and code enforcement documentation show minimal progress since the company took over in 2023.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "investigation",
+    "code-enforcement",
+    "permitting",
+    "facilities",
+    "complaint",
+    "escalating",
+    "equity"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development",
+    "Department of Code Enforcement",
+    "Office of the Deputy Mayor",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Clear Investment",
+      "type": "organization",
+      "canonical_id": "ORG-CLEAR-INVESTMENT"
+    },
+    {
+      "name": "Amy Rubenstein",
+      "type": "person",
+      "canonical_id": "PERSON-AMY-RUBENSTEIN"
+    },
+    {
+      "name": "Michael Collins",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-COLLINS"
+    },
+    {
+      "name": "Ryan Shiel",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-SHIEL"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Skyline Apartments",
+      "type": "organization",
+      "canonical_id": "ORG-SKYLINE-APARTMENTS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "City legal action against private management company for breach of renovation commitments; dispute over progress documentation and permitting compliance; tension between developer claims of work completion and city/code enforcement observations of minimal progress.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Disputed facts: Rubenstein claims active work and vandalism delays; city documentation shows no visible work as of Oct 2024",
+    "Permitting discrepancy noted: County vs. City permits—potential coordination issue for CIO digital permitting oversight",
+    "Infrastructure impact: Power access was temporarily restricted by city, affecting project timeline",
+    "Multiple flooding incidents suggest building systems/security vulnerabilities requiring investigation",
+    "Dollar amounts not disclosed in article; cost of litigation and receivership appointment unknown",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

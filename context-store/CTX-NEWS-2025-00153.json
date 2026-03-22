@@ -1,0 +1,83 @@
+{
+  "record_id": "CTX-NEWS-2025-00153",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-partners-with-exalt-to-support-at-risk-youth-what-we-know-now",
+  "publication_date": "2025-11-13",
+  "capture_date": "2026-03-22T18:50:09Z",
+  "title": "Syracuse partners with exalt to support at-risk youth: What we know now",
+  "summary": "Syracuse Common Council approved $1.5M in state funding plus cannabis reinvestment dollars to launch exalt, a criminal justice diversion program for court-involved youth ages 15-19. The NYC-based non-profit will provide education support, paid internships ($18-20/hour), and workforce development to help at-risk youth avoid incarceration. Initial rollout targets 10 students with scaling planned as local staffing expands.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "initiative-launch",
+    "criminal-justice",
+    "workforce-development",
+    "youth-services",
+    "economic-development",
+    "federal-programs",
+    "state-agency",
+    "intergovernmental",
+    "council",
+    "vote",
+    "public-safety-commission",
+    "equity"
+  ],
+  "department_refs": [
+    "Office of the Mayor",
+    "PROVISIONAL: Department of Youth Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "exalt",
+      "type": "organization",
+      "canonical_id": "ORG-EXALT"
+    },
+    {
+      "name": "Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-CHOL-MAJOK"
+    },
+    {
+      "name": "Dr. Gisele Castro",
+      "type": "person",
+      "canonical_id": "PERSON-GISELE-CASTRO"
+    },
+    {
+      "name": "Mayor Elect Owens",
+      "type": "person",
+      "canonical_id": "PROVISIONAL: PERSON-OWENS-MAYOR-ELECT"
+    },
+    {
+      "name": "New York State Division of Criminal Justice Services",
+      "type": "organization",
+      "canonical_id": "ORG-NYS-DCJS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Council leadership (Majok) expresses commitment to accountability and measurable outcomes. Mayoral transition alignment indicated by Mayor-Elect Owens' endorsement. Strong intergovernmental funding coordination ($1.5M state + cannabis reinvestment).",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Date format inconsistency: article dated 2025-11-13 (future date—likely data entry error, probable 2024-11-13)",
+    "Mechanical extraction error: Department of Permits and Development not relevant; no permits/zoning/development content detected",
+    "Dollar amounts $18-20 are hourly wage rates, not budget figures; primary budget is $1.5M",
+    "No specific CIO/IT infrastructure implications detected in article content",
+    "80 local stakeholders mentioned as collaborative partners—could be valuable network for CIO engagement mapping",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'criminal-justice' not in taxonomy",
+    "Tag warning: Unknown tag 'youth-services' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

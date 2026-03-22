@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-NEWS-2025-00106",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-auditor-calls-for-measures-to-prevent-vacant-home-fires",
+  "publication_date": "2025-07-31",
+  "capture_date": "2026-03-22T18:40:23Z",
+  "title": "Syracuse auditor calls for measures to prevent vacant home fires",
+  "summary": "Syracuse Auditor Alexander Marion has called for preventive measures to address vacant home fires in the city. The article appears to focus on fire safety risks associated with vacant properties, though the provided content is limited to a sarcastic reader comment rather than the full article text.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "audit",
+    "fire",
+    "housing",
+    "code-enforcement",
+    "public-safety-commission"
+  ],
+  "department_refs": [
+    "Audit Department",
+    "Fire Department",
+    "Neighborhood and Business Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Alexander Marion",
+      "type": "person",
+      "canonical_id": "PERSON-ALEXANDER-MARION"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "City Auditor exercising oversight function by identifying vacant property fire risks and recommending preventive policy measures",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content appears truncated or corrupted; only reader comments visible in provided text",
+    "Referenced 'big red X' marking system for vacant homes may indicate existing visual code-enforcement or inspection protocol",
+    "Full article text needed for complete analysis of recommended measures and potential budget/resource implications",
+    "No department attribution visible in provided excerpt; recommend cross-reference with Auditor's office for full report",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

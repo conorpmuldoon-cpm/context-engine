@@ -1,0 +1,76 @@
+{
+  "record_id": "CTX-NEWS-2025-00013",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-mayor-taking-nob-hill-to-supreme-court",
+  "publication_date": "2025-04-25",
+  "capture_date": "2026-03-22T18:22:02Z",
+  "title": "Syracuse Mayor taking Nob Hill to Supreme Court",
+  "summary": "Mayor Ben Walsh announced plans to take Nob Hill Apartments management to State Supreme Court over $340,000 in accrued statutory fines related to code violations including broken elevators, inoperable boilers, inadequate heat, and lack of hot water. The action follows months of tenant complaints against Mayfair Management, with Building 3 residents most affected. Tenants are questioning rent obligations while living in substandard conditions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "mayor",
+    "housing",
+    "code-enforcement",
+    "complaint",
+    "constituent-complaints",
+    "escalating",
+    "investigation",
+    "state-agency",
+    "facilities"
+  ],
+  "department_refs": [
+    "Office of the Mayor",
+    "Department of Neighborhood and Business Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Mayfair Management",
+      "type": "organization",
+      "canonical_id": "ORG-MAYFAIR-MANAGEMENT"
+    },
+    {
+      "name": "Nob Hill Apartments",
+      "type": "organization",
+      "canonical_id": "ORG-NOB-HILL-APARTMENTS"
+    },
+    {
+      "name": "Andre Chambers",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Mered Billu",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor positioning housing code enforcement and tenant protection as administration priority; using strong rhetoric ('slumlords') and escalating to court action to signal commitment to constituent welfare.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on housing quality/compliance failure rather than CIO innovation initiatives; limited direct technology implications unless court action triggers data/documentation systems needs",
+    "No specific CIO/IT systems mentioned; potential future relevance if case requires enhanced complaint tracking or property/code violation database management",
+    "Date discrepancy: headline says April 25 but byline shows April 24, 2025",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

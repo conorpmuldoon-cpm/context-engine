@@ -1,0 +1,76 @@
+{
+  "record_id": "CTX-NEWS-2025-00091",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/look-at-what-were-living-with-eastwood-heights-residents-show-conditions-to-the-i-team",
+  "publication_date": "2025-07-24",
+  "capture_date": "2026-03-22T18:37:20Z",
+  "title": "'Look at what we're living with': Eastwood Heights residents show conditions to the I-Team",
+  "summary": "Eastwood Heights senior residents are experiencing deteriorating living conditions including water damage, roof leaks, and poor air quality in their Syracuse Housing Authority building. A third iteration of a renovation project has been repeatedly delayed despite promises, with the latest deal pending Common Council vote. Residents express frustration over prolonged suffering and broken commitments from SHA and the city.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "facilities",
+    "constituent-complaints",
+    "escalating",
+    "investigation",
+    "contract-award",
+    "council",
+    "vote",
+    "transparency",
+    "residents",
+    "equity",
+    "leadership-change"
+  ],
+  "department_refs": [
+    "Syracuse Housing Authority",
+    "Common Council"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jerlene Harper",
+      "type": "person",
+      "canonical_id": "PERSON-JERLENE-HARPER"
+    },
+    {
+      "name": "Birtha Truell",
+      "type": "person",
+      "canonical_id": "PERSON-BIRTHA-TRUELL"
+    },
+    {
+      "name": "Syracuse Housing Authority",
+      "type": "organization",
+      "canonical_id": "ORG-SHA"
+    },
+    {
+      "name": "Eastwood Heights",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Public media exposure of housing authority failures and repeated project delays creating resident activism and accountability pressure on SHA and Common Council decision-makers",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date is July 24, 2025 (future date - may indicate test data or publishing error)",
+    "No specific dollar amounts mentioned for renovation project scope",
+    "Multiple rounds of delays suggest procurement or intergovernmental coordination issues",
+    "Newly retired board commissioner speaking publicly indicates potential internal tensions at SHA",
+    "Common Council vote expected 'in the coming weeks' - timeline unclear",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

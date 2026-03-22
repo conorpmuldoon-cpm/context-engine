@@ -1,0 +1,87 @@
+{
+  "record_id": "CTX-NEWS-2025-00039",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/politics/mayor-issues-vetoes-to-common-council-amendments-on-syracuse-city-budget-ben-walsh-fire-police-parks-law-epartments-pat-hogan",
+  "publication_date": "2025-05-19",
+  "capture_date": "2026-03-22T18:26:58Z",
+  "title": "Mayor issues 45 vetoes to Common Council's amendments on Syracuse city budget",
+  "summary": "Syracuse Mayor Ben Walsh issued 45 vetoes on May 19, 2025 against Common Council amendments to the city budget, rejecting cuts to police, fire, code enforcement, and Parks departments totaling $16M. The Council had commissioned external analysis recommending $26M in cost reductions across the $348M budget, but Walsh argued the cuts harm public safety and city services; 37 amendments worth $3.4M were accepted.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "vote",
+    "mayor",
+    "council",
+    "public-safety",
+    "police",
+    "fire",
+    "parks",
+    "code-enforcement",
+    "tax-revenue",
+    "policy-change",
+    "escalating",
+    "transparency"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Syracuse Fire Department",
+    "Department of Code Enforcement",
+    "Department of Public Works",
+    "Department of Parks, Recreation and Youth Programs",
+    "Law Department",
+    "Department of Finance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Michael Cannizzaro",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-CANNIZZARO"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Bonadio Group",
+      "type": "organization",
+      "canonical_id": "ORG-BONADIO-GROUP"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Mayor exercising veto authority against Common Council budget amendments; Council signaling fiscal discipline and cost containment scrutiny of executive budget proposal; potential for veto override votes requiring 6+ council votes.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts need unit clarification: $27M, $102M, $16M, $348M, $26M, $3.4M identified but context suggests fund balance/spending figures",
+    "Two PDF attachments referenced (45 vetoes detail and department impact statements) not available in article text",
+    "CIO relevance: budget process transparency, potential systems/permitting impacts from code enforcement cuts, water rate increase proposal",
+    "Override threshold (6 votes minimum) noted; outcome dependent on Council composition and override voting",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

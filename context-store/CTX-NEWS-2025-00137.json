@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-NEWS-2025-00137",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/the-old-syracuse-developmental-center-will-soon-be-a-residential-space-if-approved",
+  "publication_date": "2025-10-09",
+  "capture_date": "2026-03-22T18:46:46Z",
+  "title": "The old Syracuse Developmental Center will soon be a residential space, if approved",
+  "summary": "The City of Syracuse's seized Syracuse Developmental Center property is undergoing demolition and redevelopment by the Albanese Organization into a mixed-income residential community. Phase one includes two multi-family buildings and 27 townhomes with affordable to market-rate pricing, pending Common Council approval of financing and state funding. Construction is targeted to begin in early 2026.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "economic-development",
+    "land-use",
+    "capital-planning",
+    "infrastructure",
+    "neighborhood-services",
+    "initiative-launch",
+    "state-programs",
+    "permitting"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Albanese Organization",
+      "type": "organization",
+      "canonical_id": "ORG-ALBANESE"
+    },
+    {
+      "name": "Eric Ennis",
+      "type": "person",
+      "canonical_id": "PERSON-ERIC-ENNIS"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Demonstrates city commitment to addressing housing supply and neighborhood redevelopment through public-private partnership; requires financing coordination and state funding.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author: Hannah Devanny; Published by CNY Central (NBC/CBS affiliate); No specific dollar amounts provided; Financial approval pending with Common Council; State funding component mentioned but not quantified; Timeline: demolition completion October 2025, construction start early 2026",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'state-programs' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

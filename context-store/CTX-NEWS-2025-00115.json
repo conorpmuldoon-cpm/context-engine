@@ -1,0 +1,66 @@
+{
+  "record_id": "CTX-NEWS-2025-00115",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.wrvo.org/2025-08-13/syracuse-common-council-honors-president-helen-hudson",
+  "publication_date": "2025-08-13",
+  "capture_date": "2026-03-22T18:42:04Z",
+  "title": "Syracuse Common Council honors President Helen Hudson",
+  "summary": "Syracuse Common Council President Helen Hudson returned from medical leave following cancer treatment and was honored by the council with a unanimous vote to name a street after her. Hudson, the first Black woman to serve as council president, received public recognition from colleagues for her leadership and community contributions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "leadership-change",
+    "council",
+    "equity",
+    "residents"
+  ],
+  "department_refs": [
+    "Syracuse Common Council"
+  ],
+  "entity_refs": [
+    {
+      "name": "Helen Hudson",
+      "type": "person",
+      "canonical_id": "PERSON-HELEN-HUDSON"
+    },
+    {
+      "name": "Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-CHOL-MAJOK"
+    },
+    {
+      "name": "Rasheada Caldwell",
+      "type": "person",
+      "canonical_id": "PERSON-RASHEADA-CALDWELL"
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Council demonstrates strong support for returning leadership with unanimous vote and public recognition of Hudson's historic role as first Black woman council president",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references 'Rezone Syracuse vote' in headline but content focuses on Hudson honor; limited operational/CIO relevance",
+    "Street naming requires Onondaga County approval - intergovernmental coordination item",
+    "No budget, IT systems, or infrastructure management implications detected",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.wrvo.org)"
+  ],
+  "last_relevance_update": null
+}
