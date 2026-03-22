@@ -33,7 +33,8 @@
         "board_monitor",
         "budget_agent",
         "peer_watcher",
-        "manual_input"
+        "manual_input",
+        "link_importer"
       ],
       "description": "Which collector agent or input method produced this record"
     },
