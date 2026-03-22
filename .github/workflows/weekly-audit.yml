@@ -5,6 +5,9 @@ on:
     - cron: '0 13 * * 1'  # 13:00 UTC Monday = ~8:00 AM ET
   workflow_dispatch: {}    # Manual trigger via GitHub UI
 
+permissions:
+  contents: write
+
 jobs:
   audit:
     runs-on: ubuntu-latest
