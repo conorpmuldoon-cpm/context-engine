@@ -1,0 +1,76 @@
+{
+  "record_id": "CTX-NEWS-2025-00209",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/04/owners-of-former-skyline-apartments-in-syracuse-hope-to-talk-their-way-out-of-citys-lawsuit.html",
+  "publication_date": "2025-04-04",
+  "capture_date": "2026-03-22T20:48:22Z",
+  "title": "Owners of former Skyline Apartments in Syracuse hope to talk their way out of city’s lawsuit",
+  "summary": "The city of Syracuse has filed a lawsuit seeking a court-appointed receiver and $2 million in repairs for the former Skyline Apartments (now The Metropolitan), a 352-unit complex owned by Chicago-based Clear Investment Group. Despite Clear's claims of progress and willingness to negotiate, the city's code enforcement director states no substantial work has been completed, and disputes over electricity restoration and repair verification have stalled the project amid a housing crisis.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "code-enforcement",
+    "investigation",
+    "escalating",
+    "land-use",
+    "economic-development",
+    "facilities",
+    "permitting"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development",
+    "Code Enforcement Division"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael Collins",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-COLLINS"
+    },
+    {
+      "name": "Ryan Shiel",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-SHIEL"
+    },
+    {
+      "name": "Clear Investment Group",
+      "type": "organization",
+      "canonical_id": "ORG-CLEAR-INVESTMENT"
+    },
+    {
+      "name": "Amy Rubenstein",
+      "type": "person",
+      "canonical_id": "PERSON-AMY-RUBENSTEIN"
+    },
+    {
+      "name": "Tim Knauss",
+      "type": "person",
+      "canonical_id": "PERSON-TIM-KNAUSS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "City officials maintaining firm enforcement stance against private developer despite settlement overtures; regulatory compliance (fire/safety systems) is non-negotiable condition for project advancement.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts extracted ($13M purchase, $4.6M promised renovations, $2M lawsuit demand) but no capital budget allocation evident",
+    "Article focuses on dispute resolution and enforcement rather than innovation/digital services; limited direct CIO relevance unless tied to permitting system modernization or code enforcement IT",
+    "Key tension: developer communication vs. regulatory compliance—possible IT coordination angle if city systems for permit/inspection tracking are inadequate",
+    "Property address not specified in excerpt; recommend cross-reference with GIS for parcel-level context",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)"
+  ],
+  "last_relevance_update": null
+}

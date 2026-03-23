@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-NEWS-2025-00208",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/04/syracuse-sues-company-that-was-supposed-to-save-skyline-apartments-says-they-failed-to-invest.html",
+  "publication_date": "2025-04-02",
+  "capture_date": "2026-03-22T20:48:06Z",
+  "title": "Syracuse sues company that was supposed to save Skyline Apartments, says they ‘failed to invest’",
+  "summary": "Mayor Ben Walsh's administration filed a lawsuit against Chicago-based Clear Investment Group for failing to rehabilitate the Skyline Apartments and three other distressed properties acquired in 2023. The company had been welcomed to Syracuse with promises to revive the notorious Skyline Apartments but allegedly neglected the properties instead.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "economic-development",
+    "investigation",
+    "escalating",
+    "contract-award"
+  ],
+  "department_refs": [
+    "Office of the Mayor",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Clear Investment Group",
+      "type": "organization",
+      "canonical_id": "ORG-CLEAR-INVESTMENT-GROUP"
+    },
+    {
+      "name": "Skyline Apartments",
+      "type": "system",
+      "canonical_id": null
+    },
+    {
+      "name": "Tim Knauss",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Mayor's administration taking enforcement action against private developer for breach of development commitments; signals accountability emphasis on housing revitalization promises.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No dollar amounts specified in article",
+    "Lawsuit filed in state Supreme Court suggests escalation beyond municipal processes",
+    "Article references previous owners Tim and Troy Green but focuses on current developer accountability",
+    "CIO relevance: potential property management system, compliance tracking, or public accountability dashboard applications",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)"
+  ],
+  "last_relevance_update": null
+}

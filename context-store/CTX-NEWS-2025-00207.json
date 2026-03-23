@@ -1,0 +1,69 @@
+{
+  "record_id": "CTX-NEWS-2025-00207",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2025/03/syracuse-auditor-citys-lifeless-wage-ordinance-needs-a-serious-overhaul.html",
+  "publication_date": "2025-03-31",
+  "capture_date": "2026-03-22T20:47:52Z",
+  "title": "Syracuse auditor: City’s ‘lifeless’ wage ordinance needs a serious overhaul",
+  "summary": "City Auditor Alexander Marion released a scathing audit of Syracuse's 20-year-old living wage ordinance, finding it has become functionally ineffective due to numerous loopholes, undefined exemptions, and complete lack of enforcement mechanisms. The audit recommends a comprehensive overhaul including elimination of exemptions, assignment of enforcement responsibility to the office of management and budget, and adoption of a more robust living wage formula. This finding is critical for CIO consideration given implications for procurement policy, contractor compliance tracking systems, and data governance around wage ordinance enforcement.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "audit",
+    "procurement",
+    "labor-relations",
+    "policy-change",
+    "legislation",
+    "equity",
+    "budget",
+    "transparency",
+    "code-enforcement"
+  ],
+  "department_refs": [
+    "Office of the City Auditor",
+    "Office of Management and Budget",
+    "Law Department",
+    "Mayor's Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Alexander Marion",
+      "type": "person",
+      "canonical_id": "PERSON-ALEXANDER-MARION"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Corey Driscoll Dunham",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-DRISCOLL-DUNHAM"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Auditor Marion's critical findings create pressure on Walsh administration and Common Council to reform ordinance; administration acknowledges flaws but attributes to predecessor implementation gaps.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Mechanical extraction identified 'Syracuse Police Department' as department ref—corrected to Office of the City Auditor as primary authority",
+    "Living wage advisory committee dormant since 2014 represents governance gap",
+    "Article contains forward-looking policy recommendation window (revive advisory committee as momentum-builder)",
+    "Potential CIO system implication: current contractor compliance tracking appears absent; digital enforcement infrastructure needed",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)"
+  ],
+  "last_relevance_update": null
+}

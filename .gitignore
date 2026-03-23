@@ -6,6 +6,10 @@ config/email-config.json
 all_emails.csv
 cmuldoon emails input/
 
+# Browser profile (contains login cookies)
+outputs/browser-profile/
+outputs/syracuse-session.json
+
 # Python
 __pycache__/
 *.pyc

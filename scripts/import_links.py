@@ -6,6 +6,7 @@ via Playwright, and processes through the standard Context Engine pipeline.
 
 Usage:
     python scripts/import_links.py --login            # open browser to log into Syracuse.com
+    python scripts/import_links.py --retry-blocked    # re-attempt previously blocked URLs
     python scripts/import_links.py --dry-run           # preview what would be captured
     python scripts/import_links.py --no-email          # run without email summary
     python scripts/import_links.py --limit 20          # process only first N new URLs
@@ -64,7 +65,8 @@ from collector_utils import (
 
 CSV_PATH = PROJECT_ROOT / "cmuldoon emails input" / "filtered_weblinks.csv"
 STATE_PATH = PROJECT_ROOT / "outputs" / "link-importer-state.json"
-SESSION_PATH = PROJECT_ROOT / "outputs" / "syracuse-session.json"
+SESSION_PATH = PROJECT_ROOT / "outputs" / "syracuse-session.json"  # legacy
+BROWSER_PROFILE_DIR = PROJECT_ROOT / "outputs" / "browser-profile"
 
 CRAWL_DELAY = 3  # seconds between same-domain requests
 CONTENT_MIN_LENGTH = 100  # minimum chars to consider content valid
@@ -465,7 +467,11 @@ def extract_article(page, url: str, logger) -> dict | None:
 # ---------------------------------------------------------------------------
 
 def do_login(logger):
-    """Open a visible browser for the user to log into Syracuse.com."""
+    """Open a persistent browser profile for the user to log into Syracuse.com.
+
+    Uses launch_persistent_context so cookies, localStorage, and service
+    workers are saved to disk automatically — no export/import needed.
+    """
     logger.info("Opening browser for Syracuse.com login...")
     print("\n" + "=" * 60)
     print("SYRACUSE.COM LOGIN")
@@ -475,20 +481,23 @@ def do_login(logger):
     print("When you're done, come back here and press Enter.")
     print("=" * 60 + "\n")
 
+    BROWSER_PROFILE_DIR.mkdir(parents=True, exist_ok=True)
+
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=False)
-        context = browser.new_context()
-        page = context.new_page()
+        context = p.chromium.launch_persistent_context(
+            user_data_dir=str(BROWSER_PROFILE_DIR),
+            headless=False,
+            accept_downloads=False,
+        )
+        page = context.pages[0] if context.pages else context.new_page()
         page.goto("https://www.syracuse.com/")
 
         input("Press Enter after you've logged in to Syracuse.com...")
 
-        # Save session state
-        context.storage_state(path=str(SESSION_PATH))
-        logger.info(f"Session saved to {SESSION_PATH}")
-        print(f"\nSession saved. You can now run the importer without --login.")
+        context.close()
 
-        browser.close()
+    logger.info(f"Browser profile saved to {BROWSER_PROFILE_DIR}")
+    print(f"\nLogin saved. You can now run the importer without --login.")
 
 
 # ---------------------------------------------------------------------------
@@ -501,6 +510,7 @@ def main():
     skip_email = "--no-email" in args
     skip_blocked = "--skip-blocked" in args
     do_login_flag = "--login" in args
+    retry_blocked = "--retry-blocked" in args
 
     # Parse --limit N
     limit = None
@@ -558,6 +568,26 @@ def main():
     state = load_state(STATE_PATH)
     processed_urls = set(state.get("processed_urls", []))
 
+    # --retry-blocked: re-attempt Syracuse.com URLs that were blocked before
+    if retry_blocked:
+        # Find Syracuse.com URLs that were processed but NOT saved as records
+        import glob as _glob
+        saved_urls = set()
+        for fp in _glob.glob(str(PROJECT_ROOT / "context-store" / "CTX-NEWS-*.json")):
+            try:
+                rec = _json.load(open(fp, encoding="utf-8"))
+                src = rec.get("source_url", "")
+                if src:
+                    saved_urls.add(src)
+            except Exception:
+                pass
+        retry_count = 0
+        for u in list(processed_urls):
+            if is_syracuse_com(u) and u not in saved_urls:
+                processed_urls.discard(u)
+                retry_count += 1
+        logger.info(f"Retrying {retry_count} previously-blocked Syracuse.com URLs")
+
     # Filter to unprocessed URLs
     new_urls = [u for u in urls if u not in processed_urls]
     logger.info(f"New URLs to process: {len(new_urls)} (of {len(urls)} total)")
@@ -583,12 +613,13 @@ def main():
     processed_in_run = []
     saved_titles = []
 
-    # Check for Syracuse.com session
-    has_session = SESSION_PATH.exists()
+    # Check for Syracuse.com login profile
+    has_profile = BROWSER_PROFILE_DIR.exists() and any(BROWSER_PROFILE_DIR.iterdir())
+    has_session = has_profile or SESSION_PATH.exists()  # support legacy too
     syr_com_count = sum(1 for u in new_urls if is_syracuse_com(u))
     if syr_com_count > 0 and not has_session:
         logger.warning(
-            f"{syr_com_count} Syracuse.com URLs but no saved session. "
+            f"{syr_com_count} Syracuse.com URLs but no saved login. "
             f"Run with --login first for subscriber access."
         )
         print(
@@ -600,16 +631,24 @@ def main():
 
     # Process URLs
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-
-        # Use saved session for syracuse.com if available
-        if has_session:
-            context = browser.new_context(storage_state=str(SESSION_PATH))
-            logger.info("Loaded Syracuse.com session")
+        # Persistent profile keeps cookies/localStorage/service workers
+        if has_profile:
+            context = p.chromium.launch_persistent_context(
+                user_data_dir=str(BROWSER_PROFILE_DIR),
+                headless=False,
+                accept_downloads=False,
+                args=["--disable-blink-features=AutomationControlled"],
+            )
+            logger.info("Using persistent browser profile (logged in, visible)")
+            page = context.pages[0] if context.pages else context.new_page()
         else:
-            context = browser.new_context()
-
-        page = context.new_page()
+            browser = p.chromium.launch(headless=True)
+            if SESSION_PATH.exists():
+                context = browser.new_context(storage_state=str(SESSION_PATH))
+                logger.info("Loaded Syracuse.com session (legacy)")
+            else:
+                context = browser.new_context()
+            page = context.new_page()
 
         last_domain = None
 
@@ -768,7 +807,11 @@ def main():
             existing_records.append(record)
             processed_in_run.append(url)
 
-        browser.close()
+        # Close browser/context
+        if has_profile:
+            context.close()
+        else:
+            browser.close()
 
     # Update state
     if not dry_run:
