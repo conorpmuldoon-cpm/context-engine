@@ -22,6 +22,7 @@ import time
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlparse
+from html.parser import HTMLParser
 from urllib.request import urlopen, Request
 
 from playwright.sync_api import sync_playwright
@@ -138,6 +139,136 @@ def get_wayback_url(url: str, logger=None) -> str | None:
         if logger:
             logger.debug(f"  Wayback lookup failed: {e}")
     return None
+
+
+class _TextExtractor(HTMLParser):
+    """Minimal HTML→text extractor using only the standard library."""
+
+    SKIP_TAGS = {"script", "style", "noscript", "nav", "header", "footer", "aside"}
+
+    def __init__(self):
+        super().__init__()
+        self._pieces: list[str] = []
+        self._skip_depth = 0
+
+    def handle_starttag(self, tag, attrs):
+        if tag in self.SKIP_TAGS:
+            self._skip_depth += 1
+
+    def handle_endtag(self, tag):
+        if tag in self.SKIP_TAGS and self._skip_depth > 0:
+            self._skip_depth -= 1
+
+    def handle_data(self, data):
+        if self._skip_depth == 0:
+            text = data.strip()
+            if text:
+                self._pieces.append(text)
+
+    def get_text(self) -> str:
+        return "\n".join(self._pieces)
+
+
+def fetch_wayback_content(wb_url: str, original_url: str, logger=None) -> dict | None:
+    """Fetch article content from a Wayback Machine URL using urllib.
+
+    Playwright gets blocked by archive.org, so we use plain HTTP instead.
+    Returns the same dict format as extract_article(), or None.
+    """
+    try:
+        req = Request(wb_url, headers={
+            "User-Agent": "Mozilla/5.0 (Context Engine research bot)",
+        })
+        resp = urlopen(req, timeout=20)
+        html = resp.read().decode("utf-8", errors="replace")
+    except Exception as e:
+        if logger:
+            logger.debug(f"  Wayback fetch failed: {e}")
+        return None
+
+    if len(html) < 500:
+        return None
+
+    # --- Title ---
+    title = None
+    m = re.search(r'<meta[^>]+property=["\']og:title["\'][^>]+content=["\']([^"\']+)', html, re.I)
+    if m:
+        title = m.group(1).strip()
+    if not title:
+        m = re.search(r"<title[^>]*>([^<]+)</title>", html, re.I)
+        if m:
+            title = m.group(1).strip()
+    if not title or len(title) < 5:
+        return None
+
+    # Clean title (remove site name suffixes)
+    for sep in [" | ", " - ", " — ", " – "]:
+        if sep in title:
+            parts = title.split(sep)
+            title = max(parts, key=len).strip()
+
+    # --- Author ---
+    author = None
+    m = re.search(r'<meta[^>]+name=["\']author["\'][^>]+content=["\']([^"\']+)', html, re.I)
+    if m:
+        author = m.group(1).strip()
+
+    # --- Publication date ---
+    pub_date = None
+    for attr in ["article:published_time", "date", "publish-date"]:
+        m = re.search(rf'<meta[^>]+(?:property|name)=["\']{ re.escape(attr) }["\'][^>]+content=["\']([^"\']+)', html, re.I)
+        if m:
+            try:
+                pub_date = m.group(1)[:10]
+                datetime.strptime(pub_date, "%Y-%m-%d")
+                break
+            except ValueError:
+                pub_date = None
+    if not pub_date:
+        m = re.search(r'"datePublished"\s*:\s*"([^"]+)"', html)
+        if m:
+            try:
+                pub_date = m.group(1)[:10]
+                datetime.strptime(pub_date, "%Y-%m-%d")
+            except ValueError:
+                pub_date = None
+    if not pub_date:
+        pub_date = extract_date_from_url(original_url)
+    if not pub_date:
+        pub_date = datetime.now().strftime("%Y-%m-%d")
+
+    # --- Content (article body) ---
+    # Try to isolate article body HTML first
+    body_html = html
+    for pattern in [
+        r'<article[^>]*class="[^"]*article-body[^"]*"[^>]*>(.*?)</article>',
+        r'<div[^>]*class="[^"]*article-body[^"]*"[^>]*>(.*?)</div>',
+        r'<article[^>]*>(.*?)</article>',
+    ]:
+        m = re.search(pattern, html, re.I | re.S)
+        if m and len(m.group(1)) > 200:
+            body_html = m.group(1)
+            break
+
+    parser = _TextExtractor()
+    parser.feed(body_html)
+    content = parser.get_text()
+
+    if len(content) < CONTENT_MIN_LENGTH:
+        if logger:
+            logger.debug(f"  Wayback content too short ({len(content)} chars)")
+        return None
+
+    if len(content) > 10000:
+        content = content[:10000]
+
+    return {
+        "url": original_url,
+        "title": title,
+        "author": author,
+        "publication_date": pub_date,
+        "content": content,
+    }
 
 
 def extract_date_from_url(url: str) -> str | None:
@@ -503,10 +634,8 @@ def main():
                 wb_url = get_wayback_url(url, logger)
                 if wb_url:
                     logger.info(f"{progress} Trying Wayback Machine...")
-                    article = extract_article(page, wb_url, logger)
+                    article = fetch_wayback_content(wb_url, url, logger)
                     if article:
-                        # Restore original URL as source (not the archive URL)
-                        article["url"] = url
                         wayback_count += 1
 
             if not article:

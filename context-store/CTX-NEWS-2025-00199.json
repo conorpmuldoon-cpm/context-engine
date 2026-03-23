@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-NEWS-2025-00199",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/08/residents-in-2-syracuse-neighborhoods-can-now-get-2500-to-improve-curb-appeal-of-their-homes.html",
+  "publication_date": "2025-08-25",
+  "capture_date": "2026-03-22T19:59:05Z",
+  "title": "Residents in 2 Syracuse neighborhoods can now get $2,500 to improve ‘curb appeal’ of their homes",
+  "summary": "Syracuse launched the Neighborhood Block Challenge, a matching grant program offering up to $2,500 per household for curb-appeal home improvements in Salt Springs and Tipp Hill-Far West Side neighborhoods. The program requires teams of at least 3 neighbors to apply collectively, with ~$70,000 budgeted. It operationalizes the city's 2024 housing strategy to stimulate middle-income neighborhood investment and private reinvestment.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "grants",
+    "economic-development",
+    "initiative-launch",
+    "residents",
+    "neighborhood-services",
+    "equity"
+  ],
+  "department_refs": [
+    "Mayor's Office",
+    "Syracuse Housing Strategies Corp"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Syracuse Housing Strategies Corp",
+      "type": "organization",
+      "canonical_id": "ORG-SHSC"
+    },
+    {
+      "name": "Le Moyne College",
+      "type": "organization",
+      "canonical_id": "ORG-LEMOYNE"
+    },
+    {
+      "name": "Tim Knauss",
+      "type": "person",
+      "canonical_id": "PERSON-TIM-KNAUSS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor Walsh's public announcement of grant program launch signals continued commitment to housing strategy and neighborhood stabilization in middle-income areas. Benchmarking against peer cities (Des Moines) demonstrates evidence-based policy approach.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references prior housing strategy announcement (2024) but lacks specific date/document link",
+    "Program administration delegated to SHSC entity; confirm departmental oversight structure",
+    "Two target neighborhoods specifically identified: Salt Springs, Tipp Hill-Far West Side",
+    "Follow-up major repairs program planned for 2025; track budget allocations",
+    "Contact number (315-448-8621) and webinar schedule provided for constituent engagement tracking",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-NEWS-2022-00002",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.downtownsyracuse.com/get-around-and-park",
+  "publication_date": "2022-12-01",
+  "capture_date": "2026-03-22T19:52:32Z",
+  "title": "Plan a Visit",
+  "summary": "Downtown Syracuse Foundation promotional content highlighting multimodal transportation accessibility in downtown, including walkability, bicycling infrastructure (Empire State Trail), affordable parking options, and Centro Bus Service. This is visitor-focused marketing material rather than policy or operational guidance.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "transportation",
+    "micromobility",
+    "public-transportation",
+    "accessibility",
+    "economic-development"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Centro Bus Service",
+      "type": "organization",
+      "canonical_id": "ORG-CENTRO"
+    },
+    {
+      "name": "Downtown Syracuse Foundation",
+      "type": "organization",
+      "canonical_id": "ORG-DTSF"
+    },
+    {
+      "name": "Empire State Trail",
+      "type": "system",
+      "canonical_id": "SYS-EMPIRE-STATE-TRAIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Content reflects strategic messaging around downtown mobility, sustainability (bike/transit promotion), and visitor experience as economic development priorities.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Source is Downtown Syracuse Foundation marketing site, not City of Syracuse official publication",
+    "No direct CIO operational relevance; content focuses on visitor experience communication",
+    "References to parking guide and transit services suggest potential digital asset inventory opportunity",
+    "Could inform digital wayfinding or multimodal trip planning initiatives",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.downtownsyracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)",
+    "Tag warning: Unknown tag 'public-transportation' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

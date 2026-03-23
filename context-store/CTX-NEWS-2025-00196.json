@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2025-00196",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/07/syracuse-police-chief-hopes-union-leader-cools-off-after-dangerous-online-comments.html",
+  "publication_date": "2025-07-23",
+  "capture_date": "2026-03-22T19:56:21Z",
+  "title": "Syracuse police chief hopes union leader ‘cools off’ after ‘dangerous’ online comments",
+  "summary": "Syracuse Police Chief Joseph Cecile has publicly criticized the head of the police union for a Facebook post he characterizes as 'dangerous and reckless,' emphasizing that words matter in leadership. The incident reflects internal tensions within the Syracuse Police Department regarding union leadership communication.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "labor-relations",
+    "escalating",
+    "leadership-change",
+    "union"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Joseph Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOSEPH-CECILE"
+    },
+    {
+      "name": "Syracuse Police Union",
+      "type": "organization",
+      "canonical_id": "ORG-SPD-UNION"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Police leadership publicly calling out union leadership for inflammatory communication suggests internal governance friction and potential workforce management challenges that may warrant CIO attention if related to IT systems, data sharing, or internal communications infrastructure.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article title and opening focus on police union tensions; limited substantive detail provided on the Facebook post content itself",
+    "No direct CIO relevance detected unless escalation involves internal communications systems or data governance",
+    "Jeremy Boyer is identified as City News Reporter; byline suggests syracuse.com publication",
+    "References to other city issues (teacher payroll shortages from $11M tech project, mayoral race tensions) indicate broader organizational stress but separate from this police-union matter",
+    "Dollar amount ($11M) relates to separate IT project issue, not this article's primary subject",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)"
+  ],
+  "last_relevance_update": null
+}

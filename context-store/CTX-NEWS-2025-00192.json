@@ -1,0 +1,73 @@
+{
+  "record_id": "CTX-NEWS-2025-00192",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/07/see-syracuses-25-most-dangerous-intersections-and-how-it-plans-to-make-them-safer.html",
+  "publication_date": "2025-07-16",
+  "capture_date": "2026-03-22T19:54:12Z",
+  "title": "See Syracuse’s 25 most dangerous intersections (and how the city plans to make them safer)",
+  "summary": "Mayor Walsh seeks Common Council approval of Syracuse's Vision Zero Action Plan, targeting 25 intersections and 25 miles of roadway where 50% of serious injury/fatal crashes occurred (2019-2023). The plan proposes infrastructure improvements (crosswalk visibility, lane reductions, lighting, speed cameras) to achieve zero fatalities by 2055 with 35% reduction by 2035. Public Works Committee meets July 28 for vote.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "vision-zero",
+    "roads-bridges",
+    "transportation",
+    "public-safety-commission",
+    "data-governance",
+    "infrastructure",
+    "policy-change",
+    "initiative-launch",
+    "mayor",
+    "council",
+    "vote",
+    "crime-data",
+    "equity",
+    "PROVISIONAL:traffic-safety"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-BOYER"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor-led Vision Zero initiative demonstrates executive commitment to public safety and data-driven infrastructure investment. Addresses equity by concentrating resources on 1% of intersections responsible for 50% of serious injuries/fatalities.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references Vision Zero Action Plan as primary policy document—recommend CIO review for data governance, GIS mapping, and analytics infrastructure requirements",
+    "Mentions 2+ years of data analysis and community feedback—potential IT systems integration for ongoing crash data monitoring and outcome measurement",
+    "Timeline: Public Works Committee 7/28; vote expected same date—time-sensitive for implementation planning",
+    "No budget figures provided; recommend cross-reference with capital planning documents for fiscal impact",
+    "References syr.gov/vision-zero resource—verify digital infrastructure and public dashboard accessibility",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)"
+  ],
+  "last_relevance_update": null
+}

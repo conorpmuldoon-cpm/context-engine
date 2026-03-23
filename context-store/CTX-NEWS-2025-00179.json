@@ -1,0 +1,129 @@
+{
+  "record_id": "CTX-NEWS-2025-00179",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/04/whos-on-the-ballots-for-syracuse-common-council-school-board-races-in-2025.html",
+  "publication_date": "2025-04-05",
+  "capture_date": "2026-03-22T19:45:29Z",
+  "title": "Who’s on the ballots for Syracuse Common Council, school board races in 2025?",
+  "summary": "Syracuse is holding 2025 elections for Common Council (5 district seats, 2 at-large seats, and council president) and school board (3 education commissioner seats). Democratic primaries are scheduled for June 24 with general election on November 4. Key races include a contested at-large primary and an open District 2 seat due to incumbent Pat Hogan's mayoral run. Council president pays $39,140; voting councilors earn $36,050; education commissioners earn $16,000 annually.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "vote",
+    "council",
+    "leadership-change",
+    "election",
+    "transparency"
+  ],
+  "department_refs": [
+    "Common Council",
+    "Syracuse City School District"
+  ],
+  "entity_refs": [
+    {
+      "name": "Rita Paniagua",
+      "type": "person",
+      "canonical_id": "PERSON-RITA-PANIAGUA"
+    },
+    {
+      "name": "Rasheada Caldwell",
+      "type": "person",
+      "canonical_id": "PERSON-RASHEADA-CALDWELL"
+    },
+    {
+      "name": "Amir Gethers",
+      "type": "person",
+      "canonical_id": "PERSON-AMIR-GETHERS"
+    },
+    {
+      "name": "Helen Hudson",
+      "type": "person",
+      "canonical_id": "PERSON-HELEN-HUDSON"
+    },
+    {
+      "name": "Donna Moore",
+      "type": "person",
+      "canonical_id": "PERSON-DONNA-MOORE"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Patrona Jones-Rowser",
+      "type": "person",
+      "canonical_id": "PERSON-PATRONA-JONES-ROWSER"
+    },
+    {
+      "name": "Jimmy Monto",
+      "type": "person",
+      "canonical_id": "PERSON-JIMMY-MONTO"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Marty Nave",
+      "type": "person",
+      "canonical_id": "PERSON-MARTY-NAVE"
+    },
+    {
+      "name": "Hanah Ehrenreich",
+      "type": "person",
+      "canonical_id": "PERSON-HANAH-EHRENREICH"
+    },
+    {
+      "name": "Hasahn Bloodworth",
+      "type": "person",
+      "canonical_id": "PERSON-HASAHN-BLOODWORTH"
+    },
+    {
+      "name": "Martin Cass",
+      "type": "person",
+      "canonical_id": "PERSON-MARTIN-CASS"
+    },
+    {
+      "name": "Nyatwa Bullock",
+      "type": "person",
+      "canonical_id": "PERSON-NYATWA-BULLOCK"
+    },
+    {
+      "name": "Karen Cordano",
+      "type": "person",
+      "canonical_id": "PERSON-KAREN-CORDANO"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Election administration and democratic process. Multiple contested primaries indicate active civic participation in council and school board races. Key leadership transition: Council president term limit creates open seat; mayoral candidate departure opens District 2.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00177"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article truncated mid-sentence in school board section; full candidate list for education commissioner race not captured",
+    "Article title indicates 'mayoral race' reference but details not included in provided excerpt",
+    "Working Families Party ballot line filings noted for some candidates (Ehrenreich, Moore, Monto)",
+    "Independent petition circulation window: April 15 - late May",
+    "Salary data extracted for budget/compensation context",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)",
+    "Tag warning: Unknown tag 'election' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00177"
+  ],
+  "last_relevance_update": null
+}

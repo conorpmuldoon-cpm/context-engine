@@ -1,0 +1,94 @@
+{
+  "record_id": "CTX-NEWS-2025-00186",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/05/mayor-walsh-vetoes-most-of-syracuse-councils-budget-cuts-including-police-fire.html",
+  "publication_date": "2025-05-19",
+  "capture_date": "2026-03-22T19:48:34Z",
+  "title": "Mayor Walsh vetoes most of Syracuse council’s budget cuts, including police, fire",
+  "summary": "Mayor Walsh issued formal vetoes on May 19, 2025, restoring $13 million of $16 million in budget cuts approved by Syracuse Common Council, including full restoration of $3.5M police and $2.4M fire cuts. Walsh accepted council's elimination of a 2% property tax rate increase but vetoed most other departmental cuts and a water rate reduction, setting up a likely veto override vote on May 27. This fiscal conflict reveals tensions over sustainable spending levels and reserve fund usage ($27M proposed vs. $14.4M after council cuts).",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "vote",
+    "mayor",
+    "council",
+    "police",
+    "fire",
+    "tax-revenue",
+    "code-enforcement",
+    "permitting",
+    "housing",
+    "equity",
+    "water",
+    "roads-bridges",
+    "parks",
+    "PROVISIONAL:veto-override-pending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Syracuse Fire Department",
+    "Department of Code Enforcement",
+    "Department of Public Works",
+    "Department of Parks, Recreation and Youth Programs",
+    "Department of Finance",
+    "Law Department",
+    "Water Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "The Bonadio Group",
+      "type": "organization",
+      "canonical_id": "ORG-BONADIO"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYR-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Council explicitly rejected compromise overtures and signaled intent to override mayoral vetoes on nearly all spending restoration items. Council President Pro Tempore stated council had 'little interest in reconsidering' amendments, indicating substantive governance conflict over fiscal sustainability priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00039"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article truncated mid-sentence; final council action date May 27 confirmed but outcome not included in provided text",
+    "Dollar amount extraction validated: $27M proposed reserves draw, $16M council cuts, $13M restored by veto, $3.5M police restoration, $2.4M fire restoration, $120M total rainy day fund balance",
+    "Water rate increase ($5/year) cited in Bonadio report—potential CIO relevance if water infrastructure digitization/systems involved",
+    "Housing-adjacent activities (code enforcement, permitting, property revaluation) flagged as administration priority; may connect to housing innovation initiatives",
+    "Bonadio Group described as 'hastily assembled and superficial' by Walsh administration—potential data governance quality signal",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)",
+    "Potential duplicate of CTX-NEWS-2025-00039"
+  ],
+  "last_relevance_update": null
+}

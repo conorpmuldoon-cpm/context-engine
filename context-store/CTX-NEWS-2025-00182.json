@@ -1,0 +1,80 @@
+{
+  "record_id": "CTX-NEWS-2025-00182",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/04/syracuse-lawmaker-majok-pulls-proposal-for-panel-to-review-police-watchdog-law.html",
+  "publication_date": "2025-04-28",
+  "capture_date": "2026-03-22T19:46:46Z",
+  "title": "Syracuse lawmaker Majok pulls proposal for panel to review police watchdog law",
+  "summary": "Syracuse Common Councilor Chol Majok withdrew his proposal to establish a Citizen Review Board Legislative Update Committee, delaying efforts to modernize the police watchdog law (unchanged since 2011). The withdrawal followed pushback from council colleagues and the former CRB chair about timing and board independence. Majok plans to reintroduce the proposal after current board vacancies are filled and a full-time administrator is hired, hoped for this summer.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "public-safety-commission",
+    "legislation",
+    "policy-change",
+    "transparency",
+    "leadership-change",
+    "procedural",
+    "complaint"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-CHOL-MAJOK"
+    },
+    {
+      "name": "Bryn Lovejoy-Grinnell",
+      "type": "person",
+      "canonical_id": "PERSON-BRYN-LOVEJOY-GRINNELL"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Citizen Review Board",
+      "type": "organization",
+      "canonical_id": "ORG-CRB"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Proposal withdrawal reflects ongoing tension between city council oversight authority and CRB operational independence. Multiple council attempts to influence CRB governance (2024 administrator hiring proposal, 2024 workplace violation enforcement proposal, current legislative review proposal) indicate sustained scrutiny of board operations and governance structure.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on governance process rather than operational outcomes",
+    "Key issue: tension between council oversight and CRB independence—relevant to governance/accountability frameworks",
+    "CRB administrator position vacant since September 2024—operational gap noted",
+    "Law governing CRB last updated 2011—modernization need documented",
+    "Recent resignations (former chair + one board member) suggest internal instability",
+    "Mayor's veto authority over council measures documented—inter-branch dynamic",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)",
+    "Tag warning: Unknown tag 'procedural' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

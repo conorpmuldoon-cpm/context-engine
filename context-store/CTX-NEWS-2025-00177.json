@@ -1,0 +1,134 @@
+{
+  "record_id": "CTX-NEWS-2025-00177",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/04/whos-on-the-ballots-for-syracuse-common-council-school-board-races-in-2025.html",
+  "publication_date": "2025-04-05",
+  "capture_date": "2026-03-22T19:41:42Z",
+  "title": "Who’s on the ballots for Syracuse Common Council, school board races in 2025?",
+  "summary": "Syracuse will hold Democratic primaries on June 24, 2025 for Common Council (councilor-at-large and council president races) and school board (education commissioner seats), with general elections on November 4. Key leadership transitions include term-limited Council President Helen Hudson and District 2 incumbent Pat Hogan running for mayor. Candidates can also pursue independent ballot lines beginning April 15.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "council",
+    "vote",
+    "leadership-change",
+    "announcement",
+    "transparency"
+  ],
+  "department_refs": [
+    "Syracuse Common Council",
+    "Syracuse City School District"
+  ],
+  "entity_refs": [
+    {
+      "name": "Rita Paniagua",
+      "type": "person",
+      "canonical_id": "PERSON-RITA-PANIAGUA"
+    },
+    {
+      "name": "Helen Hudson",
+      "type": "person",
+      "canonical_id": "PERSON-HELEN-HUDSON"
+    },
+    {
+      "name": "Rasheada Caldwell",
+      "type": "person",
+      "canonical_id": "PERSON-RASHEADA-CALDWELL"
+    },
+    {
+      "name": "Amir Gethers",
+      "type": "person",
+      "canonical_id": "PERSON-AMIR-GETHERS"
+    },
+    {
+      "name": "Hanah Ehrenreich",
+      "type": "person",
+      "canonical_id": "PERSON-HANAH-EHRENREICH"
+    },
+    {
+      "name": "Hasahn Bloodworth",
+      "type": "person",
+      "canonical_id": "PERSON-HASAHN-BLOODWORTH"
+    },
+    {
+      "name": "Marty Nave",
+      "type": "person",
+      "canonical_id": "PERSON-MARTY-NAVE"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Donna Moore",
+      "type": "person",
+      "canonical_id": "PERSON-DONNA-MOORE"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Patrona Jones-Rowser",
+      "type": "person",
+      "canonical_id": "PERSON-PATRONA-JONES-ROWSER"
+    },
+    {
+      "name": "Jimmy Monto",
+      "type": "person",
+      "canonical_id": "PERSON-JIMMY-MONTO"
+    },
+    {
+      "name": "Martin Cass",
+      "type": "person",
+      "canonical_id": "PERSON-MARTIN-CASS"
+    },
+    {
+      "name": "Nyatwa Bullock",
+      "type": "person",
+      "canonical_id": "PERSON-NYATWA-BULLOCK"
+    },
+    {
+      "name": "Karen Cordano",
+      "type": "person",
+      "canonical_id": "PERSON-KAREN-CORDANO"
+    },
+    {
+      "name": "Twiggy Billue",
+      "type": "person",
+      "canonical_id": "PERSON-TWIGGY-BILLUE"
+    },
+    {
+      "name": "Michael Root",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-ROOT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Multiple competitive Democratic primaries indicate robust internal party engagement for both legislative and education governance; leadership succession planning evident with term-limited president and mayoral candidate departure from District 2.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article truncated mid-sentence regarding school board candidates; full candidate slate for education commissioners incomplete.",
+    "Salary figures extracted for council positions ($39,140 president, $36,050 voting councilor, $16,000 education commissioner) may be useful for payroll/budget context.",
+    "Working Families Party and Republican ballot line filings indicate general election will feature multi-party competition beyond Democratic primary.",
+    "Key dates: petition circulation begins April 15, primary June 24, general election November 4.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)"
+  ],
+  "last_relevance_update": null
+}

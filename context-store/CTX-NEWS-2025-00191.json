@@ -1,0 +1,86 @@
+{
+  "record_id": "CTX-NEWS-2025-00191",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/07/syracuse-officials-challenge-police-unions-attack-on-armory-squares-safety.html",
+  "publication_date": "2025-07-15",
+  "capture_date": "2026-03-22T19:53:17Z",
+  "title": "Syracuse officials challenge police union’s attack on Armory Square’s safety",
+  "summary": "Syracuse city officials and Police Chief Joseph Cecile publicly disputed a Syracuse Police Benevolent Association Facebook post characterizing Armory Square as 'chaotic' and 'infiltrated' by gang members. The officials clarified that increased police presence was a planned deployment to address illegal after-hours street drinking and unsanctioned block parties, not an emergency response to violent crime. Of 50 arrests over the weekend, 36 were violation tickets; only 6 were felonies (mostly gun possession) with no violent crime arrests.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "labor-relations",
+    "transparency",
+    "crime-data",
+    "public-safety-commission",
+    "escalating",
+    "union",
+    "business-community",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Office of the Deputy Mayor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Joseph Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOSEPH-CECILE"
+    },
+    {
+      "name": "Joe Moran",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-MORAN"
+    },
+    {
+      "name": "Merike Treier",
+      "type": "person",
+      "canonical_id": "PERSON-MERIKE-TREIER"
+    },
+    {
+      "name": "Syracuse Police Benevolent Association",
+      "type": "organization",
+      "canonical_id": "ORG-SPBA"
+    },
+    {
+      "name": "Downtown Committee",
+      "type": "organization",
+      "canonical_id": "ORG-DOWNTOWN-COMMITTEE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Public contradiction between union leadership and city administration over characterization of public safety conditions and police operations. Union president defended post despite official pushback, signaling internal labor-management tension and potential trust deficit on messaging.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00073"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article reflects intra-governmental disagreement with union; may indicate broader labor-relations friction",
+    "Crime data specificity valuable for CIO data-governance and transparency initiatives",
+    "Downtown revitalization and public perception management relevant to economic-development strategy",
+    "Police union social media strategy appears uncoordinated with official city messaging—communications protocol gap",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)",
+    "Potential duplicate of CTX-NEWS-2025-00073"
+  ],
+  "last_relevance_update": null
+}

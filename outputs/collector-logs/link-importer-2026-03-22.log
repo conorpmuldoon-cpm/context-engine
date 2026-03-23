@@ -1668,3 +1668,982 @@ New records:
   • Syracuse residents share their thoughts on the snow; one called it a ' (2025-12-30)
   • Walsh ready to hand Syracuse city government to Sharon Owens (2025-12-31)
 
+2026-03-22 19:39:56,534 [INFO] ============================================================
+2026-03-22 19:39:56,534 [INFO] Link Importer starting
+2026-03-22 19:39:56,537 [INFO] Loaded 452 unique URLs from CSV
+2026-03-22 19:39:56,539 [INFO] Skipped 4 URLs from irrelevant domains
+2026-03-22 19:39:56,561 [INFO] New URLs to process: 191 (of 448 total)
+2026-03-22 19:39:58,034 [WARNING] 191 Syracuse.com URLs but no saved session. Run with --login first for subscriber access.
+2026-03-22 19:40:00,193 [INFO] [1/191] Fetching: https://www.syracuse.com/news/2025/03/former-sears-store-on-syracuses-south-side-to-be-turned-into-s
+2026-03-22 19:40:03,257 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/03/former-sears-store-on-syracuses-south-side
+2026-03-22 19:40:08,649 [INFO] [1/191] Blocked/empty: https://www.syracuse.com/news/2025/03/former-sears-store-on-syracuses-south-side
+2026-03-22 19:40:11,650 [INFO] [2/191] Fetching: https://www.syracuse.com/news/2025/03/dozens-of-new-homes-planned-for-vacant-lots-in-poor-syracuse-n
+2026-03-22 19:40:11,996 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/03/dozens-of-new-homes-planned-for-vacant-lot
+2026-03-22 19:40:15,070 [DEBUG]   Wayback hit: http://web.archive.org/web/20250723075027/https://www.syracuse.com/news/2025/03/
+2026-03-22 19:40:15,070 [INFO] [2/191] Trying Wayback Machine...
+2026-03-22 19:40:21,543 [DEBUG]   Content too short (0 chars): http://web.archive.org/web/20250723075027/https://www.syracuse.com/news/2025/03/
+2026-03-22 19:40:21,543 [INFO] [2/191] Blocked/empty: https://www.syracuse.com/news/2025/03/dozens-of-new-homes-planned-for-vacant-lot
+2026-03-22 19:40:24,544 [INFO] [3/191] Fetching: https://www.syracuse.com/opinion/2025/03/state-senator-city-auditor-ny-aid-to-cities-isnt-keeping-up
+2026-03-22 19:40:25,602 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2025/03/state-senator-city-auditor-ny-aid-to-ci
+2026-03-22 19:40:30,023 [DEBUG]   Wayback hit: http://web.archive.org/web/20250509085256/https://www.syracuse.com/opinion/2025/
+2026-03-22 19:40:30,023 [INFO] [3/191] Trying Wayback Machine...
+2026-03-22 19:40:37,059 [INFO] [3/191] Relevant: State senator, city auditor: NY aid to cities isn’t keeping up (Your Letters)
+2026-03-22 19:40:37,059 [DEBUG]   → Entities: Alexander Marion
+2026-03-22 19:40:37,059 [DEBUG]   → Departments: Syracuse Fire Department
+2026-03-22 19:40:37,059 [DEBUG]   → Keywords: taxpayer, city of syracuse, city auditor
+2026-03-22 19:40:43,184 [WARNING]   Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-03-22 19:40:43,197 [INFO]   Saved: CTX-NEWS-2025-00176 → CTX-NEWS-2025-00176.json
+2026-03-22 19:40:46,197 [INFO] [4/191] Fetching: https://www.syracuse.com/business/2025/03/syracuse-auditor-citys-lifeless-wage-ordinance-needs-a-ser
+2026-03-22 19:40:46,592 [DEBUG]   HTTP 403: https://www.syracuse.com/business/2025/03/syracuse-auditor-citys-lifeless-wage-o
+2026-03-22 19:40:51,904 [INFO] [4/191] Blocked/empty: https://www.syracuse.com/business/2025/03/syracuse-auditor-citys-lifeless-wage-o
+2026-03-22 19:40:54,905 [INFO] [5/191] Fetching: https://www.syracuse.com/news/2025/04/syracuse-sues-company-that-was-supposed-to-save-skyline-apartm
+2026-03-22 19:40:55,154 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/syracuse-sues-company-that-was-supposed-to
+2026-03-22 19:41:00,486 [INFO] [5/191] Blocked/empty: https://www.syracuse.com/news/2025/04/syracuse-sues-company-that-was-supposed-to
+2026-03-22 19:41:03,487 [INFO] [6/191] Fetching: https://www.syracuse.com/news/2025/04/owners-of-former-skyline-apartments-in-syracuse-hope-to-talk-t
+2026-03-22 19:41:03,692 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/owners-of-former-skyline-apartments-in-syr
+2026-03-22 19:41:09,022 [INFO] [6/191] Blocked/empty: https://www.syracuse.com/news/2025/04/owners-of-former-skyline-apartments-in-syr
+2026-03-22 19:41:12,022 [INFO] [7/191] Fetching: https://www.syracuse.com/news/2025/04/how-owner-mark-congel-lost-control-of-historic-syracuse-conven
+2026-03-22 19:41:12,222 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/how-owner-mark-congel-lost-control-of-hist
+2026-03-22 19:41:17,580 [INFO] [7/191] Blocked/empty: https://www.syracuse.com/news/2025/04/how-owner-mark-congel-lost-control-of-hist
+2026-03-22 19:41:20,581 [INFO] [8/191] Fetching: https://www.syracuse.com/news/2025/04/whos-on-the-ballots-for-syracuse-common-council-school-board-r
+2026-03-22 19:41:20,876 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/whos-on-the-ballots-for-syracuse-common-co
+2026-03-22 19:41:23,024 [DEBUG]   Wayback hit: http://web.archive.org/web/20250723191132/https://www.syracuse.com/news/2025/04/
+2026-03-22 19:41:23,024 [INFO] [8/191] Trying Wayback Machine...
+2026-03-22 19:41:34,780 [INFO] [8/191] Relevant: Who’s on the ballots for Syracuse Common Council, school board races in 2025?
+2026-03-22 19:41:34,781 [DEBUG]   → Entities: Rita Paniagua, Rasheada Caldwell, Helen Hudson
+2026-03-22 19:41:34,781 [DEBUG]   → Keywords: common council, mayor, city government
+2026-03-22 19:41:42,490 [INFO]   Saved: CTX-NEWS-2025-00177 → CTX-NEWS-2025-00177.json
+2026-03-22 19:41:45,498 [INFO] [9/191] Fetching: https://www.syracuse.com/news/2025/04/developer-shrinks-syracuse-apartment-project-near-i-81-for-sec
+2026-03-22 19:41:45,840 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/developer-shrinks-syracuse-apartment-proje
+2026-03-22 19:41:51,388 [INFO] [9/191] Blocked/empty: https://www.syracuse.com/news/2025/04/developer-shrinks-syracuse-apartment-proje
+2026-03-22 19:41:54,389 [INFO] [10/191] Fetching: https://www.syracuse.com/crime/2025/04/syracuse-chief-defends-officers-hitting-man-during-arrest-but
+2026-03-22 19:41:54,565 [DEBUG]   HTTP 403: https://www.syracuse.com/crime/2025/04/syracuse-chief-defends-officers-hitting-m
+2026-03-22 19:41:59,987 [INFO] [10/191] Blocked/empty: https://www.syracuse.com/crime/2025/04/syracuse-chief-defends-officers-hitting-m
+2026-03-22 19:42:02,988 [INFO] [11/191] Fetching: https://www.syracuse.com/news/2025/04/syracuse-lawmakers-disappointed-with-walshs-proposed-tax-hike-
+2026-03-22 19:42:03,279 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/syracuse-lawmakers-disappointed-with-walsh
+2026-03-22 19:42:08,615 [INFO] [11/191] Blocked/empty: https://www.syracuse.com/news/2025/04/syracuse-lawmakers-disappointed-with-walsh
+2026-03-22 19:42:11,617 [INFO] [12/191] Fetching: https://www.syracuse.com/news/2025/04/syracuse-mayor-walsh-seeks-3rd-straight-tax-hike-its-the-respo
+2026-03-22 19:42:11,795 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/syracuse-mayor-walsh-seeks-3rd-straight-ta
+2026-03-22 19:42:14,836 [DEBUG]   Wayback hit: http://web.archive.org/web/20250725124336/https://www.syracuse.com/news/2025/04/
+2026-03-22 19:42:14,836 [INFO] [12/191] Trying Wayback Machine...
+2026-03-22 19:42:17,364 [DEBUG]   Navigation error: http://web.archive.org/web/20250725124336/https://www.syracuse.com/news/2025/04/ — Page.goto: net::ERR_CONNECTION_REFUSED at http://web.archive.org/web/20250725124336/https://www.syracuse.com/news/2025/04/syracuse-mayor-walsh-seeks-3rd-straight-tax-hike-its-the-responsible-thing-to-do.html
+Call log:
+  - navigating to "http://web.archive.org/web/20250725124336/https://www.syracuse.com/news/2025/04/syracuse-mayor-walsh-seeks-3rd-straight-tax-hike-its-the-responsible-thing-to-do.html", waiting until "domcontentloaded"
+
+2026-03-22 19:42:17,364 [INFO] [12/191] Blocked/empty: https://www.syracuse.com/news/2025/04/syracuse-mayor-walsh-seeks-3rd-straight-ta
+2026-03-22 19:42:20,365 [INFO] [13/191] Fetching: https://www.syracuse.com/health/2025/04/upstate-medical-rules-out-biggest-fear-in-probe-of-tuesdays-
+2026-03-22 19:42:20,531 [DEBUG]   HTTP 403: https://www.syracuse.com/health/2025/04/upstate-medical-rules-out-biggest-fear-i
+2026-03-22 19:42:25,896 [INFO] [13/191] Blocked/empty: https://www.syracuse.com/health/2025/04/upstate-medical-rules-out-biggest-fear-i
+2026-03-22 19:42:28,896 [INFO] [14/191] Fetching: https://www.syracuse.com/opinion/2025/04/ny-should-expand-kendras-law-guest-opinion-by-dr-barry-perl
+2026-03-22 19:42:29,242 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2025/04/ny-should-expand-kendras-law-guest-opin
+2026-03-22 19:42:35,576 [INFO] [14/191] Blocked/empty: https://www.syracuse.com/opinion/2025/04/ny-should-expand-kendras-law-guest-opin
+2026-03-22 19:42:38,576 [INFO] [15/191] Fetching: https://www.syracuse.com/crime/2025/04/should-police-chase-stolen-cars-two-local-departments-set-opp
+2026-03-22 19:42:38,884 [DEBUG]   HTTP 403: https://www.syracuse.com/crime/2025/04/should-police-chase-stolen-cars-two-local
+2026-03-22 19:42:44,363 [INFO] [15/191] Blocked/empty: https://www.syracuse.com/crime/2025/04/should-police-chase-stolen-cars-two-local
+2026-03-22 19:42:47,363 [INFO] [16/191] Fetching: https://www.syracuse.com/news/2025/04/orange-basketball-legend-carmelo-anthony-launches-his-cannabis
+2026-03-22 19:42:47,568 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/orange-basketball-legend-carmelo-anthony-l
+2026-03-22 19:42:48,459 [DEBUG]   Wayback hit: http://web.archive.org/web/20251026233355/https://www.syracuse.com/news/2025/04/
+2026-03-22 19:42:48,460 [INFO] [16/191] Trying Wayback Machine...
+2026-03-22 19:42:50,907 [DEBUG]   Navigation error: http://web.archive.org/web/20251026233355/https://www.syracuse.com/news/2025/04/ — Page.goto: net::ERR_CONNECTION_REFUSED at http://web.archive.org/web/20251026233355/https://www.syracuse.com/news/2025/04/orange-basketball-legend-carmelo-anthony-launches-his-cannabis-brand-in-syracuse-today.html
+Call log:
+  - navigating to "http://web.archive.org/web/20251026233355/https://www.syracuse.com/news/2025/04/orange-basketball-legend-carmelo-anthony-launches-his-cannabis-brand-in-syracuse-today.html", waiting until "domcontentloaded"
+
+2026-03-22 19:42:50,907 [INFO] [16/191] Blocked/empty: https://www.syracuse.com/news/2025/04/orange-basketball-legend-carmelo-anthony-l
+2026-03-22 19:42:53,907 [INFO] [17/191] Fetching: https://www.syracuse.com/news/2025/04/syracuse-police-watchdogs-new-leader-abruptly-resigns-in-lates
+2026-03-22 19:42:54,131 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/syracuse-police-watchdogs-new-leader-abrup
+2026-03-22 19:42:59,519 [INFO] [17/191] Blocked/empty: https://www.syracuse.com/news/2025/04/syracuse-police-watchdogs-new-leader-abrup
+2026-03-22 19:43:02,520 [INFO] [18/191] Fetching: https://www.syracuse.com/news/2025/04/syracuse-police-chief-joe-cecile-will-retire-when-walshs-term-
+2026-03-22 19:43:02,680 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/syracuse-police-chief-joe-cecile-will-reti
+2026-03-22 19:43:03,409 [DEBUG]   Wayback hit: http://web.archive.org/web/20251205192239/https://www.syracuse.com/news/2025/04/
+2026-03-22 19:43:03,410 [INFO] [18/191] Trying Wayback Machine...
+2026-03-22 19:43:05,874 [DEBUG]   Navigation error: http://web.archive.org/web/20251205192239/https://www.syracuse.com/news/2025/04/ — Page.goto: net::ERR_CONNECTION_REFUSED at http://web.archive.org/web/20251205192239/https://www.syracuse.com/news/2025/04/syracuse-police-chief-joe-cecile-will-retire-when-walshs-term-ends-this-year.html
+Call log:
+  - navigating to "http://web.archive.org/web/20251205192239/https://www.syracuse.com/news/2025/04/syracuse-police-chief-joe-cecile-will-retire-when-walshs-term-ends-this-year.html", waiting until "domcontentloaded"
+
+2026-03-22 19:43:05,874 [INFO] [18/191] Blocked/empty: https://www.syracuse.com/news/2025/04/syracuse-police-chief-joe-cecile-will-reti
+2026-03-22 19:43:08,875 [INFO] [19/191] Fetching: https://www.syracuse.com/news/2025/04/syracuse-lawmaker-majok-pulls-proposal-for-panel-to-review-pol
+2026-03-22 19:43:09,105 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/syracuse-lawmaker-majok-pulls-proposal-for
+2026-03-22 19:43:10,066 [DEBUG]   Wayback hit: http://web.archive.org/web/20250723205900/https://www.syracuse.com/news/2025/04/
+2026-03-22 19:43:10,066 [INFO] [19/191] Trying Wayback Machine...
+2026-03-22 19:43:12,551 [DEBUG]   Navigation error: http://web.archive.org/web/20250723205900/https://www.syracuse.com/news/2025/04/ — Page.goto: net::ERR_CONNECTION_REFUSED at http://web.archive.org/web/20250723205900/https://www.syracuse.com/news/2025/04/syracuse-lawmaker-majok-pulls-proposal-for-panel-to-review-police-watchdog-law.html
+Call log:
+  - navigating to "http://web.archive.org/web/20250723205900/https://www.syracuse.com/news/2025/04/syracuse-lawmaker-majok-pulls-proposal-for-panel-to-review-police-watchdog-law.html", waiting until "domcontentloaded"
+
+2026-03-22 19:43:12,551 [INFO] [19/191] Blocked/empty: https://www.syracuse.com/news/2025/04/syracuse-lawmaker-majok-pulls-proposal-for
+2026-03-22 19:43:15,552 [INFO] [20/191] Fetching: https://www.syracuse.com/news/2025/04/syracuse-computing-its-greenhouse-gas-output-and-forming-clima
+2026-03-22 19:43:15,945 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/syracuse-computing-its-greenhouse-gas-outp
+2026-03-22 19:43:16,725 [DEBUG]   Wayback hit: http://web.archive.org/web/20250722061051/https://www.syracuse.com/news/2025/04/
+2026-03-22 19:43:16,725 [INFO] [20/191] Trying Wayback Machine...
+2026-03-22 19:43:19,158 [DEBUG]   Navigation error: http://web.archive.org/web/20250722061051/https://www.syracuse.com/news/2025/04/ — Page.goto: net::ERR_CONNECTION_REFUSED at http://web.archive.org/web/20250722061051/https://www.syracuse.com/news/2025/04/syracuse-computing-its-greenhouse-gas-output-and-forming-climate-action-plan.html
+Call log:
+  - navigating to "http://web.archive.org/web/20250722061051/https://www.syracuse.com/news/2025/04/syracuse-computing-its-greenhouse-gas-output-and-forming-climate-action-plan.html", waiting until "domcontentloaded"
+
+2026-03-22 19:43:19,159 [INFO] [20/191] Blocked/empty: https://www.syracuse.com/news/2025/04/syracuse-computing-its-greenhouse-gas-outp
+2026-03-22 19:43:22,159 [INFO] [21/191] Fetching: https://www.syracuse.com/news/2025/04/syracuse-brings-back-police-officers-vs-firefighters-basketbal
+2026-03-22 19:43:22,403 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/syracuse-brings-back-police-officers-vs-fi
+2026-03-22 19:43:26,691 [DEBUG]   Wayback hit: http://web.archive.org/web/20250426013941/https://www.syracuse.com/news/2025/04/
+2026-03-22 19:43:26,692 [INFO] [21/191] Trying Wayback Machine...
+2026-03-22 19:43:29,122 [DEBUG]   Navigation error: http://web.archive.org/web/20250426013941/https://www.syracuse.com/news/2025/04/ — Page.goto: net::ERR_CONNECTION_REFUSED at http://web.archive.org/web/20250426013941/https://www.syracuse.com/news/2025/04/syracuse-brings-back-police-officers-vs-firefighters-basketball-game-played-for-charity.html
+Call log:
+  - navigating to "http://web.archive.org/web/20250426013941/https://www.syracuse.com/news/2025/04/syracuse-brings-back-police-officers-vs-firefighters-basketball-game-played-for-charity.html", waiting until "domcontentloaded"
+
+2026-03-22 19:43:29,122 [INFO] [21/191] Blocked/empty: https://www.syracuse.com/news/2025/04/syracuse-brings-back-police-officers-vs-fi
+2026-03-22 19:43:32,123 [INFO] [22/191] Fetching: https://www.syracuse.com/politics/cny/2025/04/trump-administration-revokes-visas-of-3-syracuse-unive
+2026-03-22 19:43:32,410 [DEBUG]   HTTP 403: https://www.syracuse.com/politics/cny/2025/04/trump-administration-revokes-visas
+2026-03-22 19:44:45,506 [INFO] ============================================================
+2026-03-22 19:44:45,506 [INFO] Link Importer starting
+2026-03-22 19:44:45,511 [INFO] Loaded 452 unique URLs from CSV
+2026-03-22 19:44:45,513 [INFO] Skipped 4 URLs from irrelevant domains
+2026-03-22 19:44:45,513 [INFO] New URLs to process: 191 (of 448 total)
+2026-03-22 19:44:45,513 [INFO] Limited to 10 URLs
+2026-03-22 19:44:45,735 [WARNING] 10 Syracuse.com URLs but no saved session. Run with --login first for subscriber access.
+2026-03-22 19:44:47,838 [INFO] [1/10] Fetching: https://www.syracuse.com/news/2025/03/former-sears-store-on-syracuses-south-side-to-be-turned-into-s
+2026-03-22 19:44:48,282 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/03/former-sears-store-on-syracuses-south-side
+2026-03-22 19:44:48,642 [INFO] [1/10] Blocked/empty: https://www.syracuse.com/news/2025/03/former-sears-store-on-syracuses-south-side
+2026-03-22 19:44:51,643 [INFO] [2/10] Fetching: https://www.syracuse.com/news/2025/03/dozens-of-new-homes-planned-for-vacant-lots-in-poor-syracuse-n
+2026-03-22 19:44:51,985 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/03/dozens-of-new-homes-planned-for-vacant-lot
+2026-03-22 19:44:52,251 [DEBUG]   Wayback hit: http://web.archive.org/web/20250723075027/https://www.syracuse.com/news/2025/03/
+2026-03-22 19:44:52,251 [INFO] [2/10] Trying Wayback Machine...
+2026-03-22 19:44:52,767 [DEBUG] [2/10] Filtered (not relevant): Dozens of new homes planned for vacant lots in poor Syracuse neighborhoods
+2026-03-22 19:44:55,768 [INFO] [3/10] Fetching: https://www.syracuse.com/opinion/2025/03/state-senator-city-auditor-ny-aid-to-cities-isnt-keeping-up
+2026-03-22 19:44:55,975 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2025/03/state-senator-city-auditor-ny-aid-to-ci
+2026-03-22 19:44:56,263 [DEBUG]   Wayback hit: http://web.archive.org/web/20250509085256/https://www.syracuse.com/opinion/2025/
+2026-03-22 19:44:56,263 [INFO] [3/10] Trying Wayback Machine...
+2026-03-22 19:44:56,761 [INFO] [3/10] Relevant: State senator, city auditor: NY aid to cities isn’t keeping up (Your Letters)
+2026-03-22 19:44:56,761 [DEBUG]   → Entities: Alexander Marion
+2026-03-22 19:44:56,761 [DEBUG]   → Departments: Syracuse Fire Department
+2026-03-22 19:44:56,761 [DEBUG]   → Keywords: taxpayer, city of syracuse, city auditor
+2026-03-22 19:45:04,165 [WARNING]   Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-03-22 19:45:04,171 [INFO]   Dedup match: CTX-NEWS-2025-00176
+2026-03-22 19:45:04,173 [INFO]   Saved: CTX-NEWS-2025-00178 → CTX-NEWS-2025-00178.json
+2026-03-22 19:45:07,174 [INFO] [4/10] Fetching: https://www.syracuse.com/business/2025/03/syracuse-auditor-citys-lifeless-wage-ordinance-needs-a-ser
+2026-03-22 19:45:07,446 [DEBUG]   HTTP 403: https://www.syracuse.com/business/2025/03/syracuse-auditor-citys-lifeless-wage-o
+2026-03-22 19:45:07,763 [INFO] [4/10] Blocked/empty: https://www.syracuse.com/business/2025/03/syracuse-auditor-citys-lifeless-wage-o
+2026-03-22 19:45:10,764 [INFO] [5/10] Fetching: https://www.syracuse.com/news/2025/04/syracuse-sues-company-that-was-supposed-to-save-skyline-apartm
+2026-03-22 19:45:11,029 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/syracuse-sues-company-that-was-supposed-to
+2026-03-22 19:45:11,346 [INFO] [5/10] Blocked/empty: https://www.syracuse.com/news/2025/04/syracuse-sues-company-that-was-supposed-to
+2026-03-22 19:45:14,346 [INFO] [6/10] Fetching: https://www.syracuse.com/news/2025/04/owners-of-former-skyline-apartments-in-syracuse-hope-to-talk-t
+2026-03-22 19:45:14,515 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/owners-of-former-skyline-apartments-in-syr
+2026-03-22 19:45:14,776 [INFO] [6/10] Blocked/empty: https://www.syracuse.com/news/2025/04/owners-of-former-skyline-apartments-in-syr
+2026-03-22 19:45:17,777 [INFO] [7/10] Fetching: https://www.syracuse.com/news/2025/04/how-owner-mark-congel-lost-control-of-historic-syracuse-conven
+2026-03-22 19:45:17,922 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/how-owner-mark-congel-lost-control-of-hist
+2026-03-22 19:45:18,166 [INFO] [7/10] Blocked/empty: https://www.syracuse.com/news/2025/04/how-owner-mark-congel-lost-control-of-hist
+2026-03-22 19:45:21,166 [INFO] [8/10] Fetching: https://www.syracuse.com/news/2025/04/whos-on-the-ballots-for-syracuse-common-council-school-board-r
+2026-03-22 19:45:21,327 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/whos-on-the-ballots-for-syracuse-common-co
+2026-03-22 19:45:21,595 [DEBUG]   Wayback hit: http://web.archive.org/web/20250723191132/https://www.syracuse.com/news/2025/04/
+2026-03-22 19:45:21,595 [INFO] [8/10] Trying Wayback Machine...
+2026-03-22 19:45:22,112 [INFO] [8/10] Relevant: Who’s on the ballots for Syracuse Common Council, school board races in 2025?
+2026-03-22 19:45:22,113 [DEBUG]   → Entities: Rita Paniagua, Rasheada Caldwell, Helen Hudson
+2026-03-22 19:45:22,113 [DEBUG]   → Keywords: common council, mayor, city government
+2026-03-22 19:45:29,129 [WARNING]   Tag issue: Unknown tag 'election' not in taxonomy
+2026-03-22 19:45:29,136 [INFO]   Dedup match: CTX-NEWS-2025-00177
+2026-03-22 19:45:29,138 [INFO]   Saved: CTX-NEWS-2025-00179 → CTX-NEWS-2025-00179.json
+2026-03-22 19:45:32,138 [INFO] [9/10] Fetching: https://www.syracuse.com/news/2025/04/developer-shrinks-syracuse-apartment-project-near-i-81-for-sec
+2026-03-22 19:45:32,536 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/developer-shrinks-syracuse-apartment-proje
+2026-03-22 19:45:33,128 [INFO] [9/10] Blocked/empty: https://www.syracuse.com/news/2025/04/developer-shrinks-syracuse-apartment-proje
+2026-03-22 19:45:36,129 [INFO] [10/10] Fetching: https://www.syracuse.com/crime/2025/04/syracuse-chief-defends-officers-hitting-man-during-arrest-but
+2026-03-22 19:45:36,327 [DEBUG]   HTTP 403: https://www.syracuse.com/crime/2025/04/syracuse-chief-defends-officers-hitting-m
+2026-03-22 19:45:36,586 [INFO] [10/10] Blocked/empty: https://www.syracuse.com/crime/2025/04/syracuse-chief-defends-officers-hitting-m
+2026-03-22 19:45:36,742 [INFO] Link Importer Run — 2026-03-22 19:45
+==================================================
+URLs in CSV: 452
+Skipped (domain): 4
+Already processed: 438
+Attempted this run: 10
+Blocked/empty: 7
+Recovered via Wayback Machine: 3
+Filtered (not relevant): 1
+Saved as records: 2
+Errors: 0
+
+New records:
+  • State senator, city auditor: NY aid to cities isn’t keeping up (Your L (2025-03-31)
+  • Who’s on the ballots for Syracuse Common Council, school board races i (2025-04-05)
+
+2026-03-22 19:45:49,943 [INFO] ============================================================
+2026-03-22 19:45:49,944 [INFO] Link Importer starting
+2026-03-22 19:45:49,946 [INFO] Loaded 452 unique URLs from CSV
+2026-03-22 19:45:49,948 [INFO] Skipped 4 URLs from irrelevant domains
+2026-03-22 19:45:49,986 [INFO] New URLs to process: 181 (of 448 total)
+2026-03-22 19:45:50,115 [WARNING] 181 Syracuse.com URLs but no saved session. Run with --login first for subscriber access.
+2026-03-22 19:45:52,136 [INFO] [1/181] Fetching: https://www.syracuse.com/news/2025/04/syracuse-lawmakers-disappointed-with-walshs-proposed-tax-hike-
+2026-03-22 19:45:52,495 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/syracuse-lawmakers-disappointed-with-walsh
+2026-03-22 19:45:52,950 [INFO] [1/181] Blocked/empty: https://www.syracuse.com/news/2025/04/syracuse-lawmakers-disappointed-with-walsh
+2026-03-22 19:45:55,951 [INFO] [2/181] Fetching: https://www.syracuse.com/news/2025/04/syracuse-mayor-walsh-seeks-3rd-straight-tax-hike-its-the-respo
+2026-03-22 19:45:56,177 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/syracuse-mayor-walsh-seeks-3rd-straight-ta
+2026-03-22 19:45:56,467 [DEBUG]   Wayback hit: http://web.archive.org/web/20250725124336/https://www.syracuse.com/news/2025/04/
+2026-03-22 19:45:56,467 [INFO] [2/181] Trying Wayback Machine...
+2026-03-22 19:45:58,427 [INFO] [2/181] Relevant: Syracuse Mayor Walsh seeks 3rd straight tax hike: ‘It’s the responsible thing to
+2026-03-22 19:45:58,427 [DEBUG]   → Departments: Syracuse Fire Department, Syracuse Police Department, Department of Finance
+2026-03-22 19:45:58,428 [DEBUG]   → Keywords: common council, mayor, syracuse mayor
+2026-03-22 19:46:04,687 [INFO]   Dedup match: CTX-NEWS-2025-00002
+2026-03-22 19:46:04,689 [INFO]   Saved: CTX-NEWS-2025-00180 → CTX-NEWS-2025-00180.json
+2026-03-22 19:46:07,690 [INFO] [3/181] Fetching: https://www.syracuse.com/health/2025/04/upstate-medical-rules-out-biggest-fear-in-probe-of-tuesdays-
+2026-03-22 19:46:07,872 [DEBUG]   HTTP 403: https://www.syracuse.com/health/2025/04/upstate-medical-rules-out-biggest-fear-i
+2026-03-22 19:46:08,172 [INFO] [3/181] Blocked/empty: https://www.syracuse.com/health/2025/04/upstate-medical-rules-out-biggest-fear-i
+2026-03-22 19:46:11,182 [INFO] [4/181] Fetching: https://www.syracuse.com/opinion/2025/04/ny-should-expand-kendras-law-guest-opinion-by-dr-barry-perl
+2026-03-22 19:46:11,448 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2025/04/ny-should-expand-kendras-law-guest-opin
+2026-03-22 19:46:11,692 [INFO] [4/181] Blocked/empty: https://www.syracuse.com/opinion/2025/04/ny-should-expand-kendras-law-guest-opin
+2026-03-22 19:46:14,692 [INFO] [5/181] Fetching: https://www.syracuse.com/crime/2025/04/should-police-chase-stolen-cars-two-local-departments-set-opp
+2026-03-22 19:46:14,946 [DEBUG]   HTTP 403: https://www.syracuse.com/crime/2025/04/should-police-chase-stolen-cars-two-local
+2026-03-22 19:46:15,218 [INFO] [5/181] Blocked/empty: https://www.syracuse.com/crime/2025/04/should-police-chase-stolen-cars-two-local
+2026-03-22 19:46:18,219 [INFO] [6/181] Fetching: https://www.syracuse.com/news/2025/04/orange-basketball-legend-carmelo-anthony-launches-his-cannabis
+2026-03-22 19:46:18,378 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/orange-basketball-legend-carmelo-anthony-l
+2026-03-22 19:46:18,645 [DEBUG]   Wayback hit: http://web.archive.org/web/20251026233355/https://www.syracuse.com/news/2025/04/
+2026-03-22 19:46:18,646 [INFO] [6/181] Trying Wayback Machine...
+2026-03-22 19:46:20,166 [DEBUG] [6/181] Filtered (not relevant): Orange basketball legend Carmelo Anthony launches his cannabis brand in Syracuse
+2026-03-22 19:46:23,166 [INFO] [7/181] Fetching: https://www.syracuse.com/news/2025/04/syracuse-police-watchdogs-new-leader-abruptly-resigns-in-lates
+2026-03-22 19:46:23,376 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/syracuse-police-watchdogs-new-leader-abrup
+2026-03-22 19:46:23,666 [INFO] [7/181] Blocked/empty: https://www.syracuse.com/news/2025/04/syracuse-police-watchdogs-new-leader-abrup
+2026-03-22 19:46:26,666 [INFO] [8/181] Fetching: https://www.syracuse.com/news/2025/04/syracuse-police-chief-joe-cecile-will-retire-when-walshs-term-
+2026-03-22 19:46:26,862 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/syracuse-police-chief-joe-cecile-will-reti
+2026-03-22 19:46:27,120 [DEBUG]   Wayback hit: http://web.archive.org/web/20251205192239/https://www.syracuse.com/news/2025/04/
+2026-03-22 19:46:27,121 [INFO] [8/181] Trying Wayback Machine...
+2026-03-22 19:46:29,797 [INFO] [8/181] Relevant: Syracuse Police Chief Joe Cecile will retire when Walsh’s term ends this year
+2026-03-22 19:46:29,797 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-22 19:46:29,798 [DEBUG]   → Keywords: mayor, syracuse police
+2026-03-22 19:46:34,363 [WARNING]   Tag issue: Unknown tag 'succession-planning' not in taxonomy
+2026-03-22 19:46:34,371 [INFO]   Saved: CTX-NEWS-2025-00181 → CTX-NEWS-2025-00181.json
+2026-03-22 19:46:37,371 [INFO] [9/181] Fetching: https://www.syracuse.com/news/2025/04/syracuse-lawmaker-majok-pulls-proposal-for-panel-to-review-pol
+2026-03-22 19:46:37,553 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/syracuse-lawmaker-majok-pulls-proposal-for
+2026-03-22 19:46:37,842 [DEBUG]   Wayback hit: http://web.archive.org/web/20250723205900/https://www.syracuse.com/news/2025/04/
+2026-03-22 19:46:37,842 [INFO] [9/181] Trying Wayback Machine...
+2026-03-22 19:46:39,435 [INFO] [9/181] Relevant: Syracuse lawmaker Majok pulls proposal for panel to review police watchdog law
+2026-03-22 19:46:39,435 [DEBUG]   → Departments: Department of Human Resources, Syracuse Police Department, Law Department
+2026-03-22 19:46:39,435 [DEBUG]   → Keywords: common council, mayor, syracuse police
+2026-03-22 19:46:46,143 [WARNING]   Tag issue: Unknown tag 'procedural' not in taxonomy
+2026-03-22 19:46:46,152 [INFO]   Saved: CTX-NEWS-2025-00182 → CTX-NEWS-2025-00182.json
+2026-03-22 19:46:49,152 [INFO] [10/181] Fetching: https://www.syracuse.com/news/2025/04/syracuse-computing-its-greenhouse-gas-output-and-forming-clima
+2026-03-22 19:46:49,335 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/syracuse-computing-its-greenhouse-gas-outp
+2026-03-22 19:46:49,588 [DEBUG]   Wayback hit: http://web.archive.org/web/20250722061051/https://www.syracuse.com/news/2025/04/
+2026-03-22 19:46:49,589 [INFO] [10/181] Trying Wayback Machine...
+2026-03-22 19:46:51,164 [INFO] [10/181] Relevant: Syracuse computing its greenhouse gas output and forming climate action plan
+2026-03-22 19:46:51,164 [DEBUG]   → Keywords: mayor, municipal, syr.gov
+2026-03-22 19:46:56,385 [INFO]   Saved: CTX-NEWS-2025-00183 → CTX-NEWS-2025-00183.json
+2026-03-22 19:46:59,386 [INFO] [11/181] Fetching: https://www.syracuse.com/news/2025/04/syracuse-brings-back-police-officers-vs-firefighters-basketbal
+2026-03-22 19:46:59,561 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/04/syracuse-brings-back-police-officers-vs-fi
+2026-03-22 19:46:59,876 [DEBUG]   Wayback hit: http://web.archive.org/web/20250426013941/https://www.syracuse.com/news/2025/04/
+2026-03-22 19:46:59,876 [INFO] [11/181] Trying Wayback Machine...
+2026-03-22 19:47:01,304 [INFO] [11/181] Relevant: Syracuse brings back police officers vs. firefighters basketball game played for
+2026-03-22 19:47:01,304 [DEBUG]   → Entities: Michael Monds, Syracuse University
+2026-03-22 19:47:01,304 [DEBUG]   → Departments: Syracuse Fire Department, Syracuse Police Department
+2026-03-22 19:47:01,304 [DEBUG]   → Keywords: city hall, mayor, syracuse mayor
+2026-03-22 19:47:07,636 [WARNING]   Tag issue: Unknown tag 'community-engagement' not in taxonomy
+2026-03-22 19:47:07,636 [WARNING]   Tag issue: Unknown tag 'fundraising' not in taxonomy
+2026-03-22 19:47:07,642 [INFO]   Dedup match: CTX-NEWS-2025-00017
+2026-03-22 19:47:07,644 [INFO]   Saved: CTX-NEWS-2025-00184 → CTX-NEWS-2025-00184.json
+2026-03-22 19:47:10,644 [INFO] [12/181] Fetching: https://www.syracuse.com/politics/cny/2025/04/trump-administration-revokes-visas-of-3-syracuse-unive
+2026-03-22 19:47:11,045 [DEBUG]   HTTP 403: https://www.syracuse.com/politics/cny/2025/04/trump-administration-revokes-visas
+2026-03-22 19:47:14,597 [INFO] [12/181] Blocked/empty: https://www.syracuse.com/politics/cny/2025/04/trump-administration-revokes-visas
+2026-03-22 19:47:17,598 [INFO] [13/181] Fetching: https://www.syracuse.com/crime/2025/04/man-tased-by-syracuse-police-in-convenience-store-arrest-they
+2026-03-22 19:47:18,004 [DEBUG]   HTTP 403: https://www.syracuse.com/crime/2025/04/man-tased-by-syracuse-police-in-convenien
+2026-03-22 19:47:23,401 [INFO] [13/181] Blocked/empty: https://www.syracuse.com/crime/2025/04/man-tased-by-syracuse-police-in-convenien
+2026-03-22 19:47:26,402 [INFO] [14/181] Fetching: https://www.syracuse.com/business/2025/05/syracusecom-journalists-win-top-honors-at-syracuse-press-c
+2026-03-22 19:47:27,323 [DEBUG]   HTTP 403: https://www.syracuse.com/business/2025/05/syracusecom-journalists-win-top-honors
+2026-03-22 19:47:28,728 [DEBUG]   Wayback hit: http://web.archive.org/web/20250722135036/https://www.syracuse.com/business/2025
+2026-03-22 19:47:28,729 [INFO] [14/181] Trying Wayback Machine...
+2026-03-22 19:47:30,303 [DEBUG] [14/181] Filtered (not relevant): Syracuse.com wins 25 Syracuse Press Club awards, top honor for Marnie Eisenstadt
+2026-03-22 19:47:33,303 [INFO] [15/181] Fetching: https://www.syracuse.com/news/2025/05/van-robinson-long-time-syracuse-politician-and-advocate-for-ci
+2026-03-22 19:47:33,458 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/05/van-robinson-long-time-syracuse-politician
+2026-03-22 19:47:38,762 [INFO] [15/181] Blocked/empty: https://www.syracuse.com/news/2025/05/van-robinson-long-time-syracuse-politician
+2026-03-22 19:47:41,763 [INFO] [16/181] Fetching: https://www.syracuse.com/news/2025/05/draconian-and-dangerous-syracuse-mayor-blasts-councilors-for-1
+2026-03-22 19:47:41,975 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/05/draconian-and-dangerous-syracuse-mayor-bla
+2026-03-22 19:47:47,264 [INFO] [16/181] Blocked/empty: https://www.syracuse.com/news/2025/05/draconian-and-dangerous-syracuse-mayor-bla
+2026-03-22 19:47:50,265 [INFO] [17/181] Fetching: https://www.syracuse.com/opinion/2025/05/failure-to-address-syracuse-assessment-disparities-disconce
+2026-03-22 19:47:50,736 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2025/05/failure-to-address-syracuse-assessment-
+2026-03-22 19:47:56,169 [INFO] [17/181] Blocked/empty: https://www.syracuse.com/opinion/2025/05/failure-to-address-syracuse-assessment-
+2026-03-22 19:47:59,170 [INFO] [18/181] Fetching: https://www.syracuse.com/news/2025/05/years-later-jury-to-decide-was-officer-right-or-wrong-to-fatal
+2026-03-22 19:47:59,545 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/05/years-later-jury-to-decide-was-officer-rig
+2026-03-22 19:48:01,979 [DEBUG]   Wayback hit: http://web.archive.org/web/20251119210726/https://www.syracuse.com/news/2025/05/
+2026-03-22 19:48:01,979 [INFO] [18/181] Trying Wayback Machine...
+2026-03-22 19:48:03,297 [INFO] [18/181] Relevant: Years later, jury to decide whether Syracuse officer was right or wrong to fatal
+2026-03-22 19:48:03,297 [DEBUG]   → Departments: Syracuse Police Department, Law Department
+2026-03-22 19:48:03,297 [DEBUG]   → Keywords: syracuse police
+2026-03-22 19:48:10,412 [WARNING]   Tag issue: Unknown tag 'litigation' not in taxonomy
+2026-03-22 19:48:10,421 [INFO]   Saved: CTX-NEWS-2025-00185 → CTX-NEWS-2025-00185.json
+2026-03-22 19:48:13,422 [INFO] [19/181] Fetching: https://www.syracuse.com/opinion/2025/05/syracuse-common-council-lacks-courage-to-fix-unfair-assessm
+2026-03-22 19:48:13,799 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2025/05/syracuse-common-council-lacks-courage-t
+2026-03-22 19:48:19,417 [INFO] [19/181] Blocked/empty: https://www.syracuse.com/opinion/2025/05/syracuse-common-council-lacks-courage-t
+2026-03-22 19:48:22,417 [INFO] [20/181] Fetching: https://www.syracuse.com/news/2025/05/mayor-walsh-vetoes-most-of-syracuse-councils-budget-cuts-inclu
+2026-03-22 19:48:23,239 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/05/mayor-walsh-vetoes-most-of-syracuse-counci
+2026-03-22 19:48:24,230 [DEBUG]   Wayback hit: http://web.archive.org/web/20250709193058/https://www.syracuse.com/news/2025/05/
+2026-03-22 19:48:24,230 [INFO] [20/181] Trying Wayback Machine...
+2026-03-22 19:48:25,801 [INFO] [20/181] Relevant: Mayor Walsh vetoes most of Syracuse council’s budget cuts, including police, fir
+2026-03-22 19:48:25,801 [DEBUG]   → Entities: Bonadio Group
+2026-03-22 19:48:25,801 [DEBUG]   → Departments: Department of Public Works, Department of Parks, Recreation and Youth Programs, Syracuse Fire Department
+2026-03-22 19:48:25,801 [DEBUG]   → Keywords: common council, mayor, syracuse mayor
+2026-03-22 19:48:34,275 [INFO]   Dedup match: CTX-NEWS-2025-00039
+2026-03-22 19:48:34,277 [INFO]   Saved: CTX-NEWS-2025-00186 → CTX-NEWS-2025-00186.json
+2026-03-22 19:48:37,278 [INFO] [21/181] Fetching: https://www.syracuse.com/news/2025/05/a-cops-trial-is-over-but-syracuse-officials-still-cant-agree-s
+2026-03-22 19:48:37,566 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/05/a-cops-trial-is-over-but-syracuse-official
+2026-03-22 19:48:42,967 [INFO] [21/181] Blocked/empty: https://www.syracuse.com/news/2025/05/a-cops-trial-is-over-but-syracuse-official
+2026-03-22 19:48:45,968 [INFO] [22/181] Fetching: https://www.syracuse.com/news/2025/05/syracuse-lawmakers-end-tumultuous-budget-process-overriding-al
+2026-03-22 19:48:46,223 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/05/syracuse-lawmakers-end-tumultuous-budget-p
+2026-03-22 19:48:47,573 [DEBUG]   Wayback hit: http://web.archive.org/web/20260129165315/https://www.syracuse.com/news/2025/05/
+2026-03-22 19:48:47,573 [INFO] [22/181] Trying Wayback Machine...
+2026-03-22 19:48:49,027 [INFO] [22/181] Relevant: Syracuse lawmakers end tumultuous budget process, overriding all of mayor’s veto
+2026-03-22 19:48:49,027 [DEBUG]   → Departments: Department of Public Works, Department of Parks, Recreation and Youth Programs, Syracuse Fire Department
+2026-03-22 19:48:49,027 [DEBUG]   → Keywords: common council, mayor, syracuse mayor
+2026-03-22 19:48:56,086 [INFO]   Dedup match: CTX-NEWS-2025-00050
+2026-03-22 19:48:56,088 [INFO]   Saved: CTX-NEWS-2025-00187 → CTX-NEWS-2025-00187.json
+2026-03-22 19:48:59,089 [INFO] [23/181] Fetching: https://www.syracuse.com/galleries/DJERH2SN7BGODIN7FW6P75IW4Y/
+2026-03-22 19:48:59,612 [DEBUG]   HTTP 403: https://www.syracuse.com/galleries/DJERH2SN7BGODIN7FW6P75IW4Y/
+2026-03-22 19:49:01,604 [INFO] [23/181] Blocked/empty: https://www.syracuse.com/galleries/DJERH2SN7BGODIN7FW6P75IW4Y/
+2026-03-22 19:49:04,606 [INFO] [24/181] Fetching: https://www.syracuse.com/news/2025/05/syracuse-finest-no-match-for-the-bravest-in-police-vs-fire-bas
+2026-03-22 19:49:04,808 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/05/syracuse-finest-no-match-for-the-bravest-i
+2026-03-22 19:49:10,206 [INFO] [24/181] Blocked/empty: https://www.syracuse.com/news/2025/05/syracuse-finest-no-match-for-the-bravest-i
+2026-03-22 19:49:13,206 [INFO] [25/181] Fetching: https://www.syracuse.com/politics/2025/05/syracuse-other-upstate-ny-cities-on-trump-administration-l
+2026-03-22 19:49:13,922 [DEBUG]   HTTP 403: https://www.syracuse.com/politics/2025/05/syracuse-other-upstate-ny-cities-on-tr
+2026-03-22 19:49:19,421 [INFO] [25/181] Blocked/empty: https://www.syracuse.com/politics/2025/05/syracuse-other-upstate-ny-cities-on-tr
+2026-03-22 19:49:22,422 [INFO] [26/181] Fetching: https://www.syracuse.com/news/2025/05/syracuse-university-appoints-coast-guard-veteran-as-new-chief-
+2026-03-22 19:49:22,734 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/05/syracuse-university-appoints-coast-guard-v
+2026-03-22 19:49:28,227 [INFO] [26/181] Blocked/empty: https://www.syracuse.com/news/2025/05/syracuse-university-appoints-coast-guard-v
+2026-03-22 19:49:31,228 [INFO] [27/181] Fetching: https://www.syracuse.com/news/2025/05/a-blast-heroic-rescues-painful-recoveries-a-home-explosion-des
+2026-03-22 19:49:31,539 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/05/a-blast-heroic-rescues-painful-recoveries-
+2026-03-22 19:49:33,449 [DEBUG]   Wayback hit: http://web.archive.org/web/20250725020021/https://www.syracuse.com/news/2025/05/
+2026-03-22 19:49:33,450 [INFO] [27/181] Trying Wayback Machine...
+2026-03-22 19:49:35,323 [DEBUG] [27/181] Filtered (not relevant): A blast, heroic rescues, painful recoveries: A home explosion destroys everythin
+2026-03-22 19:49:38,324 [INFO] [28/181] Fetching: https://www.syracuse.com/news/2025/05/jury-rules-syracuse-officer-used-excessive-force-in-fathers-da
+2026-03-22 19:49:39,012 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/05/jury-rules-syracuse-officer-used-excessive
+2026-03-22 19:49:44,407 [INFO] [28/181] Blocked/empty: https://www.syracuse.com/news/2025/05/jury-rules-syracuse-officer-used-excessive
+2026-03-22 19:49:47,408 [INFO] [29/181] Fetching: https://www.syracuse.com/politics/cny/2025/05/house-gops-big-beautiful-bill-cancels-millions-for-syr
+2026-03-22 19:49:48,739 [DEBUG]   HTTP 403: https://www.syracuse.com/politics/cny/2025/05/house-gops-big-beautiful-bill-canc
+2026-03-22 19:49:54,237 [INFO] [29/181] Blocked/empty: https://www.syracuse.com/politics/cny/2025/05/house-gops-big-beautiful-bill-canc
+2026-03-22 19:49:57,238 [INFO] [30/181] Fetching: https://www.syracuse.com/opinion/2025/05/taking-back-30-million-i-81-neighborhood-grant-is-morally-i
+2026-03-22 19:49:57,559 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2025/05/taking-back-30-million-i-81-neighborhoo
+2026-03-22 19:50:03,043 [INFO] [30/181] Blocked/empty: https://www.syracuse.com/opinion/2025/05/taking-back-30-million-i-81-neighborhoo
+2026-03-22 19:50:04,043 [INFO] [31/181] Fetching: https://downtownsyracuse.com/get-around-and-park
+2026-03-22 19:50:07,760 [INFO] [31/181] Relevant: Plan a Visit
+2026-03-22 19:50:07,760 [DEBUG]   → Entities: Centro
+2026-03-22 19:50:12,394 [INFO]   Saved: CTX-NEWS-2022-00001 → CTX-NEWS-2022-00001.json
+2026-03-22 19:50:13,395 [INFO] [32/181] Fetching: https://www.syracuse.com/news/2025/06/days-after-budget-fight-moodys-says-syracuses-creditworthiness
+2026-03-22 19:50:13,747 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/06/days-after-budget-fight-moodys-says-syracu
+2026-03-22 19:50:19,124 [INFO] [32/181] Blocked/empty: https://www.syracuse.com/news/2025/06/days-after-budget-fight-moodys-says-syracu
+2026-03-22 19:50:22,125 [INFO] [33/181] Fetching: https://www.syracuse.com/politics/cny/2025/05/syracuse-mayor-walsh-ready-to-accept-some-budget-cuts-
+2026-03-22 19:50:22,438 [DEBUG]   HTTP 403: https://www.syracuse.com/politics/cny/2025/05/syracuse-mayor-walsh-ready-to-acce
+2026-03-22 19:50:27,927 [INFO] [33/181] Blocked/empty: https://www.syracuse.com/politics/cny/2025/05/syracuse-mayor-walsh-ready-to-acce
+2026-03-22 19:50:30,928 [INFO] [34/181] Fetching: https://www.syracuse.com/opinion/2025/06/fence-doesnt-solve-problems-of-homeless-population-it-reloc
+2026-03-22 19:50:31,655 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2025/06/fence-doesnt-solve-problems-of-homeless
+2026-03-22 19:50:36,842 [DEBUG]   Wayback hit: http://web.archive.org/web/20250615001559/https://www.syracuse.com/opinion/2025/
+2026-03-22 19:50:36,843 [INFO] [34/181] Trying Wayback Machine...
+2026-03-22 19:50:38,276 [INFO] [34/181] Relevant: Fence doesn’t solve problems of homeless population; it relocates them (Your Let
+2026-03-22 19:50:38,277 [DEBUG]   → Keywords: mayor, city of syracuse
+2026-03-22 19:50:44,728 [WARNING]   Tag issue: Unknown tag 'homelessness' not in taxonomy
+2026-03-22 19:50:44,728 [WARNING]   Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-03-22 19:50:44,752 [INFO]   Saved: CTX-NEWS-2025-00188 → CTX-NEWS-2025-00188.json
+2026-03-22 19:50:47,753 [INFO] [35/181] Fetching: https://www.syracuse.com/news/2025/06/a-fence-or-a-cage-syracuse-pens-off-street-to-contain-trouble-
+2026-03-22 19:50:47,936 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/06/a-fence-or-a-cage-syracuse-pens-off-street
+2026-03-22 19:50:53,526 [INFO] [35/181] Blocked/empty: https://www.syracuse.com/news/2025/06/a-fence-or-a-cage-syracuse-pens-off-street
+2026-03-22 19:50:56,527 [INFO] [36/181] Fetching: https://www.syracuse.com/news/2025/06/syracuse-has-a-buyer-for-shuttered-fire-station-but-councilors
+2026-03-22 19:51:16,534 [DEBUG]   Navigation error: https://www.syracuse.com/news/2025/06/syracuse-has-a-buyer-for-shuttered-fire-st — Page.goto: Timeout 20000ms exceeded.
+Call log:
+  - navigating to "https://www.syracuse.com/news/2025/06/syracuse-has-a-buyer-for-shuttered-fire-station-but-councilors-have-questions.html", waiting until "domcontentloaded"
+
+2026-03-22 19:51:21,890 [INFO] [36/181] Blocked/empty: https://www.syracuse.com/news/2025/06/syracuse-has-a-buyer-for-shuttered-fire-st
+2026-03-22 19:51:24,890 [INFO] [37/181] Fetching: https://www.syracuse.com/news/2025/06/did-syracuse-get-all-the-it-work-it-paid-millions-for-outside-
+2026-03-22 19:51:35,164 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/06/did-syracuse-get-all-the-it-work-it-paid-m
+2026-03-22 19:51:39,607 [INFO] [37/181] Blocked/empty: https://www.syracuse.com/news/2025/06/did-syracuse-get-all-the-it-work-it-paid-m
+2026-03-22 19:51:42,607 [INFO] [38/181] Fetching: https://www.syracuse.com/politics/cny/2025/06/house-gop-bill-punishes-syracuse-other-sanctuary-citie
+2026-03-22 19:51:42,824 [DEBUG]   HTTP 403: https://www.syracuse.com/politics/cny/2025/06/house-gop-bill-punishes-syracuse-o
+2026-03-22 19:51:44,111 [DEBUG]   Wayback hit: http://web.archive.org/web/20250727082435/https://www.syracuse.com/politics/cny/
+2026-03-22 19:51:44,111 [INFO] [38/181] Trying Wayback Machine...
+2026-03-22 19:51:45,862 [DEBUG] [38/181] Filtered (not relevant): House GOP bill punishes Syracuse, other ‘sanctuary cities’ by closing federal sm
+2026-03-22 19:51:46,863 [INFO] [39/181] Fetching: http://www.downtownsyracuse.com/get-around-and-park.
+2026-03-22 19:51:48,256 [DEBUG]   HTTP 404: http://www.downtownsyracuse.com/get-around-and-park.
+2026-03-22 19:51:48,719 [INFO] [39/181] Blocked/empty: http://www.downtownsyracuse.com/get-around-and-park.
+2026-03-22 19:51:49,720 [INFO] [40/181] Fetching: https://www.syracuse.com/news/2025/06/the-city-of-syracuse-wants-to-sell-a-prime-site-worth-millions
+2026-03-22 19:51:50,006 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/06/the-city-of-syracuse-wants-to-sell-a-prime
+2026-03-22 19:51:55,376 [INFO] [40/181] Blocked/empty: https://www.syracuse.com/news/2025/06/the-city-of-syracuse-wants-to-sell-a-prime
+2026-03-22 19:51:58,377 [INFO] [41/181] Fetching: https://www.syracuse.com/news/2025/06/city-of-syracuse-wins-court-order-prohibiting-illegal-cannabis
+2026-03-22 19:51:58,578 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/06/city-of-syracuse-wins-court-order-prohibit
+2026-03-22 19:52:03,977 [INFO] [41/181] Blocked/empty: https://www.syracuse.com/news/2025/06/city-of-syracuse-wins-court-order-prohibit
+2026-03-22 19:52:06,977 [INFO] [42/181] Fetching: https://www.syracuse.com/news/2025/06/pat-hogan-im-not-going-anywhere-despite-overwhelming-syracuse-
+2026-03-22 19:52:07,295 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/06/pat-hogan-im-not-going-anywhere-despite-ov
+2026-03-22 19:52:08,177 [DEBUG]   Wayback hit: http://web.archive.org/web/20260119063843/https://www.syracuse.com/news/2025/06/
+2026-03-22 19:52:08,178 [INFO] [42/181] Trying Wayback Machine...
+2026-03-22 19:52:09,630 [INFO] [42/181] Relevant: Pat Hogan: ‘I’m not going anywhere’ despite overwhelming Syracuse mayoral primar
+2026-03-22 19:52:09,631 [DEBUG]   → Keywords: common council, mayor, syracuse mayor
+2026-03-22 19:52:15,456 [WARNING]   Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-03-22 19:52:15,479 [INFO]   Saved: CTX-NEWS-2025-00189 → CTX-NEWS-2025-00189.json
+2026-03-22 19:52:18,480 [INFO] [43/181] Fetching: https://www.syracuse.com/crime/2025/06/police-presence-will-increase-at-syracuse-pools-after-fatal-s
+2026-03-22 19:52:18,763 [DEBUG]   HTTP 403: https://www.syracuse.com/crime/2025/06/police-presence-will-increase-at-syracuse
+2026-03-22 19:52:24,254 [INFO] [43/181] Blocked/empty: https://www.syracuse.com/crime/2025/06/police-presence-will-increase-at-syracuse
+2026-03-22 19:52:25,255 [INFO] [44/181] Fetching: https://www.downtownsyracuse.com/get-around-and-park
+2026-03-22 19:52:28,312 [INFO] [44/181] Relevant: Plan a Visit
+2026-03-22 19:52:28,313 [DEBUG]   → Entities: Centro
+2026-03-22 19:52:32,499 [WARNING]   Tag issue: Unknown tag 'public-transportation' not in taxonomy
+2026-03-22 19:52:32,540 [INFO]   Saved: CTX-NEWS-2022-00002 → CTX-NEWS-2022-00002.json
+2026-03-22 19:52:33,541 [INFO] [45/181] Fetching: https://www.syracuse.com/news/2025/06/onondaga-county-plans-to-open-a-downtown-drop-in-center-for-ci
+2026-03-22 19:52:33,956 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/06/onondaga-county-plans-to-open-a-downtown-d
+2026-03-22 19:52:34,822 [DEBUG]   Wayback hit: http://web.archive.org/web/20250701103145/https://www.syracuse.com/news/2025/06/
+2026-03-22 19:52:34,822 [INFO] [45/181] Trying Wayback Machine...
+2026-03-22 19:52:36,895 [DEBUG] [45/181] Filtered (not relevant): Onondaga County plans to open a downtown drop-in center for city’s homeless
+2026-03-22 19:52:39,897 [INFO] [46/181] Fetching: https://www.syracuse.com/politics/cny/2025/07/senate-oks-trumps-plan-to-cancel-millions-for-new-syra
+2026-03-22 19:52:40,167 [DEBUG]   HTTP 403: https://www.syracuse.com/politics/cny/2025/07/senate-oks-trumps-plan-to-cancel-m
+2026-03-22 19:52:42,685 [INFO] [46/181] Blocked/empty: https://www.syracuse.com/politics/cny/2025/07/senate-oks-trumps-plan-to-cancel-m
+2026-03-22 19:52:45,686 [INFO] [47/181] Fetching: https://www.syracuse.com/news/2025/07/surprise-move-leaves-syracuse-housing-authority-with-new-role-
+2026-03-22 19:52:46,000 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/07/surprise-move-leaves-syracuse-housing-auth
+2026-03-22 19:52:51,304 [INFO] [47/181] Blocked/empty: https://www.syracuse.com/news/2025/07/surprise-move-leaves-syracuse-housing-auth
+2026-03-22 19:52:54,305 [INFO] [48/181] Fetching: https://www.syracuse.com/politics/2025/05/syracuse-other-upstate-ny-cities-on-trump-administration-l
+2026-03-22 19:52:54,510 [DEBUG]   HTTP 403: https://www.syracuse.com/politics/2025/05/syracuse-other-upstate-ny-cities-on-tr
+2026-03-22 19:52:56,542 [DEBUG]   Wayback hit: http://web.archive.org/web/20260119081557/https://www.syracuse.com/politics/2025
+2026-03-22 19:52:56,542 [INFO] [48/181] Trying Wayback Machine...
+2026-03-22 19:52:58,071 [INFO] [48/181] Relevant: Syracuse, other Upstate NY cities on Trump administration list of ‘sanctuary jur
+2026-03-22 19:52:58,071 [DEBUG]   → Departments: Syracuse Police Department, Law Department
+2026-03-22 19:52:58,071 [DEBUG]   → Keywords: mayor, city of syracuse, syracuse police
+2026-03-22 19:53:04,438 [INFO]   Saved: CTX-NEWS-2025-00190 → CTX-NEWS-2025-00190.json
+2026-03-22 19:53:07,438 [INFO] [49/181] Fetching: https://www.syracuse.com/news/2025/07/syracuse-officials-challenge-police-unions-attack-on-armory-sq
+2026-03-22 19:53:07,684 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/07/syracuse-officials-challenge-police-unions
+2026-03-22 19:53:08,488 [DEBUG]   Wayback hit: http://web.archive.org/web/20250722224751/https://www.syracuse.com/news/2025/07/
+2026-03-22 19:53:08,488 [INFO] [49/181] Trying Wayback Machine...
+2026-03-22 19:53:10,060 [INFO] [49/181] Relevant: Syracuse officials challenge police union’s attack on Armory Square’s safety
+2026-03-22 19:53:10,060 [DEBUG]   → Departments: Syracuse Police Department, Law Department
+2026-03-22 19:53:10,061 [DEBUG]   → Keywords: city hall, mayor, syracuse police
+2026-03-22 19:53:17,434 [INFO]   Dedup match: CTX-NEWS-2025-00073
+2026-03-22 19:53:17,438 [INFO]   Saved: CTX-NEWS-2025-00191 → CTX-NEWS-2025-00191.json
+2026-03-22 19:53:20,439 [INFO] [50/181] Fetching: https://www.syracuse.com/news/2025/07/syracuses-cheap-municipal-internet-service-now-available-in-mo
+2026-03-22 19:53:20,814 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/07/syracuses-cheap-municipal-internet-service
+2026-03-22 19:53:26,162 [INFO] [50/181] Blocked/empty: https://www.syracuse.com/news/2025/07/syracuses-cheap-municipal-internet-service
+2026-03-22 19:53:29,163 [INFO] [51/181] Fetching: https://www.syracuse.com/crime/2025/07/teen-charged-in-killing-at-syracuse-pool-was-on-probation-at-
+2026-03-22 19:53:29,518 [DEBUG]   HTTP 403: https://www.syracuse.com/crime/2025/07/teen-charged-in-killing-at-syracuse-pool-
+2026-03-22 19:53:34,909 [INFO] [51/181] Blocked/empty: https://www.syracuse.com/crime/2025/07/teen-charged-in-killing-at-syracuse-pool-
+2026-03-22 19:53:37,910 [INFO] [52/181] Fetching: https://www.syracuse.com/outdoors/2025/07/why-are-so-many-dead-fish-washing-ashore-on-skaneateles-la
+2026-03-22 19:53:38,228 [DEBUG]   HTTP 403: https://www.syracuse.com/outdoors/2025/07/why-are-so-many-dead-fish-washing-asho
+2026-03-22 19:53:43,611 [INFO] [52/181] Blocked/empty: https://www.syracuse.com/outdoors/2025/07/why-are-so-many-dead-fish-washing-asho
+2026-03-22 19:53:46,613 [INFO] [53/181] Fetching: https://www.syracuse.com/news/2025/07/crews-will-start-removing-dozens-of-trees-this-month-at-histor
+2026-03-22 19:53:46,930 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/07/crews-will-start-removing-dozens-of-trees-
+2026-03-22 19:53:52,270 [INFO] [53/181] Blocked/empty: https://www.syracuse.com/news/2025/07/crews-will-start-removing-dozens-of-trees-
+2026-03-22 19:53:55,271 [INFO] [54/181] Fetching: https://www.syracuse.com/news/2025/07/family-of-man-fatally-shot-by-syracuse-officer-in-fathers-day-
+2026-03-22 19:53:55,427 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/07/family-of-man-fatally-shot-by-syracuse-off
+2026-03-22 19:54:00,917 [INFO] [54/181] Blocked/empty: https://www.syracuse.com/news/2025/07/family-of-man-fatally-shot-by-syracuse-off
+2026-03-22 19:54:03,918 [INFO] [55/181] Fetching: https://www.syracuse.com/news/2025/07/see-syracuses-25-most-dangerous-intersections-and-how-it-plans
+2026-03-22 19:54:04,437 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/07/see-syracuses-25-most-dangerous-intersecti
+2026-03-22 19:54:05,060 [DEBUG]   Wayback hit: http://web.archive.org/web/20251028222356/https://www.syracuse.com/news/2025/07/
+2026-03-22 19:54:05,060 [INFO] [55/181] Trying Wayback Machine...
+2026-03-22 19:54:06,376 [INFO] [55/181] Relevant: See Syracuse’s 25 most dangerous intersections (and how the city plans to make t
+2026-03-22 19:54:06,377 [DEBUG]   → Departments: Department of Public Works
+2026-03-22 19:54:06,377 [DEBUG]   → Keywords: common council, mayor, syr.gov
+2026-03-22 19:54:12,483 [INFO]   Saved: CTX-NEWS-2025-00192 → CTX-NEWS-2025-00192.json
+2026-03-22 19:54:15,484 [INFO] [56/181] Fetching: https://www.syracuse.com/news/2025/07/its-a-race-to-the-finish-but-syracuse-steam-school-will-open-i
+2026-03-22 19:54:15,910 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/07/its-a-race-to-the-finish-but-syracuse-stea
+2026-03-22 19:54:21,398 [INFO] [56/181] Blocked/empty: https://www.syracuse.com/news/2025/07/its-a-race-to-the-finish-but-syracuse-stea
+2026-03-22 19:54:24,398 [INFO] [57/181] Fetching: https://www.syracuse.com/news/2025/07/project-connects-old-trails-to-form-1-mile-loop-in-historic-sy
+2026-03-22 19:54:24,712 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/07/project-connects-old-trails-to-form-1-mile
+2026-03-22 19:54:30,204 [INFO] [57/181] Blocked/empty: https://www.syracuse.com/news/2025/07/project-connects-old-trails-to-form-1-mile
+2026-03-22 19:54:33,205 [INFO] [58/181] Fetching: https://www.syracuse.com/news/2025/07/mets-play-billy-joels-we-didnt-start-the-fire-as-brush-burns-t
+2026-03-22 19:54:33,523 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/07/mets-play-billy-joels-we-didnt-start-the-f
+2026-03-22 19:54:39,010 [INFO] [58/181] Blocked/empty: https://www.syracuse.com/news/2025/07/mets-play-billy-joels-we-didnt-start-the-f
+2026-03-22 19:54:42,012 [INFO] [59/181] Fetching: https://www.syracuse.com/living/2025/07/we-won-syracuse-will-celebrate-golden-snowball-victory-with-
+2026-03-22 19:54:42,443 [DEBUG]   HTTP 403: https://www.syracuse.com/living/2025/07/we-won-syracuse-will-celebrate-golden-sn
+2026-03-22 19:54:47,817 [INFO] [59/181] Blocked/empty: https://www.syracuse.com/living/2025/07/we-won-syracuse-will-celebrate-golden-sn
+2026-03-22 19:54:50,818 [INFO] [60/181] Fetching: https://www.syracuse.com/kirst/2012/08/post_310.html
+2026-03-22 19:54:51,542 [DEBUG]   HTTP 403: https://www.syracuse.com/kirst/2012/08/post_310.html
+2026-03-22 19:54:52,731 [DEBUG]   Wayback hit: http://web.archive.org/web/20251028125147/https://www.syracuse.com/kirst/2012/08
+2026-03-22 19:54:52,731 [INFO] [60/181] Trying Wayback Machine...
+2026-03-22 19:54:55,511 [DEBUG] [60/181] Filtered (not relevant): In Syracuse: A great architect, a lost design and a corner born anew?
+2026-03-22 19:54:58,511 [INFO] [61/181] Fetching: https://www.syracuse.com/news/2025/07/neighborhood-pushback-leads-syracuse-county-to-pause-drop-in-c
+2026-03-22 19:54:59,121 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/07/neighborhood-pushback-leads-syracuse-count
+2026-03-22 19:55:04,405 [DEBUG]   Wayback hit: http://web.archive.org/web/20250801233151/https://www.syracuse.com/news/2025/07/
+2026-03-22 19:55:04,405 [INFO] [61/181] Trying Wayback Machine...
+2026-03-22 19:55:06,045 [INFO] [61/181] Relevant: Neighborhood pushback leads Syracuse, county to pause drop-in center for homeles
+2026-03-22 19:55:06,045 [DEBUG]   → Entities: Michael Collins
+2026-03-22 19:55:06,045 [DEBUG]   → Departments: Syracuse Police Department, Department of Permits and Development
+2026-03-22 19:55:06,045 [DEBUG]   → Keywords: city of syracuse, syracuse police, city officials
+2026-03-22 19:55:14,047 [WARNING]   Tag issue: Unknown tag 'homelessness' not in taxonomy
+2026-03-22 19:55:14,047 [WARNING]   Tag issue: Unknown tag 'community-engagement' not in taxonomy
+2026-03-22 19:55:14,084 [INFO]   Saved: CTX-NEWS-2025-00193 → CTX-NEWS-2025-00193.json
+2026-03-22 19:55:17,085 [INFO] [62/181] Fetching: https://www.syracuse.com/state/2025/07/trump-administration-sues-new-york-city-over-sanctuary-city-p
+2026-03-22 19:55:17,378 [DEBUG]   HTTP 403: https://www.syracuse.com/state/2025/07/trump-administration-sues-new-york-city-o
+2026-03-22 19:55:22,837 [INFO] [62/181] Blocked/empty: https://www.syracuse.com/state/2025/07/trump-administration-sues-new-york-city-o
+2026-03-22 19:55:25,837 [INFO] [63/181] Fetching: https://www.syracuse.com/news/2025/07/syracuse-reports-significant-greenhouse-gas-reductions-over-pa
+2026-03-22 19:55:26,156 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/07/syracuse-reports-significant-greenhouse-ga
+2026-03-22 19:55:29,078 [DEBUG]   Wayback hit: http://web.archive.org/web/20250802001100/https://www.syracuse.com/news/2025/07/
+2026-03-22 19:55:29,078 [INFO] [63/181] Trying Wayback Machine...
+2026-03-22 19:55:37,099 [INFO] [63/181] Relevant: Syracuse reports ‘significant’ greenhouse gas reductions over past 15 years
+2026-03-22 19:55:37,099 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-22 19:55:37,099 [DEBUG]   → Keywords: municipal, city of syracuse, syracuse police
+2026-03-22 19:55:41,603 [INFO]   Saved: CTX-NEWS-2025-00194 → CTX-NEWS-2025-00194.json
+2026-03-22 19:55:44,603 [INFO] [64/181] Fetching: https://www.syracuse.com/news/2025/07/is-armory-square-really-so-chaotic-we-spent-4-hours-there-frid
+2026-03-22 19:55:44,800 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/07/is-armory-square-really-so-chaotic-we-spen
+2026-03-22 19:55:45,467 [INFO] [64/181] Blocked/empty: https://www.syracuse.com/news/2025/07/is-armory-square-really-so-chaotic-we-spen
+2026-03-22 19:55:46,468 [INFO] [65/181] Fetching: https://downtownsyracuse.com/events/signature/syracuse-arts-crafts-festival
+2026-03-22 19:55:49,695 [DEBUG] [65/181] Filtered (not relevant): Syracuse Arts & Crafts Festival
+2026-03-22 19:55:50,696 [INFO] [66/181] Fetching: https://www.syracuse.com/news/2025/07/syracuse-lawmakers-consider-making-it-illegal-to-block-a-bicyc
+2026-03-22 19:55:50,985 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/07/syracuse-lawmakers-consider-making-it-ille
+2026-03-22 19:55:51,918 [DEBUG]   Wayback hit: http://web.archive.org/web/20250725162024/https://www.syracuse.com/news/2025/07/
+2026-03-22 19:55:51,918 [INFO] [66/181] Trying Wayback Machine...
+2026-03-22 19:55:53,961 [INFO] [66/181] Relevant: Syracuse lawmakers consider making it illegal to block a bicycle lane
+2026-03-22 19:55:53,961 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-22 19:55:53,961 [DEBUG]   → Keywords: city auditor, syracuse police, code violation
+2026-03-22 19:55:58,296 [INFO]   Saved: CTX-NEWS-2025-00195 → CTX-NEWS-2025-00195.json
+2026-03-22 19:56:01,297 [INFO] [67/181] Fetching: https://www.syracuse.com/politics/2025/07/trump-targets-sanctuary-cities-were-going-to-flood-the-zon
+2026-03-22 19:56:01,502 [DEBUG]   HTTP 403: https://www.syracuse.com/politics/2025/07/trump-targets-sanctuary-cities-were-go
+2026-03-22 19:56:06,975 [INFO] [67/181] Blocked/empty: https://www.syracuse.com/politics/2025/07/trump-targets-sanctuary-cities-were-go
+2026-03-22 19:56:09,976 [INFO] [68/181] Fetching: https://www.syracuse.com/news/2025/07/syracuse-police-chief-hopes-union-leader-cools-off-after-dange
+2026-03-22 19:56:10,293 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/07/syracuse-police-chief-hopes-union-leader-c
+2026-03-22 19:56:15,452 [DEBUG]   Wayback hit: http://web.archive.org/web/20251025211239/https://www.syracuse.com/news/2025/07/
+2026-03-22 19:56:15,453 [INFO] [68/181] Trying Wayback Machine...
+2026-03-22 19:56:16,728 [INFO] [68/181] Relevant: Syracuse police chief hopes union leader ‘cools off’ after ‘dangerous’ online co
+2026-03-22 19:56:16,729 [DEBUG]   → Departments: Syracuse Police Department, Department of Finance, Department of Information Technology
+2026-03-22 19:56:16,729 [DEBUG]   → Keywords: syracuse police
+2026-03-22 19:56:21,749 [INFO]   Saved: CTX-NEWS-2025-00196 → CTX-NEWS-2025-00196.json
+2026-03-22 19:56:24,750 [INFO] [69/181] Fetching: https://www.syracuse.com/news/2025/07/vacant-syracuse-houses-burn-down-at-alarming-rate-can-city-pre
+2026-03-22 19:56:24,907 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/07/vacant-syracuse-houses-burn-down-at-alarmi
+2026-03-22 19:56:30,322 [INFO] [69/181] Blocked/empty: https://www.syracuse.com/news/2025/07/vacant-syracuse-houses-burn-down-at-alarmi
+2026-03-22 19:56:33,322 [INFO] [70/181] Fetching: https://www.syracuse.com/news/2025/07/syracuse-contractor-donates-40000-ac-overhaul-so-mary-nelsons-
+2026-03-22 19:56:33,483 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/07/syracuse-contractor-donates-40000-ac-overh
+2026-03-22 19:56:34,109 [DEBUG]   Wayback hit: http://web.archive.org/web/20250805121600/https://www.syracuse.com/news/2025/07/
+2026-03-22 19:56:34,109 [INFO] [70/181] Trying Wayback Machine...
+2026-03-22 19:56:36,574 [DEBUG] [70/181] Filtered (not relevant): Syracuse contractor donates $40,000 A/C overhaul so Mary Nelson’s center can reo
+2026-03-22 19:56:39,574 [INFO] [71/181] Fetching: https://www.syracuse.com/news/2025/07/mary-nelson-cut-off-from-youth-food-program-after-ny-inspectio
+2026-03-22 19:56:39,733 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/07/mary-nelson-cut-off-from-youth-food-progra
+2026-03-22 19:56:41,481 [INFO] [71/181] Blocked/empty: https://www.syracuse.com/news/2025/07/mary-nelson-cut-off-from-youth-food-progra
+2026-03-22 19:56:44,482 [INFO] [72/181] Fetching: https://www.syracuse.com/news/2025/07/75-apartments-proposed-for-historic-syracuse-building-near-i-8
+2026-03-22 19:56:44,650 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/07/75-apartments-proposed-for-historic-syracu
+2026-03-22 19:56:49,368 [DEBUG]   Wayback hit: http://web.archive.org/web/20250802100647/https://www.syracuse.com/news/2025/07/
+2026-03-22 19:56:49,368 [INFO] [72/181] Trying Wayback Machine...
+2026-03-22 19:56:52,269 [DEBUG] [72/181] Filtered (not relevant): 75 apartments proposed for historic Syracuse building near I-81. See renderings
+2026-03-22 19:56:55,270 [INFO] [73/181] Fetching: https://www.syracuse.com/micron/2025/07/micron-gets-ready-to-make-its-most-visible-move-yet-in-centr
+2026-03-22 19:56:55,461 [DEBUG]   HTTP 403: https://www.syracuse.com/micron/2025/07/micron-gets-ready-to-make-its-most-visib
+2026-03-22 19:56:56,022 [DEBUG]   Wayback hit: http://web.archive.org/web/20250801202546/https://www.syracuse.com/micron/2025/0
+2026-03-22 19:56:56,023 [INFO] [73/181] Trying Wayback Machine...
+2026-03-22 19:56:58,286 [DEBUG] [73/181] Filtered (not relevant): Micron gets ready to make its most visible move yet in Central NY
+2026-03-22 19:57:01,287 [INFO] [74/181] Fetching: https://www.syracuse.com/news/2025/08/ny-attorney-general-ends-whistleblower-prompted-review-of-cost
+2026-03-22 19:57:01,459 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/08/ny-attorney-general-ends-whistleblower-pro
+2026-03-22 19:57:05,751 [INFO] [74/181] Blocked/empty: https://www.syracuse.com/news/2025/08/ny-attorney-general-ends-whistleblower-pro
+2026-03-22 19:57:08,752 [INFO] [75/181] Fetching: https://www.syracuse.com/opinion/2025/07/onondaga-lake-restoration-is-far-from-finished-your-letters
+2026-03-22 19:57:08,908 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2025/07/onondaga-lake-restoration-is-far-from-f
+2026-03-22 19:57:14,248 [INFO] [75/181] Blocked/empty: https://www.syracuse.com/opinion/2025/07/onondaga-lake-restoration-is-far-from-f
+2026-03-22 19:57:17,250 [INFO] [76/181] Fetching: https://www.syracuse.com/news/2021/10/mcmahon-taking-down-columbus-statue-without-plans-dialogue-wou
+2026-03-22 19:57:17,425 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2021/10/mcmahon-taking-down-columbus-statue-withou
+2026-03-22 19:57:22,850 [INFO] [76/181] Blocked/empty: https://www.syracuse.com/news/2021/10/mcmahon-taking-down-columbus-statue-withou
+2026-03-22 19:57:25,851 [INFO] [77/181] Fetching: https://www.syracuse.com/opinion/2025/08/whole-community-must-step-up-to-care-for-homeless-individua
+2026-03-22 19:57:26,025 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2025/08/whole-community-must-step-up-to-care-fo
+2026-03-22 19:57:27,667 [DEBUG]   Wayback hit: http://web.archive.org/web/20250808164820/https://www.syracuse.com/opinion/2025/
+2026-03-22 19:57:27,668 [INFO] [77/181] Trying Wayback Machine...
+2026-03-22 19:57:29,109 [DEBUG] [77/181] Filtered (not relevant): Whole community must step up to care for homeless individuals (Your Letters)
+2026-03-22 19:57:32,110 [INFO] [78/181] Fetching: https://www.syracuse.com/micron/2025/08/micron-impact-syracuse-area-will-grow-as-fast-as-any-place-i
+2026-03-22 19:57:32,270 [DEBUG]   HTTP 403: https://www.syracuse.com/micron/2025/08/micron-impact-syracuse-area-will-grow-as
+2026-03-22 19:57:37,595 [INFO] [78/181] Blocked/empty: https://www.syracuse.com/micron/2025/08/micron-impact-syracuse-area-will-grow-as
+2026-03-22 19:57:40,596 [INFO] [79/181] Fetching: https://www.syracuse.com/news/2025/07/slow-down-or-else-see-where-cameras-will-soon-catch-speeders-n
+2026-03-22 19:57:40,748 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/07/slow-down-or-else-see-where-cameras-will-s
+2026-03-22 19:57:46,094 [INFO] [79/181] Blocked/empty: https://www.syracuse.com/news/2025/07/slow-down-or-else-see-where-cameras-will-s
+2026-03-22 19:57:49,095 [INFO] [80/181] Fetching: https://www.syracuse.com/opinion/2025/07/police-union-leader-should-lower-the-heat-after-combative-a
+2026-03-22 19:57:49,215 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2025/07/police-union-leader-should-lower-the-he
+2026-03-22 19:57:54,696 [INFO] [80/181] Blocked/empty: https://www.syracuse.com/opinion/2025/07/police-union-leader-should-lower-the-he
+2026-03-22 19:57:57,697 [INFO] [81/181] Fetching: https://www.syracuse.com/opinion/2025/06/syracuse-must-do-more-for-families-drinking-from-lead-pipes
+2026-03-22 19:57:57,833 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2025/06/syracuse-must-do-more-for-families-drin
+2026-03-22 19:57:58,997 [DEBUG]   Wayback hit: http://web.archive.org/web/20260119074419/https://www.syracuse.com/opinion/2025/
+2026-03-22 19:57:58,998 [INFO] [81/181] Trying Wayback Machine...
+2026-03-22 19:58:00,112 [INFO] [81/181] Relevant: Syracuse must do more for families drinking from lead pipes (Guest Opinion by Oc
+2026-03-22 19:58:00,112 [DEBUG]   → Entities: Robert Brandt
+2026-03-22 19:58:00,112 [DEBUG]   → Keywords: common council, mayor
+2026-03-22 19:58:06,589 [INFO]   Saved: CTX-NEWS-2025-00197 → CTX-NEWS-2025-00197.json
+2026-03-22 19:58:09,590 [INFO] [82/181] Fetching: https://www.syracuse.com/news/2025/08/bricks-are-falling-from-a-smokestack-at-historic-former-syracu
+2026-03-22 19:58:09,718 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/08/bricks-are-falling-from-a-smokestack-at-hi
+2026-03-22 19:58:11,284 [DEBUG]   Wayback hit: http://web.archive.org/web/20250903190950/https://www.syracuse.com/news/2025/08/
+2026-03-22 19:58:11,284 [INFO] [82/181] Trying Wayback Machine...
+2026-03-22 19:58:18,293 [INFO] [82/181] Relevant: Bricks are falling from a smokestack at historic former Syracuse train station. 
+2026-03-22 19:58:18,293 [DEBUG]   → Keywords: code enforcement
+2026-03-22 19:58:25,462 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-22 19:58:25,473 [INFO]   Saved: CTX-NEWS-2025-00198 → CTX-NEWS-2025-00198.json
+2026-03-22 19:58:28,474 [INFO] [83/181] Fetching: https://www.syracuse.com/news/2025/08/crime-is-dropping-fast-in-syracuse-police-chief-says-its-a-sno
+2026-03-22 19:58:28,614 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/08/crime-is-dropping-fast-in-syracuse-police-
+2026-03-22 19:58:34,025 [INFO] [83/181] Blocked/empty: https://www.syracuse.com/news/2025/08/crime-is-dropping-fast-in-syracuse-police-
+2026-03-22 19:58:37,026 [INFO] [84/181] Fetching: https://www.syracuse.com/news/2025/08/bricks-are-falling-from-a-smokestack-at-historic-former-syracu
+2026-03-22 19:58:37,162 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/08/bricks-are-falling-from-a-smokestack-at-hi
+2026-03-22 19:58:42,620 [INFO] [84/181] Blocked/empty: https://www.syracuse.com/news/2025/08/bricks-are-falling-from-a-smokestack-at-hi
+2026-03-22 19:58:45,621 [INFO] [85/181] Fetching: https://www.syracuse.com/news/2025/08/syracuse-to-ask-ny-to-cover-millions-feds-canceled-for-east-ad
+2026-03-22 19:58:45,759 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/08/syracuse-to-ask-ny-to-cover-millions-feds-
+2026-03-22 19:58:51,089 [INFO] [85/181] Blocked/empty: https://www.syracuse.com/news/2025/08/syracuse-to-ask-ny-to-cover-millions-feds-
+2026-03-22 19:58:54,090 [INFO] [86/181] Fetching: https://www.syracuse.com/news/2025/08/residents-in-2-syracuse-neighborhoods-can-now-get-2500-to-impr
+2026-03-22 19:58:54,327 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/08/residents-in-2-syracuse-neighborhoods-can-
+2026-03-22 19:58:58,593 [DEBUG]   Wayback hit: http://web.archive.org/web/20260113191128/https://www.syracuse.com/news/2025/08/
+2026-03-22 19:58:58,593 [INFO] [86/181] Trying Wayback Machine...
+2026-03-22 19:59:00,059 [INFO] [86/181] Relevant: Residents in 2 Syracuse neighborhoods can now get $2,500 to improve ‘curb appeal
+2026-03-22 19:59:00,059 [DEBUG]   → Entities: Le Moyne College
+2026-03-22 19:59:00,059 [DEBUG]   → Keywords: mayor, city officials
+2026-03-22 19:59:05,473 [INFO]   Saved: CTX-NEWS-2025-00199 → CTX-NEWS-2025-00199.json
+2026-03-22 19:59:08,473 [INFO] [87/181] Fetching: https://www.syracuse.com/opinion/2025/08/city-hall-syracuse-community-comes-together-to-reduce-crime
+2026-03-22 19:59:08,615 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2025/08/city-hall-syracuse-community-comes-toge
+2026-03-22 19:59:13,953 [INFO] [87/181] Blocked/empty: https://www.syracuse.com/opinion/2025/08/city-hall-syracuse-community-comes-toge
+2026-03-22 19:59:16,954 [INFO] [88/181] Fetching: https://www.syracuse.com/data/2025/09/syracuse-child-poverty-rate-drops-significantly-in-2024-but-ci
+2026-03-22 19:59:17,104 [DEBUG]   HTTP 403: https://www.syracuse.com/data/2025/09/syracuse-child-poverty-rate-drops-signific
+2026-03-22 19:59:17,611 [DEBUG]   Wayback hit: http://web.archive.org/web/20251231162120/https://www.syracuse.com/data/2025/09/
+2026-03-22 19:59:17,611 [INFO] [88/181] Trying Wayback Machine...
+2026-03-22 19:59:19,066 [DEBUG] [88/181] Filtered (not relevant): Syracuse child poverty rate drops significantly in 2024, but city still ranks hi
+2026-03-22 19:59:22,066 [INFO] [89/181] Fetching: https://www.syracuse.com/news/2025/09/skyline-apartments-owner-promises-to-finish-repairs-soon-in-se
+2026-03-22 19:59:22,385 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/09/skyline-apartments-owner-promises-to-finis
+2026-03-22 19:59:23,067 [INFO] [89/181] Blocked/empty: https://www.syracuse.com/news/2025/09/skyline-apartments-owner-promises-to-finis
+2026-03-22 19:59:26,068 [INFO] [90/181] Fetching: https://www.syracuse.com/news/2025/09/watertown-seeks-new-city-attorney-after-syracuse-law-firm-step
+2026-03-22 19:59:26,209 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/09/watertown-seeks-new-city-attorney-after-sy
+2026-03-22 19:59:26,741 [DEBUG]   Wayback hit: http://web.archive.org/web/20250923215832/https://www.syracuse.com/news/2025/09/
+2026-03-22 19:59:26,741 [INFO] [90/181] Trying Wayback Machine...
+2026-03-22 19:59:27,904 [INFO] [90/181] Relevant: Watertown seeks new city attorney after Syracuse law firm steps away
+2026-03-22 19:59:27,905 [DEBUG]   → Departments: Law Department
+2026-03-22 19:59:27,905 [DEBUG]   → Keywords: city council, mayor, city officials
+2026-03-22 19:59:33,916 [INFO]   Saved: CTX-NEWS-2025-00200 → CTX-NEWS-2025-00200.json
+2026-03-22 19:59:36,917 [INFO] [91/181] Fetching: https://www.syracuse.com/news/2025/09/ryan-mcmahons-2026-budget-cuts-the-tax-rate-adds-public-safety
+2026-03-22 19:59:37,055 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/09/ryan-mcmahons-2026-budget-cuts-the-tax-rat
+2026-03-22 19:59:42,523 [INFO] [91/181] Blocked/empty: https://www.syracuse.com/news/2025/09/ryan-mcmahons-2026-budget-cuts-the-tax-rat
+2026-03-22 19:59:45,524 [INFO] [92/181] Fetching: https://www.syracuse.com/news/2025/09/blueprint-15-names-syracuse-city-official-its-interim-executiv
+2026-03-22 19:59:45,649 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/09/blueprint-15-names-syracuse-city-official-
+2026-03-22 19:59:46,312 [DEBUG]   Wayback hit: http://web.archive.org/web/20251014131446/https://www.syracuse.com/news/2025/09/
+2026-03-22 19:59:46,312 [INFO] [92/181] Trying Wayback Machine...
+2026-03-22 19:59:47,650 [INFO] [92/181] Relevant: Blueprint 15 names Syracuse city official its interim executive director
+2026-03-22 19:59:47,650 [DEBUG]   → Departments: Department of Permits and Development, Department of Information Technology
+2026-03-22 19:59:47,650 [DEBUG]   → Keywords: city of syracuse
+2026-03-22 19:59:52,269 [INFO]   Saved: CTX-NEWS-2025-00201 → CTX-NEWS-2025-00201.json
+2026-03-22 19:59:55,270 [INFO] [93/181] Fetching: https://www.syracuse.com/news/2025/09/syracuse-lawmakers-ok-settlement-in-case-of-drunk-driver-hitti
+2026-03-22 19:59:55,461 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/09/syracuse-lawmakers-ok-settlement-in-case-o
+2026-03-22 19:59:56,859 [INFO] [93/181] Blocked/empty: https://www.syracuse.com/news/2025/09/syracuse-lawmakers-ok-settlement-in-case-o
+2026-03-22 19:59:57,860 [INFO] [94/181] Fetching: https://downtownsyracuse.com/get-around-and-park.
+2026-03-22 19:59:58,467 [DEBUG]   HTTP 404: https://downtownsyracuse.com/get-around-and-park.
+2026-03-22 19:59:59,610 [INFO] [94/181] Blocked/empty: https://downtownsyracuse.com/get-around-and-park.
+2026-03-22 20:00:00,611 [INFO] [95/181] Fetching: https://www.syracuse.com/news/2025/09/two-projects-would-bring-over-125-apartments-to-one-of-syracus
+2026-03-22 20:00:00,748 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/09/two-projects-would-bring-over-125-apartmen
+2026-03-22 20:00:06,075 [DEBUG]   Wayback hit: http://web.archive.org/web/20250928035850/https://www.syracuse.com/news/2025/09/
+2026-03-22 20:00:06,076 [INFO] [95/181] Trying Wayback Machine...
+2026-03-22 20:00:09,042 [DEBUG] [95/181] Filtered (not relevant): Two projects would bring over 125 apartments to one of Syracuse’s poorest areas
+2026-03-22 20:00:12,043 [INFO] [96/181] Fetching: https://www.syracuse.com/schools/2025/09/syracuses-steam-school-opens-with-welcomes-and-field-trips-
+2026-03-22 20:00:12,182 [DEBUG]   HTTP 403: https://www.syracuse.com/schools/2025/09/syracuses-steam-school-opens-with-welco
+2026-03-22 20:00:13,244 [DEBUG]   Wayback hit: http://web.archive.org/web/20260126121434/https://www.syracuse.com/schools/2025/
+2026-03-22 20:00:13,244 [INFO] [96/181] Trying Wayback Machine...
+2026-03-22 20:00:15,305 [INFO] [96/181] Relevant: Syracuse’s STEAM school opens with welcomes and field trips on historic first da
+2026-03-22 20:00:15,305 [DEBUG]   → Departments: Office of Analytics, Performance & Innovation
+2026-03-22 20:00:15,305 [DEBUG]   → Keywords: mayor
+2026-03-22 20:00:21,173 [WARNING]   Tag issue: Unknown tag 'education' not in taxonomy
+2026-03-22 20:00:21,194 [INFO]   Saved: CTX-NEWS-2025-00202 → CTX-NEWS-2025-00202.json
+2026-03-22 20:00:24,195 [INFO] [97/181] Fetching: https://www.syracuse.com/health/2025/09/amr-agrees-to-share-staff-and-response-data-in-first-ambulan
+2026-03-22 20:00:24,329 [DEBUG]   HTTP 403: https://www.syracuse.com/health/2025/09/amr-agrees-to-share-staff-and-response-d
+2026-03-22 20:00:29,632 [INFO] [97/181] Blocked/empty: https://www.syracuse.com/health/2025/09/amr-agrees-to-share-staff-and-response-d
+2026-03-22 20:00:32,633 [INFO] [98/181] Fetching: https://www.syracuse.com/news/2025/09/syracuse-common-council-wants-residents-opinions-on-using-dron
+2026-03-22 20:00:32,791 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/09/syracuse-common-council-wants-residents-op
+2026-03-22 20:00:38,111 [INFO] [98/181] Blocked/empty: https://www.syracuse.com/news/2025/09/syracuse-common-council-wants-residents-op
+2026-03-22 20:00:41,111 [INFO] [99/181] Fetching: https://www.syracuse.com/news/2025/09/syracuse-lawmakers-approve-sale-of-former-fire-station-where-a
+2026-03-22 20:00:41,254 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/09/syracuse-lawmakers-approve-sale-of-former-
+2026-03-22 20:00:46,831 [INFO] [99/181] Blocked/empty: https://www.syracuse.com/news/2025/09/syracuse-lawmakers-approve-sale-of-former-
+2026-03-22 20:00:49,832 [INFO] [100/181] Fetching: https://www.syracuse.com/news/2025/08/syracuse-bar-attempts-to-reopen-as-restaurant-after-shutdown-b
+2026-03-22 20:00:49,982 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/08/syracuse-bar-attempts-to-reopen-as-restaur
+2026-03-22 20:00:55,432 [INFO] [100/181] Blocked/empty: https://www.syracuse.com/news/2025/08/syracuse-bar-attempts-to-reopen-as-restaur
+2026-03-22 20:00:58,432 [INFO] [101/181] Fetching: https://www.syracuse.com/news/2025/08/lawsuit-dropped-against-big-armory-square-building-project-but
+2026-03-22 20:00:58,638 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/08/lawsuit-dropped-against-big-armory-square-
+2026-03-22 20:01:04,444 [INFO] [101/181] Blocked/empty: https://www.syracuse.com/news/2025/08/lawsuit-dropped-against-big-armory-square-
+2026-03-22 20:01:07,445 [INFO] [102/181] Fetching: https://www.syracuse.com/news/2025/08/former-syracuse-vocational-school-could-be-demolished-for-138-
+2026-03-22 20:01:07,681 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/08/former-syracuse-vocational-school-could-be
+2026-03-22 20:01:13,046 [INFO] [102/181] Blocked/empty: https://www.syracuse.com/news/2025/08/former-syracuse-vocational-school-could-be
+2026-03-22 20:01:16,047 [INFO] [103/181] Fetching: https://www.syracuse.com/news/2025/08/syracuses-largest-apartment-complex-has-spiraled-downward-tena
+2026-03-22 20:01:16,355 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/08/syracuses-largest-apartment-complex-has-sp
+2026-03-22 20:01:17,959 [INFO] [103/181] Blocked/empty: https://www.syracuse.com/news/2025/08/syracuses-largest-apartment-complex-has-sp
+2026-03-22 20:01:20,960 [INFO] [104/181] Fetching: https://www.syracuse.com/outdoors/2025/09/syracuse-eliminated-137-deer-in-city-neighborhoods-last-ye
+2026-03-22 20:01:21,100 [DEBUG]   HTTP 403: https://www.syracuse.com/outdoors/2025/09/syracuse-eliminated-137-deer-in-city-n
+2026-03-22 20:01:22,264 [DEBUG]   Wayback hit: http://web.archive.org/web/20251209220743/https://www.syracuse.com/outdoors/2025
+2026-03-22 20:01:22,264 [INFO] [104/181] Trying Wayback Machine...
+2026-03-22 20:01:24,147 [INFO] [104/181] Relevant: Syracuse killed 137 deer in neighborhoods last year, second most since 2019
+2026-03-22 20:01:24,147 [DEBUG]   → Departments: Department of Parks, Recreation and Youth Programs, Law Department
+2026-03-22 20:01:24,147 [DEBUG]   → Keywords: city hall, common council, mayor
+2026-03-22 20:01:30,466 [INFO]   Saved: CTX-NEWS-2025-00203 → CTX-NEWS-2025-00203.json
+2026-03-22 20:01:33,467 [INFO] [105/181] Fetching: https://www.syracuse.com/news/2025/09/suspicious-box-strapped-to-tree-near-city-hall-is-a-state-nois
+2026-03-22 20:01:33,652 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/09/suspicious-box-strapped-to-tree-near-city-
+2026-03-22 20:01:39,054 [INFO] [105/181] Blocked/empty: https://www.syracuse.com/news/2025/09/suspicious-box-strapped-to-tree-near-city-
+2026-03-22 20:01:42,055 [INFO] [106/181] Fetching: https://www.syracuse.com/crime/2025/09/syracuse-city-hall-evacuated-after-suspicious-package-found-n
+2026-03-22 20:01:42,214 [DEBUG]   HTTP 403: https://www.syracuse.com/crime/2025/09/syracuse-city-hall-evacuated-after-suspic
+2026-03-22 20:01:47,532 [INFO] [106/181] Blocked/empty: https://www.syracuse.com/crime/2025/09/syracuse-city-hall-evacuated-after-suspic
+2026-03-22 20:01:50,533 [INFO] [107/181] Fetching: https://www.syracuse.com/news/2025/09/should-syracuse-pay-millions-to-fix-historic-steps-good-mornin
+2026-03-22 20:01:50,772 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/09/should-syracuse-pay-millions-to-fix-histor
+2026-03-22 20:01:56,258 [INFO] [107/181] Blocked/empty: https://www.syracuse.com/news/2025/09/should-syracuse-pay-millions-to-fix-histor
+2026-03-22 20:01:59,258 [INFO] [108/181] Fetching: https://www.syracuse.com/business/2025/09/from-milking-cows-to-making-millions-how-syracuses-propert
+2026-03-22 20:01:59,405 [DEBUG]   HTTP 403: https://www.syracuse.com/business/2025/09/from-milking-cows-to-making-millions-h
+2026-03-22 20:02:03,017 [DEBUG]   Wayback hit: http://web.archive.org/web/20251219235104/https://www.syracuse.com/business/2025
+2026-03-22 20:02:03,017 [INFO] [108/181] Trying Wayback Machine...
+2026-03-22 20:02:04,302 [INFO] [108/181] Relevant: From milking cows to making millions: How Syracuse’s property brothers built a r
+2026-03-22 20:02:04,302 [DEBUG]   → Entities: Le Moyne College
+2026-03-22 20:02:04,303 [DEBUG]   → Departments: Syracuse Fire Department, Department of Finance
+2026-03-22 20:02:11,369 [WARNING]   Tag issue: Unknown tag 'real-estate' not in taxonomy
+2026-03-22 20:02:11,402 [INFO]   Saved: CTX-NEWS-2025-00204 → CTX-NEWS-2025-00204.json
+2026-03-22 20:02:14,403 [INFO] [109/181] Fetching: https://www.syracuse.com/state/2020/07/christopher-columbus-statue-removed-in-buffalo-will-syracuse-
+2026-03-22 20:02:14,622 [DEBUG]   HTTP 403: https://www.syracuse.com/state/2020/07/christopher-columbus-statue-removed-in-bu
+2026-03-22 20:02:20,014 [INFO] [109/181] Blocked/empty: https://www.syracuse.com/state/2020/07/christopher-columbus-statue-removed-in-bu
+2026-03-22 20:02:23,014 [INFO] [110/181] Fetching: https://www.syracuse.com/opinion/2025/10/syracuse-cant-afford-to-forgo-millions-of-dollars-in-speedi
+2026-03-22 20:02:23,165 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2025/10/syracuse-cant-afford-to-forgo-millions-
+2026-03-22 20:02:28,515 [INFO] [110/181] Blocked/empty: https://www.syracuse.com/opinion/2025/10/syracuse-cant-afford-to-forgo-millions-
+2026-03-22 20:02:31,516 [INFO] [111/181] Fetching: https://www.syracuse.com/news/2025/10/60000-drivers-sped-through-syracuses-school-zones-last-month-t
+2026-03-22 20:02:31,683 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/10/60000-drivers-sped-through-syracuses-schoo
+2026-03-22 20:02:37,074 [INFO] [111/181] Blocked/empty: https://www.syracuse.com/news/2025/10/60000-drivers-sped-through-syracuses-schoo
+2026-03-22 20:02:40,075 [INFO] [112/181] Fetching: https://www.syracuse.com/opinion/2025/10/if-the-catholic-church-can-reappraise-columbus-so-can-we-of
+2026-03-22 20:02:40,373 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2025/10/if-the-catholic-church-can-reappraise-c
+2026-03-22 20:02:45,680 [INFO] [112/181] Blocked/empty: https://www.syracuse.com/opinion/2025/10/if-the-catholic-church-can-reappraise-c
+2026-03-22 20:02:48,680 [INFO] [113/181] Fetching: https://www.syracuse.com/news/2025/10/syracuses-columbus-statue-will-outlast-ben-walsh-who-promised-
+2026-03-22 20:02:48,843 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/10/syracuses-columbus-statue-will-outlast-ben
+2026-03-22 20:02:54,163 [INFO] [113/181] Blocked/empty: https://www.syracuse.com/news/2025/10/syracuses-columbus-statue-will-outlast-ben
+2026-03-22 20:02:57,164 [INFO] [114/181] Fetching: https://www.syracuse.com/education/2025/10/mayor-congressman-others-praise-retiring-syracuse-superin
+2026-03-22 20:02:57,430 [DEBUG]   HTTP 403: https://www.syracuse.com/education/2025/10/mayor-congressman-others-praise-retir
+2026-03-22 20:03:02,924 [INFO] [114/181] Blocked/empty: https://www.syracuse.com/education/2025/10/mayor-congressman-others-praise-retir
+2026-03-22 20:03:05,925 [INFO] [115/181] Fetching: https://www.syracuse.com/business/2025/10/company-news-deka-eysaman-to-lead-south-side-community-gro
+2026-03-22 20:03:06,084 [DEBUG]   HTTP 403: https://www.syracuse.com/business/2025/10/company-news-deka-eysaman-to-lead-sout
+2026-03-22 20:03:11,318 [DEBUG]   Wayback hit: http://web.archive.org/web/20251011091501/https://www.syracuse.com/business/2025
+2026-03-22 20:03:11,318 [INFO] [115/181] Trying Wayback Machine...
+2026-03-22 20:03:13,220 [DEBUG] [115/181] Filtered (not relevant): Company news: Deka Eysaman to lead South Side Community Growth Foundation
+2026-03-22 20:03:16,221 [INFO] [116/181] Fetching: https://www.syracuse.com/news/2025/10/walsh-administration-pushes-to-start-biggest-syracuse-housing-
+2026-03-22 20:03:16,425 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/10/walsh-administration-pushes-to-start-bigge
+2026-03-22 20:03:21,864 [INFO] [116/181] Blocked/empty: https://www.syracuse.com/news/2025/10/walsh-administration-pushes-to-start-bigge
+2026-03-22 20:03:22,865 [INFO] [117/181] Fetching: http://www.downtownsyracuse.com/
+2026-03-22 20:03:26,180 [DEBUG] [117/181] Filtered (not relevant): Downtown Committee of Syracuse
+2026-03-22 20:03:27,181 [INFO] [118/181] Fetching: https://www.syracuse.com/data/2025/04/highest-paid-syracuse-city-employees-ranked-for-2024-search-pa
+2026-03-22 20:03:27,376 [DEBUG]   HTTP 403: https://www.syracuse.com/data/2025/04/highest-paid-syracuse-city-employees-ranke
+2026-03-22 20:03:32,821 [INFO] [118/181] Blocked/empty: https://www.syracuse.com/data/2025/04/highest-paid-syracuse-city-employees-ranke
+2026-03-22 20:03:35,822 [INFO] [119/181] Fetching: https://www.syracuse.com/politics/cny/2025/10/syracuse-airport-isnt-showing-kristi-noem-video-that-b
+2026-03-22 20:03:36,138 [DEBUG]   HTTP 403: https://www.syracuse.com/politics/cny/2025/10/syracuse-airport-isnt-showing-kris
+2026-03-22 20:03:41,564 [INFO] [119/181] Blocked/empty: https://www.syracuse.com/politics/cny/2025/10/syracuse-airport-isnt-showing-kris
+2026-03-22 20:03:44,565 [INFO] [120/181] Fetching: https://www.syracuse.com/news/2025/10/hundreds-of-syracuse-teachers-staff-get-shorted-on-pay-after-1
+2026-03-22 20:03:44,793 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/10/hundreds-of-syracuse-teachers-staff-get-sh
+2026-03-22 20:03:50,229 [INFO] [120/181] Blocked/empty: https://www.syracuse.com/news/2025/10/hundreds-of-syracuse-teachers-staff-get-sh
+2026-03-22 20:03:53,231 [INFO] [121/181] Fetching: https://www.syracuse.com/news/2025/10/with-a-party-line-vote-onondaga-county-lawmakers-adopt-2026-bu
+2026-03-22 20:03:53,396 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/10/with-a-party-line-vote-onondaga-county-law
+2026-03-22 20:03:58,689 [INFO] [121/181] Blocked/empty: https://www.syracuse.com/news/2025/10/with-a-party-line-vote-onondaga-county-law
+2026-03-22 20:04:01,690 [INFO] [122/181] Fetching: https://www.syracuse.com/politics/cny/2025/10/why-did-syracuses-airport-reject-kristi-noems-video-a-
+2026-03-22 20:04:01,865 [DEBUG]   HTTP 403: https://www.syracuse.com/politics/cny/2025/10/why-did-syracuses-airport-reject-k
+2026-03-22 20:04:07,229 [INFO] [122/181] Blocked/empty: https://www.syracuse.com/politics/cny/2025/10/why-did-syracuses-airport-reject-k
+2026-03-22 20:04:10,230 [INFO] [123/181] Fetching: https://www.syracuse.com/news/2025/10/pioneer-homes-residents-get-early-chance-to-avoid-noisy-i-81-c
+2026-03-22 20:04:10,376 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/10/pioneer-homes-residents-get-early-chance-t
+2026-03-22 20:04:15,726 [INFO] [123/181] Blocked/empty: https://www.syracuse.com/news/2025/10/pioneer-homes-residents-get-early-chance-t
+2026-03-22 20:04:18,726 [INFO] [124/181] Fetching: https://www.syracuse.com/health/2025/10/onondaga-county-hosting-lead-safety-events-this-week-for-fam
+2026-03-22 20:04:18,938 [DEBUG]   HTTP 403: https://www.syracuse.com/health/2025/10/onondaga-county-hosting-lead-safety-even
+2026-03-22 20:04:24,532 [INFO] [124/181] Blocked/empty: https://www.syracuse.com/health/2025/10/onondaga-county-hosting-lead-safety-even
+2026-03-22 20:04:27,533 [INFO] [125/181] Fetching: https://www.syracuse.com/news/2025/10/as-demand-soars-housing-development-slumps-why-are-we-stuck.ht
+2026-03-22 20:04:27,708 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/10/as-demand-soars-housing-development-slumps
+2026-03-22 20:04:33,237 [INFO] [125/181] Blocked/empty: https://www.syracuse.com/news/2025/10/as-demand-soars-housing-development-slumps
+2026-03-22 20:04:36,238 [INFO] [126/181] Fetching: https://www.syracuse.com/news/2025/10/ryan-mcmahon-cites-a-pipeline-of-housing-projects-but-its-fill
+2026-03-22 20:04:36,439 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/10/ryan-mcmahon-cites-a-pipeline-of-housing-p
+2026-03-22 20:04:41,838 [INFO] [126/181] Blocked/empty: https://www.syracuse.com/news/2025/10/ryan-mcmahon-cites-a-pipeline-of-housing-p
+2026-03-22 20:04:44,839 [INFO] [127/181] Fetching: https://www.syracuse.com/news/2025/10/calvin-corriders-steps-down-as-president-of-syracuse-housing-a
+2026-03-22 20:04:45,007 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/10/calvin-corriders-steps-down-as-president-o
+2026-03-22 20:04:48,187 [INFO] [127/181] Blocked/empty: https://www.syracuse.com/news/2025/10/calvin-corriders-steps-down-as-president-o
+2026-03-22 20:04:51,188 [INFO] [128/181] Fetching: https://www.syracuse.com/crime/2025/10/fire-damages-vacant-apartment-building-on-syracuses-south-sid
+2026-03-22 20:04:51,546 [DEBUG]   HTTP 403: https://www.syracuse.com/crime/2025/10/fire-damages-vacant-apartment-building-on
+2026-03-22 20:04:57,410 [INFO] [128/181] Blocked/empty: https://www.syracuse.com/crime/2025/10/fire-damages-vacant-apartment-building-on
+2026-03-22 20:05:00,411 [INFO] [129/181] Fetching: https://www.syracuse.com/schools/2025/10/le-moyne-college-extends-presidents-contract.html
+2026-03-22 20:05:00,844 [DEBUG]   HTTP 403: https://www.syracuse.com/schools/2025/10/le-moyne-college-extends-presidents-con
+2026-03-22 20:05:06,619 [INFO] [129/181] Blocked/empty: https://www.syracuse.com/schools/2025/10/le-moyne-college-extends-presidents-con
+2026-03-22 20:05:09,620 [INFO] [130/181] Fetching: https://www.syracuse.com/news/2025/10/demolition-begins-as-syracuses-old-public-housing-makes-way-fo
+2026-03-22 20:05:09,779 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/10/demolition-begins-as-syracuses-old-public-
+2026-03-22 20:05:15,107 [INFO] [130/181] Blocked/empty: https://www.syracuse.com/news/2025/10/demolition-begins-as-syracuses-old-public-
+2026-03-22 20:05:18,107 [INFO] [131/181] Fetching: https://www.syracuse.com/news/2025/10/syracuse-lawmakers-finally-endorse-citys-plan-to-eliminate-tra
+2026-03-22 20:05:18,496 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/10/syracuse-lawmakers-finally-endorse-citys-p
+2026-03-22 20:05:23,813 [INFO] [131/181] Blocked/empty: https://www.syracuse.com/news/2025/10/syracuse-lawmakers-finally-endorse-citys-p
+2026-03-22 20:05:26,814 [INFO] [132/181] Fetching: https://www.syracuse.com/opinion/2025/10/15th-ward-should-be-in-the-conversation-about-public-safety
+2026-03-22 20:05:27,133 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2025/10/15th-ward-should-be-in-the-conversation
+2026-03-22 20:05:32,442 [INFO] [132/181] Blocked/empty: https://www.syracuse.com/opinion/2025/10/15th-ward-should-be-in-the-conversation
+2026-03-22 20:05:35,443 [INFO] [133/181] Fetching: https://www.syracuse.com/news/2025/10/fines-for-speeding-in-syracuse-school-zones-start-next-week-bu
+2026-03-22 20:05:35,679 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/10/fines-for-speeding-in-syracuse-school-zone
+2026-03-22 20:05:41,007 [INFO] [133/181] Blocked/empty: https://www.syracuse.com/news/2025/10/fines-for-speeding-in-syracuse-school-zone
+2026-03-22 20:05:44,008 [INFO] [134/181] Fetching: https://www.syracuse.com/news/2025/10/city-council-clears-the-way-for-major-housing-development-near
+2026-03-22 20:05:44,178 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/10/city-council-clears-the-way-for-major-hous
+2026-03-22 20:05:49,601 [INFO] [134/181] Blocked/empty: https://www.syracuse.com/news/2025/10/city-council-clears-the-way-for-major-hous
+2026-03-22 20:05:52,602 [INFO] [135/181] Fetching: https://www.syracuse.com/news/2017/01/city_orders_demolition_of_former_brennan_motors_building_downt
+2026-03-22 20:05:52,802 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2017/01/city_orders_demolition_of_former_brennan_m
+2026-03-22 20:05:58,167 [INFO] [135/181] Blocked/empty: https://www.syracuse.com/news/2017/01/city_orders_demolition_of_former_brennan_m
+2026-03-22 20:06:01,168 [INFO] [136/181] Fetching: https://www.syracuse.com/news/2025/10/got-an-old-syracuse-parking-ticket-pay-it-in-november-and-avoi
+2026-03-22 20:06:01,385 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/10/got-an-old-syracuse-parking-ticket-pay-it-
+2026-03-22 20:06:06,749 [INFO] [136/181] Blocked/empty: https://www.syracuse.com/news/2025/10/got-an-old-syracuse-parking-ticket-pay-it-
+2026-03-22 20:06:09,749 [INFO] [137/181] Fetching: https://www.syracuse.com/news/2025/10/2-syracuse-lawmakers-want-to-delay-fines-for-speeding-in-schoo
+2026-03-22 20:06:09,961 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/10/2-syracuse-lawmakers-want-to-delay-fines-f
+2026-03-22 20:06:15,359 [INFO] [137/181] Blocked/empty: https://www.syracuse.com/news/2025/10/2-syracuse-lawmakers-want-to-delay-fines-f
+2026-03-22 20:06:18,360 [INFO] [138/181] Fetching: https://www.syracuse.com/news/2025/10/a-company-wants-to-restart-abandoned-concrete-plant-near-100-m
+2026-03-22 20:06:18,552 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/10/a-company-wants-to-restart-abandoned-concr
+2026-03-22 20:06:23,881 [INFO] [138/181] Blocked/empty: https://www.syracuse.com/news/2025/10/a-company-wants-to-restart-abandoned-concr
+2026-03-22 20:06:26,882 [INFO] [139/181] Fetching: https://www.syracuse.com/news/2025/10/syracuse-lawmakers-asked-to-approve-parking-ticket-amnesty-pro
+2026-03-22 20:06:27,304 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/10/syracuse-lawmakers-asked-to-approve-parkin
+2026-03-22 20:06:32,683 [INFO] [139/181] Blocked/empty: https://www.syracuse.com/news/2025/10/syracuse-lawmakers-asked-to-approve-parkin
+2026-03-22 20:06:35,684 [INFO] [140/181] Fetching: https://www.syracuse.com/crime/2025/10/police-warn-syracuse-businesses-of-fraudulent-zoning-invoice-
+2026-03-22 20:06:36,060 [DEBUG]   HTTP 403: https://www.syracuse.com/crime/2025/10/police-warn-syracuse-businesses-of-fraudu
+2026-03-22 20:06:41,388 [INFO] [140/181] Blocked/empty: https://www.syracuse.com/crime/2025/10/police-warn-syracuse-businesses-of-fraudu
+2026-03-22 20:06:44,388 [INFO] [141/181] Fetching: https://www.syracuse.com/restaurants/2025/10/original-grain-closes-in-downtown-syracuse-but-owner-pl
+2026-03-22 20:06:44,548 [DEBUG]   HTTP 403: https://www.syracuse.com/restaurants/2025/10/original-grain-closes-in-downtown-s
+2026-03-22 20:06:47,392 [DEBUG]   Wayback hit: http://web.archive.org/web/20251223150518/https://www.syracuse.com/restaurants/2
+2026-03-22 20:06:47,392 [INFO] [141/181] Trying Wayback Machine...
+2026-03-22 20:06:48,771 [DEBUG] [141/181] Filtered (not relevant): Original Grain closes in Downtown Syracuse, but owner plans ‘new concept’ in new
+2026-03-22 20:06:51,772 [INFO] [142/181] Fetching: https://www.syracuse.com/news/2025/10/after-2-years-owner-aims-to-rent-apartments-at-the-former-skyl
+2026-03-22 20:06:51,945 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/10/after-2-years-owner-aims-to-rent-apartment
+2026-03-22 20:06:57,264 [INFO] [142/181] Blocked/empty: https://www.syracuse.com/news/2025/10/after-2-years-owner-aims-to-rent-apartment
+2026-03-22 20:07:00,265 [INFO] [143/181] Fetching: https://www.syracuse.com/syracuse-university/2025/10/syracuse-university-will-not-sign-trumps-higher
+2026-03-22 20:07:00,462 [DEBUG]   HTTP 403: https://www.syracuse.com/syracuse-university/2025/10/syracuse-university-will-no
+2026-03-22 20:07:03,627 [DEBUG]   Wayback hit: http://web.archive.org/web/20251024173559/https://www.syracuse.com/syracuse-univ
+2026-03-22 20:07:03,627 [INFO] [143/181] Trying Wayback Machine...
+2026-03-22 20:07:05,054 [INFO] [143/181] Relevant: Syracuse University will not sign Trump’s higher education compact
+2026-03-22 20:07:05,055 [DEBUG]   → Entities: Syracuse University
+2026-03-22 20:07:09,722 [ERROR]   Schema error: Schema validation: 'opposition' is not one of ['positive', 'neutral', 'critical', 'mixed', 'advocacy', 'procedural']
+2026-03-22 20:07:09,728 [ERROR]   Cannot fix schema errors — skipping
+2026-03-22 20:07:12,728 [INFO] [144/181] Fetching: https://www.syracuse.com/news/2025/10/a-syracuse-group-is-out-as-shoppingtown-developer-putting-proj
+2026-03-22 20:07:12,886 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/10/a-syracuse-group-is-out-as-shoppingtown-de
+2026-03-22 20:07:18,207 [INFO] [144/181] Blocked/empty: https://www.syracuse.com/news/2025/10/a-syracuse-group-is-out-as-shoppingtown-de
+2026-03-22 20:07:19,208 [INFO] [145/181] Fetching: https://downtownsyracuse.com/get-around-park/parking
+2026-03-22 20:07:22,342 [INFO] [145/181] Relevant: Parking
+2026-03-22 20:07:22,342 [DEBUG]   → Entities: National Grid
+2026-03-22 20:07:22,342 [DEBUG]   → Keywords: city hall
+2026-03-22 20:07:27,479 [INFO]   Saved: CTX-NEWS-2019-00001 → CTX-NEWS-2019-00001.json
+2026-03-22 20:07:28,480 [INFO] [146/181] Fetching: https://www.syracuse.com/news/2025/11/syracuse-closes-large-city-owned-downtown-garage-due-to-safety
+2026-03-22 20:07:28,672 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/11/syracuse-closes-large-city-owned-downtown-
+2026-03-22 20:07:34,020 [INFO] [146/181] Blocked/empty: https://www.syracuse.com/news/2025/11/syracuse-closes-large-city-owned-downtown-
+2026-03-22 20:07:37,021 [INFO] [147/181] Fetching: https://www.syracuse.com/news/2025/11/city-workers-moved-out-to-make-way-for-apartments-syracuse-sti
+2026-03-22 20:07:37,181 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/11/city-workers-moved-out-to-make-way-for-apa
+2026-03-22 20:07:42,506 [INFO] [147/181] Blocked/empty: https://www.syracuse.com/news/2025/11/city-workers-moved-out-to-make-way-for-apa
+2026-03-22 20:07:45,507 [INFO] [148/181] Fetching: https://www.syracuse.com/realestate-news/2025/11/biggest-syracuse-housing-development-in-decades-nee
+2026-03-22 20:07:45,686 [DEBUG]   HTTP 403: https://www.syracuse.com/realestate-news/2025/11/biggest-syracuse-housing-develo
+2026-03-22 20:07:51,099 [INFO] [148/181] Blocked/empty: https://www.syracuse.com/realestate-news/2025/11/biggest-syracuse-housing-develo
+2026-03-22 20:07:54,100 [INFO] [149/181] Fetching: https://www.syracuse.com/opinion/2025/11/syracuse-inner-harbor-is-no-place-for-a-concrete-plant-edit
+2026-03-22 20:07:54,372 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2025/11/syracuse-inner-harbor-is-no-place-for-a
+2026-03-22 20:07:56,770 [DEBUG]   Wayback hit: http://web.archive.org/web/20251204034011/https://www.syracuse.com/opinion/2025/
+2026-03-22 20:07:56,771 [INFO] [149/181] Trying Wayback Machine...
+2026-03-22 20:07:58,041 [INFO] [149/181] Relevant: Syracuse Inner Harbor is no place for a concrete plant (Editorial Board Opinion)
+2026-03-22 20:07:58,041 [DEBUG]   → Departments: Department of Permits and Development
+2026-03-22 20:07:58,041 [DEBUG]   → Keywords: common council
+2026-03-22 20:08:03,576 [WARNING]   Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-03-22 20:08:03,584 [INFO]   Saved: CTX-NEWS-2025-00205 → CTX-NEWS-2025-00205.json
+2026-03-22 20:08:06,584 [INFO] [150/181] Fetching: https://www.syracuse.com/business/2025/11/syracuse-furniture-retailer-expanding-with-new-location-in
+2026-03-22 20:08:07,149 [DEBUG]   HTTP 403: https://www.syracuse.com/business/2025/11/syracuse-furniture-retailer-expanding-
+2026-03-22 20:08:12,550 [INFO] [150/181] Blocked/empty: https://www.syracuse.com/business/2025/11/syracuse-furniture-retailer-expanding-
+2026-03-22 20:08:15,551 [INFO] [151/181] Fetching: https://www.syracuse.com/news/2025/11/new-downtown-syracuse-hotel-work-starting-soon-with-parking-ga
+2026-03-22 20:08:15,751 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/11/new-downtown-syracuse-hotel-work-starting-
+2026-03-22 20:08:21,108 [INFO] [151/181] Blocked/empty: https://www.syracuse.com/news/2025/11/new-downtown-syracuse-hotel-work-starting-
+2026-03-22 20:08:24,109 [INFO] [152/181] Fetching: https://www.syracuse.com/news/2025/11/ny-puts-off-implementing-law-that-would-ban-natural-gas-in-new
+2026-03-22 20:08:24,297 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/11/ny-puts-off-implementing-law-that-would-ba
+2026-03-22 20:08:29,650 [INFO] [152/181] Blocked/empty: https://www.syracuse.com/news/2025/11/ny-puts-off-implementing-law-that-would-ba
+2026-03-22 20:08:32,650 [INFO] [153/181] Fetching: https://www.syracuse.com/news/2025/11/syracuse-launches-online-search-tool-of-its-vacant-lots-for-sa
+2026-03-22 20:08:32,860 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/11/syracuse-launches-online-search-tool-of-it
+2026-03-22 20:08:38,188 [INFO] [153/181] Blocked/empty: https://www.syracuse.com/news/2025/11/syracuse-launches-online-search-tool-of-it
+2026-03-22 20:08:41,189 [INFO] [154/181] Fetching: https://www.syracuse.com/news/2025/11/syracuse-to-show-possible-changes-for-streets-near-i-81-take-p
+2026-03-22 20:08:41,378 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/11/syracuse-to-show-possible-changes-for-stre
+2026-03-22 20:08:46,698 [INFO] [154/181] Blocked/empty: https://www.syracuse.com/news/2025/11/syracuse-to-show-possible-changes-for-stre
+2026-03-22 20:08:49,698 [INFO] [155/181] Fetching: https://www.syracuse.com/news/2025/11/a-lame-duck-syracuse-councilors-proposal-angers-historic-prese
+2026-03-22 20:08:49,924 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/11/a-lame-duck-syracuse-councilors-proposal-a
+2026-03-22 20:08:55,253 [INFO] [155/181] Blocked/empty: https://www.syracuse.com/news/2025/11/a-lame-duck-syracuse-councilors-proposal-a
+2026-03-22 20:08:58,254 [INFO] [156/181] Fetching: https://www.syracuse.com/news/2025/11/city-audit-finds-major-flaws-in-syracuses-sidewalk-dining-perm
+2026-03-22 20:08:58,418 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/11/city-audit-finds-major-flaws-in-syracuses-
+2026-03-22 20:09:03,751 [INFO] [156/181] Blocked/empty: https://www.syracuse.com/news/2025/11/city-audit-finds-major-flaws-in-syracuses-
+2026-03-22 20:09:06,751 [INFO] [157/181] Fetching: https://www.syracuse.com/news/2025/11/a-steel-beam-on-an-aging-syracuse-parking-garage-sinks-9-inche
+2026-03-22 20:09:06,937 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/11/a-steel-beam-on-an-aging-syracuse-parking-
+2026-03-22 20:09:12,292 [INFO] [157/181] Blocked/empty: https://www.syracuse.com/news/2025/11/a-steel-beam-on-an-aging-syracuse-parking-
+2026-03-22 20:09:15,292 [INFO] [158/181] Fetching: https://www.syracuse.com/opinion/2025/11/hogan-council-not-appointed-board-should-have-final-say-on-
+2026-03-22 20:09:15,560 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2025/11/hogan-council-not-appointed-board-shoul
+2026-03-22 20:09:20,882 [INFO] [158/181] Blocked/empty: https://www.syracuse.com/opinion/2025/11/hogan-council-not-appointed-board-shoul
+2026-03-22 20:09:23,883 [INFO] [159/181] Fetching: https://www.syracuse.com/news/2025/12/syracuse-plans-clanker-system-to-stop-trucks-from-hitting-park
+2026-03-22 20:09:24,052 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/12/syracuse-plans-clanker-system-to-stop-truc
+2026-03-22 20:09:29,412 [INFO] [159/181] Blocked/empty: https://www.syracuse.com/news/2025/12/syracuse-plans-clanker-system-to-stop-truc
+2026-03-22 20:09:32,413 [INFO] [160/181] Fetching: https://www.syracuse.com/opinion/2025/12/merchant-syracuse-can-do-better-removing-snow-from-downtown
+2026-03-22 20:09:32,626 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2025/12/merchant-syracuse-can-do-better-removin
+2026-03-22 20:09:37,962 [INFO] [160/181] Blocked/empty: https://www.syracuse.com/opinion/2025/12/merchant-syracuse-can-do-better-removin
+2026-03-22 20:09:40,963 [INFO] [161/181] Fetching: https://www.syracuse.com/news/2025/12/syracuse-neighbors-fear-commercial-battery-storage-site-could-
+2026-03-22 20:09:41,357 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/12/syracuse-neighbors-fear-commercial-battery
+2026-03-22 20:09:46,666 [INFO] [161/181] Blocked/empty: https://www.syracuse.com/news/2025/12/syracuse-neighbors-fear-commercial-battery
+2026-03-22 20:09:49,667 [INFO] [162/181] Fetching: https://www.syracuse.com/health/2025/12/ny-design-team-will-help-imagine-upstate-hospitals-450-milli
+2026-03-22 20:09:49,897 [DEBUG]   HTTP 403: https://www.syracuse.com/health/2025/12/ny-design-team-will-help-imagine-upstate
+2026-03-22 20:09:54,258 [INFO] [162/181] Blocked/empty: https://www.syracuse.com/health/2025/12/ny-design-team-will-help-imagine-upstate
+2026-03-22 20:09:57,259 [INFO] [163/181] Fetching: https://www.syracuse.com/news/2025/12/syracuse-hires-budget-director-who-is-expected-to-stay-in-role
+2026-03-22 20:09:57,419 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/12/syracuse-hires-budget-director-who-is-expe
+2026-03-22 20:09:59,908 [DEBUG]   Wayback hit: http://web.archive.org/web/20251203132623/https://www.syracuse.com/news/2025/12/
+2026-03-22 20:09:59,908 [INFO] [163/181] Trying Wayback Machine...
+2026-03-22 20:10:01,553 [INFO] [163/181] Relevant: Syracuse hires budget director who is expected to stay in role for Mayor-elect O
+2026-03-22 20:10:01,553 [DEBUG]   → Entities: Rita Paniagua, Evan Loving
+2026-03-22 20:10:01,553 [DEBUG]   → Departments: Department of Permits and Development, Department of Finance
+2026-03-22 20:10:01,553 [DEBUG]   → Keywords: city hall, common council, mayor
+2026-03-22 20:10:08,290 [INFO]   Saved: CTX-NEWS-2025-00206 → CTX-NEWS-2025-00206.json
+2026-03-22 20:10:11,290 [INFO] [164/181] Fetching: https://www.syracuse.com/business/2025/12/downtown-building-owner-sues-to-pause-work-on-massive-new-
+2026-03-22 20:10:11,494 [DEBUG]   HTTP 403: https://www.syracuse.com/business/2025/12/downtown-building-owner-sues-to-pause-
+2026-03-22 20:10:16,807 [INFO] [164/181] Blocked/empty: https://www.syracuse.com/business/2025/12/downtown-building-owner-sues-to-pause-
+2026-03-22 20:10:19,808 [INFO] [165/181] Fetching: https://www.syracuse.com/news/2025/12/how-ices-mostly-unseen-campaign-in-syracuse-breeds-fear-and-re
+2026-03-22 20:10:20,029 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/12/how-ices-mostly-unseen-campaign-in-syracus
+2026-03-22 20:10:25,361 [INFO] [165/181] Blocked/empty: https://www.syracuse.com/news/2025/12/how-ices-mostly-unseen-campaign-in-syracus
+2026-03-22 20:10:28,362 [INFO] [166/181] Fetching: https://www.syracuse.com/news/2025/11/school-zone-speeding-fines-raise-concerns-about-equity-spendin
+2026-03-22 20:10:28,514 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/11/school-zone-speeding-fines-raise-concerns-
+2026-03-22 20:10:33,855 [INFO] [166/181] Blocked/empty: https://www.syracuse.com/news/2025/11/school-zone-speeding-fines-raise-concerns-
+2026-03-22 20:10:36,856 [INFO] [167/181] Fetching: https://www.syracuse.com/weather/2025/11/heavy-snow-high-winds-could-make-for-hazardous-driving-in-u
+2026-03-22 20:10:37,030 [DEBUG]   HTTP 403: https://www.syracuse.com/weather/2025/11/heavy-snow-high-winds-could-make-for-ha
+2026-03-22 20:10:41,530 [DEBUG]   Wayback hit: http://web.archive.org/web/20260103211535/https://www.syracuse.com/weather/2025/
+2026-03-22 20:10:41,531 [INFO] [167/181] Trying Wayback Machine...
+2026-03-22 20:10:43,722 [DEBUG] [167/181] Filtered (not relevant): Heavy snow, high winds could make for hazardous driving in Upstate NY for Thanks
+2026-03-22 20:10:44,722 [INFO] [168/181] Fetching: http://syracuse.com/
+2026-03-22 20:10:44,997 [DEBUG]   HTTP 403: http://syracuse.com/
+2026-03-22 20:10:50,300 [INFO] [168/181] Blocked/empty: http://syracuse.com/
+2026-03-22 20:10:51,301 [INFO] [169/181] Fetching: https://www.syracuse.com/politics/cny/2025/11/2-syracuse-politicians-want-to-cut-all-ties-with-licen
+2026-03-22 20:10:51,932 [DEBUG]   HTTP 403: https://www.syracuse.com/politics/cny/2025/11/2-syracuse-politicians-want-to-cut
+2026-03-22 20:10:57,344 [INFO] [169/181] Blocked/empty: https://www.syracuse.com/politics/cny/2025/11/2-syracuse-politicians-want-to-cut
+2026-03-22 20:11:00,345 [INFO] [170/181] Fetching: https://www.syracuse.com/data/2025/12/see-why-people-got-parking-tickets-in-syracuse-in-2024-how-muc
+2026-03-22 20:11:05,162 [DEBUG] [170/181] Filtered (not relevant): Why people got parking tickets in Syracuse in 2024, how much they paid
+2026-03-22 20:11:08,163 [INFO] [171/181] Fetching: https://www.syracuse.com/business/2025/12/syracuses-painful-employment-gap-for-blacks-and-hispanics-
+2026-03-22 20:11:08,782 [DEBUG]   HTTP 403: https://www.syracuse.com/business/2025/12/syracuses-painful-employment-gap-for-b
+2026-03-22 20:11:14,133 [INFO] [171/181] Blocked/empty: https://www.syracuse.com/business/2025/12/syracuses-painful-employment-gap-for-b
+2026-03-22 20:11:17,134 [INFO] [172/181] Fetching: https://www.syracuse.com/health/2025/12/syracuses-water-pipe-woes-its-going-to-take-at-least-twice-a
+2026-03-22 20:11:17,491 [DEBUG]   HTTP 403: https://www.syracuse.com/health/2025/12/syracuses-water-pipe-woes-its-going-to-t
+2026-03-22 20:11:22,846 [INFO] [172/181] Blocked/empty: https://www.syracuse.com/health/2025/12/syracuses-water-pipe-woes-its-going-to-t
+2026-03-22 20:11:25,848 [INFO] [173/181] Fetching: https://www.syracuse.com/news/2025/12/syracuses-new-snowplows-have-been-on-the-road-for-weeks-now-th
+2026-03-22 20:11:26,206 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/12/syracuses-new-snowplows-have-been-on-the-r
+2026-03-22 20:11:31,507 [INFO] [173/181] Blocked/empty: https://www.syracuse.com/news/2025/12/syracuses-new-snowplows-have-been-on-the-r
+2026-03-22 20:11:34,508 [INFO] [174/181] Fetching: https://www.syracuse.com/news/2025/12/ben-walsh-sweated-syracuses-little-stuff-he-leaves-behind-a-tr
+2026-03-22 20:11:34,900 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/12/ben-walsh-sweated-syracuses-little-stuff-h
+2026-03-22 20:11:40,274 [INFO] [174/181] Blocked/empty: https://www.syracuse.com/news/2025/12/ben-walsh-sweated-syracuses-little-stuff-h
+2026-03-22 20:11:43,275 [INFO] [175/181] Fetching: https://www.syracuse.com/news/2025/12/88-unit-apartment-building-proposed-for-syracuses-university-h
+2026-03-22 20:11:43,677 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/12/88-unit-apartment-building-proposed-for-sy
+2026-03-22 20:11:48,997 [INFO] [175/181] Blocked/empty: https://www.syracuse.com/news/2025/12/88-unit-apartment-building-proposed-for-sy
+2026-03-22 20:11:51,998 [INFO] [176/181] Fetching: https://www.syracuse.com/education/2025/12/syracuse-schools-make-progress-despite-some-of-the-lowest
+2026-03-22 20:11:52,536 [DEBUG]   HTTP 403: https://www.syracuse.com/education/2025/12/syracuse-schools-make-progress-despit
+2026-03-22 20:11:57,893 [INFO] [176/181] Blocked/empty: https://www.syracuse.com/education/2025/12/syracuse-schools-make-progress-despit
+2026-03-22 20:12:00,894 [INFO] [177/181] Fetching: https://www.syracuse.com/opinion/2012/09/meter_mess_parking_kiosk_probl.html
+2026-03-22 20:12:01,582 [DEBUG]   HTTP 403: https://www.syracuse.com/opinion/2012/09/meter_mess_parking_kiosk_probl.html
+2026-03-22 20:12:06,923 [INFO] [177/181] Blocked/empty: https://www.syracuse.com/opinion/2012/09/meter_mess_parking_kiosk_probl.html
+2026-03-22 20:12:09,923 [INFO] [178/181] Fetching: https://www.syracuse.com/news/2025/12/some-cny-towns-could-run-out-of-water-this-weekend-county-warn
+2026-03-22 20:12:10,632 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/12/some-cny-towns-could-run-out-of-water-this
+2026-03-22 20:12:15,943 [INFO] [178/181] Blocked/empty: https://www.syracuse.com/news/2025/12/some-cny-towns-could-run-out-of-water-this
+2026-03-22 20:12:18,944 [INFO] [179/181] Fetching: https://www.syracuse.com/living/2025/12/the-syracuse-prize-10k-award-will-go-to-one-resident-who-has
+2026-03-22 20:12:19,469 [DEBUG]   HTTP 403: https://www.syracuse.com/living/2025/12/the-syracuse-prize-10k-award-will-go-to-
+2026-03-22 20:12:24,790 [INFO] [179/181] Blocked/empty: https://www.syracuse.com/living/2025/12/the-syracuse-prize-10k-award-will-go-to-
+2026-03-22 20:12:27,790 [INFO] [180/181] Fetching: https://www.syracuse.com/news/2025/12/syracuse-common-council-pushes-proposal-to-build-battery-stora
+2026-03-22 20:12:28,172 [DEBUG]   HTTP 403: https://www.syracuse.com/news/2025/12/syracuse-common-council-pushes-proposal-to
+2026-03-22 20:12:33,501 [INFO] [180/181] Blocked/empty: https://www.syracuse.com/news/2025/12/syracuse-common-council-pushes-proposal-to
+2026-03-22 20:12:36,502 [INFO] [181/181] Fetching: https://www.syracuse.com/politics/cny/2025/12/feds-award-centro-9-million-to-buy-buses-for-new-rapid
+2026-03-22 20:12:36,693 [DEBUG]   HTTP 403: https://www.syracuse.com/politics/cny/2025/12/feds-award-centro-9-million-to-buy
+2026-03-22 20:12:42,009 [INFO] [181/181] Blocked/empty: https://www.syracuse.com/politics/cny/2025/12/feds-award-centro-9-million-to-buy
+2026-03-22 20:12:42,229 [INFO] Link Importer Run — 2026-03-22 20:12
+==================================================
+URLs in CSV: 452
+Skipped (domain): 4
+Already processed: 267
+Attempted this run: 181
+Blocked/empty: 132
+Recovered via Wayback Machine: 43
+Filtered (not relevant): 18
+Saved as records: 30
+Errors: 1
+
+New records:
+  • Syracuse Mayor Walsh seeks 3rd straight tax hike: ‘It’s the responsibl (2025-04-09)
+  • Syracuse Police Chief Joe Cecile will retire when Walsh’s term ends th (2025-04-14)
+  • Syracuse lawmaker Majok pulls proposal for panel to review police watc (2025-04-28)
+  • Syracuse computing its greenhouse gas output and forming climate actio (2025-04-22)
+  • Syracuse brings back police officers vs. firefighters basketball game  (2025-04-23)
+  • Years later, jury to decide whether Syracuse officer was right or wron (2025-05-13)
+  • Mayor Walsh vetoes most of Syracuse council’s budget cuts, including p (2025-05-19)
+  • Syracuse lawmakers end tumultuous budget process, overriding all of ma (2025-05-27)
+  • Plan a Visit (2022-12-01)
+  • Fence doesn’t solve problems of homeless population; it relocates them (2025-06-06)
+  • Pat Hogan: ‘I’m not going anywhere’ despite overwhelming Syracuse mayo (2025-06-27)
+  • Plan a Visit (2022-12-01)
+  • Syracuse, other Upstate NY cities on Trump administration list of ‘san (2025-05-30)
+  • Syracuse officials challenge police union’s attack on Armory Square’s  (2025-07-15)
+  • See Syracuse’s 25 most dangerous intersections (and how the city plans (2025-07-16)
+  • Neighborhood pushback leads Syracuse, county to pause drop-in center f (2025-07-25)
+  • Syracuse reports ‘significant’ greenhouse gas reductions over past 15  (2025-07-24)
+  • Syracuse lawmakers consider making it illegal to block a bicycle lane (2025-07-23)
+  • Syracuse police chief hopes union leader ‘cools off’ after ‘dangerous’ (2025-07-23)
+  • Syracuse must do more for families drinking from lead pipes (Guest Opi (2025-06-13)
+  • Bricks are falling from a smokestack at historic former Syracuse train (2025-08-13)
+  • Residents in 2 Syracuse neighborhoods can now get $2,500 to improve ‘c (2025-08-25)
+  • Watertown seeks new city attorney after Syracuse law firm steps away (2025-09-17)
+  • Blueprint 15 names Syracuse city official its interim executive direct (2025-09-15)
+  • Syracuse’s STEAM school opens with welcomes and field trips on histori (2025-09-03)
+  • Syracuse killed 137 deer in neighborhoods last year, second most since (2025-09-26)
+  • From milking cows to making millions: How Syracuse’s property brothers (2025-09-25)
+  • Parking (2019-08-05)
+  • Syracuse Inner Harbor is no place for a concrete plant (Editorial Boar (2025-11-16)
+  • Syracuse hires budget director who is expected to stay in role for May (2025-12-03)
+

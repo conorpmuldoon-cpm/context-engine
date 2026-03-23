@@ -1,0 +1,71 @@
+{
+  "record_id": "CTX-NEWS-2025-00195",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/07/syracuse-lawmakers-consider-making-it-illegal-to-block-a-bicycle-lane.html",
+  "publication_date": "2025-07-23",
+  "capture_date": "2026-03-22T19:55:58Z",
+  "title": "Syracuse lawmakers consider making it illegal to block a bicycle lane",
+  "summary": "Syracuse Common Councilor Corey Williams has introduced legislation to establish \"Blocking a Bicycle Lane\" as a standalone traffic code violation, partnering with the city auditor to enhance bicycle safety enforcement. This policy change represents a Vision Zero initiative aimed at protecting vulnerable road users through targeted code enforcement.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "legislation",
+    "policy-change",
+    "micromobility",
+    "vision-zero",
+    "code-enforcement",
+    "transportation",
+    "public-safety-commission",
+    "initiative-launch"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "City Auditor",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-AUDITOR"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    },
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-BOYER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Cross-departmental support (Council + Audit) for bicycle safety enforcement aligns with Vision Zero and active transportation priorities",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content is brief; full legislative text not available for detailed impact analysis",
+    "Related Vision Zero reference suggests broader safety strategy alignment",
+    "City Auditor partnership indicates governance/compliance angle worth monitoring",
+    "No fiscal impact, implementation timeline, or enforcement mechanism details provided in article",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)"
+  ],
+  "last_relevance_update": null
+}

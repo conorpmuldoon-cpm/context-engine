@@ -1,0 +1,76 @@
+{
+  "record_id": "CTX-NEWS-2025-00198",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/08/bricks-are-falling-from-a-smokestack-at-historic-former-syracuse-train-station-city-orders-it-razed.html?outputType=amp",
+  "publication_date": "2025-08-13",
+  "capture_date": "2026-03-22T19:58:25Z",
+  "title": "Bricks are falling from a smokestack at historic former Syracuse train station. City orders it razed",
+  "summary": "The City of Syracuse has ordered demolition of a 100-foot smokestack at the historic former New York Central Railroad building after bricks began falling onto public areas since April. The decision follows a dispute between the city's Code Enforcement division and property owner Tom Hornstein over responsibility for repairs; Hornstein attributes deterioration to nearby DOT construction vibrations and estimates demolition costs at $60,000, while the DOT and city attribute the damage to inadequate maintenance.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "code-enforcement",
+    "historic-preservation",
+    "infrastructure",
+    "facilities",
+    "public-safety",
+    "complaint",
+    "intergovernmental",
+    "escalating",
+    "land-use"
+  ],
+  "department_refs": [
+    "Division of Code Enforcement",
+    "New York State Department of Transportation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Tom Hornstein",
+      "type": "person",
+      "canonical_id": "PERSON-TOM-HORNSTEIN"
+    },
+    {
+      "name": "Ryan Shiel",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-SHIEL"
+    },
+    {
+      "name": "Greg Loh",
+      "type": "person",
+      "canonical_id": "PERSON-GREG-LOH"
+    },
+    {
+      "name": "New York Central Railroad Building",
+      "type": "system",
+      "canonical_id": "SYS-NYCR-BUILDING"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Code enforcement action against private property owner with escalation to mandatory demolition; underlying dispute over responsibility allocation between private developer, city, and state agency; potential financial and historic preservation implications",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article truncated mid-sentence; full content unavailable for complete analysis",
+    "Property listed on National Register of Historic Places (2009) — demolition may trigger state-level historic preservation review requirements",
+    "Ongoing dispute context: city previously sued owner for code violations (fall 2024); owner moving operations off-site",
+    "I-81 reconstruction project intersection creates multi-agency coordination complexity",
+    "Estimated cost: $60,000 (owner estimate); potential cost allocation question between city, owner, and DOT",
+    "Interstate 690 proximity and motorist safety adds public safety dimension",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

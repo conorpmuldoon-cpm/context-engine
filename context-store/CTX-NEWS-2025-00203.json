@@ -1,0 +1,74 @@
+{
+  "record_id": "CTX-NEWS-2025-00203",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/outdoors/2025/09/syracuse-eliminated-137-deer-in-city-neighborhoods-last-year-second-largest-tally-since-2019.html",
+  "publication_date": "2025-09-26",
+  "capture_date": "2026-03-22T20:01:30Z",
+  "title": "Syracuse killed 137 deer in neighborhoods last year, second most since 2019",
+  "summary": "Syracuse culled 137 deer in neighborhoods during January-March 2024, the second-highest total since the program began in 2019. The city's tick and deer management initiative, which donates all venison to the Food Bank of Central New York (16,500 pounds/60,000 meals to date), is expanding due to new state law allowing sharpshooters to operate closer to residences (250 feet vs. 500 feet setback). A Common Council update on results and 2025-26 plans is scheduled for Monday with public comment opportunity.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "parks",
+    "sustainability",
+    "intergovernmental",
+    "policy-change",
+    "state-mandates",
+    "residents",
+    "announcement",
+    "initiative-launch",
+    "public-safety-commission"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs",
+    "Office of the Mayor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Food Bank of Central New York",
+      "type": "organization",
+      "canonical_id": "ORG-FBCNY"
+    },
+    {
+      "name": "U.S. Department of Agriculture",
+      "type": "organization",
+      "canonical_id": "ORG-USDA"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYR-CC"
+    },
+    {
+      "name": "Steve Featherstone",
+      "type": "person",
+      "canonical_id": "PERSON-STEVE-FEATHERSTONE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Deer management program demonstrates municipal commitment to public health (Lyme disease prevention), public safety (vehicle collisions), and environmental stewardship while addressing constituent concerns about wildlife in urban neighborhoods. Expansion enabled by state legislative action.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is procedural/informational regarding ongoing city program, not crisis-driven",
+    "New state law reducing setbacks is enabling expansion - state mandates tag applies",
+    "Data collection via 'resident diarists' indicates community engagement mechanism",
+    "No direct CIO systems mentioned, but data governance and GIS mapping likely underpin deer density tracking and property location analysis",
+    "Contact pathways provided for residents to participate (mayor's office, Parks Dept)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,90 @@
+{
+  "record_id": "CTX-NEWS-2025-00178",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2025/03/state-senator-city-auditor-ny-aid-to-cities-isnt-keeping-up-your-letters.html",
+  "publication_date": "2025-03-31",
+  "capture_date": "2026-03-22T19:45:04Z",
+  "title": "State senator, city auditor: NY aid to cities isn’t keeping up (Your Letters)",
+  "summary": "State Senator Christopher J. Ryan and City Auditor Alexander Marion advocate for redesigning New York's AIM (Aid and Incentives for Municipalities) formula, which has been frozen since 2012. They argue that Syracuse's reliance on state aid as its second-largest revenue source necessitates updated funding mechanisms to address rising operational costs, climate adaptation, cybersecurity, and tax-exempt property growth. A proposed state Senate commission would lead the redesign effort.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "state-mandates",
+    "state-agency",
+    "tax-revenue",
+    "budget",
+    "intergovernmental",
+    "infrastructure",
+    "sustainability",
+    "cybersecurity",
+    "workforce-development",
+    "advocacy"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Syracuse Police Department",
+    "Syracuse Water Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Christopher J. Ryan",
+      "type": "person",
+      "canonical_id": "PERSON-CHRISTOPHER-RYAN"
+    },
+    {
+      "name": "Alexander Marion",
+      "type": "person",
+      "canonical_id": "PERSON-ALEXANDER-MARION"
+    },
+    {
+      "name": "Kathy Hochul",
+      "type": "person",
+      "canonical_id": "PERSON-KATHY-HOCHUL"
+    },
+    {
+      "name": "Andrew Cuomo",
+      "type": "person",
+      "canonical_id": "PERSON-ANDREW-CUOMO"
+    },
+    {
+      "name": "George Pataki",
+      "type": "person",
+      "canonical_id": "PERSON-GEORGE-PATAKI"
+    },
+    {
+      "name": "New York State Senate",
+      "type": "organization",
+      "canonical_id": "ORG-NYS-SENATE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "State Senator Ryan champions a commission to redesign the AIM formula as a budget priority, positioning it as critical infrastructure for city sustainability. The framing emphasizes fiscal vulnerability and institutional inaction since 2012.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00176"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts extracted ($50M state infusion, $5M Syracuse allocation, $13.5M reference) represent state commitment and policy scale context",
+    "Entity validation: Alexander Marion confirmed as City Auditor; Christopher J. Ryan confirmed as State Senator (D-Geddes, 50th District, Chair of Cities 2 Committee)",
+    "Department references inferred from service delivery examples in text (trash/yard waste, snow plowing, police, fire, water); fire/police explicitly mentioned",
+    "Opinion/letters format: high advocacy tone; recommend cross-reference with official CIO budget priorities and state legislative tracking",
+    "No direct CIO system mentions; relevance is indirect (state funding impacts municipal IT, cybersecurity mandates mentioned as city challenge)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00176"
+  ],
+  "last_relevance_update": null
+}

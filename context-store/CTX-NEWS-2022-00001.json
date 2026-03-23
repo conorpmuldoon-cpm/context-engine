@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-NEWS-2022-00001",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://downtownsyracuse.com/get-around-and-park",
+  "publication_date": "2022-12-01",
+  "capture_date": "2026-03-22T19:50:12Z",
+  "title": "Plan a Visit",
+  "summary": "Downtown Syracuse Foundation promotional guide encouraging visitors to use multiple transportation modes including walking, biking (via Empire State Trail), driving (with affordable parking), and public transit (Centro Bus Service). Content positions downtown as accessible and easy to navigate across all mobility options.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "transportation",
+    "micromobility",
+    "parks",
+    "economic-development",
+    "digital-services",
+    "accessibility"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Centro Bus Service",
+      "type": "organization",
+      "canonical_id": "ORG-CENTRO"
+    },
+    {
+      "name": "Empire State Trail",
+      "type": "system",
+      "canonical_id": "SYS-EMPIRE-STATE-TRAIL"
+    },
+    {
+      "name": "Downtown Syracuse Foundation",
+      "type": "organization",
+      "canonical_id": "ORG-DSF"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Content reflects municipal priority to position downtown as multimodal-accessible destination; aligns with sustainability and vision-zero adjacent goals through promotion of alternative transportation modes.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is promotional content from Downtown Syracuse Foundation website, not municipal government announcement",
+    "No budget, procurement, or policy decisions documented",
+    "Author listed as Unknown; published 2022-12-01",
+    "Accessibility features mentioned (Alt+1 screen reader mode) indicate web accessibility consideration",
+    "External entity Centro Bus Service mentioned; no municipal department explicitly referenced",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (downtownsyracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,69 @@
+{
+  "record_id": "CTX-NEWS-2025-00181",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/04/syracuse-police-chief-joe-cecile-will-retire-when-walshs-term-ends-this-year.html",
+  "publication_date": "2025-04-14",
+  "capture_date": "2026-03-22T19:46:34Z",
+  "title": "Syracuse Police Chief Joe Cecile will retire when Walsh’s term ends this year",
+  "summary": "Syracuse Police Chief Joe Cecile will retire on December 31, 2025, when Mayor Ben Walsh's term ends. Cecile, who has served 40+ years in the SPD and became chief in 2022, publicly recommends that his successor be selected from within the department's ranks, signaling a leadership transition decision point for the incoming mayor.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "leadership-change",
+    "department-head",
+    "announcement",
+    "succession-planning"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Kenton Buckner",
+      "type": "person",
+      "canonical_id": "PERSON-KENTON-BUCKNER"
+    },
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-BOYER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Outgoing chief signals institutional continuity preference by publicly advocating for internal successor selection, positioning this as a governance priority for next administration.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article establishes clear timeline: retirement effective 12/31/2025, coinciding with mayoral transition",
+    "Chief's public recommendation for internal promotion may constrain successor selection process",
+    "No information on interim chief appointment or recruitment timeline in article",
+    "Consider linking to mayoral election cycle and police department organizational charts in context engine",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)",
+    "Tag warning: Unknown tag 'succession-planning' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

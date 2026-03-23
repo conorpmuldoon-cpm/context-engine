@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-NEWS-2025-00194",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/07/syracuse-reports-significant-greenhouse-gas-reductions-over-past-15-years.html",
+  "publication_date": "2025-07-24",
+  "capture_date": "2026-03-22T19:55:41Z",
+  "title": "Syracuse reports ‘significant’ greenhouse gas reductions over past 15 years",
+  "summary": "Syracuse released a 2024 Greenhouse Gas Emission Inventory showing municipal operations achieved 67% emissions reductions over 14 years. The state-funded study by C&S Cos. will inform development of a Climate Action Plan targeting net-zero emissions, indicating the city is advancing sustainability goals with measurable progress data.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "sustainability",
+    "initiative-launch",
+    "announcement",
+    "state-mandates",
+    "data-governance"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-BOYER"
+    },
+    {
+      "name": "C&S Cos.",
+      "type": "organization",
+      "canonical_id": "ORG-CS-COS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "City leadership demonstrates commitment to climate action and net-zero emissions goals through formal inventory reporting and Climate Action Plan development; positions sustainability as measurable municipal priority.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on municipal emissions reductions; community-wide emissions data may also be present in full report but not detailed in article excerpt.",
+    "No specific CIO/IT infrastructure implications detected in article content, though Climate Action Plan development and GHG inventory tracking may require digital systems and data governance.",
+    "Syracuse Police Department mentioned in related articles sidebar but not substantively connected to this climate reporting story.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)"
+  ],
+  "last_relevance_update": null
+}

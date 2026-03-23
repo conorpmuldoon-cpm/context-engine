@@ -1,0 +1,77 @@
+{
+  "record_id": "CTX-NEWS-2025-00180",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/04/syracuse-mayor-walsh-seeks-3rd-straight-tax-hike-its-the-responsible-thing-to-do.html",
+  "publication_date": "2025-04-09",
+  "capture_date": "2026-03-22T19:46:04Z",
+  "title": "Syracuse Mayor Walsh seeks 3rd straight tax hike: ‘It’s the responsible thing to do’",
+  "summary": "Mayor Ben Walsh proposes a 2% property tax increase for the 2025-26 budget cycle, marking the third consecutive year of such increases. The increase is driven by rising retirement and health insurance costs, declining sales tax revenue, and reduced investment income, necessitating a $27.2 million draw from the city's $120 million fund balance. The $348.4 million budget proposal goes to the Common Council on April 9, 2025, for approval by May 8.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "tax-revenue",
+    "mayor",
+    "council",
+    "recurring",
+    "labor-relations",
+    "payroll",
+    "benefits",
+    "federal-programs",
+    "economic-development",
+    "code-enforcement",
+    "hiring"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Syracuse Fire Department",
+    "Department of Finance",
+    "Department of Code Enforcement"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Kathy Hochul",
+      "type": "person",
+      "canonical_id": "PERSON-KATHY-HOCHUL"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Mayor framing tax increases as fiscally responsible stewardship despite initial goal to avoid them; positions fund balance growth and budget surpluses as justification for approach. Three-year consecutive increase pattern suggests structural budget pressure.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00002"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts in mechanical extraction require normalization (e.g., '$348' should be '$348.4 million')",
+    "Article mentions four tax increases in eight years under Walsh; current proposal would be fourth if approved",
+    "Key revenue pressure: sales tax decline, expiration of federal American Rescue Plan funds, lower investment income from interest rate environment",
+    "New position additions tied to revenue generation (traffic enforcement) and cost efficiency (code enforcement)",
+    "Budget hearing process spans remainder of April; final approval deadline May 8, 2025",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)",
+    "Potential duplicate of CTX-NEWS-2025-00002"
+  ],
+  "last_relevance_update": null
+}

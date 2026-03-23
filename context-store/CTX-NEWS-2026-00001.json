@@ -1,0 +1,74 @@
+{
+  "record_id": "CTX-NEWS-2026-00001",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "http://www.waer.org",
+  "publication_date": "2026-03-22",
+  "capture_date": "2026-03-22T18:34:23Z",
+  "title": "Homepage",
+  "summary": "WAER homepage aggregates regional news including Syracuse University athletics leadership changes, New York state climate and insurance policy developments, and local Central New York infrastructure updates. Limited direct relevance to Syracuse city government operations; primarily covers university, state-level governance, and sports coverage.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "state-mandates",
+    "state-agency",
+    "sustainability",
+    "policy-change",
+    "intergovernmental"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SUNI"
+    },
+    {
+      "name": "Bryan Blair",
+      "type": "person",
+      "canonical_id": "PERSON-BRYAN-BLAIR"
+    },
+    {
+      "name": "Kathy Hochul",
+      "type": "person",
+      "canonical_id": "PERSON-KATHY-HOCHUL"
+    },
+    {
+      "name": "New York Attorney General",
+      "type": "organization",
+      "canonical_id": "ORG-NYAG"
+    },
+    {
+      "name": "Marcy Correctional Center",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "State-level climate law amendments and insurance reform proposals generating stakeholder opposition (trial lawyers vs. Uber); environmental litigation vs. Trump administration EPA actions indicate ongoing state-federal regulatory tension.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is WAER homepage index, not substantive news piece—primarily link aggregation",
+    "Most content focuses on state-level policy and university athletics; minimal direct city government relevance",
+    "Fire/Police department reference limited to relocation announcement without operational details",
+    "Mechanical extraction of '$180K' income threshold relates to federal tariff proposal, not city budget",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

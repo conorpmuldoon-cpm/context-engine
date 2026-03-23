@@ -1,0 +1,95 @@
+{
+  "record_id": "CTX-NEWS-2025-00193",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/07/neighborhood-pushback-leads-syracuse-county-to-pause-drop-in-center-for-homeless.html",
+  "publication_date": "2025-07-25",
+  "capture_date": "2026-03-22T19:55:14Z",
+  "title": "Neighborhood pushback leads Syracuse, county to pause drop-in center for homeless",
+  "summary": "Syracuse and Onondaga County have paused plans for a daytime drop-in warming/cooling center for homeless individuals on West Onondaga Street following neighborhood opposition. Business owners and residents launched a petition citing concerns about concentrated social services in an already-stressed corridor, prompting city officials to request the county halt the project. The $30–50 person facility, funded by opioid settlement money, was originally scheduled to open in August but now lacks a timeline; city leadership emphasizes the need for community engagement in future site selection.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "homelessness",
+    "PROVISIONAL:homeless-services",
+    "neighborhood-services",
+    "constituent-complaints",
+    "community-engagement",
+    "PROVISIONAL:social-services-siting",
+    "equity",
+    "business-community",
+    "intergovernmental",
+    "policy-change",
+    "escalating"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development",
+    "Onondaga County Executive Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael Collins",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-COLLINS"
+    },
+    {
+      "name": "Kim Vinciguerra",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Ann Rooney",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    },
+    {
+      "name": "Catholic Charities",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Neighborhood opposition via petition and direct outreach to officials successfully halted facility siting decision; city leadership responded rapidly to constituent concerns, prioritizing community engagement over expedited service deployment. Signals tension between addressing acute homelessness crisis and managing neighborhood opposition to concentrated social services.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts extracted ($5, $1) appear to be OCR artifacts or incomplete; no material budget figures in article content.",
+    "Department of Permits and Development mentioned in mechanical extractions but not substantively referenced in article text.",
+    "Article focuses on governance process and constituent engagement rather than CIO technical concerns; limited IT/digital infrastructure implications.",
+    "Key decision-makers: Michael Collins (neighborhood/business dev), county executive office; city appears to have deferred further action to county pending community buy-in.",
+    "Dickerson Street location and Rescue Mission campus are specific geographic anchors for future tracking.",
+    "Opioid settlement funding source noted; may connect to federal program compliance or grant management workflows.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)",
+    "Tag warning: Unknown tag 'homelessness' not in taxonomy",
+    "Tag warning: Unknown tag 'community-engagement' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

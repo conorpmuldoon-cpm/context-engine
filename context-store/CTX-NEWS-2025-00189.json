@@ -1,0 +1,82 @@
+{
+  "record_id": "CTX-NEWS-2025-00189",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/06/pat-hogan-im-not-going-anywhere-despite-overwhelming-syracuse-mayoral-primary-loss.html",
+  "publication_date": "2025-06-27",
+  "capture_date": "2026-03-22T19:52:15Z",
+  "title": "Pat Hogan: ‘I’m not going anywhere’ despite overwhelming Syracuse mayoral primary loss",
+  "summary": "Pat Hogan, a seven-term Syracuse Common Councilor, lost the Democratic mayoral primary on June 27, 2025, receiving 23% of the vote compared to winner Sharon Owens's 62%. Despite the decisive loss—worse than his 2013 primary defeat—Hogan stated he is remaining active in city politics and will continue advocating for community needs.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "vote",
+    "leadership-change",
+    "mayor",
+    "council",
+    "advocacy"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-CHOL-MAJOK"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Stephanie Miner",
+      "type": "person",
+      "canonical_id": "PERSON-STEPHANIE-MINER"
+    },
+    {
+      "name": "Onondaga County Democratic Committee",
+      "type": "organization",
+      "canonical_id": "ORG-ONDAGA-DEMS"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYR-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Hogan's campaign positioned him in opposition to incumbent Mayor Ben Walsh's administration policies; loss signals voter preference for Owens's platform despite Hogan's official party endorsement and diverse coalition support.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is electoral reporting with limited direct CIO relevance unless tracking mayoral transition planning implications",
+    "Hogan's statement about continuing advocacy suggests potential for future constituent engagement or policy pressure on winner",
+    "Date format appears inconsistent with article content (2025-06-27 date with references to 'Tuesday primary' and 'Thursday interview'—internal consistency check recommended)",
+    "No budget, infrastructure, or digital services content identified",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

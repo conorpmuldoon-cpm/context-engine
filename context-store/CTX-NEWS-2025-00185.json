@@ -1,0 +1,85 @@
+{
+  "record_id": "CTX-NEWS-2025-00185",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/05/years-later-jury-to-decide-was-officer-right-or-wrong-to-fatally-shoot-man-at-fathers-day-party.html",
+  "publication_date": "2025-05-13",
+  "capture_date": "2026-03-22T19:48:10Z",
+  "title": "Years later, jury to decide whether Syracuse officer was right or wrong to fatally shoot man at Father’s Day party",
+  "summary": "A federal civil trial began regarding a 2016 fatal shooting by Syracuse Police Officer Kelsey Francemone at a Father's Day barbecue. The case centers on disputed facts: whether victim Gary Porter was armed and firing, whether the officer properly identified herself, and the significance of gunshot residue evidence. A proposed $825,000 settlement failed due to insufficient City Council votes, forcing the case to jury trial after a grand jury had previously cleared the officer of criminal charges.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "investigation",
+    "public-safety-commission",
+    "litigation",
+    "PROVISIONAL:use-of-force",
+    "escalating",
+    "transparency",
+    "vote",
+    "state-agency"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Kelsey Francemone",
+      "type": "person",
+      "canonical_id": "PERSON-KELSEY-FRANCEMONE"
+    },
+    {
+      "name": "Gary Porter",
+      "type": "person",
+      "canonical_id": "PERSON-GARY-PORTER"
+    },
+    {
+      "name": "Tanajee Maddox",
+      "type": "person",
+      "canonical_id": "PERSON-TANAJEE-MADDOX"
+    },
+    {
+      "name": "William Fitzpatrick",
+      "type": "person",
+      "canonical_id": "PERSON-WILLIAM-FITZPATRICK"
+    },
+    {
+      "name": "Onondaga County District Attorney",
+      "type": "organization",
+      "canonical_id": "ORG-DA-ONONDAGA"
+    },
+    {
+      "name": "New York State Attorney General",
+      "type": "organization",
+      "canonical_id": "ORG-NYAG"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "City Council divided on settlement approval; some councilors disputed liability and necessity of settlement, reflecting internal disagreement on police accountability. Case also indicates gaps in prior oversight (no body cameras in 2016, state AG authority limitations since closed).",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article truncated mid-sentence; full content unavailable for complete analysis",
+    "Dollar amount $825,000 is failed settlement proposal, not approved expenditure",
+    "Event occurred 2016 but trial commenced 2025 — nine-year delay relevant to case management",
+    "Key systemic context: body camera implementation timeline (post-2016), state law changes regarding AG investigation authority",
+    "Political division on council vote suggests internal constituency management issue for CIO awareness",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)",
+    "Tag warning: Unknown tag 'litigation' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

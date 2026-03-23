@@ -1,0 +1,88 @@
+{
+  "record_id": "CTX-NEWS-2025-00190",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/2025/05/syracuse-other-upstate-ny-cities-on-trump-administration-list-of-sanctuary-jurisdictions.html",
+  "publication_date": "2025-05-30",
+  "capture_date": "2026-03-22T19:53:04Z",
+  "title": "Syracuse, other Upstate NY cities on Trump administration list of ‘sanctuary jurisdictions’",
+  "summary": "Syracuse has been designated by the Trump administration's Department of Homeland Security as a 'sanctuary jurisdiction' for allegedly obstructing federal immigration law enforcement. The city joins over 500 jurisdictions nationally and 12 in New York State on this list, with potential consequences including loss of federal funding. Current Mayor Ben Walsh maintains Syracuse's welcoming stance toward immigrants while the Police Department does not enforce federal immigration law.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "executive-orders",
+    "federal-programs",
+    "intergovernmental",
+    "policy-change",
+    "public-safety-commission",
+    "state-mandates",
+    "trending",
+    "PROVISIONAL:immigration-enforcement",
+    "PROVISIONAL:federal-compliance"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Donald Trump",
+      "type": "person",
+      "canonical_id": "PERSON-DONALD-TRUMP"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Stephanie Miner",
+      "type": "person",
+      "canonical_id": "PERSON-STEPHANIE-MINER"
+    },
+    {
+      "name": "Toby Shelley",
+      "type": "person",
+      "canonical_id": "PERSON-TOBY-SHELLEY"
+    },
+    {
+      "name": "Kristi Noem",
+      "type": "person",
+      "canonical_id": "PERSON-KRISTI-NOEM"
+    },
+    {
+      "name": "Tom Homan",
+      "type": "person",
+      "canonical_id": "PERSON-TOM-HOMAN"
+    },
+    {
+      "name": "Department of Homeland Security",
+      "type": "organization",
+      "canonical_id": "ORG-DHS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Federal executive branch is directly challenging Syracuse's immigration enforcement policies and threatening federal funding loss as enforcement mechanism. This represents heightened scrutiny of city sanctuary policies.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date 2025-05-30 is future-dated; verify publication date accuracy",
+    "No specific budget figures or funding amounts mentioned despite reference to potential federal funding loss",
+    "Onondaga County Sheriff's office mentioned but not City department; clarify scope of city vs. county coordination",
+    "Law Department likely to be engaged given legal/compliance implications; not explicitly mentioned in article",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)"
+  ],
+  "last_relevance_update": null
+}

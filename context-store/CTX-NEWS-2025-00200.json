@@ -1,0 +1,85 @@
+{
+  "record_id": "CTX-NEWS-2025-00200",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/09/watertown-seeks-new-city-attorney-after-syracuse-law-firm-steps-away.html",
+  "publication_date": "2025-09-17",
+  "capture_date": "2026-03-22T19:59:33Z",
+  "title": "Watertown seeks new city attorney after Syracuse law firm steps away",
+  "summary": "Watertown (NY) is replacing its city attorney after Syracuse-based law firm Bond, Schoeneck & King withdrew from the role following criticism of attorney Kristen Smith's handling of ethics complaints and a state police investigation into a $3.34M golf course purchase. The city plans to issue an RFP within 30 days and appoint a new firm by end of 2026, preferring a local law firm for the general counsel position while BSK continues litigation and specialty work.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "procurement",
+    "investigation",
+    "council",
+    "policy-change",
+    "transparency",
+    "escalating"
+  ],
+  "department_refs": [
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Bond, Schoeneck & King",
+      "type": "organization",
+      "canonical_id": "ORG-BSK"
+    },
+    {
+      "name": "Kristen Smith",
+      "type": "person",
+      "canonical_id": "PERSON-KRISTEN-SMITH"
+    },
+    {
+      "name": "Eric Wagenaar",
+      "type": "person",
+      "canonical_id": "PERSON-ERIC-WAGENAAR"
+    },
+    {
+      "name": "Sarah V.C. Pierce",
+      "type": "person",
+      "canonical_id": "PERSON-SARAH-PIERCE"
+    },
+    {
+      "name": "Cliff G. Olney III",
+      "type": "person",
+      "canonical_id": "PERSON-CLIFF-OLNEY"
+    },
+    {
+      "name": "Harris Beach",
+      "type": "organization",
+      "canonical_id": "ORG-HARRIS-BEACH"
+    },
+    {
+      "name": "H. Todd Bullard",
+      "type": "person",
+      "canonical_id": "PERSON-TODD-BULLARD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council member dissatisfaction with city attorney's handling of ethics complaints, legal bills redaction practices, and involvement in state police investigation; third attorney search in two years indicates governance instability.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount '$3.4 million' and '$3.34 million' refer to same Watertown Golf Club purchase transaction",
+    "Article indicates intergovernmental coordination with state police and state attorney general's office",
+    "Third leadership change in this role within 24 months suggests systemic governance challenge",
+    "No direct Syracuse CIO department impact, but governance/procurement process methodology may be relevant",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)"
+  ],
+  "last_relevance_update": null
+}

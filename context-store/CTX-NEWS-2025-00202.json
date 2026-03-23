@@ -1,0 +1,89 @@
+{
+  "record_id": "CTX-NEWS-2025-00202",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/schools/2025/09/syracuses-steam-school-opens-with-welcomes-and-field-trips-on-historic-first-day-you-all-are-pioneers.html",
+  "publication_date": "2025-09-03",
+  "capture_date": "2026-03-22T20:00:21Z",
+  "title": "Syracuse’s STEAM school opens with welcomes and field trips on historic first day: ‘You all are pioneers’",
+  "summary": "Syracuse opened STEAM High School on September 3, 2025, a regional magnet school in a renovated 122-year-old downtown building that represents a seven-year effort by local and state leadership. The inaugural class of 200+ ninth graders can specialize in nine STEAM-focused areas including data analytics, robotics, semiconductor manufacturing, and performing arts, with the school expected to grow to ~1,000 students. The $100M project received $71M in state investment and support from Micron Technology, positioning Syracuse to align education with regional workforce demands.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "initiative-launch",
+    "economic-development",
+    "workforce-development",
+    "education",
+    "business-community",
+    "capital-planning",
+    "historic-preservation",
+    "mayor"
+  ],
+  "department_refs": [
+    "Office of the Mayor",
+    "Syracuse City School District"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "C&S Companies",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Redhouse",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "The MOST",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Syracuse STEAM High School",
+      "type": "system",
+      "canonical_id": "SYS-STEAM-HS"
+    },
+    {
+      "name": "Madison Howard",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor Walsh championed this seven-year initiative (launched 2019) as flagship regional education-workforce development aligned with emerging tech sector (Micron semiconductor investment). Opening positions city as innovation hub.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references historic downtown building renovation but lacks specific technology infrastructure details relevant to CIO mandate",
+    "No mention of digital systems, data governance, cybersecurity, or IT infrastructure supporting the school operations",
+    "Dollar amounts: $100M total project cost; $71M state investment; Micron pledge amount not specified",
+    "Nine specialty programs identified but no tech platform or learning management system mentioned",
+    "Recommend outreach to SCSD IT for digital infrastructure, cybersecurity posture, and data systems supporting STEAM operations",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)",
+    "Tag warning: Unknown tag 'education' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-NEWS-2019-00001",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://downtownsyracuse.com/get-around-park/parking",
+  "publication_date": "2019-08-05",
+  "capture_date": "2026-03-22T20:07:27Z",
+  "title": "Parking",
+  "summary": "Downtown Syracuse Foundation published a comprehensive parking directory listing 47+ parking facilities (garages, lots, and valet services) with contact information and addresses. This resource serves visitors and businesses navigating downtown parking options and is available as a downloadable guide, supporting downtown economic development and user experience.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "transportation",
+    "digital-services",
+    "business-community"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Downtown Syracuse Foundation",
+      "type": "organization",
+      "canonical_id": "ORG-DSF"
+    },
+    {
+      "name": "National Grid",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Laz Parking",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Syracuse Parking Association LLC",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Publication of comprehensive parking directory aligns with downtown revitalization and economic development priorities by reducing friction for visitors and businesses accessing downtown Syracuse.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is a resource directory rather than news reporting; limited actionable intelligence for CIO beyond service catalog awareness",
+    "Multiple private parking operators referenced; potential GIS/digital services integration opportunity for unified parking availability platform",
+    "Date is 2019; content currency should be verified against current downtown parking landscape",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (downtownsyracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)"
+  ],
+  "last_relevance_update": null
+}

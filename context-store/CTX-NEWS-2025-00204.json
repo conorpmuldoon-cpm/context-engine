@@ -1,0 +1,78 @@
+{
+  "record_id": "CTX-NEWS-2025-00204",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2025/09/from-milking-cows-to-making-millions-how-syracuses-property-brothers-built-a-real-estate-empire.html",
+  "publication_date": "2025-09-25",
+  "capture_date": "2026-03-22T20:02:11Z",
+  "title": "From milking cows to making millions: How Syracuse’s property brothers built a real estate empire",
+  "summary": "Syracuse-based IronHorn Enterprises, founded by brothers Colin and Greg Cleghorn, has built a $275M real estate portfolio focused on industrial properties and e-commerce warehousing across 17 states. The company's growth demonstrates regional entrepreneurial success and has generated local employment; recent acquisitions include the former Rite Aid distribution center (Clay) and warehouse leases to regional businesses like Beak & Skiff Apple Orchards.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "business-community",
+    "workforce-development",
+    "real-estate",
+    "PROVISIONAL:commercial-real-estate",
+    "PROVISIONAL:supply-chain-logistics"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Colin Cleghorn",
+      "type": "person",
+      "canonical_id": "PERSON-COLIN-CLEGHORN"
+    },
+    {
+      "name": "Greg Cleghorn",
+      "type": "person",
+      "canonical_id": "PERSON-GREG-CLEGHORN"
+    },
+    {
+      "name": "IronHorn Enterprises",
+      "type": "organization",
+      "canonical_id": "ORG-IRONHORN-ENTERPRISES"
+    },
+    {
+      "name": "Le Moyne College",
+      "type": "organization",
+      "canonical_id": "ORG-LE-MOYNE-COLLEGE"
+    },
+    {
+      "name": "Beak & Skiff Apple Orchards",
+      "type": "organization",
+      "canonical_id": "ORG-BEAK-SKIFF"
+    },
+    {
+      "name": "Central New York Regional Market",
+      "type": "organization",
+      "canonical_id": "ORG-CNYREGIONAL-MARKET"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Article highlights private-sector economic development success and job creation in Syracuse region, aligning with CIO/municipal economic development priorities. Industrial property growth driven by e-commerce logistics represents infrastructure modernization trend.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is business profile/success story, not policy-related; limited direct CIO operational relevance but high strategic/economic development context value",
+    "Geographic references: Syracuse (South Side), Manlius (HQ), Clay (Rite Aid facility), Hiawatha Boulevard East (warehouse) - potential GIS/land-use planning connection",
+    "No government agencies or city departments directly referenced; story focuses entirely on private enterprise",
+    "Date: 2025-09-25 (future-dated; appears to be template or archival document)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)",
+    "Tag warning: Unknown tag 'real-estate' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

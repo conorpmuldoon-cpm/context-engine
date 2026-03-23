@@ -1,0 +1,77 @@
+{
+  "record_id": "CTX-NEWS-2025-00205",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2025/11/syracuse-inner-harbor-is-no-place-for-a-concrete-plant-editorial-board-opinion.html",
+  "publication_date": "2025-11-16",
+  "capture_date": "2026-03-22T20:08:03Z",
+  "title": "Syracuse Inner Harbor is no place for a concrete plant (Editorial Board Opinion)",
+  "summary": "Editorial board opposes Heidelberg Materials' plan to restart a concrete batch plant at 411-421 Spencer Street, two blocks from the Syracuse Inner Harbor and the $100M aquarium under construction. The board argues the 24/7 operation is incompatible with waterfront redevelopment goals and recommends the Common Council deny the special permit application. County Executive Ryan McMahon has offered to help relocate the facility.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "land-use",
+    "zoning",
+    "permitting",
+    "economic-development",
+    "infrastructure",
+    "PROVISIONAL:waterfront-development",
+    "PROVISIONAL:aquarium-project",
+    "advocacy"
+  ],
+  "department_refs": [
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Heidelberg Materials",
+      "type": "organization",
+      "canonical_id": "ORG-HEIDELBERG-MATERIALS"
+    },
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Len Montreal",
+      "type": "person",
+      "canonical_id": "PERSON-LEN-MONTREAL"
+    },
+    {
+      "name": "Syracuse Inner Harbor",
+      "type": "system",
+      "canonical_id": "SYS-INNER-HARBOR"
+    },
+    {
+      "name": "Advance Media NY Editorial Board",
+      "type": "organization",
+      "canonical_id": "ORG-ADVANCE-MEDIA-NY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Editorial board publicly opposes concrete plant permit; positions decision as protecting $85M county aquarium investment and waterfront redevelopment vision. County Executive aligned in opposition.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts: $100M (aquarium), $85M (county funding), millions (developer rehab investment) — validate precision",
+    "Application withdrawn twice from planning board agenda — suggests political/procedural maneuvering; escalation risk",
+    "Common Council has final permit authority — key decision point for CIO tracking",
+    "No CIO department directly referenced; relevance is strategic infrastructure/land-use planning context",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

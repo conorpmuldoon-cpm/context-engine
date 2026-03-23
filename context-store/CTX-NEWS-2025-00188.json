@@ -1,0 +1,74 @@
+{
+  "record_id": "CTX-NEWS-2025-00188",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2025/06/fence-doesnt-solve-problems-of-homeless-population-it-relocates-them-your-letters.html",
+  "publication_date": "2025-06-06",
+  "capture_date": "2026-03-22T19:50:44Z",
+  "title": "Fence doesn’t solve problems of homeless population; it relocates them (Your Letters)",
+  "summary": "Opinion letter critiques the city's fence installation at Dickerson Street near the Rescue Mission as a temporary containment measure that displaces rather than solves homelessness, addiction, and mental illness. Author, a West Onondaga Street business owner and community activist, advocates for decentralized, smaller-scale social services distributed across all neighborhoods rather than concentrated facilities that burden specific areas.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "homelessness",
+    "PROVISIONAL:social-services",
+    "neighborhood-services",
+    "equity",
+    "business-community",
+    "PROVISIONAL:service-distribution",
+    "advocacy"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Community Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ed Griffin-Nolan",
+      "type": "person",
+      "canonical_id": "PERSON-ED-GRIFFIN-NOLAN"
+    },
+    {
+      "name": "Rescue Mission",
+      "type": "organization",
+      "canonical_id": "ORG-RESCUE-MISSION"
+    },
+    {
+      "name": "Salt City Market",
+      "type": "organization",
+      "canonical_id": "ORG-SALT-CITY-MARKET"
+    },
+    {
+      "name": "Central Library",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Business owner and community activist calling for policy shift away from concentrated social services toward decentralized neighborhood-level service distribution; frames current approach as inequitable burden-shifting.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author identified as Ed Griffin-Nolan via byline at letter end",
+    "Article references prior news coverage ('A fence? Or a cage?' from June 5, 2025)",
+    "Specific streets mentioned: Dickerson, Salina, Clinton, Gifford, West Onondaga, Seymour",
+    "No CIO-specific systems or IT infrastructure discussed; primarily policy/planning advocacy",
+    "Strong equity framing suggesting potential alignment with mayor's priorities if decentralization is CIO strategic goal",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)",
+    "Tag warning: Unknown tag 'homelessness' not in taxonomy",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

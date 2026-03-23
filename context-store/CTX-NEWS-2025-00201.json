@@ -1,0 +1,70 @@
+{
+  "record_id": "CTX-NEWS-2025-00201",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/09/blueprint-15-names-syracuse-city-official-its-interim-executive-director.html",
+  "publication_date": "2025-09-15",
+  "capture_date": "2026-03-22T19:59:52Z",
+  "title": "Blueprint 15 names Syracuse city official its interim executive director",
+  "summary": "Blueprint 15, a key city partner organization, has appointed Sarah Walton LaFave, the city's director of East Adams Neighborhood Redevelopment, as interim executive director. LaFave replaces Raquan Pride-Green who stepped down to focus on his small business. This leadership transition may impact coordination between the city and Blueprint 15 on neighborhood development initiatives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "hiring",
+    "economic-development",
+    "neighborhood-services",
+    "intergovernmental",
+    "announcement"
+  ],
+  "department_refs": [
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sarah Walton LaFave",
+      "type": "person",
+      "canonical_id": "PERSON-SARAH-WALTON-LAFAVE"
+    },
+    {
+      "name": "Blueprint 15",
+      "type": "organization",
+      "canonical_id": "ORG-BLUEPRINT-15"
+    },
+    {
+      "name": "Raquan Pride-Green",
+      "type": "person",
+      "canonical_id": "PERSON-RAQUAN-PRIDE-GREEN"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "City prioritizes neighborhood redevelopment through leadership continuity; placing city official in Blueprint 15 leadership signals commitment to East Adams and broader neighborhood development initiatives.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article confirms East Adams Neighborhood Redevelopment as active city department/initiative",
+    "No specific budget figures or IT systems mentioned despite article mentioning tech project issues elsewhere",
+    "Blueprint 15 appears to be external organization but closely partnered with city",
+    "Leadership transition is interim—monitor for permanent appointment announcement",
+    "Connection to CIO relevance: potential implications for city-Blueprint 15 data/IT coordination during transition",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)"
+  ],
+  "last_relevance_update": null
+}

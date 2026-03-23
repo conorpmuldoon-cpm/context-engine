@@ -1,0 +1,90 @@
+{
+  "record_id": "CTX-NEWS-2025-00184",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/04/syracuse-brings-back-police-officers-vs-firefighters-basketball-game-played-for-charity.html",
+  "publication_date": "2025-04-23",
+  "capture_date": "2026-03-22T19:47:07Z",
+  "title": "Syracuse brings back police officers vs. firefighters basketball game played for charity",
+  "summary": "Mayor Ben Walsh announced the return of the 'Bravest vs. Finest' charity basketball game between Syracuse Fire Department and Syracuse Police Department, scheduled for May 23, 2025 at Corcoran High School. The event will raise funds for United Way of Central New York and marks the first public iteration of the traditionally closed game since 2019, with ticket sales at $10 per person and ancillary merchandise sales.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "initiative-launch",
+    "emergency-services",
+    "fire",
+    "police",
+    "community-engagement",
+    "fundraising",
+    "public-safety-commission",
+    "mayor",
+    "recurring"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Michael Monds",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-MONDS"
+    },
+    {
+      "name": "Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE"
+    },
+    {
+      "name": "Nancy Kern Eaton",
+      "type": "person",
+      "canonical_id": "PERSON-NANCY-KERN-EATON"
+    },
+    {
+      "name": "United Way of Central New York",
+      "type": "organization",
+      "canonical_id": "ORG-UNITED-WAY-CNY"
+    },
+    {
+      "name": "Greta Stuckey",
+      "type": "person",
+      "canonical_id": "PERSON-GRETA-STUCKEY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Leadership commitment to community engagement, interdepartmental cooperation, and public-private fundraising initiatives. Expansion from closed to public event signals accessibility and transparency priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00017"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts extracted: $10 (ticket price), $25 (merchandise), $2.2M (2024 United Way distribution) — only first two are directly transactional for this event",
+    "Event date: May 23, 2025 (future event)",
+    "Article frames event as resumption of tradition (last held 2019), suggesting 6-year gap",
+    "Mike Borkowski credited as local artist for merchandise design but not tagged as entity given minimal context",
+    "No direct CIO/IT system implications detected; primarily community affairs/public safety visibility",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)",
+    "Tag warning: Unknown tag 'community-engagement' not in taxonomy",
+    "Tag warning: Unknown tag 'fundraising' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00017"
+  ],
+  "last_relevance_update": null
+}

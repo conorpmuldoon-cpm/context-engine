@@ -1,0 +1,76 @@
+{
+  "record_id": "CTX-NEWS-2025-00183",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/04/syracuse-computing-its-greenhouse-gas-output-and-forming-climate-action-plan.html",
+  "publication_date": "2025-04-22",
+  "capture_date": "2026-03-22T19:46:56Z",
+  "title": "Syracuse computing its greenhouse gas output and forming climate action plan",
+  "summary": "Mayor Ben Walsh announced the Sustainable Syracuse program, a state-funded initiative ($100,000 grant from NY Department of Environmental Conservation) to develop a municipal and community Greenhouse Gas Emission Inventory and Climate Action Plan. The city has contracted C&S Cos. to lead the planning effort, with community engagement beginning fall 2025, and a newly established sustainability task force will coordinate with the city's concurrent comprehensive plan revision.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "sustainability",
+    "initiative-launch",
+    "grants",
+    "state-agency",
+    "state-mandates",
+    "procurement",
+    "data-governance",
+    "policy-change",
+    "intergovernmental"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "C&S Cos.",
+      "type": "organization",
+      "canonical_id": "ORG-CS-COS"
+    },
+    {
+      "name": "NY Department of Environmental Conservation",
+      "type": "organization",
+      "canonical_id": "ORG-NYDEC"
+    },
+    {
+      "name": "Emanuel Carter",
+      "type": "person",
+      "canonical_id": "PERSON-EMANUEL-CARTER"
+    },
+    {
+      "name": "SUNY College of Environmental Science and Forestry",
+      "type": "organization",
+      "canonical_id": "ORG-SUNY-ESF"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor-led climate action initiative with state funding demonstrates administration commitment to sustainability and environmental policy; Earth Day announcement timing suggests intentional visibility strategy for climate priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No internal city departments explicitly named; sustainability task force mentioned but not formally identified",
+    "Website URL syr.gov/sustainable-syracuse suggests digital infrastructure and public engagement platform development",
+    "Comprehensive plan revision running concurrently—potential connection point for CIO data/GIS integration",
+    "Contract award to C&S Cos. represents external consultant engagement; procurement records should be cross-referenced",
+    "GHG inventory development may require data governance and systems planning; recommend CIO coordination on reporting infrastructure",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)"
+  ],
+  "last_relevance_update": null
+}

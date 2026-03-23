@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-NEWS-2025-00187",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/05/syracuse-lawmakers-end-tumultuous-budget-process-overriding-all-of-mayors-vetoes.html",
+  "publication_date": "2025-05-27",
+  "capture_date": "2026-03-22T19:48:56Z",
+  "title": "Syracuse lawmakers end tumultuous budget process, overriding all of mayor’s vetoes",
+  "summary": "Syracuse Common Council unanimously overrode Mayor Ben Walsh's 45 budget vetoes on May 27, 2025, adopting a $348.4 million budget with $16 million in cuts and a flat property tax rate. The council rejected Walsh's proposed 2% tax increase and $27.1 million reserve draw, instead using $14.4 million from reserves. This represents the most divisive budget process of Walsh's tenure, with both sides accusing each other of fiscal irresponsibility and misrepresenting the city's financial position regarding COVID relief fund composition and future sustainability.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "vote",
+    "council",
+    "mayor",
+    "tax-revenue",
+    "policy-change",
+    "recurring",
+    "transparency",
+    "labor-relations",
+    "state-mandates"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Department of Public Works",
+    "Department of Parks, Recreation and Youth Programs",
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-COUNCIL"
+    },
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-BOYER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Council leadership asserting fiscal authority and rejecting mayoral spending priorities; fundamental disagreement over reserve composition, sustainability trajectory, and service impact trade-offs. Reflects institutional tension over budget philosophy and risk tolerance.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00050"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts validated: $16M cuts, $14.4M reserves used, $348.4M total budget, $27.1M original reserve proposal, $120M projected reserves, $3.4M acceptable cuts threshold",
+    "All 9 councilors voted unanimously—suggests strong institutional position despite internal prior divisions",
+    "CIO relevance: budget constraints will drive IT/digital services impact; contingency planning process (due in ~2 weeks) may require systems prioritization review",
+    "Historical context embedded: council references 7-year track record of under-budget performance; dispute over COVID relief fund role in reserves suggests need for financial data transparency/communication systems",
+    "Article truncated mid-sentence at end; full council skepticism quote incomplete",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)",
+    "Potential duplicate of CTX-NEWS-2025-00050"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,85 @@
+{
+  "record_id": "CTX-NEWS-2025-00197",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2025/06/syracuse-must-do-more-for-families-drinking-from-lead-pipes-guest-opinion-by-oceanna-fair-nayyirah-shariff.html",
+  "publication_date": "2025-06-13",
+  "capture_date": "2026-03-22T19:58:06Z",
+  "title": "Syracuse must do more for families drinking from lead pipes (Guest Opinion by Oceanna Fair &amp; Nayyirah Shariff)",
+  "summary": "Community leaders Oceanna Fair and Nayyirah Shariff call for urgent action on Syracuse's lead water contamination crisis affecting 14,000+ families. Testing showed lead levels 7x the EPA action level; the city disputes results but experts confirm danger. The authors demand pipe replacement, transparency, community involvement in EPA investigation, and accountability from officials.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "lead-remediation",
+    "equity",
+    "investigation",
+    "transparency",
+    "residents",
+    "PROVISIONAL:public-health-crisis",
+    "PROVISIONAL:environmental-justice",
+    "escalating"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Oceanna Fair",
+      "type": "person",
+      "canonical_id": "PERSON-OCEANNA-FAIR"
+    },
+    {
+      "name": "Nayyirah Shariff",
+      "type": "person",
+      "canonical_id": "PERSON-NAYYIRAH-SHARIFF"
+    },
+    {
+      "name": "Families for Lead Freedom Now",
+      "type": "organization",
+      "canonical_id": "ORG-FLFN"
+    },
+    {
+      "name": "Flint Rising",
+      "type": "organization",
+      "canonical_id": "ORG-FLINT-RISING"
+    },
+    {
+      "name": "Syracuse Water Department",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "U.S. Environmental Protection Agency",
+      "type": "organization",
+      "canonical_id": "ORG-EPA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Community organizers publicly escalating demands for government action on water infrastructure failure; invoking parallel Flint crisis; demanding seat at table in EPA investigation; signaling loss of public trust in city management and transparency.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is guest opinion/advocacy piece, not neutral reporting",
+    "No Robert Brandt entity found in article text—extraction may be erroneous",
+    "No dollar amounts mentioned",
+    "Temporal markers: October 2024, February 2025, April 2025, June 2025—escalating timeline of advocacy",
+    "Mentions EPA investigation but no details on CIO involvement or role",
+    "Data quality concern: article truncated mid-sentence at end",
+    "Key context: 14,000 families affected; 9% of Syracuse children have high blood lead levels; multiple vulnerability factors (race, income, existing environmental burden)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Content retrieved via Wayback Machine (archive.org)"
+  ],
+  "last_relevance_update": null
+}
