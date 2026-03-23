@@ -71,7 +71,10 @@
     "confidence": "high"
   },
   "freshness_class": "medium",
-  "cluster_ids": [],
+  "cluster_ids": [
+    "CLUSTER-FISCAL-AUDIT-2026Q1",
+    "DEDUP-URL-WEB-SENATE-BUDGET"
+  ],
   "engagement_relevance": [],
   "feedback": null,
   "schema_version": "1.0.0",

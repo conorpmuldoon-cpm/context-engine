@@ -61,7 +61,8 @@
   },
   "freshness_class": "short",
   "cluster_ids": [
-    "DEDUP-CTX-NEWS-2025-00078"
+    "DEDUP-CTX-NEWS-2025-00078",
+    "DEDUP-EVENT-SURGE-LINK"
   ],
   "engagement_relevance": [],
   "feedback": null,

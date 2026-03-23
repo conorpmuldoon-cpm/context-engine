@@ -50,7 +50,8 @@
   },
   "freshness_class": "medium",
   "cluster_ids": [
-    "DEDUP-CTX-WEB-2026-00019"
+    "DEDUP-CTX-WEB-2026-00019",
+    "DEDUP-URL-WEB-VEO-RETURN"
   ],
   "engagement_relevance": [],
   "feedback": null,

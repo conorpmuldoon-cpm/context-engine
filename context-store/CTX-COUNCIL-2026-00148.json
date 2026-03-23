@@ -52,7 +52,9 @@
     "confidence": "high"
   },
   "freshness_class": "long",
-  "cluster_ids": [],
+  "cluster_ids": [
+    "CLUSTER-FISCAL-AUDIT-2026Q1"
+  ],
   "engagement_relevance": [],
   "feedback": null,
   "schema_version": "1.0.0",

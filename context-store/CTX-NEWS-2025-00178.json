@@ -68,7 +68,8 @@
   },
   "freshness_class": "short",
   "cluster_ids": [
-    "DEDUP-CTX-NEWS-2025-00176"
+    "DEDUP-CTX-NEWS-2025-00176",
+    "DEDUP-URL-NEWS-STATE-AID"
   ],
   "engagement_relevance": [],
   "feedback": null,

@@ -74,7 +74,8 @@
   },
   "freshness_class": "medium",
   "cluster_ids": [
-    "DEDUP-CTX-WEB-2026-00018"
+    "DEDUP-CTX-WEB-2026-00018",
+    "DEDUP-URL-WEB-SENATE-BUDGET"
   ],
   "engagement_relevance": [],
   "feedback": null,

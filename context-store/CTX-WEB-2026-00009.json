@@ -71,7 +71,10 @@
     "confidence": "high"
   },
   "freshness_class": "medium",
-  "cluster_ids": [],
+  "cluster_ids": [
+    "CLUSTER-EV-CHARGING-PILOT-2026Q1",
+    "DEDUP-URL-WEB-COMMUNITY-SOLAR"
+  ],
   "engagement_relevance": [],
   "feedback": null,
   "schema_version": "1.0.0",

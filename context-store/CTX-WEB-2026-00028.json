@@ -47,7 +47,8 @@
   },
   "freshness_class": "medium",
   "cluster_ids": [
-    "DEDUP-CTX-WEB-2026-00001"
+    "DEDUP-CTX-WEB-2026-00001",
+    "DEDUP-URL-WEB-SOUTH-AVE-BRIDGE"
   ],
   "engagement_relevance": [],
   "feedback": null,

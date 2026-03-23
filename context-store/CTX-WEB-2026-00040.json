@@ -48,7 +48,9 @@
     "confidence": "high"
   },
   "freshness_class": "medium",
-  "cluster_ids": [],
+  "cluster_ids": [
+    "CLUSTER-LEAD-WATER-2025Q3"
+  ],
   "engagement_relevance": [],
   "feedback": null,
   "schema_version": "1.0.0",

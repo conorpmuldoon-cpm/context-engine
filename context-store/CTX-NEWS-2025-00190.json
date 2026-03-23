@@ -70,7 +70,10 @@
     "confidence": "high"
   },
   "freshness_class": "short",
-  "cluster_ids": [],
+  "cluster_ids": [
+    "CLUSTER-SANCTUARY-CITY-2025Q2",
+    "DEDUP-EVENT-SANCTUARY-CITY"
+  ],
   "engagement_relevance": [],
   "feedback": null,
   "schema_version": "1.0.0",

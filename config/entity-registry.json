@@ -1,6 +1,6 @@
 {
   "registry_version": "1.1.0",
-  "last_updated": "2026-03-21",
+  "last_updated": "2026-03-22",
   "source_note": "Council members verified from syr.gov/Departments/Common-Council/Councilors on 2026-03-21. Department heads verified from individual syr.gov department pages on 2026-03-21.",
 
   "persons": [
@@ -61,7 +61,7 @@
       "affiliation": "Syracuse Common Council",
       "district": 1,
       "committee_chair": "Public Transportation",
-      "transcript_variants": ["Marin Nave", "Marino Nave"],
+      "transcript_variants": ["Marin Nave", "Marino Nave", "Marty Nave"],
       "active": true
     },
     {
@@ -291,7 +291,7 @@
       "affiliation": "Mayor's Office",
       "district": null,
       "committee_chair": null,
-      "transcript_variants": [],
+      "transcript_variants": ["Corey Driscoll Dunham"],
       "active": true
     },
     {
@@ -302,6 +302,116 @@
       "district": null,
       "committee_chair": null,
       "transcript_variants": ["Mike Layman"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-WALSH-MAYOR",
+      "canonical_name": "Ben Walsh",
+      "role": "Former Mayor (2018-2025)",
+      "affiliation": "City of Syracuse, Executive Branch",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Mayor Walsh", "Mayor Ben Walsh", "Benjamin Walsh"],
+      "active": false
+    },
+    {
+      "canonical_id": "PERSON-HOGAN-COUNCIL",
+      "canonical_name": "Pat Hogan",
+      "role": "Common Councilor, District 5 (former); Council President Pro Tem (former)",
+      "affiliation": "Syracuse Common Council",
+      "district": 5,
+      "committee_chair": null,
+      "transcript_variants": ["Patrick Hogan", "Councilor Hogan"],
+      "active": false
+    },
+    {
+      "canonical_id": "PERSON-CECILE-SPD",
+      "canonical_name": "Joseph Cecile",
+      "role": "Former Chief of Police (retired Dec 2025)",
+      "affiliation": "Syracuse Police Department",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Joe Cecile", "Chief Cecile"],
+      "active": false
+    },
+    {
+      "canonical_id": "PERSON-MCMAHON-COUNTY",
+      "canonical_name": "Ryan McMahon",
+      "role": "Onondaga County Executive",
+      "affiliation": "Onondaga County",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["County Executive McMahon"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-SIMMONS-SHA",
+      "canonical_name": "Bill Simmons",
+      "role": "Executive Director",
+      "affiliation": "Syracuse Housing Authority",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["William Simmons"],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-KIELAR-SHA",
+      "canonical_name": "Mary Kielar",
+      "role": "Syracuse Housing Authority figure",
+      "affiliation": "Syracuse Housing Authority",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": [],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-GETHERS-EXEC",
+      "canonical_name": "Amir Gethers",
+      "role": "Walsh administration official",
+      "affiliation": "City of Syracuse, Executive Branch",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": [],
+      "active": false
+    },
+    {
+      "canonical_id": "PERSON-LOH-EXEC",
+      "canonical_name": "Greg Loh",
+      "role": "Senior advisor / Deputy Mayor (Walsh administration)",
+      "affiliation": "City of Syracuse, Executive Branch",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Gregory Loh"],
+      "active": false
+    },
+    {
+      "canonical_id": "PERSON-MINER-MAYOR",
+      "canonical_name": "Stephanie Miner",
+      "role": "Former Mayor (2010-2017)",
+      "affiliation": "City of Syracuse, Executive Branch",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Mayor Miner"],
+      "active": false
+    },
+    {
+      "canonical_id": "PERSON-LADD-DPW",
+      "canonical_name": "Brandon Ladd",
+      "role": "City official (STEAM school / public works)",
+      "affiliation": "City of Syracuse",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": [],
+      "active": true
+    },
+    {
+      "canonical_id": "PERSON-MAY-STATE",
+      "canonical_name": "Rachel May",
+      "role": "New York State Senator (Syracuse area)",
+      "affiliation": "New York State Senate",
+      "district": null,
+      "committee_chair": null,
+      "transcript_variants": ["Senator May", "Senator Rachel May"],
       "active": true
     }
   ],
@@ -396,6 +506,54 @@
       "canonical_name": "Crouse Health Hospital",
       "type": "healthcare",
       "transcript_variants": ["Crouse Hospital", "Crouse Health", "Crouse"]
+    },
+    {
+      "canonical_id": "ORG-SHA",
+      "canonical_name": "Syracuse Housing Authority",
+      "type": "government_agency",
+      "transcript_variants": ["SHA", "Housing Authority"]
+    },
+    {
+      "canonical_id": "ORG-MICRON",
+      "canonical_name": "Micron Technology",
+      "type": "corporation",
+      "transcript_variants": ["Micron", "Micron fab"]
+    },
+    {
+      "canonical_id": "ORG-SCSD",
+      "canonical_name": "Syracuse City School District",
+      "type": "government_body",
+      "transcript_variants": ["SCSD", "school district", "Syracuse schools"]
+    },
+    {
+      "canonical_id": "ORG-PBA",
+      "canonical_name": "Syracuse Police Benevolent Association",
+      "type": "union",
+      "transcript_variants": ["PBA", "police union", "police benevolent association"]
+    },
+    {
+      "canonical_id": "ORG-SAEVI",
+      "canonical_name": "SAEVI",
+      "type": "developer",
+      "transcript_variants": ["Saevi"]
+    },
+    {
+      "canonical_id": "ORG-CENTERSTATE",
+      "canonical_name": "CenterState CEO",
+      "type": "business_organization",
+      "transcript_variants": ["CenterState", "Center State CEO"]
+    },
+    {
+      "canonical_id": "ORG-HOME-HQ",
+      "canonical_name": "Home HeadQuarters",
+      "type": "nonprofit",
+      "transcript_variants": ["Home Headquarters", "HHQ"]
+    },
+    {
+      "canonical_id": "ORG-JENOPTIK",
+      "canonical_name": "Jenoptik",
+      "type": "corporation",
+      "transcript_variants": ["Jenoptik Traffic Solutions"]
     }
   ]
 }

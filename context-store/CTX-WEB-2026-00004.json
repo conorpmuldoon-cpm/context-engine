@@ -52,7 +52,9 @@
     "confidence": "high"
   },
   "freshness_class": "medium",
-  "cluster_ids": [],
+  "cluster_ids": [
+    "DEDUP-URL-WEB-BRAVEST-FINEST"
+  ],
   "engagement_relevance": [],
   "feedback": null,
   "schema_version": "1.0.0",

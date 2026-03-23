@@ -107,7 +107,8 @@
   },
   "freshness_class": "short",
   "cluster_ids": [
-    "DEDUP-CTX-NEWS-2025-00177"
+    "DEDUP-CTX-NEWS-2025-00177",
+    "DEDUP-URL-NEWS-COUNCIL-BALLOT"
   ],
   "engagement_relevance": [],
   "feedback": null,

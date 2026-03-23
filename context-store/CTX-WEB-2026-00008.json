@@ -37,7 +37,8 @@
   "political_signal": null,
   "freshness_class": "medium",
   "cluster_ids": [
-    "DEDUP-CTX-WEB-2026-00001"
+    "DEDUP-CTX-WEB-2026-00001",
+    "DEDUP-URL-WEB-KIRKPATRICK-BRIDGE"
   ],
   "engagement_relevance": [],
   "feedback": null,

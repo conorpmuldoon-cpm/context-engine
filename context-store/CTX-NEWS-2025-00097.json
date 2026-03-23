@@ -55,7 +55,9 @@
     "confidence": "medium"
   },
   "freshness_class": "short",
-  "cluster_ids": [],
+  "cluster_ids": [
+    "CLUSTER-SCHOOL-ZONE-CAMERAS-2025Q4"
+  ],
   "engagement_relevance": [],
   "feedback": null,
   "schema_version": "1.0.0",
