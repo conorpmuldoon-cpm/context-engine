@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-NEWS-2025-00243",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2025/08/micron-impact-syracuse-area-will-grow-as-fast-as-any-place-in-the-country-major-bank-ceo-predicts.html",
+  "publication_date": "2025-08-01",
+  "capture_date": "2026-03-22T21:24:52Z",
+  "title": "Micron impact: Syracuse area will grow ‘as fast as any place in the country,’ major bank CEO predicts",
+  "summary": "KeyBank CEO Chris Gorman predicts Syracuse will experience rapid population and job growth comparable to Texas markets following Micron's $100B semiconductor factory investment in Clay. The project is expected to create 9,000 Micron jobs plus 40,000+ supply chain jobs, attract 50,000+ new residents (10% county increase), and drive demand for multifamily housing and ancillary economic development across the region.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "workforce-development",
+    "housing",
+    "business-community",
+    "infrastructure",
+    "capital-planning",
+    "land-use",
+    "PROVISIONAL:semiconductor-manufacturing",
+    "PROVISIONAL:major-employer-recruitment"
+  ],
+  "department_refs": [
+    "Department of Permits and Development",
+    "Department of Planning and Sustainability"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "KeyBank",
+      "type": "organization",
+      "canonical_id": "ORG-KEYBANK"
+    },
+    {
+      "name": "Chris Gorman",
+      "type": "person",
+      "canonical_id": "PERSON-CHRIS-GORMAN"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Major regional financial institution validates economic development strategy and signals confidence in growth trajectory; third-party institutional endorsement strengthens public and investor confidence in Micron project impacts.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on third-party validation rather than city policy; relevant for economic impact planning and infrastructure capacity assessment",
+    "Housing demand projections (multifamily emphasis) should inform zoning and permitting strategies",
+    "Dollar amounts extracted: $100B (project cost), $100K+ (avg worker salary), $185B (KeyBank assets) — project cost is most material for planning",
+    "Geographic scope: Clay (Micron site), Onondaga County, Syracuse metro; requires cross-departmental coordination",
+    "Timeline: Micron groundbreak fall 2025; 20-year construction horizon relevant for long-term capital planning",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

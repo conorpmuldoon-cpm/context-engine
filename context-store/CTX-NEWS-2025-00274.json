@@ -1,0 +1,78 @@
+{
+  "record_id": "CTX-NEWS-2025-00274",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/08/syracuse-to-ask-ny-to-cover-millions-feds-canceled-for-east-adams-housing.html",
+  "publication_date": "2025-08-26",
+  "capture_date": "2026-03-22T21:28:28Z",
+  "title": "Syracuse to ask NY to cover millions feds canceled for East Adams housing",
+  "summary": "Syracuse city officials are seeking $10 million in state funding to replace a $30 million federal grant canceled by Congress through President Trump's budget bill. The Neighborhood Access and Equity Program was eliminated, though Syracuse had only received $300,000 of its award before environmental reviews were completed. The funds were designated for East Adams neighborhood infrastructure (streets, parks, bike paths, sidewalks, lighting) supporting a major public housing redevelopment adjacent to Interstate 81.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "federal-programs",
+    "grants",
+    "housing",
+    "infrastructure",
+    "intergovernmental",
+    "state-agency",
+    "state-mandates",
+    "capital-planning",
+    "roads-bridges",
+    "parks",
+    "micromobility",
+    "equity",
+    "policy-change",
+    "escalating"
+  ],
+  "department_refs": [
+    "Department of Permits and Development",
+    "Syracuse Housing Authority"
+  ],
+  "entity_refs": [
+    {
+      "name": "Bill Simmons",
+      "type": "person",
+      "canonical_id": "PERSON-BILL-SIMMONS"
+    },
+    {
+      "name": "Greg Loh",
+      "type": "person",
+      "canonical_id": "PERSON-GREG-LOH"
+    },
+    {
+      "name": "Federal Highway Administration",
+      "type": "organization",
+      "canonical_id": "ORG-FHWA"
+    },
+    {
+      "name": "Neighborhood Access and Equity Program",
+      "type": "system",
+      "canonical_id": "SYS-NAEP"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Federal funding cancellation by Republican-controlled Congress signals partisan shift in infrastructure priorities away from neighborhood equity programs. State-level pivot indicates local government adaptation strategy to federal policy discontinuation.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount extraction: $10M (state request), $30M (original federal grant), $3.3B (entire canceled program), $300K (received), $150M (state DOT received, appears protected)",
+    "Key timeline: grant awarded 2025, program canceled summer 2025, NEPA review expected 2 years",
+    "I-81 corridor appears as strategic context—elevated highway replacement tied to broader neighborhood redevelopment",
+    "Michelle Breidenbach reporter beat includes I-81 reconstruction; suggests ongoing CIO awareness opportunity",
+    "Council approval occurred July 2025; implies governance alignment prior to federal cancellation",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,88 @@
+{
+  "record_id": "CTX-NEWS-2025-00218",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/11/city-audit-finds-major-flaws-in-syracuses-sidewalk-dining-permits-recommends-new-rules-and-fees.html",
+  "publication_date": "2025-11-06",
+  "capture_date": "2026-03-22T21:22:16Z",
+  "title": "City audit finds major flaws in Syracuse’s sidewalk dining permits, recommends new rules and fees",
+  "summary": "City Auditor Alex Marion's audit of Syracuse's sidewalk dining permit program reveals systemic failures: 25+ businesses operating without permits, lax enforcement across departments, and only $4,000 collected annually against enforcement costs. Recommendations include centralized permitting, year-round permits, modernized fee structures, and mandatory inspections to generate revenue and ensure public safety/accessibility compliance.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "audit",
+    "permitting",
+    "code-enforcement",
+    "business-community",
+    "economic-development",
+    "accessibility",
+    "policy-change",
+    "transparency",
+    "land-use",
+    "revenue"
+  ],
+  "department_refs": [
+    "Department of Permits and Development",
+    "Department of Public Works",
+    "Syracuse Fire Department",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Alex Marion",
+      "type": "person",
+      "canonical_id": "PERSON-ALEX-MARION"
+    },
+    {
+      "name": "Adam Gold",
+      "type": "person",
+      "canonical_id": "PERSON-ADAM-GOLD"
+    },
+    {
+      "name": "Cheryl Hassett",
+      "type": "person",
+      "canonical_id": "PERSON-CHERYL-HASSETT"
+    },
+    {
+      "name": "Funk 'n Waffles",
+      "type": "organization",
+      "canonical_id": "ORG-FUNK-N-WAFFLES"
+    },
+    {
+      "name": "Soup R Salads",
+      "type": "organization",
+      "canonical_id": "ORG-SOUP-R-SALADS"
+    },
+    {
+      "name": "Kitty Hoynes Irish Pub",
+      "type": "organization",
+      "canonical_id": "ORG-KITTY-HOYNES"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Auditor identifies institutional failures in inter-departmental coordination, permit enforcement, and revenue collection; calls for modernization and accountability. Business owners express frustration with lack of city outreach.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date (2025-11-06) is future-dated; likely publication error or test data",
+    "Syracuse University listed in mechanical extractions but not mentioned in article text—recommend validation",
+    "No CIO/Innovation Office mentioned; relevance to CIO role is indirect (systems, data governance, process modernization)",
+    "Author listed as 'Unknown' but byline shows Don Cazentre; recommend correction",
+    "Fire code violations (blocking connections) present potential public safety interagency coordination issue",
+    "Year-round permit recommendation requires snow/salt maintenance burden—operational cost implications unclear",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'revenue' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

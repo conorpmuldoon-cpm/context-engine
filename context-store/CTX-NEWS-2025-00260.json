@@ -1,0 +1,87 @@
+{
+  "record_id": "CTX-NEWS-2025-00260",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/12/syracuse-common-council-pushes-proposal-to-build-battery-storage-near-city-neighborhood-into-2026.html",
+  "publication_date": "2025-12-23",
+  "capture_date": "2026-03-22T21:26:51Z",
+  "title": "Syracuse Common Council pushes proposal to build battery storage near city neighborhood into 2026",
+  "summary": "Syracuse Common Council delayed a decision on New Leaf Energy's proposal to build a large-scale lithium-ion battery storage facility at 426 E. Brighton Ave. until 2026, pending legal review by the city corporation counsel. Fire Chief Michael Monds expressed safety concerns about fire risk and proximity to neighboring structures, while Councilor Hogan proposed a moratorium on battery storage permits. The decision reflects emerging tensions between state economic development incentives for battery infrastructure and local fire safety and neighborhood concerns.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "permitting",
+    "economic-development",
+    "fire",
+    "land-use",
+    "zoning",
+    "sustainability",
+    "residents",
+    "policy-change",
+    "procedural",
+    "council"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Department of Law",
+    "Syracuse Common Council"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael Monds",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-MONDS"
+    },
+    {
+      "name": "Joe Barry",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-BARRY"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Terrence Nolan",
+      "type": "person",
+      "canonical_id": "PERSON-TERRENCE-NOLAN"
+    },
+    {
+      "name": "New Leaf Energy",
+      "type": "organization",
+      "canonical_id": "ORG-NEW-LEAF-ENERGY"
+    },
+    {
+      "name": "Convergent",
+      "type": "organization",
+      "canonical_id": "ORG-CONVERGENT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Fire chief and councilors raising safety and procedural concerns about battery storage facility; proposal delayed pending legal review. Divergence between council members on regulatory approach (moratorium vs. case-by-case review). Reflects tension between state incentives and local neighborhood/safety priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article dated 2025-12-23 (future date—verify source). Warwick battery fire cited as relevant precedent. Related items linked but not fully extracted. No CIO-specific technology infrastructure angle identified; primarily land-use/permitting governance issue with sustainability implications. Legal review timeline unclear.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'procedural' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

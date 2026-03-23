@@ -1,0 +1,81 @@
+{
+  "record_id": "CTX-NEWS-2025-00293",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/09/suspicious-box-strapped-to-tree-near-city-hall-is-a-state-noise-monitor-for-i-81-project.html",
+  "publication_date": "2025-09-29",
+  "capture_date": "2026-03-22T21:30:33Z",
+  "title": "‘Suspicious’ box strapped to tree near City Hall is a state noise monitor for I-81 project",
+  "summary": "A noise monitoring device installed by NYSDOT contractors on a tree near City Hall was mistaken for a suspicious package, prompting evacuation and emergency response. The device is part of the $2.25 billion I-81 viaduct reconstruction project. While the city was notified of monitoring installations, this specific placement caught officials by surprise, though the device has been identified as safe and will be removed.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "emergency-services",
+    "infrastructure",
+    "intergovernmental",
+    "state-agency",
+    "state-mandates",
+    "transportation",
+    "construction-staging",
+    "transparency",
+    "resolved"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Syracuse Fire Department",
+    "Office of the Mayor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Mark Rusin",
+      "type": "person",
+      "canonical_id": "PERSON-MARK-RUSIN"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Elizabeth Parmley",
+      "type": "person",
+      "canonical_id": "PERSON-ELIZABETH-PARMLEY"
+    },
+    {
+      "name": "TeNesha Murphy",
+      "type": "person",
+      "canonical_id": "PERSON-TENESHA-MURPHY"
+    },
+    {
+      "name": "New York State Department of Transportation",
+      "type": "organization",
+      "canonical_id": "ORG-NYSDOT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Incident reveals coordination gaps between state DOT and city on I-81 project execution despite prior communication; city seeking improved coordination protocols to prevent future misunderstandings.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00127"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount $70K from unrelated story at bottom of article (stabbing/corrections officer) — excluded from extraction as out-of-scope",
+    "Deputy Police Chief Mark Rusin identified as responder; no canonical ID available in source materials",
+    "I-81 project context: $2.25 billion reconstruction through 2028 — major capital infrastructure initiative",
+    "Transparency theme: Mayor Walsh noted communication occurred but specific tree placement was not pre-coordinated, suggesting documentation gaps",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-NEWS-2025-00127"
+  ],
+  "last_relevance_update": null
+}

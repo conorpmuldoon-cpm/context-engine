@@ -1,0 +1,74 @@
+{
+  "record_id": "CTX-NEWS-2025-00247",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2025/06/police-presence-will-increase-at-syracuse-pools-after-fatal-shooting-in-strathmore.html",
+  "publication_date": "2025-06-25",
+  "capture_date": "2026-03-22T21:25:18Z",
+  "title": "Police presence will increase at Syracuse pools after fatal shooting in Strathmore",
+  "summary": "A 15-year-old was fatally shot outside Upper Onondaga Park Pool on June 25, 2025, prompting Mayor Walsh to announce increased police presence at city pools. The suspect remains at large and the weapon unfound. Pool reopening timeline is undetermined, and Parks & Recreation staff are receiving support services.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "parks",
+    "public-safety",
+    "emergency-services",
+    "crime-data",
+    "trending",
+    "escalating"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Joseph Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOSEPH-CECILE"
+    },
+    {
+      "name": "Greta Stuckey",
+      "type": "person",
+      "canonical_id": "PERSON-GRETA-STUCKEY"
+    },
+    {
+      "name": "Upper Onondaga Park Pool",
+      "type": "system",
+      "canonical_id": "FAC-UPPER-ONONDAGA-PARK-POOL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor publicly commits to increased police deployment at parks infrastructure in response to fatal incident, signaling public safety prioritization during summer recreation season.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00066"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Victim age (15) and fatality nature elevates this beyond routine crime incident to strategic public safety concern",
+    "No CIO-specific IT/digital services angle detected in article; relevance is operational/departmental coordination",
+    "Dollar amount ($70K) appears in unrelated article stub and should be excluded from this incident",
+    "Pool closure creates service disruption during peak heat event (94°F record) — potential equity/access issue for PROVISIONAL:equity tag consideration",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00066"
+  ],
+  "last_relevance_update": null
+}

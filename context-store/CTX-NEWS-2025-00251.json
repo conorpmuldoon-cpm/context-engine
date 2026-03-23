@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2025-00251",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/11/school-zone-speeding-fines-raise-concerns-about-equity-spending-priorities-your-letters.html?outputType=amp",
+  "publication_date": "2025-11-29",
+  "capture_date": "2026-03-22T21:25:39Z",
+  "title": "School zone speeding fines raise concerns about equity, spending priorities (Your Letters)",
+  "summary": "A South Side community resident raises concerns about school zone speed enforcement equity, citing disproportionate impact on low-income families and perceived disparities across neighborhoods. The letter calls for transparent budgeting, clarification on fine revenue allocation, and consistent policy application to balance student safety with fairness.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "policy-change",
+    "equity",
+    "transparency",
+    "constituent-complaints",
+    "public-safety-commission",
+    "residents",
+    "PROVISIONAL:traffic-enforcement",
+    "PROVISIONAL:school-safety"
+  ],
+  "department_refs": [
+    "Police Department",
+    "Department of Neighborhood Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Shy Mason",
+      "type": "person",
+      "canonical_id": "PERSON-SHY-MASON"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Community advocacy for policy review on school zone enforcement; raises concerns about equity in implementation and resource allocation transparency",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is opinion/letters-to-editor; no specific enforcement data, dollar amounts, or incidents cited",
+    "Addresses systemic concerns rather than single incident; signals potential broader community sentiment on South Side",
+    "References vague geographic disparities ('predominantly non-white neighborhoods') without specific neighborhoods named",
+    "CIO relevance: transparency, public communication, and potential data systems needed to track enforcement equity across neighborhoods",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

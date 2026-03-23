@@ -1,0 +1,74 @@
+{
+  "record_id": "CTX-NEWS-2025-00213",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/06/a-fence-or-a-cage-syracuse-pens-off-street-to-contain-trouble-near-homeless-shelter.html",
+  "publication_date": "2025-06-05",
+  "capture_date": "2026-03-22T21:21:42Z",
+  "title": "A fence? Or a cage? Syracuse pens off street to contain trouble near homeless shelter",
+  "summary": "Syracuse installed chain-link fencing on Dickerson Street to restrict access between downtown and the Rescue Mission homeless shelter, citing ongoing issues including drug sales, fights, overdoses, and predatory behavior. The move was implemented without advance notice to the shelter or its clients, raising questions about containment versus public safety approaches to managing homelessness and street-level disorder.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "public-safety",
+    "neighborhood-services",
+    "police",
+    "escalating",
+    "PROVISIONAL:homelessness-policy",
+    "PROVISIONAL:street-closure",
+    "equity",
+    "residents",
+    "trending"
+  ],
+  "department_refs": [
+    "Department of Neighborhoods",
+    "Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Rescue Mission",
+      "type": "organization",
+      "canonical_id": "ORG-RESCUE-MISSION"
+    },
+    {
+      "name": "Dickerson Street",
+      "type": "system",
+      "canonical_id": "GIS-DICKERSON-STREET"
+    },
+    {
+      "name": "Salt City Market",
+      "type": "organization",
+      "canonical_id": "ORG-SALT-CITY-MARKET"
+    },
+    {
+      "name": "Marnie Eisenstadt",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Article frames barrier installation as potentially coercive ('cage' language) and questions implementation process transparency; highlights lack of stakeholder consultation with shelter operators and raises equity concerns regarding homeless population restrictions.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No official city statement or justification included in article; suggests reactive coverage of unannounced action",
+    "Key gap: No identified department head or official attribution for fence decision",
+    "Public safety rationale (drug sales, fights, overdoses) conflicts with access/equity implications; needs CIO analysis of root causes vs. symptom management",
+    "Potential GIS mapping opportunity for Dickerson Street incidents and broader downtown-shelter corridor analysis",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

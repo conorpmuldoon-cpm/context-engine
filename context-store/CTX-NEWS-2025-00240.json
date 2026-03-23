@@ -1,0 +1,83 @@
+{
+  "record_id": "CTX-NEWS-2025-00240",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/09/ryan-mcmahons-2026-budget-cuts-the-tax-rate-adds-public-safety-drones-and-a-new-helicopter.html",
+  "publication_date": "2025-09-15",
+  "capture_date": "2026-03-22T21:24:36Z",
+  "title": "McMahon’s 2026 Onondaga County budget includes tax rate cut, new police drones, helicopter",
+  "summary": "Onondaga County Executive Ryan McMahon's proposed 2026 budget totals $1.6 billion with a 3% spending increase while maintaining flat property tax levy at $146 million. Key initiatives include $6 million for a new sheriff's helicopter, $700,000 for a drone-as-first-responder emergency program, $300,000 for body-worn cameras for custody deputies, and continued funding for lead remediation ($1.23 million), early childhood services ($2.3 million), and school mental health programs.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "capital-planning",
+    "tax-revenue",
+    "police",
+    "emergency-services",
+    "initiative-launch",
+    "procurement",
+    "lead-remediation",
+    "sewer",
+    "infrastructure",
+    "recurring",
+    "one-time",
+    "vote",
+    "legislation"
+  ],
+  "department_refs": [
+    "Sheriff's Office",
+    "Emergency Services",
+    "Public Health",
+    "Parks, Recreation & Youth Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Onondaga County Legislature",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-LEGISLATURE"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    },
+    {
+      "name": "Tim Knauss",
+      "type": "person",
+      "canonical_id": "PERSON-TIM-KNAUSS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "County executive is signaling fiscal discipline (flat property tax levy despite 3% spending increase) while prioritizing modernization of public safety infrastructure (helicopter replacement, drone program) and continued investment in preventive health/social services (lead remediation, mental health, early childhood).",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00119"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts extracted include both aggregates ($1.6B budget) and line items; sewer charge correction noted in article (update from $24/$478 to $25/$478.58)",
+    "City of Syracuse cross-reference: parallel drone initiative under consideration by Common Council",
+    "No CIO-specific technology systems mentioned; drone program may have IT infrastructure implications",
+    "Budget vote scheduled Oct. 14; Legislature review begins Sept. 17",
+    "Lead remediation funding represents multi-year commitment ($1.23M new + $12M prior allocation)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-NEWS-2025-00119"
+  ],
+  "last_relevance_update": null
+}

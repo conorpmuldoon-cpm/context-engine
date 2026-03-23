@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-NEWS-2025-00232",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2025/11/hogan-council-not-appointed-board-should-have-final-say-on-historic-properties-your-letters.html",
+  "publication_date": "2025-11-18",
+  "capture_date": "2026-03-22T21:23:46Z",
+  "title": "Hogan: Council, not appointed board, should have final say on historic properties (Your Letters)",
+  "summary": "Common Councilor Patrick Hogan defends proposed legislation to shift final decision-making authority on already-designated historic properties from the appointed Landmark Preservation Board to the elected Common Council. Hogan argues this ensures democratic accountability and balances historic preservation with present-day neighborhood and economic development needs, while maintaining the Council's existing role in the designation process itself.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "historic-preservation",
+    "council",
+    "legislation",
+    "land-use",
+    "zoning",
+    "policy-change",
+    "transparency",
+    "democracy",
+    "economic-development",
+    "housing"
+  ],
+  "department_refs": [
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Patrick Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PATRICK-HOGAN"
+    },
+    {
+      "name": "Landmark Preservation Board",
+      "type": "organization",
+      "canonical_id": "ORG-LANDMARK-PRESERVATION-BOARD"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Hogan actively advocates for legislative change to reallocate authority from appointed preservation board to elected council, framing it as democratic accountability and balanced governance.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Letter is a direct response to prior coverage; author is responding to criticism of proposed legislation",
+    "No budget impacts or dollar amounts mentioned",
+    "This represents governance/process innovation with implications for land-use and economic development",
+    "Potential stakeholder tension between preservation advocates and development/housing interests",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'democracy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

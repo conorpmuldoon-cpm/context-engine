@@ -1,0 +1,93 @@
+{
+  "record_id": "CTX-NEWS-2025-00220",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2025/08/city-hall-syracuse-community-comes-together-to-reduce-crime-and-its-working-guest-opinion.html",
+  "publication_date": "2025-08-21",
+  "capture_date": "2026-03-22T21:22:31Z",
+  "title": "City Hall: Syracuse community comes together to reduce crime -- and it’s working (Guest Opinion)",
+  "summary": "Syracuse leadership reports significant crime reductions in 2025, with overall crime down 27.3% YTD and violent crime down 18% compared to prior year; shootings down 50% vs. five-year average. Success attributed to multi-agency coordination including SPD operational changes (KOPER Curve, revised patrol schedules), CPTED environmental design investments, diversionary response programs, and community partnerships with county/state law enforcement and the Mayor's Office to Reduce Gun Violence.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "crime-data",
+    "police",
+    "public-safety-commission",
+    "initiative-launch",
+    "intergovernmental",
+    "code-enforcement",
+    "emergency-services",
+    "neighborhood-services",
+    "equity",
+    "data-governance",
+    "transparency",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Department of Public Works",
+    "Code Enforcement",
+    "Mayor's Office to Reduce Gun Violence"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE"
+    },
+    {
+      "name": "Governor Kathy Hochul",
+      "type": "person",
+      "canonical_id": "PERSON-KATHY-HOCHUL"
+    },
+    {
+      "name": "New York State Division of Criminal Justice Services",
+      "type": "organization",
+      "canonical_id": "ORG-NYDCJS"
+    },
+    {
+      "name": "Onondaga County District Attorney's Office",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-DA"
+    },
+    {
+      "name": "COMPSTAT",
+      "type": "system",
+      "canonical_id": "SYS-COMPSTAT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Leadership championing multi-agency crime reduction strategy and community partnership model; emphasizes data-driven results (COMPSTAT metrics) and preventive investments (CPTED, diversionary response) while acknowledging limitations of enforcement-only approaches.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article truncated in source; full content of gun violence programs section not captured",
+    "KOPER Curve strategy and CPTED investments represent operational/capital initiatives relevant to CIO technology and data systems",
+    "Crime data sourced from COMPSTAT—potential data governance and analytics infrastructure relevance",
+    "No dollar amounts specified in provided excerpt",
+    "State and federal partnership signal may have grants/intergovernmental IT coordination implications",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

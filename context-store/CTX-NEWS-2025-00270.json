@@ -1,0 +1,80 @@
+{
+  "record_id": "CTX-NEWS-2025-00270",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/cny/2025/05/syracuse-mayor-walsh-ready-to-accept-some-budget-cuts-council-leader-not-impressed.html",
+  "publication_date": "2025-05-15",
+  "capture_date": "2026-03-22T21:28:01Z",
+  "title": "Syracuse Mayor Walsh ready to accept some budget cuts; council leader not impressed",
+  "summary": "Mayor Ben Walsh signaled willingness to accept $2.5M+ in budget cuts to eliminate a proposed 2% tax increase, but Syracuse Common Council leadership (Councilor Pat Hogan) rejected compromise and indicated they will override mayoral objections to their $16M reduction from the $348.4M budget proposal. The impasse centers on reserve fund usage ($27M proposed vs. council preference) and service impacts, with the council's final decision expected May 27.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "tax-revenue",
+    "mayor",
+    "council",
+    "vote",
+    "policy-change",
+    "escalating",
+    "recurring"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Department of Finance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-BOYER"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYR-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Councilor Hogan (mayoral candidate) rejected Walsh's compromise overture and indicated predetermined council override strategy; characterized mayor's budget defense as 'political theater' and 'scare tactics,' signaling hardened partisan positioning ahead of municipal election.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00036"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Entity extraction note: 'Syracuse University' listed in mechanical extractions but does not appear in article text; removed from entity_refs.",
+    "Dollar amounts validated: $2.5M (cuts accepted), $348.4M (mayor's budget), $16M (council reduction), $60 (tax impact example), $27M (reserves proposed), $120M (reserve fund balance).",
+    "Critical date: May 27 council meeting for objection review; May 16 (Monday) mayoral objection deadline.",
+    "Service impact specifics: police downtown security details and Armory Square nighttime patrols eliminated under council plan.",
+    "Political context: Hogan's mayoral candidacy noted as potential bias factor in opposition stance.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-NEWS-2025-00036"
+  ],
+  "last_relevance_update": null
+}

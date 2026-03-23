@@ -1,0 +1,76 @@
+{
+  "record_id": "CTX-NEWS-2025-00290",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2025/08/whole-community-must-step-up-to-care-for-homeless-individuals-your-letters.html",
+  "publication_date": "2025-08-04",
+  "capture_date": "2026-03-22T21:30:13Z",
+  "title": "Whole community must step up to care for homeless individuals (Your Letters)",
+  "summary": "Opinion letter advocating for inclusive community planning regarding homeless services on Dickerson Street. Writer criticizes lack of neighborhood consultation during six-month planning process for a drop-in center near the Rescue Mission and calls for countywide responsibility-sharing for homeless care rather than displacement strategies.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "equity",
+    "intergovernmental",
+    "residents",
+    "constituent_complaints",
+    "policy-change",
+    "PROVISIONAL:homelessness-services",
+    "PROVISIONAL:community-engagement"
+  ],
+  "department_refs": [
+    "Department of Neighborhood Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ed Griffin-Nolan",
+      "type": "person",
+      "canonical_id": "PERSON-ED-GRIFFIN-NOLAN"
+    },
+    {
+      "name": "Mike Melara",
+      "type": "person",
+      "canonical_id": "PERSON-MIKE-MELARA"
+    },
+    {
+      "name": "Catholic Charities",
+      "type": "organization",
+      "canonical_id": "ORG-CATHOLIC-CHARITIES"
+    },
+    {
+      "name": "Rescue Mission",
+      "type": "organization",
+      "canonical_id": "ORG-RESCUE-MISSION"
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "West Onondaga Street residents and business owners demanding meaningful consultation on homeless services planning; criticism of six-month planning process without neighborhood input.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Letter references prior letter from Mike Melara (Catholic Charities) dated July 31, 2025 regarding Dickerson Street fencing proposal",
+    "Core issue: lack of community engagement in early planning stages for drop-in center near Rescue Mission",
+    "Writer identifies as commercial building owner, suggesting business community perspective",
+    "Broader advocacy for countywide approach to homelessness rather than localized displacement",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'constituent_complaints' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-NEWS-2025-00210",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2025/10/15th-ward-should-be-in-the-conversation-about-public-safety-building-redo-your-letters.html",
+  "publication_date": "2025-10-28",
+  "capture_date": "2026-03-22T21:21:23Z",
+  "title": "15th Ward should be in the conversation about Public Safety Building redo (Your Letters)",
+  "summary": "A letter to the editor argues that the Syracuse Public Safety Building redevelopment should include affordable housing and community reestablishment discussions similar to I-81 corridor planning, noting the site's historical significance as former 15th Ward land destroyed during Urban Renewal. The writer questions why historic preservation focus on the building's mid-century modern architecture overlooks the neighborhood's erased history.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "historic-preservation",
+    "housing",
+    "land-use",
+    "equity",
+    "neighborhood-services",
+    "economic-development",
+    "constituent-complaints",
+    "facilities"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jeff Rowe",
+      "type": "person",
+      "canonical_id": "PERSON-JEFF-ROWE"
+    },
+    {
+      "name": "Syracuse Public Safety Building",
+      "type": "system",
+      "canonical_id": "SYS-PSB"
+    },
+    {
+      "name": "15th Ward",
+      "type": "organization",
+      "canonical_id": "ORG-15TH-WARD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Community member advocates for equitable redevelopment practices and historical acknowledgment in PSB development, drawing comparison to I-81 corridor prioritization of affordable housing and neighborhood restoration.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Date appears anomalous (2025-10-28 is future-dated); likely data entry error or embargo publication date",
+    "Letter references prior article from Oct 24, 2025 about PSB redevelopment and market-rate apartments",
+    "Raises potential coordination issue between I-81 redevelopment planning and PSB redevelopment processes",
+    "No explicit budget or procurement data present; primarily opinion/advocacy content",
+    "Urban Renewal history and 15th Ward displacement are equity/historical preservation considerations for CIO awareness",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

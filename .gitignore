@@ -5,6 +5,8 @@ config/email-config.json
 # Personal data
 all_emails.csv
 cmuldoon emails input/
+Syracuse.com Manual Downloads/
+singlefile-input/
 
 # Browser profile (contains login cookies)
 outputs/browser-profile/

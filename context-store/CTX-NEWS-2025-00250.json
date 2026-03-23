@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-NEWS-2025-00250",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/10/ryan-mcmahon-cites-a-pipeline-of-housing-projects-but-its-filled-with-uncertainty.html",
+  "publication_date": "2025-10-20",
+  "capture_date": "2026-03-22T21:25:35Z",
+  "title": "Ryan McMahon cites a ‘pipeline’ of housing projects, but it’s filled with uncertainty",
+  "summary": "County Executive Ryan McMahon claims a 'pipeline' of 17,000+ housing units to address Onondaga County's projected need for 1,700 units annually through 2040, but only ~8,000 units are sufficiently defined for public listing. The remaining projects are conceptual or unpublicized, creating uncertainty about whether the county can meet housing demand driven by the Micron Technology facility. Current production (588 units in 2024) falls far short of targets.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "economic-development",
+    "land-use",
+    "capital-planning",
+    "zoning",
+    "permitting",
+    "transparency",
+    "trending"
+  ],
+  "department_refs": [
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIVERSITY"
+    },
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON-TECHNOLOGY"
+    },
+    {
+      "name": "La Liga",
+      "type": "organization",
+      "canonical_id": "ORG-LA-LIGA"
+    },
+    {
+      "name": "CZB LLC",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Investigative journalism scrutinizing gap between executive's public claims (17,000 units) and verifiable pipeline (8,000 units); questions whether announced growth strategy is achievable given regulatory, financial, and timeline uncertainties.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article contains specific project examples with timelines and contingencies (e.g., Syracuse Developmental Center development, Metro North mixed-use project rejection)",
+    "Key data point: County needs 1,700 units/year through 2040 but averaged 926/year past decade; 2024 production was only 588 units",
+    "Suggests potential CIO involvement in digital infrastructure/data systems for permitting acceleration and pipeline transparency",
+    "No dollar amounts found in provided excerpt; mechanical extraction of '$103' may be erroneous or from truncated content",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

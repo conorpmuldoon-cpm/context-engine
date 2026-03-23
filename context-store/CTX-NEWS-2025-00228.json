@@ -1,0 +1,88 @@
+{
+  "record_id": "CTX-NEWS-2025-00228",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/10/fines-for-speeding-in-syracuse-school-zones-start-next-week-but-not-everywhere.html",
+  "publication_date": "2025-10-28",
+  "capture_date": "2026-03-22T21:23:23Z",
+  "title": "Fines for speeding in Syracuse school zones start next week, but not at every site",
+  "summary": "Syracuse school zone speed and red-light camera enforcement begins November 3, 2025, after a two-month grace period with warning tickets. Of 28 camera locations installed, 15 are active for enforcement while 10 will be relocated and 3 require school zone boundary adjustments. The program flagged over 95,300 violations in September alone, though the violation rate declined as warning letters were distributed, suggesting behavioral impact.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "vision-zero",
+    "initiative-launch",
+    "code-enforcement",
+    "crime-data",
+    "constituent-complaints",
+    "policy-change",
+    "council",
+    "vote",
+    "IT-infrastructure",
+    "GIS"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Department of Transportation",
+    "City Planning"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-BOYER"
+    },
+    {
+      "name": "Rasheada Caldwell",
+      "type": "person",
+      "canonical_id": "PERSON-RASHEADA-CALDWELL"
+    },
+    {
+      "name": "Amir Gethers",
+      "type": "person",
+      "canonical_id": "PERSON-AMIR-GETHERS"
+    },
+    {
+      "name": "Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-CHOL-MAJOK"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-SCITY-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "City Council members raised procedural concerns about camera placement, visibility, and implementation process, proposing a moratorium. Mayor's administration pledged adjustment plan and grace periods for relocated sites, earning councilors' conditional support. Reflects tension between safety initiative goals and constituent-driven accountability on implementation.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date appears to be October 28, 2025 (future date—verify source publication date)",
+    "Enforcement start date: November 3, 2025 (one day after stated grace period end of November 2)",
+    "Key tech/data elements: camera network, violation flagging, police verification system, location mapping",
+    "13 active locations, 10 pending relocation, 3 pending boundary review across ~28 total sites",
+    "95,300+ violations flagged in September; data suggests warning-letter behavior change",
+    "Missing: specific CIO budget, procurement contract details, vendor information, technical system specifications",
+    "Governance note: Moratorium proposal withdrawn after administration commitment to phased approach",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

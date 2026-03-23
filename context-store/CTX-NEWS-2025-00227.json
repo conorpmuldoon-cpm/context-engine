@@ -1,0 +1,91 @@
+{
+  "record_id": "CTX-NEWS-2025-00227",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/06/did-syracuse-get-all-the-it-work-it-paid-millions-for-outside-report-calls-for-tighter-oversight.html?gift=7326455f-7194-460c-9c54-b2cbb10eae16",
+  "publication_date": "2025-06-12",
+  "capture_date": "2026-03-22T21:23:16Z",
+  "title": "Did Syracuse get all the IT work it paid millions for? Outside report calls for tighter oversight",
+  "summary": "An $88,000 audit by Bonadio Group found no fraud in Syracuse's $3M EY payroll modernization contract but raised concerns that EY may not have completed all billed work. The report identified systemic IT governance weaknesses and recommended establishing a Chief Technology Officer position to improve oversight of decentralized software acquisition and project management.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "audit",
+    "IT-infrastructure",
+    "software-systems",
+    "payroll",
+    "procurement",
+    "contract-award",
+    "investigation",
+    "leadership-change",
+    "budget",
+    "governance",
+    "PROVISIONAL:performance-accountability",
+    "PROVISIONAL:vendor-management"
+  ],
+  "department_refs": [
+    "Department of Information Technology",
+    "Department of Finance",
+    "Law Department (Corporation Counsel)"
+  ],
+  "entity_refs": [
+    {
+      "name": "The Bonadio Group",
+      "type": "organization",
+      "canonical_id": "ORG-BONADIO-GROUP"
+    },
+    {
+      "name": "EY (Ernst & Young)",
+      "type": "organization",
+      "canonical_id": "ORG-EY"
+    },
+    {
+      "name": "Advanced IT",
+      "type": "organization",
+      "canonical_id": "ORG-ADVANCED-IT"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Frank Caliva",
+      "type": "person",
+      "canonical_id": "PERSON-FRANK-CALIVA"
+    },
+    {
+      "name": "Kelsey May",
+      "type": "person",
+      "canonical_id": "PERSON-KELSEY-MAY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "City Council commissioned independent audit following whistleblower complaint and public controversy. Report validates concerns about incomplete work delivery and systemic governance gaps, increasing pressure for CIO/CTO position and vendor accountability mechanisms.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00061"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount $3M appears incomplete in source (shown as '$3'); interpreted as $3 million based on context",
+    "Article truncated; recommended analysis of remaining content for additional findings/recommendations",
+    "Key absence: Two senior officials (Caliva, May) declined interviews, limiting audit depth on procurement decisions",
+    "CTO budget rejection noted as prior obstacle to governance improvement",
+    "Whistleblower complaint substance (pass-through contract mechanism) not fully adjudicated by audit",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'governance' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00061"
+  ],
+  "last_relevance_update": null
+}

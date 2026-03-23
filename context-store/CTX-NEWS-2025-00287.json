@@ -1,0 +1,71 @@
+{
+  "record_id": "CTX-NEWS-2025-00287",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/10/2-syracuse-lawmakers-want-to-delay-fines-for-speeding-in-school-zones.html",
+  "publication_date": "2025-10-27",
+  "capture_date": "2026-03-22T21:29:55Z",
+  "title": "Update: Lawmakers withdraw proposal to delay fines for speeding in Syracuse school zones",
+  "summary": "Syracuse City Councilor Amir Gethers withdrew a proposal to delay fines for school zone speed and red-light camera violations, allowing the city's traffic safety enforcement program to proceed with $50 fines starting November 3, 2025. The 60-day grace period ends after issuing approximately 60,000 warnings; projected fine revenue from violations would exceed $1.7 million.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "vision-zero",
+    "traffic-enforcement",
+    "policy-change",
+    "public-safety",
+    "transportation",
+    "initiative-launch",
+    "legislation",
+    "PROVISIONAL:school-safety"
+  ],
+  "department_refs": [
+    "Department of Public Safety"
+  ],
+  "entity_refs": [
+    {
+      "name": "Amir Gethers",
+      "type": "person",
+      "canonical_id": "PERSON-AMIR-GETHERS"
+    },
+    {
+      "name": "Rasheada Caldwell",
+      "type": "person",
+      "canonical_id": "PERSON-RASHEADA-CALDWELL"
+    },
+    {
+      "name": "Sol Muñoz",
+      "type": "person",
+      "canonical_id": "PERSON-SOL-MUNOZ"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Gethers and Caldwell initially proposed extending the grace period citing need for driver adjustment time and expanded public education, but Gethers withdrew the proposal, indicating either changed position or insufficient council support.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00267"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article contains 'Update' structure showing withdrawal of initial proposal—analyze as policy reversal",
+    "Fire Department reference in mechanical extraction is false positive (unrelated news briefs at article end)",
+    "Key metric: 35,300 warnings issued in two weeks (Sept 16-30); program launched Sept 2025",
+    "$1.7M figure is projected revenue from Sept violations under enforcement scenario",
+    "CIO relevance: technology implementation (traffic cameras), data analytics (violation tracking), and constituent communication",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'traffic-enforcement' not in taxonomy",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00267"
+  ],
+  "last_relevance_update": null
+}

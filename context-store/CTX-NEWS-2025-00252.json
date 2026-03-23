@@ -1,0 +1,98 @@
+{
+  "record_id": "CTX-NEWS-2025-00252",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/cny/2025/07/senate-oks-trumps-plan-to-cancel-millions-for-new-syracuse-neighborhood.html?gift=887324c1-1e6d-4fee-87d5-8e2340669204",
+  "publication_date": "2025-07-02",
+  "capture_date": "2026-03-22T21:25:47Z",
+  "title": "Senate OKs Trump’s plan to cancel millions for new Syracuse neighborhood",
+  "summary": "Senate Republicans passed legislation canceling unspent grants from the $3.3 billion Neighborhood Access and Equity Program, eliminating Syracuse's $30 million federal grant for I-81 corridor revitalization. Syracuse had received only $300,000 of the award due to required environmental review timelines. The cancellation removes critical infrastructure funding for a neighborhood redevelopment project involving streets, parks, bike paths, and housing preparation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "federal-programs",
+    "grants",
+    "infrastructure",
+    "housing",
+    "intergovernmental",
+    "policy-change",
+    "transportation",
+    "neighborhood-services",
+    "economic-development",
+    "equity",
+    "legislation",
+    "PROVISIONAL:grant-rescission",
+    "PROVISIONAL:interstate-corridor-revitalization"
+  ],
+  "department_refs": [
+    "Department of Permits and Development",
+    "Office of the Chief Innovation Officer"
+  ],
+  "entity_refs": [
+    {
+      "name": "Trump Administration",
+      "type": "organization",
+      "canonical_id": "ORG-TRUMP-ADMIN"
+    },
+    {
+      "name": "Federal Highway Administration",
+      "type": "organization",
+      "canonical_id": "ORG-FHWA"
+    },
+    {
+      "name": "Charles Schumer",
+      "type": "person",
+      "canonical_id": "PERSON-CHARLES-SCHUMER"
+    },
+    {
+      "name": "Kirsten Gillibrand",
+      "type": "person",
+      "canonical_id": "PERSON-KIRSTEN-GILLIBRAND"
+    },
+    {
+      "name": "Ron Wyden",
+      "type": "person",
+      "canonical_id": "PERSON-RON-WYDEN"
+    },
+    {
+      "name": "J.D. Vance",
+      "type": "person",
+      "canonical_id": "PERSON-JD-VANCE"
+    },
+    {
+      "name": "Greg Loh",
+      "type": "person",
+      "canonical_id": "PERSON-GREG-LOH"
+    },
+    {
+      "name": "Transportation for America",
+      "type": "organization",
+      "canonical_id": "ORG-TRANSPORTATION-FOR-AMERICA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Trump administration and Republican-controlled Senate actively opposed and eliminated federal neighborhood equity program; Democratic senators (Schumer, Gillibrand) advocated unsuccessfully to preserve Syracuse's award; advocacy groups attempting mitigation strategies",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date (2025-07-02) is in future relative to knowledge cutoff; treating as scenario content",
+    "Greg Loh identified as Chief Policy Officer; may warrant CIO coordination on federal program strategy",
+    "Dollar amounts corrected from mechanical extraction: $3.3B program total, $30M Syracuse grant, $150M NY State grant, $2B+ at-risk nationally, $300K received, $1B in red/purple states at risk",
+    "Interstate 81 corridor transformation is major city initiative requiring coordination across permits, planning, transportation",
+    "Environmental review timeline (up to 2 years) explains grant disbursement gap that triggered rescission language",
+    "Bill passage timeline (targeting July 4) indicates urgent advocacy window may have closed",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

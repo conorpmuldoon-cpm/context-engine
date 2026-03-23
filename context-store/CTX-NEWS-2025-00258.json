@@ -1,0 +1,82 @@
+{
+  "record_id": "CTX-NEWS-2025-00258",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2025/04/syracuse-chief-defends-officers-hitting-man-during-arrest-but-says-some-procedures-violated.html?gift=d81d7653-e2a1-433b-9416-49c106fe593c",
+  "publication_date": "2025-04-10",
+  "capture_date": "2026-03-22T21:26:38Z",
+  "title": "Syracuse chief defends officers hitting man during arrest, but says some procedures violated",
+  "summary": "Syracuse Police Chief Joe Cecile defended officers' use of force (three controlled strikes to head/face) during an arrest on South Avenue, stating the tactic was within department policy and state standards. However, the chief acknowledged that body-worn camera footage revealed unspecified policy and procedure violations that will result in discipline and retraining. The incident has generated public outcry via social media and raises questions about use-of-force oversight and transparency.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "complaint",
+    "investigation",
+    "use-of-force",
+    "transparency",
+    "PROVISIONAL:use-of-force-review",
+    "PROVISIONAL:body-camera-accountability",
+    "trending",
+    "public-safety-commission"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE"
+    },
+    {
+      "name": "Jaumar Chandler",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Antal Tatum",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Lataya Dixson",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Joseph Moran",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Syracuse Police Benevolent Association",
+      "type": "organization",
+      "canonical_id": "ORG-SPBA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public incident generating online outrage and media coverage; police leadership defending use-of-force decisions while simultaneously acknowledging procedural violations; signals potential community relations and accountability concerns requiring CIO attention for transparency/data governance initiatives.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount ($70) in mechanical extractions appears unrelated to article content—likely false positive from extraction process.",
+    "Article focuses on operational police conduct rather than CIO-relevant technology/digital services initiatives, but has transparency and data governance implications (body-camera footage, public records, complaint handling systems).",
+    "No specific policy violations detailed by chief—suggests potential data transparency or public records access issue.",
+    "Article date is 2025-04-10 (future date); validate against current date.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'use-of-force' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

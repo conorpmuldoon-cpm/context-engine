@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-NEWS-2025-00222",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/10/a-company-wants-to-restart-abandoned-concrete-plant-near-100-million-syracuse-aquarium-mcmahon-says-go-fish.html",
+  "publication_date": "2025-10-27",
+  "capture_date": "2026-03-22T21:22:43Z",
+  "title": "Concrete plant proposal near $100 million Syracuse aquarium draws McMahon’s ire",
+  "summary": "Heidelberg Materials has applied to reopen a dormant concrete batch plant at 411-421 Spencer Street, two blocks from Syracuse's $100M Inner Harbor aquarium project. County Executive Ryan McMahon opposes the proposal, arguing it contradicts lakefront redevelopment goals, though the city—not the county—holds permitting authority. Developer Len Montreal and Heidelberg have issued competing statements on community impact and economic benefits.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "land-use",
+    "permitting",
+    "zoning",
+    "infrastructure",
+    "business-community",
+    "capital-planning",
+    "escalating"
+  ],
+  "department_refs": [
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Heidelberg Materials",
+      "type": "organization",
+      "canonical_id": "ORG-HEIDELBERG-MATERIALS"
+    },
+    {
+      "name": "Len Montreal",
+      "type": "person",
+      "canonical_id": "PERSON-LEN-MONTREAL"
+    },
+    {
+      "name": "Capital District Concrete Batch Inc.",
+      "type": "organization",
+      "canonical_id": "ORG-CAPITAL-DISTRICT-CONCRETE"
+    },
+    {
+      "name": "Jeff Sieg",
+      "type": "person",
+      "canonical_id": "PERSON-JEFF-SIEG"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "County Executive McMahon publicly opposes the concrete plant proposal as incompatible with Inner Harbor transformation vision and aquarium investment, though city retains final permitting authority. Opposition framed around future-oriented development priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date listed as 2025-10-27 (future date); verify publication date accuracy",
+    "Dollar amount extracted: $100 million (aquarium); concrete plant investment amount not specified in excerpt",
+    "Permitting decision authority resides with City of Syracuse, not County Executive—McMahon's role is political influence only",
+    "Substantive community opposition noted from developer stakeholder; potential constituent pressure signal if residents organize",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,89 @@
+{
+  "record_id": "CTX-NEWS-2025-00278",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/10/as-demand-soars-housing-development-slumps-why-are-we-stuck.html",
+  "publication_date": "2025-10-20",
+  "capture_date": "2026-03-22T21:28:57Z",
+  "title": "Syracuse-area home building slumps when it needs to grow. Why are we stuck?",
+  "summary": "Syracuse-area housing construction has slumped to 25-year lows (588 units in 2024, only 218 permits through July 2025) despite surging demand and the incoming Micron Technology chip fab project expected to bring new residents. County officials cite a pipeline of ~16,000 proposed units, but most are in early planning stages with uncertain timelines and funding; only 1,440 units are currently under construction. The CIO should monitor this as a critical infrastructure and economic-development challenge affecting workforce attraction and regional competitiveness.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "economic-development",
+    "land-use",
+    "zoning",
+    "permitting",
+    "capital-planning",
+    "intergovernmental",
+    "workforce-development",
+    "equity",
+    "PROVISIONAL:micron-impact",
+    "trending"
+  ],
+  "department_refs": [
+    "Department of Permits and Development",
+    "Onondaga County Planning Agency"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Robert Simpson",
+      "type": "person",
+      "canonical_id": "PERSON-ROBERT-SIMPSON"
+    },
+    {
+      "name": "CenterState CEO",
+      "type": "organization",
+      "canonical_id": "ORG-CENTERSTATE-CEO"
+    },
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Tim Knauss",
+      "type": "person",
+      "canonical_id": "PERSON-TIM-KNAUSS"
+    },
+    {
+      "name": "Kevin Tampone",
+      "type": "person",
+      "canonical_id": "PERSON-KEVIN-TAMPONE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Investigative journalism examining gap between County Executive's optimistic rhetoric about housing pipeline and on-the-ground building slowdown. Questions credibility of 16,000-unit projection given that half are too tentative to publicize and many face uncertain funding/approvals.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00250"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date 2025-10-20 is future-dated; likely data error or pre-publication embargo metadata. Treat with caution.",
+    "Entity 'Michael Collins' and 'National Grid' mentioned in mechanical extractions do not appear in provided article text; may be from truncated portion or data misalignment.",
+    "Dollar amounts in mechanical extractions ($300, $500K, etc.) not found in article excerpt; source unclear.",
+    "This is primary news source reporting, not a city policy document; valuable for understanding external pressure and constituent perception rather than internal operations.",
+    "Critical CIO relevance: housing shortage may drive demand for smart growth tools, permitting digitalization, and GIS/data analytics to accelerate project approvals.",
+    "Recommended cross-reference with County Planning Agency on digital permitting systems and project tracking infrastructure.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-NEWS-2025-00250"
+  ],
+  "last_relevance_update": null
+}

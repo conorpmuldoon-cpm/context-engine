@@ -1,0 +1,76 @@
+{
+  "record_id": "CTX-NEWS-2025-00264",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/05/syracuse-finest-no-match-for-the-bravest-in-police-vs-fire-basketball-game.html",
+  "publication_date": "2025-05-24",
+  "capture_date": "2026-03-22T21:27:16Z",
+  "title": "Syracuse Finest no match for the Bravest in police vs. fire basketball game",
+  "summary": "Syracuse Fire Department defeated Syracuse Police Department 92-88 in their charity basketball game at Corcoran High School on May 24, 2025, raising $2,500 for United Way of Central New York. The event marked the return of a decades-long inter-departmental rivalry after a five-year hiatus due to COVID-19, with approximately 250 attendees including Mayor Ben Walsh and SU Football Coach Fran Brown.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "emergency-services",
+    "fire",
+    "police",
+    "community-engagement",
+    "charity",
+    "announcement"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael Monds",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-MONDS"
+    },
+    {
+      "name": "Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Ray Manassa",
+      "type": "person",
+      "canonical_id": "PERSON-RAY-MANASSA"
+    },
+    {
+      "name": "United Way of Central New York",
+      "type": "organization",
+      "canonical_id": "ORG-UWCNY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor's public attendance and trophy presentation signal organizational support for inter-departmental collaboration and community engagement through charitable event.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00048"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date (2025-05-24) is future-dated; recommend verification. Recommended section contains unrelated basketball articles suggesting content syndication. Fire Chief claims historical winning streak; Police Chief disputes—factual record unclear.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'community-engagement' not in taxonomy",
+    "Tag warning: Unknown tag 'charity' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00048"
+  ],
+  "last_relevance_update": null
+}

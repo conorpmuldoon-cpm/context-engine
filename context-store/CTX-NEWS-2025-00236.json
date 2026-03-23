@@ -1,0 +1,91 @@
+{
+  "record_id": "CTX-NEWS-2025-00236",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/07/its-a-race-to-the-finish-but-syracuse-steam-school-will-open-in-september-photos.html",
+  "publication_date": "2025-07-21",
+  "capture_date": "2026-03-22T21:24:14Z",
+  "title": "It’s a ‘race to the finish,’ but Syracuse STEAM school will open in September (photos)",
+  "summary": "Syracuse STEAM High School, a $100 million regional high school focused on science, technology, engineering, arts, and math, is scheduled to open in September 2025 with 250 inaugural freshman students despite ongoing construction. The state-funded project (98% reimbursement) represents significant infrastructure investment in workforce development for the region's growing tech economy, with facilities designed to support nine academic concentrations including robotics, animation, and data analytics.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "capital-planning",
+    "construction-staging",
+    "economic-development",
+    "education",
+    "facilities",
+    "initiative-launch",
+    "intergovernmental",
+    "state-agency",
+    "workforce-development",
+    "PROVISIONAL:STEAM-education"
+  ],
+  "department_refs": [
+    "Office of the Mayor",
+    "Department of Facilities and Capital Planning",
+    "Onondaga County Executive Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse STEAM High School",
+      "type": "system",
+      "canonical_id": "SYS-STEAM-HIGH-SCHOOL"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Anthony Davis",
+      "type": "person",
+      "canonical_id": "PERSON-ANTHONY-DAVIS"
+    },
+    {
+      "name": "Archie Wixson",
+      "type": "person",
+      "canonical_id": "PERSON-ARCHIE-WIXSON"
+    },
+    {
+      "name": "Syracuse City School District",
+      "type": "organization",
+      "canonical_id": "ORG-SCSD"
+    },
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Multi-level government leadership (Mayor, County Executive, School Superintendent) publicly endorsing and championing the STEAM school as economic development and workforce pipeline strategy aligned with regional tech sector growth.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount extracted: $100 million (not $100 as initially detected)",
+    "Article focuses on facilities/capital project rather than CIO-specific IT systems or digital services",
+    "May relate to CIO priorities around tech workforce pipeline and regional competitiveness",
+    "Historic preservation element noted (122-year-old building, architect Archimedes Russell retained)",
+    "Project timeline: approved 2020 (Gov. Cuomo), originally fall 2021, delayed due to pandemic and cost increases, now opening September 2025",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'education' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

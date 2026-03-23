@@ -1,0 +1,85 @@
+{
+  "record_id": "CTX-NEWS-2025-00255",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/12/some-cny-towns-could-run-out-of-water-this-weekend-county-warns.html",
+  "publication_date": "2025-12-23",
+  "capture_date": "2026-03-22T21:26:08Z",
+  "title": "Some CNY towns could run out of water this weekend, county warns",
+  "summary": "A ruptured water transmission line in Cicero has created a critical infrastructure crisis affecting six Onondaga and Madison County towns (Manlius, DeWitt, Pompey, Sullivan, Lenox, Lincoln). Storage tank levels have dropped to 18% capacity, with southern Manlius, northern Pompey, and parts of Fayetteville at imminent risk of losing water by Sunday without aggressive conservation reaching 3.5 million gallons/day usage. County and OCWA have activated emergency response protocols including temporary water lines, emergency shipments from alternative lakes, portable pumping systems, and standby tanker/bottled water distribution.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "infrastructure",
+    "emergency-services",
+    "escalating",
+    "intergovernmental",
+    "trending",
+    "crisis-response",
+    "PROVISIONAL:utility-outage",
+    "PROVISIONAL:regional-coordination"
+  ],
+  "department_refs": [
+    "Onondaga County Water Authority",
+    "Onondaga County Emergency Management",
+    "Office of the Onondaga County Executive"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jeff Brown",
+      "type": "person",
+      "canonical_id": "PERSON-JEFF-BROWN"
+    },
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Dan Wears",
+      "type": "person",
+      "canonical_id": "PERSON-DAN-WEARS"
+    },
+    {
+      "name": "Onondaga County Water Authority",
+      "type": "organization",
+      "canonical_id": "ORG-OCWA"
+    },
+    {
+      "name": "Byrne Dairy",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Lotte Biologics",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "County Executive and OCWA leadership publicly declaring crisis status and activating emergency protocols; high-visibility coordination with private sector (retailers, pharma) signals institutional response prioritization",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date (2025-12-23) is future-dated; verify publication accuracy",
+    "No Syracuse Fire Department reference detected in content; mechanical extraction may be erroneous",
+    "Critical infrastructure failure affecting regional water supply—likely to trigger CIO involvement for SCADA/monitoring systems and emergency communications",
+    "6-town regional coordination suggests potential GIS mapping and real-time dashboard needs for public/inter-agency communication",
+    "Emergency water shipment logistics and tanker routing may benefit from fleet/logistics IT coordination",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'crisis-response' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

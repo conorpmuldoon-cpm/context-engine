@@ -103,12 +103,16 @@ def extract_from_html(html: str, filename: str) -> dict | None:
 
     # --- Source URL ---
     # SingleFile embeds the original URL in a comment near the top:
-    #   <!-- saved from url=(NNNN)https://www.syracuse.com/... -->
+    #   url: https://www.syracuse.com/...
     # Also check for <link rel="canonical">
     url = None
-    m = re.search(r'saved from url=\(\d+\)(https?://[^\s]+)', html)
+    m = re.search(r'^\s*url:\s*(https?://[^\s]+)', html, re.M)
     if m:
         url = m.group(1).strip()
+    if not url:
+        m = re.search(r'saved from url=\(\d+\)(https?://[^\s]+)', html)
+        if m:
+            url = m.group(1).strip()
     if not url:
         m = re.search(r'<link[^>]+rel=["\']canonical["\'][^>]+href=["\']([^"\']+)', html, re.I)
         if m:
@@ -330,13 +334,8 @@ def main():
         logger.info(f"  URL: {url[:80] if url else '(none)'}")
         logger.info(f"  Date: {pub_date} | Content: {len(content)} chars")
 
-        # Relevance filter
-        relevant, reasons = is_relevant(title, content, registry, taxonomy)
-        if not relevant:
-            logger.info(f"{progress} Filtered (not relevant): {title[:80]}")
-            filtered_count += 1
-            processed_in_run.append(filepath.name)
-            continue
+        # Skip relevance filter — user manually curated these files
+        reasons = []
 
         for r in reasons:
             logger.debug(f"  -> {r}")

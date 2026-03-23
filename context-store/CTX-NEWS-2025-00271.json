@@ -1,0 +1,99 @@
+{
+  "record_id": "CTX-NEWS-2025-00271",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/2025/05/syracuse-other-upstate-ny-cities-on-trump-administration-list-of-sanctuary-jurisdictions.html?lctg=64d4fa443c897607220b839e&utm_source=Sailthru&utm_medium=email&utm_campaign=Good%20Morning%20CNY%205-30-25&utm_term=Newsletter_good_morning_cny",
+  "publication_date": "2025-05-30",
+  "capture_date": "2026-03-22T21:28:08Z",
+  "title": "Syracuse on Trump administration list of ‘sanctuary jurisdictions’",
+  "summary": "Syracuse has been designated by the Trump administration's Department of Homeland Security as a 'sanctuary jurisdiction' on a list of 500+ localities alleged to obstruct federal immigration enforcement. The city joins 11 other NY municipalities, 15 counties, and NY State on the list. DHS has notified all listed jurisdictions of non-compliance and potential loss of federal funding, though specific penalties remain unspecified. City leadership maintains Syracuse's welcoming immigrant stance while claiming police do not enforce federal immigration law.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "immigration",
+    "PROVISIONAL:sanctuary-cities",
+    "federal-programs",
+    "state-mandates",
+    "intergovernmental",
+    "policy-change",
+    "executive-orders",
+    "police",
+    "PROVISIONAL:civil-rights",
+    "trending",
+    "escalating"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Donald Trump",
+      "type": "person",
+      "canonical_id": "PERSON-DONALD-TRUMP"
+    },
+    {
+      "name": "Kristi Noem",
+      "type": "person",
+      "canonical_id": "PERSON-KRISTI-NOEM"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Stephanie Miner",
+      "type": "person",
+      "canonical_id": "PERSON-STEPHANIE-MINER"
+    },
+    {
+      "name": "Toby Shelley",
+      "type": "person",
+      "canonical_id": "PERSON-TOBY-SHELLEY"
+    },
+    {
+      "name": "Tom Homan",
+      "type": "person",
+      "canonical_id": "PERSON-TOM-HOMAN"
+    },
+    {
+      "name": "Department of Homeland Security",
+      "type": "organization",
+      "canonical_id": "ORG-DHS"
+    },
+    {
+      "name": "Onondaga County Sheriff's Office",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-SHERIFF"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Federal administration applying regulatory pressure and threatening funding loss to Syracuse over immigration enforcement policies; city faces potential compliance demands and legal exposure.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00190"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date (2025-05-30) appears to be future-dated; verify publication date accuracy",
+    "Recommended articles listed appear to be from 2026, suggesting potential data quality issue with source",
+    "Key policy stakeholder: Onondaga County Sheriff (separate from city, also non-compliant with ICE)",
+    "CIO should monitor for potential federal funding impact notifications and any IT/data governance implications of compliance demands",
+    "Constitutional Fourth Amendment arguments cited by county sheriff may inform city legal response",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'immigration' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00190"
+  ],
+  "last_relevance_update": null
+}

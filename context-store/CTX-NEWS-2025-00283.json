@@ -1,0 +1,70 @@
+{
+  "record_id": "CTX-NEWS-2025-00283",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2025/07/teen-charged-in-killing-at-syracuse-pool-was-on-probation-at-the-time-of-the-shooting.html",
+  "publication_date": "2025-07-10",
+  "capture_date": "2026-03-22T21:29:29Z",
+  "title": "Teen charged in killing at Syracuse pool was on probation at the time of the shooting",
+  "summary": "A 15-year-old Syracuse resident was charged with second-degree murder in a fatal shooting at Upper Onondaga Park Pool on June 24, 2025. The suspect was on probation at the time of the incident and has been arraigned on violation of probation charges. Mayor Walsh announced increased police presence at city pools this summer in response.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "crime-data",
+    "police",
+    "parks",
+    "public-safety-commission",
+    "emergency-services",
+    "mayor",
+    "escalating"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Mayor's Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Kyari Cunningham",
+      "type": "person",
+      "canonical_id": "PERSON-KYARI-CUNNINGHAM"
+    },
+    {
+      "name": "A'Dhon Thomas",
+      "type": "person",
+      "canonical_id": "PERSON-ADHON-THOMAS"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Upper Onondaga Park Pool",
+      "type": "system",
+      "canonical_id": "SYS-UPPER-ONONDAGA-POOL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor's commitment to enhanced public safety at city recreational facilities through increased police presence signals prioritization of community safety at municipal venues.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Youthful offender case details sealed; probation reason unavailable for analysis",
+    "Article contains unrelated crime briefs; only pool shooting incident extracted",
+    "$70K figure from unrelated corrections officer claim excluded from entity refs",
+    "Judge Matthew Doran and prosecutor Anthony Copani identified but not critical to CIO analysis",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

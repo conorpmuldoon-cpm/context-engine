@@ -1,0 +1,87 @@
+{
+  "record_id": "CTX-NEWS-2025-00244",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/health/2025/10/onondaga-county-hosting-lead-safety-events-this-week-for-families-landlords-and-contractors.html",
+  "publication_date": "2025-10-20",
+  "capture_date": "2026-03-22T21:25:00Z",
+  "title": "Onondaga County hosting lead safety events this week for families, landlords and contractors",
+  "summary": "Onondaga County is hosting multiple lead poisoning prevention events during National Lead Poisoning Prevention Week (Oct. 19-25, 2025) targeting families, landlords, and contractors. Key initiatives include a public information session on lead hazards, a contractor networking fair, participation in a refugee health fair, and a community event. The county reports ~10% of Syracuse children tested have elevated blood lead levels, with approximately 14,000 homes still using lead pipes for tap water.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "lead-remediation",
+    "announcement",
+    "federal-programs",
+    "housing",
+    "initiative-launch",
+    "equity",
+    "state-mandates",
+    "training",
+    "business-community",
+    "health",
+    "water"
+  ],
+  "department_refs": [
+    "Onondaga County Health Department",
+    "Onondaga County Executive Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Onondaga County Health Department Lead Poisoning Prevention Program",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-HEALTH-LEAD"
+    },
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Richard McCarron",
+      "type": "person",
+      "canonical_id": "PERSON-RICHARD-MCCARRON"
+    },
+    {
+      "name": "LeadSafeCNY Coalition",
+      "type": "organization",
+      "canonical_id": "ORG-LEADSAFE-CNY"
+    },
+    {
+      "name": "Catholic Charities of Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-CATHOLIC-CHARITIES-ONONDAGA"
+    },
+    {
+      "name": "BABY B.A.C.K. INC.",
+      "type": "organization",
+      "canonical_id": "ORG-BABY-BACK"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "County leadership (Executive McMahon, Legislator McCarron) directly championing lead remediation and public health equity initiatives; alignment with new state Lead Rental Registry mandate and EPA guidelines; focus on vulnerable populations (children, refugees, contractors) signals health equity priority.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date is 2025-10-20 (future date - likely test/staging content or publication scheduling)",
+    "Dollar amount '$78 million' extracted from truncated text at article end ('West Genesee's $78 million pla[...]') — appears to be unrelated article fragment; not included in entity extraction",
+    "No direct City of Syracuse departments referenced; events hosted by County entities and nonprofits",
+    "New York Lead Rental Registry law effective November 2025 creates regulatory compliance requirement for designated communities",
+    "Strong data citation (10% Syracuse youth, 5% county-wide, 14,000 homes with lead pipes) supports evidence-based public health advocacy",
+    "Multi-stakeholder coordination: government, nonprofits, contractors, refugee services suggests comprehensive systems approach",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'health' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,73 @@
+{
+  "record_id": "CTX-NEWS-2025-00248",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2025/07/police-union-leader-should-lower-the-heat-after-combative-armory-square-comments-editorial-board-opinion.html",
+  "publication_date": "2025-07-27",
+  "capture_date": "2026-03-22T21:25:24Z",
+  "title": "Police union leader should lower the heat after combative Armory Square comments (Editorial Board Opinion)",
+  "summary": "Editorial board criticizes Syracuse Police union leader Joseph Moran for publicly encouraging officers to disregard the department's use-of-force and de-escalation policies during increased Armory Square patrols. The opinion disputes Moran's characterization of the bar district as 'chaotic' and 'infiltrated' by gang members, noting that increased patrols are for nuisance behavior management, not violence response, and that firsthand observation showed no dangerous activity warranting such rhetoric.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "labor-relations",
+    "policy-change",
+    "public-safety-commission",
+    "union",
+    "escalating",
+    "transparency",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Joseph Moran",
+      "type": "person",
+      "canonical_id": "PERSON-JOSEPH-MORAN"
+    },
+    {
+      "name": "Police Benevolent Association",
+      "type": "organization",
+      "canonical_id": "ORG-PBA"
+    },
+    {
+      "name": "Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE"
+    },
+    {
+      "name": "Advance Media NY Editorial Board",
+      "type": "organization",
+      "canonical_id": "ORG-ADVANCE-MEDIA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Editorial board public criticism of union leadership rhetoric that conflicts with official department policy and public safety messaging; signals media oversight of labor-management tensions within police operations.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00109"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is opinion/editorial, not institutional announcement",
+    "Moran's July 18 and July 13 Facebook posts cited as primary sources but not directly linked",
+    "Chief Cecile's position appears aligned with editorial board against union rhetoric",
+    "Armory Square is specific neighborhood/entertainment district requiring geographic tagging for context",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-NEWS-2025-00109"
+  ],
+  "last_relevance_update": null
+}

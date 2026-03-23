@@ -1,0 +1,84 @@
+{
+  "record_id": "CTX-NEWS-2025-00253",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2025/04/should-police-chase-stolen-cars-two-local-departments-set-opposite-policies.html",
+  "publication_date": "2025-04-15",
+  "capture_date": "2026-03-22T21:25:53Z",
+  "title": "Should police chase stolen cars? Two Central NY departments set opposite policies",
+  "summary": "Syracuse Police Department and Onondaga County Sheriff's Office have adopted opposite policies on pursuing stolen vehicles. SPD implemented a no-chase policy for stolen cars unless connected to violent felonies, citing safety concerns and ineffectiveness at reducing theft rates (1,268 vehicles stolen in 2024, up 12% YoY). OCSO continues pursuing stolen vehicles, creating inconsistent enforcement across jurisdictions. National data shows police pursuits killed over 3,000 people (2017-2022), with majority for minor offenses.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "policy-change",
+    "public-safety-commission",
+    "crime-data",
+    "emergency-services",
+    "intergovernmental",
+    "trending",
+    "equity",
+    "training"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Onondaga County Sheriff's Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Joseph Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOSEPH-CECILE"
+    },
+    {
+      "name": "Geoffrey P. Alpert",
+      "type": "person",
+      "canonical_id": "PERSON-GEOFFREY-ALPERT"
+    },
+    {
+      "name": "Sean Girvin",
+      "type": "person",
+      "canonical_id": "PERSON-SEAN-GIRVIN"
+    },
+    {
+      "name": "Zy'Mier Zulueta",
+      "type": "person",
+      "canonical_id": "PERSON-ZYMIER-ZULUETA"
+    },
+    {
+      "name": "San Francisco Chronicle",
+      "type": "organization",
+      "canonical_id": "ORG-SF-CHRONICLE"
+    },
+    {
+      "name": "University of South Carolina",
+      "type": "organization",
+      "canonical_id": "ORG-USC"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Syracuse Police Chief Cecile is championing evidence-based pursuit policy reform aligned with national trend toward public safety prioritization over property recovery. Policy demonstrates data-driven decision-making regarding ineffectiveness of chases in reducing theft epidemic.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article truncated in source; full content analysis unavailable",
+    "OCSO is state agency; note intergovernmental coordination gap between city and county",
+    "Two recent fatal pursuits (2022, 2023) involving juveniles in stolen vehicles in Syracuse jurisdiction",
+    "Kia/Hyundai theft spike may warrant separate investigation tag",
+    "Data point: 86% increase in car thefts since 2019 suggests systemic problem beyond pursuit policy",
+    "Buffalo Police Department model referenced as alternative approach (inverse pursuit signaling)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

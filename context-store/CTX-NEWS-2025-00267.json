@@ -1,0 +1,84 @@
+{
+  "record_id": "CTX-NEWS-2025-00267",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/10/syracuse-lawmakers-finally-endorse-citys-plan-to-eliminate-traffic-fatalities.html",
+  "publication_date": "2025-10-28",
+  "capture_date": "2026-03-22T21:27:39Z",
+  "title": "Syracuse lawmakers finally endorse city’s plan to eliminate traffic fatalities",
+  "summary": "The Syracuse Common Council unanimously approved Mayor Ben Walsh's Vision Zero Action Plan, a 30-year traffic safety initiative targeting zero fatal or serious injury crashes by 2055 with interim 35% reduction by 2035. The plan identifies high-crash intersections for prioritized infrastructure improvements and evaluates a city-wide 25 mph default speed limit. Council endorsement enables continuity across administrations and strengthens grant competitiveness without requiring immediate funding authorization.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "vision-zero",
+    "transportation",
+    "public-safety",
+    "infrastructure",
+    "policy-change",
+    "initiative-launch",
+    "vote",
+    "council",
+    "mayor",
+    "grants",
+    "intergovernmental"
+  ],
+  "department_refs": [
+    "Office of the Mayor",
+    "Department of Transportation",
+    "Department of Public Safety"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jimmy Monto",
+      "type": "person",
+      "canonical_id": "PERSON-JIMMY-MONTO"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Amir Gethers",
+      "type": "person",
+      "canonical_id": "PERSON-AMIR-GETHERS"
+    },
+    {
+      "name": "Vision Zero Network",
+      "type": "organization",
+      "canonical_id": "ORG-VISION-ZERO-NETWORK"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Unanimous council endorsement after initial committee resistance signals consolidated legislative support for mayor's Vision Zero initiative. Strategic reintroduction emphasizes administrative continuity and grant leverage rather than immediate budget commitment, reducing fiscal friction.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00146"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article contains quantified baseline (563 crashes, 42 deaths 2019-2023) useful for future impact measurement",
+    "Initial committee withdrawal by Gethers (Sept 2025) suggests prior procedural/jurisdictional concerns, now resolved",
+    "No direct CIO/IT systems implications in core article, though Vision Zero data management and GIS infrastructure may be downstream",
+    "Jeremy Boyer is verified reporter; syracuse.com is authoritative local source",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00146"
+  ],
+  "last_relevance_update": null
+}

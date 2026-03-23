@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-NEWS-2025-00292",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/05/draconian-and-dangerous-syracuse-mayor-blasts-councilors-for-16m-in-budget-cuts.html?gift=4dc6c2df-6cb6-4ffd-af23-9b4b9779f398",
+  "publication_date": "2025-05-08",
+  "capture_date": "2026-03-22T21:30:27Z",
+  "title": "‘Draconian and dangerous’: Syracuse mayor blasts councilors for $16M in budget cuts",
+  "summary": "Syracuse Common Council unanimously passed 80+ budget amendments cutting $16M in proposed spending without prior transparency or mayoral negotiation. Mayor Walsh characterized the process as 'unprecedented' in secrecy and called the cuts 'draconian and dangerous,' while Councilor Hogan defended the revisions as fiscally responsible with protections for police, fire, and city employment.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "council",
+    "mayor",
+    "transparency",
+    "escalating",
+    "vote",
+    "labor-relations",
+    "political_conflict"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    },
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Executive-legislative conflict over budget process transparency and fiscal direction. Mayor opposes council's unilateral cuts; council defends cuts as fiscally prudent. High political tension.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00026"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount '$16M' extracted and standardized from '$16 million'",
+    "Police department implied but not explicitly named; included in refs based on Hogan's statement",
+    "Meeting described as 'packed with about 100 concerned city employees' suggests labor relations dimension",
+    "No specific CIO/IT systems mentioned; classified as procedural/governance issue with transparency implications for future stakeholder engagement processes",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'political_conflict' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00026"
+  ],
+  "last_relevance_update": null
+}

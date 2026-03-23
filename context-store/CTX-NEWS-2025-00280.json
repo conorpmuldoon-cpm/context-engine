@@ -1,0 +1,89 @@
+{
+  "record_id": "CTX-NEWS-2025-00280",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/10/syracuses-columbus-statue-will-outlast-ben-walsh-who-promised-5-years-ago-to-remove-it.html",
+  "publication_date": "2025-10-09",
+  "capture_date": "2026-03-22T21:29:12Z",
+  "title": "Syracuse’s Columbus statue will outlast Ben Walsh, who promised 5 years ago to remove it",
+  "summary": "Mayor Ben Walsh's 2020 promise to relocate Syracuse's 1934 Columbus statue remains unfulfilled as his term ends December 2025. Years of litigation, community debate, and advisory processes have yielded no final design for the proposed Heritage Park replacement. The next mayor will inherit an unresolved civic infrastructure and land-use decision complicated by preservationist opposition, Onondaga Nation advocacy, and potential Mellon Foundation grant involvement.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "historic-preservation",
+    "land-use",
+    "parks",
+    "equity",
+    "leadership-change",
+    "intergovernmental",
+    "grants",
+    "policy-change",
+    "investigation",
+    "PROVISIONAL:monument-management"
+  ],
+  "department_refs": [
+    "Law Department",
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Onondaga Nation",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-NATION"
+    },
+    {
+      "name": "Columbus Monument Corp.",
+      "type": "organization",
+      "canonical_id": "ORG-COLUMBUS-MONUMENT-CORP"
+    },
+    {
+      "name": "Onondaga Historical Association",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-HISTORICAL-ASSOC"
+    },
+    {
+      "name": "Mellon Foundation",
+      "type": "organization",
+      "canonical_id": "ORG-MELLON-FOUNDATION"
+    },
+    {
+      "name": "Joseph Heath",
+      "type": "person",
+      "canonical_id": "PERSON-JOSEPH-HEATH"
+    },
+    {
+      "name": "Lisa Moore",
+      "type": "person",
+      "canonical_id": "PERSON-LISA-MOORE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Competing advocacy narratives: Onondaga Nation and removal advocates prioritize indigenous land justice; Italian-American heritage preservationists frame removal as erasure; Foundation involvement triggers ideological opposition rhetoric. Unresolved policy creates persistent community friction.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date is October 9, 2025—future date suggests this is a hypothetical or test scenario",
+    "Mechanical extraction of 'Syracuse University' appears erroneous; no university reference found in article text",
+    "$250M refers to Mellon Foundation Monuments Project total, not local allocation",
+    "Heritage Park Advisory Commission composition and digital governance infrastructure not detailed in article",
+    "CIO relevance: potential digital engagement/transparency platform needs for ongoing community process; GIS/mapping for heritage site planning",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

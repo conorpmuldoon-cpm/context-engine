@@ -1,0 +1,93 @@
+{
+  "record_id": "CTX-NEWS-2025-00217",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/10/calvin-corriders-steps-down-as-president-of-syracuse-housing-authority-board.html?gift=e6fb5cfe-fe85-4123-a125-fc0be55c960c",
+  "publication_date": "2025-10-16",
+  "capture_date": "2026-03-22T21:22:09Z",
+  "title": "Calvin Corriders steps down as president of Syracuse Housing Authority board",
+  "summary": "Calvin Corriders resigned as president of the Syracuse Housing Authority board after two years, stepping down one year before his term ended to focus on other volunteer roles and family. His departure comes amid ongoing leadership scrutiny and delays to the $1 billion East Adams neighborhood redevelopment project, which faced criticism over a controversial SUNY Upstate optometry school proposal and the withdrawal of a $31.5 million Blueprint 15 community project.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "leadership-change",
+    "economic-development",
+    "land-use",
+    "equity",
+    "intergovernmental",
+    "residents",
+    "critical"
+  ],
+  "department_refs": [
+    "Syracuse Housing Authority"
+  ],
+  "entity_refs": [
+    {
+      "name": "Calvin Corriders",
+      "type": "person",
+      "canonical_id": "PERSON-CALVIN-CORRIDERS"
+    },
+    {
+      "name": "Bill Simmons",
+      "type": "person",
+      "canonical_id": "PERSON-BILL-SIMMONS"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "McCormack Baron Salazar",
+      "type": "organization",
+      "canonical_id": "ORG-MBS"
+    },
+    {
+      "name": "Blueprint 15",
+      "type": "organization",
+      "canonical_id": "ORG-BLUEPRINT15"
+    },
+    {
+      "name": "Allyn Foundation",
+      "type": "organization",
+      "canonical_id": "ORG-ALLYN"
+    },
+    {
+      "name": "SUNY Upstate",
+      "type": "organization",
+      "canonical_id": "ORG-SUNY-UPSTATE"
+    },
+    {
+      "name": "National Grid Foundation",
+      "type": "organization",
+      "canonical_id": "ORG-NATIONAL-GRID"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Mayor Walsh signaled concern about SHA leadership and invited board members to resign earlier in 2025; Corriders' departure amid stalled $1B project and loss of community partner (Blueprint 15) reflects broader governance confidence issues.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date is future-dated (2025-10-16); treating as valid",
+    "Dollar amounts corrected: $1 billion (East Adams), $125 million (optometry school), $31.5 million (Blueprint 15 project)",
+    "National Grid appears only as 'National Grid Foundation' in Corriders' board affiliations—not a direct city operations reference",
+    "Mechanical extraction flagged 'Syracuse Fire Department, Department of Permits and Development, Department of Finance' but none are substantively discussed in article; removed from department_refs",
+    "Key leadership tension: Corriders (governance/finance background) vs. Simmons (director under criticism); successor appointment mechanism unclear",
+    "Project timeline risk noted: Corriders expressed confidence in December groundbreaking despite federal shutdown uncertainty",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'critical' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

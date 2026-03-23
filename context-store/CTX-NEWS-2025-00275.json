@@ -1,0 +1,82 @@
+{
+  "record_id": "CTX-NEWS-2025-00275",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/11/syracuse-to-show-possible-changes-for-streets-near-i-81-take-public-feedback.html",
+  "publication_date": "2025-11-11",
+  "capture_date": "2026-03-22T21:28:35Z",
+  "title": "Syracuse to show possible changes for streets near I-81, take public feedback",
+  "summary": "The City of Syracuse is hosting two public open houses (Nov 12-13, 2025) to gather community feedback on the Reconnecting Communities project, which proposes streetscape improvements and a linear park along five South Side corridors affected by I-81 viaduct removal. A $500,000 federal grant funded design consultant Stantec to develop solutions enhancing walkability, biking, and transit connectivity across Colvin, Taylor, MLK, Adams, and Harrison streets.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "federal-programs",
+    "grants",
+    "infrastructure",
+    "initiative-launch",
+    "parks",
+    "roads-bridges",
+    "sustainability",
+    "transportation",
+    "accessibility",
+    "micromobility",
+    "equity",
+    "residents",
+    "transparency"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs",
+    "PROVISIONAL:Department of Transportation & Infrastructure"
+  ],
+  "entity_refs": [
+    {
+      "name": "Joe Driscoll",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-DRISCOLL"
+    },
+    {
+      "name": "Stantec Consulting Services Inc.",
+      "type": "organization",
+      "canonical_id": "ORG-STANTEC"
+    },
+    {
+      "name": "SUNY College of Environmental Science and Forestry",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Syracuse Housing Authority",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Administration framing I-81 removal as transformative infrastructure opportunity; emphasizing community engagement and equitable mobility improvements across South Side neighborhoods",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Syracuse University mentioned in 'RECOMMENDED' section but not substantively related to article content—likely automated sidebar",
+    "Article date (2025-11-11) is future-dated; validate publication timeline",
+    "I-81 viaduct removal is major ongoing municipal initiative; consider cross-referencing with prior CIO projects and digital engagement strategies",
+    "Linear park component may intersect with GIS/capital-planning workflows",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

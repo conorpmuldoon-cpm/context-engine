@@ -1,0 +1,78 @@
+{
+  "record_id": "CTX-NEWS-2025-00224",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/06/days-after-budget-fight-moodys-says-syracuses-creditworthiness-remains-strong-stable.html?gift=bf4cb28f-6d78-48ba-8dfc-33561e82e28b",
+  "publication_date": "2025-06-03",
+  "capture_date": "2026-03-22T21:22:56Z",
+  "title": "Days after budget fight, Moody’s says Syracuse’s creditworthiness remains strong, stable",
+  "summary": "Moody's Ratings affirmed Syracuse's A1 bond rating with stable outlook, validating the city's strong financial position despite recent contentious budget cuts. The rating agency cited 33% fund balance reserves and economic growth prospects, supporting both Mayor Walsh's fiscal management claims and Common Council's rationale for reducing spending and limiting reserve drawdowns to protect long-term solvency.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "audit",
+    "tax-revenue",
+    "economic-development",
+    "council",
+    "mayor",
+    "transparency",
+    "intergovernmental"
+  ],
+  "department_refs": [
+    "Department of Finance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Mayor Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Moody's Ratings",
+      "type": "organization",
+      "canonical_id": "ORG-MOODYS"
+    },
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor and Council both claim third-party validation (Moody's rating) supports their respective fiscal positions—Walsh highlights strong financial health under his administration, while Council emphasizes rating agency's fund balance preservation threshold validates budget cuts.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00060"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts in mechanical extraction incomplete: $16M budget cuts, $27.2M→$14.3M reserve use reduction; A1 rating mentioned but not numerically extracted",
+    "Potential CIO relevance: economic development signals (Micron Technology campus in Clay) may inform digital infrastructure and regional connectivity planning",
+    "Sentiment marked positive despite 'contentious budget battle' language—resolution and external validation dominate article tone",
+    "No direct IT systems, digital services, or cybersecurity mentions detected",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-NEWS-2025-00060"
+  ],
+  "last_relevance_update": null
+}

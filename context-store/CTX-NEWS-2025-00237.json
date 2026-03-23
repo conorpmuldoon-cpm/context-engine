@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-NEWS-2025-00237",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/schools/2025/10/le-moyne-college-extends-presidents-contract.html",
+  "publication_date": "2025-10-21",
+  "capture_date": "2026-03-22T21:24:18Z",
+  "title": "Le Moyne College extends president’s contract",
+  "summary": "Le Moyne College announced a two-year contract extension for President Linda LeMura, extending her tenure through June 30, 2028. LeMura will become the longest-serving president in the college's 160+ year history in December 2025, having served since 2014. This is a leadership continuity announcement at a major higher education institution in the Syracuse region.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "leadership-change"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Le Moyne College",
+      "type": "organization",
+      "canonical_id": "ORG-LE-MOYNE-COLLEGE"
+    },
+    {
+      "name": "Linda LeMura",
+      "type": "person",
+      "canonical_id": "PERSON-LINDA-LEMURA"
+    },
+    {
+      "name": "Board of Trustees",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily about higher education institution governance, not City of Syracuse municipal operations or policy",
+    "No direct CIO relevance identified; minimal connection to innovation, digital services, or city infrastructure",
+    "Entity extraction validated: Le Moyne College (DeWitt, NY - Onondaga County); mechanical extraction of 'Department of Permits and Development' appears erroneous and has been removed",
+    "No dollar amounts, budget impacts, or technology system implications detected",
+    "Consider for economic-development context only due to regional higher education sector importance",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

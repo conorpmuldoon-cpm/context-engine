@@ -1,0 +1,66 @@
+{
+  "record_id": "CTX-NEWS-2025-00229",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2025/10/fire-damages-vacant-apartment-building-on-syracuses-south-side.html",
+  "publication_date": "2025-10-16",
+  "capture_date": "2026-03-22T21:23:28Z",
+  "title": "Fire damages vacant apartment building on Syracuse’s South Side",
+  "summary": "A vacant apartment building at 105 Latimer Terrace on Syracuse's South Side sustained fire damage on October 16, 2025. The fire, which started in a second-floor bathroom, was extinguished in 40 minutes with no injuries reported. This incident exemplifies a recurring city problem: nearly 30% of Syracuse's 87 structure fires in 2024 occurred in vacant properties, with 1,490 vacant homes and 163 vacant commercial buildings currently in the city creating public safety and blight challenges.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "fire",
+    "emergency-services",
+    "housing",
+    "public-safety-commission",
+    "recurring",
+    "crime-data",
+    "investigation",
+    "facilities",
+    "PROVISIONAL:vacant-properties-management"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Erik Caster",
+      "type": "person",
+      "canonical_id": "PERSON-ERIK-CASTER"
+    },
+    {
+      "name": "Phillip Vogt",
+      "type": "person",
+      "canonical_id": "PERSON-PHILLIP-VOGT"
+    },
+    {
+      "name": "Vince Gasparini",
+      "type": "person",
+      "canonical_id": "PERSON-VINCE-GASPARINI"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Article elevates vacant property fires as a systemic municipal challenge requiring coordinated response across fire safety, housing, and neighborhood services. Data point (30% of 2024 fires in vacant buildings) suggests need for innovation in property management and prevention strategies.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount ($70K) in mechanical extractions is from unrelated article excerpt and should be discarded",
+    "No specific CIO technology systems mentioned; opportunity for data integration connecting fire incident data with vacant property registry and 311 complaint systems",
+    "Investigation status open—outcome unknown",
+    "Recommend cross-reference with housing and code enforcement data systems for holistic vacant property strategy",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

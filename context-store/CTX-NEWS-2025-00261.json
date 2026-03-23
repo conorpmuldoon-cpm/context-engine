@@ -1,0 +1,76 @@
+{
+  "record_id": "CTX-NEWS-2025-00261",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/09/syracuse-common-council-wants-residents-opinions-on-using-drones-for-police-calls.html",
+  "publication_date": "2025-09-02",
+  "capture_date": "2026-03-22T21:26:58Z",
+  "title": "Syracuse Common Council wants residents’ opinions on using drones for police calls",
+  "summary": "Syracuse Common Council unanimously approved a public hearing (Sept. 15) on the Syracuse Police Department's proposal to deploy unmanned drones as first responders to 911 calls. The council is seeking community input on privacy and data-sharing concerns before voting on a $57,000 five-year licensing contract with Axon Enterprises for FAA remote operation clearance. The city previously approved $250,000 for drone equipment in November.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "emergency-services",
+    "procurement",
+    "contract-award",
+    "policy-change",
+    "transparency",
+    "residents",
+    "data-governance",
+    "vote",
+    "PROVISIONAL:surveillance-technology",
+    "PROVISIONAL:privacy-governance"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Axon Enterprises Inc.",
+      "type": "organization",
+      "canonical_id": "ORG-AXON"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-CHOL-MAJOK"
+    },
+    {
+      "name": "Surveillance Technology Working Group",
+      "type": "organization",
+      "canonical_id": "ORG-STWG"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council taking cautious approach with mandatory public hearing before contract approval; prior working group feedback was 'mostly opposed' despite eventual approval, indicating ongoing community concern and council responsiveness to resident input.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00039"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount $99 appears to be unrelated sponsored content (hearing aids ad); excluded from financial entities.",
+    "Article contains embedded sponsored content and unrelated article links; core content is clean.",
+    "Public hearing date (Sept. 15, 2025) is future-scheduled action; contract vote pending.",
+    "CIO relevance: technology procurement, public feedback process, and surveillance technology governance framework.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-WEB-2026-00039"
+  ],
+  "last_relevance_update": null
+}

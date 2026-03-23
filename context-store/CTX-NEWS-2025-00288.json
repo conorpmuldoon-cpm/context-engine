@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-NEWS-2025-00288",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2025/09/syracuse-city-hall-evacuated-after-suspicious-package-found-near-building.html",
+  "publication_date": "2025-09-29",
+  "capture_date": "2026-03-22T21:30:00Z",
+  "title": "Update: ‘Suspicious’ box strapped to tree near Syracuse City Hall belongs to state DOT (photo)",
+  "summary": "A suspicious box found strapped to a tree near Syracuse City Hall on September 29, 2025, prompted evacuation and street closures. The device was identified as a state Department of Transportation sound measurement instrument, though city officials are investigating whether proper notification was provided. The incident highlights potential communication gaps between state and municipal agencies.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "emergency-services",
+    "police",
+    "intergovernmental",
+    "facilities",
+    "transparency",
+    "state-agency"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "New York State Department of Transportation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Across the Hall Cafe",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Mayor Walsh publicly questioned whether state DOT followed proper notification procedures with the city before installing monitoring equipment near municipal facilities, suggesting potential intergovernmental coordination issues.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00127"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount ($70K) in mechanical extractions relates to unrelated corrections officer story, not this incident",
+    "Author attribution split between two reporters (Darian Stevenson, Anne Hayes)",
+    "No budget impact detected",
+    "Resolved incident with clear resolution",
+    "Potential policy gap: state agency equipment installation notification protocol",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-NEWS-2025-00127"
+  ],
+  "last_relevance_update": null
+}

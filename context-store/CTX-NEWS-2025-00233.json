@@ -1,0 +1,78 @@
+{
+  "record_id": "CTX-NEWS-2025-00233",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/cny/2025/06/house-gop-bill-punishes-syracuse-other-sanctuary-cities-by-closing-federal-small-biz-offices.html",
+  "publication_date": "2025-06-12",
+  "capture_date": "2026-03-22T21:23:53Z",
+  "title": "House GOP bill punishes Syracuse, other ‘sanctuary cities’ by closing federal small biz offices",
+  "summary": "House Republicans passed the 'Save SBA from Sanctuary Cities Act of 2025' which could force closure of the U.S. Small Business Administration's Syracuse district office serving 34 NY counties due to the city and state's sanctuary jurisdiction status. The Syracuse office approved $91.4M in loans through May 2025; closure would eliminate significant economic support for regional small businesses. The bill passed 211-199 and now faces Senate consideration.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "federal-programs",
+    "economic-development",
+    "legislation",
+    "intergovernmental",
+    "policy-change",
+    "business-community",
+    "escalating"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "U.S. Small Business Administration",
+      "type": "organization",
+      "canonical_id": "ORG-SBA"
+    },
+    {
+      "name": "Kelly Loeffler",
+      "type": "person",
+      "canonical_id": "PERSON-KELLY-LOEFFLER"
+    },
+    {
+      "name": "John Mannion",
+      "type": "person",
+      "canonical_id": "PERSON-JOHN-MANNION"
+    },
+    {
+      "name": "Nicole Malliotakis",
+      "type": "person",
+      "canonical_id": "PERSON-NICOLE-MALLIOTAKIS"
+    },
+    {
+      "name": "Elise Stefanik",
+      "type": "person",
+      "canonical_id": "PERSON-ELISE-STEFANIK"
+    },
+    {
+      "name": "Donald Trump",
+      "type": "person",
+      "canonical_id": "PERSON-DONALD-TRUMP"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Federal legislation directly targeting Syracuse and NY as sanctuary jurisdictions poses existential threat to SBA regional operations and small business support infrastructure; administration using federal agency actions as enforcement mechanism for immigration policy disagreements.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article truncated; full text unavailable",
+    "Dollar amounts extracted: $91.4M (2025 YTD loans), $84.1M (2024 YTD loans); $91M and $84M in mechanical extractions appear to be truncated versions",
+    "No Syracuse city department directly cited; however Law Department and Office of Analytics, Performance & Innovation likely engaged in response",
+    "Strong constituent advocacy signal from Rep. Mannion; bipartisan opposition note (4 GOP votes against, 195 Dems against)",
+    "CIO should monitor: potential data/reporting needs if SBA office closure occurs; economic impact analysis capability; federal program transition planning",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

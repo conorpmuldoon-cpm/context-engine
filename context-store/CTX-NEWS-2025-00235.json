@@ -1,0 +1,84 @@
+{
+  "record_id": "CTX-NEWS-2025-00235",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/04/how-owner-mark-congel-lost-control-of-historic-syracuse-convent-before-fire-ravaged-it.html",
+  "publication_date": "2025-04-07",
+  "capture_date": "2026-03-22T21:24:08Z",
+  "title": "How owner Mark Congel lost control of historic Syracuse convent before fire ravaged it",
+  "summary": "Historic St. Anthony's Convent on Syracuse's North Side was destroyed by a suspected arson fire on March 21, 2025, after years of inadequate security and maintenance by owner Mark Congel. The 129-year-old motherhouse building, designed by architect Archimedes Russell and acquired by Congel in 2015 for $500,000, suffered catastrophic damage requiring emergency demolition. Mayor Ben Walsh publicly criticized Congel for failing to protect the property, highlighting governance and property stewardship failures in a neighborhood lacking investment.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "fire",
+    "historic-preservation",
+    "property-management",
+    "neighborhood-services",
+    "code-enforcement",
+    "emergency-services",
+    "PROVISIONAL:building-security",
+    "PROVISIONAL:arson-investigation",
+    "housing",
+    "land-use"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Department of Permits and Development",
+    "Department of Neighborhood and Business Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Mark Congel",
+      "type": "person",
+      "canonical_id": "PERSON-MARK-CONGEL"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Michael Collins",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-COLLINS"
+    },
+    {
+      "name": "Sisters of St. Francis",
+      "type": "organization",
+      "canonical_id": "ORG-SISTERS-ST-FRANCIS"
+    },
+    {
+      "name": "St. Anthony's Convent",
+      "type": "organization",
+      "canonical_id": "ORG-ST-ANTHONY-CONVENT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Mayor and city officials publicly blamed private property owner for inadequate security and maintenance of historic building, signaling accountability pressure and potential policy review around vacant property management.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00002"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on property owner accountability rather than city operations, but reveals potential gaps in code enforcement and vacant building oversight.",
+    "Dollar amount $40,000 mentioned in truncated section—context unclear; recommend retrieving full article.",
+    "Historic preservation angle significant for CIO given intersection with digital records (Russell architectural drawings referenced for potential archival project).",
+    "Neighborhood Watch citizen reporting suggests community engagement data opportunity.",
+    "No direct IT/digital services angle detected, but incident may inform emergency response coordination or data integration needs.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'property-management' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00002"
+  ],
+  "last_relevance_update": null
+}

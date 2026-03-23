@@ -1,0 +1,70 @@
+{
+  "record_id": "CTX-NEWS-2025-00242",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2025/07/micron-gets-ready-to-make-its-most-visible-move-yet-in-central-ny.html",
+  "publication_date": "2025-07-28",
+  "capture_date": "2026-03-22T21:24:47Z",
+  "title": "Micron gets ready to make its most visible move yet in Central NY",
+  "summary": "Micron Technology obtained a permit to install an 8-foot by 40-foot corporate logo on One Lincoln Center downtown, replacing a Chase bank sign at a cost of $115,000. The sign installation represents a visible milestone in Micron's broader $100 billion chipmaking factory project in Clay that could employ 9,000 people and transform the Central New York economy. The company is simultaneously renovating office and welcome center space in the building, scheduled to open by early fall.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "permitting",
+    "business-community",
+    "announcement",
+    "infrastructure",
+    "workforce-development",
+    "initiative-launch"
+  ],
+  "department_refs": [
+    "Department of Permitting and Regulatory Services",
+    "Department of Economic Development and Planning"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "One Lincoln Center",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Glenn Coin",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Micron's visible expansion into downtown Syracuse office space and signage reflects aligned economic development priorities with the city and CIO's innovation agenda. Major private sector investment commitment signals confidence in regional tech ecosystem.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references broader $100B factory project in Clay (Town of Clay, not City of Syracuse jurisdiction) but focuses on downtown Syracuse office/signage element under city permitting authority",
+    "Dollar amount $115,000 is sign installation cost only; full project scale ($100B) exceeds typical CIO operational budget scope but relevant to digital infrastructure and innovation positioning",
+    "No IT systems, cybersecurity, or digital services dimension explicitly mentioned; relevance is economic development and visibility/branding rather than CIO operational domain",
+    "Hiring projections mentioned (35-80 initial downtown office employees; 9,000 at factory site) may inform workforce-development and labor-relations planning",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

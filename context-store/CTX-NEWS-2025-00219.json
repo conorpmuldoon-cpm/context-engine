@@ -1,0 +1,117 @@
+{
+  "record_id": "CTX-NEWS-2025-00219",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/10/city-council-clears-the-way-for-major-housing-development-near-syracuse-zoo.html?gift=6d374a05-4232-43de-9a3b-1f3c05c987ef",
+  "publication_date": "2025-10-27",
+  "capture_date": "2026-03-22T21:22:24Z",
+  "title": "City council clears the way for major housing development near Syracuse zoo",
+  "summary": "Syracuse Common Council unanimously approved a $134M mixed-income housing development on 23 acres near the Rosamond Gifford Zoo. The Albanese Organization will develop 260 affordable apartments (50-80% AMI) with Home HeadQuarters building 27 townhomes, with future phases including 100 market-rate and 100 senior affordable units. The city is providing $5.2M in land sale proceeds, $11M in low-interest loans, and $18.8M in bonding for infrastructure, with state tax credits and financing expected to close in December 2025.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "economic-development",
+    "infrastructure",
+    "capital-planning",
+    "land-use",
+    "equity",
+    "zoning",
+    "contract-award",
+    "council",
+    "vote",
+    "state-agency",
+    "intergovernmental",
+    "mayor",
+    "budget"
+  ],
+  "department_refs": [
+    "Department of Permits and Development",
+    "Department of Finance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    },
+    {
+      "name": "Albanese Organization",
+      "type": "organization",
+      "canonical_id": "ORG-ALBANESE"
+    },
+    {
+      "name": "Home HeadQuarters",
+      "type": "organization",
+      "canonical_id": "ORG-HOME-HQ"
+    },
+    {
+      "name": "Chris Albanese",
+      "type": "person",
+      "canonical_id": "PERSON-CHRIS-ALBANESE"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Kathy Hochul",
+      "type": "person",
+      "canonical_id": "PERSON-KATHY-HOCHUL"
+    },
+    {
+      "name": "Goldman Sachs",
+      "type": "organization",
+      "canonical_id": "ORG-GOLDMAN-SACHS"
+    },
+    {
+      "name": "Rosamond Gifford Zoo",
+      "type": "organization",
+      "canonical_id": "ORG-GIFFORD-ZOO"
+    },
+    {
+      "name": "New York State Division of Housing and Community Renewal",
+      "type": "organization",
+      "canonical_id": "ORG-NY-DHCR"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor Walsh administration actively championed this deal as critical infrastructure investment; unanimous council vote signals broad political consensus on affordable housing as strategic priority.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00143"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article truncated mid-sentence regarding Goldman Sachs commitment; full financing details incomplete",
+    "National Grid mentioned in mechanical extractions but not found in provided text—may be in truncated section",
+    "Property history (developmental center closure 1998, tax seizure 2019) provides important context on blight remediation",
+    "Governance structure: oversight committee with city representatives mentioned as accountability mechanism",
+    "Onondaga County zoo expansion interest represents separate intergovernmental coordination pathway",
+    "Future phases and market-rate component contingent on financing—recommend tracking milestone completion dates",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-NEWS-2025-00143"
+  ],
+  "last_relevance_update": null
+}

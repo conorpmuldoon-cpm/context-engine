@@ -1,0 +1,92 @@
+{
+  "record_id": "CTX-NEWS-2025-00221",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2025/10/company-news-deka-eysaman-to-lead-south-side-community-growth-foundation.html",
+  "publication_date": "2025-10-08",
+  "capture_date": "2026-03-22T21:22:37Z",
+  "title": "Company news: Deka Eysaman to lead South Side Community Growth Foundation",
+  "summary": "Deka Eysaman has been appointed inaugural executive director of the South Side Community Growth Foundation, a nonprofit focused on affordable housing and economic mobility in Syracuse's South Side. Eysaman brings extensive experience in community organizing, equity initiatives, and workforce development, including leadership of the successful I-81 Local Hire campaign that secured 15% local hiring commitments.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "equity",
+    "housing",
+    "workforce-development",
+    "initiative-launch",
+    "leadership-change",
+    "business-community"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Deka Eysaman",
+      "type": "person",
+      "canonical_id": "PERSON-DEKA-EYSAMAN"
+    },
+    {
+      "name": "South Side Community Growth Foundation",
+      "type": "organization",
+      "canonical_id": "ORG-SSCGF"
+    },
+    {
+      "name": "New York Civil Liberties Union",
+      "type": "organization",
+      "canonical_id": "ORG-NYCLU"
+    },
+    {
+      "name": "Urban Jobs Task Force of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-UJTF-SYR"
+    },
+    {
+      "name": "Syracuse Build",
+      "type": "organization",
+      "canonical_id": "ORG-SYR-BUILD"
+    },
+    {
+      "name": "Boys & Girls Clubs of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-BGCS"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRUNI"
+    },
+    {
+      "name": "Chedy Hampson",
+      "type": "person",
+      "canonical_id": "PERSON-CHEDY-HAMPSON"
+    },
+    {
+      "name": "McKinley Park",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Foundation appointment signals continued municipal/philanthropic commitment to South Side neighborhood development, affordable housing, and local workforce equity—areas aligned with CIO innovation and equitable growth objectives.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "External nonprofit announcement; no direct city dept involvement detected but aligned with equity and economic development priorities",
+    "I-81 Local Hire campaign is relevant precedent for local hiring policy innovation",
+    "Article mentions 40 Under 40 recognition but does not specify year as 2020 in context of current article date (2025)",
+    "$600,000 funding figure relates to past UJTF campaign, not current foundation funding",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

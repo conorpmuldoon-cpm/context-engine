@@ -1,0 +1,85 @@
+{
+  "record_id": "CTX-NEWS-2025-00231",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/08/former-syracuse-vocational-school-could-be-demolished-for-138-unit-apartment-building.html?gift=850c3a26-3bf1-4019-84a0-20557f941126",
+  "publication_date": "2025-08-27",
+  "capture_date": "2026-03-22T21:23:42Z",
+  "title": "Former Syracuse vocational school could be demolished for 138-unit apartment building",
+  "summary": "City officials are negotiating with Philadelphia-based mixed-income developer Pennrose and local developer Luke Esposito to demolish the city-owned Johnson Vocational Center and construct a 138-unit apartment building with ground-floor commercial space. The project is part of a larger downtown revitalization corridor near the I-81 viaduct removal, expected to add 600+ apartments to the area and advance the city's affordable housing and economic development objectives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "economic-development",
+    "land-use",
+    "infrastructure",
+    "zoning",
+    "capital-planning",
+    "mixed-income",
+    "PROVISIONAL:downtown-revitalization",
+    "PROVISIONAL:i81-corridor",
+    "equity"
+  ],
+  "department_refs": [
+    "Department of Economic Development",
+    "Department of Permits and Development",
+    "Syracuse City School District"
+  ],
+  "entity_refs": [
+    {
+      "name": "Eric Ennis",
+      "type": "person",
+      "canonical_id": "PERSON-ERIC-ENNIS",
+      "role": "Deputy Commissioner of Economic Development"
+    },
+    {
+      "name": "Michael Collins",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-COLLINS",
+      "role": "Commissioner of Neighborhood and Business Development"
+    },
+    {
+      "name": "Pennrose",
+      "type": "organization",
+      "canonical_id": "ORG-PENNROSE"
+    },
+    {
+      "name": "Luke Esposito",
+      "type": "person",
+      "canonical_id": "PERSON-LUKE-ESPOSITO",
+      "role": "Local Developer"
+    },
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-BOYER",
+      "role": "Reporter"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Project alignment with stated city priorities: affordable housing integration (mixed-income requirement), downtown economic revitalization, job creation via commercial space, and I-81 corridor transformation. Developer selection emphasizes track record in mixed-income development.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references three concurrent housing projects in I-81 corridor (283, ~300, and 52 units respectively) suggesting coordinated development strategy.",
+    "Dollar amounts: $2.25B (state I-81 project), $4.2M (property market value assessment)",
+    "Key decision point: Common Council approval pending for appraiser hiring and final negotiated terms",
+    "Micron semiconductor complex mentioned as driver of developer interest—potential connection to workforce/economic strategy",
+    "School district context: vocational programs relocated to high schools; property no longer needed for original use",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'mixed-income' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

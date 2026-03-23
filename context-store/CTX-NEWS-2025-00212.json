@@ -1,0 +1,86 @@
+{
+  "record_id": "CTX-NEWS-2025-00212",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/07/75-apartments-proposed-for-historic-syracuse-building-near-i-81-see-renderings.html",
+  "publication_date": "2025-07-29",
+  "capture_date": "2026-03-22T21:21:37Z",
+  "title": "75 apartments proposed for historic Syracuse building near I-81. See renderings",
+  "summary": "Developer Grazi Zazzara Jr. proposes Icon Lofts, a 75-unit residential project in a historic 1893 Syracuse Lighting Co. building at 311 Genant Drive near I-81. The $22.5M project includes market-rate and affordable units, parking, and commercial space, with tax incentives from SIDA and potential O-CHIP housing grant. The project aligns with the state's I-81 reconstruction initiative and represents adaptive reuse of a landmark structure.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "historic-preservation",
+    "economic-development",
+    "land-use",
+    "permitting",
+    "infrastructure",
+    "grants",
+    "zoning",
+    "intergovernmental",
+    "state-agency"
+  ],
+  "department_refs": [
+    "Department of Permits and Development",
+    "Syracuse Planning Commission",
+    "Syracuse Landmark Preservation Board"
+  ],
+  "entity_refs": [
+    {
+      "name": "Grazi Zazzara Jr.",
+      "type": "person",
+      "canonical_id": "PERSON-GRAZI-ZAZZARA"
+    },
+    {
+      "name": "Icon Cos.",
+      "type": "organization",
+      "canonical_id": "ORG-ICON-COS"
+    },
+    {
+      "name": "National Grid",
+      "type": "organization",
+      "canonical_id": "ORG-NATIONAL-GRID"
+    },
+    {
+      "name": "Syracuse Industrial Development Agency",
+      "type": "organization",
+      "canonical_id": "ORG-SIDA"
+    },
+    {
+      "name": "Onondaga County Housing Initiative Program",
+      "type": "organization",
+      "canonical_id": "ORG-O-CHIP"
+    },
+    {
+      "name": "New York State Department of Transportation",
+      "type": "organization",
+      "canonical_id": "ORG-NYSDOT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Project aligns with municipal housing goals and I-81 reconstruction strategic initiative; demonstrates private sector housing development being leveraged through public incentives (SIDA tax breaks, O-CHIP grant eligibility).",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article text truncated mid-sentence; full project details may be incomplete",
+    "Dollar amount '$22' appears malformed in mechanical extraction—should be $22.5M",
+    "Building address 311 Genant Drive validated; near Franklin Square and I-81",
+    "Project currently in review phase with Planning Commission and Landmark Board; not yet approved",
+    "Developer has demonstrated track record (Icon Tower 2016, Corbett Corner 2022); relevant for due diligence",
+    "Historic tax credits referenced but mechanism not detailed in article",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

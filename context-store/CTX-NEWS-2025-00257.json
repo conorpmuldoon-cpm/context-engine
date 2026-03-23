@@ -1,0 +1,79 @@
+{
+  "record_id": "CTX-NEWS-2025-00257",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2025/03/syracuse-auditor-citys-lifeless-wage-ordinance-needs-a-serious-overhaul.html",
+  "publication_date": "2025-03-31",
+  "capture_date": "2026-03-22T21:26:23Z",
+  "title": "Syracuse auditor: City’s ‘lifeless’ wage ordinance needs a serious overhaul",
+  "summary": "City Auditor Alexander Marion released an audit finding Syracuse's 20-year-old living wage ordinance ineffective due to extensive loopholes, lack of enforcement mechanisms, and non-functional oversight. The ordinance—intended to ensure city contractors pay workers above poverty levels—has no documented compliance monitoring, an inactive advisory committee since 2014, and exemptions that exclude most contractors. Marion recommends comprehensive overhaul including eliminating exemptions, assigning enforcement to the Office of Management and Budget, and adopting a United Way-based wage formula reflecting local cost-of-living data.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "audit",
+    "labor-relations",
+    "procurement",
+    "policy-change",
+    "equity",
+    "workforce-development",
+    "legislation",
+    "transparency",
+    "PROVISIONAL:living-wage-ordinance",
+    "PROVISIONAL:contractor-compliance",
+    "PROVISIONAL:poverty-reduction"
+  ],
+  "department_refs": [
+    "Office of Management and Budget",
+    "Syracuse Common Council"
+  ],
+  "entity_refs": [
+    {
+      "name": "Alexander Marion",
+      "type": "person",
+      "canonical_id": "PERSON-ALEXANDER-MARION"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Corey Driscoll Dunham",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-DRISCOLL-DUNHAM"
+    },
+    {
+      "name": "United Way",
+      "type": "organization",
+      "canonical_id": "ORG-UNITED-WAY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Auditor's critical findings on ordinance failure creates pressure for executive and legislative action on equity/workforce issue; administration acknowledges flaws and expresses openness to dialogue, positioning for potential priority realignment.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00207"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Syracuse University listed in mechanical extractions but not mentioned in article text—removed from entity_refs",
+    "Syracuse Fire Department and Syracuse Police Department extracted but not relevant to article content—removed from department_refs",
+    "Article date is March 31, 2025 (future date); verify publication accuracy",
+    "Living wage ordinance adoption year (2005) means 20-year-old as of 2025",
+    "Effective April 1, 2025 wage rates provided: $16.41 (with benefits), $19.37 (without benefits)",
+    "No direct IT systems or digital infrastructure issues identified despite governance/compliance implications",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-NEWS-2025-00207"
+  ],
+  "last_relevance_update": null
+}

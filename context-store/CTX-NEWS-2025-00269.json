@@ -1,0 +1,79 @@
+{
+  "record_id": "CTX-NEWS-2025-00269",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/04/syracuse-lawmakers-disappointed-with-walshs-proposed-tax-hike-budget-deficit.html",
+  "publication_date": "2025-04-10",
+  "capture_date": "2026-03-22T21:27:53Z",
+  "title": "Syracuse lawmakers ‘disappointed’ with Walsh’s proposed tax hike, budget deficit",
+  "summary": "Mayor Walsh presented a FY2025 budget with a $27M deficit and proposed 2% property tax increase to generate $7M in revenue. Common Council leaders, particularly Finance Chair Corey Williams and Councilor Pat Hogan, expressed disappointment and concern about deficit spending and the timing of tax increases. The council will conduct detailed budget review through April 29 public hearing, with final adoption due May 8.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "tax-revenue",
+    "council",
+    "mayor",
+    "economic-development",
+    "housing",
+    "escalating",
+    "vote"
+  ],
+  "department_refs": [
+    "Office of Management and Budget",
+    "Department of Finance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    },
+    {
+      "name": "Syracuse Housing Strategies Corporation",
+      "type": "organization",
+      "canonical_id": "ORG-HOUSING-STRATEGIES"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Council leadership expressing public disappointment with proposed deficit spending and tax increases; Hogan challenging necessity of housing allocations and fund balance usage; growing scrutiny of administration spending patterns",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00180"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts partially corrupted in source: $21, $99 appear as extraction errors and do not appear in article text",
+    "Article date anomaly: published 2025-04-10 but references April 9 meeting and future April 29 hearing—dates are internally consistent",
+    "No IT/digital services content detected despite CIO context; article is fiscal/governance focused",
+    "Fund balance context critical: $120M current vs. $40M when Walsh took office shows significant reserve growth but remains point of contention",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-NEWS-2025-00180"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,65 @@
+{
+  "record_id": "CTX-NEWS-2025-00273",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/education/2025/12/syracuse-schools-make-progress-despite-some-of-the-lowest-test-scores-in-new-york.html",
+  "publication_date": "2025-12-10",
+  "capture_date": "2026-03-22T21:28:21Z",
+  "title": "Syracuse schools make progress despite some of the lowest test scores in New York",
+  "summary": "Syracuse City School District ranked 647th of 658 NY school districts in ELA proficiency (24%) and shows low math proficiency (18%), though math proficiency has more than doubled since 2022 (from 8% to 18%). Despite remaining among the state's lowest-performing districts, SCSD demonstrated year-over-year gains in both ELA (+4 points) and math (+2 points), with third graders showing notably stronger performance (+8 points each). The article notes that standardized test scores alone do not fully capture student growth, particularly for English language learners and students requiring accommodations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "education",
+    "PROVISIONAL:standardized-testing",
+    "PROVISIONAL:student-achievement",
+    "equity",
+    "data-governance",
+    "state-mandates",
+    "workforce-development"
+  ],
+  "department_refs": [
+    "Syracuse City School District"
+  ],
+  "entity_refs": [
+    {
+      "name": "Tara Jennings",
+      "type": "person",
+      "canonical_id": "PERSON-TARA-JENNINGS"
+    },
+    {
+      "name": "Emalyn Muzzy",
+      "type": "person",
+      "canonical_id": "PERSON-EMALYN-MUZZY"
+    },
+    {
+      "name": "New York State Education Department",
+      "type": "organization",
+      "canonical_id": "ORG-NYSED"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Article documents accountability metrics and improvement trajectory in underperforming urban school district, relevant to CIO's oversight of educational data systems and performance monitoring infrastructure.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on K-12 education, outside typical municipal CIO scope but relevant if city maintains shared data systems or reporting infrastructure with SCSD",
+    "No direct CIO/IT systems mentioned; Tara Jennings quoted is SCSD Chief Information Officer, not City CIO",
+    "Data cited is from NYS Education Department public releases; no municipal procurement, budget, or technology projects identified",
+    "Consider flagging as reference material for equity/data-governance initiatives if city has education partnership goals",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'education' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

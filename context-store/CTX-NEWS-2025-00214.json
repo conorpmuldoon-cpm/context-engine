@@ -1,0 +1,88 @@
+{
+  "record_id": "CTX-NEWS-2025-00214",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/11/a-lame-duck-syracuse-councilors-proposal-angers-historic-preservation-advocates.html",
+  "publication_date": "2025-11-11",
+  "capture_date": "2026-03-22T21:21:49Z",
+  "title": "A lame-duck Syracuse councilor’s proposal angers historic preservation advocates",
+  "summary": "Common Councilor Pat Hogan has proposed a zoning law amendment that would allow property owners of locally protected historic buildings to bypass Landmark Preservation Board approval for exterior repairs, with exemptions granted directly by city council. The proposal has drawn strong opposition from historic preservation advocates and the LPB chair, who argue it would effectively eliminate the board's authority. The Planning Commission will review the proposal and provide a recommendation within 60 days, potentially after Hogan leaves office at year-end.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "historic-preservation",
+    "zoning",
+    "land-use",
+    "legislation",
+    "policy-change",
+    "council",
+    "permitting",
+    "vote",
+    "PROVISIONAL:developer-relations",
+    "PROVISIONAL:landmark-board"
+  ],
+  "department_refs": [
+    "Department of Permits and Development",
+    "City Planning Commission"
+  ],
+  "entity_refs": [
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Julia Hafftka-Marshall",
+      "type": "person",
+      "canonical_id": "PERSON-JULIA-HAFFTKA-MARSHALL"
+    },
+    {
+      "name": "Tom Cerio",
+      "type": "person",
+      "canonical_id": "PERSON-TOM-CERIO"
+    },
+    {
+      "name": "Andrew Roblee",
+      "type": "person",
+      "canonical_id": "PERSON-ANDREW-ROBLEE"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Landmark Preservation Board",
+      "type": "organization",
+      "canonical_id": "ORG-LPB"
+    },
+    {
+      "name": "Preservation Association of Central New York",
+      "type": "organization",
+      "canonical_id": "ORG-PACNY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Historic preservation community and LPB chair actively opposing proposed zoning amendment; constituent pressure building through PACNY member outreach campaign. Councilor Hogan advancing measure in final months before departure, potentially limiting window for passage.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article does not reference Syracuse University or fire/police departments; initial entity extractions were incorrect.",
+    "Core conflict centers on governance model: appointed advisory board (LPB) vs. elected council authority over historic preservation exemptions.",
+    "Developer interest represented indirectly through Cerio's Mizpah Tower project; may indicate broader developer-constituency pressure on council.",
+    "Timeline note: Planning Commission review due ~60 days from Oct. 27 vote = late December 2025, potentially after Hogan's December 31 departure.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

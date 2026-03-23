@@ -1,0 +1,81 @@
+{
+  "record_id": "CTX-NEWS-2025-00286",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/2025/07/trump-targets-sanctuary-cities-were-going-to-flood-the-zone-border-czar-says.html",
+  "publication_date": "2025-07-23",
+  "capture_date": "2026-03-22T21:29:48Z",
+  "title": "Trump targets sanctuary cities: ‘We’re going to flood the zone,’ border czar says",
+  "summary": "Federal immigration enforcement escalation targeting sanctuary cities, including Syracuse, which was listed as a 'sanctuary jurisdiction' by the Trump administration in May 2025. Border czar Tom Homan announced increased ICE presence in sanctuary cities. Syracuse Police Department and Onondaga County Sheriff maintain policies limiting immigration enforcement cooperation, though Mayor Walsh frames Syracuse as 'welcoming' rather than using sanctuary city terminology.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "intergovernmental",
+    "federal-programs",
+    "policy-change",
+    "public-safety-commission",
+    "police",
+    "escalating",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Office of the Mayor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Tom Homan",
+      "type": "person",
+      "canonical_id": "PERSON-TOM-HOMAN"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Toby Shelley",
+      "type": "person",
+      "canonical_id": "PERSON-TOBY-SHELLEY"
+    },
+    {
+      "name": "Stephanie Miner",
+      "type": "person",
+      "canonical_id": "PERSON-STEPHANIE-MINER"
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement",
+      "type": "organization",
+      "canonical_id": "ORG-ICE"
+    },
+    {
+      "name": "Onondaga County Sheriff's Office",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-SHERIFF"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Federal administration applying pressure on local jurisdictions over immigration enforcement policy; potential for operational and resource demands on SPD and Sheriff's office. CIO should monitor for related data requests, compliance documentation needs, or intergovernmental coordination requirements.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00085"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on policy conflict rather than IT/digital services; relevance is primarily intergovernmental and operational contingency planning",
+    "No specific CIO/IT initiatives mentioned; flag for potential downstream data governance, records management, or interagency information-sharing impacts",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-NEWS-2025-00085"
+  ],
+  "last_relevance_update": null
+}

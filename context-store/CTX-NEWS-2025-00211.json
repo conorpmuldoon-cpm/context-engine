@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-NEWS-2025-00211",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/10/60000-drivers-sped-through-syracuses-school-zones-last-month-thats-3-million-in-traffic-warnings.html",
+  "publication_date": "2025-10-02",
+  "capture_date": "2026-03-22T21:21:30Z",
+  "title": "60,000 drivers sped through Syracuse’s school zones last month",
+  "summary": "Syracuse deployed automated speed and red-light cameras in school zones starting Sept. 3, 2025, issuing 60,000 speeding warnings during a grace period (through Nov. 2). After the grace period expires, violations will result in $50 fines for speeding and $250 fines for passing stopped school buses. The program has identified five high-violation school zone locations and represents a significant public safety technology implementation requiring IT infrastructure coordination and potential revenue generation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "vision-zero",
+    "transportation",
+    "initiative-launch",
+    "policy-change",
+    "PROVISIONAL:automated-enforcement",
+    "PROVISIONAL:school-safety",
+    "data-governance",
+    "tax-revenue"
+  ],
+  "department_refs": [
+    "Department of Public Safety",
+    "Department of Transportation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sol Muñoz",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Greta Stuckey",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Syracuse.com | The Post-Standard",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-MEDIA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "School zone safety initiative demonstrates executive commitment to Vision Zero goals and public safety infrastructure investment. Grace period suggests measured implementation approach with community education phase.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article mentions stop-arm camera program (separate initiative since April 3) with 1,200 violations and $250 fines—distinct enforcement system requiring separate tracking",
+    "Dollar amounts extracted: $3M potential revenue, $50 fine amount, $250 fine amount, $70K unrelated to this article",
+    "Top 5 violation locations provided for GIS/spatial analysis: 307 S Geddes St., 1618 James St., 3110-3160 James St., 400 Brighton Ave., 4922 S Salina St.",
+    "Grace period creates data quality consideration: 60,000 warnings ≠ final enforcement rate; actual compliance/violation rates unknown post-Nov. 2",
+    "IT infrastructure implications: automated camera system, warning mail distribution, fine processing system requires backend coordination",
+    "No specific CIO or IT department mentioned; recommend coordination with IT-infrastructure and software-systems teams for camera network management",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,697 @@
+2026-03-22 21:13:21,715 [INFO] ============================================================
+2026-03-22 21:13:21,715 [INFO] SingleFile Importer starting
+2026-03-22 21:16:23,001 [INFO] ============================================================
+2026-03-22 21:16:23,002 [INFO] SingleFile Importer starting
+2026-03-22 21:16:23,005 [INFO] Found 86 HTML files in Syracuse.com Manual Downloads
+2026-03-22 21:16:23,009 [INFO] New files to process: 86 (of 86 total)
+2026-03-22 21:16:23,009 [INFO] Limited to 5 files
+2026-03-22 21:16:23,176 [INFO] [1/5] Processing: 15th Ward should be in the conversation about Public Safety Building redo (Your Letters) - syracuse.com (3_22_2026 9：08：37 PM).html
+2026-03-22 21:16:23,202 [INFO] [1/5] Extracted: 15th Ward should be in the conversation about Public Safety Building redo (Your 
+2026-03-22 21:16:23,202 [INFO]   URL: (none)
+2026-03-22 21:16:23,202 [INFO]   Date: 2025-10-28 | Content: 1501 chars
+2026-03-22 21:16:23,204 [DEBUG]   -> Departments: Syracuse Police Department, Department of Permits and Development
+2026-03-22 21:16:23,205 [DEBUG]   -> Keywords: syracuse police
+2026-03-22 21:16:23,205 [INFO] [1/5] [DRY RUN] Would save: 15th Ward should be in the conversation about Public Safety Building redo (Your 
+2026-03-22 21:16:23,206 [INFO]   Entities: []
+2026-03-22 21:16:23,206 [INFO] [2/5] Processing: 60,000 drivers sped through Syracuse’s school zones last month - syracuse.com (3_22_2026 9：05：12 PM).html
+2026-03-22 21:16:23,285 [INFO] [2/5] Extracted: 60,000 drivers sped through Syracuse’s school zones last month
+2026-03-22 21:16:23,285 [INFO]   URL: (none)
+2026-03-22 21:16:23,285 [INFO]   Date: 2025-10-02 | Content: 5701 chars
+2026-03-22 21:16:23,291 [DEBUG]   -> Departments: Syracuse Fire Department, Law Department
+2026-03-22 21:16:23,293 [INFO] [2/5] [DRY RUN] Would save: 60,000 drivers sped through Syracuse’s school zones last month
+2026-03-22 21:16:23,293 [INFO]   Entities: []
+2026-03-22 21:16:23,293 [INFO] [3/5] Processing: 75 apartments proposed for historic Syracuse building near I-81. See renderings - syracuse.com (3_22_2026 9：07：04 PM).html
+2026-03-22 21:16:23,332 [INFO] [3/5] Extracted: 75 apartments proposed for historic Syracuse building near I-81. See renderings
+2026-03-22 21:16:23,332 [INFO]   URL: (none)
+2026-03-22 21:16:23,332 [INFO]   Date: 2025-07-29 | Content: 4773 chars
+2026-03-22 21:16:23,337 [DEBUG]   -> Entities: National Grid
+2026-03-22 21:16:23,337 [DEBUG]   -> Departments: Syracuse Fire Department, Department of Permits and Development
+2026-03-22 21:16:23,337 [DEBUG]   -> Keywords: ordinance, planning commission
+2026-03-22 21:16:23,339 [INFO] [3/5] [DRY RUN] Would save: 75 apartments proposed for historic Syracuse building near I-81. See renderings
+2026-03-22 21:16:23,339 [INFO]   Entities: ['National Grid']
+2026-03-22 21:16:23,339 [INFO] [4/5] Processing: A fence？ Or a cage？ Syracuse pens off street to contain trouble near homeless shelter - syracuse.com (3_22_2026 9：04：07 PM).html
+2026-03-22 21:16:23,364 [INFO] [4/5] Extracted: A fence? Or a cage? Syracuse pens off street to contain trouble near homeless sh
+2026-03-22 21:16:23,364 [INFO]   URL: (none)
+2026-03-22 21:16:23,364 [INFO]   Date: 2025-06-05 | Content: 1136 chars
+2026-03-22 21:16:23,366 [INFO] [4/5] Filtered (not relevant): A fence? Or a cage? Syracuse pens off street to contain trouble near homeless sh
+2026-03-22 21:16:23,366 [INFO] [5/5] Processing: A lame-duck Syracuse councilor’s proposal angers historic preservation advocates - syracuse.com (3_22_2026 9：01：02 PM).html
+2026-03-22 21:16:23,385 [INFO] [5/5] Extracted: A lame-duck Syracuse councilor’s proposal angers historic preservation advocates
+2026-03-22 21:16:23,385 [INFO]   URL: (none)
+2026-03-22 21:16:23,385 [INFO]   Date: 2025-11-11 | Content: 4756 chars
+2026-03-22 21:16:23,390 [DEBUG]   -> Entities: Syracuse University
+2026-03-22 21:16:23,390 [DEBUG]   -> Departments: Syracuse Fire Department, Syracuse Police Department, Department of Permits and Development
+2026-03-22 21:16:23,390 [DEBUG]   -> Keywords: mayor, public hearing, planning commission
+2026-03-22 21:16:23,392 [INFO] [5/5] [DRY RUN] Would save: A lame-duck Syracuse councilor’s proposal angers historic preservation advocates
+2026-03-22 21:16:23,392 [INFO]   Entities: ['Syracuse University']
+2026-03-22 21:16:23,392 [INFO] SingleFile Importer — 2026-03-22 21:16
+==================================================
+HTML files found: 86
+Already processed: 81
+Attempted this run: 5
+Could not extract: 0
+Filtered (not relevant): 1
+Saved as records: 0
+Errors: 0
+
+2026-03-22 21:18:11,104 [INFO] ============================================================
+2026-03-22 21:18:11,105 [INFO] SingleFile Importer starting
+2026-03-22 21:18:11,106 [INFO] Found 86 HTML files in Syracuse.com Manual Downloads
+2026-03-22 21:18:11,107 [INFO] New files to process: 86 (of 86 total)
+2026-03-22 21:18:11,107 [INFO] Limited to 5 files
+2026-03-22 21:18:11,176 [INFO] [1/5] Processing: 15th Ward should be in the conversation about Public Safety Building redo (Your Letters) - syracuse.com (3_22_2026 9：08：37 PM).html
+2026-03-22 21:18:11,201 [INFO] [1/5] Extracted: 15th Ward should be in the conversation about Public Safety Building redo (Your 
+2026-03-22 21:18:11,201 [INFO]   URL: https://www.syracuse.com/opinion/2025/10/15th-ward-should-be-in-the-conversation
+2026-03-22 21:18:11,211 [INFO]   Date: 2025-10-28 | Content: 1501 chars
+2026-03-22 21:18:11,216 [DEBUG]   -> Departments: Syracuse Police Department, Department of Permits and Development
+2026-03-22 21:18:11,217 [DEBUG]   -> Keywords: syracuse police
+2026-03-22 21:18:11,218 [INFO] [1/5] [DRY RUN] Would save: 15th Ward should be in the conversation about Public Safety Building redo (Your 
+2026-03-22 21:18:11,218 [INFO]   Entities: []
+2026-03-22 21:18:11,218 [INFO] [2/5] Processing: 60,000 drivers sped through Syracuse’s school zones last month - syracuse.com (3_22_2026 9：05：12 PM).html
+2026-03-22 21:18:11,295 [INFO] [2/5] Extracted: 60,000 drivers sped through Syracuse’s school zones last month
+2026-03-22 21:18:11,295 [INFO]   URL: https://www.syracuse.com/news/2025/10/60000-drivers-sped-through-syracuses-schoo
+2026-03-22 21:18:11,295 [INFO]   Date: 2025-10-02 | Content: 5701 chars
+2026-03-22 21:18:11,301 [DEBUG]   -> Departments: Syracuse Fire Department, Law Department
+2026-03-22 21:18:11,303 [INFO] [2/5] [DRY RUN] Would save: 60,000 drivers sped through Syracuse’s school zones last month
+2026-03-22 21:18:11,303 [INFO]   Entities: []
+2026-03-22 21:18:11,303 [INFO] [3/5] Processing: 75 apartments proposed for historic Syracuse building near I-81. See renderings - syracuse.com (3_22_2026 9：07：04 PM).html
+2026-03-22 21:18:11,339 [INFO] [3/5] Extracted: 75 apartments proposed for historic Syracuse building near I-81. See renderings
+2026-03-22 21:18:11,339 [INFO]   URL: https://www.syracuse.com/news/2025/07/75-apartments-proposed-for-historic-syracu
+2026-03-22 21:18:11,339 [INFO]   Date: 2025-07-29 | Content: 4773 chars
+2026-03-22 21:18:11,344 [DEBUG]   -> Entities: National Grid
+2026-03-22 21:18:11,344 [DEBUG]   -> Departments: Syracuse Fire Department, Department of Permits and Development
+2026-03-22 21:18:11,344 [DEBUG]   -> Keywords: ordinance, planning commission
+2026-03-22 21:18:11,346 [INFO] [3/5] [DRY RUN] Would save: 75 apartments proposed for historic Syracuse building near I-81. See renderings
+2026-03-22 21:18:11,346 [INFO]   Entities: ['National Grid']
+2026-03-22 21:18:11,346 [INFO] [4/5] Processing: A fence？ Or a cage？ Syracuse pens off street to contain trouble near homeless shelter - syracuse.com (3_22_2026 9：04：07 PM).html
+2026-03-22 21:18:11,367 [INFO] [4/5] Extracted: A fence? Or a cage? Syracuse pens off street to contain trouble near homeless sh
+2026-03-22 21:18:11,368 [INFO]   URL: https://www.syracuse.com/news/2025/06/a-fence-or-a-cage-syracuse-pens-off-street
+2026-03-22 21:18:11,368 [INFO]   Date: 2025-06-05 | Content: 1136 chars
+2026-03-22 21:18:11,369 [INFO] [4/5] Filtered (not relevant): A fence? Or a cage? Syracuse pens off street to contain trouble near homeless sh
+2026-03-22 21:18:11,369 [INFO] [5/5] Processing: A lame-duck Syracuse councilor’s proposal angers historic preservation advocates - syracuse.com (3_22_2026 9：01：02 PM).html
+2026-03-22 21:18:11,385 [INFO] [5/5] Extracted: A lame-duck Syracuse councilor’s proposal angers historic preservation advocates
+2026-03-22 21:18:11,386 [INFO]   URL: https://www.syracuse.com/news/2025/11/a-lame-duck-syracuse-councilors-proposal-a
+2026-03-22 21:18:11,386 [INFO]   Date: 2025-11-11 | Content: 4756 chars
+2026-03-22 21:18:11,390 [DEBUG]   -> Entities: Syracuse University
+2026-03-22 21:18:11,390 [DEBUG]   -> Departments: Syracuse Fire Department, Syracuse Police Department, Department of Permits and Development
+2026-03-22 21:18:11,390 [DEBUG]   -> Keywords: mayor, public hearing, planning commission
+2026-03-22 21:18:11,392 [INFO] [5/5] [DRY RUN] Would save: A lame-duck Syracuse councilor’s proposal angers historic preservation advocates
+2026-03-22 21:18:11,392 [INFO]   Entities: ['Syracuse University']
+2026-03-22 21:18:11,392 [INFO] SingleFile Importer — 2026-03-22 21:18
+==================================================
+HTML files found: 86
+Already processed: 81
+Attempted this run: 5
+Could not extract: 0
+Filtered (not relevant): 1
+Saved as records: 0
+Errors: 0
+
+2026-03-22 21:21:18,043 [INFO] ============================================================
+2026-03-22 21:21:18,043 [INFO] SingleFile Importer starting
+2026-03-22 21:21:18,044 [INFO] Found 86 HTML files in Syracuse.com Manual Downloads
+2026-03-22 21:21:18,046 [INFO] New files to process: 86 (of 86 total)
+2026-03-22 21:21:18,110 [INFO] [1/86] Processing: 15th Ward should be in the conversation about Public Safety Building redo (Your Letters) - syracuse.com (3_22_2026 9：08：37 PM).html
+2026-03-22 21:21:18,131 [INFO] [1/86] Extracted: 15th Ward should be in the conversation about Public Safety Building redo (Your 
+2026-03-22 21:21:18,132 [INFO]   URL: https://www.syracuse.com/opinion/2025/10/15th-ward-should-be-in-the-conversation
+2026-03-22 21:21:18,132 [INFO]   Date: 2025-10-28 | Content: 1501 chars
+2026-03-22 21:21:23,621 [INFO]   Saved: CTX-NEWS-2025-00210 -> CTX-NEWS-2025-00210.json
+2026-03-22 21:21:23,622 [INFO] [2/86] Processing: 60,000 drivers sped through Syracuse’s school zones last month - syracuse.com (3_22_2026 9：05：12 PM).html
+2026-03-22 21:21:23,706 [INFO] [2/86] Extracted: 60,000 drivers sped through Syracuse’s school zones last month
+2026-03-22 21:21:23,706 [INFO]   URL: https://www.syracuse.com/news/2025/10/60000-drivers-sped-through-syracuses-schoo
+2026-03-22 21:21:23,706 [INFO]   Date: 2025-10-02 | Content: 5701 chars
+2026-03-22 21:21:30,913 [INFO]   Saved: CTX-NEWS-2025-00211 -> CTX-NEWS-2025-00211.json
+2026-03-22 21:21:30,913 [INFO] [3/86] Processing: 75 apartments proposed for historic Syracuse building near I-81. See renderings - syracuse.com (3_22_2026 9：07：04 PM).html
+2026-03-22 21:21:30,950 [INFO] [3/86] Extracted: 75 apartments proposed for historic Syracuse building near I-81. See renderings
+2026-03-22 21:21:30,950 [INFO]   URL: https://www.syracuse.com/news/2025/07/75-apartments-proposed-for-historic-syracu
+2026-03-22 21:21:30,950 [INFO]   Date: 2025-07-29 | Content: 4773 chars
+2026-03-22 21:21:37,047 [INFO]   Saved: CTX-NEWS-2025-00212 -> CTX-NEWS-2025-00212.json
+2026-03-22 21:21:37,047 [INFO] [4/86] Processing: A fence？ Or a cage？ Syracuse pens off street to contain trouble near homeless shelter - syracuse.com (3_22_2026 9：04：07 PM).html
+2026-03-22 21:21:37,069 [INFO] [4/86] Extracted: A fence? Or a cage? Syracuse pens off street to contain trouble near homeless sh
+2026-03-22 21:21:37,069 [INFO]   URL: https://www.syracuse.com/news/2025/06/a-fence-or-a-cage-syracuse-pens-off-street
+2026-03-22 21:21:37,069 [INFO]   Date: 2025-06-05 | Content: 1136 chars
+2026-03-22 21:21:42,601 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-22 21:21:42,616 [INFO]   Saved: CTX-NEWS-2025-00213 -> CTX-NEWS-2025-00213.json
+2026-03-22 21:21:42,616 [INFO] [5/86] Processing: A lame-duck Syracuse councilor’s proposal angers historic preservation advocates - syracuse.com (3_22_2026 9：01：02 PM).html
+2026-03-22 21:21:42,634 [INFO] [5/86] Extracted: A lame-duck Syracuse councilor’s proposal angers historic preservation advocates
+2026-03-22 21:21:42,634 [INFO]   URL: https://www.syracuse.com/news/2025/11/a-lame-duck-syracuse-councilors-proposal-a
+2026-03-22 21:21:42,634 [INFO]   Date: 2025-11-11 | Content: 4756 chars
+2026-03-22 21:21:49,687 [INFO]   Saved: CTX-NEWS-2025-00214 -> CTX-NEWS-2025-00214.json
+2026-03-22 21:21:49,687 [INFO] [6/86] Processing: Ben Walsh sweated Syracuse’s small stuff. He leaves behind a trail of street-level improvements - syracuse.com (3_22_2026 9：06：55 PM).html
+2026-03-22 21:21:49,741 [INFO] [6/86] Extracted: Ben Walsh sweated Syracuse’s small stuff. He leaves behind a trail of street-lev
+2026-03-22 21:21:49,741 [INFO]   URL: https://www.syracuse.com/news/2025/12/ben-walsh-sweated-syracuses-little-stuff-h
+2026-03-22 21:21:49,741 [INFO]   Date: 2025-12-16 | Content: 4935 chars
+2026-03-22 21:21:55,188 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-22 21:21:55,203 [INFO]   Saved: CTX-NEWS-2025-00215 -> CTX-NEWS-2025-00215.json
+2026-03-22 21:21:55,203 [INFO] [7/86] Processing: Biggest Syracuse housing development in decades needs a new partner after land owner pulls out - syracuse.com (3_22_2026 9：04：30 PM).html
+2026-03-22 21:21:55,249 [INFO] [7/86] Extracted: Biggest Syracuse housing development in decades needs a new partner after land o
+2026-03-22 21:21:55,250 [INFO]   URL: https://www.syracuse.com/realestate-news/2025/11/biggest-syracuse-housing-develo
+2026-03-22 21:21:55,250 [INFO]   Date: 2025-11-17 | Content: 7550 chars
+2026-03-22 21:22:02,199 [INFO]   Dedup match: CTX-NEWS-2025-00205
+2026-03-22 21:22:02,201 [INFO]   Saved: CTX-NEWS-2025-00216 -> CTX-NEWS-2025-00216.json
+2026-03-22 21:22:02,201 [INFO] [8/86] Processing: Calvin Corriders steps down as president of Syracuse Housing Authority board - syracuse.com (3_22_2026 9：02：51 PM).html
+2026-03-22 21:22:02,218 [INFO] [8/86] Extracted: Calvin Corriders steps down as president of Syracuse Housing Authority board
+2026-03-22 21:22:02,218 [INFO]   URL: https://www.syracuse.com/news/2025/10/calvin-corriders-steps-down-as-president-o
+2026-03-22 21:22:02,218 [INFO]   Date: 2025-10-16 | Content: 3502 chars
+2026-03-22 21:22:09,633 [WARNING]   Tag issue: Unknown tag 'critical' not in taxonomy
+2026-03-22 21:22:09,648 [INFO]   Saved: CTX-NEWS-2025-00217 -> CTX-NEWS-2025-00217.json
+2026-03-22 21:22:09,649 [INFO] [9/86] Processing: City audit finds major flaws in Syracuse’s sidewalk dining permits, recommends new rules and fees - syracuse.com (3_22_2026 9：06：31 PM).html
+2026-03-22 21:22:09,778 [INFO] [9/86] Extracted: City audit finds major flaws in Syracuse’s sidewalk dining permits, recommends n
+2026-03-22 21:22:09,778 [INFO]   URL: https://www.syracuse.com/news/2025/11/city-audit-finds-major-flaws-in-syracuses-
+2026-03-22 21:22:09,778 [INFO]   Date: 2025-11-06 | Content: 7604 chars
+2026-03-22 21:22:16,486 [WARNING]   Tag issue: Unknown tag 'revenue' not in taxonomy
+2026-03-22 21:22:16,495 [INFO]   Saved: CTX-NEWS-2025-00218 -> CTX-NEWS-2025-00218.json
+2026-03-22 21:22:16,496 [INFO] [10/86] Processing: City council clears the way for major housing development near Syracuse zoo - syracuse.com (3_22_2026 8：58：54 PM).html
+2026-03-22 21:22:16,521 [INFO] [10/86] Extracted: City council clears the way for major housing development near Syracuse zoo
+2026-03-22 21:22:16,521 [INFO]   URL: https://www.syracuse.com/news/2025/10/city-council-clears-the-way-for-major-hous
+2026-03-22 21:22:16,521 [INFO]   Date: 2025-10-27 | Content: 5632 chars
+2026-03-22 21:22:24,362 [INFO]   Dedup match: CTX-NEWS-2025-00143
+2026-03-22 21:22:24,364 [INFO]   Saved: CTX-NEWS-2025-00219 -> CTX-NEWS-2025-00219.json
+2026-03-22 21:22:24,364 [INFO] [11/86] Processing: City Hall： Syracuse community comes together to reduce crime -- and it’s working (Guest Opinion) - syracuse.com (3_22_2026 9：11：27 PM).html
+2026-03-22 21:22:24,381 [INFO] [11/86] Extracted: City Hall: Syracuse community comes together to reduce crime -- and it’s working
+2026-03-22 21:22:24,381 [INFO]   URL: https://www.syracuse.com/opinion/2025/08/city-hall-syracuse-community-comes-toge
+2026-03-22 21:22:24,381 [INFO]   Date: 2025-08-21 | Content: 6181 chars
+2026-03-22 21:22:31,240 [INFO]   Saved: CTX-NEWS-2025-00220 -> CTX-NEWS-2025-00220.json
+2026-03-22 21:22:31,240 [INFO] [12/86] Processing: Company news： Deka Eysaman to lead South Side Community Growth Foundation - syracuse.com (3_22_2026 9：11：29 PM).html
+2026-03-22 21:22:31,255 [INFO] [12/86] Extracted: Company news: Deka Eysaman to lead South Side Community Growth Foundation
+2026-03-22 21:22:31,255 [INFO]   URL: https://www.syracuse.com/business/2025/10/company-news-deka-eysaman-to-lead-sout
+2026-03-22 21:22:31,255 [INFO]   Date: 2025-10-08 | Content: 3419 chars
+2026-03-22 21:22:37,083 [INFO]   Saved: CTX-NEWS-2025-00221 -> CTX-NEWS-2025-00221.json
+2026-03-22 21:22:37,084 [INFO] [13/86] Processing: Concrete plant proposal near $100 million Syracuse aquarium draws McMahon’s ire - syracuse.com (3_22_2026 9：09：24 PM).html
+2026-03-22 21:22:37,123 [INFO] [13/86] Extracted: Concrete plant proposal near $100 million Syracuse aquarium draws McMahon’s ire
+2026-03-22 21:22:37,123 [INFO]   URL: https://www.syracuse.com/news/2025/10/a-company-wants-to-restart-abandoned-concr
+2026-03-22 21:22:37,123 [INFO]   Date: 2025-10-27 | Content: 6224 chars
+2026-03-22 21:22:43,059 [INFO]   Saved: CTX-NEWS-2025-00222 -> CTX-NEWS-2025-00222.json
+2026-03-22 21:22:43,059 [INFO] [14/86] Processing: Crime is dropping fast in Syracuse. Police chief says it’s a snowball effect - syracuse.com (3_22_2026 9：00：13 PM).html
+2026-03-22 21:22:43,088 [INFO] [14/86] Extracted: Crime is dropping fast in Syracuse. Police chief says it’s a snowball effect
+2026-03-22 21:22:43,088 [INFO]   URL: https://www.syracuse.com/news/2025/08/crime-is-dropping-fast-in-syracuse-police-
+2026-03-22 21:22:43,088 [INFO]   Date: 2025-08-14 | Content: 8704 chars
+2026-03-22 21:22:50,487 [WARNING]   Tag issue: Unknown tag 'community-violence-intervention' not in taxonomy
+2026-03-22 21:22:50,494 [INFO]   Dedup match: CTX-NEWS-2025-00112
+2026-03-22 21:22:50,496 [INFO]   Saved: CTX-NEWS-2025-00223 -> CTX-NEWS-2025-00223.json
+2026-03-22 21:22:50,496 [INFO] [15/86] Processing: Days after budget fight, Moody’s says Syracuse’s creditworthiness remains strong, stable - syracuse.com (3_22_2026 9：08：12 PM).html
+2026-03-22 21:22:50,514 [INFO] [15/86] Extracted: Days after budget fight, Moody’s says Syracuse’s creditworthiness remains strong
+2026-03-22 21:22:50,514 [INFO]   URL: https://www.syracuse.com/news/2025/06/days-after-budget-fight-moodys-says-syracu
+2026-03-22 21:22:50,514 [INFO]   Date: 2025-06-03 | Content: 3828 chars
+2026-03-22 21:22:56,775 [INFO]   Dedup match: CTX-NEWS-2025-00060
+2026-03-22 21:22:56,777 [INFO]   Saved: CTX-NEWS-2025-00224 -> CTX-NEWS-2025-00224.json
+2026-03-22 21:22:56,777 [INFO] [16/86] Processing: Demolition begins as Syracuse’s old public housing makes way for new East Adams neighborhood (video) - syracuse.com (3_22_2026 9：03：04 PM).html
+2026-03-22 21:22:56,794 [INFO] [16/86] Could not extract content — skipping
+2026-03-22 21:22:56,794 [INFO] [17/86] Processing: Developer shrinks Syracuse apartment project near I-81 for second time - syracuse.com (3_22_2026 9：09：30 PM).html
+2026-03-22 21:22:56,827 [INFO] [17/86] Extracted: Developer shrinks Syracuse apartment project near I-81 for second time
+2026-03-22 21:22:56,827 [INFO]   URL: https://www.syracuse.com/news/2025/04/developer-shrinks-syracuse-apartment-proje
+2026-03-22 21:22:56,827 [INFO]   Date: 2025-04-11 | Content: 4904 chars
+2026-03-22 21:23:03,550 [WARNING]   Tag issue: Unknown tag 'brownfield-remediation' not in taxonomy
+2026-03-22 21:23:03,561 [INFO]   Saved: CTX-NEWS-2025-00225 -> CTX-NEWS-2025-00225.json
+2026-03-22 21:23:03,561 [INFO] [18/86] Processing: Did Syracuse get all the IT work it paid millions for？ Outside report calls for tighter oversight - syracuse.com (3_22_2026 9：09：20 PM).html
+2026-03-22 21:23:03,682 [INFO] [18/86] Extracted: Did Syracuse get all the IT work it paid millions for? Outside report calls for 
+2026-03-22 21:23:03,683 [INFO]   URL: https://www.syracuse.com/news/2025/06/did-syracuse-get-all-the-it-work-it-paid-m
+2026-03-22 21:23:03,683 [INFO]   Date: 2025-06-12 | Content: 6029 chars
+2026-03-22 21:23:09,974 [INFO]   Dedup match: CTX-NEWS-2025-00061
+2026-03-22 21:23:09,976 [INFO]   Saved: CTX-NEWS-2025-00226 -> CTX-NEWS-2025-00226.json
+2026-03-22 21:23:09,976 [INFO] [19/86] Processing: Did Syracuse get all the IT work it paid millions for？ Outside report calls for tighter oversight - syracuse.com (3_22_2026 9：10：32 PM).html
+2026-03-22 21:23:10,089 [INFO] [19/86] Extracted: Did Syracuse get all the IT work it paid millions for? Outside report calls for 
+2026-03-22 21:23:10,089 [INFO]   URL: https://www.syracuse.com/news/2025/06/did-syracuse-get-all-the-it-work-it-paid-m
+2026-03-22 21:23:10,089 [INFO]   Date: 2025-06-12 | Content: 6029 chars
+2026-03-22 21:23:16,229 [WARNING]   Tag issue: Unknown tag 'governance' not in taxonomy
+2026-03-22 21:23:16,235 [INFO]   Dedup match: CTX-NEWS-2025-00061
+2026-03-22 21:23:16,237 [INFO]   Saved: CTX-NEWS-2025-00227 -> CTX-NEWS-2025-00227.json
+2026-03-22 21:23:16,237 [INFO] [20/86] Processing: Fines for speeding in Syracuse school zones start next week, but not at every site - syracuse.com (3_22_2026 9：10：54 PM).html
+2026-03-22 21:23:16,350 [INFO] [20/86] Extracted: Fines for speeding in Syracuse school zones start next week, but not at every si
+2026-03-22 21:23:16,350 [INFO]   URL: https://www.syracuse.com/news/2025/10/fines-for-speeding-in-syracuse-school-zone
+2026-03-22 21:23:16,350 [INFO]   Date: 2025-10-28 | Content: 5329 chars
+2026-03-22 21:23:23,793 [INFO]   Saved: CTX-NEWS-2025-00228 -> CTX-NEWS-2025-00228.json
+2026-03-22 21:23:23,793 [INFO] [21/86] Processing: Fire damages vacant apartment building on Syracuse’s South Side - syracuse.com (3_22_2026 9：04：26 PM).html
+2026-03-22 21:23:23,898 [INFO] [21/86] Extracted: Fire damages vacant apartment building on Syracuse’s South Side
+2026-03-22 21:23:23,898 [INFO]   URL: https://www.syracuse.com/crime/2025/10/fire-damages-vacant-apartment-building-on
+2026-03-22 21:23:23,898 [INFO]   Date: 2025-10-16 | Content: 2116 chars
+2026-03-22 21:23:28,818 [INFO]   Saved: CTX-NEWS-2025-00229 -> CTX-NEWS-2025-00229.json
+2026-03-22 21:23:28,818 [INFO] [22/86] Processing: Former Sears store on Syracuse’s South Side to be turned into semiconductor workforce training center - syracuse.com (3_22_2026 9：02：20 PM).html
+2026-03-22 21:23:28,852 [INFO] [22/86] Extracted: Former Sears store on Syracuse’s South Side to be turned into semiconductor work
+2026-03-22 21:23:28,852 [INFO]   URL: https://www.syracuse.com/news/2025/03/former-sears-store-on-syracuses-south-side
+2026-03-22 21:23:28,852 [INFO]   Date: 2025-03-28 | Content: 5450 chars
+2026-03-22 21:23:36,106 [WARNING]   Tag issue: Unknown tag 'state-programs' not in taxonomy
+2026-03-22 21:23:36,119 [INFO]   Saved: CTX-NEWS-2025-00230 -> CTX-NEWS-2025-00230.json
+2026-03-22 21:23:36,119 [INFO] [23/86] Processing: Former Syracuse vocational school could be demolished for 138-unit apartment building - syracuse.com (3_22_2026 9：10：39 PM).html
+2026-03-22 21:23:36,140 [INFO] [23/86] Extracted: Former Syracuse vocational school could be demolished for 138-unit apartment bui
+2026-03-22 21:23:36,140 [INFO]   URL: https://www.syracuse.com/news/2025/08/former-syracuse-vocational-school-could-be
+2026-03-22 21:23:36,140 [INFO]   Date: 2025-08-27 | Content: 4457 chars
+2026-03-22 21:23:42,664 [WARNING]   Tag issue: Unknown tag 'mixed-income' not in taxonomy
+2026-03-22 21:23:42,678 [INFO]   Saved: CTX-NEWS-2025-00231 -> CTX-NEWS-2025-00231.json
+2026-03-22 21:23:42,678 [INFO] [24/86] Processing: Hogan： Council, not appointed board, should have final say on historic properties (Your Letters) - syracuse.com (3_22_2026 9：02：16 PM).html
+2026-03-22 21:23:42,693 [INFO] [24/86] Extracted: Hogan: Council, not appointed board, should have final say on historic propertie
+2026-03-22 21:23:42,693 [INFO]   URL: https://www.syracuse.com/opinion/2025/11/hogan-council-not-appointed-board-shoul
+2026-03-22 21:23:42,693 [INFO]   Date: 2025-11-18 | Content: 2971 chars
+2026-03-22 21:23:46,633 [WARNING]   Tag issue: Unknown tag 'democracy' not in taxonomy
+2026-03-22 21:23:46,646 [INFO]   Saved: CTX-NEWS-2025-00232 -> CTX-NEWS-2025-00232.json
+2026-03-22 21:23:46,646 [INFO] [25/86] Processing: House GOP bill punishes Syracuse, other ‘sanctuary cities’ by closing federal small biz offices - syracuse.com (3_22_2026 9：01：07 PM).html
+2026-03-22 21:23:46,665 [INFO] [25/86] Extracted: House GOP bill punishes Syracuse, other ‘sanctuary cities’ by closing federal sm
+2026-03-22 21:23:46,665 [INFO]   URL: https://www.syracuse.com/politics/cny/2025/06/house-gop-bill-punishes-syracuse-o
+2026-03-22 21:23:46,665 [INFO]   Date: 2025-06-12 | Content: 8629 chars
+2026-03-22 21:23:53,516 [INFO]   Saved: CTX-NEWS-2025-00233 -> CTX-NEWS-2025-00233.json
+2026-03-22 21:23:53,517 [INFO] [26/86] Processing: House GOP’s ‘big beautiful bill’ cancels millions for Syracuse to revitalize poor neighborhood near I-81 - syracuse.com (3_22_2026 9：01：39 PM).html
+2026-03-22 21:23:53,535 [INFO] [26/86] Extracted: House GOP’s ‘big beautiful bill’ cancels millions for Syracuse to revitalize poo
+2026-03-22 21:23:53,535 [INFO]   URL: https://www.syracuse.com/politics/cny/2025/05/house-gops-big-beautiful-bill-canc
+2026-03-22 21:23:53,535 [INFO]   Date: 2025-05-30 | Content: 4463 chars
+2026-03-22 21:24:01,250 [INFO]   Saved: CTX-NEWS-2025-00234 -> CTX-NEWS-2025-00234.json
+2026-03-22 21:24:01,250 [INFO] [27/86] Processing: How owner Mark Congel lost control of historic Syracuse convent before fire ravaged it - syracuse.com (3_22_2026 9：10：57 PM).html
+2026-03-22 21:24:01,412 [INFO] [27/86] Extracted: How owner Mark Congel lost control of historic Syracuse convent before fire rava
+2026-03-22 21:24:01,412 [INFO]   URL: https://www.syracuse.com/news/2025/04/how-owner-mark-congel-lost-control-of-hist
+2026-03-22 21:24:01,412 [INFO]   Date: 2025-04-07 | Content: 10000 chars
+2026-03-22 21:24:08,366 [WARNING]   Tag issue: Unknown tag 'property-management' not in taxonomy
+2026-03-22 21:24:08,373 [INFO]   Dedup match: CTX-NEWS-2025-00002
+2026-03-22 21:24:08,374 [INFO]   Saved: CTX-NEWS-2025-00235 -> CTX-NEWS-2025-00235.json
+2026-03-22 21:24:08,374 [INFO] [28/86] Processing: It’s a ‘race to the finish,’ but Syracuse STEAM school will open in September (photos) - syracuse.com (3_22_2026 9：04：17 PM).html
+2026-03-22 21:24:08,403 [INFO] [28/86] Extracted: It’s a ‘race to the finish,’ but Syracuse STEAM school will open in September (p
+2026-03-22 21:24:08,404 [INFO]   URL: https://www.syracuse.com/news/2025/07/its-a-race-to-the-finish-but-syracuse-stea
+2026-03-22 21:24:08,404 [INFO]   Date: 2025-07-21 | Content: 5067 chars
+2026-03-22 21:24:14,519 [WARNING]   Tag issue: Unknown tag 'education' not in taxonomy
+2026-03-22 21:24:14,528 [INFO]   Saved: CTX-NEWS-2025-00236 -> CTX-NEWS-2025-00236.json
+2026-03-22 21:24:14,529 [INFO] [29/86] Processing: Le Moyne College extends president’s contract - syracuse.com (3_22_2026 9：02：04 PM).html
+2026-03-22 21:24:14,639 [INFO] [29/86] Extracted: Le Moyne College extends president’s contract
+2026-03-22 21:24:14,639 [INFO]   URL: https://www.syracuse.com/schools/2025/10/le-moyne-college-extends-presidents-con
+2026-03-22 21:24:14,639 [INFO]   Date: 2025-10-21 | Content: 1424 chars
+2026-03-22 21:24:18,623 [INFO]   Saved: CTX-NEWS-2025-00237 -> CTX-NEWS-2025-00237.json
+2026-03-22 21:24:18,623 [INFO] [30/86] Processing: Man tased by Syracuse police in convenience store arrest; they say he sold drugs outside - syracuse.com (3_22_2026 9：04：52 PM).html
+2026-03-22 21:24:18,642 [INFO] [30/86] Extracted: Man tased by Syracuse police in convenience store arrest; they say he sold drugs
+2026-03-22 21:24:18,642 [INFO]   URL: https://www.syracuse.com/crime/2025/04/man-tased-by-syracuse-police-in-convenien
+2026-03-22 21:24:18,642 [INFO]   Date: 2025-04-21 | Content: 5015 chars
+2026-03-22 21:24:24,462 [INFO]   Saved: CTX-NEWS-2025-00238 -> CTX-NEWS-2025-00238.json
+2026-03-22 21:24:24,462 [INFO] [31/86] Processing: Mayor, Congressman, others praise retiring Syracuse superintendent in final days - syracuse.com (3_22_2026 9：02：37 PM).html
+2026-03-22 21:24:24,557 [INFO] [31/86] Extracted: Mayor, Congressman, others praise retiring Syracuse superintendent in final days
+2026-03-22 21:24:24,557 [INFO]   URL: https://www.syracuse.com/education/2025/10/mayor-congressman-others-praise-retir
+2026-03-22 21:24:24,558 [INFO]   Date: 2025-10-09 | Content: 2067 chars
+2026-03-22 21:24:30,063 [INFO]   Saved: CTX-NEWS-2025-00239 -> CTX-NEWS-2025-00239.json
+2026-03-22 21:24:30,063 [INFO] [32/86] Processing: McMahon’s 2026 Onondaga County budget includes tax rate cut, new police drones, helicopter - syracuse.com (3_22_2026 8：58：26 PM).html
+2026-03-22 21:24:30,079 [INFO] [32/86] Extracted: McMahon’s 2026 Onondaga County budget includes tax rate cut, new police drones, 
+2026-03-22 21:24:30,079 [INFO]   URL: https://www.syracuse.com/news/2025/09/ryan-mcmahons-2026-budget-cuts-the-tax-rat
+2026-03-22 21:24:30,079 [INFO]   Date: 2025-09-15 | Content: 3760 chars
+2026-03-22 21:24:36,296 [INFO]   Dedup match: CTX-NEWS-2025-00119
+2026-03-22 21:24:36,298 [INFO]   Saved: CTX-NEWS-2025-00240 -> CTX-NEWS-2025-00240.json
+2026-03-22 21:24:36,298 [INFO] [33/86] Processing: Mets play Billy Joel’s ‘We Didn’t Start the Fire’ as brush burns. Turns out they did start the fire - syracuse.com (3_22_2026 9：08：18 PM).html
+2026-03-22 21:24:36,373 [INFO] [33/86] Extracted: Mets play Billy Joel’s ‘We Didn’t Start the Fire’ as brush burns. Turns out they
+2026-03-22 21:24:36,373 [INFO]   URL: https://www.syracuse.com/news/2025/07/mets-play-billy-joels-we-didnt-start-the-f
+2026-03-22 21:24:36,374 [INFO]   Date: 2025-07-25 | Content: 2906 chars
+2026-03-22 21:24:40,859 [INFO]   Saved: CTX-NEWS-2025-00241 -> CTX-NEWS-2025-00241.json
+2026-03-22 21:24:40,859 [INFO] [34/86] Processing: Micron gets ready to make its most visible move yet in Central NY - syracuse.com (3_22_2026 9：06：02 PM).html
+2026-03-22 21:24:40,885 [INFO] [34/86] Extracted: Micron gets ready to make its most visible move yet in Central NY
+2026-03-22 21:24:40,885 [INFO]   URL: https://www.syracuse.com/micron/2025/07/micron-gets-ready-to-make-its-most-visib
+2026-03-22 21:24:40,885 [INFO]   Date: 2025-07-28 | Content: 2810 chars
+2026-03-22 21:24:47,088 [INFO]   Saved: CTX-NEWS-2025-00242 -> CTX-NEWS-2025-00242.json
+2026-03-22 21:24:47,088 [INFO] [35/86] Processing: Micron impact： Syracuse area will grow ‘as fast as any place in the country,’ major bank CEO predicts - syracuse.com (3_22_2026 9：06：05 PM).html
+2026-03-22 21:24:47,112 [INFO] [35/86] Extracted: Micron impact: Syracuse area will grow ‘as fast as any place in the country,’ ma
+2026-03-22 21:24:47,112 [INFO]   URL: https://www.syracuse.com/micron/2025/08/micron-impact-syracuse-area-will-grow-as
+2026-03-22 21:24:47,112 [INFO]   Date: 2025-08-01 | Content: 4514 chars
+2026-03-22 21:24:52,868 [INFO]   Saved: CTX-NEWS-2025-00243 -> CTX-NEWS-2025-00243.json
+2026-03-22 21:24:52,868 [INFO] [36/86] Processing: Onondaga County hosting lead safety events this week for families, landlords and contractors - syracuse.com (3_22_2026 9：06：36 PM).html
+2026-03-22 21:24:52,890 [INFO] [36/86] Extracted: Onondaga County hosting lead safety events this week for families, landlords and
+2026-03-22 21:24:52,890 [INFO]   URL: https://www.syracuse.com/health/2025/10/onondaga-county-hosting-lead-safety-even
+2026-03-22 21:24:52,890 [INFO]   Date: 2025-10-20 | Content: 4457 chars
+2026-03-22 21:25:00,637 [WARNING]   Tag issue: Unknown tag 'health' not in taxonomy
+2026-03-22 21:25:00,650 [INFO]   Saved: CTX-NEWS-2025-00244 -> CTX-NEWS-2025-00244.json
+2026-03-22 21:25:00,650 [INFO] [37/86] Processing: Onondaga County plans to open a downtown drop-in center for city’s homeless - syracuse.com (3_22_2026 9：09：18 PM).html
+2026-03-22 21:25:00,671 [INFO] [37/86] Extracted: Onondaga County plans to open a downtown drop-in center for city’s homeless
+2026-03-22 21:25:00,671 [INFO]   URL: https://www.syracuse.com/news/2025/06/onondaga-county-plans-to-open-a-downtown-d
+2026-03-22 21:25:00,671 [INFO]   Date: 2025-06-23 | Content: 3362 chars
+2026-03-22 21:25:07,053 [INFO]   Saved: CTX-NEWS-2025-00245 -> CTX-NEWS-2025-00245.json
+2026-03-22 21:25:07,053 [INFO] [38/86] Processing: Pioneer Homes residents get early chance to avoid noisy I-81 construction. How many will take it？ - syracuse.com (3_22_2026 9：02：41 PM).html
+2026-03-22 21:25:07,086 [INFO] [38/86] Extracted: Pioneer Homes residents get early chance to avoid noisy I-81 construction. How m
+2026-03-22 21:25:07,086 [INFO]   URL: https://www.syracuse.com/news/2025/10/pioneer-homes-residents-get-early-chance-t
+2026-03-22 21:25:07,086 [INFO]   Date: 2025-10-15 | Content: 6574 chars
+2026-03-22 21:25:13,062 [INFO]   Dedup match: CTX-NEWS-2025-00217
+2026-03-22 21:25:13,064 [INFO]   Saved: CTX-NEWS-2025-00246 -> CTX-NEWS-2025-00246.json
+2026-03-22 21:25:13,064 [INFO] [39/86] Processing: Police presence will increase at Syracuse pools after fatal shooting in Strathmore - syracuse.com (3_22_2026 9：05：04 PM).html
+2026-03-22 21:25:13,182 [INFO] [39/86] Extracted: Police presence will increase at Syracuse pools after fatal shooting in Strathmo
+2026-03-22 21:25:13,182 [INFO]   URL: https://www.syracuse.com/crime/2025/06/police-presence-will-increase-at-syracuse
+2026-03-22 21:25:13,182 [INFO]   Date: 2025-06-25 | Content: 1950 chars
+2026-03-22 21:25:18,351 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-22 21:25:18,359 [INFO]   Dedup match: CTX-NEWS-2025-00066
+2026-03-22 21:25:18,362 [INFO]   Saved: CTX-NEWS-2025-00247 -> CTX-NEWS-2025-00247.json
+2026-03-22 21:25:18,362 [INFO] [40/86] Processing: Police union leader should lower the heat after combative Armory Square comments (Editorial Board Opinion) - syracuse.com (3_22_2026 9：00：04 PM).html
+2026-03-22 21:25:18,407 [INFO] [40/86] Extracted: Police union leader should lower the heat after combative Armory Square comments
+2026-03-22 21:25:18,407 [INFO]   URL: https://www.syracuse.com/opinion/2025/07/police-union-leader-should-lower-the-he
+2026-03-22 21:25:18,407 [INFO]   Date: 2025-07-27 | Content: 1622 chars
+2026-03-22 21:25:24,074 [INFO]   Dedup match: CTX-NEWS-2025-00109
+2026-03-22 21:25:24,075 [INFO]   Saved: CTX-NEWS-2025-00248 -> CTX-NEWS-2025-00248.json
+2026-03-22 21:25:24,075 [INFO] [41/86] Processing: Police warn Syracuse businesses of fraudulent zoning invoice scam - syracuse.com (3_22_2026 8：59：56 PM).html
+2026-03-22 21:25:24,180 [INFO] [41/86] Extracted: Police warn Syracuse businesses of fraudulent zoning invoice scam
+2026-03-22 21:25:24,180 [INFO]   URL: https://www.syracuse.com/crime/2025/10/police-warn-syracuse-businesses-of-fraudu
+2026-03-22 21:25:24,180 [INFO]   Date: 2025-10-24 | Content: 1702 chars
+2026-03-22 21:25:29,396 [WARNING]   Tag issue: Unknown tag 'crime' not in taxonomy
+2026-03-22 21:25:29,410 [INFO]   Dedup match: CTX-NEWS-2025-00148
+2026-03-22 21:25:29,412 [INFO]   Saved: CTX-NEWS-2025-00249 -> CTX-NEWS-2025-00249.json
+2026-03-22 21:25:29,412 [INFO] [42/86] Processing: Ryan McMahon cites a ‘pipeline’ of housing projects, but it’s filled with uncertainty - syracuse.com (3_22_2026 9：07：26 PM).html
+2026-03-22 21:25:29,438 [INFO] [42/86] Extracted: Ryan McMahon cites a ‘pipeline’ of housing projects, but it’s filled with uncert
+2026-03-22 21:25:29,438 [INFO]   URL: https://www.syracuse.com/news/2025/10/ryan-mcmahon-cites-a-pipeline-of-housing-p
+2026-03-22 21:25:29,438 [INFO]   Date: 2025-10-20 | Content: 5730 chars
+2026-03-22 21:25:35,232 [INFO]   Saved: CTX-NEWS-2025-00250 -> CTX-NEWS-2025-00250.json
+2026-03-22 21:25:35,232 [INFO] [43/86] Processing: School zone speeding fines raise concerns about equity, spending priorities (Your Letters) - syracuse.com (3_22_2026 8：59：07 PM).html
+2026-03-22 21:25:35,235 [INFO] [43/86] Extracted: School zone speeding fines raise concerns about equity, spending priorities (You
+2026-03-22 21:25:35,235 [INFO]   URL: https://www.syracuse.com/news/2025/11/school-zone-speeding-fines-raise-concerns-
+2026-03-22 21:25:35,235 [INFO]   Date: 2025-11-29 | Content: 2201 chars
+2026-03-22 21:25:39,299 [INFO]   Saved: CTX-NEWS-2025-00251 -> CTX-NEWS-2025-00251.json
+2026-03-22 21:25:39,299 [INFO] [44/86] Processing: Senate OKs Trump’s plan to cancel millions for new Syracuse neighborhood - syracuse.com (3_22_2026 9：01：44 PM).html
+2026-03-22 21:25:39,316 [INFO] [44/86] Extracted: Senate OKs Trump’s plan to cancel millions for new Syracuse neighborhood
+2026-03-22 21:25:39,317 [INFO]   URL: https://www.syracuse.com/politics/cny/2025/07/senate-oks-trumps-plan-to-cancel-m
+2026-03-22 21:25:39,317 [INFO]   Date: 2025-07-02 | Content: 4258 chars
+2026-03-22 21:25:47,035 [INFO]   Saved: CTX-NEWS-2025-00252 -> CTX-NEWS-2025-00252.json
+2026-03-22 21:25:47,035 [INFO] [45/86] Processing: Should police chase stolen cars？ Two Central NY departments set opposite policies - syracuse.com (3_22_2026 9：04：38 PM).html
+2026-03-22 21:25:47,061 [INFO] [45/86] Extracted: Should police chase stolen cars? Two Central NY departments set opposite policie
+2026-03-22 21:25:47,062 [INFO]   URL: https://www.syracuse.com/crime/2025/04/should-police-chase-stolen-cars-two-local
+2026-03-22 21:25:47,062 [INFO]   Date: 2025-04-15 | Content: 10000 chars
+2026-03-22 21:25:53,451 [INFO]   Saved: CTX-NEWS-2025-00253 -> CTX-NEWS-2025-00253.json
+2026-03-22 21:25:53,451 [INFO] [46/86] Processing: Slow down or else! See where cameras will soon catch speeders near Syracuse schools - syracuse.com (3_22_2026 9：10：39 PM).html
+2026-03-22 21:25:53,562 [INFO] [46/86] Extracted: Slow down or else! See where cameras will soon catch speeders near Syracuse scho
+2026-03-22 21:25:53,562 [INFO]   URL: https://www.syracuse.com/news/2025/07/slow-down-or-else-see-where-cameras-will-s
+2026-03-22 21:25:53,562 [INFO]   Date: 2025-07-31 | Content: 4681 chars
+2026-03-22 21:26:00,596 [INFO]   Saved: CTX-NEWS-2025-00254 -> CTX-NEWS-2025-00254.json
+2026-03-22 21:26:00,596 [INFO] [47/86] Processing: Some CNY towns could run out of water this weekend, county warns - syracuse.com (3_22_2026 9：08：51 PM).html
+2026-03-22 21:26:00,640 [INFO] [47/86] Extracted: Some CNY towns could run out of water this weekend, county warns
+2026-03-22 21:26:00,640 [INFO]   URL: https://www.syracuse.com/news/2025/12/some-cny-towns-could-run-out-of-water-this
+2026-03-22 21:26:00,640 [INFO]   Date: 2025-12-23 | Content: 5154 chars
+2026-03-22 21:26:08,250 [WARNING]   Tag issue: Unknown tag 'crisis-response' not in taxonomy
+2026-03-22 21:26:08,263 [INFO]   Saved: CTX-NEWS-2025-00255 -> CTX-NEWS-2025-00255.json
+2026-03-22 21:26:08,263 [INFO] [48/86] Processing: Surprise move leaves Syracuse Housing Authority with new role in East Adams： Landlord - syracuse.com (3_22_2026 9：06：56 PM).html
+2026-03-22 21:26:08,930 [INFO] [48/86] Extracted: Surprise move leaves Syracuse Housing Authority with new role in East Adams: Lan
+2026-03-22 21:26:08,930 [INFO]   URL: https://www.syracuse.com/news/2025/07/surprise-move-leaves-syracuse-housing-auth
+2026-03-22 21:26:08,930 [INFO]   Date: 2025-07-01 | Content: 8845 chars
+2026-03-22 21:26:16,371 [INFO]   Saved: CTX-NEWS-2025-00256 -> CTX-NEWS-2025-00256.json
+2026-03-22 21:26:16,371 [INFO] [49/86] Processing: Syracuse auditor： City’s ‘lifeless’ wage ordinance needs a serious overhaul - syracuse.com (3_22_2026 9：03：46 PM).html
+2026-03-22 21:26:17,314 [INFO] [49/86] Extracted: Syracuse auditor: City’s ‘lifeless’ wage ordinance needs a serious overhaul
+2026-03-22 21:26:17,315 [INFO]   URL: https://www.syracuse.com/business/2025/03/syracuse-auditor-citys-lifeless-wage-o
+2026-03-22 21:26:17,315 [INFO]   Date: 2025-03-31 | Content: 4622 chars
+2026-03-22 21:26:23,914 [INFO]   Dedup match: CTX-NEWS-2025-00207
+2026-03-22 21:26:23,916 [INFO]   Saved: CTX-NEWS-2025-00257 -> CTX-NEWS-2025-00257.json
+2026-03-22 21:26:23,916 [INFO] [50/86] Processing: Syracuse basketball finalizing deal to hire Gerry McNamara as next head coach - syracuse.com (3_22_2026 8：56：47 PM).html
+2026-03-22 21:26:24,809 [INFO] [50/86] Extracted: Syracuse basketball finalizing deal to hire Gerry McNamara as next head coach
+2026-03-22 21:26:24,809 [INFO]   URL: https://www.syracuse.com/orangebasketball/2026/03/syracuse-basketball-finalizing
+2026-03-22 21:26:24,809 [INFO]   Date: 2026-03-22 | Content: 4655 chars
+2026-03-22 21:26:30,807 [INFO]   Saved: CTX-NEWS-2026-00002 -> CTX-NEWS-2026-00002.json
+2026-03-22 21:26:30,807 [INFO] [51/86] Processing: Syracuse chief defends officers hitting man during arrest, but says some procedures violated - syracuse.com (3_22_2026 9：05：35 PM).html
+2026-03-22 21:26:31,337 [INFO] [51/86] Extracted: Syracuse chief defends officers hitting man during arrest, but says some procedu
+2026-03-22 21:26:31,337 [INFO]   URL: https://www.syracuse.com/crime/2025/04/syracuse-chief-defends-officers-hitting-m
+2026-03-22 21:26:31,337 [INFO]   Date: 2025-04-10 | Content: 4685 chars
+2026-03-22 21:26:38,289 [WARNING]   Tag issue: Unknown tag 'use-of-force' not in taxonomy
+2026-03-22 21:26:38,299 [INFO]   Saved: CTX-NEWS-2025-00258 -> CTX-NEWS-2025-00258.json
+2026-03-22 21:26:38,299 [INFO] [52/86] Processing: Syracuse Common Council lacks courage to fix unfair assessments (Editorial Board Opinion) - syracuse.com (3_22_2026 9：01：10 PM).html
+2026-03-22 21:26:38,819 [INFO] [52/86] Extracted: Syracuse Common Council lacks courage to fix unfair assessments (Editorial Board
+2026-03-22 21:26:38,819 [INFO]   URL: https://www.syracuse.com/opinion/2025/05/syracuse-common-council-lacks-courage-t
+2026-03-22 21:26:38,819 [INFO]   Date: 2025-05-11 | Content: 4132 chars
+2026-03-22 21:26:44,861 [WARNING]   Tag issue: Unknown tag 'constituent_pressure' not in taxonomy
+2026-03-22 21:26:44,876 [INFO]   Saved: CTX-NEWS-2025-00259 -> CTX-NEWS-2025-00259.json
+2026-03-22 21:26:44,876 [INFO] [53/86] Processing: Syracuse Common Council pushes proposal to build battery storage near city neighborhood into 2026 - syracuse.com (3_22_2026 8：59：04 PM).html
+2026-03-22 21:26:45,876 [INFO] [53/86] Extracted: Syracuse Common Council pushes proposal to build battery storage near city neigh
+2026-03-22 21:26:45,876 [INFO]   URL: https://www.syracuse.com/news/2025/12/syracuse-common-council-pushes-proposal-to
+2026-03-22 21:26:45,877 [INFO]   Date: 2025-12-23 | Content: 4008 chars
+2026-03-22 21:26:51,741 [WARNING]   Tag issue: Unknown tag 'procedural' not in taxonomy
+2026-03-22 21:26:51,754 [INFO]   Saved: CTX-NEWS-2025-00260 -> CTX-NEWS-2025-00260.json
+2026-03-22 21:26:51,754 [INFO] [54/86] Processing: Syracuse Common Council wants residents’ opinions on using drones for police calls - syracuse.com (3_22_2026 8：58：12 PM).html
+2026-03-22 21:26:52,619 [INFO] [54/86] Extracted: Syracuse Common Council wants residents’ opinions on using drones for police cal
+2026-03-22 21:26:52,619 [INFO]   URL: https://www.syracuse.com/news/2025/09/syracuse-common-council-wants-residents-op
+2026-03-22 21:26:52,619 [INFO]   Date: 2025-09-02 | Content: 3714 chars
+2026-03-22 21:26:58,684 [INFO]   Dedup match: CTX-WEB-2026-00039
+2026-03-22 21:26:58,686 [INFO]   Saved: CTX-NEWS-2025-00261 -> CTX-NEWS-2025-00261.json
+2026-03-22 21:26:58,686 [INFO] [55/86] Processing: Syracuse considers offering amnesty for late fees on unpaid parking tickets - syracuse.com (3_22_2026 9：11：35 PM).html
+2026-03-22 21:26:59,598 [INFO] [55/86] Extracted: Syracuse considers offering amnesty for late fees on unpaid parking tickets
+2026-03-22 21:26:59,598 [INFO]   URL: https://www.syracuse.com/news/2025/10/syracuse-lawmakers-asked-to-approve-parkin
+2026-03-22 21:26:59,598 [INFO]   Date: 2025-10-25 | Content: 2897 chars
+2026-03-22 21:27:05,639 [INFO]   Dedup match: CTX-NEWS-2025-00219
+2026-03-22 21:27:05,640 [INFO]   Saved: CTX-NEWS-2025-00262 -> CTX-NEWS-2025-00262.json
+2026-03-22 21:27:05,640 [INFO] [56/86] Processing: Syracuse contractor donates $40,000 A_C overhaul so Mary Nelson’s center can reopen - syracuse.com (3_22_2026 9：08：32 PM).html
+2026-03-22 21:27:06,518 [INFO] [56/86] Extracted: Syracuse contractor donates $40,000 A/C overhaul so Mary Nelson’s center can reo
+2026-03-22 21:27:06,518 [INFO]   URL: https://www.syracuse.com/news/2025/07/syracuse-contractor-donates-40000-ac-overh
+2026-03-22 21:27:06,518 [INFO]   Date: 2025-07-30 | Content: 4116 chars
+2026-03-22 21:27:11,608 [INFO]   Saved: CTX-NEWS-2025-00263 -> CTX-NEWS-2025-00263.json
+2026-03-22 21:27:11,608 [INFO] [57/86] Processing: Syracuse Finest no match for the Bravest in police vs. fire basketball game - syracuse.com (3_22_2026 9：01：34 PM).html
+2026-03-22 21:27:12,620 [INFO] [57/86] Extracted: Syracuse Finest no match for the Bravest in police vs. fire basketball game
+2026-03-22 21:27:12,620 [INFO]   URL: https://www.syracuse.com/news/2025/05/syracuse-finest-no-match-for-the-bravest-i
+2026-03-22 21:27:12,620 [INFO]   Date: 2025-05-24 | Content: 2277 chars
+2026-03-22 21:27:16,972 [WARNING]   Tag issue: Unknown tag 'community-engagement' not in taxonomy
+2026-03-22 21:27:16,972 [WARNING]   Tag issue: Unknown tag 'charity' not in taxonomy
+2026-03-22 21:27:16,982 [INFO]   Dedup match: CTX-NEWS-2025-00048
+2026-03-22 21:27:16,984 [INFO]   Saved: CTX-NEWS-2025-00264 -> CTX-NEWS-2025-00264.json
+2026-03-22 21:27:16,984 [INFO] [58/86] Processing: Syracuse has a buyer for shuttered fire station, but councilors have questions - syracuse.com (3_22_2026 8：59：43 PM).html
+2026-03-22 21:27:17,506 [INFO] [58/86] Extracted: Syracuse has a buyer for shuttered fire station, but councilors have questions
+2026-03-22 21:27:17,506 [INFO]   URL: https://www.syracuse.com/news/2025/06/syracuse-has-a-buyer-for-shuttered-fire-st
+2026-03-22 21:27:17,506 [INFO]   Date: 2025-06-04 | Content: 5789 chars
+2026-03-22 21:27:26,518 [INFO]   Saved: CTX-NEWS-2025-00265 -> CTX-NEWS-2025-00265.json
+2026-03-22 21:27:26,518 [INFO] [59/86] Processing: Syracuse lawmakers approve sale of former fire station where apartments, eatery planned - syracuse.com (3_22_2026 9：01：56 PM).html
+2026-03-22 21:27:27,037 [INFO] [59/86] Extracted: Syracuse lawmakers approve sale of former fire station where apartments, eatery 
+2026-03-22 21:27:27,037 [INFO]   URL: https://www.syracuse.com/news/2025/09/syracuse-lawmakers-approve-sale-of-former-
+2026-03-22 21:27:27,037 [INFO]   Date: 2025-09-02 | Content: 2832 chars
+2026-03-22 21:27:32,532 [INFO]   Dedup match: CTX-NEWS-2025-00122
+2026-03-22 21:27:32,534 [INFO]   Saved: CTX-NEWS-2025-00266 -> CTX-NEWS-2025-00266.json
+2026-03-22 21:27:32,534 [INFO] [60/86] Processing: Syracuse lawmakers finally endorse city’s plan to eliminate traffic fatalities - syracuse.com (3_22_2026 9：03：27 PM).html
+2026-03-22 21:27:33,482 [INFO] [60/86] Extracted: Syracuse lawmakers finally endorse city’s plan to eliminate traffic fatalities
+2026-03-22 21:27:33,482 [INFO]   URL: https://www.syracuse.com/news/2025/10/syracuse-lawmakers-finally-endorse-citys-p
+2026-03-22 21:27:33,482 [INFO]   Date: 2025-10-28 | Content: 2743 chars
+2026-03-22 21:27:39,346 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-22 21:27:39,358 [INFO]   Dedup match: CTX-NEWS-2025-00146
+2026-03-22 21:27:39,360 [INFO]   Saved: CTX-NEWS-2025-00267 -> CTX-NEWS-2025-00267.json
+2026-03-22 21:27:39,360 [INFO] [61/86] Processing: Syracuse lawmakers OK settlement in case of drunk driver hitting recycling truck - syracuse.com (3_22_2026 9：07：14 PM).html
+2026-03-22 21:27:39,882 [INFO] [61/86] Extracted: Syracuse lawmakers OK settlement in case of drunk driver hitting recycling truck
+2026-03-22 21:27:39,882 [INFO]   URL: https://www.syracuse.com/news/2025/09/syracuse-lawmakers-ok-settlement-in-case-o
+2026-03-22 21:27:39,882 [INFO]   Date: 2025-09-15 | Content: 4051 chars
+2026-03-22 21:27:46,050 [WARNING]   Tag issue: Unknown tag 'litigation' not in taxonomy
+2026-03-22 21:27:46,050 [WARNING]   Tag issue: Unknown tag 'settlement' not in taxonomy
+2026-03-22 21:27:46,050 [WARNING]   Tag issue: Unknown tag 'risk-management' not in taxonomy
+2026-03-22 21:27:46,070 [INFO]   Saved: CTX-NEWS-2025-00268 -> CTX-NEWS-2025-00268.json
+2026-03-22 21:27:46,070 [INFO] [62/86] Processing: Syracuse lawmakers ‘disappointed’ with Walsh’s proposed tax hike, budget deficit - syracuse.com (3_22_2026 8：57：46 PM).html
+2026-03-22 21:27:46,957 [INFO] [62/86] Extracted: Syracuse lawmakers ‘disappointed’ with Walsh’s proposed tax hike, budget deficit
+2026-03-22 21:27:46,958 [INFO]   URL: https://www.syracuse.com/news/2025/04/syracuse-lawmakers-disappointed-with-walsh
+2026-03-22 21:27:46,958 [INFO]   Date: 2025-04-10 | Content: 5388 chars
+2026-03-22 21:27:53,449 [INFO]   Dedup match: CTX-NEWS-2025-00180
+2026-03-22 21:27:53,451 [INFO]   Saved: CTX-NEWS-2025-00269 -> CTX-NEWS-2025-00269.json
+2026-03-22 21:27:53,451 [INFO] [63/86] Processing: Syracuse Mayor Walsh ready to accept some budget cuts; council leader not impressed - syracuse.com (3_22_2026 8：57：19 PM).html
+2026-03-22 21:27:54,311 [INFO] [63/86] Extracted: Syracuse Mayor Walsh ready to accept some budget cuts; council leader not impres
+2026-03-22 21:27:54,312 [INFO]   URL: https://www.syracuse.com/politics/cny/2025/05/syracuse-mayor-walsh-ready-to-acce
+2026-03-22 21:27:54,312 [INFO]   Date: 2025-05-15 | Content: 4589 chars
+2026-03-22 21:28:01,039 [INFO]   Dedup match: CTX-NEWS-2025-00036
+2026-03-22 21:28:01,041 [INFO]   Saved: CTX-NEWS-2025-00270 -> CTX-NEWS-2025-00270.json
+2026-03-22 21:28:01,041 [INFO] [64/86] Processing: Syracuse on Trump administration list of ‘sanctuary jurisdictions’ - syracuse.com (3_22_2026 8：59：29 PM).html
+2026-03-22 21:28:01,889 [INFO] [64/86] Extracted: Syracuse on Trump administration list of ‘sanctuary jurisdictions’
+2026-03-22 21:28:01,890 [INFO]   URL: https://www.syracuse.com/politics/2025/05/syracuse-other-upstate-ny-cities-on-tr
+2026-03-22 21:28:01,890 [INFO]   Date: 2025-05-30 | Content: 3807 chars
+2026-03-22 21:28:08,867 [WARNING]   Tag issue: Unknown tag 'immigration' not in taxonomy
+2026-03-22 21:28:08,878 [INFO]   Dedup match: CTX-NEWS-2025-00190
+2026-03-22 21:28:08,880 [INFO]   Saved: CTX-NEWS-2025-00271 -> CTX-NEWS-2025-00271.json
+2026-03-22 21:28:08,880 [INFO] [65/86] Processing: Syracuse police watchdog’s new leader abruptly resigns in latest CRB mess - syracuse.com (3_22_2026 9：00：14 PM).html
+2026-03-22 21:28:09,394 [INFO] [65/86] Extracted: Syracuse police watchdog’s new leader abruptly resigns in latest CRB mess
+2026-03-22 21:28:09,394 [INFO]   URL: https://www.syracuse.com/news/2025/04/syracuse-police-watchdogs-new-leader-abrup
+2026-03-22 21:28:09,394 [INFO]   Date: 2025-04-14 | Content: 4474 chars
+2026-03-22 21:28:15,711 [INFO]   Saved: CTX-NEWS-2025-00272 -> CTX-NEWS-2025-00272.json
+2026-03-22 21:28:15,711 [INFO] [66/86] Processing: Syracuse schools make progress despite some of the lowest test scores in New York - syracuse.com (3_22_2026 9：06：04 PM).html
+2026-03-22 21:28:16,254 [INFO] [66/86] Extracted: Syracuse schools make progress despite some of the lowest test scores in New Yor
+2026-03-22 21:28:16,254 [INFO]   URL: https://www.syracuse.com/education/2025/12/syracuse-schools-make-progress-despit
+2026-03-22 21:28:16,254 [INFO]   Date: 2025-12-10 | Content: 2378 chars
+2026-03-22 21:28:21,766 [WARNING]   Tag issue: Unknown tag 'education' not in taxonomy
+2026-03-22 21:28:21,776 [INFO]   Saved: CTX-NEWS-2025-00273 -> CTX-NEWS-2025-00273.json
+2026-03-22 21:28:21,776 [INFO] [67/86] Processing: Syracuse to ask NY to cover millions feds canceled for East Adams housing - syracuse.com (3_22_2026 9：07：08 PM).html
+2026-03-22 21:28:22,282 [INFO] [67/86] Extracted: Syracuse to ask NY to cover millions feds canceled for East Adams housing
+2026-03-22 21:28:22,282 [INFO]   URL: https://www.syracuse.com/news/2025/08/syracuse-to-ask-ny-to-cover-millions-feds-
+2026-03-22 21:28:22,282 [INFO]   Date: 2025-08-26 | Content: 2796 chars
+2026-03-22 21:28:28,925 [INFO]   Saved: CTX-NEWS-2025-00274 -> CTX-NEWS-2025-00274.json
+2026-03-22 21:28:28,925 [INFO] [68/86] Processing: Syracuse to show possible changes for streets near I-81, take public feedback - syracuse.com (3_22_2026 9：08：09 PM).html
+2026-03-22 21:28:29,865 [INFO] [68/86] Extracted: Syracuse to show possible changes for streets near I-81, take public feedback
+2026-03-22 21:28:29,866 [INFO]   URL: https://www.syracuse.com/news/2025/11/syracuse-to-show-possible-changes-for-stre
+2026-03-22 21:28:29,866 [INFO]   Date: 2025-11-11 | Content: 2642 chars
+2026-03-22 21:28:35,748 [INFO]   Saved: CTX-NEWS-2025-00275 -> CTX-NEWS-2025-00275.json
+2026-03-22 21:28:35,748 [INFO] [69/86] Processing: Syracuse University appoints Coast Guard veteran as new chief of campus safety - syracuse.com (3_22_2026 9：04：57 PM).html
+2026-03-22 21:28:36,715 [INFO] [69/86] Extracted: Syracuse University appoints Coast Guard veteran as new chief of campus safety
+2026-03-22 21:28:36,715 [INFO]   URL: https://www.syracuse.com/news/2025/05/syracuse-university-appoints-coast-guard-v
+2026-03-22 21:28:36,716 [INFO]   Date: 2025-05-29 | Content: 2647 chars
+2026-03-22 21:28:42,521 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-22 21:28:42,540 [INFO]   Saved: CTX-NEWS-2025-00276 -> CTX-NEWS-2025-00276.json
+2026-03-22 21:28:42,540 [INFO] [70/86] Processing: Syracuse University will not sign Trump’s higher education compact - syracuse.com (3_22_2026 9：07：31 PM).html
+2026-03-22 21:28:43,032 [INFO] [70/86] Extracted: Syracuse University will not sign Trump’s higher education compact
+2026-03-22 21:28:43,033 [INFO]   URL: https://www.syracuse.com/syracuse-university/2025/10/syracuse-university-will-no
+2026-03-22 21:28:43,033 [INFO]   Date: 2025-10-23 | Content: 2895 chars
+2026-03-22 21:28:48,519 [INFO]   Saved: CTX-NEWS-2025-00277 -> CTX-NEWS-2025-00277.json
+2026-03-22 21:28:48,519 [INFO] [71/86] Processing: Syracuse-area home building slumps when it needs to grow. Why are we stuck？ - syracuse.com (3_22_2026 9：02：00 PM).html
+2026-03-22 21:28:49,060 [INFO] [71/86] Extracted: Syracuse-area home building slumps when it needs to grow. Why are we stuck?
+2026-03-22 21:28:49,060 [INFO]   URL: https://www.syracuse.com/news/2025/10/as-demand-soars-housing-development-slumps
+2026-03-22 21:28:49,060 [INFO]   Date: 2025-10-20 | Content: 9924 chars
+2026-03-22 21:28:57,238 [INFO]   Dedup match: CTX-NEWS-2025-00250
+2026-03-22 21:28:57,240 [INFO]   Saved: CTX-NEWS-2025-00278 -> CTX-NEWS-2025-00278.json
+2026-03-22 21:28:57,240 [INFO] [72/86] Processing: Syracuse’s cheap municipal internet service now available in more neighborhoods - syracuse.com (3_22_2026 9：10：29 PM).html
+2026-03-22 21:28:57,759 [INFO] [72/86] Extracted: Syracuse’s cheap municipal internet service now available in more neighborhoods
+2026-03-22 21:28:57,759 [INFO]   URL: https://www.syracuse.com/news/2025/07/syracuses-cheap-municipal-internet-service
+2026-03-22 21:28:57,759 [INFO]   Date: 2025-07-10 | Content: 3543 chars
+2026-03-22 21:29:04,890 [INFO]   Saved: CTX-NEWS-2025-00279 -> CTX-NEWS-2025-00279.json
+2026-03-22 21:29:04,891 [INFO] [73/86] Processing: Syracuse’s Columbus statue will outlast Ben Walsh, who promised 5 years ago to remove it - syracuse.com (3_22_2026 9：06：32 PM).html
+2026-03-22 21:29:05,392 [INFO] [73/86] Extracted: Syracuse’s Columbus statue will outlast Ben Walsh, who promised 5 years ago to r
+2026-03-22 21:29:05,393 [INFO]   URL: https://www.syracuse.com/news/2025/10/syracuses-columbus-statue-will-outlast-ben
+2026-03-22 21:29:05,393 [INFO]   Date: 2025-10-09 | Content: 8178 chars
+2026-03-22 21:29:12,015 [INFO]   Saved: CTX-NEWS-2025-00280 -> CTX-NEWS-2025-00280.json
+2026-03-22 21:29:12,015 [INFO] [74/86] Processing: Syracuse’s water pipe woes： It’s going to take twice as long to replace lead lines, city admits - syracuse.com (3_22_2026 9：06：39 PM).html
+2026-03-22 21:29:12,548 [INFO] [74/86] Extracted: Syracuse’s water pipe woes: It’s going to take twice as long to replace lead lin
+2026-03-22 21:29:12,548 [INFO]   URL: https://www.syracuse.com/health/2025/12/syracuses-water-pipe-woes-its-going-to-t
+2026-03-22 21:29:12,548 [INFO]   Date: 2025-12-17 | Content: 10000 chars
+2026-03-22 21:29:18,713 [INFO]   Saved: CTX-NEWS-2025-00281 -> CTX-NEWS-2025-00281.json
+2026-03-22 21:29:18,713 [INFO] [75/86] Processing: Taking back $30 million I-81 neighborhood grant is ‘morally indefensible’ (Your Letters) - syracuse.com (3_22_2026 9：00：29 PM).html
+2026-03-22 21:29:19,250 [INFO] [75/86] Extracted: Taking back $30 million I-81 neighborhood grant is ‘morally indefensible’ (Your 
+2026-03-22 21:29:19,250 [INFO]   URL: https://www.syracuse.com/opinion/2025/05/taking-back-30-million-i-81-neighborhoo
+2026-03-22 21:29:19,250 [INFO]   Date: 2025-05-29 | Content: 2195 chars
+2026-03-22 21:29:24,206 [WARNING]   Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-03-22 21:29:24,220 [INFO]   Saved: CTX-NEWS-2025-00282 -> CTX-NEWS-2025-00282.json
+2026-03-22 21:29:24,220 [INFO] [76/86] Processing: Teen charged in killing at Syracuse pool was on probation at the time of the shooting - syracuse.com (3_22_2026 9：10：34 PM).html
+2026-03-22 21:29:25,268 [INFO] [76/86] Extracted: Teen charged in killing at Syracuse pool was on probation at the time of the sho
+2026-03-22 21:29:25,268 [INFO]   URL: https://www.syracuse.com/crime/2025/07/teen-charged-in-killing-at-syracuse-pool-
+2026-03-22 21:29:25,268 [INFO]   Date: 2025-07-10 | Content: 1789 chars
+2026-03-22 21:29:29,726 [INFO]   Saved: CTX-NEWS-2025-00283 -> CTX-NEWS-2025-00283.json
+2026-03-22 21:29:29,726 [INFO] [77/86] Processing: Trump administration revokes visas of 3 Syracuse University students without warning - syracuse.com (3_22_2026 9：02：26 PM).html
+2026-03-22 21:29:30,263 [INFO] [77/86] Extracted: Trump administration revokes visas of 3 Syracuse University students without war
+2026-03-22 21:29:30,263 [INFO]   URL: https://www.syracuse.com/politics/cny/2025/04/trump-administration-revokes-visas
+2026-03-22 21:29:30,263 [INFO]   Date: 2025-04-23 | Content: 4318 chars
+2026-03-22 21:29:36,169 [INFO]   Saved: CTX-NEWS-2025-00284 -> CTX-NEWS-2025-00284.json
+2026-03-22 21:29:36,169 [INFO] [78/86] Processing: Trump administration sues New York City over ‘sanctuary city’ policies - syracuse.com (3_22_2026 9：00：31 PM).html
+2026-03-22 21:29:36,994 [INFO] [78/86] Extracted: Trump administration sues New York City over ‘sanctuary city’ policies
+2026-03-22 21:29:36,994 [INFO]   URL: https://www.syracuse.com/state/2025/07/trump-administration-sues-new-york-city-o
+2026-03-22 21:29:36,994 [INFO]   Date: 2025-07-25 | Content: 3739 chars
+2026-03-22 21:29:42,547 [INFO]   Saved: CTX-NEWS-2025-00285 -> CTX-NEWS-2025-00285.json
+2026-03-22 21:29:42,547 [INFO] [79/86] Processing: Trump targets sanctuary cities： ‘We’re going to flood the zone,’ border czar says - syracuse.com (3_22_2026 9：00：47 PM).html
+2026-03-22 21:29:43,523 [INFO] [79/86] Extracted: Trump targets sanctuary cities: ‘We’re going to flood the zone,’ border czar say
+2026-03-22 21:29:43,523 [INFO]   URL: https://www.syracuse.com/politics/2025/07/trump-targets-sanctuary-cities-were-go
+2026-03-22 21:29:43,523 [INFO]   Date: 2025-07-23 | Content: 3181 chars
+2026-03-22 21:29:48,967 [INFO]   Dedup match: CTX-NEWS-2025-00085
+2026-03-22 21:29:48,969 [INFO]   Saved: CTX-NEWS-2025-00286 -> CTX-NEWS-2025-00286.json
+2026-03-22 21:29:48,969 [INFO] [80/86] Processing: Update： Lawmakers withdraw proposal to delay fines for speeding in Syracuse school zones - syracuse.com (3_22_2026 9：03：34 PM).html
+2026-03-22 21:29:49,908 [INFO] [80/86] Extracted: Update: Lawmakers withdraw proposal to delay fines for speeding in Syracuse scho
+2026-03-22 21:29:49,908 [INFO]   URL: https://www.syracuse.com/news/2025/10/2-syracuse-lawmakers-want-to-delay-fines-f
+2026-03-22 21:29:49,908 [INFO]   Date: 2025-10-27 | Content: 2521 chars
+2026-03-22 21:29:55,529 [WARNING]   Tag issue: Unknown tag 'traffic-enforcement' not in taxonomy
+2026-03-22 21:29:55,530 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-22 21:29:55,543 [INFO]   Dedup match: CTX-NEWS-2025-00267
+2026-03-22 21:29:55,546 [INFO]   Saved: CTX-NEWS-2025-00287 -> CTX-NEWS-2025-00287.json
+2026-03-22 21:29:55,546 [INFO] [81/86] Processing: Update： ‘Suspicious’ box strapped to tree near Syracuse City Hall belongs to state DOT (photo) - syracuse.com (3_22_2026 9：10：45 PM).html
+2026-03-22 21:29:56,576 [INFO] [81/86] Extracted: Update: ‘Suspicious’ box strapped to tree near Syracuse City Hall belongs to sta
+2026-03-22 21:29:56,576 [INFO]   URL: https://www.syracuse.com/crime/2025/09/syracuse-city-hall-evacuated-after-suspic
+2026-03-22 21:29:56,576 [INFO]   Date: 2025-09-29 | Content: 2469 chars
+2026-03-22 21:30:00,881 [INFO]   Dedup match: CTX-NEWS-2025-00127
+2026-03-22 21:30:00,883 [INFO]   Saved: CTX-NEWS-2025-00288 -> CTX-NEWS-2025-00288.json
+2026-03-22 21:30:00,883 [INFO] [82/86] Processing: Walsh administration pushes to start biggest Syracuse housing development in decades - syracuse.com (3_22_2026 8：58：21 PM).html
+2026-03-22 21:30:01,401 [INFO] [82/86] Extracted: Walsh administration pushes to start biggest Syracuse housing development in dec
+2026-03-22 21:30:01,401 [INFO]   URL: https://www.syracuse.com/news/2025/10/walsh-administration-pushes-to-start-bigge
+2026-03-22 21:30:01,402 [INFO]   Date: 2025-10-08 | Content: 6504 chars
+2026-03-22 21:30:08,444 [INFO]   Dedup match: CTX-NEWS-2025-00135
+2026-03-22 21:30:08,447 [INFO]   Saved: CTX-NEWS-2025-00289 -> CTX-NEWS-2025-00289.json
+2026-03-22 21:30:08,447 [INFO] [83/86] Processing: Whole community must step up to care for homeless individuals (Your Letters) - syracuse.com (3_22_2026 9：08：34 PM).html
+2026-03-22 21:30:08,975 [INFO] [83/86] Extracted: Whole community must step up to care for homeless individuals (Your Letters)
+2026-03-22 21:30:08,975 [INFO]   URL: https://www.syracuse.com/opinion/2025/08/whole-community-must-step-up-to-care-fo
+2026-03-22 21:30:08,975 [INFO]   Date: 2025-08-04 | Content: 2023 chars
+2026-03-22 21:30:13,776 [WARNING]   Tag issue: Unknown tag 'constituent_complaints' not in taxonomy
+2026-03-22 21:30:13,790 [INFO]   Saved: CTX-NEWS-2025-00290 -> CTX-NEWS-2025-00290.json
+2026-03-22 21:30:13,790 [INFO] [84/86] Processing: With a party-line vote, Onondaga County lawmakers adopt 2026 budget - syracuse.com (3_22_2026 9：00：45 PM).html
+2026-03-22 21:30:14,315 [INFO] [84/86] Extracted: With a party-line vote, Onondaga County lawmakers adopt 2026 budget
+2026-03-22 21:30:14,315 [INFO]   URL: https://www.syracuse.com/news/2025/10/with-a-party-line-vote-onondaga-county-law
+2026-03-22 21:30:14,315 [INFO]   Date: 2025-10-14 | Content: 3634 chars
+2026-03-22 21:30:21,470 [INFO]   Saved: CTX-NEWS-2025-00291 -> CTX-NEWS-2025-00291.json
+2026-03-22 21:30:21,470 [INFO] [85/86] Processing: ‘Draconian and dangerous’： Syracuse mayor blasts councilors for $16M in budget cuts - syracuse.com (3_22_2026 8：58：01 PM).html
+2026-03-22 21:30:22,475 [INFO] [85/86] Extracted: ‘Draconian and dangerous’: Syracuse mayor blasts councilors for $16M in budget c
+2026-03-22 21:30:22,475 [INFO]   URL: https://www.syracuse.com/news/2025/05/draconian-and-dangerous-syracuse-mayor-bla
+2026-03-22 21:30:22,475 [INFO]   Date: 2025-05-08 | Content: 1815 chars
+2026-03-22 21:30:27,378 [WARNING]   Tag issue: Unknown tag 'political_conflict' not in taxonomy
+2026-03-22 21:30:27,388 [INFO]   Dedup match: CTX-NEWS-2025-00026
+2026-03-22 21:30:27,390 [INFO]   Saved: CTX-NEWS-2025-00292 -> CTX-NEWS-2025-00292.json
+2026-03-22 21:30:27,390 [INFO] [86/86] Processing: ‘Suspicious’ box strapped to tree near City Hall is a state noise monitor for I-81 project - syracuse.com (3_22_2026 9：07：20 PM).html
+2026-03-22 21:30:27,987 [INFO] [86/86] Extracted: ‘Suspicious’ box strapped to tree near City Hall is a state noise monitor for I-
+2026-03-22 21:30:27,987 [INFO]   URL: https://www.syracuse.com/news/2025/09/suspicious-box-strapped-to-tree-near-city-
+2026-03-22 21:30:27,987 [INFO]   Date: 2025-09-29 | Content: 2987 chars
+2026-03-22 21:30:33,803 [INFO]   Dedup match: CTX-NEWS-2025-00127
+2026-03-22 21:30:33,805 [INFO]   Saved: CTX-NEWS-2025-00293 -> CTX-NEWS-2025-00293.json
+2026-03-22 21:30:33,806 [INFO] SingleFile Importer — 2026-03-22 21:30
+==================================================
+HTML files found: 86
+Already processed: 0
+Attempted this run: 86
+Could not extract: 1
+Filtered (not relevant): 0
+Saved as records: 85
+Errors: 0
+
+New records:
+  * 15th Ward should be in the conversation about Public Safety Building r (2025-10-28)
+  * 60,000 drivers sped through Syracuse’s school zones last month (2025-10-02)
+  * 75 apartments proposed for historic Syracuse building near I-81. See r (2025-07-29)
+  * A fence? Or a cage? Syracuse pens off street to contain trouble near h (2025-06-05)
+  * A lame-duck Syracuse councilor’s proposal angers historic preservation (2025-11-11)
+  * Ben Walsh sweated Syracuse’s small stuff. He leaves behind a trail of  (2025-12-16)
+  * Biggest Syracuse housing development in decades needs a new partner af (2025-11-17)
+  * Calvin Corriders steps down as president of Syracuse Housing Authority (2025-10-16)
+  * City audit finds major flaws in Syracuse’s sidewalk dining permits, re (2025-11-06)
+  * City council clears the way for major housing development near Syracus (2025-10-27)
+  * City Hall: Syracuse community comes together to reduce crime -- and it (2025-08-21)
+  * Company news: Deka Eysaman to lead South Side Community Growth Foundat (2025-10-08)
+  * Concrete plant proposal near $100 million Syracuse aquarium draws McMa (2025-10-27)
+  * Crime is dropping fast in Syracuse. Police chief says it’s a snowball  (2025-08-14)
+  * Days after budget fight, Moody’s says Syracuse’s creditworthiness rema (2025-06-03)
+  * Developer shrinks Syracuse apartment project near I-81 for second time (2025-04-11)
+  * Did Syracuse get all the IT work it paid millions for? Outside report  (2025-06-12)
+  * Did Syracuse get all the IT work it paid millions for? Outside report  (2025-06-12)
+  * Fines for speeding in Syracuse school zones start next week, but not a (2025-10-28)
+  * Fire damages vacant apartment building on Syracuse’s South Side (2025-10-16)
+  * Former Sears store on Syracuse’s South Side to be turned into semicond (2025-03-28)
+  * Former Syracuse vocational school could be demolished for 138-unit apa (2025-08-27)
+  * Hogan: Council, not appointed board, should have final say on historic (2025-11-18)
+  * House GOP bill punishes Syracuse, other ‘sanctuary cities’ by closing  (2025-06-12)
+  * House GOP’s ‘big beautiful bill’ cancels millions for Syracuse to revi (2025-05-30)
+  * How owner Mark Congel lost control of historic Syracuse convent before (2025-04-07)
+  * It’s a ‘race to the finish,’ but Syracuse STEAM school will open in Se (2025-07-21)
+  * Le Moyne College extends president’s contract (2025-10-21)
+  * Man tased by Syracuse police in convenience store arrest; they say he  (2025-04-21)
+  * Mayor, Congressman, others praise retiring Syracuse superintendent in  (2025-10-09)
+  * McMahon’s 2026 Onondaga County budget includes tax rate cut, new polic (2025-09-15)
+  * Mets play Billy Joel’s ‘We Didn’t Start the Fire’ as brush burns. Turn (2025-07-25)
+  * Micron gets ready to make its most visible move yet in Central NY (2025-07-28)
+  * Micron impact: Syracuse area will grow ‘as fast as any place in the co (2025-08-01)
+  * Onondaga County hosting lead safety events this week for families, lan (2025-10-20)
+  * Onondaga County plans to open a downtown drop-in center for city’s hom (2025-06-23)
+  * Pioneer Homes residents get early chance to avoid noisy I-81 construct (2025-10-15)
+  * Police presence will increase at Syracuse pools after fatal shooting i (2025-06-25)
+  * Police union leader should lower the heat after combative Armory Squar (2025-07-27)
+  * Police warn Syracuse businesses of fraudulent zoning invoice scam (2025-10-24)
+  * Ryan McMahon cites a ‘pipeline’ of housing projects, but it’s filled w (2025-10-20)
+  * School zone speeding fines raise concerns about equity, spending prior (2025-11-29)
+  * Senate OKs Trump’s plan to cancel millions for new Syracuse neighborho (2025-07-02)
+  * Should police chase stolen cars? Two Central NY departments set opposi (2025-04-15)
+  * Slow down or else! See where cameras will soon catch speeders near Syr (2025-07-31)
+  * Some CNY towns could run out of water this weekend, county warns (2025-12-23)
+  * Surprise move leaves Syracuse Housing Authority with new role in East  (2025-07-01)
+  * Syracuse auditor: City’s ‘lifeless’ wage ordinance needs a serious ove (2025-03-31)
+  * Syracuse basketball finalizing deal to hire Gerry McNamara as next hea (2026-03-22)
+  * Syracuse chief defends officers hitting man during arrest, but says so (2025-04-10)
+  * Syracuse Common Council lacks courage to fix unfair assessments (Edito (2025-05-11)
+  * Syracuse Common Council pushes proposal to build battery storage near  (2025-12-23)
+  * Syracuse Common Council wants residents’ opinions on using drones for  (2025-09-02)
+  * Syracuse considers offering amnesty for late fees on unpaid parking ti (2025-10-25)
+  * Syracuse contractor donates $40,000 A/C overhaul so Mary Nelson’s cent (2025-07-30)
+  * Syracuse Finest no match for the Bravest in police vs. fire basketball (2025-05-24)
+  * Syracuse has a buyer for shuttered fire station, but councilors have q (2025-06-04)
+  * Syracuse lawmakers approve sale of former fire station where apartment (2025-09-02)
+  * Syracuse lawmakers finally endorse city’s plan to eliminate traffic fa (2025-10-28)
+  * Syracuse lawmakers OK settlement in case of drunk driver hitting recyc (2025-09-15)
+  * Syracuse lawmakers ‘disappointed’ with Walsh’s proposed tax hike, budg (2025-04-10)
+  * Syracuse Mayor Walsh ready to accept some budget cuts; council leader  (2025-05-15)
+  * Syracuse on Trump administration list of ‘sanctuary jurisdictions’ (2025-05-30)
+  * Syracuse police watchdog’s new leader abruptly resigns in latest CRB m (2025-04-14)
+  * Syracuse schools make progress despite some of the lowest test scores  (2025-12-10)
+  * Syracuse to ask NY to cover millions feds canceled for East Adams hous (2025-08-26)
+  * Syracuse to show possible changes for streets near I-81, take public f (2025-11-11)
+  * Syracuse University appoints Coast Guard veteran as new chief of campu (2025-05-29)
+  * Syracuse University will not sign Trump’s higher education compact (2025-10-23)
+  * Syracuse-area home building slumps when it needs to grow. Why are we s (2025-10-20)
+  * Syracuse’s cheap municipal internet service now available in more neig (2025-07-10)
+  * Syracuse’s Columbus statue will outlast Ben Walsh, who promised 5 year (2025-10-09)
+  * Syracuse’s water pipe woes: It’s going to take twice as long to replac (2025-12-17)
+  * Taking back $30 million I-81 neighborhood grant is ‘morally indefensib (2025-05-29)
+  * Teen charged in killing at Syracuse pool was on probation at the time  (2025-07-10)
+  * Trump administration revokes visas of 3 Syracuse University students w (2025-04-23)
+  * Trump administration sues New York City over ‘sanctuary city’ policies (2025-07-25)
+  * Trump targets sanctuary cities: ‘We’re going to flood the zone,’ borde (2025-07-23)
+  * Update: Lawmakers withdraw proposal to delay fines for speeding in Syr (2025-10-27)
+  * Update: ‘Suspicious’ box strapped to tree near Syracuse City Hall belo (2025-09-29)
+  * Walsh administration pushes to start biggest Syracuse housing developm (2025-10-08)
+  * Whole community must step up to care for homeless individuals (Your Le (2025-08-04)
+  * With a party-line vote, Onondaga County lawmakers adopt 2026 budget (2025-10-14)
+  * ‘Draconian and dangerous’: Syracuse mayor blasts councilors for $16M i (2025-05-08)
+  * ‘Suspicious’ box strapped to tree near City Hall is a state noise moni (2025-09-29)
+

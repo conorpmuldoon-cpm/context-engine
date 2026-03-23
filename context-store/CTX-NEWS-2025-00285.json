@@ -1,0 +1,82 @@
+{
+  "record_id": "CTX-NEWS-2025-00285",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/state/2025/07/trump-administration-sues-new-york-city-over-sanctuary-city-policies.html",
+  "publication_date": "2025-07-25",
+  "capture_date": "2026-03-22T21:29:42Z",
+  "title": "Trump administration sues New York City over ‘sanctuary city’ policies",
+  "summary": "The Trump administration filed a federal lawsuit against New York City challenging its sanctuary city policies, arguing they obstruct immigration enforcement. The suit names Mayor Eric Adams, Police Commissioner Jessica Tisch, and other officials, citing policies that prevent local law enforcement from honoring federal immigration detainers. This action is part of a broader DOJ strategy targeting sanctuary policies nationwide and has direct implications for NYC's intergovernmental relations and public safety coordination.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "intergovernmental",
+    "federal-programs",
+    "policy-change",
+    "investigation",
+    "public-safety-commission",
+    "PROVISIONAL:sanctuary-policy",
+    "PROVISIONAL:immigration-enforcement",
+    "escalating"
+  ],
+  "department_refs": [
+    "Law Department",
+    "Police Department",
+    "Mayor's Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Pamela Bondi",
+      "type": "person",
+      "canonical_id": "PERSON-PAMELA-BONDI"
+    },
+    {
+      "name": "Eric Adams",
+      "type": "person",
+      "canonical_id": "PERSON-ERIC-ADAMS"
+    },
+    {
+      "name": "Jessica Tisch",
+      "type": "person",
+      "canonical_id": "PERSON-JESSICA-TISCH"
+    },
+    {
+      "name": "Donna Lieberman",
+      "type": "person",
+      "canonical_id": "PERSON-DONNA-LIEBERMAN"
+    },
+    {
+      "name": "Trump Administration",
+      "type": "organization",
+      "canonical_id": "ORG-US-DOJ"
+    },
+    {
+      "name": "New York Civil Liberties Union",
+      "type": "organization",
+      "canonical_id": "ORG-NYCLU"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Federal legal challenge to local sanctuary policies; heightened executive scrutiny of NYC immigration enforcement practices; potential operational constraints on police-federal cooperation",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article dated 2025-07-25 but contains recommended items dated 2026 (data inconsistency)",
+    "No direct Syracuse reference; included for statewide/regional policy implications",
+    "Mayor's office response indicates internal tension between executive and City Council on policy reexamination",
+    "Lawsuit cites constitutional supremacy clause and federal law conflict—legal and compliance risk for NY municipalities",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

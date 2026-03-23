@@ -1,0 +1,92 @@
+{
+  "record_id": "CTX-NEWS-2025-00230",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/03/former-sears-store-on-syracuses-south-side-to-be-turned-into-semiconductor-workforce-training-center.html",
+  "publication_date": "2025-03-28",
+  "capture_date": "2026-03-22T21:23:36Z",
+  "title": "Former Sears store on Syracuse’s South Side to be turned into semiconductor workforce training center",
+  "summary": "New York State is investing $8.5 million to transform the vacant 1929 art deco Sears building at 1300 S. Salina Street into the ON-RAMP Workforce Innovation Hub, a semiconductor and advanced manufacturing training center anchored by Micron Technology's $100 billion regional commitment. The hub, part of a $200 million statewide initiative, will address workforce development barriers and support Syracuse's South Side economic revitalization alongside nearby manufacturing and community health investments.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "workforce-development",
+    "training",
+    "initiative-launch",
+    "state-agency",
+    "state-programs",
+    "grants",
+    "historic-preservation",
+    "neighborhood-services",
+    "business-community",
+    "equity"
+  ],
+  "department_refs": [
+    "Office of the Chief Innovation Officer",
+    "Department of Permits and Development",
+    "Department of Economic Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Governor Kathy Hochul",
+      "type": "person",
+      "canonical_id": "PERSON-KATHY-HOCHUL"
+    },
+    {
+      "name": "Micron Technology Inc.",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "JMA Wireless",
+      "type": "organization",
+      "canonical_id": "ORG-JMA-WIRELESS"
+    },
+    {
+      "name": "Syracuse Community Health Center",
+      "type": "organization",
+      "canonical_id": "ORG-SCHC"
+    },
+    {
+      "name": "CenterState CEO",
+      "type": "organization",
+      "canonical_id": "ORG-CENTERSTATE-CEO"
+    },
+    {
+      "name": "Empire State Development",
+      "type": "organization",
+      "canonical_id": "ORG-ESD"
+    },
+    {
+      "name": "Northland Workforce Development Training Center",
+      "type": "organization",
+      "canonical_id": "ORG-NORTHLAND-WDC"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "State-level championship of upstate revitalization and advanced manufacturing workforce development; framed as addressing generational disinvestment in South Side neighborhoods; aligns with broader I-90 corridor advanced manufacturing strategy anchored by major corporate commitment.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts validated: $8.5M (hub funding), $100B (Micron commitment), $22.5M (health center), $200M (broader ON-RAMP initiative)",
+    "Historic preservation angle significant: 1929 art deco landmark reuse after 51-year vacancy",
+    "Geographic cluster: South Salina Street corridor showing signs of revitalization (JMA 2022, health center, mixed-use Salina 1st project)",
+    "Implementation note: Staff temporarily housed at CenterState CEO downtown while site redeveloped",
+    "Recommend cross-reference with: Micron incentive package, I-90 corridor planning, CenterState CEO partnership agreements, local zoning/permitting for adaptive reuse",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'state-programs' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

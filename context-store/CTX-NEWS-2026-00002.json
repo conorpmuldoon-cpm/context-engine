@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-NEWS-2026-00002",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangebasketball/2026/03/syracuse-basketball-finalizing-deal-to-hire-gerry-mcnamara-as-next-head-coach.html",
+  "publication_date": "2026-03-22",
+  "capture_date": "2026-03-22T21:26:30Z",
+  "title": "Syracuse basketball finalizing deal to hire Gerry McNamara as next head coach",
+  "summary": "Syracuse University is finalizing a deal to hire Gerry McNamara as head coach of its basketball program. McNamara, a Syracuse alumnus and 2003 NCAA championship player, comes from a successful tenure at Siena College and will inherit a program that has missed the NCAA Tournament for five consecutive years. University leadership has committed to increased funding to restore competitiveness within the ACC.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:athletics",
+    "PROVISIONAL:coaching-hire",
+    "leadership-change",
+    "economic-development",
+    "business-community"
+  ],
+  "department_refs": [
+    "Syracuse University Athletics Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Gerry McNamara",
+      "type": "person",
+      "canonical_id": "PERSON-GERRY-MCNAMARA"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIVERSITY"
+    },
+    {
+      "name": "Bryan Blair",
+      "type": "person",
+      "canonical_id": "PERSON-BRYAN-BLAIR"
+    },
+    {
+      "name": "Siena College",
+      "type": "organization",
+      "canonical_id": "ORG-SIENA-COLLEGE"
+    },
+    {
+      "name": "Adrian Autry",
+      "type": "person",
+      "canonical_id": "PERSON-ADRIAN-AUTRY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "University leadership signal renewed commitment to athletics program through funding pledges and recruitment of beloved local figure to restore institutional prestige and community engagement.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is sports/athletics focused; limited direct CIO relevance unless connected to facilities management (JMA Wireless Dome), digital engagement, or institutional communications strategy",
+    "Mechanical extraction flagged 'Syracuse Fire Department' in error—no fire department content present",
+    "This article may be relevant for economic-development/business-community impact analysis given attendance/revenue implications mentioned",
+    "No city government decision-making or policy content; primarily institutional university news",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

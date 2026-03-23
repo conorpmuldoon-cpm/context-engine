@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-NEWS-2025-00241",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/07/mets-play-billy-joels-we-didnt-start-the-fire-as-brush-burns-turns-out-they-did-start-the-fire.html",
+  "publication_date": "2025-07-25",
+  "capture_date": "2026-03-22T21:24:40Z",
+  "title": "Mets play Billy Joel’s ‘We Didn’t Start the Fire’ as brush burns. Turns out they did start the fire",
+  "summary": "A brush fire was ignited by fireworks at NBT Bank Stadium on July 24, 2025, after a Syracuse Mets game. The fire was quickly extinguished by the Syracuse Fire Department with no injuries or property damage. This was the third fire incident in approximately 300 fireworks shows over 12 years, occurring during an unusually hot and dry July.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "fire",
+    "emergency-services",
+    "one-time",
+    "resolved",
+    "facilities",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Mets",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-METS"
+    },
+    {
+      "name": "NBT Bank Stadium",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Jason Smorol",
+      "type": "person",
+      "canonical_id": "PERSON-JASON-SMOROL"
+    },
+    {
+      "name": "Northeast Regional Climate Center",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is dated July 25, 2025 but references July 24, 2025 event—dates are internally consistent",
+    "No CIO-specific policy implications identified; primarily a public safety incident report",
+    "Climate data point (dry conditions) may be relevant to sustainability/climate resilience planning",
+    "Venue is private entity (Mets organization), not direct city infrastructure, but city fire services were deployed",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

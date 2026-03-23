@@ -1,0 +1,85 @@
+{
+  "record_id": "CTX-NEWS-2025-00216",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/realestate-news/2025/11/biggest-syracuse-housing-development-in-decades-needs-a-new-partner-after-land-owner-pulls-out.html",
+  "publication_date": "2025-11-17",
+  "capture_date": "2026-03-22T21:22:02Z",
+  "title": "Biggest Syracuse housing development in decades needs a new partner after land owner pulls out",
+  "summary": "A major housing development (LaFayette Hills Estates) planned for a 168-acre former golf course site in Syracuse to support Micron Technology's incoming workforce faces delays after the land owner (B3R Investments) withdrew from the development agreement to pursue a land flip. Developer Kassie Smith is seeking a new investment partner to keep the project on track for spring 2026 construction. This represents a significant economic development and housing supply challenge as Micron begins site work on its semiconductor plant.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "housing",
+    "land-use",
+    "zoning",
+    "permitting",
+    "business-community",
+    "workforce-development",
+    "PROVISIONAL:real-estate-partnership",
+    "PROVISIONAL:housing-shortage"
+  ],
+  "department_refs": [
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Kassie Smith",
+      "type": "person",
+      "canonical_id": "PERSON-KASSIE-SMITH"
+    },
+    {
+      "name": "KS Global Development",
+      "type": "organization",
+      "canonical_id": "ORG-KS-GLOBAL-DEV"
+    },
+    {
+      "name": "B3R Investments",
+      "type": "organization",
+      "canonical_id": "ORG-B3R-INVESTMENTS"
+    },
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Syracuse Planning Commission",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Housing development critical to Micron workforce recruitment faces partnership disruption. County has parallel ShoppingTown redevelopment stalled. Signals broader housing supply crisis despite major employer commitment.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00205"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts extracted ($11M asking price, $3.2M prior purchase, $350K-$475K references incomplete in truncated article) appear insufficiently contextualized",
+    "Article date shows November 2025 (future date from training perspective—may indicate test/hypothetical content)",
+    "Parallel ShoppingTown Mall redevelopment failure mentioned; recommend cross-referencing for portfolio risk assessment",
+    "County-level economic development strategy vulnerability: two major projects stalled mid-execution",
+    "CIO relevance: potential digital infrastructure/permitting system friction points in development approval workflow",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-NEWS-2025-00205"
+  ],
+  "last_relevance_update": null
+}

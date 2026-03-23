@@ -1,0 +1,78 @@
+{
+  "record_id": "CTX-NEWS-2025-00245",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/06/onondaga-county-plans-to-open-a-downtown-drop-in-center-for-citys-homeless.html",
+  "publication_date": "2025-06-23",
+  "capture_date": "2026-03-22T21:25:07Z",
+  "title": "Onondaga County plans to open a downtown drop-in center for city’s homeless",
+  "summary": "Onondaga County plans to open a daytime drop-in center in downtown Syracuse by August 2025, funded by opioid settlement proceeds, to serve 30-50 homeless individuals daily. The center will offer security, mental health support, drug treatment, fentanyl testing, hygiene facilities, and food—designed to address street-level behavioral issues near the Rescue Mission while supporting downtown revitalization efforts.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "equity",
+    "initiative-launch",
+    "federal-programs",
+    "business-community",
+    "intergovernmental",
+    "public-safety-commission",
+    "PROVISIONAL:homelessness-services",
+    "PROVISIONAL:behavioral-health",
+    "PROVISIONAL:substance-abuse-intervention"
+  ],
+  "department_refs": [
+    "Onondaga County Department of Health"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ann Rooney",
+      "type": "person",
+      "canonical_id": "PERSON-ANN-ROONEY"
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    },
+    {
+      "name": "Rescue Mission",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Allyn Foundation",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Salt City Market",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "County executive leadership demonstrating commitment to dual-mandate solution: addressing homelessness and street-level public safety while enabling downtown economic development. Uses opioid settlement funds, indicating budget commitment and state mandates alignment.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article authored by county/state reporter; no explicit CIO/digital infrastructure angle detected but facility planning and multi-agency coordination may involve data systems",
+    "Location finalization pending—relevant for GIS/facilities infrastructure planning",
+    "August 2025 deadline suggests implementation phase requiring potential IT systems (intake, case management, security access control)",
+    "No mechanical extraction of budget figure; opioid settlement funding source mentioned but amount unspecified",
+    "Dickerson Street fencing closure mentioned as prior intervention; may represent prior capital project records",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

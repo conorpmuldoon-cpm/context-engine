@@ -1,0 +1,86 @@
+{
+  "record_id": "CTX-NEWS-2025-00265",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/06/syracuse-has-a-buyer-for-shuttered-fire-station-but-councilors-have-questions.html",
+  "publication_date": "2025-06-04",
+  "capture_date": "2026-03-22T21:27:26Z",
+  "title": "Syracuse has a buyer for shuttered fire station, but councilors have questions",
+  "summary": "Mayor Walsh's administration proposed selling shuttered Fire Station 7 to JF Real Estate for $900,000 to fund a mixed-use redevelopment (4 apartments + restaurant). City councilors expressed concerns about fire protection gaps on the Near East Side, where population has surged due to student housing development. Fire Chief Monds indicated the building is structurally unsuitable for operations but the department plans to reopen Station 12 (July 2025) and pursue a new station on University Avenue as long-term solutions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "fire",
+    "economic-development",
+    "facilities",
+    "capital-planning",
+    "housing",
+    "land-use",
+    "budget",
+    "emergency-services",
+    "infrastructure",
+    "council",
+    "procurement",
+    "PROVISIONAL:community-development-corridor"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Michael Monds",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-MONDS"
+    },
+    {
+      "name": "Matt Oja",
+      "type": "person",
+      "canonical_id": "PERSON-MATT-OJA"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "JF Real Estate",
+      "type": "organization",
+      "canonical_id": "ORG-JF-REALESTATE"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council members expressing skepticism and concern about fire protection adequacy; tension between economic development goals and public safety priorities. Councilors also signaled procedural concerns about early press release prior to formal approval.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references Interstate 81 viaduct removal as related infrastructure context; Community Grid corridor development is relevant to broader CIO initiatives",
+    "Budget constraint noted: $2.4M cut from SFD proposal by council; fire station replacement program identified as unfunded need",
+    "Grant application (2023) for Station 7 reopening failed; may indicate federal/state funding gaps worth tracking",
+    "Real estate valuation: $900K sale price vs. $2.5M redevelopment project—tax revenue recovery noted as departmental win",
+    "Station closure date: 2013 (12 years dormant); Station 12 reopening July 2025 indicates reactive capacity response",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

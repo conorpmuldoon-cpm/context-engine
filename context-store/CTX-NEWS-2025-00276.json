@@ -1,0 +1,79 @@
+{
+  "record_id": "CTX-NEWS-2025-00276",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/05/syracuse-university-appoints-coast-guard-veteran-as-new-chief-of-campus-safety.html",
+  "publication_date": "2025-05-29",
+  "capture_date": "2026-03-22T21:28:42Z",
+  "title": "Syracuse University appoints Coast Guard veteran as new chief of campus safety",
+  "summary": "Syracuse University appointed Michael J. Bunker, a U.S. Coast Guard veteran and experienced campus safety leader, as its new chief of campus safety and emergency services management, effective July 1, 2025. Bunker brings innovation in safety practices including mental health response teams, body cameras, and AI-enhanced security systems from his tenure at the University of Denver. His appointment represents a leadership transition as predecessor Craig Stone retires after 40 years in law enforcement.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "emergency-services",
+    "public-safety",
+    "hiring",
+    "PROVISIONAL:campus-safety",
+    "PROVISIONAL:higher-education-partnership"
+  ],
+  "department_refs": [
+    "Syracuse University Campus Safety and Emergency Services Management"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael J. Bunker",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-BUNKER"
+    },
+    {
+      "name": "Craig Stone",
+      "type": "person",
+      "canonical_id": "PERSON-CRAIG-STONE"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIVERSITY"
+    },
+    {
+      "name": "University of Denver",
+      "type": "organization",
+      "canonical_id": "ORG-UNIVERSITY-OF-DENVER"
+    },
+    {
+      "name": "Georgetown University",
+      "type": "organization",
+      "canonical_id": "ORG-GEORGETOWN-UNIVERSITY"
+    },
+    {
+      "name": "U.S. Coast Guard",
+      "type": "organization",
+      "canonical_id": "ORG-US-COAST-GUARD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Appointment emphasizes institutional commitment to modernized campus safety practices, mental health integration, and technology adoption—areas aligned with contemporary public safety innovation priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on Syracuse University (higher education), not City of Syracuse government; relevance to CIO is indirect (regional institution, potential partnership or best-practice reference for municipal emergency services modernization)",
+    "Mechanical extraction errors: 'Syracuse Fire Department' and 'Law Department' not mentioned in article; $70K reference is unrelated to this story",
+    "Key innovation signals: body cameras, AI-enhanced security, mental health response team integration, stakeholder engagement model—may inform municipal public safety strategy",
+    "Author attribution confirmed: Greta Stuckey, crime/public safety reporter",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

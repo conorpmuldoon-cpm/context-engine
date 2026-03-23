@@ -1,0 +1,92 @@
+{
+  "record_id": "CTX-NEWS-2025-00256",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/07/surprise-move-leaves-syracuse-housing-authority-with-new-role-in-east-adams-landlord.html",
+  "publication_date": "2025-07-01",
+  "capture_date": "2026-03-22T21:26:16Z",
+  "title": "Surprise move leaves Syracuse Housing Authority with new role in East Adams: Landlord",
+  "summary": "The Syracuse Housing Authority (SHA) will assume ownership and management of 1,400 apartments in the East Adams redevelopment project, expanding its traditional role beyond its historical trajectory. This represents a strategic pivot from the original plan where private developer McCormack Baron Salazar would own and manage the properties post-development. The shift ensures SHA operational continuity and rental income stability but occurs amid significant leadership scrutiny from city officials and philanthropic partners.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "economic-development",
+    "leadership-change",
+    "policy-change",
+    "capital-planning",
+    "intergovernmental",
+    "business-community",
+    "initiative-launch",
+    "equity",
+    "PROVISIONAL:public-private-partnership"
+  ],
+  "department_refs": [
+    "Syracuse Housing Authority"
+  ],
+  "entity_refs": [
+    {
+      "name": "Bill Simmons",
+      "type": "person",
+      "canonical_id": "PERSON-BILL-SIMMONS"
+    },
+    {
+      "name": "McCormack Baron Salazar",
+      "type": "organization",
+      "canonical_id": "ORG-MBS"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Blueprint 15",
+      "type": "organization",
+      "canonical_id": "ORG-BLUEPRINT15"
+    },
+    {
+      "name": "Allyn Foundation",
+      "type": "organization",
+      "canonical_id": "ORG-ALLYN-FOUNDATION"
+    },
+    {
+      "name": "Meg O'Connell",
+      "type": "person",
+      "canonical_id": "PERSON-MEG-OCONNELL"
+    },
+    {
+      "name": "Calvin Corriders",
+      "type": "person",
+      "canonical_id": "PERSON-CALVIN-CORRIDERS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Mayor Walsh and incoming Mayor Owens have publicly questioned SHA leadership (Simmons) capability; philanthropic partner (Allyn Foundation) withdrew $31.5M children's center investment citing loss of confidence in SHA direction; investors expressing concern about project stability amid public criticism.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Mechanical extraction of '$31' is incomplete; full amount is $31.5 million (children's learning center budget). Dollar amounts '$1', '$258', '$69' not found in provided text—verify source.",
+    "Michael Collins listed in mechanical extractions but no reference in article text—possible false positive from broader source.",
+    "Department references (Parks, Fire, Permits) listed in mechanical extractions are not relevant to this article; SHA is primary governmental actor.",
+    "Article contains implicit CIO relevance: project governance complexity, multi-stakeholder coordination, and potential IT/systems integration needs for 1,400-unit property management transition.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

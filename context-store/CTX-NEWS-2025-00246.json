@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-NEWS-2025-00246",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/10/pioneer-homes-residents-get-early-chance-to-avoid-noisy-i-81-construction-how-many-will-take-it.html",
+  "publication_date": "2025-10-15",
+  "capture_date": "2026-03-22T21:25:13Z",
+  "title": "Pioneer Homes residents get early chance to avoid noisy I-81 construction. How many will take it?",
+  "summary": "Pioneer Homes residents are being offered early relocation through $5 million in HUD housing vouchers to avoid I-81 demolition construction beginning in 2026 and concurrent East Adams neighborhood renovation. So far 54 households plan to use vouchers and 32 prefer remaining in public housing elsewhere, with vouchers expiring at year-end 2025 and new apartments expected by March 2027.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "federal-programs",
+    "construction-staging",
+    "equity",
+    "residents",
+    "infrastructure",
+    "intergovernmental",
+    "PROVISIONAL:relocation-assistance"
+  ],
+  "department_refs": [
+    "Department of Housing and Urban Development",
+    "Syracuse Housing Authority"
+  ],
+  "entity_refs": [
+    {
+      "name": "Marquita Hetherington",
+      "type": "person",
+      "canonical_id": "PERSON-MARQUITA-HETHERINGTON"
+    },
+    {
+      "name": "Bill Simmons",
+      "type": "person",
+      "canonical_id": "PERSON-BILL-SIMMONS"
+    },
+    {
+      "name": "Syracuse Housing Authority",
+      "type": "organization",
+      "canonical_id": "ORG-SHA"
+    },
+    {
+      "name": "Pioneer Homes",
+      "type": "organization",
+      "canonical_id": "ORG-PIONEER-HOMES"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Federal HUD investment ($5M) aligned with major infrastructure project (I-81 demolition, $1B East Adams renovation); demonstrates federal-local coordination on housing stability during disruption, though implementation pressure exists due to December 2025 voucher deadline.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00217"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts extracted: $5M (HUD vouchers), $1B (East Adams project), security deposit amount not specified in truncated content",
+    "No direct CIO department reference; article focuses on SHA/housing policy and HUD coordination rather than city innovation/IT infrastructure",
+    "Key deadline: December 31, 2025 for voucher distribution; March 2027 for new apartment availability",
+    "Article emphasizes community/social impact (displacement, family separation) alongside logistics—equity lens appropriate",
+    "PROVISIONAL tag added for relocation-assistance as this specific program type not in standard tags",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-NEWS-2025-00217"
+  ],
+  "last_relevance_update": null
+}

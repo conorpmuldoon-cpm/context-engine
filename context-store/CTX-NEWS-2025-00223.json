@@ -1,0 +1,71 @@
+{
+  "record_id": "CTX-NEWS-2025-00223",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/08/crime-is-dropping-fast-in-syracuse-police-chief-says-its-a-snowball-effect.html",
+  "publication_date": "2025-08-14",
+  "capture_date": "2026-03-22T21:22:50Z",
+  "title": "Crime is dropping fast in Syracuse. Police chief says it’s a snowball effect",
+  "summary": "Syracuse crime has declined 27% year-to-date (through Aug. 11, 2025), with violent crime down 18% and property crime down 29%—reversing a three-year property crime increase trend. Police Chief Joe Cecile attributes gains to the Mayor's Office to Reduce Gun Violence (launched 2022), which deploys ~25 'credible messengers' for community violence intervention, combined with proactive policing strategies. Gun violence data shows 44 people injured/killed through Aug. 11 versus a five-year average of 88, indicating sustained momentum in a key public-safety metric.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "public-safety-commission",
+    "initiative-launch",
+    "trending",
+    "emergency-services",
+    "community-violence-intervention",
+    "PROVISIONAL:gun-violence-prevention",
+    "leadership-change",
+    "residents"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Mayor's Office to Reduce Gun Violence"
+  ],
+  "entity_refs": [
+    {
+      "name": "Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE",
+      "title": "Police Chief"
+    },
+    {
+      "name": "Lateef Johnson-Kinsey",
+      "type": "person",
+      "canonical_id": "PERSON-LATEEF-JOHNSON-KINSEY",
+      "title": "Director, Mayor's Office to Reduce Gun Violence; Pastor, New Hope Church"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor's Office to Reduce Gun Violence demonstrating measurable results on a high-visibility CIO priority; police-community partnership model aligns with innovation and data-driven intervention strategies.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00112"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date is 2025-08-14 (future date—verify source currency).",
+    "Author byline shows 'Jeremy Boyer | JBoyer@syracuse.com' but header lists 'Unknown'—recommend canonical attribution.",
+    "Syracuse University detected in mechanical extraction but not substantive to article; recommend removal.",
+    "Data points: 44 shooting victims YTD (vs. 88 five-year avg); 310 shots-fired calls (−22% YoY); 25 credible messengers deployed.",
+    "Credible messenger program appears to be primary innovation lever; recommend cross-reference with workforce-development and training initiatives.",
+    "No budget or contract details provided; recommend follow-up on MORG funding and nonprofit partner contracts for procurement tracking.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'community-violence-intervention' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00112"
+  ],
+  "last_relevance_update": null
+}

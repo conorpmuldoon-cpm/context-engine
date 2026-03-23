@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-NEWS-2025-00281",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/health/2025/12/syracuses-water-pipe-woes-its-going-to-take-at-least-twice-as-long-to-replace-lead-lines-city-admits.html",
+  "publication_date": "2025-12-17",
+  "capture_date": "2026-03-22T21:29:18Z",
+  "title": "Syracuse’s water pipe woes: It’s going to take twice as long to replace lead lines, city admits",
+  "summary": "Syracuse will take a decade or longer to replace all lead water pipes instead of the promised five years, after replacing only 700 of 3,000 targeted pipes in 2025. The city now plans 1,700 replacements for 2026 and faces another federal violation. Water Commissioner Robert Brandt cited logistical challenges in basement access and street coordination, though funding ($200M total project cost) is not the limiting factor.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "lead-remediation",
+    "infrastructure",
+    "federal-programs",
+    "escalating",
+    "transparency",
+    "equity",
+    "investigation",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Water Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Robert Brandt",
+      "type": "person",
+      "canonical_id": "PERSON-ROBERT-BRANDT",
+      "title": "Water Commissioner"
+    },
+    {
+      "name": "EPA",
+      "type": "organization",
+      "canonical_id": "ORG-EPA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Federal EPA violation and repeated missed targets on lead remediation creates accountability pressure; city-wide resident notification required; public admission of timeline failure and contractor problems suggests external oversight and constituent pressure",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount '$11' in mechanical extraction appears to be data artifact—not validated in article text",
+    "Article references ~14,000 confirmed lead pipes plus ~13,000 unknown-material pipes (potential scope creep)",
+    "Two prior incidents mentioned: summer 2024 lead testing violation (faulty sampling by employees) and partial replacements two decades ago in poorer neighborhoods (equity signal)",
+    "Capital constraint removed as primary blocker; labor/logistics and full problem quantification now critical",
+    "CIO relevance: GIS data completeness on pipe materials, contractor management systems, and resident notification infrastructure",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

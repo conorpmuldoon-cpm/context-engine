@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-NEWS-2025-00279",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/07/syracuses-cheap-municipal-internet-service-now-available-in-more-neighborhoods.html",
+  "publication_date": "2025-07-10",
+  "capture_date": "2026-03-22T21:29:04Z",
+  "title": "Syracuse’s cheap municipal internet service now available in more neighborhoods",
+  "summary": "Syracuse has expanded its municipal Surge Link broadband network to six additional neighborhoods following a $10.8M state grant, building on a pilot launched in October 2023. The service offers 100 Mbps at $14.99/month for low-income residents and $37/month market rate, positioning the city to reach 7,200+ households citywide as part of Mayor Walsh's poverty-reduction strategy.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "digital-services",
+    "IT-infrastructure",
+    "grants",
+    "federal-programs",
+    "state-agency",
+    "economic-development",
+    "equity",
+    "initiative-launch",
+    "intergovernmental",
+    "announcement",
+    "infrastructure"
+  ],
+  "department_refs": [
+    "Office of the Mayor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Community Broadband Networks LLC",
+      "type": "organization",
+      "canonical_id": "ORG-COMMUNITY-BROADBAND-NETWORKS"
+    },
+    {
+      "name": "Surge Link",
+      "type": "system",
+      "canonical_id": "SYS-SURGE-LINK"
+    },
+    {
+      "name": "New York State ConnectALL Program",
+      "type": "organization",
+      "canonical_id": "ORG-NYS-CONNECTALL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor Walsh using municipal broadband expansion as signature poverty-reduction and digital equity initiative; bipartisan federal ARPA funding leveraged with state grants demonstrates executive commitment to closing digital divide.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references multiple related city issues (I-81 director, evictions, SU land use, police/fire HQ) but those are separate stories; focus here is Surge Link only.",
+    "Jeremy Boyer is consistent city reporter on municipal tech/infrastructure; reliable source.",
+    "No direct CIO attribution in article—initiative appears to operate under Mayor's office with external vendor (Community Broadband Networks) managing operations.",
+    "Mechanical extraction validated: entities include Mayor, vendor, and system name; departments inferred as Mayor's office (no explicit CIO or IT department referenced).",
+    "Pricing comparison to Spectrum included; competitive positioning suggests market-rate sustainability strategy.",
+    "PROVISIONAL TAG USED: None required; all tags within available set.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,90 @@
+{
+  "record_id": "CTX-NEWS-2025-00291",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/10/with-a-party-line-vote-onondaga-county-lawmakers-adopt-2026-budget.html",
+  "publication_date": "2025-10-14",
+  "capture_date": "2026-03-22T21:30:21Z",
+  "title": "With a party-line vote, Onondaga County lawmakers adopt 2026 budget",
+  "summary": "Onondaga County Legislature passed the $1.6 billion 2026 budget on a party-line vote (12-4), with Republicans praising fiscal restraint (flat property tax levy, 11% tax rate cut) and Democrats criticizing insufficient funding for community services. The budget includes $3.3M for daycare, $1.2M for lead remediation, $6.75M for a sheriff's helicopter, and $700K for emergency response drones, but funded only 1 of 10 Democratic proposals for nonprofit community support.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "vote",
+    "tax-revenue",
+    "equity",
+    "lead-remediation",
+    "emergency-services",
+    "fleet",
+    "housing",
+    "workforce-development",
+    "intergovernmental",
+    "sewer",
+    "capital-planning"
+  ],
+  "department_refs": [
+    "Sheriff's Office",
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Julie Abbott",
+      "type": "person",
+      "canonical_id": "PERSON-JULIE-ABBOTT"
+    },
+    {
+      "name": "Maurice Brown",
+      "type": "person",
+      "canonical_id": "PERSON-MAURICE-BROWN"
+    },
+    {
+      "name": "Nodesia Hernandez",
+      "type": "person",
+      "canonical_id": "PERSON-NODESIA-HERNANDEZ"
+    },
+    {
+      "name": "Cody Kelly",
+      "type": "person",
+      "canonical_id": "PERSON-CODY-KELLY"
+    },
+    {
+      "name": "Onondaga County Legislature",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY-LEG"
+    },
+    {
+      "name": "Boys & Girls Club",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Republican-controlled legislature prioritizes fiscal sustainability and tax restraint over expanded social spending; Democratic opposition signals constituency pressure for increased community services investment. Budget reflects ideological split on growth-focused versus immediate-needs approach.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on county-level governance; limited direct CIO relevance unless Syracuse city budget implications materialize separately",
+    "Technology investments mentioned (911 drones, helicopter) fall outside typical CIO portfolio; no digital transformation or IT infrastructure initiatives detected",
+    "Lead remediation funding ($1.2M) may trigger data collection/tracking needs",
+    "Sewer rate changes suggest potential utility billing system interactions",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

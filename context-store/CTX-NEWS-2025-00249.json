@@ -1,0 +1,76 @@
+{
+  "record_id": "CTX-NEWS-2025-00249",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2025/10/police-warn-syracuse-businesses-of-fraudulent-zoning-invoice-scam.html",
+  "publication_date": "2025-10-24",
+  "capture_date": "2026-03-22T21:25:29Z",
+  "title": "Police warn Syracuse businesses of fraudulent zoning invoice scam",
+  "summary": "Syracuse Police Department and Department of Neighborhood and Business Development issued a public warning about fraudulent zoning invoice scams targeting city businesses. Fake invoices requesting wire transfers for approval, submission, environmental impact, and review fees have targeted at least three businesses. The city clarified it never requests wire transfers for zoning fees and provided contact numbers for verification and reporting.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "crime",
+    "cybersecurity",
+    "permitting",
+    "zoning",
+    "business-community",
+    "announcement",
+    "escalating"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Department of Neighborhood and Business Development",
+    "Division of Code Enforcement"
+  ],
+  "entity_refs": [
+    {
+      "name": "Kieran Coffey",
+      "type": "person",
+      "canonical_id": "PERSON-KIERAN-COFFEY"
+    },
+    {
+      "name": "Vince Gasparini",
+      "type": "person",
+      "canonical_id": "PERSON-VINCE-GASPARINI"
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    },
+    {
+      "name": "Division of Code Enforcement",
+      "type": "organization",
+      "canonical_id": "ORG-CODE-ENFORCEMENT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Public safety alert indicating emerging fraud threat to business community; requires CIO attention for potential digital security vulnerabilities in city permitting systems or email authentication controls.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00148"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount ($70K) in mechanical extractions refers to unrelated corrections officer story, not this article",
+    "Department name corrected: 'Department of Permits and Development' should be 'Department of Neighborhood and Business Development'",
+    "No specific IT systems named; potential PROVISIONAL tag needed: cybersecurity-incident if this represents systemic email spoofing vulnerability",
+    "Contact numbers provided: Code Enforcement 315-442-8695, Criminal Investigations 315-442-5222",
+    "At least 3 businesses confirmed affected; timeline 'past couple of months' from Oct 2025",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'crime' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00148"
+  ],
+  "last_relevance_update": null
+}

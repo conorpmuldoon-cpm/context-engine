@@ -1,0 +1,84 @@
+{
+  "record_id": "CTX-NEWS-2025-00225",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/04/developer-shrinks-syracuse-apartment-project-near-i-81-for-second-time.html",
+  "publication_date": "2025-04-11",
+  "capture_date": "2026-03-22T21:23:03Z",
+  "title": "Developer shrinks Syracuse apartment project near I-81 for second time",
+  "summary": "Developer Christopher Geiger has reduced the Gateway Apartments project near I-81 for the second time, cutting units from 291 to 259 (11% reduction) after learning the eastern portion of the site would not qualify for state brownfield cleanup tax credits. The seven-story project at East Fayette and Almond streets remains a priority for the Almond Street corridor post-I-81 demolition, but financing and investor commitments are still pending with no construction timeline set.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "economic-development",
+    "land-use",
+    "infrastructure",
+    "permitting",
+    "historic-preservation",
+    "brownfield-remediation",
+    "PROVISIONAL:tax-incentives",
+    "PROVISIONAL:downtown-revitalization"
+  ],
+  "department_refs": [
+    "Department of Neighborhood & Business Development",
+    "Syracuse Industrial Development Agency"
+  ],
+  "entity_refs": [
+    {
+      "name": "Christopher Geiger",
+      "type": "person",
+      "canonical_id": "PERSON-CHRISTOPHER-GEIGER"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Eric Ennis",
+      "type": "person",
+      "canonical_id": "PERSON-ERIC-ENNIS"
+    },
+    {
+      "name": "Gateway Apartments",
+      "type": "organization",
+      "canonical_id": "ORG-GATEWAY-APARTMENTS"
+    },
+    {
+      "name": "CHA",
+      "type": "organization",
+      "canonical_id": "ORG-CHA"
+    },
+    {
+      "name": "New York State Department of Transportation",
+      "type": "organization",
+      "canonical_id": "ORG-NYSDOT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Project remains aligned with city's I-81 corridor redevelopment vision, but repeated scope reductions and deferred IDA application suggest financing challenges and investor hesitancy. State brownfield policy limitations are constraining project economics.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts extracted: $129.8M (project cost estimate), $24M (IDA tax break request), $21M implied difference from prior reporting",
+    "Key institutional dependency: New York State Brownfield Cleanup Program eligibility determination directly impacted project viability",
+    "Project timeline uncertainty: No groundbreaking expected in 2025; financing still pending",
+    "Historic preservation considerations: Landmark Preservation Board involvement noted; AME Zion Church and XO Taco building preservation status relevant",
+    "Missing data: Developer has not yet submitted revised cost estimates or updated IDA application",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'brownfield-remediation' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

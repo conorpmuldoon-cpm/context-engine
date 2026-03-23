@@ -1,0 +1,82 @@
+{
+  "record_id": "CTX-NEWS-2025-00289",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/10/walsh-administration-pushes-to-start-biggest-syracuse-housing-development-in-decades.html?gift=5ccd83ef-f3a6-4ca5-bc15-bfe81e0fdcf0",
+  "publication_date": "2025-10-08",
+  "capture_date": "2026-03-22T21:30:08Z",
+  "title": "Walsh administration pushes to start biggest Syracuse housing development in decades",
+  "summary": "Mayor Walsh's administration is advancing a $134M mixed-income housing development at the former Syracuse Developmental Center site, planning to break ground in 2026. The project would deliver 260 affordable apartments, 27 townhomes, and future phases including market-rate and senior housing—potentially Syracuse's largest housing development in 50+ years. The Common Council must approve financing mechanisms and infrastructure bonding today, though some council members express concerns about mixed-income sustainability.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "economic-development",
+    "capital-planning",
+    "infrastructure",
+    "council",
+    "legislation",
+    "mayor",
+    "initiative-launch",
+    "land-use",
+    "equity",
+    "intergovernmental"
+  ],
+  "department_refs": [
+    "Department of Permits and Development",
+    "Office of the Mayor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Albanese Organization Inc.",
+      "type": "organization",
+      "canonical_id": "ORG-ALBANESE"
+    },
+    {
+      "name": "Home HeadQuarters",
+      "type": "organization",
+      "canonical_id": "ORG-HOME-HEADQUARTERS"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Eric Ennis",
+      "type": "person",
+      "canonical_id": "PERSON-ERIC-ENNIS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Walsh administration prioritizing major housing development as transformational infrastructure project; Council Chair Hogan applying scrutiny to financing structure and mixed-income sustainability; state funding commitment signals intergovernmental priority alignment.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00135"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts in mechanical extraction list appear to include extraneous data unrelated to article content; primary figures validated: $134M (project cost), $11M (site work loan), $18.8M (infrastructure bonding), $29M (demolition grant), $72,500 (median income threshold).",
+    "Article focuses on Phase 1 financing approval timing; future phases remain contingent on developer performance and city land control.",
+    "Council member scrutiny suggests potential legislative process delay beyond stated voting timeline.",
+    "Missing author byline attribution but article sourced to syracuse.com with reporter Tim Knauss.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-NEWS-2025-00135"
+  ],
+  "last_relevance_update": null
+}

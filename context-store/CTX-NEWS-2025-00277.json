@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-NEWS-2025-00277",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/syracuse-university/2025/10/syracuse-university-will-not-sign-trumps-higher-education-compact.html",
+  "publication_date": "2025-10-23",
+  "capture_date": "2026-03-22T21:28:48Z",
+  "title": "Syracuse University will not sign Trump’s higher education compact",
+  "summary": "Syracuse University Chancellor Kent Syverud announced the institution will not sign President Trump's 'Compact for Academic Excellence in Higher Education' in its current form. The compact conditions include eliminating race, gender, and financial status from admissions; prohibiting criticism of conservative ideologies; and requiring institutional political neutrality. Syverud indicated willingness to reconsider only if federal modifications occur and after consultation with the Board of Trustees and university community.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "federal-programs",
+    "state-mandates",
+    "policy-change",
+    "leadership-change",
+    "executive-orders",
+    "equity",
+    "PROVISIONAL:higher-education-policy"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Kent Syverud",
+      "type": "person",
+      "canonical_id": "PERSON-KENT-SYVERUD"
+    },
+    {
+      "name": "Donald Trump",
+      "type": "person",
+      "canonical_id": "PERSON-DONALD-TRUMP"
+    },
+    {
+      "name": "American Association of Colleges and Universities",
+      "type": "organization",
+      "canonical_id": "ORG-AACU"
+    },
+    {
+      "name": "SUNY College of Environmental Science and Forestry",
+      "type": "organization",
+      "canonical_id": "ORG-SUNY-ESF"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Syracuse University leadership formally opposes federal higher education compact on admissions and speech policy grounds; positions institution alongside MIT and majority of peer institutions declining to sign.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date (2025-10-23) is future-dated; treating as valid source material",
+    "No direct CIO/municipal government connection; relevance is federal-higher-education policy affecting regional institution",
+    "Chancellor retirement timeline (end 2025-26 school year) noted as context for decision-making authority",
+    "No budget figures or dollar amounts provided",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

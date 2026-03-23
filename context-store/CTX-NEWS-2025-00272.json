@@ -1,0 +1,73 @@
+{
+  "record_id": "CTX-NEWS-2025-00272",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/04/syracuse-police-watchdogs-new-leader-abruptly-resigns-in-latest-crb-mess.html?gift=69fa030a-1fe2-401d-9080-d0bb6720e002",
+  "publication_date": "2025-04-14",
+  "capture_date": "2026-03-22T21:28:15Z",
+  "title": "Syracuse police watchdog’s new leader abruptly resigns in latest CRB mess",
+  "summary": "The chair of Syracuse's Citizen Review Board (CRB), Bryn Lovejoy-Grinnell, abruptly resigned on April 14, 2025, citing lack of resources, support, and independence from city hall and the Common Council. The resignation represents the latest crisis for the civilian police watchdog agency, which has struggled with internal conflicts, personnel turnover, and legitimacy issues. Council leadership disputes claims of interference and is exploring structural reforms through a proposed legislative update committee, though timing and implementation remain unclear.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "public-safety-commission",
+    "leadership-change",
+    "complaint",
+    "investigation",
+    "transparency",
+    "council",
+    "policy-change",
+    "escalating",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Common Council"
+  ],
+  "entity_refs": [
+    {
+      "name": "Bryn Lovejoy-Grinnell",
+      "type": "person",
+      "canonical_id": "PERSON-BRYN-LOVEJOY-GRINNELL"
+    },
+    {
+      "name": "Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-CHOL-MAJOK"
+    },
+    {
+      "name": "Ranette Releford",
+      "type": "person",
+      "canonical_id": "PERSON-RANETTE-RELEFORD"
+    },
+    {
+      "name": "Citizen Review Board",
+      "type": "organization",
+      "canonical_id": "ORG-CRB"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Governance dysfunction in civilian oversight body; tension between council autonomy claims and board chair's independence allegations; council holding legislative measures pending further deliberation",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date shows 2025-04-14 but recommended articles reference future dates (2026); verify publication date integrity",
+    "No dollar amounts or specific budget impacts mentioned; resource deficiency cited qualitatively only",
+    "Proposed 'Citizen's Review Board Legislation Update Committee' structure includes police chief and city lawyer alongside civilians—potential governance conflict flagged by chair",
+    "CIO should monitor: board operational stability, intergovernmental coordination between council/police/CRB, and any systemic issues affecting city transparency and accountability mechanisms",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

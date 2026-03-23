@@ -1,0 +1,82 @@
+{
+  "record_id": "CTX-NEWS-2025-00239",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/education/2025/10/mayor-congressman-others-praise-retiring-syracuse-superintendent-in-final-days.html",
+  "publication_date": "2025-10-09",
+  "capture_date": "2026-03-22T21:24:30Z",
+  "title": "Mayor, Congressman, others praise retiring Syracuse superintendent in final days",
+  "summary": "Syracuse Public Schools Superintendent Anthony Davis retires October 31 after 39-year career in education, including 3 years as superintendent. City leadership including Mayor Walsh, U.S. Rep. Mannion, and State Sen. May praised Davis for opening STEAM high school, addressing food insecurity, and mentoring community members. Deputy Superintendent Pamela Odom will assume leadership.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "department-head",
+    "announcement",
+    "equity",
+    "initiative-launch"
+  ],
+  "department_refs": [
+    "Syracuse City School District"
+  ],
+  "entity_refs": [
+    {
+      "name": "Anthony 'TD' Davis",
+      "type": "person",
+      "canonical_id": "PERSON-ANTHONY-DAVIS"
+    },
+    {
+      "name": "Pamela Odom",
+      "type": "person",
+      "canonical_id": "PERSON-PAMELA-ODOM"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "John Mannion",
+      "type": "person",
+      "canonical_id": "PERSON-JOHN-MANNION"
+    },
+    {
+      "name": "Rachel May",
+      "type": "person",
+      "canonical_id": "PERSON-RACHEL-MAY"
+    },
+    {
+      "name": "Patrona Jones-Rowser",
+      "type": "person",
+      "canonical_id": "PERSON-PATRONA-JONES-ROWSER"
+    },
+    {
+      "name": "Rasheada Caldwell",
+      "type": "person",
+      "canonical_id": "PERSON-RASHEADA-CALDWELL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Multi-level government support (mayoral, congressional, state senate, common council) for education leadership transition and equity-focused initiatives (STEAM, food security) signals institutional alignment on student-centered educational priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on personnel transition rather than operational/technical CIO concerns; limited direct IT/digital services relevance",
+    "STEAM high school opening is initiative-launch worthy but lacks implementation details",
+    "Food desert mitigation suggests potential data governance/equity analytics application",
+    "Deputy Superintendent succession is planned; no interim period indicated",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

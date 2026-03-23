@@ -1,0 +1,73 @@
+{
+  "record_id": "CTX-NEWS-2025-00284",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/cny/2025/04/trump-administration-revokes-visas-of-3-syracuse-university-students-without-warning.html?gift=012b0fbf-62bc-47d7-b6ee-d24f44ab2781",
+  "publication_date": "2025-04-23",
+  "capture_date": "2026-03-22T21:29:36Z",
+  "title": "Trump administration revokes visas of 3 Syracuse University students without warning",
+  "summary": "The Trump administration has revoked visas for 3 Syracuse University international students without advance notice or explanation, part of a nationwide crackdown affecting 1,700+ students across 265+ institutions. SU (which enrolls ~3,300 international students) is working with affected students and coordinating with elected officials, though the university received no prior notification and has not publicly disclosed the students' identities or the selection rationale.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:immigration-enforcement",
+    "PROVISIONAL:student-visas",
+    "federal-programs",
+    "intergovernmental",
+    "executive-orders",
+    "equity",
+    "transparency",
+    "escalating"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Trump Administration",
+      "type": "organization",
+      "canonical_id": "null"
+    },
+    {
+      "name": "U.S. Department of Homeland Security",
+      "type": "organization",
+      "canonical_id": "null"
+    },
+    {
+      "name": "U.S. State Department",
+      "type": "organization",
+      "canonical_id": "null"
+    },
+    {
+      "name": "Mark Weiner",
+      "type": "person",
+      "canonical_id": "PERSON-MARK-WEINER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Federal executive action affecting local institutions with minimal transparency; potential constituent impact (international student population) and intergovernmental coordination challenge for city/university leadership.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily about Syracuse University and federal immigration policy; minimal direct city government relevance unless CIO tracks federal-local coordination or constituent services implications",
+    "No Syracuse city departments directly referenced; content is informational/situational awareness for CIO stakeholder landscape",
+    "Relevant for economic development/business-community considerations (international student population, university partnerships)",
+    "No IT systems, data governance, or digital service implications detected in article",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

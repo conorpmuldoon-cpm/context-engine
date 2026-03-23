@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-NEWS-2025-00238",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2025/04/man-tased-by-syracuse-police-in-convenience-store-arrest-they-say-he-sold-drugs-outside.html",
+  "publication_date": "2025-04-21",
+  "capture_date": "2026-03-22T21:24:24Z",
+  "title": "Man tased by Syracuse police in convenience store arrest; they say he sold drugs outside",
+  "summary": "Syracuse police arrested Tashawn Albert on April 9, 2025 at a Park Street convenience store for alleged drug possession and resisting arrest, deploying a taser during the encounter. Albert has filed a complaint with the Civilian Review Board alleging excessive force, claiming he suffered spinal fracture, broken tooth, and taser injuries, while police assert Albert resisted and reached toward his waistband. The incident highlights tensions between law enforcement procedures and civilian oversight mechanisms.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "complaint",
+    "investigation",
+    "public-safety-commission",
+    "escalating",
+    "transparency",
+    "constituent-complaints",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Tashawn Albert",
+      "type": "person",
+      "canonical_id": "PERSON-TASHAWN-ALBERT"
+    },
+    {
+      "name": "Kieran Coffey",
+      "type": "person",
+      "canonical_id": "PERSON-KIERAN-COFFEY"
+    },
+    {
+      "name": "Darian Stevenson",
+      "type": "person",
+      "canonical_id": "PERSON-DARIAN-STEVENSON"
+    },
+    {
+      "name": "Syracuse Civilian Review Board",
+      "type": "organization",
+      "canonical_id": "ORG-SCRB"
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public complaint filed against police use of force; civilian review board engagement suggests constituent pressure for accountability and transparency in law enforcement conduct.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount ($70) detected in mechanical extraction but not present in provided article text; may be from incomplete truncation",
+    "Article contains video evidence documentation—digital records management implication for SPD",
+    "Civilian Review Board involvement indicates established complaint/oversight mechanism; note for transparency and governance tracking",
+    "Incident date April 9, 2025 vs. publication date April 21, 2025 (12-day lag suggests investigation ongoing at publication)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

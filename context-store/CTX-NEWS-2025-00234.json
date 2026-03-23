@@ -1,0 +1,85 @@
+{
+  "record_id": "CTX-NEWS-2025-00234",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/cny/2025/05/house-gops-big-beautiful-bill-cancels-millions-for-syracuse-to-revitalize-poor-neighborhood-near-i-81.html",
+  "publication_date": "2025-05-30",
+  "capture_date": "2026-03-22T21:24:01Z",
+  "title": "House GOP’s ‘big beautiful bill’ cancels millions for Syracuse to revitalize poor neighborhood near I-81",
+  "summary": "House Republicans' 'One Big Beautiful Bill Act' cancels $30 million in unspent Federal Highway Administration grants awarded to Syracuse for I-81 neighborhood revitalization. Syracuse had received only $300,000 of its $30 million grant and was awaiting environmental review completion before accessing remaining funds. The bill permanently rescinds all unspent Neighborhood Access and Equity Program funds ($2+ billion nationally) to reduce federal deficit. Senate Democrats, including Sen. Schumer, plan to restore funding.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "federal-programs",
+    "grants",
+    "infrastructure",
+    "housing",
+    "economic-development",
+    "intergovernmental",
+    "legislation",
+    "budget",
+    "PROVISIONAL:federal-appropriations-policy",
+    "PROVISIONAL:interstate-replacement",
+    "equity"
+  ],
+  "department_refs": [
+    "Department of Transportation (NYS)",
+    "Office of the Chief Innovation Officer"
+  ],
+  "entity_refs": [
+    {
+      "name": "House Republicans / GOP",
+      "type": "organization",
+      "canonical_id": "ORG-HOUSE-GOP"
+    },
+    {
+      "name": "Charles Schumer",
+      "type": "person",
+      "canonical_id": "PERSON-CHARLES-SCHUMER"
+    },
+    {
+      "name": "Greg Loh",
+      "type": "person",
+      "canonical_id": "PERSON-GREG-LOH"
+    },
+    {
+      "name": "Federal Highway Administration",
+      "type": "organization",
+      "canonical_id": "ORG-FHWA"
+    },
+    {
+      "name": "Transportation for America",
+      "type": "organization",
+      "canonical_id": "ORG-TRANS4AMERICA"
+    },
+    {
+      "name": "Corrigan Salerno",
+      "type": "person",
+      "canonical_id": "PERSON-CORRIGAN-SALERNO"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Republican-controlled House has eliminated competitive federal grant funding for Syracuse I-81 revitalization project. Democratic Senate leadership (Schumer) signals intent to restore funding. Grant program cancellation reflects partisan budget prioritization (deficit reduction vs. community development).",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on federal legislative impact, not direct CIO action. CIO stakeholder is Greg Loh (Chief Policy Officer), who is coordinating restoration efforts.",
+    "Dollar amount extraction: $30M (Syracuse award), $3.3B (program total), $2B+ (rescinded nationally), $180M (combined NYS/Syracuse award), $150M (NYS DOT secured), $300K (Syracuse received to date), $1B (red/purple state risk).",
+    "No Syracuse city departments directly referenced; state DOT and federal agencies are primary actors.",
+    "I-81 project is major infrastructure/equity initiative for CIO visibility. Environmental review timeline (2 years) critical to funding access.",
+    "Advocacy channel: Senate negotiations provide restoration opportunity.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

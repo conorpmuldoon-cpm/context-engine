@@ -1,0 +1,70 @@
+{
+  "record_id": "CTX-NEWS-2025-00254",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/07/slow-down-or-else-see-where-cameras-will-soon-catch-speeders-near-syracuse-schools.html",
+  "publication_date": "2025-07-31",
+  "capture_date": "2026-03-22T21:26:00Z",
+  "title": "Slow down or else! See where cameras will soon catch speeders near Syracuse schools",
+  "summary": "Syracuse will deploy 34 speed cameras in school zones and 36 red-light cameras at intersections near schools, effective September 3, 2025. The $50-per-violation program aims to reduce speeding and improve pedestrian safety, with the city retaining 65% of fines ($3.24M projected annually based on Albany benchmarks) and private vendor Jenoptik receiving 35%. Speed cameras operate during school hours only; red-light cameras run continuously.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "initiative-launch",
+    "policy-change",
+    "code-enforcement",
+    "transportation",
+    "vision-zero",
+    "public-safety-commission",
+    "contract-award",
+    "tax-revenue",
+    "GIS",
+    "IT-infrastructure"
+  ],
+  "department_refs": [
+    "Department of Public Safety",
+    "Department of Transportation",
+    "Office of the Chief Innovation Officer"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sol Muñoz",
+      "type": "person",
+      "canonical_id": "PERSON-SOL-MUNOZ"
+    },
+    {
+      "name": "Jenoptik",
+      "type": "organization",
+      "canonical_id": "ORG-JENOPTIK"
+    },
+    {
+      "name": "Syracuse City School District",
+      "type": "organization",
+      "canonical_id": "ORG-SCSD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor administration advancing Vision Zero / pedestrian safety initiative with technology-enabled enforcement; frames as public health measure ahead of school year; revenue generation ($3.24M+ annually) secondary to stated safety goals.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date (2025-07-31) is future-dated; treat as planning/preview content",
+    "34 speed camera locations and 36 red-light camera intersections are fully enumerated in source",
+    "Mechanical extraction flagged 'Syracuse Fire Department' as department_ref but article is traffic/public safety domain—likely false positive; corrected to Public Safety",
+    "Revenue projections based on Albany precedent ($3.24M in 6 months) suggest 13,000+ tickets in first 11 days; CIO should monitor data governance and GIS integration for camera network management",
+    "Contract revenue split (65% city / 35% vendor) is material fiscal consideration; procurement process and vendor selection rationale not disclosed in article",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

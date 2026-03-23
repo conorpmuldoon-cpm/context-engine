@@ -1,0 +1,88 @@
+{
+  "record_id": "CTX-NEWS-2025-00268",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/09/syracuse-lawmakers-ok-settlement-in-case-of-drunk-driver-hitting-recycling-truck.html?gift=254db4b8-2848-46d3-9096-1ac8c842d7d9",
+  "publication_date": "2025-09-15",
+  "capture_date": "2026-03-22T21:27:46Z",
+  "title": "Syracuse lawmakers OK settlement in case of drunk driver hitting recycling truck",
+  "summary": "Syracuse Common Council approved a $110,000 settlement (6-3 vote) in a lawsuit filed by a passenger injured in a June 2020 crash involving a city recycling truck and a drunk driver. The city's legal department recommended settlement despite having 'moral high ground,' citing New York's joint liability law that could expose the city to greater financial risk at trial. Three councilors opposed the settlement, citing the drunk driver's primary culpability.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "litigation",
+    "settlement",
+    "one-time",
+    "budget",
+    "risk-management",
+    "vote",
+    "council",
+    "policy-change"
+  ],
+  "department_refs": [
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Susan Katzoff",
+      "type": "person",
+      "canonical_id": "PERSON-SUSAN-KATZOFF"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Marty Nave",
+      "type": "person",
+      "canonical_id": "PERSON-MARTY-NAVE"
+    },
+    {
+      "name": "Jimmy Monto",
+      "type": "person",
+      "canonical_id": "PERSON-JIMMY-MONTO"
+    },
+    {
+      "name": "Raykeisha Rouse",
+      "type": "person",
+      "canonical_id": "PERSON-RAYKEISHA-ROUSE"
+    },
+    {
+      "name": "Cueshan Allen",
+      "type": "person",
+      "canonical_id": "PERSON-CUESHAN-ALLEN"
+    },
+    {
+      "name": "Lawsuit Reform Alliance of New York",
+      "type": "organization",
+      "canonical_id": "ORG-LRANY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Council majority prioritizes financial risk mitigation via settlement despite minority councilors' opposition on liability grounds; reflects tension between legal exposure management and accountability principles",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on litigation settlement rather than CIO/innovation priorities; limited relevance to Chief Innovation Officer portfolio",
+    "Joint liability law (state mandate) is material context for settlement rationale; may indicate systemic municipal risk exposure across cases",
+    "No explicit connection to digital systems, data governance, or innovation initiatives detected",
+    "Council voting split (6-3) suggests constituent/political sensitivity around drunk driving accountability",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'litigation' not in taxonomy",
+    "Tag warning: Unknown tag 'settlement' not in taxonomy",
+    "Tag warning: Unknown tag 'risk-management' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

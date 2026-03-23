@@ -1,0 +1,81 @@
+{
+  "record_id": "CTX-NEWS-2025-00262",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/10/syracuse-lawmakers-asked-to-approve-parking-ticket-amnesty-program.html",
+  "publication_date": "2025-10-25",
+  "capture_date": "2026-03-22T21:27:05Z",
+  "title": "Syracuse considers offering amnesty for late fees on unpaid parking tickets",
+  "summary": "Mayor Ben Walsh is seeking Common Council approval for a parking ticket amnesty program running November 3-21, 2025, allowing motorists to pay base fines plus a $5 state surcharge while avoiding accumulated late fees. The city has approximately 140,000 unpaid tickets totaling $5.3M in fines and $6M in late penalties; a prior 2020 amnesty generated ~$1M in revenue, though the city auditor previously recommended against future programs due to long-term moral hazard concerns.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "tax-revenue",
+    "code-enforcement",
+    "policy-change",
+    "initiative-launch",
+    "one-time",
+    "council",
+    "vote",
+    "legislation",
+    "budget"
+  ],
+  "department_refs": [
+    "Department of Finance",
+    "Office of the Mayor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Nader Maroun",
+      "type": "person",
+      "canonical_id": "PERSON-NADER-MAROUN"
+    },
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-BOYER"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Administration pursuing revenue recovery mechanism; Finance Committee generally supportive but seeking clarification on implementation details before council vote.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00219"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar extraction complete; note $140 is illustrative savings example, not a discrete city amount",
+    "Prior audit critique (Maroun, 2020s) is material context for CIO: highlights data/behavioral policy feedback loops",
+    "Timeline compressed: Finance Committee Monday 11am, Council vote same day 1pm",
+    "Related articles referenced but not analyzed: I-81 director ultimatum, SU campus closure, police/fire HQ relocation, rent control rejection",
+    "No direct IT/digital service components identified, but amnesty program execution likely requires legacy permitting/collections system coordination",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-NEWS-2025-00219"
+  ],
+  "last_relevance_update": null
+}

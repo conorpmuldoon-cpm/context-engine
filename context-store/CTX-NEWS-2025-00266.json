@@ -1,0 +1,83 @@
+{
+  "record_id": "CTX-NEWS-2025-00266",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/09/syracuse-lawmakers-approve-sale-of-former-fire-station-where-apartments-eatery-planned.html",
+  "publication_date": "2025-09-02",
+  "capture_date": "2026-03-22T21:27:32Z",
+  "title": "Syracuse lawmakers approve sale of former fire station where apartments, eatery planned",
+  "summary": "Syracuse Common Council approved the $900,000 sale of shuttered Fire Station 7 to JF Real Estate for a $2.5M mixed-use redevelopment (ground-floor restaurant, 4 apartments). The project advances the city's Near East Side corridor redevelopment strategy tied to I-81 viaduct removal, with closing expected in 9-12 months and construction in ~12 months. Fire Department identified alternative University Avenue parcels for future station relocation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "housing",
+    "fire",
+    "land-use",
+    "facilities",
+    "contract-award",
+    "vote",
+    "infrastructure",
+    "zoning",
+    "neighborhood-services"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Office of the Mayor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael Monds",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-MONDS"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Stephanie Miner",
+      "type": "person",
+      "canonical_id": "PERSON-STEPHANIE-MINER"
+    },
+    {
+      "name": "JF Real Estate",
+      "type": "organization",
+      "canonical_id": "ORG-JF-REAL-ESTATE"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYR-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Administration advancing strategic I-81 corridor redevelopment with stakeholder buy-in (residents, fire department); demonstrates execution on downtown-to-University Hill connectivity vision.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00122"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Station 7 closure date 2013 provides historical context; $2.5M project cost indicates significant private capital investment; timeline (9-12 mo closing + ~12 mo construction) extends impact visibility through 2026-2027; Welch Terrace resident approval signals constituent pressure mitigation; fire relocation strategy documented but contingent on future University Avenue acquisition",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-NEWS-2025-00122"
+  ],
+  "last_relevance_update": null
+}

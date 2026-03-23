@@ -1,0 +1,69 @@
+{
+  "record_id": "CTX-NEWS-2025-00282",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2025/05/taking-back-30-million-i-81-neighborhood-grant-is-morally-indefensible-your-letters.html",
+  "publication_date": "2025-05-29",
+  "capture_date": "2026-03-22T21:29:24Z",
+  "title": "Taking back $30 million I-81 neighborhood grant is ‘morally indefensible’ (Your Letters)",
+  "summary": "Opinion letter advocates for restoration of a $30 million federal grant for 15th Ward neighborhood revitalization following I-81 viaduct removal, after House Republicans voted to rescind it. Writer frames the funding as essential to address historical community displacement and inequity, characterizing the rescission as 'morally indefensible' and calling for city leadership intervention.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "grants",
+    "federal-programs",
+    "equity",
+    "housing",
+    "economic-development",
+    "infrastructure",
+    "neighborhood-services",
+    "advocacy",
+    "budget",
+    "vote"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "George A. Wojtowycz",
+      "type": "person",
+      "canonical_id": "PERSON-GEORGE-WOJTOWYCZ"
+    },
+    {
+      "name": "House Republicans",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Syracuse 15th Ward",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Constituent advocacy calling for municipal leadership to actively oppose federal funding rescission and restore $30M grant for neighborhood revitalization; frames issue as equity and justice priority.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount corrected from '$30' to '$30 million' based on article content",
+    "Article is opinion/letters section, not official policy announcement",
+    "Federal funding at risk—intergovernmental coordination likely required for advocacy response",
+    "Historical context: I-81 viaduct removal is major infrastructure initiative; revitalization funding directly tied to this CIO-relevant project",
+    "No specific system, contract, or procurement details provided",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

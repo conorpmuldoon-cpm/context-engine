@@ -1,0 +1,76 @@
+{
+  "record_id": "CTX-NEWS-2025-00259",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2025/05/syracuse-common-council-lacks-courage-to-fix-unfair-assessments-editorial-board-opinion.html",
+  "publication_date": "2025-05-11",
+  "capture_date": "2026-03-22T21:26:44Z",
+  "title": "Syracuse Common Council lacks courage to fix unfair assessments (Editorial Board Opinion)",
+  "summary": "Syracuse Common Council voted unanimously to cut $16M from Mayor Walsh's $348.4M budget, including elimination of a planned citywide property revaluation affecting 40,000 properties. The editorial criticizes this as political cowardice driven by mayoral candidates Pat Hogan and Chol Majok avoiding constituent backlash, arguing the revaluation is necessary to address decades of tax assessment inequities between neighborhoods.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "tax-revenue",
+    "equity",
+    "council",
+    "vote",
+    "policy-change",
+    "mayor",
+    "escalating",
+    "constituent_pressure"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-CHOL-MAJOK"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Advance Media NY Editorial Board",
+      "type": "organization",
+      "canonical_id": "ORG-ADVANCE-MEDIA-NY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Editorial board opposes council's decision to defer property revaluation; characterizes mayoral candidates Hogan and Majok as prioritizing political positioning over necessary equity reforms; positions Deputy Mayor Owens as aligned with administration priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount '$16 million' refers to budget cuts; '$348.4 million' is total proposed budget—corrected from mechanical extraction",
+    "Police and fire mentioned as cut areas but no specific department impact quantified",
+    "Syracuse University entity in article is contextual (debate host) not substantively relevant to CIO operations",
+    "No IT/GIS/data-governance systems mentioned despite property assessment topic involving potential data/mapping infrastructure",
+    "Article is opinion/editorial, not announcement of official policy—reflects advocacy position rather than confirmed action",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'constituent_pressure' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

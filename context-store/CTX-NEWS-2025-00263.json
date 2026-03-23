@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-NEWS-2025-00263",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/07/syracuse-contractor-donates-40000-ac-overhaul-so-mary-nelsons-center-can-reopen.html",
+  "publication_date": "2025-07-30",
+  "capture_date": "2026-03-22T21:27:11Z",
+  "title": "Syracuse contractor donates $40,000 A/C overhaul so Mary Nelson’s center can reopen",
+  "summary": "Local HVAC contractor Chad Terrinoni of Hummingbird Heating & Cooling donated a $40,000 air conditioning system overhaul to Mary Nelson's Youth Center, enabling the facility to reopen and resume serving 50-60 low-income children daily. The donation was prompted by a syracuse.com article about the broken A/C unit that disrupted the center's meal programs and community services; installation is scheduled for the following Tuesday.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "business-community",
+    "equity",
+    "facilities",
+    "neighborhood-services",
+    "one-time",
+    "resolved",
+    "residents"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Chad Terrinoni",
+      "type": "person",
+      "canonical_id": "PERSON-CHAD-TERRINONI"
+    },
+    {
+      "name": "Mary Nelson",
+      "type": "person",
+      "canonical_id": "PERSON-MARY-NELSON"
+    },
+    {
+      "name": "Hummingbird Heating & Cooling",
+      "type": "organization",
+      "canonical_id": "ORG-HUMMINGBIRD-HC"
+    },
+    {
+      "name": "Mary Nelson Youth Center",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Community-led infrastructure support for low-income youth services demonstrates private sector alignment with equity-focused neighborhood resilience; signals grassroots problem-solving without municipal intervention.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No government departments directly involved in resolution; primarily private sector philanthropic action",
+    "Article frames as resolved issue with concrete timeline",
+    "May warrant CIO attention regarding youth-serving facility infrastructure tracking or community partnership databases",
+    "News coverage indicates media-driven corporate donation (donor responded to published story)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}
