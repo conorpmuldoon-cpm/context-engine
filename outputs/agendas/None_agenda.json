@@ -1,0 +1,57 @@
+{
+  "meeting_type": null,
+  "date": null,
+  "time": "12:00 P.M.",
+  "roll_call": 7,
+  "item_count": 3,
+  "items": [
+    {
+      "number": 8,
+      "sponsors": [
+        "Paniagua"
+      ],
+      "description": "Adopt - Rules and Procedures of the Syracuse Common Council for 2026-2027.\n7-0",
+      "vote": "7-0",
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 9,
+      "sponsors": [
+        "Paniagua"
+      ],
+      "description": "Appoint - Standing Committees of the Syracuse Common Council for 2026-2027.\nBY THE CITY CLERK:",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 10,
+      "sponsors": [
+        "Paniagua"
+      ],
+      "description": "Designate - The Syracuse Post Standard as the Official Newspaper for the City of\n7-0 Syracuse for the Publication of Legal Notices during 2026-2027. 1\nSyracuse Common Council\nAdjourned at 12:05 PM",
+      "vote": "7-0",
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    }
+  ],
+  "names_detected": {
+    "council_members": [
+      "Rita Paniagua",
+      "Dr. Chol Majok",
+      "Rasheada Caldwell",
+      "Hanah Ehrenreich",
+      "Jimmy Monto",
+      "Patricia K. McBride"
+    ],
+    "external_people": [],
+    "organizations": []
+  }
+}

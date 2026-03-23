@@ -1,0 +1,39 @@
+{
+  "date": "2026-03-23",
+  "source": "agenda_parse",
+  "names": [],
+  "organizations": [
+    {
+      "name": "Colliers Engineering & Design",
+      "context": "Item 19"
+    },
+    {
+      "name": "Barton & Loguidice",
+      "context": "Item 19"
+    },
+    {
+      "name": "NYS DOT",
+      "context": "Item 23"
+    },
+    {
+      "name": "C&S Engineers Inc.",
+      "context": "Item 23"
+    },
+    {
+      "name": "Granicus",
+      "context": "Item 28"
+    },
+    {
+      "name": "BRYCER",
+      "context": "Item 32"
+    },
+    {
+      "name": "Naughton & Associates",
+      "context": "Item 32"
+    },
+    {
+      "name": "Syracuse Model Neighborhood Facility",
+      "context": "Item 36"
+    }
+  ]
+}
