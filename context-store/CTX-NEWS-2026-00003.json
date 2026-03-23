@@ -1,0 +1,51 @@
+{
+  "record_id": "CTX-NEWS-2026-00003",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangebasketball/2026/03/jim-boeheim-on-gerry-mcnamara-i-think-they-got-the-best-coach-available.html",
+  "publication_date": "2026-03-23",
+  "capture_date": "2026-03-23T15:41:15Z",
+  "title": "Boeheim on McNamara: ‘I think they got the best coach available’",
+  "summary": "Jim Boeheim, former Syracuse University basketball coach, publicly endorsed Gerry McNamara as 'the best coach available' following McNamara's hiring. Boeheim previously coached McNamara as a player and later employed him on his SU staff. This is a sports-related personnel announcement with no direct CIO governance implications.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Jim Boeheim",
+      "type": "person",
+      "canonical_id": "PERSON-JIM-BOEHEIM"
+    },
+    {
+      "name": "Gerry McNamara",
+      "type": "person",
+      "canonical_id": "PERSON-GERRY-MCNAMARA"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns university athletics personnel, not City of Syracuse municipal governance",
+    "No relevance to CIO mandate or municipal operations",
+    "Syracuse University is external entity; no city department involvement detected",
+    "Recommend filtering out sports news in future article submissions to this analysis engine",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

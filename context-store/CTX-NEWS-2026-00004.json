@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00004",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/03/thousands-of-upstate-ny-businesses-face-utility-shutoffs-sparked-by-hefty-power-bills.html",
+  "publication_date": "2026-03-23",
+  "capture_date": "2026-03-23T15:41:19Z",
+  "title": "Thousands of Upstate NY businesses face utility shutoffs sparked by hefty power bills",
+  "summary": "Upstate NY businesses face significant utility shutoff risk due to unpaid National Grid bills, with January-February 2026 showing a threefold increase in at-risk customers compared to the prior year. This economic hardship trend may signal broader business cash flow challenges affecting the regional economy and potentially tax revenue generation for Syracuse.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "business-community",
+    "economic-development",
+    "escalating",
+    "state-agency",
+    "trending",
+    "utility-infrastructure"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "National Grid",
+      "type": "organization",
+      "canonical_id": "ORG-NATIONAL-GRID"
+    },
+    {
+      "name": "Renee Fox",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Growing business utility shutoff crisis indicates emerging constituent pressure regarding utility affordability and business sustainability; potential advocacy trigger for city leadership intervention or state regulatory review.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article location (Baldwinsville) is outside Syracuse city limits but affects Upstate NY regional economy",
+    "No dollar amounts specified in excerpt; full article may contain additional financial data",
+    "State-level utility regulation issue; CIO should flag for mayor/economic development coordination",
+    "PROVISIONAL tag added: 'utility-infrastructure' as not in standard tag list; consider adding for future references",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'utility-infrastructure' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

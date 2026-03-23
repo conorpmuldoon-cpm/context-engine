@@ -1,0 +1,80 @@
+2026-03-23 15:41:11,462 [INFO] ============================================================
+2026-03-23 15:41:11,462 [INFO] News Scanner starting
+2026-03-23 15:41:11,463 [INFO] Fetching: Syracuse.com Politics
+2026-03-23 15:41:11,868 [INFO]   50 new articles from Syracuse.com Politics
+2026-03-23 15:41:11,868 [INFO] Fetching: Syracuse.com Government
+2026-03-23 15:41:12,031 [INFO]   0 new articles from Syracuse.com Government
+2026-03-23 15:41:12,031 [INFO] Fetching: Syracuse.com Local
+2026-03-23 15:41:12,252 [INFO]   0 new articles from Syracuse.com Local
+2026-03-23 15:41:12,252 [INFO] Fetching: Syracuse.com Main
+2026-03-23 15:41:12,451 [INFO]   0 new articles from Syracuse.com Main
+2026-03-23 15:41:12,451 [INFO] Total unique articles across all feeds: 50
+2026-03-23 15:41:12,451 [INFO] New articles (not previously processed): 50
+2026-03-23 15:41:12,491 [DEBUG]   Filtered (not relevant): Target’s highly-rated $580 patio set is on sale for 50% off this week
+2026-03-23 15:41:12,491 [DEBUG]   Filtered (not relevant): Company news: Pathfinder Bank announces new general counsel
+2026-03-23 15:41:12,492 [INFO]   Relevant: Boeheim on McNamara: ‘I think they got the best coach available’
+2026-03-23 15:41:12,492 [DEBUG]     → Entities: Syracuse University
+2026-03-23 15:41:15,387 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-03-23 15:41:15,419 [INFO]     Saved: CTX-NEWS-2026-00003 → CTX-NEWS-2026-00003.json
+2026-03-23 15:41:15,420 [DEBUG]   Filtered (not relevant): Five free agents Bills could still target including D.J. Reader, Brandin Cooks
+2026-03-23 15:41:15,421 [DEBUG]   Filtered (not relevant): Miss Manners: I haven’t been in the book club that long; is a faux pas to just s
+2026-03-23 15:41:15,421 [DEBUG]   Filtered (not relevant): Trump installs statue of controversial historical figure at White House
+2026-03-23 15:41:15,421 [DEBUG]   Filtered (not relevant): Miss Manners: I really don’t ‘love’ that many people, so why do I have to end le
+2026-03-23 15:41:15,422 [DEBUG]   Filtered (not relevant): Syracuse amphitheater adds alternative rock concert to 2026 lineup
+2026-03-23 15:41:15,423 [DEBUG]   Filtered (not relevant): Expert project an OKC blow out, but will Kalshi markets buy shorthanded Sixers k
+2026-03-23 15:41:15,423 [DEBUG]   Filtered (not relevant): TLC, Salt-N-Pepa coming to Upstate NY on joint tour with En Vogue
+2026-03-23 15:41:15,423 [DEBUG]   Filtered (not relevant): New Schweinfurth exhibition features pivotal and routine moments in Native peopl
+2026-03-23 15:41:15,424 [DEBUG]   Filtered (not relevant): Dear Doctor: Aging woman is desperate to stop her hair falling out, but nothing 
+2026-03-23 15:41:15,424 [DEBUG]   Filtered (not relevant): How to secure Jay-Z presale tickets during hectic presale before they sell out
+2026-03-23 15:41:15,425 [DEBUG]   Filtered (not relevant): Mets’ top prospect still waiting to find out if he'll start season in Syracuse
+2026-03-23 15:41:15,425 [DEBUG]   Filtered (not relevant): Syracuse to play Providence in Boston next season
+2026-03-23 15:41:15,425 [DEBUG]   Filtered (not relevant): Rapper to perform in 3 Upstate NY cities as part of 25th anniversary tour
+2026-03-23 15:41:15,426 [DEBUG]   Filtered (not relevant): Dear Doctor: I was lucky to discover the trigger of my migraines; but I’m still 
+2026-03-23 15:41:15,426 [DEBUG]   Filtered (not relevant): The Ninja SLUSHi is on sale at Walmart for $50 off, but it’s selling fast
+2026-03-23 15:41:15,427 [DEBUG]   Filtered (not relevant): ICE officers assisting TSA at airports as shutdown frustrates travelers, screene
+2026-03-23 15:41:15,427 [DEBUG]   Filtered (not relevant): Extended BetMGM Bonus Code CUSE150: $150 bonus and $5K+ casino bonus in MI throu
+2026-03-23 15:41:15,428 [DEBUG]   Filtered (not relevant): Syracuse men’s lacrosse returns to Top 5 in latest media poll
+2026-03-23 15:41:15,428 [DEBUG]   Filtered (not relevant): Photos you’ll want to see from Central New York high school winter sports (Week 
+2026-03-23 15:41:15,429 [DEBUG]   Filtered (not relevant): Central NY event raises over $100k for child cancer research
+2026-03-23 15:41:15,429 [DEBUG]   Filtered (not relevant): The famous Syracuse train station with the plaster human figures is losing its i
+2026-03-23 15:41:15,429 [DEBUG]   Filtered (not relevant): Modernize SEQRA to address Upstate NY’s housing challenges (Guest Opinion by Mic
+2026-03-23 15:41:15,430 [DEBUG]   Filtered (not relevant): Dear Annie: I’ve been thrust into parenting again at the age of 62; I’m not sure
+2026-03-23 15:41:15,430 [DEBUG]   Filtered (not relevant): NHL reporter, 3 sons die in Minnesota house fire
+2026-03-23 15:41:15,430 [DEBUG]   Filtered (not relevant): Believe 31: Central Square fundraiser supports firefighters with cancer
+2026-03-23 15:41:15,431 [DEBUG]   Filtered (not relevant): Trial to begin today for NY corrections officer accused in fatal beating of Mess
+2026-03-23 15:41:15,431 [INFO]   Relevant: Thousands of Upstate NY businesses face utility shutoffs sparked by hefty power 
+2026-03-23 15:41:15,431 [DEBUG]     → Entities: National Grid
+2026-03-23 15:41:19,449 [WARNING]     Tag issue: Unknown tag 'utility-infrastructure' not in taxonomy
+2026-03-23 15:41:19,460 [INFO]     Saved: CTX-NEWS-2026-00004 → CTX-NEWS-2026-00004.json
+2026-03-23 15:41:19,461 [DEBUG]   Filtered (not relevant): Russell trades in his sneakers for cleats: ‘He’s gonna make big plays for us’
+2026-03-23 15:41:19,461 [DEBUG]   Filtered (not relevant): Section III girls basketball final top 100 stats leaders for 2025-26
+2026-03-23 15:41:19,462 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: This simple Friday reset will make your weekend even better
+2026-03-23 15:41:19,462 [DEBUG]   Filtered (not relevant): Section III boys basketball final top 100 stats leaders for 2025-26
+2026-03-23 15:41:19,462 [DEBUG]   Filtered (not relevant): TV star accused of assaulting neighbor in front of children (report)
+2026-03-23 15:41:19,463 [DEBUG]   Filtered (not relevant): Animal welfare facility, mall: See 20 latest business, apartment, land sales ($1
+2026-03-23 15:41:19,463 [DEBUG]   Filtered (not relevant): American Pen Women branch in Syracuse will celebrate 100 years in 2026
+2026-03-23 15:41:19,464 [DEBUG]   Filtered (not relevant): Upstate NY ski resort invests $3M to increase snowmaking capabilities for 2027 s
+2026-03-23 15:41:19,464 [DEBUG]   Filtered (not relevant): Asking Eric: My best friends have cut me out of lives with no explanation; do I 
+2026-03-23 15:41:19,464 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for March 23
+2026-03-23 15:41:19,465 [DEBUG]   Filtered (not relevant): Kefte tagine With jalapeño yogurt sauce
+2026-03-23 15:41:19,466 [DEBUG]   Filtered (not relevant): Pilot, copilot killed in jet collision with fire truck at NY airport; 39 others 
+2026-03-23 15:41:19,466 [DEBUG]   Filtered (not relevant): Drivers wrongfully ticketed under new school-zone camera program (Good Morning C
+2026-03-23 15:41:19,467 [DEBUG]   Filtered (not relevant): Asking Eric: We can all see friend emotionally abusing her daughter while insist
+2026-03-23 15:41:19,467 [DEBUG]   Filtered (not relevant): Central NY forecast: Warming trend this week, followed by return to cold tempera
+2026-03-23 15:41:19,467 [DEBUG]   Filtered (not relevant): Iran threatens to ‘completely’ close Strait of Hormuz and hit power plants after
+2026-03-23 15:41:19,468 [DEBUG]   Filtered (not relevant): Brit Floyd, Board Game Night, Candlelight Pops: 22 things to do in CNY this week
+2026-03-23 15:41:19,468 [DEBUG]   Filtered (not relevant): Axe: GMac can revive SU basketball with needed balance of business and pleasure
+2026-03-23 15:41:19,468 [DEBUG]   Filtered (not relevant): Battery powered air taxis could soon be flying over Syracuse
+2026-03-23 15:41:19,469 [DEBUG]   Filtered (not relevant): America’s second-best flower festival blooms in Upstate NY, voters say
+2026-03-23 15:41:19,469 [INFO] News Scanner Run — 2026-03-23 15:41
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Boeheim on McNamara: ‘I think they got the best coach available’
+  • Thousands of Upstate NY businesses face utility shutoffs sparked by hefty power 
+
