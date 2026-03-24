@@ -16,5 +16,14 @@
     "records_core": 9,
     "rating": 5,
     "notes": "Operator rated 5/5. Cluster-based briefing format worked well for tracking a vendor relationship across committee hearings."
+  },
+  {
+    "date": "2026-03-24",
+    "briefing_type": "cluster",
+    "target": "CLUSTER-BUDGET-BATTLE-2025Q2",
+    "records_reviewed": 42,
+    "records_core": 30,
+    "rating": 4.5,
+    "notes": "User rated 4-5. First briefing from full Librarian synthesis. 3 misclustered records identified and removed."
   }
 ]
