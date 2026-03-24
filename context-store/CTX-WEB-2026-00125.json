@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-WEB-2026-00125",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-03-23-Mayors-Office-News-245",
+  "publication_date": "2026-03-23",
+  "capture_date": "2026-03-24T15:50:34Z",
+  "title": "Mayor Owens Opens Public Commenting Period for Climate Action Plan",
+  "summary": "Mayor Sharon F. Owens announced the opening of a public commenting period for Syracuse's draft inaugural Climate Action Plan, which addresses greenhouse gas emissions and climate resilience. The plan was developed through community engagement and will remain open for feedback until April 21, 2026, before final adoption by the Common Council. The initiative is funded in part by New York State's Climate Smart Communities Grant Program.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "sustainability",
+    "initiative-launch",
+    "residents",
+    "grants",
+    "state-agency",
+    "transparency",
+    "intergovernmental"
+  ],
+  "department_refs": [
+    "Office of Communications",
+    "Mayor's Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "New York State Department of Environmental Conservation",
+      "type": "organization",
+      "canonical_id": "ORG-NYSDEC"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor-led climate action initiative signals executive commitment to sustainability and climate resilience as a strategic priority, with emphasis on inclusive public engagement and community-centered governance.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00003"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No budget amount specified; only reference to state grant funding (Climate Smart Communities Grant Program).",
+    "Author listed as 'Unknown' in source metadata; published by Mayor's Office/Communications.",
+    "Related initiative 'Sustainable Syracuse Initiative' mentioned; may warrant cross-reference with other CIO innovation portfolio items.",
+    "Public commenting portal URL (syr.gov/sustainable-syracuse) identified for digital services tracking.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00003 — linked for review"
+  ],
+  "last_relevance_update": null
+}
