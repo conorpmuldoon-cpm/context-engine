@@ -1,0 +1,52 @@
+{
+  "record_id": "CTX-NEWS-2026-00007",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/syracuse-university/2026/03/syracuse-university-to-axe-nine-majors-as-cost-cutting-at-the-school-continues.html",
+  "publication_date": "2026-03-25",
+  "capture_date": "2026-03-25T15:53:36Z",
+  "title": "Syracuse University to axe nine majors as cost-cutting at the school continues",
+  "summary": "Syracuse University announced plans to eliminate nine humanities-based majors as part of ongoing cost-cutting measures to maintain financial stability. While this is a university decision rather than municipal policy, it may have indirect impacts on workforce development pipelines and community education partnerships that the City should monitor.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:higher-education",
+    "budget",
+    "workforce-development"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Emalyn Muzzy",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "University cost-cutting in humanities may signal broader regional economic pressures and potential workforce development challenges affecting the City's talent pipeline and economic competitiveness.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article subject is higher education institution, not municipal government—outside typical CIO operational scope but relevant for workforce development and community partnership contexts",
+    "No city departments directly referenced",
+    "No budget figures provided in excerpt",
+    "Recommend cross-reference with economic-development and workforce-development initiatives",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

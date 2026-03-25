@@ -1,0 +1,82 @@
+2026-03-25 15:53:29,097 [INFO] ============================================================
+2026-03-25 15:53:29,097 [INFO] News Scanner starting
+2026-03-25 15:53:29,098 [INFO] Fetching: Syracuse.com Politics
+2026-03-25 15:53:29,470 [INFO]   50 new articles from Syracuse.com Politics
+2026-03-25 15:53:29,470 [INFO] Fetching: Syracuse.com Government
+2026-03-25 15:53:29,720 [INFO]   0 new articles from Syracuse.com Government
+2026-03-25 15:53:29,720 [INFO] Fetching: Syracuse.com Local
+2026-03-25 15:53:29,928 [INFO]   0 new articles from Syracuse.com Local
+2026-03-25 15:53:29,928 [INFO] Fetching: Syracuse.com Main
+2026-03-25 15:53:30,108 [INFO]   0 new articles from Syracuse.com Main
+2026-03-25 15:53:30,108 [INFO] Total unique articles across all feeds: 50
+2026-03-25 15:53:30,109 [INFO] New articles (not previously processed): 50
+2026-03-25 15:53:30,137 [DEBUG]   Filtered (not relevant): Is StubHub legit for BTS tickets? What to know before buying resale
+2026-03-25 15:53:30,138 [DEBUG]   Filtered (not relevant): Three displaced after basement fire in Salina home
+2026-03-25 15:53:30,138 [DEBUG]   Filtered (not relevant): 5 things that stood out during a tour of the new Buffalo Bills stadium
+2026-03-25 15:53:30,138 [DEBUG]   Filtered (not relevant): Miss Manners: New member at women’s group is so self-centered she’s like a human
+2026-03-25 15:53:30,139 [DEBUG]   Filtered (not relevant): 5 recipes that pair go-to ingredients to great effect
+2026-03-25 15:53:30,139 [DEBUG]   Filtered (not relevant): Man burned in Cicero house fire in critical condition, house destroyed
+2026-03-25 15:53:30,139 [DEBUG]   Filtered (not relevant): Girl group member claims she was excluded from tour because she’s MAGA
+2026-03-25 15:53:30,140 [DEBUG]   Filtered (not relevant): Miss Manners: You don’t need to be quite that ‘sorry’ when you hear about my dis
+2026-03-25 15:53:30,140 [DEBUG]   Filtered (not relevant): Owala to drop ‘Off The Hook’ FreeSip Color Drop - Here’s your first look
+2026-03-25 15:53:30,141 [DEBUG]   Filtered (not relevant): 76ers vs. Bulls: Kalshi markets, prediction and picks for Paul George’s return
+2026-03-25 15:53:30,142 [DEBUG]   Filtered (not relevant): Dear Doctor: I suddenly have multiple bleeding moles; how worried should I be?
+2026-03-25 15:53:30,142 [DEBUG]   Filtered (not relevant): NJ's Sea.Hear.Now festival announces 2026 lineup: How to get tickets
+2026-03-25 15:53:30,142 [DEBUG]   Filtered (not relevant): NYers due millions in unclaimed tax refunds. Deadline nears
+2026-03-25 15:53:30,143 [DEBUG]   Filtered (not relevant): Dear Doctor: What are D-dimers, and are they responsible for this mysterious leg
+2026-03-25 15:53:30,143 [DEBUG]   Filtered (not relevant): Runners are sprinting to Target to score a rare deal on the Garmin watches for t
+2026-03-25 15:53:30,144 [DEBUG]   Filtered (not relevant): Updated BetMGM Bonus Code CUSE150: $150 bonus and $5K+ casino bonus in MI for ML
+2026-03-25 15:53:30,144 [DEBUG]   Filtered (not relevant): Upstate NY college adds AI ethics and literacy to freshman curriculum
+2026-03-25 15:53:30,145 [DEBUG]   Filtered (not relevant): Sale looms for Syracuse’s iconic twin office towers after $28 million loan defau
+2026-03-25 15:53:30,145 [DEBUG]   Filtered (not relevant): Hearing loss, ankylosing spondylitis & things you might not know (Enable: The Di
+2026-03-25 15:53:30,146 [DEBUG]   Filtered (not relevant): Emery Cinema: Syracuse native launches new local film club focused on analog scr
+2026-03-25 15:53:30,146 [DEBUG]   Filtered (not relevant): Dear Annie: Husband’s ‘love’ grows so quiet over the years, I feel like I’ve van
+2026-03-25 15:53:30,147 [INFO]   Relevant: Man stabbed multiple times on Syracuse’s East Side
+2026-03-25 15:53:30,147 [DEBUG]     → Departments: Syracuse Police Department
+2026-03-25 15:53:30,147 [DEBUG]     → Keywords: syracuse police
+2026-03-25 15:53:33,432 [INFO]     Saved: CTX-NEWS-2026-00006 → CTX-NEWS-2026-00006.json
+2026-03-25 15:53:33,432 [DEBUG]   Filtered (not relevant): No charges for TV star accused of assaulting neighbor, police say
+2026-03-25 15:53:33,433 [DEBUG]   Filtered (not relevant): Hubert Davis is out as UNC basketball coach after 5 seasons
+2026-03-25 15:53:33,433 [DEBUG]   Filtered (not relevant): The Must-See 33: Section III softball All-CNY watchlist for 2026 season (photos)
+2026-03-25 15:53:33,434 [DEBUG]   Filtered (not relevant): See NY school districts with biggest improvements in ELA scores
+2026-03-25 15:53:33,434 [DEBUG]   Filtered (not relevant): How to watch MLB Opening Day games for free today
+2026-03-25 15:53:33,434 [DEBUG]   Filtered (not relevant): Former Syracuse player, Kentucky’s lead recruiter for No. 1 prospect is leaving 
+2026-03-25 15:53:33,435 [DEBUG]   Filtered (not relevant): Upstate NY man, 14-year-old son charged with assaulting police, cops say
+2026-03-25 15:53:33,435 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: No need to be scared of a sudden food shortage, if you’re w
+2026-03-25 15:53:33,436 [DEBUG]   Filtered (not relevant): Section III Class B football all-stars announced for 2025
+2026-03-25 15:53:33,436 [INFO]   Relevant: Syracuse University to axe nine majors as cost-cutting at the school continues
+2026-03-25 15:53:33,436 [DEBUG]     → Entities: Syracuse University
+2026-03-25 15:53:36,853 [INFO]     Saved: CTX-NEWS-2026-00007 → CTX-NEWS-2026-00007.json
+2026-03-25 15:53:36,853 [DEBUG]   Filtered (not relevant): Top Mets prospects and ex-MLB players to watch for in Syracuse this season
+2026-03-25 15:53:36,854 [DEBUG]   Filtered (not relevant): Asking Eric: We host family lunch parties all the time, but never get invited to
+2026-03-25 15:53:36,854 [DEBUG]   Filtered (not relevant): New York’s 2025 hunting season safest on record
+2026-03-25 15:53:36,854 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for March 25
+2026-03-25 15:53:36,855 [DEBUG]   Filtered (not relevant): Police blotter: See 260 new arrests added (March 24, 2026)
+2026-03-25 15:53:36,855 [DEBUG]   Filtered (not relevant): Syracuse center William Kyle will compete in dunk contest before NCAA Final Four
+2026-03-25 15:53:36,856 [DEBUG]   Filtered (not relevant): Massive Syracuse restaurant closes; more top stories (Good Morning CNY)
+2026-03-25 15:53:36,856 [DEBUG]   Filtered (not relevant): Iran receives ceasefire plan from US but dismisses idea of negotiating
+2026-03-25 15:53:36,857 [DEBUG]   Filtered (not relevant): Asking Eric: Political rift in family is so deep, I don’t even know if I can att
+2026-03-25 15:53:36,857 [DEBUG]   Filtered (not relevant): Central NY weather: Brief warmup before rain, plunging temperatures
+2026-03-25 15:53:36,857 [DEBUG]   Filtered (not relevant): Musician behind iconic 1960s hits dies at 86; part of famous acting family
+2026-03-25 15:53:36,858 [INFO]   Relevant: ‘Mean Girls’ musical coming to Syracuse University
+2026-03-25 15:53:36,858 [DEBUG]     → Entities: Syracuse University
+2026-03-25 15:53:39,536 [INFO]     Saved: CTX-NEWS-2026-00008 → CTX-NEWS-2026-00008.json
+2026-03-25 15:53:39,537 [DEBUG]   Filtered (not relevant): West Genesee voters reject transportation building project for second time
+2026-03-25 15:53:39,537 [DEBUG]   Filtered (not relevant): AG: Deputy’s 100-mph chases, other violations show pattern of misconduct. ‘I was
+2026-03-25 15:53:39,538 [DEBUG]   Filtered (not relevant): Bills mock draft 2026: Buffalo adds game-changing safety, Godfather for the Mafi
+2026-03-25 15:53:39,538 [DEBUG]   Filtered (not relevant): Dear Abby: Sister is a hoarder with ADHD; her home is a health hazard, but when 
+2026-03-25 15:53:39,538 [DEBUG]   Filtered (not relevant): Classic rock band announces 50th anniversary tour dates
+2026-03-25 15:53:39,539 [DEBUG]   Filtered (not relevant): Dear Abby: I can’t make son’s choices, but I refuse to accept his new family and
+2026-03-25 15:53:39,539 [INFO] News Scanner Run — 2026-03-25 15:53
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • Man stabbed multiple times on Syracuse’s East Side
+  • Syracuse University to axe nine majors as cost-cutting at the school continues
+  • ‘Mean Girls’ musical coming to Syracuse University
+

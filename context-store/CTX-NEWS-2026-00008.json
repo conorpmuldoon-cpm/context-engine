@@ -1,0 +1,50 @@
+{
+  "record_id": "CTX-NEWS-2026-00008",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/schools/2026/03/mean-girls-musical-coming-to-syracuse-university.html",
+  "publication_date": "2026-03-25",
+  "capture_date": "2026-03-25T15:53:39Z",
+  "title": "‘Mean Girls’ musical coming to Syracuse University",
+  "summary": "Syracuse University's First Year Players will present a spring production of 'Mean Girls' musical with three performances beginning April 2 at Schine Student Center. This is a cultural and student engagement announcement with no direct municipal policy or service implications.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "First Year Players",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Schine Student Center",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is about university student theater production, not municipal government services or policy",
+    "No CIO relevance detected; no technology, digital services, or innovation infrastructure mentioned",
+    "Recommend deprioritizing or filtering similar cultural event announcements from future analysis unless they relate to municipal digital services or innovation initiatives",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

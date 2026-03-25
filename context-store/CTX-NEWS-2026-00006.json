@@ -1,0 +1,52 @@
+{
+  "record_id": "CTX-NEWS-2026-00006",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/03/man-stabbed-multiple-times-on-syracuses-east-side.html",
+  "publication_date": "2026-03-25",
+  "capture_date": "2026-03-25T15:53:33Z",
+  "title": "Man stabbed multiple times on Syracuse’s East Side",
+  "summary": "A 50-year-old man was stabbed multiple times on Syracuse's East Side on March 25, 2026, with police responding to the 100 block of Devine Street just after midnight. This incident represents a public safety event in the East Side neighborhood requiring police investigation and potential follow-up on crime data and community safety initiatives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "crime-data",
+    "police",
+    "public-safety-commission",
+    "escalating",
+    "emergency-services"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Violent crime incident on East Side may trigger scrutiny of neighborhood public safety conditions and police response effectiveness",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Victim identity withheld in reporting",
+    "No suspect information provided",
+    "No connection to city innovation initiatives detected",
+    "Relevant for crime data aggregation and East Side neighborhood safety assessment",
+    "Author: Finn Lincoln (local news coverage)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
