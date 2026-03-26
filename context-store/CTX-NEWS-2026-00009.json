@@ -1,0 +1,45 @@
+{
+  "record_id": "CTX-NEWS-2026-00009",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangebasketball/2026/03/syracuse-will-officially-introduce-gerry-mcnamara-at-special-event-on-monday.html",
+  "publication_date": "2026-03-26",
+  "capture_date": "2026-03-26T15:58:55Z",
+  "title": "Syracuse will officially introduce Gerry McNamara at special event on Monday",
+  "summary": "Syracuse University announces a public event on Monday to officially introduce Gerry McNamara as its new men's basketball coach. This is a university athletics leadership announcement unrelated to city government operations or the Chief Innovation Officer's mandate.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Gerry McNamara",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns university athletics, not city government or innovation initiatives",
+    "No relevance to CIO's departmental operations, budget, infrastructure, or digital services",
+    "Recommend deprioritization in city innovation tracking systems",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

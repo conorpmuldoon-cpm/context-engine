@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00011",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/03/plans-revealed-for-second-micron-business-park-in-clay-10-buildings-more-than-100-acres.html",
+  "publication_date": "2026-03-26",
+  "capture_date": "2026-03-26T15:59:03Z",
+  "title": "Plans revealed for second Micron business park in Clay: 10 buildings, more than 100 acres",
+  "summary": "Onondaga County is advancing plans for a second business park in Clay across from the White Pine Commerce Park, where Micron Technology is constructing a major semiconductor factory. The new park will feature 10 buildings on more than 100 acres, representing significant economic development and infrastructure expansion in the region.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "land-use",
+    "capital-planning",
+    "business-community",
+    "intergovernmental"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    },
+    {
+      "name": "Rick Moriarty",
+      "type": "person",
+      "canonical_id": "PERSON-RICK-MORIARTY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "County-level economic development initiative aligned with state/regional semiconductor manufacturing investment strategy; demonstrates regional coordination on major industrial infrastructure",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on county-level planning; limited direct CIO relevance unless digital infrastructure or permitting systems involved",
+    "No budget figures, procurement details, or technology infrastructure requirements mentioned in excerpt",
+    "Future coverage may reveal IT/GIS needs for permitting, site planning, or project management",
+    "Date is future-dated (2026-03-26) — verify source legitimacy",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
