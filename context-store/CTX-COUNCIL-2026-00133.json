@@ -36,7 +36,9 @@
   "sentiment": "neutral",
   "political_signal": null,
   "freshness_class": "long",
-  "cluster_ids": [],
+  "cluster_ids": [
+    "CLUSTER-PAYROLL-MODERNIZATION-2026Q1"
+  ],
   "engagement_relevance": [],
   "feedback": null,
   "schema_version": "1.0.0",

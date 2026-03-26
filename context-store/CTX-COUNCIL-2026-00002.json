@@ -37,7 +37,9 @@
     "confidence": "medium"
   },
   "freshness_class": "long",
-  "cluster_ids": [],
+  "cluster_ids": [
+    "CLUSTER-SANCTUARY-CITY-2025Q2"
+  ],
   "engagement_relevance": [],
   "feedback": null,
   "schema_version": "1.0.0",

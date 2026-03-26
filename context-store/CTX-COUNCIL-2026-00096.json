@@ -82,7 +82,9 @@
   "sentiment": "positive",
   "political_signal": null,
   "freshness_class": "long",
-  "cluster_ids": [],
+  "cluster_ids": [
+    "CLUSTER-PARKS-CAPITAL-2025"
+  ],
   "engagement_relevance": [],
   "feedback": null,
   "schema_version": "1.0.0",

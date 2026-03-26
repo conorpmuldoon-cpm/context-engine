@@ -27,7 +27,9 @@
     "confidence": "medium"
   },
   "freshness_class": "long",
-  "cluster_ids": [],
+  "cluster_ids": [
+    "CLUSTER-BESS-MORATORIUM-2026Q1"
+  ],
   "engagement_relevance": [],
   "feedback": null,
   "schema_version": "1.0.0",

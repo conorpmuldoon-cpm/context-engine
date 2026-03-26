@@ -54,7 +54,9 @@
     "confidence": "high"
   },
   "freshness_class": "medium",
-  "cluster_ids": [],
+  "cluster_ids": [
+    "CLUSTER-DPW-WINTER-OPS-2025Q4"
+  ],
   "engagement_relevance": [],
   "feedback": null,
   "schema_version": "1.0.0",

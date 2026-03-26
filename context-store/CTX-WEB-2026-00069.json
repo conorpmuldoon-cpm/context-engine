@@ -66,7 +66,9 @@
     "confidence": "high"
   },
   "freshness_class": "medium",
-  "cluster_ids": [],
+  "cluster_ids": [
+    "CLUSTER-LEAD-REMEDIATION-2026Q1"
+  ],
   "engagement_relevance": [],
   "feedback": null,
   "schema_version": "1.0.0",
