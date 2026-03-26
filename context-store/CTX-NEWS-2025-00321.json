@@ -1,0 +1,87 @@
+{
+  "record_id": "CTX-NEWS-2025-00321",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/05/jury-rules-syracuse-officer-used-excessive-force-in-fathers-day-shooting-but-verdict-likely-to-be-overturned.html",
+  "publication_date": "2025-05-23",
+  "capture_date": "2026-03-24T11:05:47Z",
+  "title": "Jury rules Syracuse officer used excessive force in Father’s Day shooting, but verdict likely to be overturned",
+  "summary": "A federal jury ruled that Syracuse Police Officer Kelsey Francemone used excessive force in the 2016 fatal shooting of Gary Porter, awarding the family only $10,000 despite the city's prior $800,000+ settlement offer. However, the judge indicated qualified immunity will likely overturn the verdict after the jury found Porter was armed and posed a perceived threat, potentially eliminating civil liability for the officer.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "investigation",
+    "complaint",
+    "escalating",
+    "equity",
+    "transparency",
+    "litigation",
+    "PROVISIONAL:qualified-immunity",
+    "PROVISIONAL:use-of-force"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Kelsey Francemone",
+      "type": "person",
+      "canonical_id": "PERSON-KELSEY-FRANCEMONE"
+    },
+    {
+      "name": "Gary Porter",
+      "type": "person",
+      "canonical_id": "PERSON-GARY-PORTER"
+    },
+    {
+      "name": "Fred Lichtmacher",
+      "type": "person",
+      "canonical_id": "PERSON-FRED-LICHTMACHER"
+    },
+    {
+      "name": "Mary D'Agostino",
+      "type": "person",
+      "canonical_id": "PERSON-MARY-DAGOSTINO"
+    },
+    {
+      "name": "Judge Brenda Sannes",
+      "type": "person",
+      "canonical_id": "PERSON-BRENDA-SANNES"
+    },
+    {
+      "name": "William Fitzpatrick",
+      "type": "person",
+      "canonical_id": "PERSON-WILLIAM-FITZPATRICK"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Federal court verdict finding excessive force highlights ongoing community scrutiny of police accountability mechanisms and qualified immunity doctrine; jury's $10,000 award versus city's $800K+ settlement position signals institutional cost-benefit analysis in use-of-force litigation.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-SPD-USE-OF-FORCE-2025"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date 2025-05-23 is future-dated; verify against publication records",
+    "Jury composition noted as demographic detail (5 white women, 2 white men, 1 Black woman) relevant to equity analysis",
+    "Key tension: jury found excessive force AND found Porter armed—legal inconsistency flagged by plaintiff's counsel",
+    "Officer Francemone's 2017 Police Officer of the Year award context relevant to institutional response and training implications",
+    "No gun recovered; qualified immunity doctrine shields officer despite excessive force finding",
+    "Consider CIO relevance: body camera/evidence systems, data governance in use-of-force documentation, transparency/public records",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'litigation' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

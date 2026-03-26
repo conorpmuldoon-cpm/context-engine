@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-NEWS-2025-00388",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.localsyr.com/news/local-news/leader-says-common-council-will-probably-override-syracuse-mayors-requests-to-restore-budget-cuts",
+  "publication_date": "2025-05-21",
+  "capture_date": "2026-03-26T00:53:40Z",
+  "title": "Leader says Common Council will ‘probably’ override Syracuse mayor’s requests to restore budget cuts",
+  "summary": "The Syracuse Common Council President Pro-Tempore Pat Hogan announced the council will likely override all 45 budget vetoes issued by Mayor Ben Walsh, indicating a significant breakdown in executive-legislative budget alignment. This signals potential conflict over spending priorities and resource allocation decisions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "mayor",
+    "council",
+    "vote",
+    "policy-change",
+    "escalating"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Common Council leadership publicly signals intent to override mayoral vetoes on 45 budget amendments, indicating substantive disagreement on budget priorities and spending direction.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-BUDGET-BATTLE-2025Q2"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No specific dollar amounts provided in article",
+    "No specific departments or budget line items identified",
+    "Article reflects legislative-executive tension; CIO may need to monitor impact on IT/digital services budgets or departmental technology allocations",
+    "Date format indicates this is future-dated content (May 2025); verify currency",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.localsyr.com)"
+  ],
+  "last_relevance_update": null
+}

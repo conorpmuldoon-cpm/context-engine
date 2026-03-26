@@ -1,0 +1,69 @@
+{
+  "record_id": "CTX-NEWS-2025-00382",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-city-school-district-looks-to-pay-outgoing-superintendent-125000-for-consulting",
+  "publication_date": "2025-10-07",
+  "capture_date": "2026-03-26T00:43:11Z",
+  "title": "Syracuse City School District looks to pay outgoing Superintendent $125,000 for consulting",
+  "summary": "Syracuse City School District is proposing a $125,000 consulting contract with TD22 Consulting LLC, owned by outgoing Superintendent Anthony Davis, to provide transition support and coaching through October 31, 2025. The contract aims to support strategic plan implementation during the leadership transition to Deputy Superintendent Pamela Odom.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "contract-award",
+    "leadership-change",
+    "procurement",
+    "transparency",
+    "PROVISIONAL:superintendent-transition"
+  ],
+  "department_refs": [
+    "Syracuse City School District"
+  ],
+  "entity_refs": [
+    {
+      "name": "Anthony Davis",
+      "type": "person",
+      "canonical_id": "PERSON-ANTHONY-DAVIS"
+    },
+    {
+      "name": "Pamela Odom",
+      "type": "person",
+      "canonical_id": "PERSON-PAMELA-ODOM"
+    },
+    {
+      "name": "TD22 Consulting LLC",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Mary Kielar",
+      "type": "person",
+      "canonical_id": "PERSON-MARY-KIELAR"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Media coverage of a potentially controversial consulting arrangement between school district and departing superintendent's private firm raises governance and conflict-of-interest questions, warranting public transparency review.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-SCSD-GOVERNANCE-2025"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date discrepancy: title shows 2025-10-07, byline shows October 6-7, 2025. Published by CNY Central (NBC3/CBS5).",
+    "No explicit CIO-related innovation initiatives mentioned; relevance is governance/procurement transparency and organizational transition management.",
+    "Contract value ($125,000) and consulting firm ownership structure are key transparency concerns.",
+    "Successor leadership identified (Pamela Odom, Deputy Superintendent, effective November 1).",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-NEWS-2025-00393",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.localsyr.com/news/local-news/syracuse-mayors-final-community-briefing-highlights-public-safety-and-housing-crisis/",
+  "publication_date": "2025-12-11",
+  "capture_date": "2026-03-26T00:58:09Z",
+  "title": "Syracuse mayor’s final community briefing highlights public safety and housing crisis",
+  "summary": "Syracuse Mayor Ben Walsh delivered his final community briefing before his December 31 term end, highlighting public safety achievements with overall crime down over 20%, including significant decreases in both violent and property crime year-over-year. The briefing also addressed housing crisis concerns, signaling administration priorities in public safety and housing for the incoming leadership transition.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "mayor",
+    "police",
+    "crime-data",
+    "public-safety",
+    "housing",
+    "announcement",
+    "leadership-change",
+    "transparency"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Outgoing mayor uses final briefing to highlight measurable crime reduction success (>20% overall, with decreases in violent and property crime), positioning public safety as a key administration achievement before transition.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-MAYORAL-TRANSITION-2025Q4",
+    "DEDUP-CTX-NEWS-2025-00166"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date is future-dated (2025-12-11); validate against current publication date",
+    "Housing crisis mentioned in title but not detailed in provided content excerpt—full article may contain relevant details for housing policy tracking",
+    "Crime statistics presented without granular category breakdown; recommend cross-reference with SPD official crime reports for CIO data governance purposes",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.localsyr.com)",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00166"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,82 @@
+{
+  "record_id": "CTX-NEWS-2025-00348",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/former-sears-building-to-be-site-of-states-first-workforce-innovation-hub-syracuse-governor-kathy-hochul-south-salina-street-empire-state-on-rampe",
+  "publication_date": "2025-03-28",
+  "capture_date": "2026-03-26T00:35:25Z",
+  "title": "Former Sears Building to be site of state's first workforce innovation hub",
+  "summary": "Governor Hochul announced selection of the former Sears Building at 1300 South Salina Street as New York State's first ON-RAMP Workforce Innovation Hub, a $200M state initiative to connect skilled workers with manufacturing careers. The City of Syracuse and CenterState CEO are leading broader revitalization efforts, with $8.5M in Empire State Development funding approved for the flagship center. Initial training will focus on career exploration, ESOL, financial empowerment, and construction/manufacturing skills.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "workforce-development",
+    "initiative-launch",
+    "training",
+    "state-agency",
+    "intergovernmental",
+    "capital-planning",
+    "equity",
+    "historic-preservation"
+  ],
+  "department_refs": [
+    "Office of the Mayor",
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Kathy Hochul",
+      "type": "person",
+      "canonical_id": "PERSON-KATHY-HOCHUL"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "CenterState CEO",
+      "type": "organization",
+      "canonical_id": "ORG-CENTERSTATE-CEO"
+    },
+    {
+      "name": "Empire State Development",
+      "type": "organization",
+      "canonical_id": "ORG-ESD"
+    },
+    {
+      "name": "ON-RAMP",
+      "type": "system",
+      "canonical_id": "SYS-ON-RAMP"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "State investment aligns with Syracuse Surge inclusive growth strategy; positions Syracuse as flagship hub for regional advanced manufacturing workforce development.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00230"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount for ON-RAMP program is $200M (not $200 as extracted); specific allocation to Syracuse is $8.5M",
+    "Key stakeholder alignment: Governor (state), Mayor Walsh (city), CenterState CEO (convener)",
+    "Temporary operations at 115 West Fayette St. during South Salina redevelopment",
+    "Three additional hubs planned for Capital Region, Mohawk Valley, Finger Lakes",
+    "Historic preservation angle: adaptive reuse of former Sears Building",
+    "Related city initiative: Syracuse Surge strategy mentioned",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Potential duplicate of CTX-NEWS-2025-00230"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,69 @@
+{
+  "record_id": "CTX-NEWS-2025-00370",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/light-comedy-and-a-catch-phrase-to-help-stop-parkway-bridge-strikes",
+  "publication_date": "2025-07-23",
+  "capture_date": "2026-03-26T00:40:51Z",
+  "title": "Light comedy and a catch phrase to help stop Parkway bridge strikes?",
+  "summary": "New York State Department of Transportation launched the \"Check Your Height, Know It's Right\" public awareness campaign across 16 states and D.C. to reduce bridge strikes, particularly on the Onondaga Lake Parkway. The multi-modal campaign combines humorous video ads with increased State Police patrols and infrastructure modifications (warning signs, lane narrowing, ramp closure) to address the 350 bridge strikes that occurred in NY State in 2024, following the deadly 2010 Megabus incident.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "state-agency",
+    "roads-bridges",
+    "public-safety-commission",
+    "transportation",
+    "initiative-launch",
+    "intergovernmental",
+    "infrastructure",
+    "emergency-services",
+    "policy-change",
+    "PROVISIONAL:bridge-safety",
+    "PROVISIONAL:commercial-vehicle-enforcement"
+  ],
+  "department_refs": [
+    "New York State Department of Transportation"
+  ],
+  "entity_refs": [
+    {
+      "name": "New York State Department of Transportation",
+      "type": "organization",
+      "canonical_id": "ORG-NYDOT"
+    },
+    {
+      "name": "New York State Police",
+      "type": "organization",
+      "canonical_id": "ORG-NYSP"
+    },
+    {
+      "name": "Michael Benny",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-BENNY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "State-level infrastructure safety campaign with coordinated enforcement and public education, indicating systemic response to recurring public safety hazard (350 annual strikes). Demonstrates coordination between transportation and law enforcement agencies.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is state-focused; limited direct Syracuse CIO relevance unless CIO coordinates with NYDOT on local implementation or data-sharing",
+    "2010 Megabus incident serves as historical precedent driving current campaign urgency",
+    "No budget figures provided for campaign costs",
+    "Geographic focus: Onondaga Lake Parkway (local to Syracuse), but campaign is statewide and multi-state",
+    "No procurement, contracts, or city vendor involvement detected",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

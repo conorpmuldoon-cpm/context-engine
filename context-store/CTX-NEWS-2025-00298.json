@@ -1,0 +1,74 @@
+{
+  "record_id": "CTX-NEWS-2025-00298",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/city-says-syracuse-housing-authority-leaders-are-shooting-holes-in-their-own-boat-executive-director-bill-simmons-east-adams-neighborhood",
+  "publication_date": "2025-04-10",
+  "capture_date": "2026-03-24T14:30:00Z",
+  "title": "City says Syracuse Housing Authority leaders are 'shooting holes in their own boat'",
+  "summary": "City officials expressed frustration with SHA leadership over a $2 million environmental testing funding agreement for the East Adams neighborhood project. At a special SHA Board meeting, Executive Director Bill Simmons claimed the housing authority was excluded from negotiations. NBD Commissioner Michael Collins countered that SHA and its legal representatives participated. Project Director Joe Driscoll stated SHA was 'shooting holes in the bottom of the boat to sink the project.' The city withdrew the original proposal and arranged an alternative agreement directly with the developer, while discussing an additional $2.4 million SHA infrastructure investment.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "intergovernmental",
+    "transparency",
+    "capital-planning",
+    "escalating"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development",
+    "Syracuse Housing Authority"
+  ],
+  "entity_refs": [
+    {
+      "name": "Bill Simmons",
+      "type": "person",
+      "canonical_id": "PERSON-BILL-SIMMONS"
+    },
+    {
+      "name": "Michael Collins",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-COLLINS"
+    },
+    {
+      "name": "Joe Driscoll",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-DRISCOLL"
+    },
+    {
+      "name": "Syracuse Housing Authority",
+      "type": "organization",
+      "canonical_id": "ORG-SHA"
+    },
+    {
+      "name": "NYSDOT",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "City officials publicly accusing SHA leadership of sabotaging the East Adams project through non-cooperation on a $2M environmental funding agreement. Direct quote ('shooting holes in their own boat') signals deep intergovernmental friction.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-SHA-GOVERNANCE-CRISIS-2025",
+    "CLUSTER-EAST-ADAMS-TRANSFORMATION-2025"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Originally filtered by link importer due to schema validation error (link_importer not in source_agent enum at time of import)",
+    "Manually created from WebFetch content",
+    "Key article: first public documentation of city-SHA antagonism over East Adams",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

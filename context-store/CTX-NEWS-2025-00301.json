@@ -1,0 +1,71 @@
+{
+  "record_id": "CTX-NEWS-2025-00301",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/12/88-unit-apartment-building-proposed-for-syracuses-university-hill.html",
+  "publication_date": "2025-12-15",
+  "capture_date": "2026-03-24T11:02:48Z",
+  "title": "88-unit apartment building proposed for Syracuse’s University Hill",
+  "summary": "Developer Norm Swanson proposes an 88-unit, five-story apartment building at 201 S. Crouse Ave. on University Hill, with plans to renovate an adjacent 1800s home into tenant event space. The mixed-use residential project targets both students and professionals; the Planning Commission review was pulled from the Dec. 15 agenda and will be rescheduled, with additional review required by the Landmark Preservation Board.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "land-use",
+    "permitting",
+    "historic-preservation",
+    "zoning",
+    "economic-development",
+    "capital-planning"
+  ],
+  "department_refs": [
+    "Planning & Zoning",
+    "Landmark Preservation Board"
+  ],
+  "entity_refs": [
+    {
+      "name": "Norm Swanson",
+      "type": "person",
+      "canonical_id": "PERSON-NORM-SWANSON"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIVERSITY"
+    },
+    {
+      "name": "700 Out Parcel LLC",
+      "type": "organization",
+      "canonical_id": "ORG-700-OUT-PARCEL"
+    },
+    {
+      "name": "Mosher Architects",
+      "type": "organization",
+      "canonical_id": "ORG-MOSHER-ARCHITECTS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mixed-use residential development on underutilized University Hill parcel aligns with housing supply and neighborhood revitalization priorities; adaptive reuse of historic structure demonstrates preservation-sensitive development approach.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No dollar amounts provided in article; financial impact unknown",
+    "Project timeline uncertain due to agenda delay; no approval date specified",
+    "Article contains unrelated content fragments (Israel-Palestine, gun permits, train station); filtered from analysis",
+    "Rents not yet determined; affordability profile unknown",
+    "Historic preservation review requirement suggests potential design constraints or community engagement",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

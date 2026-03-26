@@ -1,0 +1,80 @@
+{
+  "record_id": "CTX-NEWS-2025-00342",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/06/the-city-of-syracuse-wants-to-sell-a-prime-site-worth-millions-whats-taking-so-long.html?gift=f3db4f0a-ed1a-47d2-bcb3-ef3c4bd44de3",
+  "publication_date": "2025-06-10",
+  "capture_date": "2026-03-24T11:08:51Z",
+  "title": "The City of Syracuse wants to sell a prime site worth millions. What’s taking so long?",
+  "summary": "The City of Syracuse has delayed the sale of a prime 2+ acre property at 725 Harrison Street (a century-old school building) for over a year despite chronic budget deficits. Two main bidders—SUNY Upstate Medical University and California developer Ascent Property Co. (offering $10M + 400 market-rate apartments)—are in negotiations with no clear timeline. Political tension exists over tax-base recovery and housing development priorities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "capital-planning",
+    "economic-development",
+    "housing",
+    "land-use",
+    "procurement",
+    "tax-revenue",
+    "intergovernmental",
+    "transparency",
+    "budget"
+  ],
+  "department_refs": [
+    "Department of Permits and Development",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "SUNY Upstate Medical University",
+      "type": "organization",
+      "canonical_id": "ORG-SUNY-UPSTATE"
+    },
+    {
+      "name": "Ascent Property Co.",
+      "type": "organization",
+      "canonical_id": "ORG-ASCENT-PROPERTY"
+    },
+    {
+      "name": "Norm Roth / University Hill Realty",
+      "type": "person",
+      "canonical_id": "PERSON-NORM-ROTH"
+    },
+    {
+      "name": "Matthew Oja",
+      "type": "person",
+      "canonical_id": "PERSON-MATTHEW-OJA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Hogan (mayoral candidate) questioning delays and Upstate's track record on property development; advocacy for private developer and tax-revenue generation; potential conflict-of-interest implications given Roth's campaign donations to Hogan.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-DOWNTOWN-DEVELOPMENT-2025"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article contains unrelated content injection (Iran missile attack) suggesting editorial quality issue",
+    "Campaign donation connection ($6K from Roth to Hogan) warrants conflict-of-interest tracking",
+    "RFP originally issued March 2024; negotiations ongoing as of June 2025 (15+ month delay)",
+    "Three bidders identified: Upstate, Ascent, and at least one other undisclosed",
+    "Dollar amounts: $450M state capital approval (Upstate), $10M offer (Ascent), $50.4M project value, $380K annual property tax estimate, $6K in campaign donations",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

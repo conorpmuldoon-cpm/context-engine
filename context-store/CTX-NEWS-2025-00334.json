@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-NEWS-2025-00334",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2025/11/syracuse-furniture-retailer-expanding-with-new-location-in-upstate-ny.html",
+  "publication_date": "2025-11-13",
+  "capture_date": "2026-03-24T11:07:41Z",
+  "title": "Syracuse furniture retailer Dunk &amp; Bright expanding with new store in Henrietta",
+  "summary": "Dunk & Bright, a fourth-generation Syracuse furniture retailer founded in 1927, is expanding beyond Onondaga County with a new 72,000-sq-ft store opening April/May 2025 at South Town Plaza in Henrietta (near Rochester). The $4M investment includes plaza infrastructure upgrades and is expected to create 20-30 jobs, marking the company's third location and first outside the county.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "business-community",
+    "economic-development",
+    "hiring",
+    "capital-planning",
+    "PROVISIONAL:retail-expansion",
+    "PROVISIONAL:regional-growth"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Dunk & Bright Furniture",
+      "type": "organization",
+      "canonical_id": "ORG-DUNK-BRIGHT"
+    },
+    {
+      "name": "Joe Bright",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-BRIGHT"
+    },
+    {
+      "name": "Steven Schultz",
+      "type": "person",
+      "canonical_id": "PERSON-STEVEN-SCHULTZ"
+    },
+    {
+      "name": "William Bright Sr.",
+      "type": "person",
+      "canonical_id": "PERSON-WILLIAM-BRIGHT-SR"
+    },
+    {
+      "name": "William Dunk Sr.",
+      "type": "person",
+      "canonical_id": "PERSON-WILLIAM-DUNK-SR"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Regional economic development and job creation signal alignment with CIO economic development priorities. Fourth-generation local business expansion demonstrates retained regional talent and capital investment.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount $4M validated as capital investment; $6B reference is unrelated article noise (merger topic)",
+    "No direct CIO/government department involvement detected; story is private sector business expansion",
+    "Geographic scope: Syracuse origin expanding to Monroe County (Henrietta) - regional economic development indicator",
+    "Article date metadata shows 2025-11-13 but embedded recommended articles show future dates (Mar 2026) suggesting republication or metadata inconsistency",
+    "No digital services, IT systems, or municipal operations implications identified",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

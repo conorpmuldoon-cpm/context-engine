@@ -1,0 +1,91 @@
+{
+  "record_id": "CTX-NEWS-2025-00344",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/09/two-projects-would-bring-over-125-apartments-to-one-of-syracuses-poorest-areas.html",
+  "publication_date": "2025-09-09",
+  "capture_date": "2026-03-24T11:09:08Z",
+  "title": "Two projects would bring over 125 apartments to one of Syracuse’s poorest areas",
+  "summary": "Two housing development projects totaling 126 affordable apartments are advancing in Syracuse's Southwest corridor, with combined state and local support including $1M in Downtown Revitalization Initiative funding and property tax relief requests. Projects target low-to-moderate income residents and seniors, representing one of the largest new housing additions to the economically disadvantaged area in decades, with construction targeted to begin mid-2026.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "economic-development",
+    "affordable-housing",
+    "land-use",
+    "zoning",
+    "permits",
+    "grants",
+    "state-agency",
+    "business-community",
+    "equity",
+    "capital-planning"
+  ],
+  "department_refs": [
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jubilee Homes",
+      "type": "organization",
+      "canonical_id": "ORG-JUBILEE-HOMES"
+    },
+    {
+      "name": "BLD Properties",
+      "type": "organization",
+      "canonical_id": "ORG-BLD-PROPERTIES"
+    },
+    {
+      "name": "Kenan Bigby",
+      "type": "person",
+      "canonical_id": "PERSON-KENAN-BIGBY"
+    },
+    {
+      "name": "Walt Dixie",
+      "type": "person",
+      "canonical_id": "PERSON-WALT-DIXIE"
+    },
+    {
+      "name": "Greater Syracuse Land Bank",
+      "type": "organization",
+      "canonical_id": "ORG-GS-LAND-BANK"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYR-COUNCIL"
+    },
+    {
+      "name": "New York State Low Income Housing Tax Credit Program",
+      "type": "system",
+      "canonical_id": "SYS-NY-LIHTC"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Multi-stakeholder alignment on Southwest area revitalization with public-private partnership, state funding commitment, and council tax relief consideration signals sustained priority for equitable housing and neighborhood economic development.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article truncated mid-sentence; second project details incomplete but referenced as senior housing with ground-floor commercial",
+    "Mechanical extraction captured fragmented dollar amounts; primary figures validated: $28M project cost, $30K land sale, $1M state grant, $10M total DRI award to area",
+    "No direct Syracuse University or Fire/Police department involvement detected in article content",
+    "Key process milestones documented: zoning variance approved (Board of Zoning Appeals), site plan approved (Planning Commission), council committee review pending",
+    "Recommend cross-reference with Downtown Revitalization Initiative records and Land Bank portfolio for broader context",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'affordable-housing' not in taxonomy",
+    "Tag warning: Unknown tag 'permits' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

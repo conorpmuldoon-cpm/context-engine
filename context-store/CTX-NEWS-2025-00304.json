@@ -1,0 +1,86 @@
+{
+  "record_id": "CTX-NEWS-2025-00304",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/10/after-2-years-owner-aims-to-rent-apartments-at-the-former-skyline-apartments-within-months.html",
+  "publication_date": "2025-10-21",
+  "capture_date": "2026-03-24T11:03:19Z",
+  "title": "After 2 years, owner aims to rent apartments at the former Skyline Apartments within months",
+  "summary": "Clear Investment Group is renovating two major apartment complexes in Syracuse (The Metropolitan, formerly Skyline Apartments with 370 units, and The Summit, formerly Vincent Apartments with 260 units) after acquiring them in 2023. Despite encountering $5.3M in unexpected costs including a major flood and security expenses, the company expects to begin leasing units by late 2025, offering below-median rents ($1,000-$1,520 at The Metropolitan). A city-company settlement established spring 2025 completion targets following litigation over renovation pace.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "economic-development",
+    "construction-staging",
+    "infrastructure",
+    "code-enforcement",
+    "investigation",
+    "settlement"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Razi Uddin",
+      "type": "person",
+      "canonical_id": "PERSON-RAZI-UDDIN"
+    },
+    {
+      "name": "Michael Collins",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-COLLINS"
+    },
+    {
+      "name": "Clear Investment Group",
+      "type": "organization",
+      "canonical_id": "ORG-CLEAR-INVESTMENT"
+    },
+    {
+      "name": "The Metropolitan (formerly Skyline Apartments)",
+      "type": "system",
+      "canonical_id": "PROP-METROPOLITAN-753-JAMES"
+    },
+    {
+      "name": "The Summit (formerly Vincent Apartments)",
+      "type": "system",
+      "canonical_id": "PROP-SUMMIT-JAMESVILLE"
+    },
+    {
+      "name": "Tim Knauss",
+      "type": "person",
+      "canonical_id": "PERSON-TIM-KNAUSS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "City prioritizes rapid return-to-service of affordable housing stock; settlement reflects negotiated balance between developer burden and municipal urgency. Developer perception of blame reflects tension in renovation execution vs. expectation-setting.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-SKYLINE-APARTMENTS-2025",
+    "DEDUP-CTX-NEWS-2025-00141"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "National Grid mentioned in mechanical extractions but not in provided article text; may be error in source extraction.",
+    "Dollar amounts extracted mechanically lack context; key figures are $13M purchase price, $5.3M actual repairs (vs. $4.6M planned), $2.9M operating costs, $5-7M projected additional spend.",
+    "Court settlement (April 2024) and flood event (March 2024) are critical timeline drivers affecting CIO infrastructure/resilience planning.",
+    "Two separate properties with staggered reopening timelines (The Summit: Nov 2025; The Metropolitan: Apr 2026) may have distinct permitting/code-compliance tracks.",
+    "Armed security costs ($1M+) and squatter/crime mitigation suggest public-safety interdependencies not explicitly covered in article.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'settlement' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00141"
+  ],
+  "last_relevance_update": null
+}

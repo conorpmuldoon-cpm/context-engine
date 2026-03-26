@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2025-00340",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/12/syracuses-new-snowplows-have-been-on-the-road-for-weeks-now-they-have-their-names.html",
+  "publication_date": "2025-12-16",
+  "capture_date": "2026-03-24T11:08:33Z",
+  "title": "Syracuse’s new snowplows have been on the road for weeks. Now they have their names",
+  "summary": "Syracuse Mayor Ben Walsh announced the names of three newly acquired snowplows following a public naming contest that generated over 700 submissions. The winning names—'You're Killing Me, Squalls,' 'Syracuse Saltshaker,' and 'Snow Big Deal'—were selected from entries emphasizing pun-based creativity. This represents the city's second snowplow naming initiative, reflecting public engagement in municipal asset management.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "snow-removal",
+    "fleet",
+    "residents",
+    "announcement",
+    "transparency"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE"
+    },
+    {
+      "name": "John Oliver",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor publicly champions winter operations and demonstrates responsiveness to constituent engagement through public naming contest, signaling commitment to transparent civic participation and asset visibility.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-DPW-WINTER-OPS-2025Q4"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Previous 2020 contest referenced for historical context; external criticism (John Oliver) noted but not actionable for CIO; article lacks technical innovation angle—naming is community engagement tactic rather than operational or digital innovation",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

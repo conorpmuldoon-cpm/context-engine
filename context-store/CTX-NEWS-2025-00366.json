@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-NEWS-2025-00366",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/community-activist-talks-about-rash-of-violent-crime-young-suspects-in-syracuse",
+  "publication_date": "2025-07-08",
+  "capture_date": "2026-03-26T00:40:04Z",
+  "title": "Community activist talks about rash of violent crime, young suspects in Syracuse",
+  "summary": "Community activist Clifford Ryan, founder of OG's Against Violence, discusses a recent surge in violent crimes and stolen vehicle incidents in Syracuse involving teenage suspects. NY State criminal justice data shows over 4,000 police contacts with youth under 18 between 2019-2023, prompting community deterrence efforts and calls for youth to consider consequences of criminal actions during summer months.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "crime-data",
+    "police",
+    "public-safety-commission",
+    "youth-violence",
+    "community-deterrent",
+    "emergency-services",
+    "PROVISIONAL:gun-violence",
+    "PROVISIONAL:youth-crime-prevention"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "New York State Division of Criminal Justice Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Clifford Ryan",
+      "type": "person",
+      "canonical_id": "PERSON-CLIFFORD-RYAN"
+    },
+    {
+      "name": "OG's Against Violence",
+      "type": "organization",
+      "canonical_id": "ORG-OGS-AGAINST-VIOLENCE"
+    },
+    {
+      "name": "Frank Coots",
+      "type": "person",
+      "canonical_id": "PERSON-FRANK-COOTS"
+    },
+    {
+      "name": "Mary Kielar",
+      "type": "person",
+      "canonical_id": "PERSON-MARY-KIELAR"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Community activism and advocacy for youth violence prevention and deterrence; implicit pressure on city/state agencies to address root causes and consequences of youth crime.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-CRIME-TRENDS-2025Q3"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on community response rather than official city policy; data source is NY State, not municipal.",
+    "Mechanical extraction of '$2' is spurious (from sponsored content URL); no actual dollar amounts relevant to city operations.",
+    "Department reference corrected: 'Law Department' extraction is inaccurate; primary agency context is police/criminal justice.",
+    "Article lacks direct CIO/innovation angle but relevant to public safety data transparency and community engagement initiatives.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'youth-violence' not in taxonomy",
+    "Tag warning: Unknown tag 'community-deterrent' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

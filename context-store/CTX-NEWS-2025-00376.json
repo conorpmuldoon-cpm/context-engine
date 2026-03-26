@@ -1,0 +1,60 @@
+{
+  "record_id": "CTX-NEWS-2025-00376",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.wrvo.org/2025-07-28/syracuse-schools-brace-for-cuts-from-recently-passed-spending-bill",
+  "publication_date": "2025-07-28",
+  "capture_date": "2026-03-26T00:42:01Z",
+  "title": "Syracuse schools brace for cuts from recently passed spending bill",
+  "summary": "Syracuse City School District, one of New York's 'big five' districts, faces a potential $7 million funding gap from a recently passed federal spending bill. Superintendent Anthony Davis is developing contingency plans and emphasizes that school funding impacts the broader community through effects on SNAP, Medicaid, and student services. The district's $600 million budget may require difficult decisions if federal cuts materialize.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "federal-programs",
+    "state-mandates",
+    "recurring",
+    "escalating",
+    "constituent-complaints"
+  ],
+  "department_refs": [
+    "Syracuse City School District"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse City School District",
+      "type": "organization",
+      "canonical_id": "ORG-SCSD"
+    },
+    {
+      "name": "Anthony Davis",
+      "type": "person",
+      "canonical_id": "PERSON-ANTHONY-DAVIS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "District leadership publicly acknowledging fiscal vulnerability and signaling commitment to protecting services despite federal funding uncertainty; framing school funding as community issue affecting multiple safety-net programs",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-SCSD-GOVERNANCE-2025"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts require context: $7M contingency gap and $600M total budget imply 1.2% potential reduction",
+    "Article focuses on education but superintendent explicitly extends concern to social services (SNAP, Medicaid) — suggests CIO may need cross-agency coordination perspective",
+    "No direct IT/digital services implications mentioned; federal program cuts may affect data systems or federal compliance reporting requirements — recommend follow-up",
+    "Superintendent language ('we're still weeding through') suggests incomplete information on specifics of spending bill impacts",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.wrvo.org)"
+  ],
+  "last_relevance_update": null
+}

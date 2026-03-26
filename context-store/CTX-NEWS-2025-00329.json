@@ -1,0 +1,65 @@
+{
+  "record_id": "CTX-NEWS-2025-00329",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/09/should-syracuse-pay-millions-to-fix-historic-steps-good-morning-cny-for-sept-29.html",
+  "publication_date": "2025-09-29",
+  "capture_date": "2026-03-24T11:06:57Z",
+  "title": "Should Syracuse pay millions to fix historic steps? (Good Morning CNY for Sept. 29)",
+  "summary": "Syracuse faces a $3 million decision on whether to repair a historic 178-step staircase in Westminster Park that has been closed since 2023 due to safety hazards. The cost has more than doubled from $1.2 million three years ago, prompting debate among city officials, lawmakers, and residents about resource allocation and historic preservation priorities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "historic-preservation",
+    "capital-planning",
+    "budget",
+    "parks",
+    "infrastructure",
+    "residents",
+    "policy-change"
+  ],
+  "department_refs": [
+    "Parks and Recreation Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Westminster Park",
+      "type": "system",
+      "canonical_id": "PARK-WESTMINSTER"
+    },
+    {
+      "name": "Chedy Hampson",
+      "type": "person",
+      "canonical_id": "PERSON-CHEDY-HAMPSON"
+    },
+    {
+      "name": "South Side Community Growth Foundation",
+      "type": "organization",
+      "canonical_id": "ORG-SSCGF"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public debate framed as a cost-benefit question regarding historic infrastructure repair amid budget constraints; signals community engagement but unresolved priority alignment on preservation spending.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily a news digest; historic steps story is one of multiple segments with limited detail",
+    "Dollar amount correction: $3 million (not $3), $1.2 million repair estimate",
+    "$295 million figure relates to Hampson's TCGplayer sale—not city budget",
+    "No direct CIO technology or digital service implications identified, but infrastructure asset management and community engagement could benefit from GIS/digital planning tools",
+    "Recommend flagging for Parks department capital planning and community consultation processes",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

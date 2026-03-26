@@ -1,0 +1,93 @@
+{
+  "record_id": "CTX-NEWS-2025-00309",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/11/city-workers-moved-out-to-make-way-for-apartments-syracuse-still-owns-the-empty-building-2-years-later.html?gift=3c070a35-cf7b-413d-8b27-d1f75b33b90f",
+  "publication_date": "2025-11-06",
+  "capture_date": "2026-03-24T11:04:03Z",
+  "title": "City workers moved out to make way for apartments. Syracuse still owns the empty building 2 years later",
+  "summary": "Syracuse's sale of City Hall Commons to developers Hanover Real Estate Development has stalled two years after council approval. The city vacated the historic 1869 flat-iron building to One Park Place (costing $500K annually in rent) expecting a $13.2M mixed-income conversion into 39 apartments, but the $850K sale closed in March 2024 missed its November 2025 deadline due to complex state funding requirements. The deadline has been extended another year, but council expresses frustration over continued property ownership and rental obligations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "capital-planning",
+    "facilities",
+    "economic-development",
+    "budget",
+    "contract-award",
+    "council",
+    "state-agency",
+    "land-use",
+    "historic-preservation",
+    "equity",
+    "PROVISIONAL:project-delay",
+    "PROVISIONAL:mixed-income-housing"
+  ],
+  "department_refs": [
+    "Department of Assessment",
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Rasheada Caldwell",
+      "type": "person",
+      "canonical_id": "PERSON-RASHEADA-CALDWELL"
+    },
+    {
+      "name": "Matthew Oja",
+      "type": "person",
+      "canonical_id": "PERSON-MATTHEW-OJA"
+    },
+    {
+      "name": "Luke Esposito",
+      "type": "person",
+      "canonical_id": "PERSON-LUKE-ESPOSITO"
+    },
+    {
+      "name": "Adam Fumarola",
+      "type": "person",
+      "canonical_id": "PERSON-ADAM-FUMAROLA"
+    },
+    {
+      "name": "Hanover Real Estate Development",
+      "type": "organization",
+      "canonical_id": "ORG-HANOVER-RED"
+    },
+    {
+      "name": "City Hall Commons",
+      "type": "system",
+      "canonical_id": "FACILITY-CITY-HALL-COMMONS"
+    },
+    {
+      "name": "One Park Place",
+      "type": "system",
+      "canonical_id": "FACILITY-ONE-PARK-PLACE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council members expressing frustration over delayed property sale and ongoing rental obligations for temporary office space. Suggests need for better project management oversight and state funding alignment for housing initiatives.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date appears anomalous (2025-11-06 is future date); likely publication scheduled or data entry error. Recommend verification.",
+    "National Grid mentioned in mechanical extractions but not present in article text—false positive.",
+    "Dollar amounts extracted include partial figures ($13, $5, $18, etc.) that lack context; validated amounts: $500K annual rent, $850K sale price, $13.2M project cost, $5.2M SDC sale price, $18.8M city bonding.",
+    "Project timeline critical: March 2024 agreement, November 2025 missed deadline, extended to November 2026.",
+    "Mixed-income housing funding complexity noted as key blocker—relevant to CIO digital/data systems if financing tracking or grant management systems involved.",
+    "Potential infrastructure/GIS implications: references to roads/infrastructure bonding for related Syracuse Developmental Center project.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

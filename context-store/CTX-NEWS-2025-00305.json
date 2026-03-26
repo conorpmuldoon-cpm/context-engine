@@ -1,0 +1,74 @@
+{
+  "record_id": "CTX-NEWS-2025-00305",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/health/2025/09/amr-agrees-to-share-staff-and-response-data-in-first-ambulance-contract-in-syracuse-history.html",
+  "publication_date": "2025-09-03",
+  "capture_date": "2026-03-24T11:03:26Z",
+  "title": "AMR agrees to share staff and response data in first ambulance contract in Syracuse history",
+  "summary": "Syracuse Common Council approved the city's first-ever ambulance service contract with AMR, establishing performance standards including 90% response time within 9 minutes and monthly data reporting. The no-cost agreement formalizes existing oversight but lacks enforcement penalties, drawing criticism from Councilor Majok for insufficient accountability mechanisms.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "emergency-services",
+    "contract-award",
+    "fire",
+    "transparency",
+    "data-governance",
+    "policy-change",
+    "vote",
+    "procurement"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael Monds",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-MONDS"
+    },
+    {
+      "name": "Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-CHOL-MAJOK"
+    },
+    {
+      "name": "AMR",
+      "type": "organization",
+      "canonical_id": "ORG-AMR"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council member raised enforcement concerns about contract lacking penalty mechanisms for non-compliance; represents emerging tension between transparency gains and regulatory teeth.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00266"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Contract is zero-cost; notable departure from typical ambulance service agreements nationally",
+    "8-1 vote indicates broad council support but documented dissent on enforcement",
+    "Performance data now available for CIO analytics; baseline metrics provided (98-99% current response rate)",
+    "Three-year term with optional two-year extension creates revisit opportunity",
+    "No dollar amounts in contract but represents significant operational oversight opportunity",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-NEWS-2025-00266"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-NEWS-2025-00343",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/living/2025/12/the-syracuse-prize-10k-award-will-go-to-one-resident-who-has-enriched-the-city-is-it-you.html",
+  "publication_date": "2025-12-23",
+  "capture_date": "2026-03-24T11:08:58Z",
+  "title": "The Syracuse Prize: $10K award will go to one resident who has enriched the city",
+  "summary": "The City of Syracuse has launched the inaugural Syracuse Prize, a $10,000 award recognizing residents who have enriched the city's cultural vibrancy over the past five years. The application deadline is January 25, 2026, with finalists announced March 6, 2026. The prize is funded through a private donor-advised fund managed by Central New York Community Foundation and administered by CNY Arts, positioning cultural investment as a civic priority.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "initiative-launch",
+    "grants",
+    "residents",
+    "economic-development",
+    "equity"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Central New York Community Foundation",
+      "type": "organization",
+      "canonical_id": "ORG-CNYCF"
+    },
+    {
+      "name": "CNY Arts",
+      "type": "organization",
+      "canonical_id": "ORG-CNY-ARTS"
+    },
+    {
+      "name": "Katrina Tulloch",
+      "type": "person",
+      "canonical_id": "PERSON-KATRINA-TULLOCH"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Prize signals mayoral/CIO commitment to recognizing and incentivizing cultural contribution as essential to city vibrancy and equity; positions arts/culture as civic development lever",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date is December 23, 2025 (future-dated); recommend validating against official City/CIO announcements",
+    "No explicit CIO attribution in article text, but framing aligns with innovation/cultural vitality mandate",
+    "Eligible categories (artists, educators, volunteers, advocates) suggest broad equity lens; no explicit diversity/inclusion language present",
+    "Prize administration delegated to external partners (CNYCF, CNY Arts)—may warrant CIO coordination/visibility review",
+    "Four finalists + one winner structure suggests scalable recognition model worth documenting for future innovation cycles",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

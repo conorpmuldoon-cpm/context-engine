@@ -1,0 +1,70 @@
+{
+  "record_id": "CTX-NEWS-2025-00332",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2025/10/syracuse-cant-afford-to-forgo-millions-of-dollars-in-speeding-tickets-your-letters.html",
+  "publication_date": "2025-10-06",
+  "capture_date": "2026-03-24T11:07:23Z",
+  "title": "Syracuse can’t afford to forgo millions of dollars in speeding tickets (Your Letters)",
+  "summary": "Opinion letter criticizes the city's decision to implement a grace period for school zone speeding violations, arguing it forgoes $3 million in needed revenue and undermines traffic safety deterrence. Writer advocates for enforcement fines over warnings and questions fiscal impact through November 2025.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "policy-change",
+    "vision-zero",
+    "public-safety-commission",
+    "tax-revenue",
+    "constituent-complaints",
+    "advocacy",
+    "schools"
+  ],
+  "department_refs": [
+    "Department of Public Safety",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Janet Berl Burman",
+      "type": "person",
+      "canonical_id": "PERSON-JANET-BURMAN"
+    },
+    {
+      "name": "Lincoln Middle School",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "James Street School Zone",
+      "type": "system",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Resident opposing grace period policy on school zone speeding, citing fiscal impact ($3M revenue loss) and safety concerns. Frames issue as tension between public safety effectiveness and municipal budget constraints.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-SCHOOL-ZONE-CAMERAS-2025Q4"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount extracted as $3M (not $3 as initially detected)",
+    "Article is opinion/letters section—not official city communication",
+    "Grace period end date specified: November 2, 2025",
+    "Technology deployment mentioned (summer 2025) but no system name provided",
+    "No CIO-specific technology initiative referenced; primarily budget/policy advocacy",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy",
+    "Tag warning: Unknown tag 'schools' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

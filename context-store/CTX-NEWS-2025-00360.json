@@ -1,0 +1,92 @@
+{
+  "record_id": "CTX-NEWS-2025-00360",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/i-team/consultants-waivers-lack-of-bids-relied-on-during-incomplete-overhaul-of-syracuse-it",
+  "publication_date": "2025-04-11",
+  "capture_date": "2026-03-26T00:37:59Z",
+  "title": "Consultants, waivers, lack of bids relied on during incomplete overhaul of Syracuse I.T.",
+  "summary": "A Syracuse I.T. payroll modernization project faced significant governance and procurement failures, including use of waivers to bypass competitive bidding, reliance on multiple consultants, and allegations that Ernst & Young used Advanced IT as a pass-through vendor. A whistleblower complaint and subsequent Common Council audit have exposed incomplete project oversight and documentation discrepancies by city leadership, with the Finance Commissioner admitting project delays impacted critical audit work.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "IT-infrastructure",
+    "software-systems",
+    "procurement",
+    "audit",
+    "contract-award",
+    "complaint",
+    "investigation",
+    "transparency",
+    "escalating",
+    "payroll"
+  ],
+  "department_refs": [
+    "Department of Information Technology",
+    "Department of Finance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Frank Caliva",
+      "type": "person",
+      "canonical_id": "PERSON-FRANK-CALIVA"
+    },
+    {
+      "name": "Kelsey May",
+      "type": "person",
+      "canonical_id": "PERSON-KELSEY-MAY"
+    },
+    {
+      "name": "Susan Fahrenkrug",
+      "type": "person",
+      "canonical_id": "PERSON-SUSAN-FAHRENKRUG"
+    },
+    {
+      "name": "Ernst & Young",
+      "type": "organization",
+      "canonical_id": "ORG-EY"
+    },
+    {
+      "name": "Advanced IT",
+      "type": "organization",
+      "canonical_id": "ORG-ADVANCED-IT"
+    },
+    {
+      "name": "Cherry Road Technologies",
+      "type": "organization",
+      "canonical_id": "ORG-CHERRY-ROAD"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Common Council conducting formal audit of I.T. project governance; whistleblower complaint escalating vendor management and competitive bidding violations; Finance Commissioner acknowledging project mismanagement impact.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-PAYROLL-MODERNIZATION-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article indicates incomplete project delivery and ongoing investigation; multiple consultant layers and waiver usage suggest procurement policy breakdown; financial amounts mentioned ($1.8M+) require audit verification; no resolution status indicated",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

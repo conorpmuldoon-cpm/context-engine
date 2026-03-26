@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-NEWS-2025-00368",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/onondaga-county-syracuse-invest-in-unprecedented-efforts-to-tackle-lead-contamination",
+  "publication_date": "2025-07-17",
+  "capture_date": "2026-03-26T00:40:26Z",
+  "title": "Onondaga County, Syracuse invest in unprecedented efforts to tackle lead contamination",
+  "summary": "Onondaga County and Syracuse are undertaking a lead contamination remediation initiative with unprecedented resource investment. Progress is modest: three homes completed with nine more expected, prompting public criticism about government project delays, cost overruns, and delivery challenges.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "lead-remediation",
+    "housing",
+    "infrastructure",
+    "initiative-launch",
+    "intergovernmental"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    },
+    {
+      "name": "Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    },
+    {
+      "name": "Matthew Benninger",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public criticism of government project execution competence—delays, budget overruns, completion failures. Reflects constituent pressure on transparency and delivery accountability in lead remediation.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-LEAD-REMEDIATION-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content is minimal; primarily contains reader comment rather than substantive reporting",
+    "No specific budget figures, timeline, or department ownership identified",
+    "Metric provided: 3 homes completed, 9 in pipeline; baseline unclear",
+    "Source is reader commentary—sentiment may not reflect official project narrative",
+    "CIO relevance: potential data/tracking system needs for project monitoring and constituent transparency",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

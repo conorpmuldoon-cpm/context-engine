@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-NEWS-2025-00381",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.wrvo.org/2025-09-30/syracuse-officials-expect-deer-management-pilot-program-to-continue",
+  "publication_date": "2025-09-30",
+  "capture_date": "2026-03-26T00:42:50Z",
+  "title": "Syracuse officials expect deer management pilot program to continue",
+  "summary": "Syracuse is continuing a deer management pilot program involving trapping and euthanasia in high-density residential areas where firearm use is unsafe. The program killed 55 of 137 deer this year and donated 4,000 pounds of venison to the Food Bank. Chief Policy Officer Greg Loh cites overpopulation, Lyme disease transmission, and property damage as justification, though residents like Nancy Larson oppose the approach and advocate for alternative solutions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "parks",
+    "sustainability",
+    "policy-change",
+    "residents",
+    "constituent-complaints",
+    "advocacy",
+    "initiative-launch",
+    "public-safety-commission",
+    "equity"
+  ],
+  "department_refs": [
+    "Parks and Recreation",
+    "Health Department",
+    "Policy Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Greg Loh",
+      "type": "person",
+      "canonical_id": "PERSON-GREG-LOH"
+    },
+    {
+      "name": "Nancy Larson",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Syracuse Food Bank",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "National Park Service",
+      "type": "organization",
+      "canonical_id": "ORG-NPS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Community resistance to trap-and-euthanize methods from residents who value deer presence; city leadership defending continuation based on public safety and ecosystem management rationale.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on wildlife management rather than traditional municipal innovation/IT infrastructure priorities",
+    "Nancy Larson represents constituent advocacy faction opposing current policy",
+    "Venison donation to food bank represents secondary public benefit outcome",
+    "City actively recruiting 'deer diarists' suggests citizen science data collection component",
+    "Greg Loh is Chief Policy Officer per article; confirms leadership perspective",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.wrvo.org)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

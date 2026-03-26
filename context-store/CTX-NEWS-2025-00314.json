@@ -1,0 +1,80 @@
+{
+  "record_id": "CTX-NEWS-2025-00314",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/07/family-of-man-fatally-shot-by-syracuse-officer-in-fathers-day-melee-seeks-new-trial.html",
+  "publication_date": "2025-07-07",
+  "capture_date": "2026-03-24T11:04:45Z",
+  "title": "Family of man fatally shot by Syracuse officer seeks new trial in lawsuit",
+  "summary": "The family of Gary Porter, fatally shot by Syracuse Police Officer Kelsey Francemone in 2016, has requested a new trial, arguing the jury verdict was contradictory and that Black potential jurors were improperly excluded. The jury found excessive force but also affirmed key aspects of the officer's account, awarding only $10,000 in damages. The case now hinges on whether Francemone qualifies for qualified immunity protection.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "investigation",
+    "complaint",
+    "civil-service",
+    "equity",
+    "escalating",
+    "transparency",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "City Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Kelsey Francemone",
+      "type": "person",
+      "canonical_id": "PERSON-KELSEY-FRANCEMONE"
+    },
+    {
+      "name": "Gary Porter",
+      "type": "person",
+      "canonical_id": "PERSON-GARY-PORTER"
+    },
+    {
+      "name": "Fred Lichtmacher",
+      "type": "person",
+      "canonical_id": "PERSON-FRED-LICHTMACHER"
+    },
+    {
+      "name": "Brenda Sannes",
+      "type": "person",
+      "canonical_id": "PERSON-BRENDA-SANNES"
+    },
+    {
+      "name": "Sol Muñoz",
+      "type": "person",
+      "canonical_id": "PERSON-SOL-MUNOZ"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Ongoing federal court scrutiny of police use-of-force incident and qualified immunity doctrine; plaintiff advocacy for judicial review of jury process and juror selection practices raises institutional accountability concerns.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-SPD-USE-OF-FORCE-2025",
+    "DEDUP-CTX-NEWS-2025-00313"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references 9-year-old incident (2016) with 2025 trial outcome; timeline context critical for CIO situational awareness",
+    "Qualified immunity determination pending—may have policy/training implications for department",
+    "Jury verdict contradiction noted by multiple observers; suggests potential discovery/evidence management process issues worth monitoring",
+    "Black juror exclusion claims may trigger equity/compliance reviews",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-NEWS-2025-00313"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,78 @@
+{
+  "record_id": "CTX-NEWS-2025-00306",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/08/bricks-are-falling-from-a-smokestack-at-historic-former-syracuse-train-station-city-orders-it-razed.html?gift=37fe8646-3cab-456e-a4c4-8d33309bda39",
+  "publication_date": "2025-08-13",
+  "capture_date": "2026-03-24T11:03:35Z",
+  "title": "Bricks are falling from a smokestack at historic former Syracuse train station. City orders it razed",
+  "summary": "A 100-foot smokestack at the historic former New York Central Railroad station (built 1936, listed on National Register of Historic Places in 2009) is deteriorating with bricks falling onto public areas near Burnet Avenue and Catherine Street. The City of Syracuse has ordered demolition after April warnings went unheeded, declaring it a major safety threat. The dispute involves property owner Tom Hornstein, who blames DOT vibrations from the Interstate 81 reconstruction project; DOT contests this and attributes deterioration to insufficient maintenance.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "code-enforcement",
+    "historic-preservation",
+    "infrastructure",
+    "intergovernmental",
+    "public-safety",
+    "facilities",
+    "escalating",
+    "investigation",
+    "PROVISIONAL:property-maintenance",
+    "PROVISIONAL:liability-dispute"
+  ],
+  "department_refs": [
+    "Division of Code Enforcement",
+    "New York State Department of Transportation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Tom Hornstein",
+      "type": "person",
+      "canonical_id": "PERSON-TOM-HORNSTEIN"
+    },
+    {
+      "name": "Ryan Shiel",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-SHIEL"
+    },
+    {
+      "name": "Greg Loh",
+      "type": "person",
+      "canonical_id": "PERSON-GREG-LOH"
+    },
+    {
+      "name": "New York Central Railroad Station",
+      "type": "system",
+      "canonical_id": "SYS-NYCR-STATION"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public safety hazard at historic landmark triggering enforcement action; escalating dispute between city code enforcement and property owner with intergovernmental liability question regarding state DOT construction impacts.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00198"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount extraction error: article mentions $60,000 demolition estimate (Hornstein's claim), not extracted amounts of $150, $21, $2 which do not appear in provided text.",
+    "Greg Loh identified as Chief Policy Officer (policy-level stakeholder), not department head of Finance.",
+    "Key CIO relevance: potential GIS/asset management gap (historic structure deterioration monitoring), intergovernmental coordination issues with DOT, and digital transparency (vibration monitoring data disputes).",
+    "Property status: vacant, listed for sale; previous violations cited include unpermitted antiques gallery and illegal nightclub operations.",
+    "Historic preservation angle: 6 plaster figures on platform are iconic public art elements; demolition of smokestack raises broader preservation questions.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00198"
+  ],
+  "last_relevance_update": null
+}

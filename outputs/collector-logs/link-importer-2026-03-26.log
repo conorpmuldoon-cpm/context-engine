@@ -1,0 +1,801 @@
+2026-03-26 00:28:30,217 [INFO] ============================================================
+2026-03-26 00:28:30,217 [INFO] Link Importer starting
+2026-03-26 00:28:30,275 [INFO] Loaded 452 unique URLs from CSV
+2026-03-26 00:28:30,278 [INFO] Skipped 4 URLs from irrelevant domains
+2026-03-26 00:28:30,280 [INFO] Skipped 191 Syracuse.com URLs (--skip-blocked)
+2026-03-26 00:28:30,280 [INFO] New URLs to process: 79 (of 257 total)
+2026-03-26 00:28:46,324 [INFO] Using persistent browser profile (logged in, visible)
+2026-03-26 00:28:47,325 [INFO] [1/79] Fetching: https://cnycentral.com/news/local/former-sears-building-to-be-site-of-states-first-workforce-innovat
+2026-03-26 00:28:49,901 [INFO] [1/79] Accepted (--no-filter): Former Sears Building to be site of state's first workforce innovation hub
+2026-03-26 00:28:49,918 [INFO] [1/79] [DRY RUN] Would process: Former Sears Building to be site of state's first workforce innovation hub
+2026-03-26 00:28:49,919 [INFO]   Date: 2025-03-28 | Entities: ['Ben Walsh', 'CenterState CEO']
+2026-03-26 00:28:52,920 [INFO] [2/79] Fetching: https://cnycentral.com/news/local/residents-worried-about-property-tax-increase-due-to-2-million-dol
+2026-03-26 00:28:57,671 [INFO] [2/79] Accepted (--no-filter): Residents worried about property tax increase due to $1.8 million plan
+2026-03-26 00:28:57,675 [INFO] [2/79] [DRY RUN] Would process: Residents worried about property tax increase due to $1.8 million plan
+2026-03-26 00:28:57,675 [INFO]   Date: 2025-03-27 | Entities: []
+2026-03-26 00:29:00,675 [INFO] [3/79] Fetching: https://cnycentral.com/news/local/syracuse-taxpayers-bear-financial-burden-as-city-maintains-neglect
+2026-03-26 00:29:07,692 [INFO] [3/79] Accepted (--no-filter): Syracuse maintains neglected St. Anthony's Convent for absent property owner
+2026-03-26 00:29:07,696 [INFO] [3/79] [DRY RUN] Would process: Syracuse maintains neglected St. Anthony's Convent for absent property owner
+2026-03-26 00:29:07,696 [INFO]   Date: 2025-03-26 | Entities: ['Ben Walsh']
+2026-03-26 00:29:08,697 [INFO] [4/79] Fetching: https://www.waer.org/news/2025-03-31/impending-demolition-of-former-northside-convent-elicits-memori
+2026-03-26 00:29:13,492 [INFO] [4/79] Accepted (--no-filter): Impending demolition of former northside convent elicits memories of its long hi
+2026-03-26 00:29:13,498 [INFO] [4/79] [DRY RUN] Would process: Impending demolition of former northside convent elicits memories of its long hi
+2026-03-26 00:29:13,498 [INFO]   Date: 2025-04-01 | Entities: ['Michael Collins', 'Jake Dishaw', 'Ben Walsh']
+2026-03-26 00:29:14,499 [INFO] [5/79] Fetching: https://cnycentral.com/news/local/landowners-absence-fuels-frustration-at-town-meeting-after-convent
+2026-03-26 00:29:19,244 [INFO] [5/79] Accepted (--no-filter): Landowner's absence fuels frustration at town meeting after convent condemnation
+2026-03-26 00:29:19,249 [INFO] [5/79] [DRY RUN] Would process: Landowner's absence fuels frustration at town meeting after convent condemnation
+2026-03-26 00:29:19,250 [INFO]   Date: 2025-04-02 | Entities: []
+2026-03-26 00:29:20,250 [INFO] [6/79] Fetching: https://www.localsyr.com/news/your-stories/your-stories-qa-dispute-over-repairing-potholes-leads-to-
+2026-03-26 00:29:33,353 [INFO] [6/79] Accepted (--no-filter): Your Stories Q&A: Dispute over repairing potholes leads to DeWitt, Salina road b
+2026-03-26 00:29:33,356 [INFO] [6/79] [DRY RUN] Would process: Your Stories Q&A: Dispute over repairing potholes leads to DeWitt, Salina road b
+2026-03-26 00:29:33,357 [INFO]   Date: 2025-04-01 | Entities: []
+2026-03-26 00:29:34,357 [INFO] [7/79] Fetching: https://cnycentral.com/news/local/tensions-boil-over-handling-of-maria-regina-property-between-syrac
+2026-03-26 00:29:37,010 [INFO] [7/79] Accepted (--no-filter): Tensions boil over handling of Maria Regina property between Syracuse Mayor, cou
+2026-03-26 00:29:37,017 [INFO] [7/79] [DRY RUN] Would process: Tensions boil over handling of Maria Regina property between Syracuse Mayor, cou
+2026-03-26 00:29:37,017 [INFO]   Date: 2025-04-01 | Entities: ['Ben Walsh', 'Pat Hogan', 'Mary Kielar']
+2026-03-26 00:29:38,018 [INFO] [8/79] Fetching: https://www.localsyr.com/news/local-news/syracuses-north-side-residents-air-their-frustrations-the-f
+2026-03-26 00:29:38,791 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuses-north-side-residents-air-thei
+2026-03-26 00:29:38,791 [INFO] [8/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuses-north-side-residents-air-thei
+2026-03-26 00:29:39,792 [INFO] [9/79] Fetching: https://cnycentral.com/news/local/syracuse-asks-court-to-replace-current-redeveloper-of-skyline-apar
+2026-03-26 00:29:42,843 [INFO] [9/79] Accepted (--no-filter): Syracuse asks court to replace current redeveloper of Skyline Apartments with re
+2026-03-26 00:29:42,848 [INFO] [9/79] [DRY RUN] Would process: Syracuse asks court to replace current redeveloper of Skyline Apartments with re
+2026-03-26 00:29:42,848 [INFO]   Date: 2025-04-02 | Entities: ['Michael Collins', 'Ben Walsh', 'Syracuse University']
+2026-03-26 00:29:43,849 [INFO] [10/79] Fetching: https://www.waer.org/local-news/2025-04-03/syracuse-seeks-court-order-to-remove-skyline-apartments-o
+2026-03-26 00:29:47,078 [INFO] [10/79] Accepted (--no-filter): Syracuse seeks court order to remove Skyline Apartments owner
+2026-03-26 00:29:47,080 [INFO] [10/79] [DRY RUN] Would process: Syracuse seeks court order to remove Skyline Apartments owner
+2026-03-26 00:29:47,080 [INFO]   Date: 2025-04-03 | Entities: ['Ben Walsh']
+2026-03-26 00:29:48,081 [INFO] [11/79] Fetching: https://cnycentral.com/news/local/syracuse-landlord-argues-property-on-euclid-ave-should-not-be-cons
+2026-03-26 00:29:51,289 [INFO] [11/79] Accepted (--no-filter): Syracuse landlord argues property on Euclid Ave. should not be consider historic
+2026-03-26 00:29:51,290 [INFO] [11/79] [DRY RUN] Would process: Syracuse landlord argues property on Euclid Ave. should not be consider historic
+2026-03-26 00:29:51,290 [INFO]   Date: 2025-04-04 | Entities: []
+2026-03-26 00:29:54,290 [INFO] [12/79] Fetching: https://cnycentral.com/news/local/clear-investment-says-its-still-committed-to-redeveloping-dilapida
+2026-03-26 00:29:57,826 [INFO] [12/79] Accepted (--no-filter): Clear Investment says it's still committed to redeveloping dilapidated Skyline A
+2026-03-26 00:29:57,831 [INFO] [12/79] [DRY RUN] Would process: Clear Investment says it's still committed to redeveloping dilapidated Skyline A
+2026-03-26 00:29:57,832 [INFO]   Date: 2025-04-03 | Entities: []
+2026-03-26 00:30:00,832 [INFO] [13/79] Fetching: https://cnycentral.com/news/local/syracuse-councilors-oppose-proposed-tax-hike-amid-budget-surplus-b
+2026-03-26 00:30:05,229 [INFO] [13/79] Accepted (--no-filter): Syracuse councilors Hogan & Majok oppose proposed tax hike amid reserve surplus
+2026-03-26 00:30:05,230 [INFO] [13/79] [DRY RUN] Would process: Syracuse councilors Hogan & Majok oppose proposed tax hike amid reserve surplus
+2026-03-26 00:30:05,231 [INFO]   Date: 2025-04-10 | Entities: []
+2026-03-26 00:30:08,231 [INFO] [14/79] Fetching: https://cnycentral.com/news/i-team/consultants-waivers-lack-of-bids-relied-on-during-incomplete-over
+2026-03-26 00:30:12,359 [INFO] [14/79] Accepted (--no-filter): Consultants, waivers, lack of bids relied on during incomplete overhaul of Syrac
+2026-03-26 00:30:12,368 [INFO] [14/79] [DRY RUN] Would process: Consultants, waivers, lack of bids relied on during incomplete overhaul of Syrac
+2026-03-26 00:30:12,369 [INFO]   Date: 2025-04-11 | Entities: ['Corey Dunham', 'Ben Walsh', 'Pat Hogan', 'Bonadio Group']
+2026-03-26 00:30:15,370 [INFO] [15/79] Fetching: https://cnycentral.com/news/local/syracuse-leaders-propose-updates-to-municipal-tree-ordinance
+2026-03-26 00:30:27,271 [INFO] [15/79] Accepted (--no-filter): Syracuse leaders propose updates to municipal tree ordinance
+2026-03-26 00:30:27,272 [INFO] [15/79] [DRY RUN] Would process: Syracuse leaders propose updates to municipal tree ordinance
+2026-03-26 00:30:27,272 [INFO]   Date: 2025-04-11 | Entities: []
+2026-03-26 00:30:28,276 [INFO] [16/79] Fetching: https://www.localsyr.com/news/local-news/policy-and-procedure-violations-found-in-arrest-that-went-v
+2026-03-26 00:30:29,351 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/policy-and-procedure-violations-found-i
+2026-03-26 00:30:29,351 [INFO] [16/79] Blocked/empty: https://www.localsyr.com/news/local-news/policy-and-procedure-violations-found-i
+2026-03-26 00:30:30,355 [INFO] [17/79] Fetching: https://cnycentral.com/news/local/police-chief-officers-will-face-discipline-in-viral-south-avenue-a
+2026-03-26 00:30:33,789 [INFO] [17/79] Accepted (--no-filter): Police Chief: Officers will face discipline in viral South Avenue arrests
+2026-03-26 00:30:33,798 [INFO] [17/79] [DRY RUN] Would process: Police Chief: Officers will face discipline in viral South Avenue arrests
+2026-03-26 00:30:33,798 [INFO]   Date: 2025-04-10 | Entities: ['Joseph Cecile']
+2026-03-26 00:30:34,799 [INFO] [18/79] Fetching: https://www.localsyr.com/news/your-stories/after-nearly-two-weeks-hot-water-returns-to-nob-hill-apar
+2026-03-26 00:30:35,131 [DEBUG]   HTTP 403: https://www.localsyr.com/news/your-stories/after-nearly-two-weeks-hot-water-retu
+2026-03-26 00:30:35,131 [INFO] [18/79] Blocked/empty: https://www.localsyr.com/news/your-stories/after-nearly-two-weeks-hot-water-retu
+2026-03-26 00:30:36,132 [INFO] [19/79] Fetching: https://cnycentral.com/news/local/syracuse-police-drone-program-green-lit-amid-privacy-concerns-offi
+2026-03-26 00:30:45,793 [INFO] [19/79] Accepted (--no-filter): Syracuse Police drone program green-lit amid privacy concerns
+2026-03-26 00:30:45,797 [INFO] [19/79] [DRY RUN] Would process: Syracuse Police drone program green-lit amid privacy concerns
+2026-03-26 00:30:45,798 [INFO]   Date: 2025-04-10 | Entities: []
+2026-03-26 00:30:46,798 [INFO] [20/79] Fetching: https://www.localsyr.com/news/local-news/mayor-walsh-proposes-a-property-tax-increase-for-syracuses-
+2026-03-26 00:30:47,957 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/mayor-walsh-proposes-a-property-tax-inc
+2026-03-26 00:30:47,957 [INFO] [20/79] Blocked/empty: https://www.localsyr.com/news/local-news/mayor-walsh-proposes-a-property-tax-inc
+2026-03-26 00:30:50,958 [INFO] [21/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-anti-violence-workers-at-center-of-drug-case/
+2026-03-26 00:30:51,788 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-anti-violence-workers-at-cente
+2026-03-26 00:30:51,788 [INFO] [21/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-anti-violence-workers-at-cente
+2026-03-26 00:30:54,788 [INFO] [22/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-awarded-15-million-in-reforestation-grants/
+2026-03-26 00:30:54,945 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-awarded-15-million-in-reforest
+2026-03-26 00:30:54,945 [INFO] [22/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-awarded-15-million-in-reforest
+2026-03-26 00:30:57,946 [INFO] [23/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-taking-owners-of-nob-hill-apartments-to-state-supr
+2026-03-26 00:30:58,098 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-taking-owners-of-nob-hill-apar
+2026-03-26 00:30:58,099 [INFO] [23/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-taking-owners-of-nob-hill-apar
+2026-03-26 00:30:59,100 [INFO] [24/79] Fetching: https://cnycentral.com/news/local/lafayette-country-club-turning-into-a-lifestyle-community-golf-dog
+2026-03-26 00:31:02,336 [INFO] [24/79] Accepted (--no-filter): Lafayette Country Club turning into a lifestyle community
+2026-03-26 00:31:02,343 [INFO] [24/79] [DRY RUN] Would process: Lafayette Country Club turning into a lifestyle community
+2026-03-26 00:31:02,344 [INFO]   Date: 2025-04-29 | Entities: []
+2026-03-26 00:31:03,344 [INFO] [25/79] Fetching: https://www.localsyr.com/news/local-news/mayor-walsh-announces-hiring-events-to-fill-openings-in-cit
+2026-03-26 00:31:04,036 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/mayor-walsh-announces-hiring-events-to-
+2026-03-26 00:31:04,036 [INFO] [25/79] Blocked/empty: https://www.localsyr.com/news/local-news/mayor-walsh-announces-hiring-events-to-
+2026-03-26 00:31:07,037 [INFO] [26/79] Fetching: https://www.localsyr.com/news/local-news/syracuses-common-council-cutting-expenses-for-dozens-of-dep
+2026-03-26 00:31:07,196 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuses-common-council-cutting-expens
+2026-03-26 00:31:07,196 [INFO] [26/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuses-common-council-cutting-expens
+2026-03-26 00:31:10,197 [INFO] [27/79] Fetching: https://www.localsyr.com/news/local-news/through-formal-vetoes-syracuse-mayor-asks-common-council-to
+2026-03-26 00:31:10,336 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/through-formal-vetoes-syracuse-mayor-as
+2026-03-26 00:31:10,336 [INFO] [27/79] Blocked/empty: https://www.localsyr.com/news/local-news/through-formal-vetoes-syracuse-mayor-as
+2026-03-26 00:31:13,337 [INFO] [28/79] Fetching: https://www.localsyr.com/news/local-news/leader-says-common-council-will-probably-override-syracuse-
+2026-03-26 00:31:13,508 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/leader-says-common-council-will-probabl
+2026-03-26 00:31:13,508 [INFO] [28/79] Blocked/empty: https://www.localsyr.com/news/local-news/leader-says-common-council-will-probabl
+2026-03-26 00:31:16,509 [INFO] [29/79] Fetching: https://www.localsyr.com/news/local-news/warning-period-concludes-for-syracuse-bus-stop-arm-camera-e
+2026-03-26 00:31:16,650 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/warning-period-concludes-for-syracuse-b
+2026-03-26 00:31:16,651 [INFO] [29/79] Blocked/empty: https://www.localsyr.com/news/local-news/warning-period-concludes-for-syracuse-b
+2026-03-26 00:31:19,655 [INFO] [30/79] Fetching: https://www.localsyr.com/news/local-news/bravest-vs-finest-basketball-game-returns-while-both-depart
+2026-03-26 00:31:19,799 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/bravest-vs-finest-basketball-game-retur
+2026-03-26 00:31:19,800 [INFO] [30/79] Blocked/empty: https://www.localsyr.com/news/local-news/bravest-vs-finest-basketball-game-retur
+2026-03-26 00:31:22,800 [INFO] [31/79] Fetching: https://www.localsyr.com/news/local-news/from-policing-landlords-to-issuing-permits-common-councils-
+2026-03-26 00:31:23,028 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/from-policing-landlords-to-issuing-perm
+2026-03-26 00:31:23,028 [INFO] [31/79] Blocked/empty: https://www.localsyr.com/news/local-news/from-policing-landlords-to-issuing-perm
+2026-03-26 00:31:26,028 [INFO] [32/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-fire-department-urging-mayor-to-reject-proposed-cu
+2026-03-26 00:31:26,170 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-fire-department-urging-mayor-t
+2026-03-26 00:31:26,170 [INFO] [32/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-fire-department-urging-mayor-t
+2026-03-26 00:31:27,171 [INFO] [33/79] Fetching: https://cnycentral.com/news/local/village-of-north-syracuse-give-little-notice-for-taking-away-trash
+2026-03-26 00:31:30,128 [INFO] [33/79] Accepted (--no-filter): Village of North Syracuse give little notice for taking away trash cans
+2026-03-26 00:31:30,132 [INFO] [33/79] [DRY RUN] Would process: Village of North Syracuse give little notice for taking away trash cans
+2026-03-26 00:31:30,133 [INFO]   Date: 2025-05-30 | Entities: []
+2026-03-26 00:31:31,133 [INFO] [34/79] Fetching: https://www.localsyr.com/news/local-news/where-does-the-columbus-statue-in-syracuse-stand
+2026-03-26 00:31:32,960 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/where-does-the-columbus-statue-in-syrac
+2026-03-26 00:31:32,961 [INFO] [34/79] Blocked/empty: https://www.localsyr.com/news/local-news/where-does-the-columbus-statue-in-syrac
+2026-03-26 00:31:35,961 [INFO] [35/79] Fetching: https://www.localsyr.com/news/local-news/syracuses-jail-could-become-new-housing/
+2026-03-26 00:31:36,130 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuses-jail-could-become-new-housing
+2026-03-26 00:31:36,130 [INFO] [35/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuses-jail-could-become-new-housing
+2026-03-26 00:31:39,131 [INFO] [36/79] Fetching: https://www.localsyr.com/news/local-news/newschannel-9-goes-inside-the-demolition-zone-as-century-ol
+2026-03-26 00:31:39,281 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/newschannel-9-goes-inside-the-demolitio
+2026-03-26 00:31:39,281 [INFO] [36/79] Blocked/empty: https://www.localsyr.com/news/local-news/newschannel-9-goes-inside-the-demolitio
+2026-03-26 00:31:42,282 [INFO] [37/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-to-close-illegal-marijuana-shop-after-court-order/
+2026-03-26 00:31:42,416 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-to-close-illegal-marijuana-sho
+2026-03-26 00:31:42,416 [INFO] [37/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-to-close-illegal-marijuana-sho
+2026-03-26 00:31:45,417 [INFO] [38/79] Fetching: https://www.localsyr.com/news/local-news/steam-high-school-to-open-this-september-syracuse-city-scho
+2026-03-26 00:31:45,545 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/steam-high-school-to-open-this-septembe
+2026-03-26 00:31:45,545 [INFO] [38/79] Blocked/empty: https://www.localsyr.com/news/local-news/steam-high-school-to-open-this-septembe
+2026-03-26 00:31:48,546 [INFO] [39/79] Fetching: https://www.localsyr.com/news/local-news/facing-gangs-and-guns-officers-union-calls-weekend-in-armor
+2026-03-26 00:31:48,709 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/facing-gangs-and-guns-officers-union-ca
+2026-03-26 00:31:48,709 [INFO] [39/79] Blocked/empty: https://www.localsyr.com/news/local-news/facing-gangs-and-guns-officers-union-ca
+2026-03-26 00:31:49,710 [INFO] [40/79] Fetching: https://cnycentral.com/news/local/community-activist-talks-about-rash-of-violent-crime-young-suspect
+2026-03-26 00:31:52,402 [INFO] [40/79] Accepted (--no-filter): Community activist talks about rash of violent crime, young suspects in Syracuse
+2026-03-26 00:31:52,408 [INFO] [40/79] [DRY RUN] Would process: Community activist talks about rash of violent crime, young suspects in Syracuse
+2026-03-26 00:31:52,408 [INFO]   Date: 2025-07-08 | Entities: ['Mary Kielar']
+2026-03-26 00:31:53,409 [INFO] [41/79] Fetching: https://www.localsyr.com/news/local-news/low-income-internet-provider-expands-coverage-to-more-than-
+2026-03-26 00:31:53,724 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/low-income-internet-provider-expands-co
+2026-03-26 00:31:53,724 [INFO] [41/79] Blocked/empty: https://www.localsyr.com/news/local-news/low-income-internet-provider-expands-co
+2026-03-26 00:31:54,724 [INFO] [42/79] Fetching: https://cnycentral.com/news/local/blueprint-15-executive-director-resigns-as-children-rising-center-
+2026-03-26 00:31:57,506 [INFO] [42/79] Accepted (--no-filter): Blueprint 15 Executive Director resigns as Children Rising Center project remain
+2026-03-26 00:31:57,510 [INFO] [42/79] [DRY RUN] Would process: Blueprint 15 Executive Director resigns as Children Rising Center project remain
+2026-03-26 00:31:57,511 [INFO]   Date: 2025-07-17 | Entities: ['Mary Kielar', 'Syracuse Housing Authority']
+2026-03-26 00:32:00,551 [INFO] [43/79] Fetching: https://cnycentral.com/news/local/onondaga-county-syracuse-invest-in-unprecedented-efforts-to-tackle
+2026-03-26 00:32:03,513 [INFO] [43/79] Accepted (--no-filter): Onondaga County, Syracuse invest in unprecedented efforts to tackle lead contami
+2026-03-26 00:32:03,514 [INFO] [43/79] [DRY RUN] Would process: Onondaga County, Syracuse invest in unprecedented efforts to tackle lead contami
+2026-03-26 00:32:03,514 [INFO]   Date: 2025-07-17 | Entities: []
+2026-03-26 00:32:04,515 [INFO] [44/79] Fetching: https://www.localsyr.com/news/local-news/firefighters-manage-brush-fire-by-nbt-bank-stadium/
+2026-03-26 00:32:04,709 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/firefighters-manage-brush-fire-by-nbt-b
+2026-03-26 00:32:04,709 [INFO] [44/79] Blocked/empty: https://www.localsyr.com/news/local-news/firefighters-manage-brush-fire-by-nbt-b
+2026-03-26 00:32:05,710 [INFO] [45/79] Fetching: https://cnycentral.com/news/local/new-baseball-themed-splashpad-opens-at-cummings-field
+2026-03-26 00:32:08,342 [INFO] [45/79] Accepted (--no-filter): New baseball-themed splashpad opens at Cummings Field
+2026-03-26 00:32:08,345 [INFO] [45/79] [DRY RUN] Would process: New baseball-themed splashpad opens at Cummings Field
+2026-03-26 00:32:08,345 [INFO]   Date: 2025-07-24 | Entities: []
+2026-03-26 00:32:09,346 [INFO] [46/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-dropped-its-carbon-emissions-over-decade-by-wide-m
+2026-03-26 00:32:09,559 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-dropped-its-carbon-emissions-o
+2026-03-26 00:32:09,559 [INFO] [46/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-dropped-its-carbon-emissions-o
+2026-03-26 00:32:10,560 [INFO] [47/79] Fetching: https://cnycentral.com/news/local/light-comedy-and-a-catch-phrase-to-help-stop-parkway-bridge-strike
+2026-03-26 00:32:16,060 [INFO] [47/79] Accepted (--no-filter): Light comedy and a catch phrase to help stop Parkway bridge strikes?
+2026-03-26 00:32:16,065 [INFO] [47/79] [DRY RUN] Would process: Light comedy and a catch phrase to help stop Parkway bridge strikes?
+2026-03-26 00:32:16,065 [INFO]   Date: 2025-07-23 | Entities: []
+2026-03-26 00:32:19,066 [INFO] [48/79] Fetching: https://cnycentral.com/news/local/d-07-23-2025
+2026-03-26 00:32:22,071 [INFO] [48/79] Accepted (--no-filter): Recurring harmful algal blooms -- is a long term fix on the horizon?
+2026-03-26 00:32:22,076 [INFO] [48/79] [DRY RUN] Would process: Recurring harmful algal blooms -- is a long term fix on the horizon?
+2026-03-26 00:32:22,077 [INFO]   Date: 2025-07-23 | Entities: []
+2026-03-26 00:32:25,077 [INFO] [49/79] Fetching: https://cnycentral.com/news/local/talks-collapse-over-early-childhood-center-at-former-st-anns-churc
+2026-03-26 00:32:29,402 [INFO] [49/79] Accepted (--no-filter): Talks collapse over early childhood center at former St. Ann's Church
+2026-03-26 00:32:29,432 [INFO] [49/79] [DRY RUN] Would process: Talks collapse over early childhood center at former St. Ann's Church
+2026-03-26 00:32:29,434 [INFO]   Date: 2025-07-22 | Entities: ['Ryan McMahon', 'Syracuse University']
+2026-03-26 00:32:32,435 [INFO] [50/79] Fetching: https://cnycentral.com/news/local/sisters-reflect-on-the-demolition-of-the-motherhouse
+2026-03-26 00:32:37,773 [INFO] [50/79] Accepted (--no-filter): Sisters reflect on the demolition of the Maria Regina Motherhouse
+2026-03-26 00:32:37,774 [INFO] [50/79] [DRY RUN] Would process: Sisters reflect on the demolition of the Maria Regina Motherhouse
+2026-03-26 00:32:37,774 [INFO]   Date: 2025-07-30 | Entities: []
+2026-03-26 00:32:40,775 [INFO] [51/79] Fetching: https://cnycentral.com/news/local/historic-convent-complex-chapels-fate-uncertain-as-convent-deconst
+2026-03-26 00:32:47,461 [INFO] [51/79] Accepted (--no-filter): Historic Convent Complex chapel's fate uncertain as convent deconstruction is co
+2026-03-26 00:32:47,468 [INFO] [51/79] [DRY RUN] Would process: Historic Convent Complex chapel's fate uncertain as convent deconstruction is co
+2026-03-26 00:32:47,468 [INFO]   Date: 2025-08-06 | Entities: []
+2026-03-26 00:32:48,469 [INFO] [52/79] Fetching: https://www.localsyr.com/news/local-news/syracuses-city-auditor-wants-to-prevent-vacant-structure-fi
+2026-03-26 00:32:48,804 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuses-city-auditor-wants-to-prevent
+2026-03-26 00:32:48,804 [INFO] [52/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuses-city-auditor-wants-to-prevent
+2026-03-26 00:32:49,805 [INFO] [53/79] Fetching: https://www.wrvo.org/2025-07-28/syracuse-schools-brace-for-cuts-from-recently-passed-spending-bill
+2026-03-26 00:32:52,736 [INFO] [53/79] Accepted (--no-filter): Syracuse schools brace for cuts from recently passed spending bill
+2026-03-26 00:32:52,738 [INFO] [53/79] [DRY RUN] Would process: Syracuse schools brace for cuts from recently passed spending bill
+2026-03-26 00:32:52,738 [INFO]   Date: 2025-07-28 | Entities: ['Syracuse City School District']
+2026-03-26 00:32:53,739 [INFO] [54/79] Fetching: https://www.localsyr.com/news/local-news/crime-in-syracuse-drops-significantly-compared-to-last-year
+2026-03-26 00:32:53,876 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/crime-in-syracuse-drops-significantly-c
+2026-03-26 00:32:53,876 [INFO] [54/79] Blocked/empty: https://www.localsyr.com/news/local-news/crime-in-syracuse-drops-significantly-c
+2026-03-26 00:32:54,876 [INFO] [55/79] Fetching: https://cnycentral.com/news/local/mary-nelson-youth-center-hosts-annual-back-to-school-giveaway
+2026-03-26 00:32:57,888 [INFO] [55/79] Accepted (--no-filter): Mary Nelson Youth Center hosts annual back-to-school giveaway
+2026-03-26 00:32:57,893 [INFO] [55/79] [DRY RUN] Would process: Mary Nelson Youth Center hosts annual back-to-school giveaway
+2026-03-26 00:32:57,893 [INFO]   Date: 2025-08-16 | Entities: []
+2026-03-26 00:32:58,893 [INFO] [56/79] Fetching: https://www.localsyr.com/news/local-news/the-public-shares-concerns-over-drones-in-the-syracuse-poli
+2026-03-26 00:32:59,129 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/the-public-shares-concerns-over-drones-
+2026-03-26 00:32:59,129 [INFO] [56/79] Blocked/empty: https://www.localsyr.com/news/local-news/the-public-shares-concerns-over-drones-
+2026-03-26 00:33:00,130 [INFO] [57/79] Fetching: https://www.waer.org/news/2025-09-13/long-planned-development-project-on-syracuses-south-side-gains-
+2026-03-26 00:33:02,874 [INFO] [57/79] Accepted (--no-filter): Long-planned development project on Syracuse’s south side gains momentum
+2026-03-26 00:33:02,876 [INFO] [57/79] [DRY RUN] Would process: Long-planned development project on Syracuse’s south side gains momentum
+2026-03-26 00:33:02,877 [INFO]   Date: 2025-09-13 | Entities: []
+2026-03-26 00:33:03,877 [INFO] [58/79] Fetching: https://www.localsyr.com/news/local-news/fulton-polices-drone-program-proves-to-be-successful-spd-lo
+2026-03-26 00:33:04,011 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/fulton-polices-drone-program-proves-to-
+2026-03-26 00:33:04,011 [INFO] [58/79] Blocked/empty: https://www.localsyr.com/news/local-news/fulton-polices-drone-program-proves-to-
+2026-03-26 00:33:05,012 [INFO] [59/79] Fetching: https://www.waer.org/news/2025-09-02/onondaga-county-expands-hotel-room-tax-to-include-short-term-re
+2026-03-26 00:33:07,745 [INFO] [59/79] Accepted (--no-filter): Onondaga County expands hotel room tax to include short-term rentals
+2026-03-26 00:33:07,748 [INFO] [59/79] [DRY RUN] Would process: Onondaga County expands hotel room tax to include short-term rentals
+2026-03-26 00:33:07,748 [INFO]   Date: 2025-09-02 | Entities: []
+2026-03-26 00:33:08,748 [INFO] [60/79] Fetching: https://cnycentral.com/news/local/parents-feel-extra-safe-with-the-new-school-zone-spedometers
+2026-03-26 00:33:11,539 [INFO] [60/79] Accepted (--no-filter): Parents feel extra safe with the new school zone spedometers
+2026-03-26 00:33:11,546 [INFO] [60/79] [DRY RUN] Would process: Parents feel extra safe with the new school zone spedometers
+2026-03-26 00:33:11,546 [INFO]   Date: 2025-09-02 | Entities: []
+2026-03-26 00:33:12,547 [INFO] [61/79] Fetching: https://www.wrvo.org/2025-09-30/syracuse-officials-expect-deer-management-pilot-program-to-continue
+2026-03-26 00:33:15,506 [INFO] [61/79] Accepted (--no-filter): Syracuse officials expect deer management pilot program to continue
+2026-03-26 00:33:15,508 [INFO] [61/79] [DRY RUN] Would process: Syracuse officials expect deer management pilot program to continue
+2026-03-26 00:33:15,508 [INFO]   Date: 2025-09-30 | Entities: ['Greg Loh']
+2026-03-26 00:33:16,509 [INFO] [62/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-reports-progress-in-tick-and-deer-management-progr
+2026-03-26 00:33:16,626 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-reports-progress-in-tick-and-d
+2026-03-26 00:33:16,626 [INFO] [62/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-reports-progress-in-tick-and-d
+2026-03-26 00:33:19,627 [INFO] [63/79] Fetching: https://www.localsyr.com/news/local-news/police-asking-public-to-avoid-area-in-city-of-syracuse/
+2026-03-26 00:33:19,761 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/police-asking-public-to-avoid-area-in-c
+2026-03-26 00:33:19,761 [INFO] [63/79] Blocked/empty: https://www.localsyr.com/news/local-news/police-asking-public-to-avoid-area-in-c
+2026-03-26 00:33:22,762 [INFO] [64/79] Fetching: https://www.localsyr.com/video/syracuse-fire-dept-races-to-find-safe-space-after-garage-floor-deemed
+2026-03-26 00:33:22,907 [DEBUG]   HTTP 403: https://www.localsyr.com/video/syracuse-fire-dept-races-to-find-safe-space-after
+2026-03-26 00:33:22,908 [INFO] [64/79] Blocked/empty: https://www.localsyr.com/video/syracuse-fire-dept-races-to-find-safe-space-after
+2026-03-26 00:33:25,908 [INFO] [65/79] Fetching: https://www.localsyr.com/news/local-news/mayor-walsh-denounces-speeding-epidemic-after-cameras-catch
+2026-03-26 00:33:26,041 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/mayor-walsh-denounces-speeding-epidemic
+2026-03-26 00:33:26,041 [INFO] [65/79] Blocked/empty: https://www.localsyr.com/news/local-news/mayor-walsh-denounces-speeding-epidemic
+2026-03-26 00:33:27,042 [INFO] [66/79] Fetching: https://cnycentral.com/news/local/syracuse-city-school-district-looks-to-pay-outgoing-superintendent
+2026-03-26 00:33:29,890 [INFO] [66/79] Accepted (--no-filter): Syracuse City School District looks to pay outgoing Superintendent $125,000 for 
+2026-03-26 00:33:29,891 [INFO] [66/79] [DRY RUN] Would process: Syracuse City School District looks to pay outgoing Superintendent $125,000 for 
+2026-03-26 00:33:29,891 [INFO]   Date: 2025-10-07 | Entities: ['Syracuse City School District']
+2026-03-26 00:33:30,892 [INFO] [67/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-rescue-mission-expansion/
+2026-03-26 00:33:31,134 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-rescue-mission-expansion/
+2026-03-26 00:33:31,134 [INFO] [67/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-rescue-mission-expansion/
+2026-03-26 00:33:32,134 [INFO] [68/79] Fetching: https://cnycentral.com/news/local/syracuse-city-schools-spend-50-more-per-student-yet-rank-near-bott
+2026-03-26 00:33:35,726 [INFO] [68/79] Accepted (--no-filter): Syracuse City Schools spend 50% more per student yet rank near bottom in state t
+2026-03-26 00:33:35,730 [INFO] [68/79] [DRY RUN] Would process: Syracuse City Schools spend 50% more per student yet rank near bottom in state t
+2026-03-26 00:33:35,731 [INFO]   Date: 2025-10-07 | Entities: ['Syracuse City School District']
+2026-03-26 00:33:38,732 [INFO] [69/79] Fetching: https://cnycentral.com/news/local/calvin-corriders-syracuse-housing-authority-children-rising-center
+2026-03-26 00:33:43,175 [INFO] [69/79] Accepted (--no-filter): Calvin Corriders Sr. has left his position as chair of the Syracuse Housing Auth
+2026-03-26 00:33:43,178 [INFO] [69/79] [DRY RUN] Would process: Calvin Corriders Sr. has left his position as chair of the Syracuse Housing Auth
+2026-03-26 00:33:43,178 [INFO]   Date: 2025-10-16 | Entities: ['Ben Walsh', 'Bill Simmons', 'Syracuse University', 'Syracuse Housing Authority']
+2026-03-26 00:33:44,179 [INFO] [70/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-valley-plaza-to-welcome-new-grocery-store-resident
+2026-03-26 00:33:44,611 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-valley-plaza-to-welcome-new-gr
+2026-03-26 00:33:44,611 [INFO] [70/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-valley-plaza-to-welcome-new-gr
+2026-03-26 00:33:47,611 [INFO] [71/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-school-zone-traffic-data-shows-significant-drop-in
+2026-03-26 00:33:47,753 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-school-zone-traffic-data-shows
+2026-03-26 00:33:47,754 [INFO] [71/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-school-zone-traffic-data-shows
+2026-03-26 00:33:50,754 [INFO] [72/79] Fetching: https://www.localsyr.com/news/local-news/scam-alert-fake-zoning-invoices-in-cny/
+2026-03-26 00:33:50,878 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/scam-alert-fake-zoning-invoices-in-cny/
+2026-03-26 00:33:50,878 [INFO] [72/79] Blocked/empty: https://www.localsyr.com/news/local-news/scam-alert-fake-zoning-invoices-in-cny/
+2026-03-26 00:33:53,879 [INFO] [73/79] Fetching: https://www.localsyr.com/news/local-news/fayette-street-parking-garage-closes-due-to-safety-concerns
+2026-03-26 00:33:54,009 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/fayette-street-parking-garage-closes-du
+2026-03-26 00:33:54,009 [INFO] [73/79] Blocked/empty: https://www.localsyr.com/news/local-news/fayette-street-parking-garage-closes-du
+2026-03-26 00:33:57,009 [INFO] [74/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-auto-business-in-trouble-with-city-lawmakers-after
+2026-03-26 00:33:57,189 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-auto-business-in-trouble-with-
+2026-03-26 00:33:57,190 [INFO] [74/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-auto-business-in-trouble-with-
+2026-03-26 00:33:58,190 [INFO] [75/79] Fetching: https://cnycentral.com/news/local/ice-comments-syracuse-business-owners-self-deportation-amid-visa-c
+2026-03-26 00:34:01,068 [INFO] [75/79] Accepted (--no-filter): ICE comments on Syracuse business owner’s self-deportation amid visa controversy
+2026-03-26 00:34:01,073 [INFO] [75/79] [DRY RUN] Would process: ICE comments on Syracuse business owner’s self-deportation amid visa controversy
+2026-03-26 00:34:01,073 [INFO]   Date: 2025-11-19 | Entities: []
+2026-03-26 00:34:02,073 [INFO] [76/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-mayors-final-community-briefing-highlights-public-
+2026-03-26 00:34:02,354 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-mayors-final-community-briefin
+2026-03-26 00:34:02,355 [INFO] [76/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-mayors-final-community-briefin
+2026-03-26 00:34:05,355 [INFO] [77/79] Fetching: https://www.localsyr.com/interviews/interview-common-councilor-jimmy-monto-on-what-to-expect-for-202
+2026-03-26 00:34:05,653 [DEBUG]   HTTP 403: https://www.localsyr.com/interviews/interview-common-councilor-jimmy-monto-on-wh
+2026-03-26 00:34:05,653 [INFO] [77/79] Blocked/empty: https://www.localsyr.com/interviews/interview-common-councilor-jimmy-monto-on-wh
+2026-03-26 00:34:06,654 [INFO] [78/79] Fetching: https://www.waer.org/news/2025-12-17/ocwa-still-seeking-water-service-line-information-from-48-000-c
+2026-03-26 00:34:09,674 [INFO] [78/79] Accepted (--no-filter): OCWA still seeking water service line information from 48,000 customers
+2026-03-26 00:34:09,679 [INFO] [78/79] [DRY RUN] Would process: OCWA still seeking water service line information from 48,000 customers
+2026-03-26 00:34:09,679 [INFO]   Date: 2025-12-17 | Entities: []
+2026-03-26 00:34:10,680 [INFO] [79/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-begins-winter-deer-management-program-across-the-c
+2026-03-26 00:34:10,819 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-begins-winter-deer-management-
+2026-03-26 00:34:10,820 [INFO] [79/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-begins-winter-deer-management-
+2026-03-26 00:34:11,689 [INFO] Link Importer Run — 2026-03-26 00:34
+==================================================
+URLs in CSV: 452
+Skipped (domain): 4
+Already processed: 178
+Attempted this run: 79
+Blocked/empty: 41
+Recovered via Wayback Machine: 0
+Filtered (not relevant): 0
+Saved as records: 0
+Errors: 0
+
+2026-03-26 00:35:10,294 [INFO] ============================================================
+2026-03-26 00:35:10,294 [INFO] Link Importer starting
+2026-03-26 00:35:10,299 [INFO] Loaded 452 unique URLs from CSV
+2026-03-26 00:35:10,300 [INFO] Skipped 4 URLs from irrelevant domains
+2026-03-26 00:35:10,302 [INFO] Skipped 191 Syracuse.com URLs (--skip-blocked)
+2026-03-26 00:35:10,303 [INFO] New URLs to process: 79 (of 257 total)
+2026-03-26 00:35:12,500 [INFO] Using persistent browser profile (logged in, visible)
+2026-03-26 00:35:13,501 [INFO] [1/79] Fetching: https://cnycentral.com/news/local/former-sears-building-to-be-site-of-states-first-workforce-innovat
+2026-03-26 00:35:15,933 [INFO] [1/79] Accepted (--no-filter): Former Sears Building to be site of state's first workforce innovation hub
+2026-03-26 00:35:25,308 [INFO]   Dedup match: CTX-NEWS-2025-00230
+2026-03-26 00:35:25,313 [INFO]   Saved: CTX-NEWS-2025-00348 → CTX-NEWS-2025-00348.json
+2026-03-26 00:35:28,315 [INFO] [2/79] Fetching: https://cnycentral.com/news/local/residents-worried-about-property-tax-increase-due-to-2-million-dol
+2026-03-26 00:35:36,458 [INFO] [2/79] Accepted (--no-filter): Residents worried about property tax increase due to $1.8 million plan
+2026-03-26 00:35:42,869 [WARNING]   Tag issue: Unknown tag 'constituent_pressure' not in taxonomy
+2026-03-26 00:35:42,903 [INFO]   Saved: CTX-NEWS-2025-00349 → CTX-NEWS-2025-00349.json
+2026-03-26 00:35:45,904 [INFO] [3/79] Fetching: https://cnycentral.com/news/local/syracuse-taxpayers-bear-financial-burden-as-city-maintains-neglect
+2026-03-26 00:35:52,278 [INFO] [3/79] Accepted (--no-filter): Syracuse maintains neglected St. Anthony's Convent for absent property owner
+2026-03-26 00:36:00,868 [WARNING]   Tag issue: Unknown tag 'property-neglect' not in taxonomy
+2026-03-26 00:36:00,890 [INFO]   Saved: CTX-NEWS-2025-00350 → CTX-NEWS-2025-00350.json
+2026-03-26 00:36:01,891 [INFO] [4/79] Fetching: https://www.waer.org/news/2025-03-31/impending-demolition-of-former-northside-convent-elicits-memori
+2026-03-26 00:36:04,860 [INFO] [4/79] Accepted (--no-filter): Impending demolition of former northside convent elicits memories of its long hi
+2026-03-26 00:36:11,908 [INFO]   Dedup match: CTX-NEWS-2025-00338
+2026-03-26 00:36:11,913 [INFO]   Saved: CTX-NEWS-2025-00351 → CTX-NEWS-2025-00351.json
+2026-03-26 00:36:12,914 [INFO] [5/79] Fetching: https://cnycentral.com/news/local/landowners-absence-fuels-frustration-at-town-meeting-after-convent
+2026-03-26 00:36:15,750 [INFO] [5/79] Accepted (--no-filter): Landowner's absence fuels frustration at town meeting after convent condemnation
+2026-03-26 00:36:22,774 [INFO]   Dedup match: CTX-NEWS-2025-00351
+2026-03-26 00:36:22,779 [INFO]   Saved: CTX-NEWS-2025-00352 → CTX-NEWS-2025-00352.json
+2026-03-26 00:36:23,779 [INFO] [6/79] Fetching: https://www.localsyr.com/news/your-stories/your-stories-qa-dispute-over-repairing-potholes-leads-to-
+2026-03-26 00:36:29,256 [INFO] [6/79] Accepted (--no-filter): Your Stories Q&A: Dispute over repairing potholes leads to DeWitt, Salina road b
+2026-03-26 00:36:34,984 [INFO]   Saved: CTX-NEWS-2025-00353 → CTX-NEWS-2025-00353.json
+2026-03-26 00:36:35,984 [INFO] [7/79] Fetching: https://cnycentral.com/news/local/tensions-boil-over-handling-of-maria-regina-property-between-syrac
+2026-03-26 00:36:39,195 [INFO] [7/79] Accepted (--no-filter): Tensions boil over handling of Maria Regina property between Syracuse Mayor, cou
+2026-03-26 00:36:46,794 [INFO]   Dedup match: CTX-NEWS-2025-00208
+2026-03-26 00:36:46,799 [INFO]   Saved: CTX-NEWS-2025-00354 → CTX-NEWS-2025-00354.json
+2026-03-26 00:36:47,800 [INFO] [8/79] Fetching: https://www.localsyr.com/news/local-news/syracuses-north-side-residents-air-their-frustrations-the-f
+2026-03-26 00:36:48,246 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuses-north-side-residents-air-thei
+2026-03-26 00:36:48,247 [INFO] [8/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuses-north-side-residents-air-thei
+2026-03-26 00:36:49,248 [INFO] [9/79] Fetching: https://cnycentral.com/news/local/syracuse-asks-court-to-replace-current-redeveloper-of-skyline-apar
+2026-03-26 00:36:52,313 [INFO] [9/79] Accepted (--no-filter): Syracuse asks court to replace current redeveloper of Skyline Apartments with re
+2026-03-26 00:37:00,061 [INFO]   Dedup match: CTX-NEWS-2025-00209
+2026-03-26 00:37:00,067 [INFO]   Saved: CTX-NEWS-2025-00355 → CTX-NEWS-2025-00355.json
+2026-03-26 00:37:01,067 [INFO] [10/79] Fetching: https://www.waer.org/local-news/2025-04-03/syracuse-seeks-court-order-to-remove-skyline-apartments-o
+2026-03-26 00:37:03,963 [INFO] [10/79] Accepted (--no-filter): Syracuse seeks court order to remove Skyline Apartments owner
+2026-03-26 00:37:09,198 [WARNING]   Tag issue: Unknown tag 'litigation' not in taxonomy
+2026-03-26 00:37:09,215 [INFO]   Dedup match: CTX-NEWS-2025-00208
+2026-03-26 00:37:09,219 [INFO]   Saved: CTX-NEWS-2025-00356 → CTX-NEWS-2025-00356.json
+2026-03-26 00:37:10,220 [INFO] [11/79] Fetching: https://cnycentral.com/news/local/syracuse-landlord-argues-property-on-euclid-ave-should-not-be-cons
+2026-03-26 00:37:13,776 [INFO] [11/79] Accepted (--no-filter): Syracuse landlord argues property on Euclid Ave. should not be consider historic
+2026-03-26 00:37:18,819 [INFO]   Saved: CTX-NEWS-2025-00357 → CTX-NEWS-2025-00357.json
+2026-03-26 00:37:21,819 [INFO] [12/79] Fetching: https://cnycentral.com/news/local/clear-investment-says-its-still-committed-to-redeveloping-dilapida
+2026-03-26 00:37:24,405 [INFO] [12/79] Accepted (--no-filter): Clear Investment says it's still committed to redeveloping dilapidated Skyline A
+2026-03-26 00:37:30,723 [WARNING]   Tag issue: Unknown tag 'legal-action' not in taxonomy
+2026-03-26 00:37:30,739 [INFO]   Dedup match: CTX-NEWS-2025-00208
+2026-03-26 00:37:30,743 [INFO]   Saved: CTX-NEWS-2025-00358 → CTX-NEWS-2025-00358.json
+2026-03-26 00:37:33,744 [INFO] [13/79] Fetching: https://cnycentral.com/news/local/syracuse-councilors-oppose-proposed-tax-hike-amid-budget-surplus-b
+2026-03-26 00:37:38,357 [INFO] [13/79] Accepted (--no-filter): Syracuse councilors Hogan & Majok oppose proposed tax hike amid reserve surplus
+2026-03-26 00:37:44,815 [WARNING]   Tag issue: Unknown tag 'fiscal-discipline' not in taxonomy
+2026-03-26 00:37:44,928 [INFO]   Saved: CTX-NEWS-2025-00359 → CTX-NEWS-2025-00359.json
+2026-03-26 00:37:47,928 [INFO] [14/79] Fetching: https://cnycentral.com/news/i-team/consultants-waivers-lack-of-bids-relied-on-during-incomplete-over
+2026-03-26 00:37:52,851 [INFO] [14/79] Accepted (--no-filter): Consultants, waivers, lack of bids relied on during incomplete overhaul of Syrac
+2026-03-26 00:37:59,133 [INFO]   Saved: CTX-NEWS-2025-00360 → CTX-NEWS-2025-00360.json
+2026-03-26 00:38:02,134 [INFO] [15/79] Fetching: https://cnycentral.com/news/local/syracuse-leaders-propose-updates-to-municipal-tree-ordinance
+2026-03-26 00:38:06,756 [INFO] [15/79] Accepted (--no-filter): Syracuse leaders propose updates to municipal tree ordinance
+2026-03-26 00:38:13,812 [WARNING]   Tag issue: Unknown tag 'urban-forestry' not in taxonomy
+2026-03-26 00:38:13,812 [WARNING]   Tag issue: Unknown tag 'community-engagement' not in taxonomy
+2026-03-26 00:38:13,837 [INFO]   Saved: CTX-NEWS-2025-00361 → CTX-NEWS-2025-00361.json
+2026-03-26 00:38:14,837 [INFO] [16/79] Fetching: https://www.localsyr.com/news/local-news/policy-and-procedure-violations-found-in-arrest-that-went-v
+2026-03-26 00:38:15,343 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/policy-and-procedure-violations-found-i
+2026-03-26 00:38:15,343 [INFO] [16/79] Blocked/empty: https://www.localsyr.com/news/local-news/policy-and-procedure-violations-found-i
+2026-03-26 00:38:16,344 [INFO] [17/79] Fetching: https://cnycentral.com/news/local/police-chief-officers-will-face-discipline-in-viral-south-avenue-a
+2026-03-26 00:38:20,330 [INFO] [17/79] Accepted (--no-filter): Police Chief: Officers will face discipline in viral South Avenue arrests
+2026-03-26 00:38:26,725 [WARNING]   Tag issue: Unknown tag 'use-of-force' not in taxonomy
+2026-03-26 00:38:26,726 [WARNING]   Tag issue: Unknown tag 'discipline' not in taxonomy
+2026-03-26 00:38:26,747 [INFO]   Dedup match: CTX-NEWS-2025-00258
+2026-03-26 00:38:26,753 [INFO]   Saved: CTX-NEWS-2025-00362 → CTX-NEWS-2025-00362.json
+2026-03-26 00:38:27,753 [INFO] [18/79] Fetching: https://www.localsyr.com/news/your-stories/after-nearly-two-weeks-hot-water-returns-to-nob-hill-apar
+2026-03-26 00:38:28,386 [DEBUG]   HTTP 403: https://www.localsyr.com/news/your-stories/after-nearly-two-weeks-hot-water-retu
+2026-03-26 00:38:28,386 [INFO] [18/79] Blocked/empty: https://www.localsyr.com/news/your-stories/after-nearly-two-weeks-hot-water-retu
+2026-03-26 00:38:29,387 [INFO] [19/79] Fetching: https://cnycentral.com/news/local/syracuse-police-drone-program-green-lit-amid-privacy-concerns-offi
+2026-03-26 00:38:33,289 [INFO] [19/79] Accepted (--no-filter): Syracuse Police drone program green-lit amid privacy concerns
+2026-03-26 00:38:39,184 [INFO]   Saved: CTX-NEWS-2025-00363 → CTX-NEWS-2025-00363.json
+2026-03-26 00:38:40,185 [INFO] [20/79] Fetching: https://www.localsyr.com/news/local-news/mayor-walsh-proposes-a-property-tax-increase-for-syracuses-
+2026-03-26 00:38:40,646 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/mayor-walsh-proposes-a-property-tax-inc
+2026-03-26 00:38:40,646 [INFO] [20/79] Blocked/empty: https://www.localsyr.com/news/local-news/mayor-walsh-proposes-a-property-tax-inc
+2026-03-26 00:38:43,647 [INFO] [21/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-anti-violence-workers-at-center-of-drug-case/
+2026-03-26 00:38:43,773 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-anti-violence-workers-at-cente
+2026-03-26 00:38:43,773 [INFO] [21/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-anti-violence-workers-at-cente
+2026-03-26 00:38:46,774 [INFO] [22/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-awarded-15-million-in-reforestation-grants/
+2026-03-26 00:38:46,903 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-awarded-15-million-in-reforest
+2026-03-26 00:38:46,903 [INFO] [22/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-awarded-15-million-in-reforest
+2026-03-26 00:38:49,903 [INFO] [23/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-taking-owners-of-nob-hill-apartments-to-state-supr
+2026-03-26 00:38:50,058 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-taking-owners-of-nob-hill-apar
+2026-03-26 00:38:50,058 [INFO] [23/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-taking-owners-of-nob-hill-apar
+2026-03-26 00:38:51,058 [INFO] [24/79] Fetching: https://cnycentral.com/news/local/lafayette-country-club-turning-into-a-lifestyle-community-golf-dog
+2026-03-26 00:38:56,159 [INFO] [24/79] Accepted (--no-filter): Lafayette Country Club turning into a lifestyle community
+2026-03-26 00:39:01,238 [INFO]   Saved: CTX-NEWS-2025-00364 → CTX-NEWS-2025-00364.json
+2026-03-26 00:39:02,239 [INFO] [25/79] Fetching: https://www.localsyr.com/news/local-news/mayor-walsh-announces-hiring-events-to-fill-openings-in-cit
+2026-03-26 00:39:02,744 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/mayor-walsh-announces-hiring-events-to-
+2026-03-26 00:39:02,744 [INFO] [25/79] Blocked/empty: https://www.localsyr.com/news/local-news/mayor-walsh-announces-hiring-events-to-
+2026-03-26 00:39:05,744 [INFO] [26/79] Fetching: https://www.localsyr.com/news/local-news/syracuses-common-council-cutting-expenses-for-dozens-of-dep
+2026-03-26 00:39:05,895 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuses-common-council-cutting-expens
+2026-03-26 00:39:05,895 [INFO] [26/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuses-common-council-cutting-expens
+2026-03-26 00:39:08,896 [INFO] [27/79] Fetching: https://www.localsyr.com/news/local-news/through-formal-vetoes-syracuse-mayor-asks-common-council-to
+2026-03-26 00:39:09,028 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/through-formal-vetoes-syracuse-mayor-as
+2026-03-26 00:39:09,029 [INFO] [27/79] Blocked/empty: https://www.localsyr.com/news/local-news/through-formal-vetoes-syracuse-mayor-as
+2026-03-26 00:39:12,029 [INFO] [28/79] Fetching: https://www.localsyr.com/news/local-news/leader-says-common-council-will-probably-override-syracuse-
+2026-03-26 00:39:12,150 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/leader-says-common-council-will-probabl
+2026-03-26 00:39:12,150 [INFO] [28/79] Blocked/empty: https://www.localsyr.com/news/local-news/leader-says-common-council-will-probabl
+2026-03-26 00:39:15,151 [INFO] [29/79] Fetching: https://www.localsyr.com/news/local-news/warning-period-concludes-for-syracuse-bus-stop-arm-camera-e
+2026-03-26 00:39:15,275 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/warning-period-concludes-for-syracuse-b
+2026-03-26 00:39:15,275 [INFO] [29/79] Blocked/empty: https://www.localsyr.com/news/local-news/warning-period-concludes-for-syracuse-b
+2026-03-26 00:39:18,276 [INFO] [30/79] Fetching: https://www.localsyr.com/news/local-news/bravest-vs-finest-basketball-game-returns-while-both-depart
+2026-03-26 00:39:18,420 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/bravest-vs-finest-basketball-game-retur
+2026-03-26 00:39:18,420 [INFO] [30/79] Blocked/empty: https://www.localsyr.com/news/local-news/bravest-vs-finest-basketball-game-retur
+2026-03-26 00:39:21,421 [INFO] [31/79] Fetching: https://www.localsyr.com/news/local-news/from-policing-landlords-to-issuing-permits-common-councils-
+2026-03-26 00:39:21,555 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/from-policing-landlords-to-issuing-perm
+2026-03-26 00:39:21,555 [INFO] [31/79] Blocked/empty: https://www.localsyr.com/news/local-news/from-policing-landlords-to-issuing-perm
+2026-03-26 00:39:24,556 [INFO] [32/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-fire-department-urging-mayor-to-reject-proposed-cu
+2026-03-26 00:39:24,677 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-fire-department-urging-mayor-t
+2026-03-26 00:39:24,678 [INFO] [32/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-fire-department-urging-mayor-t
+2026-03-26 00:39:25,678 [INFO] [33/79] Fetching: https://cnycentral.com/news/local/village-of-north-syracuse-give-little-notice-for-taking-away-trash
+2026-03-26 00:39:28,394 [INFO] [33/79] Accepted (--no-filter): Village of North Syracuse give little notice for taking away trash cans
+2026-03-26 00:39:35,244 [WARNING]   Tag issue: Unknown tag 'communication' not in taxonomy
+2026-03-26 00:39:35,268 [INFO]   Saved: CTX-NEWS-2025-00365 → CTX-NEWS-2025-00365.json
+2026-03-26 00:39:36,269 [INFO] [34/79] Fetching: https://www.localsyr.com/news/local-news/where-does-the-columbus-statue-in-syracuse-stand
+2026-03-26 00:39:36,637 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/where-does-the-columbus-statue-in-syrac
+2026-03-26 00:39:36,637 [INFO] [34/79] Blocked/empty: https://www.localsyr.com/news/local-news/where-does-the-columbus-statue-in-syrac
+2026-03-26 00:39:39,638 [INFO] [35/79] Fetching: https://www.localsyr.com/news/local-news/syracuses-jail-could-become-new-housing/
+2026-03-26 00:39:39,770 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuses-jail-could-become-new-housing
+2026-03-26 00:39:39,770 [INFO] [35/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuses-jail-could-become-new-housing
+2026-03-26 00:39:42,770 [INFO] [36/79] Fetching: https://www.localsyr.com/news/local-news/newschannel-9-goes-inside-the-demolition-zone-as-century-ol
+2026-03-26 00:39:42,897 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/newschannel-9-goes-inside-the-demolitio
+2026-03-26 00:39:42,897 [INFO] [36/79] Blocked/empty: https://www.localsyr.com/news/local-news/newschannel-9-goes-inside-the-demolitio
+2026-03-26 00:39:45,898 [INFO] [37/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-to-close-illegal-marijuana-shop-after-court-order/
+2026-03-26 00:39:46,021 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-to-close-illegal-marijuana-sho
+2026-03-26 00:39:46,021 [INFO] [37/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-to-close-illegal-marijuana-sho
+2026-03-26 00:39:49,022 [INFO] [38/79] Fetching: https://www.localsyr.com/news/local-news/steam-high-school-to-open-this-september-syracuse-city-scho
+2026-03-26 00:39:49,145 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/steam-high-school-to-open-this-septembe
+2026-03-26 00:39:49,145 [INFO] [38/79] Blocked/empty: https://www.localsyr.com/news/local-news/steam-high-school-to-open-this-septembe
+2026-03-26 00:39:52,146 [INFO] [39/79] Fetching: https://www.localsyr.com/news/local-news/facing-gangs-and-guns-officers-union-calls-weekend-in-armor
+2026-03-26 00:39:52,289 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/facing-gangs-and-guns-officers-union-ca
+2026-03-26 00:39:52,290 [INFO] [39/79] Blocked/empty: https://www.localsyr.com/news/local-news/facing-gangs-and-guns-officers-union-ca
+2026-03-26 00:39:53,290 [INFO] [40/79] Fetching: https://cnycentral.com/news/local/community-activist-talks-about-rash-of-violent-crime-young-suspect
+2026-03-26 00:39:56,569 [INFO] [40/79] Accepted (--no-filter): Community activist talks about rash of violent crime, young suspects in Syracuse
+2026-03-26 00:40:04,018 [WARNING]   Tag issue: Unknown tag 'youth-violence' not in taxonomy
+2026-03-26 00:40:04,019 [WARNING]   Tag issue: Unknown tag 'community-deterrent' not in taxonomy
+2026-03-26 00:40:04,045 [INFO]   Saved: CTX-NEWS-2025-00366 → CTX-NEWS-2025-00366.json
+2026-03-26 00:40:05,046 [INFO] [41/79] Fetching: https://www.localsyr.com/news/local-news/low-income-internet-provider-expands-coverage-to-more-than-
+2026-03-26 00:40:05,725 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/low-income-internet-provider-expands-co
+2026-03-26 00:40:05,725 [INFO] [41/79] Blocked/empty: https://www.localsyr.com/news/local-news/low-income-internet-provider-expands-co
+2026-03-26 00:40:06,725 [INFO] [42/79] Fetching: https://cnycentral.com/news/local/blueprint-15-executive-director-resigns-as-children-rising-center-
+2026-03-26 00:40:09,641 [INFO] [42/79] Accepted (--no-filter): Blueprint 15 Executive Director resigns as Children Rising Center project remain
+2026-03-26 00:40:14,633 [INFO]   Saved: CTX-NEWS-2025-00367 → CTX-NEWS-2025-00367.json
+2026-03-26 00:40:17,634 [INFO] [43/79] Fetching: https://cnycentral.com/news/local/onondaga-county-syracuse-invest-in-unprecedented-efforts-to-tackle
+2026-03-26 00:40:20,425 [INFO] [43/79] Accepted (--no-filter): Onondaga County, Syracuse invest in unprecedented efforts to tackle lead contami
+2026-03-26 00:40:26,096 [INFO]   Saved: CTX-NEWS-2025-00368 → CTX-NEWS-2025-00368.json
+2026-03-26 00:40:27,096 [INFO] [44/79] Fetching: https://www.localsyr.com/news/local-news/firefighters-manage-brush-fire-by-nbt-bank-stadium/
+2026-03-26 00:40:27,524 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/firefighters-manage-brush-fire-by-nbt-b
+2026-03-26 00:40:27,525 [INFO] [44/79] Blocked/empty: https://www.localsyr.com/news/local-news/firefighters-manage-brush-fire-by-nbt-b
+2026-03-26 00:40:28,525 [INFO] [45/79] Fetching: https://cnycentral.com/news/local/new-baseball-themed-splashpad-opens-at-cummings-field
+2026-03-26 00:40:31,151 [INFO] [45/79] Accepted (--no-filter): New baseball-themed splashpad opens at Cummings Field
+2026-03-26 00:40:36,923 [INFO]   Saved: CTX-NEWS-2025-00369 → CTX-NEWS-2025-00369.json
+2026-03-26 00:40:37,923 [INFO] [46/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-dropped-its-carbon-emissions-over-decade-by-wide-m
+2026-03-26 00:40:38,500 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-dropped-its-carbon-emissions-o
+2026-03-26 00:40:38,501 [INFO] [46/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-dropped-its-carbon-emissions-o
+2026-03-26 00:40:39,501 [INFO] [47/79] Fetching: https://cnycentral.com/news/local/light-comedy-and-a-catch-phrase-to-help-stop-parkway-bridge-strike
+2026-03-26 00:40:44,571 [INFO] [47/79] Accepted (--no-filter): Light comedy and a catch phrase to help stop Parkway bridge strikes?
+2026-03-26 00:40:51,234 [INFO]   Saved: CTX-NEWS-2025-00370 → CTX-NEWS-2025-00370.json
+2026-03-26 00:40:54,235 [INFO] [48/79] Fetching: https://cnycentral.com/news/local/d-07-23-2025
+2026-03-26 00:40:57,330 [INFO] [48/79] Accepted (--no-filter): Recurring harmful algal blooms -- is a long term fix on the horizon?
+2026-03-26 00:41:03,975 [INFO]   Saved: CTX-NEWS-2025-00371 → CTX-NEWS-2025-00371.json
+2026-03-26 00:41:06,976 [INFO] [49/79] Fetching: https://cnycentral.com/news/local/talks-collapse-over-early-childhood-center-at-former-st-anns-churc
+2026-03-26 00:41:10,132 [INFO] [49/79] Accepted (--no-filter): Talks collapse over early childhood center at former St. Ann's Church
+2026-03-26 00:41:15,380 [INFO]   Saved: CTX-NEWS-2025-00372 → CTX-NEWS-2025-00372.json
+2026-03-26 00:41:18,381 [INFO] [50/79] Fetching: https://cnycentral.com/news/local/sisters-reflect-on-the-demolition-of-the-motherhouse
+2026-03-26 00:41:21,305 [INFO] [50/79] Accepted (--no-filter): Sisters reflect on the demolition of the Maria Regina Motherhouse
+2026-03-26 00:41:26,718 [INFO]   Saved: CTX-NEWS-2025-00373 → CTX-NEWS-2025-00373.json
+2026-03-26 00:41:29,735 [INFO] [51/79] Fetching: https://cnycentral.com/news/local/historic-convent-complex-chapels-fate-uncertain-as-convent-deconst
+2026-03-26 00:41:32,779 [INFO] [51/79] Accepted (--no-filter): Historic Convent Complex chapel's fate uncertain as convent deconstruction is co
+2026-03-26 00:41:37,938 [INFO]   Saved: CTX-NEWS-2025-00374 → CTX-NEWS-2025-00374.json
+2026-03-26 00:41:38,939 [INFO] [52/79] Fetching: https://www.localsyr.com/news/local-news/syracuses-city-auditor-wants-to-prevent-vacant-structure-fi
+2026-03-26 00:41:46,511 [INFO] [52/79] Accepted (--no-filter): Syracuse report urges steps to curb vacant building fires
+2026-03-26 00:41:51,877 [INFO]   Dedup match: CTX-NEWS-2025-00107
+2026-03-26 00:41:51,882 [INFO]   Saved: CTX-NEWS-2025-00375 → CTX-NEWS-2025-00375.json
+2026-03-26 00:41:52,884 [INFO] [53/79] Fetching: https://www.wrvo.org/2025-07-28/syracuse-schools-brace-for-cuts-from-recently-passed-spending-bill
+2026-03-26 00:41:56,065 [INFO] [53/79] Accepted (--no-filter): Syracuse schools brace for cuts from recently passed spending bill
+2026-03-26 00:42:01,433 [INFO]   Saved: CTX-NEWS-2025-00376 → CTX-NEWS-2025-00376.json
+2026-03-26 00:42:02,434 [INFO] [54/79] Fetching: https://www.localsyr.com/news/local-news/crime-in-syracuse-drops-significantly-compared-to-last-year
+2026-03-26 00:42:02,565 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/crime-in-syracuse-drops-significantly-c
+2026-03-26 00:42:02,565 [INFO] [54/79] Blocked/empty: https://www.localsyr.com/news/local-news/crime-in-syracuse-drops-significantly-c
+2026-03-26 00:42:03,566 [INFO] [55/79] Fetching: https://cnycentral.com/news/local/mary-nelson-youth-center-hosts-annual-back-to-school-giveaway
+2026-03-26 00:42:06,398 [INFO] [55/79] Accepted (--no-filter): Mary Nelson Youth Center hosts annual back-to-school giveaway
+2026-03-26 00:42:12,557 [WARNING]   Tag issue: Unknown tag 'community-community' not in taxonomy
+2026-03-26 00:42:12,580 [INFO]   Saved: CTX-NEWS-2025-00377 → CTX-NEWS-2025-00377.json
+2026-03-26 00:42:13,580 [INFO] [56/79] Fetching: https://www.localsyr.com/news/local-news/the-public-shares-concerns-over-drones-in-the-syracuse-poli
+2026-03-26 00:42:14,085 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/the-public-shares-concerns-over-drones-
+2026-03-26 00:42:14,085 [INFO] [56/79] Blocked/empty: https://www.localsyr.com/news/local-news/the-public-shares-concerns-over-drones-
+2026-03-26 00:42:15,086 [INFO] [57/79] Fetching: https://www.waer.org/news/2025-09-13/long-planned-development-project-on-syracuses-south-side-gains-
+2026-03-26 00:42:17,881 [INFO] [57/79] Accepted (--no-filter): Long-planned development project on Syracuse’s south side gains momentum
+2026-03-26 00:42:23,170 [INFO]   Dedup match: CTX-NEWS-2025-00121
+2026-03-26 00:42:23,174 [INFO]   Saved: CTX-NEWS-2025-00378 → CTX-NEWS-2025-00378.json
+2026-03-26 00:42:24,175 [INFO] [58/79] Fetching: https://www.localsyr.com/news/local-news/fulton-polices-drone-program-proves-to-be-successful-spd-lo
+2026-03-26 00:42:24,297 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/fulton-polices-drone-program-proves-to-
+2026-03-26 00:42:24,297 [INFO] [58/79] Blocked/empty: https://www.localsyr.com/news/local-news/fulton-polices-drone-program-proves-to-
+2026-03-26 00:42:25,297 [INFO] [59/79] Fetching: https://www.waer.org/news/2025-09-02/onondaga-county-expands-hotel-room-tax-to-include-short-term-re
+2026-03-26 00:42:27,904 [INFO] [59/79] Accepted (--no-filter): Onondaga County expands hotel room tax to include short-term rentals
+2026-03-26 00:42:32,658 [INFO]   Saved: CTX-NEWS-2025-00379 → CTX-NEWS-2025-00379.json
+2026-03-26 00:42:33,659 [INFO] [60/79] Fetching: https://cnycentral.com/news/local/parents-feel-extra-safe-with-the-new-school-zone-spedometers
+2026-03-26 00:42:36,203 [INFO] [60/79] Accepted (--no-filter): Parents feel extra safe with the new school zone spedometers
+2026-03-26 00:42:41,283 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-26 00:42:41,307 [INFO]   Saved: CTX-NEWS-2025-00380 → CTX-NEWS-2025-00380.json
+2026-03-26 00:42:42,307 [INFO] [61/79] Fetching: https://www.wrvo.org/2025-09-30/syracuse-officials-expect-deer-management-pilot-program-to-continue
+2026-03-26 00:42:45,424 [INFO] [61/79] Accepted (--no-filter): Syracuse officials expect deer management pilot program to continue
+2026-03-26 00:42:50,788 [WARNING]   Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-03-26 00:42:50,812 [INFO]   Saved: CTX-NEWS-2025-00381 → CTX-NEWS-2025-00381.json
+2026-03-26 00:42:51,813 [INFO] [62/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-reports-progress-in-tick-and-deer-management-progr
+2026-03-26 00:42:51,989 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-reports-progress-in-tick-and-d
+2026-03-26 00:42:51,989 [INFO] [62/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-reports-progress-in-tick-and-d
+2026-03-26 00:42:54,990 [INFO] [63/79] Fetching: https://www.localsyr.com/news/local-news/police-asking-public-to-avoid-area-in-city-of-syracuse/
+2026-03-26 00:42:55,118 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/police-asking-public-to-avoid-area-in-c
+2026-03-26 00:42:55,118 [INFO] [63/79] Blocked/empty: https://www.localsyr.com/news/local-news/police-asking-public-to-avoid-area-in-c
+2026-03-26 00:42:58,119 [INFO] [64/79] Fetching: https://www.localsyr.com/video/syracuse-fire-dept-races-to-find-safe-space-after-garage-floor-deemed
+2026-03-26 00:42:58,253 [DEBUG]   HTTP 403: https://www.localsyr.com/video/syracuse-fire-dept-races-to-find-safe-space-after
+2026-03-26 00:42:58,253 [INFO] [64/79] Blocked/empty: https://www.localsyr.com/video/syracuse-fire-dept-races-to-find-safe-space-after
+2026-03-26 00:43:01,254 [INFO] [65/79] Fetching: https://www.localsyr.com/news/local-news/mayor-walsh-denounces-speeding-epidemic-after-cameras-catch
+2026-03-26 00:43:01,387 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/mayor-walsh-denounces-speeding-epidemic
+2026-03-26 00:43:01,387 [INFO] [65/79] Blocked/empty: https://www.localsyr.com/news/local-news/mayor-walsh-denounces-speeding-epidemic
+2026-03-26 00:43:02,387 [INFO] [66/79] Fetching: https://cnycentral.com/news/local/syracuse-city-school-district-looks-to-pay-outgoing-superintendent
+2026-03-26 00:43:05,169 [INFO] [66/79] Accepted (--no-filter): Syracuse City School District looks to pay outgoing Superintendent $125,000 for 
+2026-03-26 00:43:11,590 [INFO]   Saved: CTX-NEWS-2025-00382 → CTX-NEWS-2025-00382.json
+2026-03-26 00:43:12,591 [INFO] [67/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-rescue-mission-expansion/
+2026-03-26 00:43:13,040 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-rescue-mission-expansion/
+2026-03-26 00:43:13,041 [INFO] [67/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-rescue-mission-expansion/
+2026-03-26 00:43:14,041 [INFO] [68/79] Fetching: https://cnycentral.com/news/local/syracuse-city-schools-spend-50-more-per-student-yet-rank-near-bott
+2026-03-26 00:43:18,148 [INFO] [68/79] Accepted (--no-filter): Syracuse City Schools spend 50% more per student yet rank near bottom in state t
+2026-03-26 00:43:24,559 [WARNING]   Tag issue: Unknown tag 'education' not in taxonomy
+2026-03-26 00:43:24,584 [INFO]   Dedup match: CTX-NEWS-2025-00382
+2026-03-26 00:43:24,598 [INFO]   Saved: CTX-NEWS-2025-00383 → CTX-NEWS-2025-00383.json
+2026-03-26 00:43:27,598 [INFO] [69/79] Fetching: https://cnycentral.com/news/local/calvin-corriders-syracuse-housing-authority-children-rising-center
+2026-03-26 00:43:32,628 [INFO] [69/79] Accepted (--no-filter): Calvin Corriders Sr. has left his position as chair of the Syracuse Housing Auth
+2026-03-26 00:43:36,298 [INFO]   Saved: CTX-NEWS-2025-00384 → CTX-NEWS-2025-00384.json
+2026-03-26 00:43:37,299 [INFO] [70/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-valley-plaza-to-welcome-new-grocery-store-resident
+2026-03-26 00:43:37,697 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-valley-plaza-to-welcome-new-gr
+2026-03-26 00:43:37,698 [INFO] [70/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-valley-plaza-to-welcome-new-gr
+2026-03-26 00:43:40,699 [INFO] [71/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-school-zone-traffic-data-shows-significant-drop-in
+2026-03-26 00:43:40,861 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-school-zone-traffic-data-shows
+2026-03-26 00:43:40,861 [INFO] [71/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-school-zone-traffic-data-shows
+2026-03-26 00:43:43,862 [INFO] [72/79] Fetching: https://www.localsyr.com/news/local-news/scam-alert-fake-zoning-invoices-in-cny/
+2026-03-26 00:43:44,021 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/scam-alert-fake-zoning-invoices-in-cny/
+2026-03-26 00:43:44,021 [INFO] [72/79] Blocked/empty: https://www.localsyr.com/news/local-news/scam-alert-fake-zoning-invoices-in-cny/
+2026-03-26 00:43:47,022 [INFO] [73/79] Fetching: https://www.localsyr.com/news/local-news/fayette-street-parking-garage-closes-due-to-safety-concerns
+2026-03-26 00:43:47,161 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/fayette-street-parking-garage-closes-du
+2026-03-26 00:43:47,161 [INFO] [73/79] Blocked/empty: https://www.localsyr.com/news/local-news/fayette-street-parking-garage-closes-du
+2026-03-26 00:43:50,162 [INFO] [74/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-auto-business-in-trouble-with-city-lawmakers-after
+2026-03-26 00:43:50,281 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-auto-business-in-trouble-with-
+2026-03-26 00:43:50,281 [INFO] [74/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-auto-business-in-trouble-with-
+2026-03-26 00:43:51,282 [INFO] [75/79] Fetching: https://cnycentral.com/news/local/ice-comments-syracuse-business-owners-self-deportation-amid-visa-c
+2026-03-26 00:43:53,762 [INFO] [75/79] Accepted (--no-filter): ICE comments on Syracuse business owner’s self-deportation amid visa controversy
+2026-03-26 00:44:00,591 [INFO]   Saved: CTX-NEWS-2025-00385 → CTX-NEWS-2025-00385.json
+2026-03-26 00:44:01,591 [INFO] [76/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-mayors-final-community-briefing-highlights-public-
+2026-03-26 00:44:02,015 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-mayors-final-community-briefin
+2026-03-26 00:44:02,015 [INFO] [76/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-mayors-final-community-briefin
+2026-03-26 00:44:05,016 [INFO] [77/79] Fetching: https://www.localsyr.com/interviews/interview-common-councilor-jimmy-monto-on-what-to-expect-for-202
+2026-03-26 00:44:05,160 [DEBUG]   HTTP 403: https://www.localsyr.com/interviews/interview-common-councilor-jimmy-monto-on-wh
+2026-03-26 00:44:05,161 [INFO] [77/79] Blocked/empty: https://www.localsyr.com/interviews/interview-common-councilor-jimmy-monto-on-wh
+2026-03-26 00:44:06,161 [INFO] [78/79] Fetching: https://www.waer.org/news/2025-12-17/ocwa-still-seeking-water-service-line-information-from-48-000-c
+2026-03-26 00:44:09,139 [INFO] [78/79] Accepted (--no-filter): OCWA still seeking water service line information from 48,000 customers
+2026-03-26 00:44:15,180 [ERROR]   Schema error: Schema validation: 'state_mandates' is not one of ['championship', 'opposition', 'scrutiny', 'constituent_pressure', 'priority_alignment', 'budget_commitment']
+2026-03-26 00:44:15,194 [ERROR]   Cannot fix schema errors — skipping
+2026-03-26 00:44:16,195 [INFO] [79/79] Fetching: https://www.localsyr.com/news/local-news/syracuse-begins-winter-deer-management-program-across-the-c
+2026-03-26 00:44:16,331 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-begins-winter-deer-management-
+2026-03-26 00:44:16,331 [INFO] [79/79] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-begins-winter-deer-management-
+2026-03-26 00:44:17,042 [INFO] Link Importer Run — 2026-03-26 00:44
+==================================================
+URLs in CSV: 452
+Skipped (domain): 4
+Already processed: 178
+Attempted this run: 79
+Blocked/empty: 40
+Recovered via Wayback Machine: 0
+Filtered (not relevant): 0
+Saved as records: 38
+Errors: 1
+
+New records:
+  • Former Sears Building to be site of state's first workforce innovation (2025-03-28)
+  • Residents worried about property tax increase due to $1.8 million plan (2025-03-27)
+  • Syracuse maintains neglected St. Anthony's Convent for absent property (2025-03-26)
+  • Impending demolition of former northside convent elicits memories of i (2025-04-01)
+  • Landowner's absence fuels frustration at town meeting after convent co (2025-04-02)
+  • Your Stories Q&A: Dispute over repairing potholes leads to DeWitt, Sal (2025-04-01)
+  • Tensions boil over handling of Maria Regina property between Syracuse  (2025-04-01)
+  • Syracuse asks court to replace current redeveloper of Skyline Apartmen (2025-04-02)
+  • Syracuse seeks court order to remove Skyline Apartments owner (2025-04-03)
+  • Syracuse landlord argues property on Euclid Ave. should not be conside (2025-04-04)
+  • Clear Investment says it's still committed to redeveloping dilapidated (2025-04-03)
+  • Syracuse councilors Hogan & Majok oppose proposed tax hike amid reserv (2025-04-10)
+  • Consultants, waivers, lack of bids relied on during incomplete overhau (2025-04-11)
+  • Syracuse leaders propose updates to municipal tree ordinance (2025-04-11)
+  • Police Chief: Officers will face discipline in viral South Avenue arre (2025-04-10)
+  • Syracuse Police drone program green-lit amid privacy concerns (2025-04-10)
+  • Lafayette Country Club turning into a lifestyle community (2025-04-29)
+  • Village of North Syracuse give little notice for taking away trash can (2025-05-30)
+  • Community activist talks about rash of violent crime, young suspects i (2025-07-08)
+  • Blueprint 15 Executive Director resigns as Children Rising Center proj (2025-07-17)
+  • Onondaga County, Syracuse invest in unprecedented efforts to tackle le (2025-07-17)
+  • New baseball-themed splashpad opens at Cummings Field (2025-07-24)
+  • Light comedy and a catch phrase to help stop Parkway bridge strikes? (2025-07-23)
+  • Recurring harmful algal blooms -- is a long term fix on the horizon? (2025-07-23)
+  • Talks collapse over early childhood center at former St. Ann's Church (2025-07-22)
+  • Sisters reflect on the demolition of the Maria Regina Motherhouse (2025-07-30)
+  • Historic Convent Complex chapel's fate uncertain as convent deconstruc (2025-08-06)
+  • Syracuse report urges steps to curb vacant building fires (2025-07-31)
+  • Syracuse schools brace for cuts from recently passed spending bill (2025-07-28)
+  • Mary Nelson Youth Center hosts annual back-to-school giveaway (2025-08-16)
+  • Long-planned development project on Syracuse’s south side gains moment (2025-09-13)
+  • Onondaga County expands hotel room tax to include short-term rentals (2025-09-02)
+  • Parents feel extra safe with the new school zone spedometers (2025-09-02)
+  • Syracuse officials expect deer management pilot program to continue (2025-09-30)
+  • Syracuse City School District looks to pay outgoing Superintendent $12 (2025-10-07)
+  • Syracuse City Schools spend 50% more per student yet rank near bottom  (2025-10-07)
+  • Calvin Corriders Sr. has left his position as chair of the Syracuse Ho (2025-10-16)
+  • ICE comments on Syracuse business owner’s self-deportation amid visa c (2025-11-19)
+
+2026-03-26 00:51:37,243 [INFO] ============================================================
+2026-03-26 00:51:37,243 [INFO] Link Importer starting
+2026-03-26 00:51:37,247 [INFO] Loaded 452 unique URLs from CSV
+2026-03-26 00:51:37,248 [INFO] Skipped 4 URLs from irrelevant domains
+2026-03-26 00:51:37,250 [INFO] Skipped 191 Syracuse.com URLs (--skip-blocked)
+2026-03-26 00:51:37,251 [INFO] New URLs to process: 41 (of 257 total)
+2026-03-26 00:51:39,294 [INFO] Using persistent browser profile (logged in, visible)
+2026-03-26 00:51:40,294 [INFO] [1/41] Fetching: https://www.localsyr.com/news/local-news/syracuses-north-side-residents-air-their-frustrations-the-f
+2026-03-26 00:51:48,921 [INFO] [1/41] Accepted (--no-filter): Syracuse’s north side residents air their frustrations the fire-damaged building
+2026-03-26 00:51:54,487 [INFO]   Dedup match: CTX-NEWS-2025-00351
+2026-03-26 00:51:54,492 [INFO]   Saved: CTX-NEWS-2025-00386 → CTX-NEWS-2025-00386.json
+2026-03-26 00:51:57,492 [INFO] [2/41] Fetching: https://www.localsyr.com/news/local-news/policy-and-procedure-violations-found-in-arrest-that-went-v
+2026-03-26 00:51:57,959 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/policy-and-procedure-violations-found-i
+2026-03-26 00:52:03,271 [INFO] [2/41] Blocked/empty: https://www.localsyr.com/news/local-news/policy-and-procedure-violations-found-i
+2026-03-26 00:52:06,272 [INFO] [3/41] Fetching: https://www.localsyr.com/news/your-stories/after-nearly-two-weeks-hot-water-returns-to-nob-hill-apar
+2026-03-26 00:52:06,400 [DEBUG]   HTTP 403: https://www.localsyr.com/news/your-stories/after-nearly-two-weeks-hot-water-retu
+2026-03-26 00:52:11,520 [INFO] [3/41] Blocked/empty: https://www.localsyr.com/news/your-stories/after-nearly-two-weeks-hot-water-retu
+2026-03-26 00:52:14,520 [INFO] [4/41] Fetching: https://www.localsyr.com/news/local-news/mayor-walsh-proposes-a-property-tax-increase-for-syracuses-
+2026-03-26 00:52:14,641 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/mayor-walsh-proposes-a-property-tax-inc
+2026-03-26 00:52:19,737 [INFO] [4/41] Blocked/empty: https://www.localsyr.com/news/local-news/mayor-walsh-proposes-a-property-tax-inc
+2026-03-26 00:52:22,739 [INFO] [5/41] Fetching: https://www.localsyr.com/news/local-news/syracuse-anti-violence-workers-at-center-of-drug-case/
+2026-03-26 00:52:22,873 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-anti-violence-workers-at-cente
+2026-03-26 00:52:27,986 [INFO] [5/41] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-anti-violence-workers-at-cente
+2026-03-26 00:52:30,987 [INFO] [6/41] Fetching: https://www.localsyr.com/news/local-news/syracuse-awarded-15-million-in-reforestation-grants/
+2026-03-26 00:52:31,115 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-awarded-15-million-in-reforest
+2026-03-26 00:52:36,260 [INFO] [6/41] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-awarded-15-million-in-reforest
+2026-03-26 00:52:39,261 [INFO] [7/41] Fetching: https://www.localsyr.com/news/local-news/syracuse-taking-owners-of-nob-hill-apartments-to-state-supr
+2026-03-26 00:52:39,394 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-taking-owners-of-nob-hill-apar
+2026-03-26 00:52:44,607 [INFO] [7/41] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-taking-owners-of-nob-hill-apar
+2026-03-26 00:52:47,608 [INFO] [8/41] Fetching: https://www.localsyr.com/news/local-news/mayor-walsh-announces-hiring-events-to-fill-openings-in-cit
+2026-03-26 00:52:47,735 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/mayor-walsh-announces-hiring-events-to-
+2026-03-26 00:52:50,982 [DEBUG]   Wayback hit: http://web.archive.org/web/20250428034209/https://www.localsyr.com/news/local-ne
+2026-03-26 00:52:50,983 [INFO] [8/41] Trying Wayback Machine...
+2026-03-26 00:53:08,231 [INFO] [8/41] Accepted (--no-filter): Mayor Walsh announces hiring events
+2026-03-26 00:53:12,619 [INFO]   Saved: CTX-NEWS-2025-00387 → CTX-NEWS-2025-00387.json
+2026-03-26 00:53:15,620 [INFO] [9/41] Fetching: https://www.localsyr.com/news/local-news/syracuses-common-council-cutting-expenses-for-dozens-of-dep
+2026-03-26 00:53:15,758 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuses-common-council-cutting-expens
+2026-03-26 00:53:20,866 [INFO] [9/41] Blocked/empty: https://www.localsyr.com/news/local-news/syracuses-common-council-cutting-expens
+2026-03-26 00:53:23,867 [INFO] [10/41] Fetching: https://www.localsyr.com/news/local-news/through-formal-vetoes-syracuse-mayor-asks-common-council-to
+2026-03-26 00:53:23,996 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/through-formal-vetoes-syracuse-mayor-as
+2026-03-26 00:53:29,122 [INFO] [10/41] Blocked/empty: https://www.localsyr.com/news/local-news/through-formal-vetoes-syracuse-mayor-as
+2026-03-26 00:53:32,123 [INFO] [11/41] Fetching: https://www.localsyr.com/news/local-news/leader-says-common-council-will-probably-override-syracuse-
+2026-03-26 00:53:32,261 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/leader-says-common-council-will-probabl
+2026-03-26 00:53:32,699 [DEBUG]   Wayback hit: http://web.archive.org/web/20250720183403/https://www.localsyr.com/news/local-ne
+2026-03-26 00:53:32,699 [INFO] [11/41] Trying Wayback Machine...
+2026-03-26 00:53:36,027 [INFO] [11/41] Accepted (--no-filter): Leader says Common Council will ‘probably’ override Syracuse mayor’s requests to
+2026-03-26 00:53:40,123 [INFO]   Saved: CTX-NEWS-2025-00388 → CTX-NEWS-2025-00388.json
+2026-03-26 00:53:43,124 [INFO] [12/41] Fetching: https://www.localsyr.com/news/local-news/warning-period-concludes-for-syracuse-bus-stop-arm-camera-e
+2026-03-26 00:53:43,254 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/warning-period-concludes-for-syracuse-b
+2026-03-26 00:53:48,338 [INFO] [12/41] Blocked/empty: https://www.localsyr.com/news/local-news/warning-period-concludes-for-syracuse-b
+2026-03-26 00:53:51,339 [INFO] [13/41] Fetching: https://www.localsyr.com/news/local-news/bravest-vs-finest-basketball-game-returns-while-both-depart
+2026-03-26 00:53:51,480 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/bravest-vs-finest-basketball-game-retur
+2026-03-26 00:53:56,585 [INFO] [13/41] Blocked/empty: https://www.localsyr.com/news/local-news/bravest-vs-finest-basketball-game-retur
+2026-03-26 00:53:59,586 [INFO] [14/41] Fetching: https://www.localsyr.com/news/local-news/from-policing-landlords-to-issuing-permits-common-councils-
+2026-03-26 00:53:59,713 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/from-policing-landlords-to-issuing-perm
+2026-03-26 00:54:04,834 [INFO] [14/41] Blocked/empty: https://www.localsyr.com/news/local-news/from-policing-landlords-to-issuing-perm
+2026-03-26 00:54:07,834 [INFO] [15/41] Fetching: https://www.localsyr.com/news/local-news/syracuse-fire-department-urging-mayor-to-reject-proposed-cu
+2026-03-26 00:54:07,996 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-fire-department-urging-mayor-t
+2026-03-26 00:54:13,124 [INFO] [15/41] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-fire-department-urging-mayor-t
+2026-03-26 00:54:16,125 [INFO] [16/41] Fetching: https://www.localsyr.com/news/local-news/where-does-the-columbus-statue-in-syracuse-stand
+2026-03-26 00:54:16,285 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/where-does-the-columbus-statue-in-syrac
+2026-03-26 00:54:21,519 [INFO] [16/41] Blocked/empty: https://www.localsyr.com/news/local-news/where-does-the-columbus-statue-in-syrac
+2026-03-26 00:54:24,520 [INFO] [17/41] Fetching: https://www.localsyr.com/news/local-news/syracuses-jail-could-become-new-housing/
+2026-03-26 00:54:24,667 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuses-jail-could-become-new-housing
+2026-03-26 00:54:29,784 [INFO] [17/41] Blocked/empty: https://www.localsyr.com/news/local-news/syracuses-jail-could-become-new-housing
+2026-03-26 00:54:32,784 [INFO] [18/41] Fetching: https://www.localsyr.com/news/local-news/newschannel-9-goes-inside-the-demolition-zone-as-century-ol
+2026-03-26 00:54:32,946 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/newschannel-9-goes-inside-the-demolitio
+2026-03-26 00:54:38,050 [INFO] [18/41] Blocked/empty: https://www.localsyr.com/news/local-news/newschannel-9-goes-inside-the-demolitio
+2026-03-26 00:54:41,050 [INFO] [19/41] Fetching: https://www.localsyr.com/news/local-news/syracuse-to-close-illegal-marijuana-shop-after-court-order/
+2026-03-26 00:54:41,192 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-to-close-illegal-marijuana-sho
+2026-03-26 00:54:43,399 [DEBUG]   Wayback hit: http://web.archive.org/web/20250628041942/https://www.localsyr.com/news/local-ne
+2026-03-26 00:54:43,399 [INFO] [19/41] Trying Wayback Machine...
+2026-03-26 00:55:03,413 [DEBUG]   Wayback fetch failed: <urlopen error timed out>
+2026-03-26 00:55:03,413 [INFO] [19/41] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-to-close-illegal-marijuana-sho
+2026-03-26 00:55:06,414 [INFO] [20/41] Fetching: https://www.localsyr.com/news/local-news/steam-high-school-to-open-this-september-syracuse-city-scho
+2026-03-26 00:55:06,919 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/steam-high-school-to-open-this-septembe
+2026-03-26 00:55:11,575 [DEBUG]   Wayback hit: http://web.archive.org/web/20250702180742/https://www.localsyr.com/news/local-ne
+2026-03-26 00:55:11,576 [INFO] [20/41] Trying Wayback Machine...
+2026-03-26 00:55:18,736 [INFO] [20/41] Accepted (--no-filter): STEAM High School to open this September, Syracuse City School District says
+2026-03-26 00:55:23,004 [WARNING]   Tag issue: Unknown tag 'education' not in taxonomy
+2026-03-26 00:55:23,017 [INFO]   Saved: CTX-NEWS-2025-00389 → CTX-NEWS-2025-00389.json
+2026-03-26 00:55:26,017 [INFO] [21/41] Fetching: https://www.localsyr.com/news/local-news/facing-gangs-and-guns-officers-union-calls-weekend-in-armor
+2026-03-26 00:55:26,178 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/facing-gangs-and-guns-officers-union-ca
+2026-03-26 00:55:31,278 [INFO] [21/41] Blocked/empty: https://www.localsyr.com/news/local-news/facing-gangs-and-guns-officers-union-ca
+2026-03-26 00:55:34,278 [INFO] [22/41] Fetching: https://www.localsyr.com/news/local-news/low-income-internet-provider-expands-coverage-to-more-than-
+2026-03-26 00:55:34,422 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/low-income-internet-provider-expands-co
+2026-03-26 00:55:37,250 [DEBUG]   Wayback hit: http://web.archive.org/web/20250721025039/https://www.localsyr.com/news/local-ne
+2026-03-26 00:55:37,250 [INFO] [22/41] Trying Wayback Machine...
+2026-03-26 00:55:38,796 [INFO] [22/41] Accepted (--no-filter): Low-Income internet provider expands coverage to more than 14,000 Syracuse resid
+2026-03-26 00:55:43,529 [INFO]   Dedup match: CTX-NEWS-2025-00078
+2026-03-26 00:55:43,533 [INFO]   Saved: CTX-NEWS-2025-00390 → CTX-NEWS-2025-00390.json
+2026-03-26 00:55:46,533 [INFO] [23/41] Fetching: https://www.localsyr.com/news/local-news/firefighters-manage-brush-fire-by-nbt-bank-stadium/
+2026-03-26 00:55:46,679 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/firefighters-manage-brush-fire-by-nbt-b
+2026-03-26 00:55:51,630 [DEBUG]   Wayback hit: http://web.archive.org/web/20250725013749/https://www.localsyr.com/news/local-ne
+2026-03-26 00:55:51,631 [INFO] [23/41] Trying Wayback Machine...
+2026-03-26 00:55:54,049 [INFO] [23/41] Accepted (--no-filter): Firefighters manage brush fire by NBT Bank Stadium
+2026-03-26 00:55:57,356 [INFO]   Dedup match: CTX-NEWS-2025-00241
+2026-03-26 00:55:57,358 [INFO]   Saved: CTX-NEWS-2025-00391 → CTX-NEWS-2025-00391.json
+2026-03-26 00:56:00,358 [INFO] [24/41] Fetching: https://www.localsyr.com/news/local-news/syracuse-dropped-its-carbon-emissions-over-decade-by-wide-m
+2026-03-26 00:56:00,479 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-dropped-its-carbon-emissions-o
+2026-03-26 00:56:04,872 [DEBUG]   Wayback hit: http://web.archive.org/web/20250724174413/https://www.localsyr.com/news/local-ne
+2026-03-26 00:56:04,872 [INFO] [24/41] Trying Wayback Machine...
+2026-03-26 00:56:07,115 [INFO] [24/41] Accepted (--no-filter): Syracuse dropped its carbon emissions over decade by wide margin, exceeding goal
+2026-03-26 00:56:11,530 [INFO]   Saved: CTX-NEWS-2025-00392 → CTX-NEWS-2025-00392.json
+2026-03-26 00:56:14,530 [INFO] [25/41] Fetching: https://www.localsyr.com/news/local-news/crime-in-syracuse-drops-significantly-compared-to-last-year
+2026-03-26 00:56:14,697 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/crime-in-syracuse-drops-significantly-c
+2026-03-26 00:56:19,806 [INFO] [25/41] Blocked/empty: https://www.localsyr.com/news/local-news/crime-in-syracuse-drops-significantly-c
+2026-03-26 00:56:22,807 [INFO] [26/41] Fetching: https://www.localsyr.com/news/local-news/the-public-shares-concerns-over-drones-in-the-syracuse-poli
+2026-03-26 00:56:22,944 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/the-public-shares-concerns-over-drones-
+2026-03-26 00:56:28,033 [INFO] [26/41] Blocked/empty: https://www.localsyr.com/news/local-news/the-public-shares-concerns-over-drones-
+2026-03-26 00:56:31,034 [INFO] [27/41] Fetching: https://www.localsyr.com/news/local-news/fulton-polices-drone-program-proves-to-be-successful-spd-lo
+2026-03-26 00:56:31,156 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/fulton-polices-drone-program-proves-to-
+2026-03-26 00:56:36,254 [INFO] [27/41] Blocked/empty: https://www.localsyr.com/news/local-news/fulton-polices-drone-program-proves-to-
+2026-03-26 00:56:39,255 [INFO] [28/41] Fetching: https://www.localsyr.com/news/local-news/syracuse-reports-progress-in-tick-and-deer-management-progr
+2026-03-26 00:56:39,394 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-reports-progress-in-tick-and-d
+2026-03-26 00:56:44,512 [INFO] [28/41] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-reports-progress-in-tick-and-d
+2026-03-26 00:56:47,513 [INFO] [29/41] Fetching: https://www.localsyr.com/news/local-news/police-asking-public-to-avoid-area-in-city-of-syracuse/
+2026-03-26 00:56:47,651 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/police-asking-public-to-avoid-area-in-c
+2026-03-26 00:56:52,765 [INFO] [29/41] Blocked/empty: https://www.localsyr.com/news/local-news/police-asking-public-to-avoid-area-in-c
+2026-03-26 00:56:55,766 [INFO] [30/41] Fetching: https://www.localsyr.com/video/syracuse-fire-dept-races-to-find-safe-space-after-garage-floor-deemed
+2026-03-26 00:56:55,909 [DEBUG]   HTTP 403: https://www.localsyr.com/video/syracuse-fire-dept-races-to-find-safe-space-after
+2026-03-26 00:57:01,008 [INFO] [30/41] Blocked/empty: https://www.localsyr.com/video/syracuse-fire-dept-races-to-find-safe-space-after
+2026-03-26 00:57:04,008 [INFO] [31/41] Fetching: https://www.localsyr.com/news/local-news/mayor-walsh-denounces-speeding-epidemic-after-cameras-catch
+2026-03-26 00:57:04,124 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/mayor-walsh-denounces-speeding-epidemic
+2026-03-26 00:57:09,241 [INFO] [31/41] Blocked/empty: https://www.localsyr.com/news/local-news/mayor-walsh-denounces-speeding-epidemic
+2026-03-26 00:57:12,241 [INFO] [32/41] Fetching: https://www.localsyr.com/news/local-news/syracuse-rescue-mission-expansion/
+2026-03-26 00:57:12,414 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-rescue-mission-expansion/
+2026-03-26 00:57:17,531 [INFO] [32/41] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-rescue-mission-expansion/
+2026-03-26 00:57:20,531 [INFO] [33/41] Fetching: https://www.localsyr.com/news/local-news/syracuse-valley-plaza-to-welcome-new-grocery-store-resident
+2026-03-26 00:57:20,670 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-valley-plaza-to-welcome-new-gr
+2026-03-26 00:57:25,768 [INFO] [33/41] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-valley-plaza-to-welcome-new-gr
+2026-03-26 00:57:28,769 [INFO] [34/41] Fetching: https://www.localsyr.com/news/local-news/syracuse-school-zone-traffic-data-shows-significant-drop-in
+2026-03-26 00:57:28,924 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-school-zone-traffic-data-shows
+2026-03-26 00:57:34,051 [INFO] [34/41] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-school-zone-traffic-data-shows
+2026-03-26 00:57:37,051 [INFO] [35/41] Fetching: https://www.localsyr.com/news/local-news/scam-alert-fake-zoning-invoices-in-cny/
+2026-03-26 00:57:37,190 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/scam-alert-fake-zoning-invoices-in-cny/
+2026-03-26 00:57:42,312 [INFO] [35/41] Blocked/empty: https://www.localsyr.com/news/local-news/scam-alert-fake-zoning-invoices-in-cny/
+2026-03-26 00:57:45,312 [INFO] [36/41] Fetching: https://www.localsyr.com/news/local-news/fayette-street-parking-garage-closes-due-to-safety-concerns
+2026-03-26 00:57:45,446 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/fayette-street-parking-garage-closes-du
+2026-03-26 00:57:50,577 [INFO] [36/41] Blocked/empty: https://www.localsyr.com/news/local-news/fayette-street-parking-garage-closes-du
+2026-03-26 00:57:53,578 [INFO] [37/41] Fetching: https://www.localsyr.com/news/local-news/syracuse-auto-business-in-trouble-with-city-lawmakers-after
+2026-03-26 00:57:53,716 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-auto-business-in-trouble-with-
+2026-03-26 00:57:58,812 [INFO] [37/41] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-auto-business-in-trouble-with-
+2026-03-26 00:58:01,812 [INFO] [38/41] Fetching: https://www.localsyr.com/news/local-news/syracuse-mayors-final-community-briefing-highlights-public-
+2026-03-26 00:58:01,941 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-mayors-final-community-briefin
+2026-03-26 00:58:03,233 [DEBUG]   Wayback hit: http://web.archive.org/web/20260107132534/https://www.localsyr.com/news/local-ne
+2026-03-26 00:58:03,234 [INFO] [38/41] Trying Wayback Machine...
+2026-03-26 00:58:04,990 [INFO] [38/41] Accepted (--no-filter): Syracuse mayor’s final community briefing highlights public safety and housing c
+2026-03-26 00:58:09,138 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-26 00:58:09,145 [INFO]   Dedup match: CTX-NEWS-2025-00166
+2026-03-26 00:58:09,147 [INFO]   Saved: CTX-NEWS-2025-00393 → CTX-NEWS-2025-00393.json
+2026-03-26 00:58:12,148 [INFO] [39/41] Fetching: https://www.localsyr.com/interviews/interview-common-councilor-jimmy-monto-on-what-to-expect-for-202
+2026-03-26 00:58:12,277 [DEBUG]   HTTP 403: https://www.localsyr.com/interviews/interview-common-councilor-jimmy-monto-on-wh
+2026-03-26 00:58:18,436 [INFO] [39/41] Blocked/empty: https://www.localsyr.com/interviews/interview-common-councilor-jimmy-monto-on-wh
+2026-03-26 00:58:19,437 [INFO] [40/41] Fetching: https://www.waer.org/news/2025-12-17/ocwa-still-seeking-water-service-line-information-from-48-000-c
+2026-03-26 00:58:22,022 [INFO] [40/41] Accepted (--no-filter): OCWA still seeking water service line information from 48,000 customers
+2026-03-26 00:58:27,004 [INFO]   Saved: CTX-NEWS-2025-00394 → CTX-NEWS-2025-00394.json
+2026-03-26 00:58:28,005 [INFO] [41/41] Fetching: https://www.localsyr.com/news/local-news/syracuse-begins-winter-deer-management-program-across-the-c
+2026-03-26 00:58:28,165 [DEBUG]   HTTP 403: https://www.localsyr.com/news/local-news/syracuse-begins-winter-deer-management-
+2026-03-26 00:58:33,270 [INFO] [41/41] Blocked/empty: https://www.localsyr.com/news/local-news/syracuse-begins-winter-deer-management-
+2026-03-26 00:58:33,726 [INFO] Link Importer Run — 2026-03-26 00:58
+==================================================
+URLs in CSV: 452
+Skipped (domain): 4
+Already processed: 216
+Attempted this run: 41
+Blocked/empty: 32
+Recovered via Wayback Machine: 7
+Filtered (not relevant): 0
+Saved as records: 9
+Errors: 0
+
+New records:
+  • Syracuse’s north side residents air their frustrations the fire-damage (2025-04-02)
+  • Mayor Walsh announces hiring events (2025-04-27)
+  • Leader says Common Council will ‘probably’ override Syracuse mayor’s r (2025-05-21)
+  • STEAM High School to open this September, Syracuse City School Distric (2025-06-30)
+  • Low-Income internet provider expands coverage to more than 14,000 Syra (2025-07-09)
+  • Firefighters manage brush fire by NBT Bank Stadium (2025-07-25)
+  • Syracuse dropped its carbon emissions over decade by wide margin, exce (2025-07-24)
+  • Syracuse mayor’s final community briefing highlights public safety and (2025-12-11)
+  • OCWA still seeking water service line information from 48,000 customer (2025-12-17)
+

@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-NEWS-2025-00330",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/09/skyline-apartments-owner-promises-to-finish-repairs-soon-in-settlement-with-syracuse.html?gift=9a67edd4-523e-4c0d-8e0e-a80c3669a2ec",
+  "publication_date": "2025-09-22",
+  "capture_date": "2026-03-24T11:07:07Z",
+  "title": "Skyline Apartments owner promises to finish repairs soon in settlement with Syracuse",
+  "summary": "Clear Investment Group has settled a lawsuit with the City of Syracuse regarding Skyline Apartments (to be renamed The Metropolitan), committing to complete renovations and make 350+ housing units ready for occupancy over seven months. The settlement includes weekly city inspections, phased certificates of occupancy, and drops the city's receivership action. This resolves a dispute over renovation delays attributed to fire/water damage and represents a critical housing supply recovery.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "code-enforcement",
+    "facilities",
+    "legal-settlement",
+    "inspection-oversight",
+    "PROVISIONAL:receivership",
+    "PROVISIONAL:affordable-housing-recovery"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Clear Investment Group",
+      "type": "organization",
+      "canonical_id": "ORG-CLEAR-INVESTMENT"
+    },
+    {
+      "name": "Tim Green",
+      "type": "person",
+      "canonical_id": "PERSON-TIM-GREEN"
+    },
+    {
+      "name": "Troy Green",
+      "type": "person",
+      "canonical_id": "PERSON-TROY-GREEN"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor Walsh publicly framed settlement as achieving housing recovery goals with accountability mechanisms. Settlement demonstrates executive commitment to remedying legacy housing neglect through legal enforcement and ongoing oversight.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-SKYLINE-APARTMENTS-2025"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article contains substantial sidebar content (unrelated classifieds/ads) that was truncated; core facts extracted cleanly.",
+    "Dollar amount mechanical extraction includes incomplete figures ($13M, $4.6M renovation plan, $800K prior tenant settlement); context clarified.",
+    "Clear Investment Group is Chicago-based; relevant for intergovernmental/out-of-state property management oversight.",
+    "Weekly inspection protocol represents new city monitoring infrastructure; relevant for 311/service-request systems if integrated.",
+    "Building name change (Skyline → Metropolitan) may require permitting/zoning documentation updates.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'legal-settlement' not in taxonomy",
+    "Tag warning: Unknown tag 'inspection-oversight' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

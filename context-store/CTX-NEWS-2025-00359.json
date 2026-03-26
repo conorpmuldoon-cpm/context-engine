@@ -1,0 +1,86 @@
+{
+  "record_id": "CTX-NEWS-2025-00359",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-councilors-oppose-proposed-tax-hike-amid-budget-surplus-ben-walsh",
+  "publication_date": "2025-04-10",
+  "capture_date": "2026-03-26T00:37:44Z",
+  "title": "Syracuse councilors Hogan & Majok oppose proposed tax hike amid reserve surplus",
+  "summary": "Mayor Ben Walsh proposed a $348.4M 2026 budget with 2% property tax and water bill increases, but Councilors Pat Hogan and Chol Majok oppose the hike citing the city's $120M reserve fund surplus—which has doubled since Walsh took office. City auditors note the unassigned fund balance is unprecedented at ~45-50% of annual expenditure versus the typical 15-20% benchmark, raising questions about fiscal necessity.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "tax-revenue",
+    "council",
+    "mayor",
+    "audit",
+    "residents",
+    "policy-change",
+    "fiscal-discipline"
+  ],
+  "department_refs": [
+    "Mayor's Office",
+    "City Audit Office",
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-CHOL-MAJOK"
+    },
+    {
+      "name": "Marty Nave",
+      "type": "person",
+      "canonical_id": "PERSON-MARTY-NAVE"
+    },
+    {
+      "name": "Greg Evans",
+      "type": "person",
+      "canonical_id": "PERSON-GREG-EVANS"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Council members directly challenge Mayor Walsh's tax increase proposal despite substantial municipal reserves, signaling fiscal scrutiny and potential constituent pressure against property tax burden.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-BUDGET-BATTLE-2025Q2"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date 2025-04-10 is future-dated; verify against publication metadata.",
+    "Dollar amount $120M refers to reserve fund (doubled), $348.4M is total budget; $2M and $10K are sponsored content artifacts.",
+    "Three councilors named (Hogan, Majok, Nave) as opponents; Nave mentioned but not directly quoted.",
+    "External auditor Greg Evans cited; source of audit report not linked in article.",
+    "Water utility increase bundled with property tax increase—may need separate tracking.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'fiscal-discipline' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

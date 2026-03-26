@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-NEWS-2025-00377",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/mary-nelson-youth-center-hosts-annual-back-to-school-giveaway",
+  "publication_date": "2025-08-16",
+  "capture_date": "2026-03-26T00:42:12Z",
+  "title": "Mary Nelson Youth Center hosts annual back-to-school giveaway",
+  "summary": "The Mary Nelson Youth Center held its 2025 Back-to-School Supply Giveaway on August 16, 2025 at Meachem Park, distributing grade-appropriate school supplies and backpacks to Syracuse children. Now in its 24th year since 2002, the event serves as a community engagement and youth support initiative addressing educational equity and family financial burden during back-to-school season.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "residents",
+    "equity",
+    "initiative-launch",
+    "community-community",
+    "workforce-development",
+    "recurring"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Mary Nelson Youth Center",
+      "type": "organization",
+      "canonical_id": "ORG-MNYC"
+    },
+    {
+      "name": "Mary Nelson",
+      "type": "person",
+      "canonical_id": "PERSON-MARY-NELSON"
+    },
+    {
+      "name": "Darryl Patterson",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Meachem Park",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Community-led youth development and educational equity initiative demonstrates grassroots social impact programming aligned with city equity and youth development objectives. Recurring annual event shows sustained commitment to reducing barriers for low-income families.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No city government department attribution; this is a nonprofit-led community initiative",
+    "Event date precedes article publication (Saturday event, Saturday report)",
+    "Dollar amounts in article ($2.6B, $10K) are from sponsored content, not article content—excluded from processing",
+    "Strong mission alignment with workforce development and equity priorities despite lack of direct municipal ownership",
+    "No technology, infrastructure, or administrative systems discussed",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'community-community' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

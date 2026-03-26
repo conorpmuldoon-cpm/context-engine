@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2025-00387",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.localsyr.com/news/local-news/mayor-walsh-announces-hiring-events-to-fill-openings-in-city-government/",
+  "publication_date": "2025-04-27",
+  "capture_date": "2026-03-26T00:53:12Z",
+  "title": "Mayor Walsh announces hiring events",
+  "summary": "Mayor Ben Walsh announced two city hiring events to fill vacancies across city government. The Department of Water will host a specialized recruiting event on April 29 with on-the-spot job offers for watershed inspectors, water system construction engineers, and maintenance workers. A broader multi-department job fair follows on May 12, indicating organized workforce development efforts across city operations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "hiring",
+    "workforce-development",
+    "announcement",
+    "water",
+    "mayor"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor-led announcement prioritizing workforce development and operational capacity in water department and broader city services, signaling commitment to filling critical infrastructure roles.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown in source metadata",
+    "Two distinct events with specific dates, times, and venues provided for operational planning",
+    "Department of Water is primary focus with expedited hiring process; secondary multi-department fair suggests broader staffing needs",
+    "No budget, contract, or financial data included in announcement",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.localsyr.com)"
+  ],
+  "last_relevance_update": null
+}

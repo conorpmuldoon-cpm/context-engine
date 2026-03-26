@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-NEWS-2025-00391",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.localsyr.com/news/local-news/firefighters-manage-brush-fire-by-nbt-bank-stadium/",
+  "publication_date": "2025-07-25",
+  "capture_date": "2026-03-26T00:55:57Z",
+  "title": "Firefighters manage brush fire by NBT Bank Stadium",
+  "summary": "Syracuse Fire Department responded to a brush fire behind NBT Bank Stadium on July 24, 2025 at approximately 9 p.m. Firefighters quickly brought the fire under control. The cause remains under investigation. This incident demonstrates emergency response capacity in the city.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "fire",
+    "emergency-services",
+    "public-safety-commission"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "NBT Bank Stadium",
+      "type": "organization",
+      "canonical_id": "ORG-NBT-BANK-STADIUM"
+    },
+    {
+      "name": "Syracuse Fire Department",
+      "type": "organization",
+      "canonical_id": "ORG-SFD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00241"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is routine emergency response report with minimal detail",
+    "No investigation outcome, cost data, or policy implications mentioned",
+    "Location suggests potential need for GIS analysis of high-risk areas near stadium",
+    "Cause unknown—may warrant follow-up if pattern emerges in area",
+    "Author listed as Unknown; sourced from WSYR-TV/NewsChannel 9",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.localsyr.com)",
+    "Potential duplicate of CTX-NEWS-2025-00241"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,78 @@
+{
+  "record_id": "CTX-NEWS-2025-00307",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/04/orange-basketball-legend-carmelo-anthony-launches-his-cannabis-brand-in-syracuse-today.html",
+  "publication_date": "2025-04-14",
+  "capture_date": "2026-03-24T11:03:43Z",
+  "title": "Carmelo Anthony visits Syracuse to launch his cannabis brand STAYME70",
+  "summary": "Carmelo Anthony, Syracuse Orange legend and NBA Hall of Famer, launched his cannabis brand STAYME70 in downtown Syracuse on April 14, 2025, at Flynnstoned Cannabis Co. The brand supports community empowerment through NuProject (diverse entrepreneur funding) and Last Prisoner Project (cannabis criminal justice reform). This represents a high-profile private sector cannabis industry activity with social equity components.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:cannabis-industry",
+    "PROVISIONAL:social-enterprise",
+    "business-community",
+    "economic-development",
+    "equity",
+    "workforce-development",
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Carmelo Anthony",
+      "type": "person",
+      "canonical_id": "PERSON-CARMELO-ANTHONY"
+    },
+    {
+      "name": "STAYME70",
+      "type": "organization",
+      "canonical_id": "ORG-STAYME70"
+    },
+    {
+      "name": "Flynnstoned Cannabis Co.",
+      "type": "organization",
+      "canonical_id": "ORG-FLYNNSTONED"
+    },
+    {
+      "name": "NuProject",
+      "type": "organization",
+      "canonical_id": "ORG-NUPROJECT"
+    },
+    {
+      "name": "Last Prisoner Project",
+      "type": "organization",
+      "canonical_id": "ORG-LAST-PRISONER-PROJECT"
+    },
+    {
+      "name": "Grand National",
+      "type": "organization",
+      "canonical_id": "ORG-GRAND-NATIONAL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "High-profile athlete-led cannabis enterprise with explicit community reinvestment and criminal justice reform components signals local alignment with emerging cannabis industry legitimacy and equity-focused entrepreneurship",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily marketing/announcement content rather than municipal policy analysis",
+    "No direct City of Syracuse government involvement detected; private sector event at licensed retailer",
+    "Mechanical extraction flagged $100/$200 amounts as purchase minimums for meet-and-greet, not budget items",
+    "Cannabis regulation/licensing oversight likely handled by New York State; local permitting may be relevant to monitor",
+    "PROVISIONAL tags used for cannabis-industry and social-enterprise as these are not standard municipal operations",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

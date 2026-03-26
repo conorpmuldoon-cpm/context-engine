@@ -75,7 +75,10 @@
     "confidence": "high"
   },
   "freshness_class": "short",
-  "cluster_ids": [],
+  "cluster_ids": [
+    "CLUSTER-EAST-ADAMS-TRANSFORMATION-2025",
+    "CLUSTER-SHA-GOVERNANCE-CRISIS-2025"
+  ],
   "engagement_relevance": [],
   "feedback": null,
   "schema_version": "1.0.0",

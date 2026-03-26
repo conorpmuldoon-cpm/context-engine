@@ -1,0 +1,86 @@
+{
+  "record_id": "CTX-NEWS-2025-00320",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/07/is-armory-square-really-so-chaotic-we-spent-4-hours-there-friday-heres-what-we-saw.html?gift=7e51a059-af65-47d3-b1bd-a92bde21f0fb",
+  "publication_date": "2025-07-24",
+  "capture_date": "2026-03-24T11:05:38Z",
+  "title": "Is Armory Square really so chaotic? We spent 4 hours there Friday, here’s what we saw",
+  "summary": "Syracuse.com reporters conducted a 4-hour observational study of Armory Square on July 18, 2025, to independently verify claims about neighborhood safety and chaos. The investigation was prompted by a viral Facebook post from the police union characterizing the area as infiltrated by \"gangbangers,\" which city leadership disputed, attributing problems to post-closing hours gatherings rather than inherent daytime conditions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "public-safety-commission",
+    "crime-data",
+    "neighborhood-services",
+    "transparency",
+    "trending",
+    "constituent-complaints",
+    "investigation"
+  ],
+  "department_refs": [
+    "Police Department",
+    "Mayor's Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Armory Square",
+      "type": "system",
+      "canonical_id": "LOCATION-ARMORY-SQUARE"
+    },
+    {
+      "name": "Syracuse Police Union President",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Police Chief",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Deputy Mayor",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Ankit Bandyopadhyay",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Ryann Phillips",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Media-led independent investigation into disputed public safety claims in response to inter-agency disagreement between police union and city leadership regarding Armory Square conditions.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-PBA-ARMORY-SQUARE-2025Q3",
+    "DEDUP-CTX-NEWS-2025-00319"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content truncated; full narrative of 4-hour observation findings not included in provided text",
+    "Police union president and police chief identities not provided; recommend cross-reference with SPD organizational records",
+    "No specific crime statistics, incident data, or quantitative safety metrics mentioned in excerpt",
+    "Deputy mayor identity unclear; may require clarification on which deputy mayor issued response",
+    "Article published as apparent first installment; follow-up reporting expected",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-NEWS-2025-00319"
+  ],
+  "last_relevance_update": null
+}

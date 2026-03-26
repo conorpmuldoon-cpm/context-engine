@@ -1,0 +1,82 @@
+{
+  "record_id": "CTX-NEWS-2025-00337",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/12/syracuse-plans-clanker-system-to-stop-trucks-from-hitting-park-street-bridge.html",
+  "publication_date": "2025-12-10",
+  "capture_date": "2026-03-24T11:08:07Z",
+  "title": "Syracuse plans ‘clanker system’ to stop trucks from hitting Park Street bridge",
+  "summary": "Syracuse is installing a 'clanker system'—heavy rubber buoys suspended at bridge height—ahead of the Park Street CSX railroad bridge to alert drivers of over-height trucks before impact. The $500,000 project begins mid-2026 and will be fully reimbursed through NY State's CHIPS program. Bridge strikes have increased significantly (6 in 2025 YTD, 13 in 2024), prompting this infrastructure safety intervention modeled on successful Delaware deployments.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "roads-bridges",
+    "capital-planning",
+    "permitting",
+    "state-agency",
+    "intergovernmental",
+    "initiative-launch",
+    "one-time",
+    "federal-programs",
+    "public-safety-commission"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "New York State Department of Transportation",
+    "Onondaga County Water Authority",
+    "CSX Transportation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Connor Muldoon",
+      "type": "person",
+      "canonical_id": "PERSON-CONNOR-MULDOON"
+    },
+    {
+      "name": "Kieran Coffey",
+      "type": "person",
+      "canonical_id": "PERSON-KIERAN-COFFEY"
+    },
+    {
+      "name": "Sabrina Betts",
+      "type": "person",
+      "canonical_id": "PERSON-SABRINA-BETTS"
+    },
+    {
+      "name": "CSX",
+      "type": "organization",
+      "canonical_id": "ORG-CSX"
+    },
+    {
+      "name": "Clanker System",
+      "type": "system",
+      "canonical_id": "SYS-CLANKER-BRIDGE-ALERT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "City leadership (COO Muldoon) championing data-driven safety infrastructure solution with secured state funding, demonstrating proactive problem-solving on documented public safety issue.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author attribution shows Greta Stuckey as reporter; byline identifies her as crime/public safety reporter hired November 2024",
+    "Article contains unrelated news briefs at end (Onondaga Historical Association, credit union merger, Powerball, immigration data, theater)—these are standard section fillers and not part of primary story",
+    "Estimated project cost $500K; full reimbursement mechanism (NY CHIPS) noted—capital planning signal",
+    "Intergovernmental coordination complexity documented: City + NYDOT + OCWA + CSX (federal oversight)",
+    "Comparative context provided: Onondaga Lake Parkway bridge experiences similar strikes but clanker system not yet deployed there—suggests this is pilot/proof-of-concept phase",
+    "Timeline: Design/permitting nearly complete; installation target end of 2026",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

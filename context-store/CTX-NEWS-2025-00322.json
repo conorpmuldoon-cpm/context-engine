@@ -1,0 +1,73 @@
+{
+  "record_id": "CTX-NEWS-2025-00322",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/08/lawsuit-dropped-against-big-armory-square-building-project-but-the-work-is-still-on-hold.html",
+  "publication_date": "2025-08-28",
+  "capture_date": "2026-03-24T11:05:56Z",
+  "title": "Lawsuit dropped against big Armory Square building project, but the work is still on hold",
+  "summary": "A lawsuit filed by the Landmark Theatre against the 401 S. Clinton St. apartment project in Armory Square has been dropped following an agreement between the theater and the city. However, the $18 million six-story, 88-unit development is now stalled due to a funding gap, with no construction timeline. The dispute centered on parking access for large trucks servicing the nearby theater, and both parties have committed to collaborative resolution.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "land-use",
+    "zoning",
+    "historic-preservation",
+    "housing",
+    "permitting",
+    "business-community",
+    "resolved"
+  ],
+  "department_refs": [
+    "Department of Planning and Development",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "John Funiciello",
+      "type": "person",
+      "canonical_id": "PERSON-JOHN-FUNICIELLO"
+    },
+    {
+      "name": "JF Real Estate",
+      "type": "organization",
+      "canonical_id": "ORG-JF-REAL-ESTATE"
+    },
+    {
+      "name": "Landmark Theatre",
+      "type": "organization",
+      "canonical_id": "ORG-LANDMARK-THEATRE"
+    },
+    {
+      "name": "Mike Intaglietta",
+      "type": "person",
+      "canonical_id": "PERSON-MIKE-INTAGLIETTA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Project represents core economic-development priority for Armory Square revitalization, but demonstrates tension between development advancement and historic/cultural venue preservation interests. Litigation resolution signals collaborative governance approach.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-DOWNTOWN-DEVELOPMENT-2025"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date (2025-08-28) appears inconsistent with future 'recommended' article dates; recommend verification",
+    "Mechanical extraction missed key entities: Landmark Theatre, JF Real Estate, Funiciello",
+    "Dollar amount '$18 million' is project cost, not municipal budget impact",
+    "Long-running dispute context suggests this requires institutional knowledge of prior Planning/Landmark Board decisions",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

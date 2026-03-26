@@ -1,0 +1,85 @@
+{
+  "record_id": "CTX-NEWS-2025-00354",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/tensions-boil-over-handling-of-maria-regina-property-between-syracuse-mayor-councilors-ben-walsh-marty-nave-pat-hogan-code-enforcement",
+  "publication_date": "2025-04-01",
+  "capture_date": "2026-03-26T00:36:46Z",
+  "title": "Tensions boil over handling of Maria Regina property between Syracuse Mayor, councilors",
+  "summary": "Tensions escalated between Syracuse Mayor Ben Walsh and Common Councilor Marty Nave over the city's delayed enforcement action against Maria Regina property owner Mark Congel. Following a March 21 fire that destroyed St. Anthony's Convent, the Division of Code Enforcement ordered demolition, prompting Nave to question why enforcement hadn't occurred years earlier. Mayor Walsh raised his voice at Nave during a follow-up encounter, leading Council President Pro Tempore Pat Hogan to publicly call for a formal apology.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "code-enforcement",
+    "housing",
+    "historic-preservation",
+    "land-use",
+    "emergency-services",
+    "fire",
+    "constituent-complaints",
+    "escalating",
+    "transparency",
+    "investigation",
+    "facilities",
+    "council"
+  ],
+  "department_refs": [
+    "Division of Code Enforcement and Zoning Administration",
+    "Office of the Mayor",
+    "Common Council"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Marty Nave",
+      "type": "person",
+      "canonical_id": "PERSON-MARTY-NAVE"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Mark Congel",
+      "type": "person",
+      "canonical_id": "PERSON-MARK-CONGEL"
+    },
+    {
+      "name": "Maria Regina College Campus",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Common Council scrutinizing Mayor's office for delayed code enforcement action on deteriorating property; interpersonal conflict between executive and legislative branches; councilor representing constituents demanding accountability for preventable deterioration leading to fire damage.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-MARIA-REGINA-CONGEL-2025Q2",
+    "DEDUP-CTX-NEWS-2025-00208"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on governance/leadership conflict rather than operational CIO concerns; limited technology/IT infrastructure implications detected",
+    "Fire incident (March 21) is secondary context; primary story is administrative accountability and inter-governmental tension",
+    "Councilor Nave's district contains the property—constituent pressure is localized but politically visible",
+    "Mayor's communication breakdown with property owner (2022) and subsequent escalation with council member suggests potential process/documentation issues for CIO review of internal communication protocols",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Potential duplicate of CTX-NEWS-2025-00208"
+  ],
+  "last_relevance_update": null
+}

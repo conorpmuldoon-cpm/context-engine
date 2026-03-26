@@ -1,0 +1,92 @@
+{
+  "record_id": "CTX-NEWS-2025-00338",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/04/syracuse-sues-company-that-was-supposed-to-save-skyline-apartments-says-they-failed-to-invest.html",
+  "publication_date": "2025-04-02",
+  "capture_date": "2026-03-24T11:08:18Z",
+  "title": "Syracuse sues company that was supposed to save Skyline Apartments, says they ‘failed to invest’",
+  "summary": "Syracuse Mayor Ben Walsh's administration filed a lawsuit against Clear Investment Group, a Chicago-based developer who acquired the Skyline Apartments in 2023 with promises to renovate the 352-unit building. Clear has failed to execute its $4.6M renovation plan, and the property has deteriorated significantly including a catastrophic water leak in March 2025 that released an estimated 2 million gallons. The city seeks appointment of a receiver, $2M in repair deposits, and enforcement of $355K in accumulated code violations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "code-enforcement",
+    "facilities",
+    "investigation",
+    "escalating",
+    "economic-development",
+    "contract-award",
+    "infrastructure",
+    "fire",
+    "water",
+    "PROVISIONAL:property-receivership",
+    "PROVISIONAL:developer-accountability"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development",
+    "Syracuse Fire Department",
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Michael Collins",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-COLLINS"
+    },
+    {
+      "name": "Amy Rubenstein",
+      "type": "person",
+      "canonical_id": "PERSON-AMY-RUBENSTEIN"
+    },
+    {
+      "name": "Clear Investment Group",
+      "type": "organization",
+      "canonical_id": "ORG-CLEAR-INVESTMENT-GROUP"
+    },
+    {
+      "name": "Skyline Apartments / The Metropolitan",
+      "type": "system",
+      "canonical_id": "SYS-SKYLINE-APARTMENTS"
+    },
+    {
+      "name": "Green National Co.",
+      "type": "organization",
+      "canonical_id": "ORG-GREEN-NATIONAL-CO"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Mayor's administration initiating legal action against private developer for breach of covenant and public health endangerment; signals prioritization of housing conditions and accountability over developer relationships",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-SKYLINE-APARTMENTS-2025",
+    "DEDUP-CTX-NEWS-2025-00209"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date listed as 2025-04-02 but contains reference to 'Mar. 22, 2026' in recommended links—temporal inconsistency suggests possible publication date error or article update",
+    "Dollar amounts partially truncated in mechanical extraction: $13M (purchase price), $4.6M (renovation plan), $2M (requested deposit), $355K (code violation fines)",
+    "Key property address: 753 James St., Syracuse, NY (352-unit building, 12 stories)",
+    "Incident date: March 2025 water leak incident; extent of damage suggests critical infrastructure vulnerability",
+    "Receiver appointment mechanism appears twice in narrative—first as temporary measure pre-acquisition, now sought again via lawsuit",
+    "No direct CIO system involvement detected, but incident has implications for water/fire infrastructure monitoring and digital permit/code enforcement systems",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-NEWS-2025-00209"
+  ],
+  "last_relevance_update": null
+}

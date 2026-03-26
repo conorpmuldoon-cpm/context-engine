@@ -1,0 +1,81 @@
+{
+  "record_id": "CTX-NEWS-2025-00333",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/11/syracuse-closes-large-city-owned-downtown-garage-due-to-safety-concerns.html",
+  "publication_date": "2025-11-06",
+  "capture_date": "2026-03-24T11:07:33Z",
+  "title": "Syracuse closes large city-owned downtown garage due to safety concerns",
+  "summary": "The City of Syracuse closed the Fayette Street Parking Garage (300 E. Fayette St.) on November 6, 2025, due to structural safety concerns discovered during routine engineering inspections. The 41-year-old, 550-space facility shows significant deterioration, particularly shifted concrete columns and exterior panels on the northwest corner. The city is conducting further testing to determine if the structure can be repaired or requires demolition, with revenue implications of approximately $700,000 annually.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "facilities",
+    "infrastructure",
+    "code-enforcement",
+    "emergency-services",
+    "capital-planning",
+    "budget",
+    "safety",
+    "PROVISIONAL:parking-infrastructure"
+  ],
+  "department_refs": [
+    "Department of Code Enforcement and Zoning Administration",
+    "Syracuse Fire Department",
+    "Department of Engineering"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jake Dishaw",
+      "type": "person",
+      "canonical_id": "PERSON-JAKE-DISHAW",
+      "role": "Deputy Commissioner of Code Enforcement and Zoning Administration"
+    },
+    {
+      "name": "Fayette Street Parking Garage",
+      "type": "system",
+      "canonical_id": "SYS-FAYETTE-GARAGE"
+    },
+    {
+      "name": "LAZ Parking",
+      "type": "organization",
+      "canonical_id": "ORG-LAZ-PARKING"
+    },
+    {
+      "name": "Washington Street Garage",
+      "type": "system",
+      "canonical_id": "SYS-WASHINGTON-GARAGE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Structural failure of aging municipal asset raises questions about deferred maintenance, asset management protocols, and capital replacement planning in city infrastructure portfolio.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-DOWNTOWN-DEVELOPMENT-2025"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Department extraction validated: Code Enforcement, Fire; Parks not primary actor",
+    "Mechanical extraction error: Parks dept not involved—removed",
+    "Building constructed early 1980s (41 years old as of 2025)",
+    "Revenue impact ($700K FY) indicates material budget consequence",
+    "Closure date: Thursday, Nov 6, 2025 (article dated Nov 6)",
+    "Alternate parking: Washington St. Garage (0.5 miles), surface lots available",
+    "Contact: LAZ Parking (315-422-0701)",
+    "CIO relevance: asset management systems, facilities IT, potential digital services impact (payment systems, occupancy monitoring)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'safety' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

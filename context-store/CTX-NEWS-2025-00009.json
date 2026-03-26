@@ -63,6 +63,8 @@
   },
   "freshness_class": "short",
   "cluster_ids": [
+    "CLUSTER-EAST-ADAMS-TRANSFORMATION-2025",
+    "CLUSTER-SHA-GOVERNANCE-CRISIS-2025",
     "DEDUP-CTX-NEWS-2025-00008"
   ],
   "engagement_relevance": [],

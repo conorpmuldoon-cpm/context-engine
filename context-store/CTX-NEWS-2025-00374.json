@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2025-00374",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/historic-convent-complex-chapels-fate-uncertain-as-convent-deconstruction-is-concluding",
+  "publication_date": "2025-08-06",
+  "capture_date": "2026-03-26T00:41:37Z",
+  "title": "Historic Convent Complex chapel's fate uncertain as convent deconstruction is concluding",
+  "summary": "Article reports on the uncertain future of a historic convent complex chapel as deconstruction of the convent concludes. A proposed housing project at the site has generated community concern, with a commenter expressing opposition to the development and broader political commentary on housing policy.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "historic-preservation",
+    "housing",
+    "land-use",
+    "facilities",
+    "PROVISIONAL:religious-properties"
+  ],
+  "department_refs": [
+    "Department of Permitting and Inspections",
+    "Department of Neighborhood and Business Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Dale Ostrander",
+      "type": "person",
+      "canonical_id": "PERSON-DALE-OSTRANDER"
+    },
+    {
+      "name": "Historic Convent Complex",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Commenter expresses opposition to proposed housing project, framing it as undesirable development and making partisan critique of Democratic housing policy preferences.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-MARIA-REGINA-CONGEL-2025Q2"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Primary content is a single social media comment rather than substantive news reporting; limited actionable detail on actual project status or city involvement",
+    "Specific location of convent complex not identified in extracted text",
+    "No dollar amounts, timeline, or departmental attribution provided",
+    "Historic preservation implications present but details on chapel disposition unknown",
+    "Comment may indicate emerging constituent pressure on housing/land-use decisions",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

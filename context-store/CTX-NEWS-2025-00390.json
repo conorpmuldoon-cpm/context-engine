@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-NEWS-2025-00390",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.localsyr.com/news/local-news/low-income-internet-provider-expands-coverage-to-more-than-14000-syracuse-residents/",
+  "publication_date": "2025-07-09",
+  "capture_date": "2026-03-26T00:55:43Z",
+  "title": "Low-Income internet provider expands coverage to more than 14,000 Syracuse residents",
+  "summary": "Surge Link, Syracuse's affordable high-speed internet provider, expanded coverage to over 14,000 residents on July 8, 2025, up from initial coverage of 1,000+ people. The service offers 100 Mbps internet for $14.99/month to low-income households qualifying for assistance programs like Medicare or SNAP. Mayor Ben Walsh announced the expansion at a press conference.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "digital-services",
+    "equity",
+    "economic-development",
+    "initiative-launch",
+    "residents",
+    "announcement",
+    "federal-programs"
+  ],
+  "department_refs": [
+    "Office of the Mayor",
+    "Department of Information Technology"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Surge Link",
+      "type": "organization",
+      "canonical_id": "ORG-SURGE-LINK"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor-led announcement of broadband equity initiative demonstrates municipal commitment to closing digital divide for low-income residents; aligns with federal broadband infrastructure priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00078"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article source is local news (WSYR-TV/localsyr.com); author attribution missing",
+    "Coverage expansion metric (14x growth) is significant but lacks details on funding source or program duration",
+    "Connection to potential federal broadband programs (ACP, BEAD) not explicitly mentioned but likely relevant to CIO infrastructure planning",
+    "Service pricing ($14.99) and speed (100 Mbps) are key affordability benchmarks for digital equity assessment",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.localsyr.com)",
+    "Potential duplicate of CTX-NEWS-2025-00078"
+  ],
+  "last_relevance_update": null
+}

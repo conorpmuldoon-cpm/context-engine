@@ -1,0 +1,79 @@
+{
+  "record_id": "CTX-NEWS-2025-00378",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-09-13/long-planned-development-project-on-syracuses-south-side-gains-momentum",
+  "publication_date": "2025-09-13",
+  "capture_date": "2026-03-26T00:42:23Z",
+  "title": "Long-planned development project on Syracuse’s south side gains momentum",
+  "summary": "The Southside Renaissance Project, a $41 million mixed-use development on Syracuse's South Ave, is advancing after four years of planning with groundbreaking expected in 2027 and completion in 2029. The project includes a business incubator for restaurateurs of color and 75 units of senior affordable housing, developed by the Women's Economic Institute and St. Nicks Alliance with funding from private sources, state loans, grants, and tax credits.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "housing",
+    "initiative-launch",
+    "business-community",
+    "equity",
+    "grants",
+    "capital-planning",
+    "land-use",
+    "workforce-development"
+  ],
+  "department_refs": [
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Women's Economic Institute",
+      "type": "organization",
+      "canonical_id": "ORG-WEI"
+    },
+    {
+      "name": "St. Nicks Alliance",
+      "type": "organization",
+      "canonical_id": "ORG-ST-NICKS"
+    },
+    {
+      "name": "Charlene Tarver",
+      "type": "person",
+      "canonical_id": "PERSON-CHARLENE-TARVER"
+    },
+    {
+      "name": "Frank Lang",
+      "type": "person",
+      "canonical_id": "PERSON-FRANK-LANG"
+    },
+    {
+      "name": "New York State Office of the Local Initiatives Support Corporation (LISC)",
+      "type": "organization",
+      "canonical_id": "ORG-LISC-NY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "City supporting equitable economic development and affordable housing on underutilized south side corridor; alignment with typical innovation office priorities around inclusive growth and community resilience",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00121"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount detected as '$41' in mechanical extraction but context indicates $41 million project cost",
+    "No direct CIO departmental reference in article, but significant implications for capital planning, permitting, GIS/land records, and potential digital services coordination",
+    "Project timeline (2027 groundbreaking, 2029 completion) suggests multi-year planning and monitoring opportunity",
+    "Partnership model (non-profit co-development) may indicate procurement or intergovernmental coordination relevance",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)",
+    "Potential duplicate of CTX-NEWS-2025-00121"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,81 @@
+{
+  "record_id": "CTX-NEWS-2025-00345",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/07/vacant-syracuse-houses-burn-down-at-alarming-rate-can-city-predict-and-prevent-them.html?gift=c9ec0f33-f00a-402b-92c2-e7166629de46",
+  "publication_date": "2025-07-31",
+  "capture_date": "2026-03-24T11:09:17Z",
+  "title": "Vacant Syracuse houses burn down at alarming rate. Can city predict and prevent them?",
+  "summary": "City Auditor Alexander Marion released a report finding that 29% of Syracuse's 87 structure fires in 2024 occurred in vacant buildings, costing taxpayers $1.1M+ in property damage and $540K in fire department and demolition costs. The auditor recommends an early-warning predictive system using six criteria (proximity to past fires, inactive utilities, tax/water arrears, code violations) to flag high-risk properties for intervention, potentially identifying 50-100 properties at risk before fires occur.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "audit",
+    "fire",
+    "emergency-services",
+    "code-enforcement",
+    "housing",
+    "data-governance",
+    "PROVISIONAL:predictive-analytics",
+    "PROVISIONAL:vacant-properties",
+    "public-safety-commission",
+    "budget",
+    "transparency",
+    "initiative-launch"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Division of Code Enforcement",
+    "Bureau of Administrative Adjudication",
+    "Office of the City Auditor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Alexander Marion",
+      "type": "person",
+      "canonical_id": "PERSON-ALEXANDER-MARION"
+    },
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-BOYER"
+    },
+    {
+      "name": "Greater Syracuse Land Bank",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-LAND-BANK"
+    },
+    {
+      "name": "National Grid",
+      "type": "organization",
+      "canonical_id": "ORG-NATIONAL-GRID"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Auditor's office championing data-driven early intervention system for vacant structure fires as public safety and fiscal responsibility priority; framed as protecting first responders and maximizing limited housing stock.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00107"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article truncated mid-sentence; full text unavailable for complete extraction",
+    "Heat map reference mentioned but visual data not provided",
+    "Michael Collins listed in mechanical extraction but does not appear in provided article text—likely false positive",
+    "Syracuse University listed in mechanical extraction but does not appear in article—likely false positive",
+    "Report itself is primary source document; recommend CIO obtain full auditor report for detailed recommendations (21 total noted)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Potential duplicate of CTX-NEWS-2025-00107"
+  ],
+  "last_relevance_update": null
+}

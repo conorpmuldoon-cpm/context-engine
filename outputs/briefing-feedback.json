@@ -25,5 +25,41 @@
     "records_core": 30,
     "rating": 4.5,
     "notes": "User rated 4-5. First briefing from full Librarian synthesis. 3 misclustered records identified and removed."
+  },
+  {
+    "date": "2026-03-24",
+    "briefing_type": "thematic",
+    "target": "Payroll Modernization & IT Systems",
+    "records_reviewed": 32,
+    "records_core": 28,
+    "rating": null,
+    "notes": "Batch briefing 1 of 4. Saved to outputs/briefings/2026-03-24_payroll-it-modernization.md"
+  },
+  {
+    "date": "2026-03-24",
+    "briefing_type": "thematic",
+    "target": "SPD Public Safety Operations",
+    "records_reviewed": 53,
+    "records_core": 47,
+    "rating": null,
+    "notes": "Batch briefing 2 of 4. 7 clusters combined. Saved to outputs/briefings/2026-03-24_spd-public-safety.md"
+  },
+  {
+    "date": "2026-03-24",
+    "briefing_type": "thematic",
+    "target": "Housing & Code Enforcement",
+    "records_reviewed": 73,
+    "records_core": 56,
+    "rating": null,
+    "notes": "Batch briefing 3 of 4. Updated with SHA governance crisis + East Adams transformation clusters (21 additional records). 2 missing articles manually imported. Saved to outputs/briefings/2026-03-24_housing-code-enforcement.md"
+  },
+  {
+    "date": "2026-03-24",
+    "briefing_type": "thematic",
+    "target": "County-City Intergovernmental Relations",
+    "records_reviewed": 55,
+    "records_core": 40,
+    "rating": null,
+    "notes": "Batch briefing 4 of 4. Cross-jurisdictional (county, state, federal). Saved to outputs/briefings/2026-03-24_county-city-intergovernmental.md"
   }
 ]

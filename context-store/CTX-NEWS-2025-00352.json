@@ -1,0 +1,85 @@
+{
+  "record_id": "CTX-NEWS-2025-00352",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/landowners-absence-fuels-frustration-at-town-meeting-after-convent-condemnation",
+  "publication_date": "2025-04-02",
+  "capture_date": "2026-03-26T00:36:22Z",
+  "title": "Landowner's absence fuels frustration at town meeting after convent condemnation",
+  "summary": "A historic convent (Motherhouse) in Syracuse was condemned for demolition following a March 21 fire that severely damaged the 100+ year old structure. A town meeting revealed frustration from neighbors and city council over the absent property owner Mark Congel's years of neglect (15 code violations issued), lack of external expert consultation in the demolition decision, and potential loss of salvageable artifacts including antique wood and stained glass windows. The city plans to determine what is salvageable while pursuing senior apartments development on the site.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "historic-preservation",
+    "code-enforcement",
+    "fire",
+    "emergency-services",
+    "land-use",
+    "complaint",
+    "constituent-complaints",
+    "escalating",
+    "transparency",
+    "neighborhood-services",
+    "facilities",
+    "housing",
+    "economic-development"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Department of Permits and Development",
+    "Common Council",
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Mark Congel",
+      "type": "person",
+      "canonical_id": "PERSON-MARK-CONGEL"
+    },
+    {
+      "name": "Marty Nave",
+      "type": "person",
+      "canonical_id": "PERSON-MARTY-NAVE"
+    },
+    {
+      "name": "Gary Robinson Jr.",
+      "type": "person",
+      "canonical_id": "PERSON-GARY-ROBINSON-JR"
+    },
+    {
+      "name": "Sisters of St. Francis",
+      "type": "organization",
+      "canonical_id": "ORG-SSF"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Neighbors and council members expressing strong frustration over property neglect accountability, lack of stakeholder consultation in demolition decision, and concern about preventable property deterioration. Councilor Nave advocates for salvage and broader expert input.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-MARIA-REGINA-CONGEL-2025Q2",
+    "DEDUP-CTX-NEWS-2025-00351"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Property owner Mark Congel was absent from town meeting, amplifying frustration narrative",
+    "15 code enforcement violations issued but enforcement action timeline unclear",
+    "Fire cause still undetermined as of reporting date",
+    "Potential salvageable assets (antique wood, stained glass) mentioned but no documented preservation protocol",
+    "Decision made by Division of Code Enforcement without external expert consultation—transparency concern flagged by council",
+    "Senior apartments redevelopment plan mentioned but underdeveloped in article",
+    "Article focuses on historical/emotional loss rather than fiscal or operational impacts to city",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Potential duplicate of CTX-NEWS-2025-00351"
+  ],
+  "last_relevance_update": null
+}

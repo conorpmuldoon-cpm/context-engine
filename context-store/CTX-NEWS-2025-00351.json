@@ -1,0 +1,90 @@
+{
+  "record_id": "CTX-NEWS-2025-00351",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-03-31/impending-demolition-of-former-northside-convent-elicits-memories-of-its-long-history",
+  "publication_date": "2025-04-01",
+  "capture_date": "2026-03-26T00:36:11Z",
+  "title": "Impending demolition of former northside convent elicits memories of its long history",
+  "summary": "A nearly 130-year-old former Maria Regina convent on Syracuse's north side was heavily damaged by a suspicious fire on March 21, 2025, prompting the city to order emergency demolition due to immediate public safety risks. The building, which held significant cultural and religious importance to the community, will be demolished this week by owner Mark Congel, affecting 26 of 180 planned senior housing units on the campus. The property sale to Home Leasing should complete by fall.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "emergency-services",
+    "fire",
+    "code-enforcement",
+    "permitting",
+    "housing",
+    "historic-preservation",
+    "land-use",
+    "neighborhood-services",
+    "investigation",
+    "residents",
+    "facilities"
+  ],
+  "department_refs": [
+    "Department of Code Enforcement",
+    "Syracuse Fire Department",
+    "Department of Neighborhood and Business Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Jake Dishaw",
+      "type": "person",
+      "canonical_id": "PERSON-JAKE-DISHAW"
+    },
+    {
+      "name": "Michael Collins",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-COLLINS"
+    },
+    {
+      "name": "Marty Nave",
+      "type": "person",
+      "canonical_id": "PERSON-MARTY-NAVE"
+    },
+    {
+      "name": "Mark Congel",
+      "type": "person",
+      "canonical_id": "PERSON-MARK-CONGEL"
+    },
+    {
+      "name": "Home Leasing",
+      "type": "organization",
+      "canonical_id": "ORG-HOME-LEASING"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Significant community concern over loss of historic, culturally important building. Mayor and councilor publicly acknowledge emotional value and religious heritage significance to north side residents. Framed as regrettable but necessary public safety decision.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-MARIA-REGINA-CONGEL-2025Q2",
+    "DEDUP-CTX-NEWS-2025-00338"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Fire cause listed as 'suspicious' — ongoing investigation; potential for criminal classification",
+    "Redevelopment scope reduced from 180 to 154 units due to demolition of motherhouse",
+    "Property transfer timeline clear (fall 2025); acquisition of demolition permit expected imminent",
+    "Vacancy and code enforcement challenges noted as systemic issue for CIO/DPD coordination",
+    "No dollar amounts specified for demolition cost or development project",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)",
+    "Potential duplicate of CTX-NEWS-2025-00338"
+  ],
+  "last_relevance_update": null
+}

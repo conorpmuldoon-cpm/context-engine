@@ -1,0 +1,60 @@
+{
+  "record_id": "CTX-NEWS-2025-00373",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/sisters-reflect-on-the-demolition-of-the-motherhouse",
+  "publication_date": "2025-07-30",
+  "capture_date": "2026-03-26T00:41:26Z",
+  "title": "Sisters reflect on the demolition of the Maria Regina Motherhouse",
+  "summary": "Article discusses the demolition of Maria Regina Motherhouse with community commentary on religious institutions. The piece appears to be a news story with reader comments reflecting divergent views on the Catholic Church and religious life, relevant to Syracuse's historic preservation and facilities management considerations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "historic-preservation",
+    "facilities",
+    "residents"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Maria Regina Motherhouse",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Gary Robinson Jr.",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Catholic Church",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Community members expressing strong and opposing viewpoints on religious institutions and their role; potential sentiment around preservation vs. demolition of historic religious structures in Syracuse",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-MARIA-REGINA-CONGEL-2025Q2"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content provided appears to be primarily reader comments rather than full news article body",
+    "No specific CIO-relevant technical infrastructure, digital services, or innovation initiatives mentioned",
+    "Historic preservation angle may warrant coordination with Planning/Development departments",
+    "Missing key details: demolition timeline, cost, permits, GIS coordinates, decision authority",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

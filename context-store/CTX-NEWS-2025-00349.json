@@ -1,0 +1,74 @@
+{
+  "record_id": "CTX-NEWS-2025-00349",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/residents-worried-about-property-tax-increase-due-to-2-million-dollar-plan-reassess-property-evaluation-common-council-approval",
+  "publication_date": "2025-03-27",
+  "capture_date": "2026-03-26T00:35:42Z",
+  "title": "Residents worried about property tax increase due to $1.8 million plan",
+  "summary": "Syracuse City officials proposed an $1.8 million, three-year property reassessment project affecting 41,000+ properties with anticipated 70%+ valuation increases. Common Council delayed voting on the project due to governance concerns; residents expressed significant anxiety about resulting property tax increases. The project, managed by Buffalo-based G.A.R. Associates, requires council approval before spring launch.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "tax-revenue",
+    "residents",
+    "procurement",
+    "policy-change",
+    "escalating",
+    "constituent_pressure",
+    "data-governance",
+    "legislation"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Lynne Werbeck",
+      "type": "person",
+      "canonical_id": "PERSON-LYNNE-WERBECK"
+    },
+    {
+      "name": "Jen Schultz",
+      "type": "person",
+      "canonical_id": "PERSON-JEN-SCHULTZ"
+    },
+    {
+      "name": "G.A.R. Associates",
+      "type": "organization",
+      "canonical_id": "ORG-GAR-ASSOCIATES"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Resident opposition to property reassessment plan citing cost-of-living concerns and budget constraints. Council voting delayed due to management/oversight concerns, indicating governance scrutiny.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-BUDGET-BATTLE-2025Q2"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount $1.8 million confirmed in title and content",
+    "DPW reference appears only in unrelated 'MORE TO EXPLORE' section; may be false positive",
+    "Article focuses on assessment/valuation process rather than CIO-specific tech systems or digital services",
+    "No explicit IT infrastructure, GIS system implementation, or digital service delivery components mentioned",
+    "Timeline: decision pending, no follow-up meeting date announced as of publication",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'constituent_pressure' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

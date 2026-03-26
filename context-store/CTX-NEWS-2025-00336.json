@@ -1,0 +1,88 @@
+{
+  "record_id": "CTX-NEWS-2025-00336",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/12/syracuse-neighbors-fear-commercial-battery-storage-site-could-be-dangerous.html",
+  "publication_date": "2025-12-06",
+  "capture_date": "2026-03-24T11:07:57Z",
+  "title": "Syracuse neighbors fear commercial battery storage site could be dangerous",
+  "summary": "South Side residents are opposing a proposed 426 E. Brighton Ave. commercial lithium-ion battery storage facility by New Leaf Energy, citing fire and environmental contamination risks. Syracuse Fire Chief Michael Monds refused to approve the current design as non-compliant with fire codes due to proximity to residences. The Economic Development Committee postponed the special-use permit decision pending public hearing and potential zoning code updates to restrict such facilities to industrial areas.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "fire",
+    "permitting",
+    "land-use",
+    "zoning",
+    "emergency-services",
+    "sustainability",
+    "constituent-complaints",
+    "infrastructure",
+    "residents",
+    "PROVISIONAL:energy-storage",
+    "PROVISIONAL:lithium-ion-batteries"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Department of Permitting and Development",
+    "Syracuse Economic Development Committee"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael Monds",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-MONDS"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Marty Nave",
+      "type": "person",
+      "canonical_id": "PERSON-MARTY-NAVE"
+    },
+    {
+      "name": "Beata Karpinska",
+      "type": "person",
+      "canonical_id": "PERSON-BEATA-KARPINSKA"
+    },
+    {
+      "name": "Terrence Nolan",
+      "type": "person",
+      "canonical_id": "PERSON-TERRENCE-NOLAN"
+    },
+    {
+      "name": "New Leaf Energy",
+      "type": "organization",
+      "canonical_id": "ORG-NEW-LEAF-ENERGY"
+    },
+    {
+      "name": "PureSky Energy",
+      "type": "organization",
+      "canonical_id": "ORG-PURESKY-ENERGY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Organized neighborhood opposition to permitted energy infrastructure; council members (Hogan, Nave) responding to constituent concerns by requesting location reassessment and potential zoning code updates to restrict facilities to industrial zones",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article truncated mid-sentence at end; fire safety regulatory context includes NY state precedent from 2023 fires; multiple competing proposals (PureSky Energy, Park Street) suggest growing market demand; dollar amount ($3) in mechanical extraction appears erroneous/incomplete",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

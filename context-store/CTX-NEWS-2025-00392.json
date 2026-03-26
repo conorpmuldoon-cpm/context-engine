@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2025-00392",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.localsyr.com/news/local-news/syracuse-dropped-its-carbon-emissions-over-decade-by-wide-margin-exceeding-goals/",
+  "publication_date": "2025-07-24",
+  "capture_date": "2026-03-26T00:56:11Z",
+  "title": "Syracuse dropped its carbon emissions over decade by wide margin, exceeding goals",
+  "summary": "Syracuse released its 2024 Greenhouse Gas Emission Inventory showing the city reduced municipal emissions by 67% and community emissions by 29% over 14 years (2010-2024), significantly exceeding original goals of 40% and 7% respectively. This achievement demonstrates substantial progress on the city's sustainability and climate action commitments.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "sustainability",
+    "initiative-launch",
+    "announcement",
+    "data-governance",
+    "equity",
+    "transparency"
+  ],
+  "department_refs": [
+    "Office of the Chief Innovation Officer"
+  ],
+  "entity_refs": [
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE"
+    },
+    {
+      "name": "Greenhouse Gas Emission Inventory (GHGI)",
+      "type": "system",
+      "canonical_id": "SYS-GHGI"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Report highlights successful achievement of climate goals, positioning municipal leadership favorably on sustainability and environmental stewardship priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown; WSYR-TV credited as news source",
+    "14-year baseline period (2010-2024) provides strong longitudinal context",
+    "No specific department attribution in article; inferred CIO relevance based on climate/sustainability innovation mandate",
+    "GHGI appears to be established municipal tracking system; consider cataloging in systems registry",
+    "Data suggests significant infrastructure and behavioral changes; recommend cross-referencing with capital planning, energy, and transportation initiatives",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.localsyr.com)"
+  ],
+  "last_relevance_update": null
+}

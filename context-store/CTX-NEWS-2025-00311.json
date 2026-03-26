@@ -1,0 +1,91 @@
+{
+  "record_id": "CTX-NEWS-2025-00311",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2025/12/downtown-building-owner-sues-to-pause-work-on-massive-new-syracuse-hotel.html",
+  "publication_date": "2025-12-02",
+  "capture_date": "2026-03-24T11:04:20Z",
+  "title": "Downtown building owner sues to pause work on massive new Syracuse hotel",
+  "summary": "A downtown building owner (Putnam Properties/Fred Davies) filed a lawsuit to invalidate city approvals for an $87 million, 10-story Onondaga Hotel project developed by Sun Development, seeking a more rigorous environmental impact study under State Environmental Quality Review Act. The lawsuit challenges Syracuse Industrial Development Agency and City Planning Commission decisions, citing concerns about obstruction of views, parking garage emissions/noise, and drainage impacts to the adjacent Lafayette Building. A court hearing is scheduled for February 11, 2026, and if successful, could delay the project by several months or more.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "land-use",
+    "zoning",
+    "economic-development",
+    "historic-preservation",
+    "permitting",
+    "investigation",
+    "litigation",
+    "PROVISIONAL:environmental-review",
+    "PROVISIONAL:hotel-development"
+  ],
+  "department_refs": [
+    "Department of Permits and Development",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Putnam Properties LLC",
+      "type": "organization",
+      "canonical_id": "ORG-PUTNAM-PROPERTIES"
+    },
+    {
+      "name": "Fred Davies",
+      "type": "person",
+      "canonical_id": "PERSON-FRED-DAVIES"
+    },
+    {
+      "name": "Sun Development",
+      "type": "organization",
+      "canonical_id": "ORG-SUN-DEVELOPMENT"
+    },
+    {
+      "name": "Syracuse Industrial Development Agency",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-IDA"
+    },
+    {
+      "name": "City Planning Commission",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-PLANNING-COMMISSION"
+    },
+    {
+      "name": "Judge Joseph E. Lamendola",
+      "type": "person",
+      "canonical_id": "PERSON-JOSEPH-LAMENDOLA"
+    },
+    {
+      "name": "Sol Munoz",
+      "type": "person",
+      "canonical_id": "PERSON-SOL-MUNOZ"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Legal challenge to major downtown development project on procedural and environmental grounds; represents organized opposition from neighboring property owner with legal resources. Outcome may affect city's ability to execute strategic economic development initiatives.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-DOWNTOWN-DEVELOPMENT-2025"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references 'hundreds of hotel rooms lost in recent years' but does not provide sourced data; CIO may want to cross-reference with housing/economic development datasets.",
+    "IDA selection process occurred in 2024 via RFP; consider cross-referencing with procurement records.",
+    "M. Lemp Park noted as previously acquired by IDA and zoned commercial; governance structure and prior CIO involvement should be verified.",
+    "No direct CIO departmental involvement indicated in article, but permitting and land-use coordination are relevant to innovation office briefing.",
+    "Syracuse University not mentioned in article content despite mechanical extraction; recommend validation of entity list.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'litigation' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

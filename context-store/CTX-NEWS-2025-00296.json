@@ -1,0 +1,81 @@
+{
+  "record_id": "CTX-NEWS-2025-00296",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/04/syracuse-lawmakers-disappointed-with-walshs-proposed-tax-hike-budget-deficit.html",
+  "publication_date": "2025-04-10",
+  "capture_date": "2026-03-24T09:34:40Z",
+  "title": "Syracuse lawmakers ‘disappointed’ with Walsh’s proposed tax hike, budget deficit",
+  "summary": "Syracuse Common Council leadership expressed disappointment with Mayor Walsh's proposed FY2025 budget, which includes a $27 million deficit and 2% tax rate increase. Council finance chair Corey Williams disputes the deficit calculation, viewing the true shortfall as $34 million when accounting for tax revenue. The council will conduct line-by-line budget review over the coming month, with final adoption due May 8.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "tax-revenue",
+    "council",
+    "mayor",
+    "economic-development",
+    "housing",
+    "policy-change",
+    "vote",
+    "procedural"
+  ],
+  "department_refs": [
+    "Department of Finance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Pat Hogan",
+      "type": "person",
+      "canonical_id": "PERSON-PAT-HOGAN"
+    },
+    {
+      "name": "Syracuse Housing Strategies Corporation",
+      "type": "organization",
+      "canonical_id": "ORG-SHSC"
+    },
+    {
+      "name": "Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Council finance chair and mayoral candidate express fiscal concerns and resistance to proposed tax increase; criticism centers on deficit spending sustainability and timing of tax hike amid resident economic anxiety.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00180"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Mechanical extraction included $1 million housing allocation and $7.5 million housing trust fund balance as key contested line items",
+    "Pat Hogan identified as mayoral candidate—potential mayoral race signal",
+    "Fund balance context (current $120M vs. $40M at Walsh administration start) suggests strong reserve position but council skeptical of continued draw-down strategy",
+    "Public hearing scheduled April 29; final budget adoption May 8—key decision points",
+    "Last year's budget received 30 amendments—precedent for substantial council modifications",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Tag warning: Unknown tag 'procedural' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00180"
+  ],
+  "last_relevance_update": null
+}

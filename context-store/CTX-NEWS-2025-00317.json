@@ -1,0 +1,76 @@
+{
+  "record_id": "CTX-NEWS-2025-00317",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/10/hundreds-of-syracuse-teachers-staff-get-shorted-on-pay-after-11m-tech-project-screwup.html",
+  "publication_date": "2025-10-14",
+  "capture_date": "2026-03-24T11:05:15Z",
+  "title": "Hundreds of Syracuse teachers, staff get shorted on pay after $11M tech project screwup",
+  "summary": "Syracuse City School District's $10.9M Oracle payroll system implementation (July 2025) has resulted in widespread pay errors affecting ~900 employees (nearly one-third of union members) in the first week of school, including missing checks, incorrect deductions, and missing raises. The Syracuse Teachers Association reports continued issues despite district and consultant efforts, with September cycles showing 900 errors initially, declining to 275 by month-end. The union has filed a grievance and is demanding increased consultant support and accountability.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "payroll",
+    "software-systems",
+    "IT-infrastructure",
+    "labor-relations",
+    "union",
+    "complaint",
+    "escalating",
+    "investigation",
+    "constituent-complaints",
+    "equity"
+  ],
+  "department_refs": [
+    "Department of Human Resources",
+    "Department of Information Technology"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse City School District",
+      "type": "organization",
+      "canonical_id": "ORG-SCSD"
+    },
+    {
+      "name": "Syracuse Teachers Association",
+      "type": "organization",
+      "canonical_id": "ORG-STA"
+    },
+    {
+      "name": "Nicole Capsello",
+      "type": "person",
+      "canonical_id": "PERSON-NICOLE-CAPSELLO"
+    },
+    {
+      "name": "Oracle",
+      "type": "system",
+      "canonical_id": "SYS-ORACLE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Union leadership publicly escalating frustration with district's response and external consultant performance; formal grievance filed; comparison to Rochester's lawsuit suggests threat of legal action if resolution stalls.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-PAYROLL-MODERNIZATION-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts in mechanical extraction appear corrupted/incomplete; actual project cost is $10.9M (not $11M as headline suggests)",
+    "Article references Rochester precedent (similar Oracle payroll litigation) - relevant for risk assessment",
+    "No CIO directly quoted; frames as HR/payroll crisis but IT/systems procurement/vendor management implications are significant for innovation office oversight",
+    "Union cooperative stance currently maintained but fragile; Wednesday paycheck (Oct 15?) identified as critical test",
+    "Affected employees span multiple job classifications indicating cross-departmental impact",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

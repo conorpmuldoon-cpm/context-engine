@@ -1,0 +1,73 @@
+{
+  "record_id": "CTX-NEWS-2025-00335",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/11/syracuse-launches-online-search-tool-of-its-vacant-lots-for-sale.html",
+  "publication_date": "2025-11-12",
+  "capture_date": "2026-03-24T11:07:48Z",
+  "title": "Syracuse launches online search tool of its vacant lots for sale",
+  "summary": "Mayor Ben Walsh announced the launch of City-Owned Property Search (syr.gov/city-owned-property), an interactive online tool enabling residents to discover and bid on 167 city-owned vacant lots by neighborhood, address, or map navigation. The tool streamlines property acquisition by providing direct links to purchase applications, with final sales requiring Common Council approval after interdepartmental review.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "initiative-launch",
+    "digital-services",
+    "GIS",
+    "housing",
+    "land-use",
+    "economic-development",
+    "transparency",
+    "residents",
+    "announcement"
+  ],
+  "department_refs": [
+    "Mayor's Office",
+    "Planning Department",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Greater Syracuse Land Bank",
+      "type": "organization",
+      "canonical_id": "ORG-GSLAND-BANK"
+    },
+    {
+      "name": "City-Owned Property Search",
+      "type": "system",
+      "canonical_id": "SYS-PROPERTY-SEARCH"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor-led initiative demonstrates commitment to land-use transparency, economic development, and resident accessibility to city assets. Signals pro-development and good-governance positioning.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article behind paywall; full content may contain additional details",
+    "Tool excludes Greater Syracuse Land Bank properties (separate governance)",
+    "No budget/cost data provided for tool development or maintenance",
+    "Related stories suggest concurrent focus on land use policy and housing challenges",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

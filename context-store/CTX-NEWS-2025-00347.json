@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-NEWS-2025-00347",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/cny/2025/10/why-did-syracuses-airport-reject-kristi-noems-video-a-no-politics-policy-it-seems.html",
+  "publication_date": "2025-10-15",
+  "capture_date": "2026-03-24T11:09:34Z",
+  "title": "Why did Syracuse’s airport reject Kristi Noem’s video? A no-politics policy, it seems",
+  "summary": "Syracuse Hancock International Airport rejected a video message from U.S. Homeland Security Secretary Kristi Noem citing its Terminal Advertising Policy prohibition on political messaging. The video blamed Democrats for a government shutdown, which airport officials classified as political advertising rather than permitted government public service messaging. The decision highlights tension between content neutrality policies and federal agency communications in public facilities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "policy-change",
+    "transparency",
+    "intergovernmental",
+    "federal-programs",
+    "PROVISIONAL:public-space-governance"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse Hancock International Airport / Syracuse Regional Airport Authority",
+      "type": "organization",
+      "canonical_id": "ORG-SRAA"
+    },
+    {
+      "name": "Jason Terreri",
+      "type": "person",
+      "canonical_id": "PERSON-JASON-TERRERI"
+    },
+    {
+      "name": "Kristi Noem",
+      "type": "person",
+      "canonical_id": "PERSON-KRISTI-NOEM"
+    },
+    {
+      "name": "Megan Thomas",
+      "type": "person",
+      "canonical_id": "PERSON-MEGAN-THOMAS"
+    },
+    {
+      "name": "Mark Weiner",
+      "type": "person",
+      "canonical_id": "PERSON-MARK-WEINER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Article critically examines airport authority's selective application of political advertising policy to federal executive branch messaging, raising First Amendment and content moderation governance questions. Decision reflects friction between partisan messaging and public facility neutrality standards.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-EVENT-AIRPORT-NOEM-VIDEO"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date (2025-10-15) is future-dated; verify against source publication",
+    "No direct CIO department involvement detected; relevance is policy governance and digital/public space content moderation precedent",
+    "Airport authority operates independently; not direct city department",
+    "Underlying lawsuit (Thomas v. Airport Authority) may establish precedent for city's own public space advertising policies",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,69 @@
+{
+  "record_id": "CTX-NEWS-2025-00379",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-09-02/onondaga-county-expands-hotel-room-tax-to-include-short-term-rentals",
+  "publication_date": "2025-09-02",
+  "capture_date": "2026-03-26T00:42:32Z",
+  "title": "Onondaga County expands hotel room tax to include short-term rentals",
+  "summary": "Onondaga County expanded its hotel room occupancy tax to include short-term rental properties booked through platforms like Airbnb and VRBO, effective immediately. The measure requires a county short-term rental registry and is projected to generate $1 million in annual revenue. Tax collection will be automated through booking platforms for most owners, with non-platform users required to remit taxes manually.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "tax-revenue",
+    "legislation",
+    "policy-change",
+    "business-community",
+    "data-governance",
+    "housing",
+    "intergovernmental"
+  ],
+  "department_refs": [
+    "Office of the County Fiscal Officer"
+  ],
+  "entity_refs": [
+    {
+      "name": "Kristi Smiley",
+      "type": "person",
+      "canonical_id": "PERSON-KRISTI-SMILEY"
+    },
+    {
+      "name": "Colleen Gunnip",
+      "type": "person",
+      "canonical_id": "PERSON-COLLEEN-GUNNIP"
+    },
+    {
+      "name": "Airbnb",
+      "type": "organization",
+      "canonical_id": "ORG-AIRBNB"
+    },
+    {
+      "name": "VRBO",
+      "type": "organization",
+      "canonical_id": "ORG-VRBO"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "County prioritizing tax revenue from emerging short-term rental market while establishing regulatory infrastructure through registry; framed as equity measure to level playing field with traditional hotels.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount mechanical extraction incomplete: corrected to $1 million annually",
+    "Onondaga County action, not direct City of Syracuse jurisdiction—may impact Syracuse constituents and tax base",
+    "Registry requirement creates data governance opportunity for CIO office regarding short-term rental inventory tracking",
+    "Software platform integration with third-party booking sites relevant to digital services infrastructure",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

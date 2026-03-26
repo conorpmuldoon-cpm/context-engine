@@ -1,0 +1,66 @@
+{
+  "record_id": "CTX-NEWS-2025-00367",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/blueprint-15-executive-director-resigns-as-children-rising-center-project-remains-paused-raquan-pride-green-syracuse-housing-authority-15th-ward-community",
+  "publication_date": "2025-07-17",
+  "capture_date": "2026-03-26T00:40:14Z",
+  "title": "Blueprint 15 Executive Director resigns as Children Rising Center project remains paused",
+  "summary": "Blueprint 15 Executive Director has resigned while the Children Rising Center project (valued at $35 million) remains paused. The resignation raises questions about project leadership capacity and oversight of concurrent responsibilities. This represents a significant leadership change affecting a major capital initiative in Syracuse.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "capital-planning",
+    "economic-development",
+    "housing",
+    "initiative-launch",
+    "escalating"
+  ],
+  "department_refs": [
+    "Syracuse Housing Authority"
+  ],
+  "entity_refs": [
+    {
+      "name": "Blueprint 15",
+      "type": "organization",
+      "canonical_id": "ORG-BLUEPRINT-15"
+    },
+    {
+      "name": "Children Rising Center",
+      "type": "system",
+      "canonical_id": "SYS-CHILDREN-RISING-CENTER"
+    },
+    {
+      "name": "Syracuse Housing Authority",
+      "type": "organization",
+      "canonical_id": "ORG-SHA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public commentary on executive leadership capacity and DEI hiring practices suggests constituent pressure and critical scrutiny of project governance and personnel decisions on a major $35M initiative.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-SHA-GOVERNANCE-CRISIS-2025"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content appears truncated in provided text; full executive director name and resignation date details not fully extracted",
+    "URL references 'Raquan Pride Green' and '15th ward community' - may indicate ward-specific impact",
+    "Comment section contains politically charged language regarding hiring practices; sentiment reflects public discourse, not neutral reporting",
+    "$35M project value is significant capital commitment requiring CIO awareness",
+    "Project pause status indicates active issue requiring stakeholder coordination",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

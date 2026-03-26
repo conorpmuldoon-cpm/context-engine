@@ -1,0 +1,87 @@
+{
+  "record_id": "CTX-NEWS-2025-00294",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/04/developer-shrinks-syracuse-apartment-project-near-i-81-for-second-time.html",
+  "publication_date": "2025-04-11",
+  "capture_date": "2026-03-24T09:34:03Z",
+  "title": "Developer shrinks Syracuse apartment project near I-81 for second time",
+  "summary": "Developer Christopher Geiger has reduced the Gateway Apartments project near I-81 for the second time, cutting units from 291 to 259 (11% reduction) due to ineligibility for expected state brownfield tax credits on the eastern portion of the site. The seven-story project at East Fayette and Almond streets remains on track as the first development along the Almond Street corridor post-I-81 demolition, though no groundbreaking is expected in 2025 pending investor financing.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "housing",
+    "land-use",
+    "historic-preservation",
+    "infrastructure",
+    "permits",
+    "brownfield-remediation",
+    "PROVISIONAL:I-81-viaduct-removal"
+  ],
+  "department_refs": [
+    "Department of Neighborhood & Business Development",
+    "Syracuse Industrial Development Agency"
+  ],
+  "entity_refs": [
+    {
+      "name": "Christopher Geiger",
+      "type": "person",
+      "canonical_id": "PERSON-CHRISTOPHER-GEIGER"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Eric Ennis",
+      "type": "person",
+      "canonical_id": "PERSON-ERIC-ENNIS"
+    },
+    {
+      "name": "Brian Bouchard",
+      "type": "person",
+      "canonical_id": "PERSON-BRIAN-BOUCHARD"
+    },
+    {
+      "name": "Gateway Apartments",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "New York Department of Transportation",
+      "type": "organization",
+      "canonical_id": "ORG-NYDOT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Project scaling represents adaptive management of I-81 corridor redevelopment strategy; developer pivoting based on state tax credit eligibility demonstrates market-driven iteration on flagship infrastructure replacement initiative.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00225"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts extracted ($129.8M project cost, $24M tax break request) validated in source text",
+    "Article truncated mid-sentence; full DOT timeline unavailable",
+    "Brownfield remediation component is critical context for CIO regarding environmental data governance and state interagency coordination",
+    "Syracuse Landmark Preservation Board involvement signals historic district considerations",
+    "AME Zion Church and XO Taco building preservation noted as project constraint",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Tag warning: Unknown tag 'permits' not in taxonomy",
+    "Tag warning: Unknown tag 'brownfield-remediation' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00225"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,76 @@
+{
+  "record_id": "CTX-NEWS-2025-00324",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/08/ny-attorney-general-ends-whistleblower-prompted-review-of-costly-syracuse-it-project.html?gift=e8c85e4d-6282-4a5a-9560-5896e3a0cae6",
+  "publication_date": "2025-08-08",
+  "capture_date": "2026-03-24T11:06:14Z",
+  "title": "NY Attorney General ends whistleblower-prompted review of costly Syracuse IT project",
+  "summary": "[Auto-generated] NY Attorney General ends whistleblower-prompted review of costly Syracuse IT project",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "fire-ems",
+    "hiring",
+    "parks-recreation",
+    "police",
+    "roads-bridges",
+    "technology-modernization"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Department of Human Resources",
+    "Department of Parks, Recreation and Youth Programs",
+    "Syracuse Fire Department",
+    "Syracuse Police Department",
+    "Department of Information Technology",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Alexander Marion",
+      "type": "person",
+      "canonical_id": "PERSON-MARION-AUDITOR"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-WALSH-MAYOR"
+    },
+    {
+      "name": "Greg Loh",
+      "type": "person",
+      "canonical_id": "PERSON-LOH-EXEC"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIVERSITY"
+    },
+    {
+      "name": "Bonadio Group",
+      "type": "organization",
+      "canonical_id": "ORG-BONADIO"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-PAYROLL-MODERNIZATION-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Mechanical extraction only — Failed to parse Claude response as JSON: Unterminated string starting at: line 93 column 5 (char 3431)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'fire-ems' not in taxonomy",
+    "Tag warning: Unknown tag 'parks-recreation' not in taxonomy",
+    "Tag warning: Unknown tag 'technology-modernization' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

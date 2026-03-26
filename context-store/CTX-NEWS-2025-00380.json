@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-NEWS-2025-00380",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/parents-feel-extra-safe-with-the-new-school-zone-spedometers",
+  "publication_date": "2025-09-02",
+  "capture_date": "2026-03-26T00:42:41Z",
+  "title": "Parents feel extra safe with the new school zone spedometers",
+  "summary": "Syracuse has installed speed-detection signs in school zones to enhance pedestrian safety as the school year begins. The devices display real-time speed warnings to drivers exceeding 25 MPH limits, with CNY Central's field test finding 60% of drivers speeding. After a 60-day grace period starting Wednesday, violations will incur $50 fines.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "public-safety",
+    "transportation",
+    "vision-zero",
+    "initiative-launch",
+    "policy-change",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Public Safety",
+    "Department of Transportation"
+  ],
+  "entity_refs": [
+    {
+      "name": "William Bennett",
+      "type": "person",
+      "canonical_id": "PERSON-WILLIAM-BENNETT"
+    },
+    {
+      "name": "Hannah Devanny",
+      "type": "person",
+      "canonical_id": "PERSON-HANNAH-DEVANNY"
+    },
+    {
+      "name": "CNY Central",
+      "type": "organization",
+      "canonical_id": "ORG-CNY-CENTRAL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Community safety initiative demonstrating proactive traffic enforcement in school zones; positive parental perception suggests constituent support for vision-zero-aligned speed management.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-SCHOOL-ZONE-CAMERAS-2025Q4"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on public perception and enforcement mechanism rather than procurement or IT infrastructure details",
+    "No budget impact documented beyond stated $50 fine amount",
+    "James Street location serves as example; full rollout scope unclear",
+    "Grace period end date determinable (60 days from Wednesday following Sept 1, 2025)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

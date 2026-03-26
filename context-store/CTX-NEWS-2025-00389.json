@@ -1,0 +1,60 @@
+{
+  "record_id": "CTX-NEWS-2025-00389",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.localsyr.com/news/local-news/steam-high-school-to-open-this-september-syracuse-city-school-district-says/",
+  "publication_date": "2025-06-30",
+  "capture_date": "2026-03-26T00:55:23Z",
+  "title": "STEAM High School to open this September, Syracuse City School District says",
+  "summary": "Syracuse City School District is launching STEAM High School in September 2025 with an initial cohort of 250 ninth-grade students, expanding to include tenth grade in subsequent years. The school will offer programs in civil engineering, robotics, data analytics, and performing arts, representing a significant initiative in workforce development and STEM education aligned with economic development priorities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "initiative-launch",
+    "workforce-development",
+    "economic-development",
+    "education",
+    "PROVISIONAL:STEAM-education"
+  ],
+  "department_refs": [
+    "Office of Analytics, Performance & Innovation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse City School District",
+      "type": "organization",
+      "canonical_id": "ORG-SCSD"
+    },
+    {
+      "name": "Erin Noto",
+      "type": "person",
+      "canonical_id": "PERSON-ERIN-NOTO"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "School district leadership is championing STEAM education as a strategic initiative to build 21st-century workforce competencies. This aligns with typical CIO priorities around innovation, data analytics capacity, and technology-enabled education.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-SCSD-GOVERNANCE-2025"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is announcement-focused with limited detail on technology infrastructure, budgets, or digital systems components relevant to CIO oversight",
+    "Data analytics program mentioned may require IT infrastructure assessment",
+    "No budget figures provided; recommend follow-up on capital/operational funding sources",
+    "Erin Noto identified as key contact for Career and Technical Education",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.localsyr.com)",
+    "Tag warning: Unknown tag 'education' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

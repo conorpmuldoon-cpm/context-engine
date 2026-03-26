@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2025-00357",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-landlord-argues-property-on-euclid-ave-should-not-be-consider-historic",
+  "publication_date": "2025-04-04",
+  "capture_date": "2026-03-26T00:37:18Z",
+  "title": "Syracuse landlord argues property on Euclid Ave. should not be consider historic",
+  "summary": "A Syracuse landlord is challenging the historic designation of a property on Euclid Avenue, arguing it should not receive historic preservation status. The article references an anecdotal comment about notable figures visiting the site, suggesting debate over the property's historical significance and its implications for the owner.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "historic-preservation",
+    "land-use",
+    "zoning",
+    "PROVISIONAL:property-designation",
+    "housing"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development",
+    "Planning Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Euclid Ave property owner",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Brandon Ladd",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Property owner opposing historic designation, likely due to restrictions on modifications or development potential that historic status entails.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content appears limited or truncated; reader comment about Biden/Mandela frisbee game appears to be unverified social media commentary rather than journalistic content",
+    "No specific City department, budget impact, or policy decision mentioned in available text",
+    "Lacks detail on designation timeline, approval status, or specific regulatory implications",
+    "May indicate emerging property-rights vs. preservation tension worth monitoring for policy implications",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,562 @@
+2026-03-24 10:56:16,775 [INFO] ============================================================
+2026-03-24 10:56:16,775 [INFO] SingleFile Importer starting
+2026-03-24 10:56:16,778 [INFO] Found 49 HTML files in Syracuse.com Manual Downloads\Batch 2 - Medium Priority
+2026-03-24 10:56:16,819 [INFO] New files to process: 49 (of 49 total)
+2026-03-24 10:56:20,190 [INFO] [1/49] Processing: 2 Syracuse politicians want to cut all ties with license plate reader company over privacy concerns - syracuse.com (3_24_2026 8：49：07 AM).html
+2026-03-24 10:56:20,190 [ERROR] [1/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\2 Syracuse politicians want to cut all ties with license plate reader company over privacy concerns - syracuse.com (3_24_2026 8：49：07 AM).html'
+2026-03-24 10:56:20,192 [INFO] [2/49] Processing: 88-unit apartment building proposed for Syracuse’s University Hill - syracuse.com (3_24_2026 9：31：40 AM).html
+2026-03-24 10:56:20,267 [INFO] [2/49] Extracted: 88-unit apartment building proposed for Syracuse’s University Hill
+2026-03-24 10:56:20,268 [INFO]   URL: https://www.syracuse.com/news/2025/12/88-unit-apartment-building-proposed-for-sy
+2026-03-24 10:56:20,268 [INFO]   Date: 2025-12-15 | Content: 2838 chars
+2026-03-24 10:56:20,269 [INFO] [2/49] [DRY RUN] Would save: 88-unit apartment building proposed for Syracuse’s University Hill
+2026-03-24 10:56:20,269 [INFO]   Entities: ['Syracuse University']
+2026-03-24 10:56:20,269 [INFO] [3/49] Processing: A blast, heroic rescues, painful recoveries： A home explosion destroys everything but a family - syracuse.com (3_24_2026 9：47：32 AM).html
+2026-03-24 10:56:20,269 [ERROR] [3/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\A blast, heroic rescues, painful recoveries： A home explosion destroys everything but a family - syracuse.com (3_24_2026 9：47：32 AM).html'
+2026-03-24 10:56:20,270 [INFO] [4/49] Processing: A cop’s trial is over, but Syracuse officials still can’t agree： Should they have settled？ - syracuse.com (3_24_2026 9：47：32 AM).html
+2026-03-24 10:56:20,270 [ERROR] [4/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\A cop’s trial is over, but Syracuse officials still can’t agree： Should they have settled？ - syracuse.com (3_24_2026 9：47：32 AM).html'
+2026-03-24 10:56:20,270 [INFO] [5/49] Processing: A Syracuse group is out as ShoppingTown developer, putting project in doubt - syracuse.com (3_24_2026 9：20：31 AM).html
+2026-03-24 10:56:20,320 [INFO] [5/49] Extracted: A Syracuse group is out as ShoppingTown developer, putting project in doubt
+2026-03-24 10:56:20,320 [INFO]   URL: https://www.syracuse.com/news/2025/10/a-syracuse-group-is-out-as-shoppingtown-de
+2026-03-24 10:56:20,320 [INFO]   Date: 2025-10-23 | Content: 4715 chars
+2026-03-24 10:56:20,322 [INFO] [5/49] [DRY RUN] Would save: A Syracuse group is out as ShoppingTown developer, putting project in doubt
+2026-03-24 10:56:20,322 [INFO]   Entities: ['Ryan McMahon', 'Micron Technology']
+2026-03-24 10:56:20,322 [INFO] [6/49] Processing: After 2 years, owner aims to rent apartments at the former Skyline Apartments within months - syracuse.com (3_24_2026 9：23：44 AM).html
+2026-03-24 10:56:20,322 [ERROR] [6/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\After 2 years, owner aims to rent apartments at the former Skyline Apartments within months - syracuse.com (3_24_2026 9：23：44 AM).html'
+2026-03-24 10:56:20,322 [INFO] [7/49] Processing: AMR agrees to share staff and response data in first ambulance contract in Syracuse history - syracuse.com (3_24_2026 8：47：43 AM).html
+2026-03-24 10:56:20,322 [ERROR] [7/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\AMR agrees to share staff and response data in first ambulance contract in Syracuse history - syracuse.com (3_24_2026 8：47：43 AM).html'
+2026-03-24 10:56:20,322 [INFO] [8/49] Processing: Bricks are falling from a smokestack at historic former Syracuse train station. City orders it razed - syracuse.com (3_24_2026 9：14：47 AM).html
+2026-03-24 10:56:20,322 [ERROR] [8/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\Bricks are falling from a smokestack at historic former Syracuse train station. City orders it razed - syracuse.com (3_24_2026 9：14：47 AM).html'
+2026-03-24 10:56:20,322 [INFO] [9/49] Processing: Carmelo Anthony visits Syracuse to launch his cannabis brand STAYME70 - syracuse.com (3_24_2026 9：47：28 AM).html
+2026-03-24 10:56:20,371 [INFO] [9/49] Extracted: Carmelo Anthony visits Syracuse to launch his cannabis brand STAYME70
+2026-03-24 10:56:20,371 [INFO]   URL: https://www.syracuse.com/news/2025/04/orange-basketball-legend-carmelo-anthony-l
+2026-03-24 10:56:20,371 [INFO]   Date: 2025-04-14 | Content: 2612 chars
+2026-03-24 10:56:20,373 [INFO] [9/49] [DRY RUN] Would save: Carmelo Anthony visits Syracuse to launch his cannabis brand STAYME70
+2026-03-24 10:56:20,373 [INFO]   Entities: []
+2026-03-24 10:56:20,373 [INFO] [10/49] Processing: City of Syracuse wins court order prohibiting illegal cannabis sales at North Side business - syracuse.com (3_24_2026 9：47：32 AM).html
+2026-03-24 10:56:20,373 [ERROR] [10/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\City of Syracuse wins court order prohibiting illegal cannabis sales at North Side business - syracuse.com (3_24_2026 9：47：32 AM).html'
+2026-03-24 10:56:20,373 [INFO] [11/49] Processing: City workers moved out to make way for apartments. Syracuse still owns the empty building 2 years later - syracuse.com (3_24_2026 9：23：41 AM).html
+2026-03-24 10:56:20,373 [ERROR] [11/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\City workers moved out to make way for apartments. Syracuse still owns the empty building 2 years later - syracuse.com (3_24_2026 9：23：41 AM).html'
+2026-03-24 10:56:20,373 [INFO] [12/49] Processing: Crews will start removing dozens of trees this month at historic Syracuse park - syracuse.com (3_24_2026 8：49：14 AM).html
+2026-03-24 10:56:21,624 [INFO] [12/49] Extracted: Crews will start removing dozens of trees this month at historic Syracuse park
+2026-03-24 10:56:21,624 [INFO]   URL: https://www.syracuse.com/news/2025/07/crews-will-start-removing-dozens-of-trees-
+2026-03-24 10:56:21,624 [INFO]   Date: 2025-07-07 | Content: 3087 chars
+2026-03-24 10:56:21,625 [INFO] [12/49] [DRY RUN] Would save: Crews will start removing dozens of trees this month at historic Syracuse park
+2026-03-24 10:56:21,625 [INFO]   Entities: ['Ben Walsh', 'Syracuse University']
+2026-03-24 10:56:21,625 [INFO] [13/49] Processing: Downtown building owner sues to pause work on massive new Syracuse hotel - syracuse.com (3_24_2026 9：42：24 AM).html
+2026-03-24 10:56:21,714 [INFO] [13/49] Extracted: Downtown building owner sues to pause work on massive new Syracuse hotel
+2026-03-24 10:56:21,714 [INFO]   URL: https://www.syracuse.com/business/2025/12/downtown-building-owner-sues-to-pause-
+2026-03-24 10:56:21,714 [INFO]   Date: 2025-12-02 | Content: 5013 chars
+2026-03-24 10:56:21,716 [INFO] [13/49] [DRY RUN] Would save: Downtown building owner sues to pause work on massive new Syracuse hotel
+2026-03-24 10:56:21,716 [INFO]   Entities: ['Syracuse University']
+2026-03-24 10:56:21,716 [INFO] [14/49] Processing: Dozens of new homes planned for vacant lots in poor Syracuse neighborhoods - syracuse.com (3_24_2026 8：47：44 AM).html
+2026-03-24 10:56:23,588 [INFO] [14/49] Extracted: Dozens of new homes planned for vacant lots in poor Syracuse neighborhoods
+2026-03-24 10:56:23,589 [INFO]   URL: https://www.syracuse.com/news/2025/03/dozens-of-new-homes-planned-for-vacant-lot
+2026-03-24 10:56:23,589 [INFO]   Date: 2025-03-27 | Content: 10000 chars
+2026-03-24 10:56:23,592 [INFO] [14/49] [DRY RUN] Would save: Dozens of new homes planned for vacant lots in poor Syracuse neighborhoods
+2026-03-24 10:56:23,592 [INFO]   Entities: ['Michael Collins', 'Ben Walsh', 'Home HeadQuarters']
+2026-03-24 10:56:23,592 [INFO] [15/49] Processing: Family of man fatally shot by Syracuse officer seeks new trial in lawsuit - syracuse.com (3_24_2026 8：59：06 AM).html
+2026-03-24 10:56:26,396 [INFO] [15/49] Extracted: Family of man fatally shot by Syracuse officer seeks new trial in lawsuit
+2026-03-24 10:56:26,397 [INFO]   URL: https://www.syracuse.com/news/2025/07/family-of-man-fatally-shot-by-syracuse-off
+2026-03-24 10:56:26,397 [INFO]   Date: 2025-07-07 | Content: 7376 chars
+2026-03-24 10:56:26,400 [INFO] [15/49] [DRY RUN] Would save: Family of man fatally shot by Syracuse officer seeks new trial in lawsuit
+2026-03-24 10:56:26,400 [INFO]   Entities: []
+2026-03-24 10:56:26,400 [INFO] [16/49] Processing: Family of man fatally shot by Syracuse officer seeks new trial in lawsuit - syracuse.com (3_24_2026 9：01：35 AM).html
+2026-03-24 10:56:28,606 [INFO] [16/49] Extracted: Family of man fatally shot by Syracuse officer seeks new trial in lawsuit
+2026-03-24 10:56:28,606 [INFO]   URL: https://www.syracuse.com/news/2025/07/family-of-man-fatally-shot-by-syracuse-off
+2026-03-24 10:56:28,606 [INFO]   Date: 2025-07-07 | Content: 6494 chars
+2026-03-24 10:56:28,609 [INFO] [16/49] [DRY RUN] Would save: Family of man fatally shot by Syracuse officer seeks new trial in lawsuit
+2026-03-24 10:56:28,609 [INFO]   Entities: []
+2026-03-24 10:56:28,609 [INFO] [17/49] Processing: Feds award Centro $9 million to buy buses for new Syracuse rapid transit lines - syracuse.com (3_24_2026 8：49：08 AM).html
+2026-03-24 10:56:29,449 [INFO] [17/49] Extracted: Feds award Centro $9 million to buy buses for new Syracuse rapid transit lines
+2026-03-24 10:56:29,449 [INFO]   URL: https://www.syracuse.com/politics/cny/2025/12/feds-award-centro-9-million-to-buy
+2026-03-24 10:56:29,449 [INFO]   Date: 2025-12-22 | Content: 3185 chars
+2026-03-24 10:56:29,451 [INFO] [17/49] [DRY RUN] Would save: Feds award Centro $9 million to buy buses for new Syracuse rapid transit lines
+2026-03-24 10:56:29,451 [INFO]   Entities: ['Ben Walsh', 'Syracuse University', 'Centro']
+2026-03-24 10:56:29,451 [INFO] [18/49] Processing: How ICE’s mostly unseen campaign in Syracuse breeds fear and resistance - syracuse.com (3_24_2026 9：32：20 AM).html
+2026-03-24 10:56:30,443 [INFO] [18/49] Extracted: How ICE’s mostly unseen campaign in Syracuse breeds fear and resistance
+2026-03-24 10:56:30,443 [INFO]   URL: https://www.syracuse.com/news/2025/12/how-ices-mostly-unseen-campaign-in-syracus
+2026-03-24 10:56:30,443 [INFO]   Date: 2025-12-01 | Content: 10000 chars
+2026-03-24 10:56:30,447 [INFO] [18/49] [DRY RUN] Would save: How ICE’s mostly unseen campaign in Syracuse breeds fear and resistance
+2026-03-24 10:56:30,447 [INFO]   Entities: []
+2026-03-24 10:56:30,447 [INFO] [19/49] Processing: Hundreds of Syracuse teachers, staff get shorted on pay after $11M tech project screwup - syracuse.com (3_24_2026 9：18：44 AM).html
+2026-03-24 10:56:30,448 [ERROR] [19/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\Hundreds of Syracuse teachers, staff get shorted on pay after $11M tech project screwup - syracuse.com (3_24_2026 9：18：44 AM).html'
+2026-03-24 10:56:30,448 [INFO] [20/49] Processing: If the Catholic Church can reappraise Columbus, so can we of Italian heritage (Your Letters) - syracuse.com (3_24_2026 9：40：24 AM).html
+2026-03-24 10:56:30,448 [ERROR] [20/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\If the Catholic Church can reappraise Columbus, so can we of Italian heritage (Your Letters) - syracuse.com (3_24_2026 9：40：24 AM).html'
+2026-03-24 10:56:30,448 [INFO] [21/49] Processing: Is Armory Square really so chaotic？ We spent 4 hours there Friday, here’s what we saw - syracuse.com (3_24_2026 8：52：57 AM).html
+2026-03-24 10:56:30,448 [ERROR] [21/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\Is Armory Square really so chaotic？ We spent 4 hours there Friday, here’s what we saw - syracuse.com (3_24_2026 8：52：57 AM).html'
+2026-03-24 10:56:30,448 [INFO] [22/49] Processing: Is Armory Square really so chaotic？ We spent 4 hours there Friday, here’s what we saw - syracuse.com (3_24_2026 9：01：39 AM).html
+2026-03-24 10:56:30,448 [ERROR] [22/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\Is Armory Square really so chaotic？ We spent 4 hours there Friday, here’s what we saw - syracuse.com (3_24_2026 9：01：39 AM).html'
+2026-03-24 10:56:30,448 [INFO] [23/49] Processing: Jury rules Syracuse officer used excessive force in Father’s Day shooting, but verdict likely to be overturned - syracuse.com (3_24_2026 9：47：31 AM).html
+2026-03-24 10:56:30,448 [ERROR] [23/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\Jury rules Syracuse officer used excessive force in Father’s Day shooting, but verdict likely to be overturned - syracuse.com (3_24_2026 9：47：31 AM).html'
+2026-03-24 10:56:30,448 [INFO] [24/49] Processing: Lawsuit dropped against big Armory Square building project, but the work is still on hold - syracuse.com (3_24_2026 9：17：44 AM).html
+2026-03-24 10:56:30,448 [ERROR] [24/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\Lawsuit dropped against big Armory Square building project, but the work is still on hold - syracuse.com (3_24_2026 9：17：44 AM).html'
+2026-03-24 10:56:30,448 [INFO] [25/49] Processing: Merchant： Syracuse can do better removing snow from downtown streets (Your Letters) - syracuse.com (3_24_2026 9：38：18 AM).html
+2026-03-24 10:56:30,489 [INFO] [25/49] Extracted: Merchant: Syracuse can do better removing snow from downtown streets (Your Lette
+2026-03-24 10:56:30,489 [INFO]   URL: https://www.syracuse.com/opinion/2025/12/merchant-syracuse-can-do-better-removin
+2026-03-24 10:56:30,489 [INFO]   Date: 2025-12-08 | Content: 1998 chars
+2026-03-24 10:56:30,490 [INFO] [25/49] [DRY RUN] Would save: Merchant: Syracuse can do better removing snow from downtown streets (Your Lette
+2026-03-24 10:56:30,490 [INFO]   Entities: []
+2026-03-24 10:56:30,490 [INFO] [26/49] Processing: NY Attorney General ends whistleblower-prompted review of costly Syracuse IT project - syracuse.com (3_24_2026 9：13：29 AM).html
+2026-03-24 10:56:32,138 [INFO] [26/49] Extracted: NY Attorney General ends whistleblower-prompted review of costly Syracuse IT pro
+2026-03-24 10:56:32,138 [INFO]   URL: https://www.syracuse.com/news/2025/08/ny-attorney-general-ends-whistleblower-pro
+2026-03-24 10:56:32,138 [INFO]   Date: 2025-08-08 | Content: 4751 chars
+2026-03-24 10:56:32,140 [INFO] [26/49] [DRY RUN] Would save: NY Attorney General ends whistleblower-prompted review of costly Syracuse IT pro
+2026-03-24 10:56:32,140 [INFO]   Entities: ['Alexander Marion', 'Ben Walsh', 'Greg Loh', 'Syracuse University', 'Bonadio Group']
+2026-03-24 10:56:32,140 [INFO] [27/49] Processing: NY puts off implementing law that would ban natural gas in new homes and buildings - syracuse.com (3_24_2026 9：31：25 AM).html
+2026-03-24 10:56:32,184 [INFO] [27/49] Extracted: NY puts off implementing law that would ban natural gas in new homes and buildin
+2026-03-24 10:56:32,184 [INFO]   URL: https://www.syracuse.com/news/2025/11/ny-puts-off-implementing-law-that-would-ba
+2026-03-24 10:56:32,184 [INFO]   Date: 2025-11-12 | Content: 5576 chars
+2026-03-24 10:56:32,186 [INFO] [27/49] [DRY RUN] Would save: NY puts off implementing law that would ban natural gas in new homes and buildin
+2026-03-24 10:56:32,186 [INFO]   Entities: ['National Grid']
+2026-03-24 10:56:32,186 [INFO] [28/49] Processing: Onondaga Lake restoration is far from finished (Your Letters) - syracuse.com (3_24_2026 9：31：36 AM).html
+2026-03-24 10:56:32,224 [INFO] [28/49] Extracted: Onondaga Lake restoration is far from finished (Your Letters)
+2026-03-24 10:56:32,224 [INFO]   URL: https://www.syracuse.com/opinion/2025/07/onondaga-lake-restoration-is-far-from-f
+2026-03-24 10:56:32,224 [INFO]   Date: 2025-07-21 | Content: 3221 chars
+2026-03-24 10:56:32,226 [INFO] [28/49] [DRY RUN] Would save: Onondaga Lake restoration is far from finished (Your Letters)
+2026-03-24 10:56:32,226 [INFO]   Entities: ['Ryan McMahon']
+2026-03-24 10:56:32,226 [INFO] [29/49] Processing: Owners of former Skyline Apartments in Syracuse hope to talk their way out of city’s lawsuit - syracuse.com (3_24_2026 9：36：41 AM).html
+2026-03-24 10:56:32,226 [ERROR] [29/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\Owners of former Skyline Apartments in Syracuse hope to talk their way out of city’s lawsuit - syracuse.com (3_24_2026 9：36：41 AM).html'
+2026-03-24 10:56:32,226 [INFO] [30/49] Processing: Project connects old trails to form 1-mile loop in historic Syracuse park - syracuse.com (3_24_2026 8：52：57 AM).html
+2026-03-24 10:56:34,314 [INFO] [30/49] Extracted: Project connects old trails to form 1-mile loop in historic Syracuse park
+2026-03-24 10:56:34,315 [INFO]   URL: https://www.syracuse.com/news/2025/07/project-connects-old-trails-to-form-1-mile
+2026-03-24 10:56:34,315 [INFO]   Date: 2025-07-17 | Content: 3265 chars
+2026-03-24 10:56:34,316 [INFO] [30/49] [DRY RUN] Would save: Project connects old trails to form 1-mile loop in historic Syracuse park
+2026-03-24 10:56:34,316 [INFO]   Entities: ['Syracuse University', 'Onondaga County Resource Recovery Agency']
+2026-03-24 10:56:34,316 [INFO] [31/49] Processing: Should Syracuse pay millions to fix historic steps？ (Good Morning CNY for Sept. 29) - syracuse.com (3_24_2026 9：17：42 AM).html
+2026-03-24 10:56:34,362 [INFO] [31/49] Extracted: Should Syracuse pay millions to fix historic steps? (Good Morning CNY for Sept. 
+2026-03-24 10:56:34,362 [INFO]   URL: https://www.syracuse.com/news/2025/09/should-syracuse-pay-millions-to-fix-histor
+2026-03-24 10:56:34,362 [INFO]   Date: 2025-09-29 | Content: 6157 chars
+2026-03-24 10:56:34,365 [INFO] [31/49] [DRY RUN] Would save: Should Syracuse pay millions to fix historic steps? (Good Morning CNY for Sept. 
+2026-03-24 10:56:34,365 [INFO]   Entities: []
+2026-03-24 10:56:34,365 [INFO] [32/49] Processing: Skyline Apartments owner promises to finish repairs soon in settlement with Syracuse - syracuse.com (3_24_2026 9：13：54 AM).html
+2026-03-24 10:56:37,770 [INFO] [32/49] Extracted: Skyline Apartments owner promises to finish repairs soon in settlement with Syra
+2026-03-24 10:56:37,770 [INFO]   URL: https://www.syracuse.com/news/2025/09/skyline-apartments-owner-promises-to-finis
+2026-03-24 10:56:37,770 [INFO]   Date: 2025-09-22 | Content: 6062 chars
+2026-03-24 10:56:37,772 [INFO] [32/49] [DRY RUN] Would save: Skyline Apartments owner promises to finish repairs soon in settlement with Syra
+2026-03-24 10:56:37,772 [INFO]   Entities: ['Ben Walsh', 'Syracuse University']
+2026-03-24 10:56:37,772 [INFO] [33/49] Processing: Syracuse airport isn’t showing Kristi Noem video that blames Democrats for shutdown - syracuse.com (3_24_2026 8：47：47 AM).html
+2026-03-24 10:56:38,503 [INFO] [33/49] Extracted: Syracuse airport isn’t showing Kristi Noem video that blames Democrats for shutd
+2026-03-24 10:56:38,503 [INFO]   URL: https://www.syracuse.com/politics/cny/2025/10/syracuse-airport-isnt-showing-kris
+2026-03-24 10:56:38,503 [INFO]   Date: 2025-10-14 | Content: 4033 chars
+2026-03-24 10:56:38,505 [INFO] [33/49] [DRY RUN] Would save: Syracuse airport isn’t showing Kristi Noem video that blames Democrats for shutd
+2026-03-24 10:56:38,505 [INFO]   Entities: []
+2026-03-24 10:56:38,505 [INFO] [34/49] Processing: Syracuse can’t afford to forgo millions of dollars in speeding tickets (Your Letters) - syracuse.com (3_24_2026 9：38：43 AM).html
+2026-03-24 10:56:38,505 [ERROR] [34/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\Syracuse can’t afford to forgo millions of dollars in speeding tickets (Your Letters) - syracuse.com (3_24_2026 9：38：43 AM).html'
+2026-03-24 10:56:38,505 [INFO] [35/49] Processing: Syracuse closes large city-owned downtown garage due to safety concerns - syracuse.com (3_24_2026 9：23：44 AM).html
+2026-03-24 10:56:38,564 [INFO] [35/49] Extracted: Syracuse closes large city-owned downtown garage due to safety concerns
+2026-03-24 10:56:38,564 [INFO]   URL: https://www.syracuse.com/news/2025/11/syracuse-closes-large-city-owned-downtown-
+2026-03-24 10:56:38,565 [INFO]   Date: 2025-11-06 | Content: 3948 chars
+2026-03-24 10:56:38,566 [INFO] [35/49] [DRY RUN] Would save: Syracuse closes large city-owned downtown garage due to safety concerns
+2026-03-24 10:56:38,566 [INFO]   Entities: ['Jake Dishaw']
+2026-03-24 10:56:38,566 [INFO] [36/49] Processing: Syracuse furniture retailer Dunk & Bright expanding with new store in Henrietta - syracuse.com (3_24_2026 9：38：44 AM).html
+2026-03-24 10:56:38,619 [INFO] [36/49] Extracted: Syracuse furniture retailer Dunk &amp; Bright expanding with new store in Henrie
+2026-03-24 10:56:38,619 [INFO]   URL: https://www.syracuse.com/business/2025/11/syracuse-furniture-retailer-expanding-
+2026-03-24 10:56:38,619 [INFO]   Date: 2025-11-13 | Content: 2449 chars
+2026-03-24 10:56:38,621 [INFO] [36/49] [DRY RUN] Would save: Syracuse furniture retailer Dunk &amp; Bright expanding with new store in Henrie
+2026-03-24 10:56:38,621 [INFO]   Entities: []
+2026-03-24 10:56:38,621 [INFO] [37/49] Processing: Syracuse launches online search tool of its vacant lots for sale - syracuse.com (3_24_2026 9：31：25 AM).html
+2026-03-24 10:56:38,648 [INFO] [37/49] Extracted: Syracuse launches online search tool of its vacant lots for sale
+2026-03-24 10:56:38,648 [INFO]   URL: https://www.syracuse.com/news/2025/11/syracuse-launches-online-search-tool-of-it
+2026-03-24 10:56:38,648 [INFO]   Date: 2025-11-12 | Content: 1691 chars
+2026-03-24 10:56:38,649 [INFO] [37/49] [DRY RUN] Would save: Syracuse launches online search tool of its vacant lots for sale
+2026-03-24 10:56:38,649 [INFO]   Entities: ['Ben Walsh', 'Syracuse University']
+2026-03-24 10:56:38,649 [INFO] [38/49] Processing: Syracuse neighbors fear commercial battery storage site could be dangerous - syracuse.com (3_24_2026 9：31：46 AM).html
+2026-03-24 10:56:38,680 [INFO] [38/49] Extracted: Syracuse neighbors fear commercial battery storage site could be dangerous
+2026-03-24 10:56:38,680 [INFO]   URL: https://www.syracuse.com/news/2025/12/syracuse-neighbors-fear-commercial-battery
+2026-03-24 10:56:38,680 [INFO]   Date: 2025-12-06 | Content: 5183 chars
+2026-03-24 10:56:38,682 [INFO] [38/49] [DRY RUN] Would save: Syracuse neighbors fear commercial battery storage site could be dangerous
+2026-03-24 10:56:38,683 [INFO]   Entities: ['Michael Monds', 'Pat Hogan']
+2026-03-24 10:56:38,683 [INFO] [39/49] Processing: Syracuse plans ‘clanker system’ to stop trucks from hitting Park Street bridge - syracuse.com (3_24_2026 9：31：38 AM).html
+2026-03-24 10:56:38,719 [INFO] [39/49] Extracted: Syracuse plans ‘clanker system’ to stop trucks from hitting Park Street bridge
+2026-03-24 10:56:38,719 [INFO]   URL: https://www.syracuse.com/news/2025/12/syracuse-plans-clanker-system-to-stop-truc
+2026-03-24 10:56:38,719 [INFO]   Date: 2025-12-10 | Content: 2722 chars
+2026-03-24 10:56:38,721 [INFO] [39/49] [DRY RUN] Would save: Syracuse plans ‘clanker system’ to stop trucks from hitting Park Street bridge
+2026-03-24 10:56:38,721 [INFO]   Entities: []
+2026-03-24 10:56:38,721 [INFO] [40/49] Processing: Syracuse sues company that was supposed to save Skyline Apartments, says they ‘failed to invest’ - syracuse.com (3_24_2026 9：38：09 AM).html
+2026-03-24 10:56:38,721 [ERROR] [40/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\Syracuse sues company that was supposed to save Skyline Apartments, says they ‘failed to invest’ - syracuse.com (3_24_2026 9：38：09 AM).html'
+2026-03-24 10:56:38,721 [INFO] [41/49] Processing: Syracuse’s largest apartment complex has spiraled downward. Tenants have had enough - syracuse.com (3_24_2026 9：17：39 AM).html
+2026-03-24 10:56:38,775 [INFO] [41/49] Extracted: Syracuse’s largest apartment complex has spiraled downward. Tenants have had eno
+2026-03-24 10:56:38,776 [INFO]   URL: https://www.syracuse.com/news/2025/08/syracuses-largest-apartment-complex-has-sp
+2026-03-24 10:56:38,776 [INFO]   Date: 2025-08-27 | Content: 6406 chars
+2026-03-24 10:56:38,779 [INFO] [41/49] [DRY RUN] Would save: Syracuse’s largest apartment complex has spiraled downward. Tenants have had eno
+2026-03-24 10:56:38,779 [INFO]   Entities: []
+2026-03-24 10:56:38,779 [INFO] [42/49] Processing: Syracuse’s new snowplows have been on the road for weeks. Now they have their names - syracuse.com (3_24_2026 9：31：26 AM).html
+2026-03-24 10:56:38,829 [INFO] [42/49] Extracted: Syracuse’s new snowplows have been on the road for weeks. Now they have their na
+2026-03-24 10:56:38,829 [INFO]   URL: https://www.syracuse.com/news/2025/12/syracuses-new-snowplows-have-been-on-the-r
+2026-03-24 10:56:38,829 [INFO]   Date: 2025-12-16 | Content: 1070 chars
+2026-03-24 10:56:38,829 [INFO] [42/49] [DRY RUN] Would save: Syracuse’s new snowplows have been on the road for weeks. Now they have their na
+2026-03-24 10:56:38,829 [INFO]   Entities: ['Ben Walsh']
+2026-03-24 10:56:38,829 [INFO] [43/49] Processing: Syracuse’s painful employment gap for Blacks and Hispanics： What can be done？ - syracuse.com (3_24_2026 9：38：27 AM).html
+2026-03-24 10:56:38,863 [INFO] [43/49] Extracted: Syracuse’s painful employment gap for Blacks and Hispanics: What can be done?
+2026-03-24 10:56:38,864 [INFO]   URL: https://www.syracuse.com/business/2025/12/syracuses-painful-employment-gap-for-b
+2026-03-24 10:56:38,864 [INFO]   Date: 2025-12-12 | Content: 7340 chars
+2026-03-24 10:56:38,868 [INFO] [43/49] [DRY RUN] Would save: Syracuse’s painful employment gap for Blacks and Hispanics: What can be done?
+2026-03-24 10:56:38,868 [INFO]   Entities: ['Micron Technology', 'CenterState CEO']
+2026-03-24 10:56:38,868 [INFO] [44/49] Processing: The City of Syracuse wants to sell a prime site worth millions. What’s taking so long？ - syracuse.com (3_24_2026 9：47：51 AM).html
+2026-03-24 10:56:38,868 [ERROR] [44/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\The City of Syracuse wants to sell a prime site worth millions. What’s taking so long？ - syracuse.com (3_24_2026 9：47：51 AM).html'
+2026-03-24 10:56:38,868 [INFO] [45/49] Processing: The Syracuse Prize： $10K award will go to one resident who has enriched the city — is it you？ - syracuse.com (3_24_2026 8：49：09 AM).html
+2026-03-24 10:56:38,868 [ERROR] [45/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\The Syracuse Prize： $10K award will go to one resident who has enriched the city — is it you？ - syracuse.com (3_24_2026 8：49：09 AM).html'
+2026-03-24 10:56:38,869 [INFO] [46/49] Processing: Two projects would bring over 125 apartments to one of Syracuse’s poorest areas - syracuse.com (3_24_2026 9：14：08 AM).html
+2026-03-24 10:56:42,036 [INFO] [46/49] Extracted: Two projects would bring over 125 apartments to one of Syracuse’s poorest areas
+2026-03-24 10:56:42,036 [INFO]   URL: https://www.syracuse.com/news/2025/09/two-projects-would-bring-over-125-apartmen
+2026-03-24 10:56:42,036 [INFO]   Date: 2025-09-09 | Content: 8622 chars
+2026-03-24 10:56:42,040 [INFO] [46/49] [DRY RUN] Would save: Two projects would bring over 125 apartments to one of Syracuse’s poorest areas
+2026-03-24 10:56:42,040 [INFO]   Entities: ['Syracuse University']
+2026-03-24 10:56:42,040 [INFO] [47/49] Processing: Vacant Syracuse houses burn down at alarming rate. Can city predict and prevent them？ - syracuse.com (3_24_2026 8：52：58 AM).html
+2026-03-24 10:56:42,040 [ERROR] [47/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\Vacant Syracuse houses burn down at alarming rate. Can city predict and prevent them？ - syracuse.com (3_24_2026 8：52：58 AM).html'
+2026-03-24 10:56:42,040 [INFO] [48/49] Processing: Van Robinson, long-time Syracuse politician and advocate for city’s Black community, dies at 87 - syracuse.com (3_24_2026 9：47：32 AM).html
+2026-03-24 10:56:42,040 [ERROR] [48/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\Van Robinson, long-time Syracuse politician and advocate for city’s Black community, dies at 87 - syracuse.com (3_24_2026 9：47：32 AM).html'
+2026-03-24 10:56:42,040 [INFO] [49/49] Processing: Why did Syracuse’s airport reject Kristi Noem’s video？ A no-politics policy, it seems - syracuse.com (3_24_2026 8：47：48 AM).html
+2026-03-24 10:56:42,040 [ERROR] [49/49] Read error: [Errno 2] No such file or directory: 'Syracuse.com Manual Downloads\\Batch 2 - Medium Priority\\Why did Syracuse’s airport reject Kristi Noem’s video？ A no-politics policy, it seems - syracuse.com (3_24_2026 8：47：48 AM).html'
+2026-03-24 10:56:42,040 [INFO] SingleFile Importer — 2026-03-24 10:56
+==================================================
+HTML files found: 49
+Already processed: 0
+Attempted this run: 49
+Could not extract: 0
+Filtered (not relevant): 0
+Saved as records: 0
+Errors: 22
+
+2026-03-24 11:02:29,957 [INFO] ============================================================
+2026-03-24 11:02:29,957 [INFO] SingleFile Importer starting
+2026-03-24 11:02:29,958 [INFO] Found 49 HTML files in C:\tmp\b2
+2026-03-24 11:02:29,959 [INFO] New files to process: 49 (of 49 total)
+2026-03-24 11:02:30,036 [INFO] [1/49] Processing: 2 Syracuse politicians want to cut all ties with license plate reader company over privacy concerns - syracuse.com (3_24_2026 8：49：07 AM).html
+2026-03-24 11:02:30,056 [INFO] [1/49] Extracted: 2 Syracuse politicians want to cut all ties with license plate reader company ov
+2026-03-24 11:02:30,057 [INFO]   URL: https://www.syracuse.com/politics/cny/2025/11/2-syracuse-politicians-want-to-cut
+2026-03-24 11:02:30,057 [INFO]   Date: 2025-11-14 | Content: 6325 chars
+2026-03-24 11:02:39,005 [WARNING]   Tag issue: Unknown tag 'privacy' not in taxonomy
+2026-03-24 11:02:39,014 [INFO]   Saved: CTX-NEWS-2025-00300 -> CTX-NEWS-2025-00300.json
+2026-03-24 11:02:39,014 [INFO] [2/49] Processing: 88-unit apartment building proposed for Syracuse’s University Hill - syracuse.com (3_24_2026 9：31：40 AM).html
+2026-03-24 11:02:39,081 [INFO] [2/49] Extracted: 88-unit apartment building proposed for Syracuse’s University Hill
+2026-03-24 11:02:39,082 [INFO]   URL: https://www.syracuse.com/news/2025/12/88-unit-apartment-building-proposed-for-sy
+2026-03-24 11:02:39,082 [INFO]   Date: 2025-12-15 | Content: 2838 chars
+2026-03-24 11:02:48,294 [INFO]   Saved: CTX-NEWS-2025-00301 -> CTX-NEWS-2025-00301.json
+2026-03-24 11:02:48,294 [INFO] [3/49] Processing: A blast, heroic rescues, painful recoveries： A home explosion destroys everything but a family - syracuse.com (3_24_2026 9：47：32 AM).html
+2026-03-24 11:02:48,413 [INFO] [3/49] Could not extract content — skipping
+2026-03-24 11:02:48,413 [INFO] [4/49] Processing: A cop’s trial is over, but Syracuse officials still can’t agree： Should they have settled？ - syracuse.com (3_24_2026 9：47：32 AM).html
+2026-03-24 11:02:48,447 [INFO] [4/49] Extracted: A cop’s trial is over, but Syracuse officials still can’t agree: Should they hav
+2026-03-24 11:02:48,447 [INFO]   URL: https://www.syracuse.com/news/2025/05/a-cops-trial-is-over-but-syracuse-official
+2026-03-24 11:02:48,447 [INFO]   Date: 2025-05-28 | Content: 6372 chars
+2026-03-24 11:02:58,630 [WARNING]   Tag issue: Unknown tag 'litigation' not in taxonomy
+2026-03-24 11:02:58,651 [INFO]   Dedup match: CTX-NEWS-2025-00045
+2026-03-24 11:02:58,653 [INFO]   Saved: CTX-NEWS-2025-00302 -> CTX-NEWS-2025-00302.json
+2026-03-24 11:02:58,653 [INFO] [5/49] Processing: A Syracuse group is out as ShoppingTown developer, putting project in doubt - syracuse.com (3_24_2026 9：20：31 AM).html
+2026-03-24 11:02:58,702 [INFO] [5/49] Extracted: A Syracuse group is out as ShoppingTown developer, putting project in doubt
+2026-03-24 11:02:58,702 [INFO]   URL: https://www.syracuse.com/news/2025/10/a-syracuse-group-is-out-as-shoppingtown-de
+2026-03-24 11:02:58,702 [INFO]   Date: 2025-10-23 | Content: 4715 chars
+2026-03-24 11:03:08,168 [INFO]   Saved: CTX-NEWS-2025-00303 -> CTX-NEWS-2025-00303.json
+2026-03-24 11:03:08,168 [INFO] [6/49] Processing: After 2 years, owner aims to rent apartments at the former Skyline Apartments within months - syracuse.com (3_24_2026 9：23：44 AM).html
+2026-03-24 11:03:08,212 [INFO] [6/49] Extracted: After 2 years, owner aims to rent apartments at the former Skyline Apartments wi
+2026-03-24 11:03:08,212 [INFO]   URL: https://www.syracuse.com/news/2025/10/after-2-years-owner-aims-to-rent-apartment
+2026-03-24 11:03:08,212 [INFO]   Date: 2025-10-21 | Content: 5476 chars
+2026-03-24 11:03:19,005 [WARNING]   Tag issue: Unknown tag 'settlement' not in taxonomy
+2026-03-24 11:03:19,011 [INFO]   Dedup match: CTX-NEWS-2025-00141
+2026-03-24 11:03:19,014 [INFO]   Saved: CTX-NEWS-2025-00304 -> CTX-NEWS-2025-00304.json
+2026-03-24 11:03:19,014 [INFO] [7/49] Processing: AMR agrees to share staff and response data in first ambulance contract in Syracuse history - syracuse.com (3_24_2026 8：47：43 AM).html
+2026-03-24 11:03:19,030 [INFO] [7/49] Extracted: AMR agrees to share staff and response data in first ambulance contract in Syrac
+2026-03-24 11:03:19,030 [INFO]   URL: https://www.syracuse.com/health/2025/09/amr-agrees-to-share-staff-and-response-d
+2026-03-24 11:03:19,030 [INFO]   Date: 2025-09-03 | Content: 3707 chars
+2026-03-24 11:03:26,794 [INFO]   Dedup match: CTX-NEWS-2025-00266
+2026-03-24 11:03:26,797 [INFO]   Saved: CTX-NEWS-2025-00305 -> CTX-NEWS-2025-00305.json
+2026-03-24 11:03:26,797 [INFO] [8/49] Processing: Bricks are falling from a smokestack at historic former Syracuse train station. City orders it razed - syracuse.com (3_24_2026 9：14：47 AM).html
+2026-03-24 11:03:26,857 [INFO] [8/49] Extracted: Bricks are falling from a smokestack at historic former Syracuse train station. 
+2026-03-24 11:03:26,858 [INFO]   URL: https://www.syracuse.com/news/2025/08/bricks-are-falling-from-a-smokestack-at-hi
+2026-03-24 11:03:26,858 [INFO]   Date: 2025-08-13 | Content: 6788 chars
+2026-03-24 11:03:35,700 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-24 11:03:35,706 [INFO]   Dedup match: CTX-NEWS-2025-00198
+2026-03-24 11:03:35,708 [INFO]   Saved: CTX-NEWS-2025-00306 -> CTX-NEWS-2025-00306.json
+2026-03-24 11:03:35,708 [INFO] [9/49] Processing: Carmelo Anthony visits Syracuse to launch his cannabis brand STAYME70 - syracuse.com (3_24_2026 9：47：28 AM).html
+2026-03-24 11:03:35,741 [INFO] [9/49] Extracted: Carmelo Anthony visits Syracuse to launch his cannabis brand STAYME70
+2026-03-24 11:03:35,742 [INFO]   URL: https://www.syracuse.com/news/2025/04/orange-basketball-legend-carmelo-anthony-l
+2026-03-24 11:03:35,742 [INFO]   Date: 2025-04-14 | Content: 2612 chars
+2026-03-24 11:03:43,596 [INFO]   Saved: CTX-NEWS-2025-00307 -> CTX-NEWS-2025-00307.json
+2026-03-24 11:03:43,596 [INFO] [10/49] Processing: City of Syracuse wins court order prohibiting illegal cannabis sales at North Side business - syracuse.com (3_24_2026 9：47：32 AM).html
+2026-03-24 11:03:43,637 [INFO] [10/49] Extracted: City of Syracuse wins court order prohibiting illegal cannabis sales at North Si
+2026-03-24 11:03:43,637 [INFO]   URL: https://www.syracuse.com/news/2025/06/city-of-syracuse-wins-court-order-prohibit
+2026-03-24 11:03:43,637 [INFO]   Date: 2025-06-27 | Content: 4921 chars
+2026-03-24 11:03:51,879 [WARNING]   Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-03-24 11:03:51,885 [INFO]   Dedup match: CTX-NEWS-2025-00065
+2026-03-24 11:03:51,887 [INFO]   Saved: CTX-NEWS-2025-00308 -> CTX-NEWS-2025-00308.json
+2026-03-24 11:03:51,887 [INFO] [11/49] Processing: City workers moved out to make way for apartments. Syracuse still owns the empty building 2 years later - syracuse.com (3_24_2026 9：23：41 AM).html
+2026-03-24 11:03:51,960 [INFO] [11/49] Extracted: City workers moved out to make way for apartments. Syracuse still owns the empty
+2026-03-24 11:03:51,960 [INFO]   URL: https://www.syracuse.com/news/2025/11/city-workers-moved-out-to-make-way-for-apa
+2026-03-24 11:03:51,960 [INFO]   Date: 2025-11-06 | Content: 7085 chars
+2026-03-24 11:04:03,038 [INFO]   Saved: CTX-NEWS-2025-00309 -> CTX-NEWS-2025-00309.json
+2026-03-24 11:04:03,038 [INFO] [12/49] Processing: Crews will start removing dozens of trees this month at historic Syracuse park - syracuse.com (3_24_2026 8：49：14 AM).html
+2026-03-24 11:04:03,068 [INFO] [12/49] Extracted: Crews will start removing dozens of trees this month at historic Syracuse park
+2026-03-24 11:04:03,068 [INFO]   URL: https://www.syracuse.com/news/2025/07/crews-will-start-removing-dozens-of-trees-
+2026-03-24 11:04:03,068 [INFO]   Date: 2025-07-07 | Content: 3087 chars
+2026-03-24 11:04:10,617 [WARNING]   Tag issue: Unknown tag 'community-engagement' not in taxonomy
+2026-03-24 11:04:10,625 [INFO]   Saved: CTX-NEWS-2025-00310 -> CTX-NEWS-2025-00310.json
+2026-03-24 11:04:10,625 [INFO] [13/49] Processing: Downtown building owner sues to pause work on massive new Syracuse hotel - syracuse.com (3_24_2026 9：42：24 AM).html
+2026-03-24 11:04:10,711 [INFO] [13/49] Extracted: Downtown building owner sues to pause work on massive new Syracuse hotel
+2026-03-24 11:04:10,711 [INFO]   URL: https://www.syracuse.com/business/2025/12/downtown-building-owner-sues-to-pause-
+2026-03-24 11:04:10,711 [INFO]   Date: 2025-12-02 | Content: 5013 chars
+2026-03-24 11:04:20,964 [WARNING]   Tag issue: Unknown tag 'litigation' not in taxonomy
+2026-03-24 11:04:20,972 [INFO]   Saved: CTX-NEWS-2025-00311 -> CTX-NEWS-2025-00311.json
+2026-03-24 11:04:20,972 [INFO] [14/49] Processing: Dozens of new homes planned for vacant lots in poor Syracuse neighborhoods - syracuse.com (3_24_2026 8：47：44 AM).html
+2026-03-24 11:04:21,076 [INFO] [14/49] Extracted: Dozens of new homes planned for vacant lots in poor Syracuse neighborhoods
+2026-03-24 11:04:21,076 [INFO]   URL: https://www.syracuse.com/news/2025/03/dozens-of-new-homes-planned-for-vacant-lot
+2026-03-24 11:04:21,077 [INFO]   Date: 2025-03-27 | Content: 10000 chars
+2026-03-24 11:04:29,572 [INFO]   Saved: CTX-NEWS-2025-00312 -> CTX-NEWS-2025-00312.json
+2026-03-24 11:04:29,572 [INFO] [15/49] Processing: Family of man fatally shot by Syracuse officer seeks new trial in lawsuit - syracuse.com (3_24_2026 8：59：06 AM).html
+2026-03-24 11:04:29,657 [INFO] [15/49] Extracted: Family of man fatally shot by Syracuse officer seeks new trial in lawsuit
+2026-03-24 11:04:29,657 [INFO]   URL: https://www.syracuse.com/news/2025/07/family-of-man-fatally-shot-by-syracuse-off
+2026-03-24 11:04:29,657 [INFO]   Date: 2025-07-07 | Content: 7376 chars
+2026-03-24 11:04:37,463 [INFO]   Saved: CTX-NEWS-2025-00313 -> CTX-NEWS-2025-00313.json
+2026-03-24 11:04:37,463 [INFO] [16/49] Processing: Family of man fatally shot by Syracuse officer seeks new trial in lawsuit - syracuse.com (3_24_2026 9：01：35 AM).html
+2026-03-24 11:04:37,518 [INFO] [16/49] Extracted: Family of man fatally shot by Syracuse officer seeks new trial in lawsuit
+2026-03-24 11:04:37,518 [INFO]   URL: https://www.syracuse.com/news/2025/07/family-of-man-fatally-shot-by-syracuse-off
+2026-03-24 11:04:37,518 [INFO]   Date: 2025-07-07 | Content: 6494 chars
+2026-03-24 11:04:45,036 [INFO]   Dedup match: CTX-NEWS-2025-00313
+2026-03-24 11:04:45,038 [INFO]   Saved: CTX-NEWS-2025-00314 -> CTX-NEWS-2025-00314.json
+2026-03-24 11:04:45,038 [INFO] [17/49] Processing: Feds award Centro $9 million to buy buses for new Syracuse rapid transit lines - syracuse.com (3_24_2026 8：49：08 AM).html
+2026-03-24 11:04:45,057 [INFO] [17/49] Extracted: Feds award Centro $9 million to buy buses for new Syracuse rapid transit lines
+2026-03-24 11:04:45,057 [INFO]   URL: https://www.syracuse.com/politics/cny/2025/12/feds-award-centro-9-million-to-buy
+2026-03-24 11:04:45,057 [INFO]   Date: 2025-12-22 | Content: 3185 chars
+2026-03-24 11:04:53,943 [INFO]   Saved: CTX-NEWS-2025-00315 -> CTX-NEWS-2025-00315.json
+2026-03-24 11:04:53,944 [INFO] [18/49] Processing: How ICE’s mostly unseen campaign in Syracuse breeds fear and resistance - syracuse.com (3_24_2026 9：32：20 AM).html
+2026-03-24 11:04:54,964 [INFO] [18/49] Extracted: How ICE’s mostly unseen campaign in Syracuse breeds fear and resistance
+2026-03-24 11:04:54,965 [INFO]   URL: https://www.syracuse.com/news/2025/12/how-ices-mostly-unseen-campaign-in-syracus
+2026-03-24 11:04:54,965 [INFO]   Date: 2025-12-01 | Content: 10000 chars
+2026-03-24 11:05:04,399 [INFO]   Saved: CTX-NEWS-2025-00316 -> CTX-NEWS-2025-00316.json
+2026-03-24 11:05:04,399 [INFO] [19/49] Processing: Hundreds of Syracuse teachers, staff get shorted on pay after $11M tech project screwup - syracuse.com (3_24_2026 9：18：44 AM).html
+2026-03-24 11:05:05,765 [INFO] [19/49] Extracted: Hundreds of Syracuse teachers, staff get shorted on pay after $11M tech project 
+2026-03-24 11:05:05,765 [INFO]   URL: https://www.syracuse.com/news/2025/10/hundreds-of-syracuse-teachers-staff-get-sh
+2026-03-24 11:05:05,765 [INFO]   Date: 2025-10-14 | Content: 7035 chars
+2026-03-24 11:05:15,342 [INFO]   Saved: CTX-NEWS-2025-00317 -> CTX-NEWS-2025-00317.json
+2026-03-24 11:05:15,342 [INFO] [20/49] Processing: If the Catholic Church can reappraise Columbus, so can we of Italian heritage (Your Letters) - syracuse.com (3_24_2026 9：40：24 AM).html
+2026-03-24 11:05:15,381 [INFO] [20/49] Extracted: If the Catholic Church can reappraise Columbus, so can we of Italian heritage (Y
+2026-03-24 11:05:15,381 [INFO]   URL: https://www.syracuse.com/opinion/2025/10/if-the-catholic-church-can-reappraise-c
+2026-03-24 11:05:15,381 [INFO]   Date: 2025-10-09 | Content: 3737 chars
+2026-03-24 11:05:23,611 [WARNING]   Tag issue: Unknown tag 'community-engagement' not in taxonomy
+2026-03-24 11:05:23,639 [INFO]   Saved: CTX-NEWS-2025-00318 -> CTX-NEWS-2025-00318.json
+2026-03-24 11:05:23,639 [INFO] [21/49] Processing: Is Armory Square really so chaotic？ We spent 4 hours there Friday, here’s what we saw - syracuse.com (3_24_2026 8：52：57 AM).html
+2026-03-24 11:05:23,690 [INFO] [21/49] Extracted: Is Armory Square really so chaotic? We spent 4 hours there Friday, here’s what w
+2026-03-24 11:05:23,690 [INFO]   URL: https://www.syracuse.com/news/2025/07/is-armory-square-really-so-chaotic-we-spen
+2026-03-24 11:05:23,690 [INFO]   Date: 2025-07-24 | Content: 1149 chars
+2026-03-24 11:05:31,045 [INFO]   Saved: CTX-NEWS-2025-00319 -> CTX-NEWS-2025-00319.json
+2026-03-24 11:05:31,045 [INFO] [22/49] Processing: Is Armory Square really so chaotic？ We spent 4 hours there Friday, here’s what we saw - syracuse.com (3_24_2026 9：01：39 AM).html
+2026-03-24 11:05:31,084 [INFO] [22/49] Extracted: Is Armory Square really so chaotic? We spent 4 hours there Friday, here’s what w
+2026-03-24 11:05:31,085 [INFO]   URL: https://www.syracuse.com/news/2025/07/is-armory-square-really-so-chaotic-we-spen
+2026-03-24 11:05:31,085 [INFO]   Date: 2025-07-24 | Content: 1149 chars
+2026-03-24 11:05:38,505 [INFO]   Dedup match: CTX-NEWS-2025-00319
+2026-03-24 11:05:38,511 [INFO]   Saved: CTX-NEWS-2025-00320 -> CTX-NEWS-2025-00320.json
+2026-03-24 11:05:38,511 [INFO] [23/49] Processing: Jury rules Syracuse officer used excessive force in Father’s Day shooting, but verdict likely to be overturned - syracuse.com (3_24_2026 9：47：31 AM).html
+2026-03-24 11:05:38,597 [INFO] [23/49] Extracted: Jury rules Syracuse officer used excessive force in Father’s Day shooting, but v
+2026-03-24 11:05:38,598 [INFO]   URL: https://www.syracuse.com/news/2025/05/jury-rules-syracuse-officer-used-excessive
+2026-03-24 11:05:38,598 [INFO]   Date: 2025-05-23 | Content: 8574 chars
+2026-03-24 11:05:47,393 [WARNING]   Tag issue: Unknown tag 'litigation' not in taxonomy
+2026-03-24 11:05:47,406 [INFO]   Saved: CTX-NEWS-2025-00321 -> CTX-NEWS-2025-00321.json
+2026-03-24 11:05:47,406 [INFO] [24/49] Processing: Lawsuit dropped against big Armory Square building project, but the work is still on hold - syracuse.com (3_24_2026 9：17：44 AM).html
+2026-03-24 11:05:47,470 [INFO] [24/49] Extracted: Lawsuit dropped against big Armory Square building project, but the work is stil
+2026-03-24 11:05:47,470 [INFO]   URL: https://www.syracuse.com/news/2025/08/lawsuit-dropped-against-big-armory-square-
+2026-03-24 11:05:47,471 [INFO]   Date: 2025-08-28 | Content: 4437 chars
+2026-03-24 11:05:56,210 [INFO]   Saved: CTX-NEWS-2025-00322 -> CTX-NEWS-2025-00322.json
+2026-03-24 11:05:56,210 [INFO] [25/49] Processing: Merchant： Syracuse can do better removing snow from downtown streets (Your Letters) - syracuse.com (3_24_2026 9：38：18 AM).html
+2026-03-24 11:05:56,252 [INFO] [25/49] Extracted: Merchant: Syracuse can do better removing snow from downtown streets (Your Lette
+2026-03-24 11:05:56,252 [INFO]   URL: https://www.syracuse.com/opinion/2025/12/merchant-syracuse-can-do-better-removin
+2026-03-24 11:05:56,252 [INFO]   Date: 2025-12-08 | Content: 1998 chars
+2026-03-24 11:06:03,466 [WARNING]   Tag issue: Unknown tag 'downtown-syracuse' not in taxonomy
+2026-03-24 11:06:03,493 [INFO]   Saved: CTX-NEWS-2025-00323 -> CTX-NEWS-2025-00323.json
+2026-03-24 11:06:03,494 [INFO] [26/49] Processing: NY Attorney General ends whistleblower-prompted review of costly Syracuse IT project - syracuse.com (3_24_2026 9：13：29 AM).html
+2026-03-24 11:06:03,723 [INFO] [26/49] Extracted: NY Attorney General ends whistleblower-prompted review of costly Syracuse IT pro
+2026-03-24 11:06:03,723 [INFO]   URL: https://www.syracuse.com/news/2025/08/ny-attorney-general-ends-whistleblower-pro
+2026-03-24 11:06:03,723 [INFO]   Date: 2025-08-08 | Content: 4751 chars
+2026-03-24 11:06:14,619 [WARNING] Failed to parse Claude response as JSON: Unterminated string starting at: line 93 column 5 (char 3431)
+2026-03-24 11:06:14,630 [WARNING]   Tag issue: Unknown tag 'fire-ems' not in taxonomy
+2026-03-24 11:06:14,630 [WARNING]   Tag issue: Unknown tag 'parks-recreation' not in taxonomy
+2026-03-24 11:06:14,630 [WARNING]   Tag issue: Unknown tag 'technology-modernization' not in taxonomy
+2026-03-24 11:06:14,657 [INFO]   Saved: CTX-NEWS-2025-00324 -> CTX-NEWS-2025-00324.json
+2026-03-24 11:06:14,657 [INFO] [27/49] Processing: NY puts off implementing law that would ban natural gas in new homes and buildings - syracuse.com (3_24_2026 9：31：25 AM).html
+2026-03-24 11:06:14,728 [INFO] [27/49] Extracted: NY puts off implementing law that would ban natural gas in new homes and buildin
+2026-03-24 11:06:14,728 [INFO]   URL: https://www.syracuse.com/news/2025/11/ny-puts-off-implementing-law-that-would-ba
+2026-03-24 11:06:14,728 [INFO]   Date: 2025-11-12 | Content: 5576 chars
+2026-03-24 11:06:23,653 [INFO]   Saved: CTX-NEWS-2025-00325 -> CTX-NEWS-2025-00325.json
+2026-03-24 11:06:23,653 [INFO] [28/49] Processing: Onondaga Lake restoration is far from finished (Your Letters) - syracuse.com (3_24_2026 9：31：36 AM).html
+2026-03-24 11:06:23,711 [INFO] [28/49] Extracted: Onondaga Lake restoration is far from finished (Your Letters)
+2026-03-24 11:06:23,711 [INFO]   URL: https://www.syracuse.com/opinion/2025/07/onondaga-lake-restoration-is-far-from-f
+2026-03-24 11:06:23,712 [INFO]   Date: 2025-07-21 | Content: 3221 chars
+2026-03-24 11:06:31,150 [WARNING]   Tag issue: Unknown tag 'environmental-remediation' not in taxonomy
+2026-03-24 11:06:31,183 [INFO]   Saved: CTX-NEWS-2025-00326 -> CTX-NEWS-2025-00326.json
+2026-03-24 11:06:31,183 [INFO] [29/49] Processing: Owners of former Skyline Apartments in Syracuse hope to talk their way out of city’s lawsuit - syracuse.com (3_24_2026 9：36：41 AM).html
+2026-03-24 11:06:31,302 [INFO] [29/49] Extracted: Owners of former Skyline Apartments in Syracuse hope to talk their way out of ci
+2026-03-24 11:06:31,302 [INFO]   URL: https://www.syracuse.com/news/2025/04/owners-of-former-skyline-apartments-in-syr
+2026-03-24 11:06:31,303 [INFO]   Date: 2025-04-04 | Content: 7115 chars
+2026-03-24 11:06:40,128 [WARNING]   Tag issue: Unknown tag 'permits' not in taxonomy
+2026-03-24 11:06:40,150 [INFO]   Dedup match: CTX-NEWS-2025-00209
+2026-03-24 11:06:40,155 [INFO]   Saved: CTX-NEWS-2025-00327 -> CTX-NEWS-2025-00327.json
+2026-03-24 11:06:40,156 [INFO] [30/49] Processing: Project connects old trails to form 1-mile loop in historic Syracuse park - syracuse.com (3_24_2026 8：52：57 AM).html
+2026-03-24 11:06:40,585 [INFO] [30/49] Extracted: Project connects old trails to form 1-mile loop in historic Syracuse park
+2026-03-24 11:06:40,586 [INFO]   URL: https://www.syracuse.com/news/2025/07/project-connects-old-trails-to-form-1-mile
+2026-03-24 11:06:40,586 [INFO]   Date: 2025-07-17 | Content: 3265 chars
+2026-03-24 11:06:48,526 [WARNING]   Tag issue: Unknown tag 'community-engagement' not in taxonomy
+2026-03-24 11:06:48,557 [INFO]   Saved: CTX-NEWS-2025-00328 -> CTX-NEWS-2025-00328.json
+2026-03-24 11:06:48,557 [INFO] [31/49] Processing: Should Syracuse pay millions to fix historic steps？ (Good Morning CNY for Sept. 29) - syracuse.com (3_24_2026 9：17：42 AM).html
+2026-03-24 11:06:48,687 [INFO] [31/49] Extracted: Should Syracuse pay millions to fix historic steps? (Good Morning CNY for Sept. 
+2026-03-24 11:06:48,687 [INFO]   URL: https://www.syracuse.com/news/2025/09/should-syracuse-pay-millions-to-fix-histor
+2026-03-24 11:06:48,687 [INFO]   Date: 2025-09-29 | Content: 6157 chars
+2026-03-24 11:06:57,469 [INFO]   Saved: CTX-NEWS-2025-00329 -> CTX-NEWS-2025-00329.json
+2026-03-24 11:06:57,470 [INFO] [32/49] Processing: Skyline Apartments owner promises to finish repairs soon in settlement with Syracuse - syracuse.com (3_24_2026 9：13：54 AM).html
+2026-03-24 11:06:57,735 [INFO] [32/49] Extracted: Skyline Apartments owner promises to finish repairs soon in settlement with Syra
+2026-03-24 11:06:57,735 [INFO]   URL: https://www.syracuse.com/news/2025/09/skyline-apartments-owner-promises-to-finis
+2026-03-24 11:06:57,735 [INFO]   Date: 2025-09-22 | Content: 6062 chars
+2026-03-24 11:07:07,054 [WARNING]   Tag issue: Unknown tag 'legal-settlement' not in taxonomy
+2026-03-24 11:07:07,054 [WARNING]   Tag issue: Unknown tag 'inspection-oversight' not in taxonomy
+2026-03-24 11:07:07,100 [INFO]   Saved: CTX-NEWS-2025-00330 -> CTX-NEWS-2025-00330.json
+2026-03-24 11:07:07,100 [INFO] [33/49] Processing: Syracuse airport isn’t showing Kristi Noem video that blames Democrats for shutdown - syracuse.com (3_24_2026 8：47：47 AM).html
+2026-03-24 11:07:07,159 [INFO] [33/49] Extracted: Syracuse airport isn’t showing Kristi Noem video that blames Democrats for shutd
+2026-03-24 11:07:07,159 [INFO]   URL: https://www.syracuse.com/politics/cny/2025/10/syracuse-airport-isnt-showing-kris
+2026-03-24 11:07:07,159 [INFO]   Date: 2025-10-14 | Content: 4033 chars
+2026-03-24 11:07:16,278 [INFO]   Saved: CTX-NEWS-2025-00331 -> CTX-NEWS-2025-00331.json
+2026-03-24 11:07:16,279 [INFO] [34/49] Processing: Syracuse can’t afford to forgo millions of dollars in speeding tickets (Your Letters) - syracuse.com (3_24_2026 9：38：43 AM).html
+2026-03-24 11:07:16,357 [INFO] [34/49] Extracted: Syracuse can’t afford to forgo millions of dollars in speeding tickets (Your Let
+2026-03-24 11:07:16,357 [INFO]   URL: https://www.syracuse.com/opinion/2025/10/syracuse-cant-afford-to-forgo-millions-
+2026-03-24 11:07:16,357 [INFO]   Date: 2025-10-06 | Content: 2176 chars
+2026-03-24 11:07:23,639 [WARNING]   Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-03-24 11:07:23,639 [WARNING]   Tag issue: Unknown tag 'schools' not in taxonomy
+2026-03-24 11:07:23,677 [INFO]   Saved: CTX-NEWS-2025-00332 -> CTX-NEWS-2025-00332.json
+2026-03-24 11:07:23,678 [INFO] [35/49] Processing: Syracuse closes large city-owned downtown garage due to safety concerns - syracuse.com (3_24_2026 9：23：44 AM).html
+2026-03-24 11:07:23,816 [INFO] [35/49] Extracted: Syracuse closes large city-owned downtown garage due to safety concerns
+2026-03-24 11:07:23,816 [INFO]   URL: https://www.syracuse.com/news/2025/11/syracuse-closes-large-city-owned-downtown-
+2026-03-24 11:07:23,817 [INFO]   Date: 2025-11-06 | Content: 3948 chars
+2026-03-24 11:07:33,165 [WARNING]   Tag issue: Unknown tag 'safety' not in taxonomy
+2026-03-24 11:07:33,194 [INFO]   Saved: CTX-NEWS-2025-00333 -> CTX-NEWS-2025-00333.json
+2026-03-24 11:07:33,194 [INFO] [36/49] Processing: Syracuse furniture retailer Dunk & Bright expanding with new store in Henrietta - syracuse.com (3_24_2026 9：38：44 AM).html
+2026-03-24 11:07:33,278 [INFO] [36/49] Extracted: Syracuse furniture retailer Dunk &amp; Bright expanding with new store in Henrie
+2026-03-24 11:07:33,279 [INFO]   URL: https://www.syracuse.com/business/2025/11/syracuse-furniture-retailer-expanding-
+2026-03-24 11:07:33,279 [INFO]   Date: 2025-11-13 | Content: 2449 chars
+2026-03-24 11:07:41,680 [INFO]   Saved: CTX-NEWS-2025-00334 -> CTX-NEWS-2025-00334.json
+2026-03-24 11:07:41,680 [INFO] [37/49] Processing: Syracuse launches online search tool of its vacant lots for sale - syracuse.com (3_24_2026 9：31：25 AM).html
+2026-03-24 11:07:41,761 [INFO] [37/49] Extracted: Syracuse launches online search tool of its vacant lots for sale
+2026-03-24 11:07:41,761 [INFO]   URL: https://www.syracuse.com/news/2025/11/syracuse-launches-online-search-tool-of-it
+2026-03-24 11:07:41,762 [INFO]   Date: 2025-11-12 | Content: 1691 chars
+2026-03-24 11:07:48,141 [INFO]   Saved: CTX-NEWS-2025-00335 -> CTX-NEWS-2025-00335.json
+2026-03-24 11:07:48,142 [INFO] [38/49] Processing: Syracuse neighbors fear commercial battery storage site could be dangerous - syracuse.com (3_24_2026 9：31：46 AM).html
+2026-03-24 11:07:48,208 [INFO] [38/49] Extracted: Syracuse neighbors fear commercial battery storage site could be dangerous
+2026-03-24 11:07:48,208 [INFO]   URL: https://www.syracuse.com/news/2025/12/syracuse-neighbors-fear-commercial-battery
+2026-03-24 11:07:48,208 [INFO]   Date: 2025-12-06 | Content: 5183 chars
+2026-03-24 11:07:57,051 [INFO]   Saved: CTX-NEWS-2025-00336 -> CTX-NEWS-2025-00336.json
+2026-03-24 11:07:57,051 [INFO] [39/49] Processing: Syracuse plans ‘clanker system’ to stop trucks from hitting Park Street bridge - syracuse.com (3_24_2026 9：31：38 AM).html
+2026-03-24 11:07:57,134 [INFO] [39/49] Extracted: Syracuse plans ‘clanker system’ to stop trucks from hitting Park Street bridge
+2026-03-24 11:07:57,135 [INFO]   URL: https://www.syracuse.com/news/2025/12/syracuse-plans-clanker-system-to-stop-truc
+2026-03-24 11:07:57,135 [INFO]   Date: 2025-12-10 | Content: 2722 chars
+2026-03-24 11:08:07,094 [INFO]   Saved: CTX-NEWS-2025-00337 -> CTX-NEWS-2025-00337.json
+2026-03-24 11:08:07,094 [INFO] [40/49] Processing: Syracuse sues company that was supposed to save Skyline Apartments, says they ‘failed to invest’ - syracuse.com (3_24_2026 9：38：09 AM).html
+2026-03-24 11:08:07,193 [INFO] [40/49] Extracted: Syracuse sues company that was supposed to save Skyline Apartments, says they ‘f
+2026-03-24 11:08:07,193 [INFO]   URL: https://www.syracuse.com/news/2025/04/syracuse-sues-company-that-was-supposed-to
+2026-03-24 11:08:07,193 [INFO]   Date: 2025-04-02 | Content: 4041 chars
+2026-03-24 11:08:18,035 [INFO]   Dedup match: CTX-NEWS-2025-00209
+2026-03-24 11:08:18,051 [INFO]   Saved: CTX-NEWS-2025-00338 -> CTX-NEWS-2025-00338.json
+2026-03-24 11:08:18,051 [INFO] [41/49] Processing: Syracuse’s largest apartment complex has spiraled downward. Tenants have had enough - syracuse.com (3_24_2026 9：17：39 AM).html
+2026-03-24 11:08:18,171 [INFO] [41/49] Extracted: Syracuse’s largest apartment complex has spiraled downward. Tenants have had eno
+2026-03-24 11:08:18,171 [INFO]   URL: https://www.syracuse.com/news/2025/08/syracuses-largest-apartment-complex-has-sp
+2026-03-24 11:08:18,171 [INFO]   Date: 2025-08-27 | Content: 6406 chars
+2026-03-24 11:08:27,193 [WARNING]   Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-03-24 11:08:27,216 [INFO]   Saved: CTX-NEWS-2025-00339 -> CTX-NEWS-2025-00339.json
+2026-03-24 11:08:27,216 [INFO] [42/49] Processing: Syracuse’s new snowplows have been on the road for weeks. Now they have their names - syracuse.com (3_24_2026 9：31：26 AM).html
+2026-03-24 11:08:27,338 [INFO] [42/49] Extracted: Syracuse’s new snowplows have been on the road for weeks. Now they have their na
+2026-03-24 11:08:27,338 [INFO]   URL: https://www.syracuse.com/news/2025/12/syracuses-new-snowplows-have-been-on-the-r
+2026-03-24 11:08:27,338 [INFO]   Date: 2025-12-16 | Content: 1070 chars
+2026-03-24 11:08:33,617 [INFO]   Saved: CTX-NEWS-2025-00340 -> CTX-NEWS-2025-00340.json
+2026-03-24 11:08:33,617 [INFO] [43/49] Processing: Syracuse’s painful employment gap for Blacks and Hispanics： What can be done？ - syracuse.com (3_24_2026 9：38：27 AM).html
+2026-03-24 11:08:33,695 [INFO] [43/49] Extracted: Syracuse’s painful employment gap for Blacks and Hispanics: What can be done?
+2026-03-24 11:08:33,696 [INFO]   URL: https://www.syracuse.com/business/2025/12/syracuses-painful-employment-gap-for-b
+2026-03-24 11:08:33,696 [INFO]   Date: 2025-12-12 | Content: 7340 chars
+2026-03-24 11:08:42,492 [WARNING]   Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-03-24 11:08:42,514 [INFO]   Saved: CTX-NEWS-2025-00341 -> CTX-NEWS-2025-00341.json
+2026-03-24 11:08:42,514 [INFO] [44/49] Processing: The City of Syracuse wants to sell a prime site worth millions. What’s taking so long？ - syracuse.com (3_24_2026 9：47：51 AM).html
+2026-03-24 11:08:42,600 [INFO] [44/49] Extracted: The City of Syracuse wants to sell a prime site worth millions. What’s taking so
+2026-03-24 11:08:42,600 [INFO]   URL: https://www.syracuse.com/news/2025/06/the-city-of-syracuse-wants-to-sell-a-prime
+2026-03-24 11:08:42,600 [INFO]   Date: 2025-06-10 | Content: 6946 chars
+2026-03-24 11:08:51,181 [INFO]   Saved: CTX-NEWS-2025-00342 -> CTX-NEWS-2025-00342.json
+2026-03-24 11:08:51,181 [INFO] [45/49] Processing: The Syracuse Prize： $10K award will go to one resident who has enriched the city — is it you？ - syracuse.com (3_24_2026 8：49：09 AM).html
+2026-03-24 11:08:51,225 [INFO] [45/49] Extracted: The Syracuse Prize: $10K award will go to one resident who has enriched the city
+2026-03-24 11:08:51,225 [INFO]   URL: https://www.syracuse.com/living/2025/12/the-syracuse-prize-10k-award-will-go-to-
+2026-03-24 11:08:51,225 [INFO]   Date: 2025-12-23 | Content: 2628 chars
+2026-03-24 11:08:59,001 [INFO]   Saved: CTX-NEWS-2025-00343 -> CTX-NEWS-2025-00343.json
+2026-03-24 11:08:59,001 [INFO] [46/49] Processing: Two projects would bring over 125 apartments to one of Syracuse’s poorest areas - syracuse.com (3_24_2026 9：14：08 AM).html
+2026-03-24 11:08:59,230 [INFO] [46/49] Extracted: Two projects would bring over 125 apartments to one of Syracuse’s poorest areas
+2026-03-24 11:08:59,231 [INFO]   URL: https://www.syracuse.com/news/2025/09/two-projects-would-bring-over-125-apartmen
+2026-03-24 11:08:59,231 [INFO]   Date: 2025-09-09 | Content: 8622 chars
+2026-03-24 11:09:08,397 [WARNING]   Tag issue: Unknown tag 'affordable-housing' not in taxonomy
+2026-03-24 11:09:08,398 [WARNING]   Tag issue: Unknown tag 'permits' not in taxonomy
+2026-03-24 11:09:08,419 [INFO]   Saved: CTX-NEWS-2025-00344 -> CTX-NEWS-2025-00344.json
+2026-03-24 11:09:08,419 [INFO] [47/49] Processing: Vacant Syracuse houses burn down at alarming rate. Can city predict and prevent them？ - syracuse.com (3_24_2026 8：52：58 AM).html
+2026-03-24 11:09:08,496 [INFO] [47/49] Extracted: Vacant Syracuse houses burn down at alarming rate. Can city predict and prevent 
+2026-03-24 11:09:08,496 [INFO]   URL: https://www.syracuse.com/news/2025/07/vacant-syracuse-houses-burn-down-at-alarmi
+2026-03-24 11:09:08,497 [INFO]   Date: 2025-07-31 | Content: 6226 chars
+2026-03-24 11:09:17,742 [INFO]   Dedup match: CTX-NEWS-2025-00107
+2026-03-24 11:09:17,747 [INFO]   Saved: CTX-NEWS-2025-00345 -> CTX-NEWS-2025-00345.json
+2026-03-24 11:09:17,747 [INFO] [48/49] Processing: Van Robinson, long-time Syracuse politician and advocate for city’s Black community, dies at 87 - syracuse.com (3_24_2026 9：47：32 AM).html
+2026-03-24 11:09:17,915 [INFO] [48/49] Extracted: Van Robinson, long-time Syracuse politician and advocate for city’s Black commun
+2026-03-24 11:09:17,915 [INFO]   URL: https://www.syracuse.com/news/2025/05/van-robinson-long-time-syracuse-politician
+2026-03-24 11:09:17,915 [INFO]   Date: 2025-05-04 | Content: 5192 chars
+2026-03-24 11:09:26,438 [INFO]   Saved: CTX-NEWS-2025-00346 -> CTX-NEWS-2025-00346.json
+2026-03-24 11:09:26,439 [INFO] [49/49] Processing: Why did Syracuse’s airport reject Kristi Noem’s video？ A no-politics policy, it seems - syracuse.com (3_24_2026 8：47：48 AM).html
+2026-03-24 11:09:26,494 [INFO] [49/49] Extracted: Why did Syracuse’s airport reject Kristi Noem’s video? A no-politics policy, it 
+2026-03-24 11:09:26,495 [INFO]   URL: https://www.syracuse.com/politics/cny/2025/10/why-did-syracuses-airport-reject-k
+2026-03-24 11:09:26,495 [INFO]   Date: 2025-10-15 | Content: 5794 chars
+2026-03-24 11:09:34,533 [INFO]   Saved: CTX-NEWS-2025-00347 -> CTX-NEWS-2025-00347.json
+2026-03-24 11:09:34,536 [INFO] SingleFile Importer — 2026-03-24 11:09
+==================================================
+HTML files found: 49
+Already processed: 0
+Attempted this run: 49
+Could not extract: 1
+Filtered (not relevant): 0
+Saved as records: 48
+Errors: 0
+
+New records:
+  * 2 Syracuse politicians want to cut all ties with license plate reader  (2025-11-14)
+  * 88-unit apartment building proposed for Syracuse’s University Hill (2025-12-15)
+  * A cop’s trial is over, but Syracuse officials still can’t agree: Shoul (2025-05-28)
+  * A Syracuse group is out as ShoppingTown developer, putting project in  (2025-10-23)
+  * After 2 years, owner aims to rent apartments at the former Skyline Apa (2025-10-21)
+  * AMR agrees to share staff and response data in first ambulance contrac (2025-09-03)
+  * Bricks are falling from a smokestack at historic former Syracuse train (2025-08-13)
+  * Carmelo Anthony visits Syracuse to launch his cannabis brand STAYME70 (2025-04-14)
+  * City of Syracuse wins court order prohibiting illegal cannabis sales a (2025-06-27)
+  * City workers moved out to make way for apartments. Syracuse still owns (2025-11-06)
+  * Crews will start removing dozens of trees this month at historic Syrac (2025-07-07)
+  * Downtown building owner sues to pause work on massive new Syracuse hot (2025-12-02)
+  * Dozens of new homes planned for vacant lots in poor Syracuse neighborh (2025-03-27)
+  * Family of man fatally shot by Syracuse officer seeks new trial in laws (2025-07-07)
+  * Family of man fatally shot by Syracuse officer seeks new trial in laws (2025-07-07)
+  * Feds award Centro $9 million to buy buses for new Syracuse rapid trans (2025-12-22)
+  * How ICE’s mostly unseen campaign in Syracuse breeds fear and resistanc (2025-12-01)
+  * Hundreds of Syracuse teachers, staff get shorted on pay after $11M tec (2025-10-14)
+  * If the Catholic Church can reappraise Columbus, so can we of Italian h (2025-10-09)
+  * Is Armory Square really so chaotic? We spent 4 hours there Friday, her (2025-07-24)
+  * Is Armory Square really so chaotic? We spent 4 hours there Friday, her (2025-07-24)
+  * Jury rules Syracuse officer used excessive force in Father’s Day shoot (2025-05-23)
+  * Lawsuit dropped against big Armory Square building project, but the wo (2025-08-28)
+  * Merchant: Syracuse can do better removing snow from downtown streets ( (2025-12-08)
+  * NY Attorney General ends whistleblower-prompted review of costly Syrac (2025-08-08)
+  * NY puts off implementing law that would ban natural gas in new homes a (2025-11-12)
+  * Onondaga Lake restoration is far from finished (Your Letters) (2025-07-21)
+  * Owners of former Skyline Apartments in Syracuse hope to talk their way (2025-04-04)
+  * Project connects old trails to form 1-mile loop in historic Syracuse p (2025-07-17)
+  * Should Syracuse pay millions to fix historic steps? (Good Morning CNY  (2025-09-29)
+  * Skyline Apartments owner promises to finish repairs soon in settlement (2025-09-22)
+  * Syracuse airport isn’t showing Kristi Noem video that blames Democrats (2025-10-14)
+  * Syracuse can’t afford to forgo millions of dollars in speeding tickets (2025-10-06)
+  * Syracuse closes large city-owned downtown garage due to safety concern (2025-11-06)
+  * Syracuse furniture retailer Dunk &amp; Bright expanding with new store (2025-11-13)
+  * Syracuse launches online search tool of its vacant lots for sale (2025-11-12)
+  * Syracuse neighbors fear commercial battery storage site could be dange (2025-12-06)
+  * Syracuse plans ‘clanker system’ to stop trucks from hitting Park Stree (2025-12-10)
+  * Syracuse sues company that was supposed to save Skyline Apartments, sa (2025-04-02)
+  * Syracuse’s largest apartment complex has spiraled downward. Tenants ha (2025-08-27)
+  * Syracuse’s new snowplows have been on the road for weeks. Now they hav (2025-12-16)
+  * Syracuse’s painful employment gap for Blacks and Hispanics: What can b (2025-12-12)
+  * The City of Syracuse wants to sell a prime site worth millions. What’s (2025-06-10)
+  * The Syracuse Prize: $10K award will go to one resident who has enriche (2025-12-23)
+  * Two projects would bring over 125 apartments to one of Syracuse’s poor (2025-09-09)
+  * Vacant Syracuse houses burn down at alarming rate. Can city predict an (2025-07-31)
+  * Van Robinson, long-time Syracuse politician and advocate for city’s Bl (2025-05-04)
+  * Why did Syracuse’s airport reject Kristi Noem’s video? A no-politics p (2025-10-15)
+

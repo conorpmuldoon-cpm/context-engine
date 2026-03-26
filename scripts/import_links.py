@@ -511,6 +511,7 @@ def main():
     skip_blocked = "--skip-blocked" in args
     do_login_flag = "--login" in args
     retry_blocked = "--retry-blocked" in args
+    no_filter = "--no-filter" in args
 
     # Parse --limit N
     limit = None
@@ -668,8 +669,8 @@ def main():
             # Fetch and extract
             article = extract_article(page, url, logger)
 
-            # If blocked and it's a paywalled domain, try Wayback Machine
-            if not article and is_syracuse_com(url):
+            # If blocked, try Wayback Machine as fallback
+            if not article:
                 wb_url = get_wayback_url(url, logger)
                 if wb_url:
                     logger.info(f"{progress} Trying Wayback Machine...")
@@ -688,16 +689,19 @@ def main():
             pub_date = article["publication_date"]
 
             # Relevance filter
-            relevant, reasons = is_relevant(title, content, registry, taxonomy)
-            if not relevant:
-                logger.debug(f"{progress} Filtered (not relevant): {title[:80]}")
-                filtered_count += 1
-                processed_in_run.append(url)
-                continue
-
-            logger.info(f"{progress} Relevant: {title[:80]}")
-            for r in reasons:
-                logger.debug(f"  → {r}")
+            if no_filter:
+                reasons = []
+                logger.info(f"{progress} Accepted (--no-filter): {title[:80]}")
+            else:
+                relevant, reasons = is_relevant(title, content, registry, taxonomy)
+                if not relevant:
+                    logger.debug(f"{progress} Filtered (not relevant): {title[:80]}")
+                    filtered_count += 1
+                    processed_in_run.append(url)
+                    continue
+                logger.info(f"{progress} Relevant: {title[:80]}")
+                for r in reasons:
+                    logger.debug(f"  → {r}")
 
             combined_text = title + " " + content
             mech_entities = extract_entities(combined_text, registry)

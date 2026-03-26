@@ -1,0 +1,102 @@
+{
+  "record_id": "CTX-NEWS-2025-00350",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-taxpayers-bear-financial-burden-as-city-maintains-neglected-st-anthonys-convent-mark-congel-massive-fire-court-street",
+  "publication_date": "2025-03-26",
+  "capture_date": "2026-03-26T00:36:00Z",
+  "title": "Syracuse maintains neglected St. Anthony's Convent for absent property owner",
+  "summary": "St. Anthony's Convent on Court Street, owned by absentee property owner Mark Congel, caught fire on March 21, 2025, leaving Syracuse taxpayers to fund maintenance costs ($15K boarding, $23K maintenance/debris removal). Despite 15 accumulated code violations and city citations, Congel remains unresponsive; city action is constrained by an active Home Leasing development contract. Elected officials are calling for stronger enforcement mechanisms and potential property seizure.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "code-enforcement",
+    "housing",
+    "property-neglect",
+    "PROVISIONAL:abandoned-properties",
+    "facilities",
+    "tax-revenue",
+    "emergency-services",
+    "fire",
+    "escalating",
+    "complaint",
+    "constituent-complaints",
+    "transparency",
+    "land-use",
+    "zoning"
+  ],
+  "department_refs": [
+    "Department of Permits and Development",
+    "Syracuse Fire Department",
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Mark Congel",
+      "type": "person",
+      "canonical_id": "PERSON-MARK-CONGEL"
+    },
+    {
+      "name": "Palmer Harvey",
+      "type": "person",
+      "canonical_id": "PERSON-PALMER-HARVEY"
+    },
+    {
+      "name": "Bonnke Sekarore",
+      "type": "person",
+      "canonical_id": "PERSON-BONNKE-SEKARORE"
+    },
+    {
+      "name": "Pyramid Brokerage Company",
+      "type": "organization",
+      "canonical_id": "ORG-PYRAMID-BROKERAGE"
+    },
+    {
+      "name": "Destiny USA",
+      "type": "organization",
+      "canonical_id": "ORG-DESTINY-USA"
+    },
+    {
+      "name": "Home Leasing",
+      "type": "organization",
+      "canonical_id": "ORG-HOME-LEASING"
+    },
+    {
+      "name": "St. Anthony's Convent",
+      "type": "system",
+      "canonical_id": "SYS-ST-ANTHONYS-CONVENT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Multiple elected officials (Mayor Walsh, County Legislator Harvey, challenger Sekarore) expressing frustration with enforcement process and calling for stronger action against property owner. Constituents pressuring city for accountability and swift resolution. Partisan contrast emerging in election context.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-MARIA-REGINA-CONGEL-2025Q2"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts validated: $15,000 (boarding), $23,000 (maintenance/debris removal). Sponsored content removed from analysis.",
+    "Fire date inferred as Friday prior to March 26 publication = March 21, 2025.",
+    "Key governance tension: city citations and tax bill accumulation strategy vs. contractual constraint with Home Leasing development project.",
+    "15 code violations accumulated over past decade represents systemic enforcement challenge.",
+    "CIO relevance: potential IT/data governance angle on code violation tracking system and property management accountability tools.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'property-neglect' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

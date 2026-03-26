@@ -1,0 +1,85 @@
+{
+  "record_id": "CTX-NEWS-2025-00295",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2025/04/syracuse-chief-defends-officers-hitting-man-during-arrest-but-says-some-procedures-violated.html?gift=d81d7653-e2a1-433b-9416-49c106fe593c",
+  "publication_date": "2025-04-10",
+  "capture_date": "2026-03-24T09:34:21Z",
+  "title": "Syracuse chief defends officers hitting man during arrest, but says some procedures violated",
+  "summary": "Syracuse Police Chief Joe Cecile defended officers' use of force (three controlled strikes to head/face) during an arrest on South Avenue, stating the tactic was within policy and state standards. However, Cecile acknowledged that body-worn camera footage revealed unspecified policy and procedure violations that will result in discipline and retraining. The incident has generated public outcry on social media.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "complaint",
+    "investigation",
+    "use-of-force",
+    "transparency",
+    "training",
+    "policy-change",
+    "PROVISIONAL:use-of-force-policy",
+    "PROVISIONAL:body-camera-accountability"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Joe Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-CECILE"
+    },
+    {
+      "name": "Joseph Moran",
+      "type": "person",
+      "canonical_id": "PERSON-JOSEPH-MORAN"
+    },
+    {
+      "name": "Jaumar Chandler",
+      "type": "person",
+      "canonical_id": "PERSON-JAUMAR-CHANDLER"
+    },
+    {
+      "name": "Antal Tatum",
+      "type": "person",
+      "canonical_id": "PERSON-ANTAL-TATUM"
+    },
+    {
+      "name": "Syracuse Police Benevolent Association",
+      "type": "organization",
+      "canonical_id": "ORG-SPBA"
+    },
+    {
+      "name": "Division of Criminal Justice Services",
+      "type": "organization",
+      "canonical_id": "ORG-DCJS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public incident generating social media outrage and questions about police conduct; department leadership acknowledging policy violations but defending use-of-force legality creates tension between accountability transparency and operational defense.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00258"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Body-worn camera evidence exists but specific violations remain undisclosed to public—transparency gap noted",
+    "Incident involves use-of-force policy interpretation and potential training/discipline implications for CIO technology governance (body camera systems, data retention, access protocols)",
+    "Social media amplification suggests constituent pressure on city leadership",
+    "No budget or procurement signals detected in article",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Tag warning: Unknown tag 'use-of-force' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00258"
+  ],
+  "last_relevance_update": null
+}

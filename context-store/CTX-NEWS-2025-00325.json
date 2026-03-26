@@ -1,0 +1,70 @@
+{
+  "record_id": "CTX-NEWS-2025-00325",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/11/ny-puts-off-implementing-law-that-would-ban-natural-gas-in-new-homes-and-buildings.html",
+  "publication_date": "2025-11-12",
+  "capture_date": "2026-03-24T11:06:23Z",
+  "title": "NY puts off implementing law that would ban natural gas in new homes and buildings",
+  "summary": "New York State has suspended implementation of the All-Electric Buildings Act, scheduled for January 1, 2025, pending resolution of federal litigation. The law would have banned natural gas and fossil fuel equipment in new buildings of seven stories or less. Gov. Hochul supports the climate initiative but delayed implementation to reduce regulatory uncertainty, drawing criticism from environmentalists who view the delay as abandoning state climate goals.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "state-mandates",
+    "sustainability",
+    "housing",
+    "legislation",
+    "policy-change",
+    "intergovernmental",
+    "equity"
+  ],
+  "department_refs": [
+    "Office of the Mayor",
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Kathy Hochul",
+      "type": "person",
+      "canonical_id": "PERSON-KATHY-HOCHUL"
+    },
+    {
+      "name": "New York State Attorney General",
+      "type": "organization",
+      "canonical_id": "ORG-NY-AG"
+    },
+    {
+      "name": "Rewiring America",
+      "type": "organization",
+      "canonical_id": "ORG-REWIRING-AMERICA"
+    },
+    {
+      "name": "U.S. Court of Appeals for the Second Circuit",
+      "type": "organization",
+      "canonical_id": "ORG-USCA-2ND-CIRCUIT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "State leadership publicly supports climate mandate but operationally delays implementation amid legal challenge, creating tension between stated climate commitments and regulatory action. Environmental advocates view this as strategic retreat on emissions reduction.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on state policy but highly relevant to Syracuse CIO given local housing market implications and climate/sustainability strategic alignment",
+    "No direct Syracuse mention; context is statewide but affects municipal building codes and development patterns",
+    "Legal suspension is temporary (120+ days post-appeal decision) but indefinite if Supreme Court review sought",
+    "Cost-benefit analysis tension: housing affordability vs. long-term operational efficiency and emissions reduction",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

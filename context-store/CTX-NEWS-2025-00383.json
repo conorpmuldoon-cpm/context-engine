@@ -1,0 +1,83 @@
+{
+  "record_id": "CTX-NEWS-2025-00383",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-city-schools-spend-50-more-per-student-yet-rank-near-bottom-in-state-test-scores",
+  "publication_date": "2025-10-07",
+  "capture_date": "2026-03-26T00:43:24Z",
+  "title": "Syracuse City Schools spend 50% more per student yet rank near bottom in state test scores",
+  "summary": "Syracuse City School District spends $31,333 per student (50% above national average of $20,000) yet ranks 644th of 658 districts in ELA proficiency and 549th of 550 in math proficiency. Leadership transition underway with Deputy Superintendent Pamela Odom assuming superintendent role; district considering $125,000 consulting contract with outgoing Superintendent Anthony Davis's company.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "education",
+    "leadership-change",
+    "audit",
+    "investigation",
+    "PROVISIONAL:performance-metrics",
+    "PROVISIONAL:education-outcomes",
+    "transparency",
+    "state-mandates",
+    "state-agency"
+  ],
+  "department_refs": [
+    "Syracuse City School District"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse City School District",
+      "type": "organization",
+      "canonical_id": "ORG-SCSD"
+    },
+    {
+      "name": "Pamela Odom",
+      "type": "person",
+      "canonical_id": "PERSON-PAMELA-ODOM"
+    },
+    {
+      "name": "Anthony Davis",
+      "type": "person",
+      "canonical_id": "PERSON-ANTHONY-DAVIS"
+    },
+    {
+      "name": "Lane Russell",
+      "type": "person",
+      "canonical_id": "PERSON-LANE-RUSSELL"
+    },
+    {
+      "name": "New York State Department of Education",
+      "type": "organization",
+      "canonical_id": "ORG-NYSED"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Media investigation revealing significant resource-to-outcome disparity; potential governance concerns regarding leadership transition and consulting contract with departing superintendent's company.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-SCSD-GOVERNANCE-2025",
+    "DEDUP-CTX-NEWS-2025-00382"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article contains critical performance data; math proficiency state appears to have typo (54* vs 54%)",
+    "Consulting contract timing sensitive—coincides with superintendent transition",
+    "Cost-per-student figure ($31,333) provides benchmarking opportunity against state/national comparators",
+    "No direct City of Syracuse government connection evident; district is separate entity, but may impact municipal budget/tax discussions",
+    "Data source: New York State; recommend cross-referencing with state education department records",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'education' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00382"
+  ],
+  "last_relevance_update": null
+}

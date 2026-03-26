@@ -1,0 +1,67 @@
+2026-03-24 09:33:22,841 [INFO] ============================================================
+2026-03-24 09:33:22,842 [INFO] Link Importer starting
+2026-03-24 09:33:22,860 [INFO] Loaded 452 unique URLs from CSV
+2026-03-24 09:33:22,864 [INFO] Skipped 4 URLs from irrelevant domains
+2026-03-24 09:33:22,866 [INFO] New URLs to process: 153 (of 448 total)
+2026-03-24 09:33:42,025 [INFO] Using persistent browser profile (logged in, visible)
+2026-03-24 09:33:43,025 [INFO] [1/153] Fetching: https://www.syracuse.com/news/2025/04/developer-shrinks-syracuse-apartment-project-near-i-81-for-sec
+2026-03-24 09:33:54,412 [INFO] [1/153] Relevant: Developer shrinks Syracuse apartment project near I-81 for second time
+2026-03-24 09:33:54,413 [DEBUG]   → Entities: Ben Walsh
+2026-03-24 09:33:54,413 [DEBUG]   → Departments: Department of Permits and Development
+2026-03-24 09:33:54,413 [DEBUG]   → Keywords: mayor, city of syracuse
+2026-03-24 09:34:03,883 [WARNING]   Tag issue: Unknown tag 'permits' not in taxonomy
+2026-03-24 09:34:03,884 [WARNING]   Tag issue: Unknown tag 'brownfield-remediation' not in taxonomy
+2026-03-24 09:34:04,019 [INFO]   Dedup match: CTX-NEWS-2025-00225
+2026-03-24 09:34:04,035 [INFO]   Saved: CTX-NEWS-2025-00294 → CTX-NEWS-2025-00294.json
+2026-03-24 09:34:07,036 [INFO] [2/153] Fetching: https://www.syracuse.com/crime/2025/04/syracuse-chief-defends-officers-hitting-man-during-arrest-but
+2026-03-24 09:34:12,823 [INFO] [2/153] Relevant: Syracuse chief defends officers hitting man during arrest, but says some procedu
+2026-03-24 09:34:12,823 [DEBUG]   → Entities: Syracuse Police Benevolent Association
+2026-03-24 09:34:12,823 [DEBUG]   → Departments: Syracuse Police Department
+2026-03-24 09:34:12,823 [DEBUG]   → Keywords: syracuse police
+2026-03-24 09:34:21,117 [WARNING]   Tag issue: Unknown tag 'use-of-force' not in taxonomy
+2026-03-24 09:34:21,161 [INFO]   Dedup match: CTX-NEWS-2025-00258
+2026-03-24 09:34:21,167 [INFO]   Saved: CTX-NEWS-2025-00295 → CTX-NEWS-2025-00295.json
+2026-03-24 09:34:24,168 [INFO] [3/153] Fetching: https://www.syracuse.com/news/2025/04/syracuse-lawmakers-disappointed-with-walshs-proposed-tax-hike-
+2026-03-24 09:34:31,351 [INFO] [3/153] Relevant: Syracuse lawmakers ‘disappointed’ with Walsh’s proposed tax hike, budget deficit
+2026-03-24 09:34:31,351 [DEBUG]   → Entities: Ben Walsh, Pat Hogan
+2026-03-24 09:34:31,351 [DEBUG]   → Departments: Department of Permits and Development, Department of Finance
+2026-03-24 09:34:31,351 [DEBUG]   → Keywords: city hall, common council, mayor
+2026-03-24 09:34:40,068 [WARNING]   Tag issue: Unknown tag 'procedural' not in taxonomy
+2026-03-24 09:34:40,079 [INFO]   Dedup match: CTX-NEWS-2025-00180
+2026-03-24 09:34:40,082 [INFO]   Saved: CTX-NEWS-2025-00296 → CTX-NEWS-2025-00296.json
+2026-03-24 09:34:43,083 [INFO] [4/153] Fetching: https://www.syracuse.com/health/2025/04/upstate-medical-rules-out-biggest-fear-in-probe-of-tuesdays-
+2026-03-24 09:34:48,081 [DEBUG] [4/153] Filtered (not relevant): Upstate Medical rules out biggest fear in probe of Tuesday’s tech meltdown
+2026-03-24 09:34:51,082 [INFO] [5/153] Fetching: https://www.syracuse.com/opinion/2025/04/ny-should-expand-kendras-law-guest-opinion-by-dr-barry-perl
+2026-03-24 09:34:56,207 [INFO] [5/153] Relevant: NY should expand Kendra’s Law (Guest Opinion by Dr. Barry Perlman)
+2026-03-24 09:34:56,208 [DEBUG]   → Entities: Ben Walsh
+2026-03-24 09:34:56,208 [DEBUG]   → Departments: Law Department
+2026-03-24 09:34:56,208 [DEBUG]   → Keywords: mayor, syracuse mayor
+2026-03-24 09:35:06,401 [WARNING]   Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-03-24 09:35:06,419 [INFO]   Saved: CTX-NEWS-2025-00297 → CTX-NEWS-2025-00297.json
+2026-03-24 09:35:09,420 [INFO] [6/153] Fetching: https://www.syracuse.com/crime/2025/04/should-police-chase-stolen-cars-two-local-departments-set-opp
+2026-03-24 09:35:09,534 [DEBUG]   Navigation error: https://www.syracuse.com/crime/2025/04/should-police-chase-stolen-cars-two-local — Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://www.syracuse.com/crime/2025/04/should-police-chase-stolen-cars-two-local-departments-set-opposite-policies.html", waiting until "domcontentloaded"
+
+2026-03-24 09:35:11,419 [DEBUG]   Wayback lookup failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>
+2026-03-24 09:35:11,419 [INFO] [6/153] Blocked/empty: https://www.syracuse.com/crime/2025/04/should-police-chase-stolen-cars-two-local
+2026-03-24 09:35:14,420 [INFO] [7/153] Fetching: https://www.syracuse.com/news/2025/04/orange-basketball-legend-carmelo-anthony-launches-his-cannabis
+2026-03-24 09:35:14,436 [DEBUG]   Navigation error: https://www.syracuse.com/news/2025/04/orange-basketball-legend-carmelo-anthony-l — Page.goto: Target page, context or browser has been closed
+2026-03-24 09:35:15,264 [DEBUG]   Wayback lookup failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>
+2026-03-24 09:35:15,264 [INFO] [7/153] Blocked/empty: https://www.syracuse.com/news/2025/04/orange-basketball-legend-carmelo-anthony-l
+2026-03-24 09:35:18,266 [INFO] [8/153] Fetching: https://www.syracuse.com/news/2025/04/syracuse-police-watchdogs-new-leader-abruptly-resigns-in-lates
+2026-03-24 09:35:18,275 [DEBUG]   Navigation error: https://www.syracuse.com/news/2025/04/syracuse-police-watchdogs-new-leader-abrup — Page.goto: Target page, context or browser has been closed
+2026-03-24 09:35:19,058 [DEBUG]   Wayback lookup failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>
+2026-03-24 09:35:19,058 [INFO] [8/153] Blocked/empty: https://www.syracuse.com/news/2025/04/syracuse-police-watchdogs-new-leader-abrup
+2026-03-24 09:35:22,059 [INFO] [9/153] Fetching: https://www.syracuse.com/politics/cny/2025/04/trump-administration-revokes-visas-of-3-syracuse-unive
+2026-03-24 09:35:22,064 [DEBUG]   Navigation error: https://www.syracuse.com/politics/cny/2025/04/trump-administration-revokes-visas — Page.goto: Target page, context or browser has been closed
+2026-03-24 09:35:22,827 [DEBUG]   Wayback lookup failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>
+2026-03-24 09:35:22,827 [INFO] [9/153] Blocked/empty: https://www.syracuse.com/politics/cny/2025/04/trump-administration-revokes-visas
+2026-03-24 09:35:25,828 [INFO] [10/153] Fetching: https://www.syracuse.com/crime/2025/04/man-tased-by-syracuse-police-in-convenience-store-arrest-they
+2026-03-24 09:35:25,833 [DEBUG]   Navigation error: https://www.syracuse.com/crime/2025/04/man-tased-by-syracuse-police-in-convenien — Page.goto: Target page, context or browser has been closed
+2026-03-24 09:35:32,948 [DEBUG]   Wayback lookup failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>
+2026-03-24 09:35:32,948 [INFO] [10/153] Blocked/empty: https://www.syracuse.com/crime/2025/04/man-tased-by-syracuse-police-in-convenien
+2026-03-24 09:35:35,949 [INFO] [11/153] Fetching: https://www.syracuse.com/business/2025/05/syracusecom-journalists-win-top-honors-at-syracuse-press-c
+2026-03-24 09:35:35,955 [DEBUG]   Navigation error: https://www.syracuse.com/business/2025/05/syracusecom-journalists-win-top-honors — Page.goto: Target page, context or browser has been closed
+2026-03-24 09:35:38,790 [DEBUG]   Wayback lookup failed: <urlopen error [SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1081)>
+2026-03-24 09:35:38,790 [INFO] [11/153] Blocked/empty: https://www.syracuse.com/business/2025/05/syracusecom-journalists-win-top-honors

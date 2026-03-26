@@ -1,0 +1,15 @@
+2026-03-22 15:32:53,870 [INFO] === Auto Council Pipeline (DRY RUN) ===
+2026-03-22 15:32:53,870 [INFO] Checking for new council meeting videos...
+2026-03-22 15:32:55,980 [INFO] Found 2 new video(s):
+2026-03-22 15:32:55,980 [INFO]   2_07PpbNCfE — Common Council Public Meeting, Monday March 9th 2026 (45 min)
+2026-03-22 15:32:55,980 [INFO]   SFTzB6sZ34w — Common Council Town Hall Meeting, Thursday February 19th 2026 (116 min)
+2026-03-22 15:32:55,981 [INFO] Processing: Common Council Public Meeting, Monday March 9th 2026 (2_07PpbNCfE)
+2026-03-22 15:32:55,981 [INFO]   DRY RUN — would process 2_07PpbNCfE
+2026-03-22 15:32:55,981 [INFO] Processing: Common Council Town Hall Meeting, Thursday February 19th 2026 (SFTzB6sZ34w)
+2026-03-22 15:32:55,981 [INFO]   DRY RUN — would process SFTzB6sZ34w
+2026-03-22 15:32:55,981 [INFO] 
+==================================================
+2026-03-22 15:32:55,982 [INFO] PIPELINE SUMMARY (DRY RUN)
+2026-03-22 15:32:55,982 [INFO]   Videos detected: 2
+2026-03-22 15:32:55,982 [INFO]   Successful: 0
+2026-03-22 15:32:55,982 [INFO]   Failed: 0

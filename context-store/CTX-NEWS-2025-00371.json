@@ -1,0 +1,69 @@
+{
+  "record_id": "CTX-NEWS-2025-00371",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/d-07-23-2025",
+  "publication_date": "2025-07-23",
+  "capture_date": "2026-03-26T00:41:03Z",
+  "title": "Recurring harmful algal blooms -- is a long term fix on the horizon?",
+  "summary": "Harmful algal blooms (HABs) are causing recurring beach closures across Central New York lakes, with Cayuga Lake and Taughannock Falls State Park among the hardest hit. Environmental advocates argue that current monitoring by state and local agencies does not address root causes—excess phosphorus and nitrate pollution from agricultural runoff—and propose riparian buffer planting as a cost-effective long-term solution.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "sustainability",
+    "recurring",
+    "state-agency",
+    "PROVISIONAL:water-quality",
+    "PROVISIONAL:environmental-health",
+    "PROVISIONAL:nutrient-pollution"
+  ],
+  "department_refs": [
+    "Department of Environmental Conservation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Walter Hang",
+      "type": "person",
+      "canonical_id": "PERSON-WALTER-HANG"
+    },
+    {
+      "name": "Environmental Health Research Group",
+      "type": "organization",
+      "canonical_id": "ORG-EHRG"
+    },
+    {
+      "name": "Taughannock Falls State Park",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Cayuga Lake",
+      "type": "system",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Advocacy group leadership questioning adequacy of current government response to recurring public health and recreation access problem; implicit call for policy intervention on agricultural nutrient management.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is regional/state-level (DEC authority, state lakes) but has direct impact on City of Syracuse constituent recreation and health; recommend CIO flag for cross-agency coordination with county environmental health if Syracuse-area lakes affected",
+    "No direct Syracuse city government entity mentioned; relevance is indirect (water quality, infrastructure resilience, data monitoring/alert systems)",
+    "Sponsored content and trending items were excluded from analysis per standard practice",
+    "URL date discrepancy: headline says July 23, 2025; article timestamp says July 22, 2025 — minor QA note",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

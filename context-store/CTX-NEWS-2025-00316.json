@@ -1,0 +1,83 @@
+{
+  "record_id": "CTX-NEWS-2025-00316",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/12/how-ices-mostly-unseen-campaign-in-syracuse-breeds-fear-and-resistance.html",
+  "publication_date": "2025-12-01",
+  "capture_date": "2026-03-24T11:05:04Z",
+  "title": "How ICE’s mostly unseen campaign in Syracuse breeds fear and resistance",
+  "summary": "This Syracuse.com investigation documents ICE enforcement actions in Onondaga County during Trump's second term, focusing on detentions of immigrants in the voluntary immigration system, including students, hospital workers, and business owners. The article highlights community mobilization and advocacy response, raising implications for city services, immigrant integration, and social cohesion that may affect CIO priorities around digital inclusion, emergency communication systems, and vulnerable population data.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:immigration-enforcement",
+    "PROVISIONAL:federal-immigration",
+    "equity",
+    "public-safety-commission",
+    "residents",
+    "intergovernmental",
+    "state-agency",
+    "transparency",
+    "trending"
+  ],
+  "department_refs": [
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Immigration and Customs Enforcement (ICE)",
+      "type": "organization",
+      "canonical_id": "ORG-ICE"
+    },
+    {
+      "name": "Delil Alptekin",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Ardil Zilan",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Alex Gonzalez",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Onondaga Community College",
+      "type": "organization",
+      "canonical_id": "ORG-OCC"
+    },
+    {
+      "name": "SUNY Upstate Medical Hospital",
+      "type": "organization",
+      "canonical_id": "ORG-SUNY-UPSTATE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Documented community activism and advocacy mobilization in response to federal immigration enforcement; raises expectations for local government communication and protection mechanisms for vulnerable populations.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-SANCTUARY-CITY-2025Q2"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Date anomaly: Article published Dec. 1, 2025, but updated Dec. 7, 2025 — future date requires verification",
+    "No direct CIO/municipal policy content; relevance is secondary through impacts on vulnerable population services and community trust infrastructure",
+    "Potential connections to 311 system usage, emergency communication protocols, and data privacy policies affecting immigrant communities",
+    "Dollar amount ($1,000) mentioned in source but not located in provided excerpt",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

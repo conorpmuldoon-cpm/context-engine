@@ -1,0 +1,90 @@
+{
+  "record_id": "CTX-NEWS-2025-00355",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-asks-court-to-replace-current-redeveloper-of-skyline-apartment-with-receiver-clear-investment-group-james-street-murder-fire-flooding",
+  "publication_date": "2025-04-02",
+  "capture_date": "2026-03-26T00:37:00Z",
+  "title": "Syracuse asks court to replace current redeveloper of Skyline Apartments with receiver",
+  "summary": "Syracuse is petitioning NY State Supreme Court to replace Clear Investment Group with a court-appointed receiver for the Skyline Apartments on James Street. The 352-unit building has deteriorated despite Clear's 2024 promises of $4.5M in upgrades; the city seeks $355K in fines, $2M in escrow for repairs, and code violation corrections. This action addresses a critical housing shortage amid documented property failures including fire, flooding, and squatter occupation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "code-enforcement",
+    "complaint",
+    "investigation",
+    "escalating",
+    "mayor",
+    "economic-development",
+    "leadership-change",
+    "public-safety-commission",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development",
+    "Department of Code Enforcement",
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Michael Collins",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-COLLINS"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Clear Investment Group",
+      "type": "organization",
+      "canonical_id": "ORG-CLEAR-INVESTMENT"
+    },
+    {
+      "name": "Skyline Apartments",
+      "type": "system",
+      "canonical_id": "SYS-SKYLINE-APARTMENTS"
+    },
+    {
+      "name": "New York State Supreme Court",
+      "type": "organization",
+      "canonical_id": "ORG-NYS-SUPREME-COURT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Mayor and city leadership applying judicial pressure on private developer for non-performance; framing as urgent due to housing shortage and public safety failures. Escalation from administrative oversight to court intervention.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-SKYLINE-APARTMENTS-2025",
+    "DEDUP-CTX-NEWS-2025-00209"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article dated 2025-04-02 with update 2025-04-03; treat as current/developing",
+    "Financial figures extracted: $355K fines, $2M escrow requirement, $4.5M promised upgrades (unmet), $10K mentioned in unrelated trending item",
+    "Property address: James Street, Syracuse (no coordinates provided in article)",
+    "Historical context noted: 2021 murder, March 5 2024 fire, water system failure—suggest cross-referencing with crime-data, fire, water departments",
+    "Deputy Mayor quote indicates constituent pressure on housing shortage—potential constituent-complaints tag applicability",
+    "Clear Investment Group rebrand attempt ('The Metropolitan' in Summer 2024) noted but unsuccessful",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Potential duplicate of CTX-NEWS-2025-00209"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,83 @@
+{
+  "record_id": "CTX-NEWS-2025-00358",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/clear-investment-says-its-still-committed-to-redeveloping-dilapidated-skyline-apartments-court-apartments-deterioration-dilapidated",
+  "publication_date": "2025-04-03",
+  "capture_date": "2026-03-26T00:37:30Z",
+  "title": "Clear Investment says it's still committed to redeveloping dilapidated Skyline Apartments",
+  "summary": "The City of Syracuse is pursuing legal action to appoint a receiver to replace Clear Investment Group as developer of the deteriorating Skyline Apartments on James Street, citing ongoing structural failures including a major water pipe burst. Clear Investment Group disputes the characterization and claims commitment to continued renovations, while housing advocates express skepticism about both the developer's capacity and the receivership remedy's effectiveness.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "code-enforcement",
+    "investigation",
+    "legal-action",
+    "facilities",
+    "infrastructure",
+    "equity",
+    "residents",
+    "neighborhood-services",
+    "escalating"
+  ],
+  "department_refs": [
+    "Law Department",
+    "Department of Neighborhood and Business Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Clear Investment Group",
+      "type": "organization",
+      "canonical_id": "ORG-CLEAR-INVESTMENT"
+    },
+    {
+      "name": "Greater Syracuse Tenants Network",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-TENANTS-NETWORK"
+    },
+    {
+      "name": "CNY Fair Housing",
+      "type": "organization",
+      "canonical_id": "ORG-CNY-FAIR-HOUSING"
+    },
+    {
+      "name": "Sharon Sherman",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-SHERMAN"
+    },
+    {
+      "name": "Alex Lawson",
+      "type": "person",
+      "canonical_id": "PERSON-ALEX-LAWSON"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "City actively intervening in private development failure through court receivership petition; housing advocates question adequacy of remedy; broader pattern of property deterioration cited across city",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-SKYLINE-APARTMENTS-2025",
+    "DEDUP-CTX-NEWS-2025-00208"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on legal remedy rather than CIO digital/tech domain; relevance is primarily facilities management and inter-departmental coordination",
+    "No specific budget figures or IT systems mentioned",
+    "Receivership mechanism may require property management systems integration if appointed",
+    "Related incident: Maria Regina campus fire mentioned as pattern indicator",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'legal-action' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00208"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,86 @@
+{
+  "record_id": "CTX-NEWS-2025-00346",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/05/van-robinson-long-time-syracuse-politician-and-advocate-for-citys-black-community-dies-at-87.html",
+  "publication_date": "2025-05-04",
+  "capture_date": "2026-03-24T11:09:26Z",
+  "title": "Van Robinson, long-time Syracuse politician and advocate for city’s Black community, dies at 87",
+  "summary": "Van Robinson, former Syracuse Common Council president and first Black politician to hold that position, died at 87. Robinson was a 57-year-old Syracuse resident and longtime NAACP leader who championed the I-81 viaduct removal project and community reconnection initiatives. His legacy includes the Van B. Robinson Common Council Chambers naming and significant advocacy for Syracuse's African American community.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "announcement",
+    "equity",
+    "intergovernmental",
+    "historic-preservation",
+    "infrastructure",
+    "transportation"
+  ],
+  "department_refs": [
+    "Office of the Mayor",
+    "Common Council"
+  ],
+  "entity_refs": [
+    {
+      "name": "Van Robinson",
+      "type": "person",
+      "canonical_id": "PERSON-VAN-ROBINSON"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Helen Hudson",
+      "type": "person",
+      "canonical_id": "PERSON-HELEN-HUDSON"
+    },
+    {
+      "name": "Jimmy Monto",
+      "type": "person",
+      "canonical_id": "PERSON-JIMMY-MONTO"
+    },
+    {
+      "name": "Chuck Schumer",
+      "type": "person",
+      "canonical_id": "PERSON-CHUCK-SCHUMER"
+    },
+    {
+      "name": "Kathy Hochul",
+      "type": "person",
+      "canonical_id": "PERSON-KATHY-HOCHUL"
+    },
+    {
+      "name": "Syracuse NAACP",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-NAACP"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Bipartisan recognition of Robinson's visionary leadership on I-81 viaduct removal and community equity initiatives. Mayor, Governor, and US Senator all publicly affirmed his impact on city reconnection and racial justice priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article contains embedded unrelated content (Iran missile attack) — likely content management error; excluded from analysis",
+    "Text truncated at final quote — full article length appears incomplete",
+    "Syracuse University listed in mechanical extractions but not substantively referenced; removed from entity refs",
+    "Charles Garland identified as both funeral home director and Onondaga County legislator; tagged as person",
+    "I-81 viaduct removal is active CIO infrastructure priority; Robinson's advocacy role is strategically relevant",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

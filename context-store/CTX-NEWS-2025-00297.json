@@ -1,0 +1,84 @@
+{
+  "record_id": "CTX-NEWS-2025-00297",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2025/04/ny-should-expand-kendras-law-guest-opinion-by-dr-barry-perlman.html",
+  "publication_date": "2025-04-15",
+  "capture_date": "2026-03-24T09:35:06Z",
+  "title": "NY should expand Kendra’s Law (Guest Opinion by Dr. Barry Perlman)",
+  "summary": "Opinion piece by retired psychiatrist Dr. Barry Perlman advocates for expanding Kendra's Law (Assisted Outpatient Treatment) in New York, citing 2005 OMH research showing reductions in harmful behaviors, homelessness, and incarceration. Perlman critiques civil liberties organizations' opposition to AOT expansion, arguing their arguments do not address the significant cohort of seriously mentally ill patients who cannot engage in voluntary treatment. The piece reflects ongoing debate over involuntary mental health intervention policy at the state level.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:mental-health-policy",
+    "PROVISIONAL:involuntary-treatment",
+    "state-mandates",
+    "policy-change",
+    "legislation",
+    "advocacy",
+    "public-safety-commission"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Dr. Barry B. Perlman",
+      "type": "person",
+      "canonical_id": "PERSON-BARRY-PERLMAN"
+    },
+    {
+      "name": "New York Lawyers for the Public Interest",
+      "type": "organization",
+      "canonical_id": "ORG-NYLPI"
+    },
+    {
+      "name": "New York State Office of Mental Health",
+      "type": "organization",
+      "canonical_id": "ORG-NYS-OMH"
+    },
+    {
+      "name": "Alliance for Rights and Recovery",
+      "type": "organization",
+      "canonical_id": "ORG-ARR"
+    },
+    {
+      "name": "Mental Health Association of New York State",
+      "type": "organization",
+      "canonical_id": "ORG-MHANYS"
+    },
+    {
+      "name": "National Alliance on Mental Illness - New York State",
+      "type": "organization",
+      "canonical_id": "ORG-NAMI-NYS"
+    },
+    {
+      "name": "Governor Kathy Hochul",
+      "type": "person",
+      "canonical_id": "PERSON-KATHY-HOCHUL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Dr. Perlman champions expansion of Kendra's Law/AOT in Gov. Hochul's 2025 budget, positioning it as evidence-based policy to address serious mental illness. Aligns with NAMI-NYS endorsement of bills S3474/A5538.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is opinion piece, not news reporting; author is advocacy figure with relevant psychiatric credentials and state board service history",
+    "Ben Walsh and Law Department mentioned in mechanical extractions do not appear in article text provided",
+    "No direct Syracuse city government connection identified; article concerns state-level mental health policy",
+    "Mental health/involuntary treatment policy is adjacent to public safety and social services domains relevant to CIO innovation planning",
+    "PROVISIONAL tags created for mental-health-policy and involuntary-treatment as these exceed provided tag vocabulary",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.syracuse.com)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

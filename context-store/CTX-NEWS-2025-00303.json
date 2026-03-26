@@ -1,0 +1,87 @@
+{
+  "record_id": "CTX-NEWS-2025-00303",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/10/a-syracuse-group-is-out-as-shoppingtown-developer-putting-project-in-doubt.html",
+  "publication_date": "2025-10-23",
+  "capture_date": "2026-03-24T11:03:08Z",
+  "title": "A Syracuse group is out as ShoppingTown developer, putting project in doubt",
+  "summary": "OHB Redev LLC has withdrawn as developer of the shuttered ShoppingTown Mall in DeWitt, a $400M mixed-use redevelopment project. County Executive McMahon negotiated the withdrawal to refocus the 65-acre site toward high-tech R&D and light manufacturing in response to Micron Technology's semiconductor complex announcement in Clay. The county's Industrial Development Agency will now seek new development proposals with expanded scope and total site control.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "land-use",
+    "capital-planning",
+    "intergovernmental",
+    "procurement",
+    "housing",
+    "policy-change",
+    "PROVISIONAL:real-estate-development",
+    "PROVISIONAL:site-control"
+  ],
+  "department_refs": [
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "OHB Redev LLC",
+      "type": "organization",
+      "canonical_id": "ORG-OHB-REDEV"
+    },
+    {
+      "name": "Ryan Benz",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-BENZ"
+    },
+    {
+      "name": "Andrew Breuer",
+      "type": "person",
+      "canonical_id": "PERSON-ANDREW-BREUER"
+    },
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Onondaga County Industrial Development Agency",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-IDA"
+    },
+    {
+      "name": "Robert Petrovich",
+      "type": "person",
+      "canonical_id": "PERSON-ROBERT-PETROVICH"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "McMahon's strategic pivot toward high-tech/manufacturing aligns ShoppingTown redevelopment with Micron's regional economic stimulus; developer withdrawal signals executive control and market repositioning rather than project failure.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts corrected: $8M (mall purchase price), $400M (original project scope); eminent domain action filed against Benderson Development offshoot indicates unresolved property control issues",
+    "Article truncated; full content unavailable for complete analysis",
+    "Micron Technology decision in Clay (adjacent municipality) is key external driver of policy pivot",
+    "IDA's transition from financial incentive provider to project developer entity requires CIO engagement on governance/IT infrastructure implications",
+    "New RFP process signals procurement activity ahead",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-NEWS-2025-00299",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/demolition-starts-at-mckinney-manor-first-step-in-syracuses-50m-east-adams-project",
+  "publication_date": "2025-10-28",
+  "capture_date": "2026-03-24T14:30:00Z",
+  "title": "Demolition starts at McKinney Manor, first step in Syracuse's $50M East Adams project",
+  "summary": "Demolition commenced at the McKinney Manor Housing Project in Syracuse's 15th Ward, marking the first physical phase of the $50 million East Adams redevelopment. The project was announced in July 2024 when Senate Minority Leader Chuck Schumer revealed the $50 million HUD Choice Neighborhoods Initiative Program award. The plan involves redeveloping 600 public housing units into mixed-income housing. All former residents, relocated earlier in 2025, have been guaranteed the right to return. Development completion is scheduled for 2027. The article noted 'significant delays and little communication' preceding the demolition.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "capital-planning",
+    "federal-programs",
+    "neighborhood-services",
+    "equity"
+  ],
+  "department_refs": [
+    "Syracuse Housing Authority"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Housing Authority",
+      "type": "organization",
+      "canonical_id": "ORG-SHA"
+    },
+    {
+      "name": "Chuck Schumer",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "HUD",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "McKinney Manor",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Physical demolition marks tangible progress on $50M HUD Choice Neighborhoods award, though 'significant delays and little communication' note signals ongoing accountability concerns.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-EAST-ADAMS-TRANSFORMATION-2025"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Originally filtered as 'not relevant' by link importer relevance filter (incorrect — $50M public housing demolition is clearly relevant)",
+    "Manually created from WebFetch content",
+    "$50M HUD Choice Neighborhoods Initiative award announced July 2024 by Sen. Schumer",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

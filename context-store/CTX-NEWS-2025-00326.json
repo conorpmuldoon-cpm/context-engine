@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-NEWS-2025-00326",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2025/07/onondaga-lake-restoration-is-far-from-finished-your-letters.html",
+  "publication_date": "2025-07-21",
+  "capture_date": "2026-03-24T11:06:31Z",
+  "title": "Onondaga Lake restoration is far from finished (Your Letters)",
+  "summary": "Opinion letter criticizing County Executive McMahon's allocation of $2.5M in Honeywell remediation funds to the Inner Harbor aquarium instead of completing Onondaga Lake restoration. Letter highlights ongoing sewage management failures, worker safety issues at a $23M biosolids facility, and advocates for prioritizing lake cleanup and return of Maple Bay to the Onondaga Nation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "sewer",
+    "environmental-remediation",
+    "PROVISIONAL:aquarium-development",
+    "budget",
+    "intergovernmental",
+    "equity",
+    "PROVISIONAL:tribal-stewardship",
+    "sustainability",
+    "transparency"
+  ],
+  "department_refs": [
+    "Department of Environmental Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Onondaga Nation",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-NATION"
+    },
+    {
+      "name": "American Indian Law Alliance",
+      "type": "organization",
+      "canonical_id": "ORG-AILA"
+    },
+    {
+      "name": "Betty Hill",
+      "type": "person",
+      "canonical_id": "PERSON-BETTY-HILL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Constituent opposition to county funding priorities; calls for reallocation of remediation funds from aquarium to lake restoration; advocates for tribal consultation and return of Maple Bay to Onondaga Nation.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is opinion/letters section; represents constituent viewpoint, not official announcement",
+    "Dollar amount '$2.5 million' relates to aquarium funding diversion; '$23 million' biosolids facility mentioned as context",
+    "References 2011/2016 county promises regarding Onondaga Lake remediation",
+    "June sewage discharge fine and recent worker safety issue at biosolids facility are cited as evidence of incomplete remediation",
+    "Maple Bay return to Onondaga Nation is recurring policy ask in letter; may signal sustained constituent/tribal pressure",
+    "Contact: Betty Hill, American Indian Law Alliance, Liverpool",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'environmental-remediation' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

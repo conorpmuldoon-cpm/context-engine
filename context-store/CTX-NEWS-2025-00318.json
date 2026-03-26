@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-NEWS-2025-00318",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2025/10/if-the-catholic-church-can-reappraise-columbus-so-can-we-of-italian-heritage-your-letters.html",
+  "publication_date": "2025-10-09",
+  "capture_date": "2026-03-24T11:05:23Z",
+  "title": "If the Catholic Church can reappraise Columbus, so can we of Italian heritage (Your Letters)",
+  "summary": "Opinion letter from We of Italian & Syracuse Heritage (WISH) CNY advocates for replacing the Columbus statue with a new 21st-century monument celebrating Italian-American contributions to Central New York. The letter argues that historical evidence of Columbus's harmful actions—enslavement, reward theft—justifies reconsideration, comparing the shift to the Catholic Church's abandonment of geocentric cosmology. Signatories call for community-grounded redesign honoring Italian heritage without Columbus association.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "historic-preservation",
+    "community-engagement",
+    "equity",
+    "PROVISIONAL:public-art",
+    "PROVISIONAL:monument-policy",
+    "residents"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "We of Italian & Syracuse Heritage (WISH) CNY",
+      "type": "organization",
+      "canonical_id": "ORG-WISH-CNY"
+    },
+    {
+      "name": "Paul Ciavarri",
+      "type": "person",
+      "canonical_id": "PERSON-PAUL-CIAVARRI"
+    },
+    {
+      "name": "Hilary-Anne Coppola",
+      "type": "person",
+      "canonical_id": "PERSON-HILARY-ANNE-COPPOLA"
+    },
+    {
+      "name": "Catholic Church",
+      "type": "organization",
+      "canonical_id": "ORG-CATHOLIC-CHURCH"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Organized community group advocates for policy change regarding public monument; frames as reconciliation between historical accuracy and community pride; appeals to institutional precedent (Church's re-evaluation of Columbus).",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is opinion/letters section; represents organized constituent group position, not news report",
+    "No dollar amounts, budget impacts, or departmental operations mentioned",
+    "May require Parks or Public Art department coordination if pursued",
+    "No CIO-specific digital/technology component detected; cultural policy domain",
+    "Multiple signatories suggest organized advocacy campaign with community reach",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'community-engagement' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,79 @@
+{
+  "record_id": "CTX-NEWS-2025-00362",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/police-chief-officers-will-face-discipline-in-viral-south-avenue-arrest-syracuse-joseph-cecile-new-baptist-church-facebook-video",
+  "publication_date": "2025-04-10",
+  "capture_date": "2026-03-26T00:38:26Z",
+  "title": "Police Chief: Officers will face discipline in viral South Avenue arrests",
+  "summary": "Syracuse Police Chief Joseph Cecile announced that officers involved in a forceful arrest of two individuals on South Avenue on April 9, 2025 will face discipline and retraining for policy violations. The incident, captured in a viral Facebook video, resulted in one officer punching a suspect in the head. Body camera footage revealed procedure violations; the full investigation remains ongoing.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "use-of-force",
+    "investigation",
+    "discipline",
+    "training",
+    "transparency",
+    "PROVISIONAL:viral-incident",
+    "complaint"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Joseph Cecile",
+      "type": "person",
+      "canonical_id": "PERSON-JOSEPH-CECILE",
+      "title": "Police Chief"
+    },
+    {
+      "name": "Jaumar Chandler",
+      "type": "person",
+      "canonical_id": null,
+      "note": "21-year-old arrested"
+    },
+    {
+      "name": "Antal Tatum",
+      "type": "person",
+      "canonical_id": null,
+      "note": "22-year-old arrested"
+    },
+    {
+      "name": "New Salem Baptist Church",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Use-of-force incident generating public visibility (viral video) triggering immediate accountability response; potential constituent pressure and media attention on police conduct.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-SPD-USE-OF-FORCE-2025",
+    "DEDUP-CTX-NEWS-2025-00258"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts detected in mechanical extraction ($2, $223,000) do not appear in provided article excerpt—likely false positive or truncation artifact",
+    "Article contains full statement from Police Chief indicating proactive transparency/damage control",
+    "Incident date (April 9, 2025) is in future relative to common knowledge cutoff; treating as valid per article date",
+    "Body camera footage mentioned as evidence of violations; potential data governance/transparency relevance for CIO regarding evidentiary systems",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'use-of-force' not in taxonomy",
+    "Tag warning: Unknown tag 'discipline' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00258"
+  ],
+  "last_relevance_update": null
+}

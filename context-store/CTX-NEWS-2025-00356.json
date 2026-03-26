@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-NEWS-2025-00356",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/local-news/2025-04-03/syracuse-seeks-court-order-to-remove-skyline-apartments-owner",
+  "publication_date": "2025-04-03",
+  "capture_date": "2026-03-26T00:37:09Z",
+  "title": "Syracuse seeks court order to remove Skyline Apartments owner",
+  "summary": "Mayor Ben Walsh is petitioning State Supreme Court to remove Clear Investment Group as owner of Skyline Apartments and install a court-appointed receiver. The city alleges the property owner has neglected critical maintenance and repairs, creating health and safety hazards including unaddressed flooding and fire code violations amid Syracuse's housing crisis.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "code-enforcement",
+    "escalating",
+    "investigation",
+    "facilities",
+    "emergency-services",
+    "fire",
+    "mayor",
+    "complaint",
+    "litigation",
+    "PROVISIONAL:receivership"
+  ],
+  "department_refs": [
+    "Office of the Mayor",
+    "Syracuse Fire Department",
+    "PROVISIONAL:Department of Permitting and Compliance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Clear Investment Group",
+      "type": "organization",
+      "canonical_id": "ORG-CLEAR-INVESTMENT"
+    },
+    {
+      "name": "Skyline Apartments",
+      "type": "organization",
+      "canonical_id": "PROPERTY-SKYLINE-APARTMENTS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Mayor's aggressive enforcement action against private property owner signals zero-tolerance stance on housing quality and safety standards during declared housing crisis; demonstrates executive branch willingness to use judicial intervention for code compliance.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-SKYLINE-APARTMENTS-2025",
+    "DEDUP-CTX-NEWS-2025-00208"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references State Supreme Court action, not municipal court—intergovernmental coordination likely",
+    "Multiple code violations mentioned but not itemized; recommend cross-reference with Department of Permitting inspection records",
+    "Housing crisis context indicates this case may signal broader CIO priority around property data integration and code enforcement systems",
+    "Author affiliation is public radio (WAER); recommend monitoring for related 311 service request patterns at this address",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)",
+    "Tag warning: Unknown tag 'litigation' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00208"
+  ],
+  "last_relevance_update": null
+}

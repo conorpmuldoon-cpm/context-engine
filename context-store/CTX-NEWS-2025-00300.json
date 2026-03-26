@@ -1,0 +1,84 @@
+{
+  "record_id": "CTX-NEWS-2025-00300",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/cny/2025/11/2-syracuse-politicians-want-to-cut-all-ties-with-license-plate-reader-company-over-privacy-concerns.html",
+  "publication_date": "2025-11-14",
+  "capture_date": "2026-03-24T11:02:39Z",
+  "title": "2 Syracuse politicians want to cut all ties with license plate reader company over privacy concerns",
+  "summary": "Two Syracuse Common Councilors (Jimmy Monto and Corey Williams) are seeking to revoke the city's $250,000 contract with Flock Safety for 26 license plate reader cameras, citing data-sharing privacy concerns and risks of misuse by immigration enforcement and other agencies. The proposal will be considered at the Common Council meeting on November 24, 2025. This reflects broader municipal reconsideration of Flock contracts nationwide.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "data-governance",
+    "privacy",
+    "PROVISIONAL:surveillance-technology",
+    "contract-award",
+    "legislation",
+    "policy-change",
+    "equity",
+    "PROVISIONAL:immigration-enforcement",
+    "cybersecurity",
+    "transparency",
+    "council"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jimmy Monto",
+      "type": "person",
+      "canonical_id": "PERSON-JIMMY-MONTO"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Flock Safety",
+      "type": "organization",
+      "canonical_id": "ORG-FLOCK-SAFETY"
+    },
+    {
+      "name": "Kieran Coffey",
+      "type": "person",
+      "canonical_id": "PERSON-KIERAN-COFFEY"
+    },
+    {
+      "name": "Paris Lewbel",
+      "type": "person",
+      "canonical_id": "PERSON-PARIS-LEWBEL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Two councilors actively mobilizing legislative action to terminate surveillance technology contract; citing equity concerns around data collection in communities of color and risk of federal immigration enforcement overreach.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-AXON-LPR-2026Q1"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date (2025-11-14) is in the future relative to typical processing; verify currency.",
+    "Joseph Cecile listed in mechanical extractions but not mentioned in article text—origin unclear.",
+    "Data governance and privacy implications extend beyond CIO to legal/civil rights considerations.",
+    "Flock's data deletion policy (30 days default) and opt-out from national immigration database represent recent mitigations but councilors remain unconvinced.",
+    "Contract language permitting 'good faith belief' disclosure to third parties is the focal point of councilor concerns.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'privacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

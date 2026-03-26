@@ -1,0 +1,71 @@
+{
+  "record_id": "CTX-NEWS-2025-00363",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-police-drone-program-green-lit-amid-privacy-concerns-officer-department-common-council-first-deputy-video",
+  "publication_date": "2025-04-10",
+  "capture_date": "2026-03-26T00:38:39Z",
+  "title": "Syracuse Police drone program green-lit amid privacy concerns",
+  "summary": "The Syracuse Police Department's Drone First Response Program has been approved by the Common Council for a one-year trial despite constituent privacy concerns. The program will deploy drones without audio capabilities in response to specific calls only, with deployment tracking available publicly. Key stakeholders expressed caution about long-term adoption and the difficulty of reversing the technology once implemented.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "policy-change",
+    "initiative-launch",
+    "transparency",
+    "PROVISIONAL:surveillance-technology",
+    "PROVISIONAL:drone-deployment",
+    "constituent-complaints",
+    "council"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Chol Majok",
+      "type": "person",
+      "canonical_id": "PERSON-CHOL-MAJOK"
+    },
+    {
+      "name": "Corey Williams",
+      "type": "person",
+      "canonical_id": "PERSON-COREY-WILLIAMS"
+    },
+    {
+      "name": "Richard Shoff",
+      "type": "person",
+      "canonical_id": "PERSON-RICHARD-SHOFF"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council members approved the program but with explicit concern about reversibility and long-term commitment; constituent privacy advocacy present; emphasis on one-year evaluation before expansion.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No budget figures specified for drone program in article",
+    "Article contains substantial sponsored content and unrelated news items",
+    "First Deputy Chief Shoff's quotes indicate policy guardrails (no audio, response-only, no targeting by protected characteristics)",
+    "Comparison to body camera policy noted as justification by police",
+    "Potential CIO relevance: technology procurement, data governance, transparency infrastructure (public deployment website mentioned)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

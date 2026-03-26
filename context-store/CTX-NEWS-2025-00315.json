@@ -1,0 +1,83 @@
+{
+  "record_id": "CTX-NEWS-2025-00315",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/cny/2025/12/feds-award-centro-9-million-to-buy-buses-for-new-rapid-transit-lines.html",
+  "publication_date": "2025-12-22",
+  "capture_date": "2026-03-24T11:04:53Z",
+  "title": "Feds award Centro $9 million to buy buses for new Syracuse rapid transit lines",
+  "summary": "Centro received a $9.3 million federal grant to purchase nine custom compressed natural gas buses for two new Bus Rapid Transit (BRT) lines launching in 2028. The BRT system, forming an X-shaped route network across Syracuse, represents the centerpiece of a $35 million service redesign aimed at improving transit access for low-income residents and connecting them to employment hubs downtown, Destiny USA, colleges, and hospitals.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "grants",
+    "federal-programs",
+    "transportation",
+    "infrastructure",
+    "capital-planning",
+    "economic-development",
+    "workforce-development",
+    "equity",
+    "initiative-launch",
+    "intergovernmental"
+  ],
+  "department_refs": [
+    "Department of Transportation and Mobility"
+  ],
+  "entity_refs": [
+    {
+      "name": "Centro",
+      "type": "organization",
+      "canonical_id": "ORG-CENTRO"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "John Mannion",
+      "type": "person",
+      "canonical_id": "PERSON-JOHN-MANNION"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIVERSITY"
+    },
+    {
+      "name": "Onondaga Community College",
+      "type": "organization",
+      "canonical_id": "ORG-OCC"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Federal infrastructure investment in transit serving low-income populations; bipartisan support (Rep. Mannion, Sens. Schumer and Gillibrand) demonstrates alignment with equity and workforce development priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount corrected: $9.3 million (not $9M) for buses; $35 million total service redesign investment",
+    "Article date (2025-12-22) appears to be future-dated; verify publication timing",
+    "Two recommended articles listed have 2026 dates suggesting potential dataset anomaly",
+    "Steve Koegel identified as Centro spokesman but not extracted as entity",
+    "No dedicated bus lanes mentioned; uses traffic signal technology—relevant for IT-infrastructure considerations",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

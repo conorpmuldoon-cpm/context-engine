@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-NEWS-2025-00353",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.localsyr.com/news/your-stories/your-stories-qa-dispute-over-repairing-potholes-leads-to-dewitt-salina-road-being-closed/",
+  "publication_date": "2025-04-01",
+  "capture_date": "2026-03-26T00:36:34Z",
+  "title": "Your Stories Q&A: Dispute over repairing potholes leads to DeWitt, Salina road being closed",
+  "summary": "A dispute over road maintenance responsibility between Town of Salina, Town of DeWitt, and NYSDOT regarding a deteriorated 0.1-mile stretch of Townline Road has resulted in Salina closing and abandoning the road. The incident highlights intergovernmental coordination failures and unclear jurisdiction over boundary-area infrastructure, with potential implications for similar edge-case municipal assets.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "roads-bridges",
+    "intergovernmental",
+    "complaint",
+    "investigation",
+    "resolved",
+    "infrastructure",
+    "transparency",
+    "escalating"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Town of Salina",
+      "type": "organization",
+      "canonical_id": "ORG-SALINA"
+    },
+    {
+      "name": "Town of DeWitt",
+      "type": "organization",
+      "canonical_id": "ORG-DEWITT"
+    },
+    {
+      "name": "New York State Department of Transportation",
+      "type": "organization",
+      "canonical_id": "ORG-NYSDOT"
+    },
+    {
+      "name": "Nick Paro",
+      "type": "person",
+      "canonical_id": "PERSON-NICK-PARO"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public complaint escalation and media investigation exposed intergovernmental finger-pointing over maintenance responsibility, resulting in road closure. Demonstrates accountability gaps in boundary-area infrastructure jurisdiction.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is from adjacent municipality (Salina/DeWitt border) but relevant to Syracuse CIO for intergovernmental coordination and asset management system insights",
+    "No direct Syracuse City departments involved; value is cautionary/procedural for similar boundary disputes",
+    "PROVISIONAL TAG APPLIED: 'road-closure-fees' considered but not applied—closure appears administrative/punitive rather than fee-generating",
+    "Suggests need for GIS/asset inventory system validation across municipal boundaries",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.localsyr.com)"
+  ],
+  "last_relevance_update": null
+}

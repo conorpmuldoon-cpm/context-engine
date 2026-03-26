@@ -1,0 +1,74 @@
+{
+  "record_id": "CTX-NEWS-2025-00394",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.waer.org/news/2025-12-17/ocwa-still-seeking-water-service-line-information-from-48-000-customers",
+  "publication_date": "2025-12-17",
+  "capture_date": "2026-03-26T00:58:26Z",
+  "title": "OCWA still seeking water service line information from 48,000 customers",
+  "summary": "Onondaga County Water Authority (OCWA) is conducting a mandatory EPA-mandated inventory of 106,000 water service lines to identify lead and galvanized steel pipes requiring replacement by 2027. With 48,000 customers still unreported, OCWA is mailing reminders and seeking customer cooperation through photo submission and home visits to build an accurate predictive model and avoid costly yard excavations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "lead-remediation",
+    "federal-programs",
+    "state-mandates",
+    "data-governance",
+    "residents",
+    "infrastructure",
+    "initiative-launch",
+    "transparency",
+    "grants"
+  ],
+  "department_refs": [
+    "Onondaga County Water Authority"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jeff Brown",
+      "type": "person",
+      "canonical_id": "PERSON-JEFF-BROWN"
+    },
+    {
+      "name": "Jeff Miller",
+      "type": "person",
+      "canonical_id": "PERSON-JEFF-MILLER"
+    },
+    {
+      "name": "Onondaga County Water Authority",
+      "type": "organization",
+      "canonical_id": "ORG-OCWA"
+    },
+    {
+      "name": "Environmental Protection Agency",
+      "type": "organization",
+      "canonical_id": "ORG-EPA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "OCWA leadership publicly acknowledging funding gaps and seeking assistance to offset customer replacement costs; framing as regulatory compliance with 10-year EPA deadline",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-LEAD-WATER-2025Q3"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references OCWA, not City of Syracuse municipal government; context is regional water authority",
+    "Key operational metrics: 106,000 total lines, 48,000 unidentified, ~400 lead confirmed, 3,900 galvanized steel confirmed",
+    "EPA deadline: end of 2027 for complete inventory; 10-year replacement timeline",
+    "Data collection strategy involves customer self-reporting, engineering firm modeling, and potential invasive field verification",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.waer.org)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-NEWS-2025-00384",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/calvin-corriders-syracuse-housing-authority-children-rising-center",
+  "publication_date": "2025-10-16",
+  "capture_date": "2026-03-26T00:43:36Z",
+  "title": "Calvin Corriders Sr. has left his position as chair of the Syracuse Housing Authority",
+  "summary": "Calvin Corriders Sr. has departed his role as chair of the Syracuse Housing Authority. The article provides limited substantive detail beyond the announcement of his departure, with a single community comment suggesting frustration with leadership tenure.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "housing",
+    "announcement"
+  ],
+  "department_refs": [
+    "Syracuse Housing Authority"
+  ],
+  "entity_refs": [
+    {
+      "name": "Calvin Corriders Sr.",
+      "type": "person",
+      "canonical_id": "PERSON-CALVIN-CORRIDERS-SR"
+    },
+    {
+      "name": "Syracuse Housing Authority",
+      "type": "organization",
+      "canonical_id": "ORG-SHA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-SHA-GOVERNANCE-CRISIS-2025"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content appears truncated or incomplete—only title, date, and a single comment visible",
+    "Insufficient detail to determine circumstances of departure (resignation, removal, term completion)",
+    "No information on succession plan, interim leadership, or policy implications",
+    "Community comment suggests potential organizational friction but lacks context",
+    "Recommend sourcing full article text for complete analysis",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

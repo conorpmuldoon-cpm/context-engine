@@ -1,0 +1,81 @@
+{
+  "record_id": "CTX-NEWS-2025-00361",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/syracuse-leaders-propose-updates-to-municipal-tree-ordinance",
+  "publication_date": "2025-04-11",
+  "capture_date": "2026-03-26T00:38:13Z",
+  "title": "Syracuse leaders propose updates to municipal tree ordinance",
+  "summary": "Syracuse Division of Forestry is modernizing the municipal tree ordinance for the first time since 1983, with City Arborist Stephen Harris leading efforts to update rules governing public and private tree management. The initiative aims to increase canopy cover from 28% to 35% city-wide and ensure equitable 30% minimum coverage across all neighborhoods regardless of income level, capitalizing on anticipated land gains from I-81 viaduct removal.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "parks",
+    "sustainability",
+    "urban-forestry",
+    "PROVISIONAL:environmental-management",
+    "PROVISIONAL:canopy-equity",
+    "initiative-launch",
+    "community-engagement",
+    "policy-change",
+    "land-use"
+  ],
+  "department_refs": [
+    "Department of Forestry",
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Stephen Harris",
+      "type": "person",
+      "canonical_id": "PERSON-STEPHEN-HARRIS"
+    },
+    {
+      "name": "Laura Kreidler",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Emmanuel Carter",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Syracuse Division of Forestry",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-FORESTRY"
+    },
+    {
+      "name": "SUNY ESF Department of Landscape Architecture",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Leadership demonstrates commitment to environmental sustainability and equity-focused urban planning through modernized ordinance addressing historical coverage gaps across income-diverse neighborhoods.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date inconsistency: title shows 2025-04-11, byline shows 2025-04-10; used byline date as authoritative",
+    "No dollar amounts or direct budget commitments mentioned in primary article content",
+    "I-81 viaduct removal cited as catalyst/opportunity for expanded tree canopy initiatives",
+    "Strong equity framing: explicit goal to eliminate canopy disparities by neighborhood income level",
+    "Public engagement mechanism documented (open house format)",
+    "Quantified baseline (28% current) and target (35% overall, 30% per neighborhood) enables future progress tracking",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'urban-forestry' not in taxonomy",
+    "Tag warning: Unknown tag 'community-engagement' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

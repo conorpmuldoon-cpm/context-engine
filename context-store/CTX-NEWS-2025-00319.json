@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-NEWS-2025-00319",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/07/is-armory-square-really-so-chaotic-we-spent-4-hours-there-friday-heres-what-we-saw.html?gift=7e51a059-af65-47d3-b1bd-a92bde21f0fb",
+  "publication_date": "2025-07-24",
+  "capture_date": "2026-03-24T11:05:31Z",
+  "title": "Is Armory Square really so chaotic? We spent 4 hours there Friday, here’s what we saw",
+  "summary": "Local news investigation examines safety perceptions in Armory Square following a viral Facebook post by police union claiming gang activity and chaos. Two reporters spent 4 hours observing the neighborhood on a Friday night to verify claims disputed by the police chief and deputy mayor, who attributed post-closing incidents to large gatherings rather than organized gang presence.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "public-safety-commission",
+    "trending",
+    "complaint",
+    "transparency",
+    "residents",
+    "investigation"
+  ],
+  "department_refs": [
+    "Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Police Union President",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Police Chief",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Deputy Mayor",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Armory Square",
+      "type": "system",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public accountability journalism examining conflicting official narratives about neighborhood safety and police characterization of public disorder. Highlights tension between police union and city leadership over incident framing.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-PBA-ARMORY-SQUARE-2025Q3"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references Facebook viral post (600+ likes, 360+ shares) as catalyst for debate - indicates high constituent engagement",
+    "Conflict between police union and city leadership (police chief, deputy mayor) signals internal governance tension requiring CIO attention for potential communications/data transparency needs",
+    "Specific observation date (July 18, 2025) and methodology (4-hour direct observation) suggests systematic fact-checking approach",
+    "No author byline provided despite attribution to Ankit Bandyopadhyay and Ryann Phillips",
+    "Article content appears incomplete (ends mid-narrative at 'Watch' prompt)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

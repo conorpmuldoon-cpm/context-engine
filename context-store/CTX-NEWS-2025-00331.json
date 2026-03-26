@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-NEWS-2025-00331",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/cny/2025/10/syracuse-airport-isnt-showing-kristi-noem-video-that-blames-democrats-for-shutdown.html",
+  "publication_date": "2025-10-14",
+  "capture_date": "2026-03-24T11:07:16Z",
+  "title": "Syracuse airport isn’t showing Kristi Noem video that blames Democrats for shutdown",
+  "summary": "Syracuse Hancock International Airport declined to air a Department of Homeland Security video featuring Secretary Kristi Noem blaming Democrats for federal government shutdown impacts, citing potential violations of Hatch Act restrictions on political activity by federal employees. Multiple airports nationwide (including Buffalo and Westchester County, NY) made similar decisions, while TSA workers remain on duty without pay during the ongoing shutdown.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "federal-programs",
+    "intergovernmental",
+    "policy-change",
+    "transparency",
+    "labor-relations",
+    "PROVISIONAL:political-content-governance"
+  ],
+  "department_refs": [
+    "Department of Homeland Security"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Hancock International Airport",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-AIRPORT"
+    },
+    {
+      "name": "Syracuse Regional Airport Authority",
+      "type": "organization",
+      "canonical_id": "ORG-AIRPORT-AUTHORITY"
+    },
+    {
+      "name": "Kristi Noem",
+      "type": "person",
+      "canonical_id": "PERSON-KRISTI-NOEM"
+    },
+    {
+      "name": "Jason Terreri",
+      "type": "person",
+      "canonical_id": "PERSON-JASON-TERRERI"
+    },
+    {
+      "name": "Transportation Security Administration",
+      "type": "organization",
+      "canonical_id": "ORG-TSA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public institution (airport authority) exercising governance discretion to decline airing federal partisan political messaging, citing legal and ethical concerns about use of public resources for political speech during government shutdown.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-EVENT-AIRPORT-NOEM-VIDEO"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date (2025-10-14) is future-dated; verify against current date for temporal validity",
+    "No direct Syracuse city government action documented, but establishes precedent for CIO regarding public resource use policies and partisan content governance",
+    "Relevant to potential municipal policy on display of federal/third-party political messaging in city facilities",
+    "TSA employee labor concerns (unpaid work, potential sickouts) may affect local emergency services coordination",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

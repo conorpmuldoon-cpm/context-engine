@@ -1,0 +1,80 @@
+{
+  "record_id": "CTX-NEWS-2025-00365",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/village-of-north-syracuse-give-little-notice-for-taking-away-trash-cans",
+  "publication_date": "2025-05-30",
+  "capture_date": "2026-03-26T00:39:35Z",
+  "title": "Village of North Syracuse give little notice for taking away trash cans",
+  "summary": "The Village of North Syracuse switched trash removal contractors from Syracuse Haulers to Butler Disposal with minimal resident notification. Trash cans were removed this week with only a door note as notice, leaving residents without bins until June 5th when Butler Disposal begins distribution. Residents report frustration over lack of communication and concerns about exposed trash attracting wildlife in this animal-populated area.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "complaint",
+    "constituent-complaints",
+    "contract-award",
+    "communication",
+    "service-requests",
+    "transparency",
+    "escalating",
+    "neighborhood-services"
+  ],
+  "department_refs": [
+    "Department of Neighborhood Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Village of North Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-NORTH-SYRACUSE"
+    },
+    {
+      "name": "Syracuse Haulers",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-HAULERS"
+    },
+    {
+      "name": "Butler Disposal",
+      "type": "organization",
+      "canonical_id": "ORG-BUTLER-DISPOSAL"
+    },
+    {
+      "name": "Jill Lewandowska",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Joe Asztalos",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Hannah Devanny",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Residents expressing public frustration with Village of North Syracuse regarding inadequate advance notice and communication during contractor transition, compounded by service gap creating quality-of-life concerns.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article covers North Syracuse (separate municipality, not City of Syracuse proper); relevant for CIO cross-jurisdictional service coordination awareness",
+    "Highlights communication/notification gap during contractor transition—potential IT/311 system process improvement opportunity",
+    "No direct Syracuse city government involvement detected but demonstrates regional service management challenges",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)",
+    "Tag warning: Unknown tag 'communication' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

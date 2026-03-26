@@ -1,0 +1,80 @@
+{
+  "record_id": "CTX-NEWS-2025-00308",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/06/city-of-syracuse-wins-court-order-prohibiting-illegal-cannabis-sales-at-north-side-business.html",
+  "publication_date": "2025-06-27",
+  "capture_date": "2026-03-24T11:03:51Z",
+  "title": "City of Syracuse wins court order prohibiting illegal cannabis sales at North Side business",
+  "summary": "City of Syracuse obtained a State Supreme Court injunction on June 18, 2025, shutting down The Herbal Center on North Salina Street for illegal cannabis sales without state licensure. Justice Murphy imposed $10,000 fines each on the business, owner John Vanfossen, and property owner, finding THC levels exceeded state limits and sales were 'knowing and defiant.' The defendant's counsel disputes the characterization and signals intent to appeal.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "code-enforcement",
+    "public-safety",
+    "policy-change",
+    "investigation",
+    "legislation",
+    "business-community",
+    "resolved",
+    "PROVISIONAL:cannabis-regulation"
+  ],
+  "department_refs": [
+    "Law Department",
+    "Code Enforcement"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "James Murphy",
+      "type": "person",
+      "canonical_id": "PERSON-JAMES-MURPHY"
+    },
+    {
+      "name": "The Herbal Center",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "John Vanfossen",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Brady O'Malley",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Mayor Walsh frames injunction as protecting neighborhoods and supporting legitimate businesses; however, defense counsel challenges resource allocation on enforcement, suggesting potential constituent or business-community scrutiny of enforcement priorities relative to broader crime.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2025-00065"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article contains unrelated embedded content (Iran missile attack) suggesting poor editorial control or content injection—may affect data quality or context reliability.",
+    "Defense counsel's comments indicate likelihood of appeal and counterclaim hearing (July 2025), suggesting ongoing litigation and potential policy challenges.",
+    "City's multi-year enforcement effort (since ~2022) with 'mixed success' suggests systemic challenges in unlicensed seller enforcement; CIO may need to assess data/IT infrastructure supporting code enforcement.",
+    "Private investigator use and undercover operations noted; may indicate need for investigation management systems or transparency documentation.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00065"
+  ],
+  "last_relevance_update": null
+}

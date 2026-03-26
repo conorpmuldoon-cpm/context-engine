@@ -1,0 +1,83 @@
+{
+  "record_id": "CTX-NEWS-2025-00327",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/04/owners-of-former-skyline-apartments-in-syracuse-hope-to-talk-their-way-out-of-citys-lawsuit.html",
+  "publication_date": "2025-04-04",
+  "capture_date": "2026-03-24T11:06:40Z",
+  "title": "Owners of former Skyline Apartments in Syracuse hope to talk their way out of city’s lawsuit",
+  "summary": "Clear Investment Group, owner of the former Skyline Apartments (now The Metropolitan), is in dispute with the City of Syracuse over building repairs and code compliance. The city filed a lawsuit Wednesday seeking a court-appointed receiver and $2 million in repairs after the developer failed to restore electricity or complete required inspections. Despite Thursday negotiations, city officials are proceeding with legal action amid deteriorating relations and ongoing housing vacancy.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "code-enforcement",
+    "investigation",
+    "facilities",
+    "escalating",
+    "business-community",
+    "economic-development",
+    "contract-award",
+    "permits"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development",
+    "Code Enforcement Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael Collins",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-COLLINS"
+    },
+    {
+      "name": "Ryan Shiel",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-SHIEL"
+    },
+    {
+      "name": "Clear Investment Group",
+      "type": "organization",
+      "canonical_id": "ORG-CLEAR-INVESTMENT"
+    },
+    {
+      "name": "Amy Rubenstein",
+      "type": "person",
+      "canonical_id": "PERSON-AMY-RUBENSTEIN"
+    },
+    {
+      "name": "The Metropolitan (former Skyline Apartments)",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "City code enforcement and legal action against private developer for non-compliance with repair obligations and building safety standards; indicates gap between city expectations and developer capacity/commitment on high-visibility housing project.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-SKYLINE-APARTMENTS-2025",
+    "DEDUP-CTX-NEWS-2025-00209"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts extracted need clarification: $2M (requested by city), $13M (purchase price), $4.6M (promised renovations) — mechanical extraction flagged partial amounts only",
+    "Tim Knauss is author, not decision-maker; Michael Collins (Dept. Head) is primary city official quoted",
+    "Property-level issue with systemic housing impact; recommend cross-reference with housing crisis initiatives and receivership authority records",
+    "Lawsuit status and court proceedings may warrant tracking as procedural development",
+    "Copper theft and water damage incidents indicate building security/facility maintenance infrastructure concerns",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'permits' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2025-00209"
+  ],
+  "last_relevance_update": null
+}

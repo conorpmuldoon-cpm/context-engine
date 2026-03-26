@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2025-00364",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/lafayette-country-club-turning-into-a-lifestyle-community-golf-dog-park-walk-path-project-b3r",
+  "publication_date": "2025-04-29",
+  "capture_date": "2026-03-26T00:39:01Z",
+  "title": "Lafayette Country Club turning into a lifestyle community",
+  "summary": "Lafayette Country Club is being redeveloped into a lifestyle community with amenities including a dog park and walking paths. A commenter expresses skepticism about the project's viability based on a previous failed tech company proposal for the same site, questioning whether the development will materialize or default to low-cost condominiums.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "land-use",
+    "economic-development",
+    "housing",
+    "parks",
+    "PROVISIONAL:mixed-use-development"
+  ],
+  "department_refs": [
+    "Department of Permitting and Inspections",
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Lafayette Country Club",
+      "type": "organization",
+      "canonical_id": "ORG-LAFAYETTE-CC"
+    },
+    {
+      "name": "Hannah Devanny",
+      "type": "person",
+      "canonical_id": "PERSON-HANNAH-DEVANNY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Constituent expresses doubt about project credibility citing history of failed development proposals at the same location; indicates skepticism about developer follow-through and final product quality.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content not provided—analysis based on comment thread only. Original article text needed for comprehensive assessment.",
+    "Comment reflects historical institutional knowledge about prior failed Lafayette site proposal (tech/window manufacturing). CIO should investigate prior permitting/planning records.",
+    "No direct IT infrastructure or digital services implications identified, though CIO may need to flag for economic development or planning data integration.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

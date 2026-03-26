@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-NEWS-2025-00310",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/07/crews-will-start-removing-dozens-of-trees-this-month-at-historic-syracuse-park.html",
+  "publication_date": "2025-07-07",
+  "capture_date": "2026-03-24T11:04:10Z",
+  "title": "Crews will start removing dozens of trees this month at historic Syracuse park",
+  "summary": "The City of Syracuse is undertaking a $320,000 improvement project at the James Pass Arboretum in Tipperary Hill, removing 50+ hazardous or invasive trees, pruning 40+ others, and planting 70 new trees in fall 2025. The project includes infrastructure upgrades (walkways, fencing, ADA accessibility) and commemorates the park's centennial, with community engagement occurring throughout the multi-phase initiative.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "parks",
+    "historic-preservation",
+    "sustainability",
+    "accessibility",
+    "capital-planning",
+    "community-engagement",
+    "initiative-launch",
+    "neighborhood-services",
+    "infrastructure"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "James Pass Arboretum",
+      "type": "system",
+      "canonical_id": "SYS-JAMES-PASS-ARBORETUM"
+    },
+    {
+      "name": "Tipperary Hill Neighborhood Association",
+      "type": "organization",
+      "canonical_id": "ORG-TIPPERARY-HILL-NA"
+    },
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-BOYER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor Walsh's public commitment to park stewardship and neighborhood improvement, with multi-phase planning and documented community engagement demonstrating governance priority and constituent responsiveness.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article also references unrelated city topics (I-81, SU housing, police/fire relocation) suggesting news aggregation context.",
+    "Memorial component (police officers Hoosock and Jensen) is separate initiative by neighborhood association but shares venue.",
+    "Future ADA accessibility phase indicates staged capital planning approach.",
+    "Community feedback mechanism active via syr.gov/passarboretumprojectplan suggests digital engagement infrastructure in place.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'community-engagement' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

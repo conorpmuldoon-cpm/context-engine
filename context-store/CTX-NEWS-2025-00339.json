@@ -1,0 +1,88 @@
+{
+  "record_id": "CTX-NEWS-2025-00339",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/08/syracuses-largest-apartment-complex-has-spiraled-downward-tenants-have-had-enough.html?gift=36942339-884b-4e7d-9f65-2084034bed24",
+  "publication_date": "2025-08-27",
+  "capture_date": "2026-03-24T11:08:27Z",
+  "title": "Syracuse’s largest apartment complex has spiraled downward. Tenants have had enough",
+  "summary": "Nob Hill Apartments, Syracuse's largest residential complex with 760 units, faces severe deterioration including non-functional elevators, inadequate heating, water damage, and broken locks. The city filed a lawsuit in April seeking $340,000 in fines for code violations; a new management company (Destra Multifamily) was hired in March to remediate, while tenants have organized demanding repairs by October 1 and rent freeze through 2026.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "code-enforcement",
+    "complaint",
+    "constituent-complaints",
+    "escalating",
+    "investigation",
+    "facilities",
+    "infrastructure",
+    "residents",
+    "advocacy",
+    "equity"
+  ],
+  "department_refs": [
+    "Code Enforcement",
+    "Neighborhood Services",
+    "Legal Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Nob Hill Apartments",
+      "type": "organization",
+      "canonical_id": "ORG-NOB-HILL-APT"
+    },
+    {
+      "name": "Windsor Capital Group",
+      "type": "organization",
+      "canonical_id": "ORG-WINDSOR-CAPITAL"
+    },
+    {
+      "name": "Destra Multifamily",
+      "type": "organization",
+      "canonical_id": "ORG-DESTRA-MULTIFAMILY"
+    },
+    {
+      "name": "Joe Labita",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-LABITA"
+    },
+    {
+      "name": "Kona Mahu",
+      "type": "person",
+      "canonical_id": "PERSON-KONA-MAHU"
+    },
+    {
+      "name": "Vince Latorre",
+      "type": "person",
+      "canonical_id": "PERSON-VINCE-LATORRE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Organized tenant action with 200+ petition signatures and scheduled news conference; concurrent city litigation creates multi-stakeholder pressure on property management to remediate housing quality violations.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article truncated in source but contains sufficient detail for analysis",
+    "Lawsuit is pending as of article date (2025-08-27); city initiated enforcement action April 2025",
+    "Comparison cases mentioned: Skyline Apartments (Tim/Troy Green litigation 2023) and Lifestyle Apartments (2025 litigation, pending)",
+    "Dollar amount $58.5M represents 2018 purchase price by Windsor Capital Group; $340K represents cumulative fines as of April 2025",
+    "Tenant association formed January 2025; news conference scheduled for day after article date",
+    "New management (Labita/Destra) hired March 2025, suggesting remediation window is early-stage",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

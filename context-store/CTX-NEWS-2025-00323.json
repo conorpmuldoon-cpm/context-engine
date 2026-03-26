@@ -1,0 +1,69 @@
+{
+  "record_id": "CTX-NEWS-2025-00323",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2025/12/merchant-syracuse-can-do-better-removing-snow-from-downtown-streets-your-letters.html",
+  "publication_date": "2025-12-08",
+  "capture_date": "2026-03-24T11:06:03Z",
+  "title": "Merchant: Syracuse can do better removing snow from downtown streets (Your Letters)",
+  "summary": "Letter to editor from downtown merchant James Horan criticizing Syracuse's snow removal performance on side streets and parking lanes in the Downtown Business District. Writer acknowledges success of sidewalk clearing efforts but calls for enforcement of alternate-side parking rules and improved street snow removal to match the city's reputation, citing last year's poor performance that created hazardous ice conditions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "snow-removal",
+    "complaint",
+    "constituent-complaints",
+    "roads-bridges",
+    "business-community",
+    "downtown-syracuse",
+    "infrastructure",
+    "escalating"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "James Horan",
+      "type": "person",
+      "canonical_id": "PERSON-JAMES-HORAN"
+    },
+    {
+      "name": "Vagabond Clothing",
+      "type": "organization",
+      "canonical_id": "ORG-VAGABOND-CLOTHING"
+    },
+    {
+      "name": "Downtown Committee of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-DOWNTOWN-COMMITTEE-SYR"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Downtown business stakeholder expressing frustration with recurring snow removal deficiency and advocating for improved service delivery and parking rule enforcement",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-DPW-WINTER-OPS-2025Q4"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article contains unrelated embedded content (Iran attack headlines, other opinion pieces) - noise filtered",
+    "Author attribution shows 'Your Letters' but actual author identified as James Horan in signature",
+    "No specific dollar amounts or quantified metrics provided",
+    "Letter references 'last year' performance as baseline for expectations; suggests pattern/recurring issue",
+    "Positive note on Downtown Committee's sidewalk clearing efforts; criticism focused on city snow removal on streets/parking lanes",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'downtown-syracuse' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

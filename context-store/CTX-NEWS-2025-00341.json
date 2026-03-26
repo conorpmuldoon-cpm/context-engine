@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-NEWS-2025-00341",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2025/12/syracuses-painful-employment-gap-for-blacks-and-hispanics-what-can-be-done.html",
+  "publication_date": "2025-12-12",
+  "capture_date": "2026-03-24T11:08:42Z",
+  "title": "Syracuse’s painful employment gap for Blacks and Hispanics: What can be done?",
+  "summary": "Syracuse faces severe racial employment disparities, with Hispanic workers at 11.5% unemployment (11th-worst nationally) and Black workers at 13% (22nd-worst), gaps of 7.5 and 9 percentage points respectively above white unemployment. The article examines systemic and structural causes including segregation, generational poverty, and underresourced urban schools, while highlighting the Micron Technology project as an opportunity to address inequities through inclusive economic growth.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "equity",
+    "workforce-development",
+    "economic-development",
+    "trending",
+    "advocacy"
+  ],
+  "department_refs": [
+    "Office of Analytics, Performance & Innovation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Thomas Hirschl",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Patricia Washington",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "On Point for College",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "CenterState CEO",
+      "type": "organization",
+      "canonical_id": "ORG-CENTERSTATE-CEO"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Article frames employment equity as urgent civic priority aligned with inclusive economic growth narrative; connects to major economic development opportunity (Micron project) and identifies systemic barriers requiring policy and resource intervention.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date listed as 2025-12-12 (future date); verify publication date accuracy",
+    "Extraneous content detected: unrelated Israeli Parliament attack headline mid-article suggests content scraping error",
+    "Article appears truncated; full content not available for complete analysis",
+    "Census data cited is one-year estimates with higher margin of error; five-year data expected January (per article)",
+    "Dollar amount extraction ($13) appears erroneous and lacks context; excluded from entity refs",
+    "Primary value to CIO: data infrastructure and analytics opportunity to track employment equity metrics; workforce development coordination across departments",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

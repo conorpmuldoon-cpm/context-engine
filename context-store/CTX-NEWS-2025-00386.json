@@ -1,0 +1,82 @@
+{
+  "record_id": "CTX-NEWS-2025-00386",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.localsyr.com/news/local-news/syracuses-north-side-residents-air-their-frustrations-the-fire-damaged-building-on-maria-regina-campus/",
+  "publication_date": "2025-04-02",
+  "capture_date": "2026-03-26T00:51:54Z",
+  "title": "Syracuse’s north side residents air their frustrations the fire-damaged building on Maria Regina campus",
+  "summary": "North side residents held a public forum to address concerns about the fire-damaged Maria Regina College Motherhouse building. City officials including Fire Chief Michael Monds attended to discuss safety protocols, demolition timeline, and future campus redevelopment. The incident highlights community attachment to the historic Franciscan property and resident demands for stronger accountability of private property owners.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "fire",
+    "emergency-services",
+    "facilities",
+    "historic-preservation",
+    "residents",
+    "constituent-complaints",
+    "investigation",
+    "land-use",
+    "neighborhood-services",
+    "escalating"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael Monds",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-MONDS"
+    },
+    {
+      "name": "Robert Brandt",
+      "type": "person",
+      "canonical_id": "PERSON-ROBERT-BRANDT"
+    },
+    {
+      "name": "Marty Nave",
+      "type": "person",
+      "canonical_id": "PERSON-MARTY-NAVE"
+    },
+    {
+      "name": "Washington Square Neighborhood Association",
+      "type": "organization",
+      "canonical_id": "ORG-WSNA"
+    },
+    {
+      "name": "Maria Regina College",
+      "type": "organization",
+      "canonical_id": "ORG-MARIA-REGINA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Residents demanding stronger government accountability for private property owner safety standards and demolition timelines; advocacy for historic preservation and community input on redevelopment.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-MARIA-REGINA-CONGEL-2025Q2",
+    "DEDUP-CTX-NEWS-2025-00351"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Department of Water reference appears incidental to article focus; core departments are Fire and likely Planning/Permits",
+    "Fire investigation ongoing—cause still undetermined",
+    "Demolition timeline described as 'still being determined'—potential infrastructure/capital-planning follow-up needed",
+    "Strong community sentiment around historic preservation and economic development implications",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.localsyr.com)",
+    "Potential duplicate of CTX-NEWS-2025-00351"
+  ],
+  "last_relevance_update": null
+}

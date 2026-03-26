@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-NEWS-2025-00369",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/new-baseball-themed-splashpad-opens-at-cummings-field",
+  "publication_date": "2025-07-24",
+  "capture_date": "2026-03-26T00:40:36Z",
+  "title": "New baseball-themed splashpad opens at Cummings Field",
+  "summary": "Syracuse Parks, Recreation & Youth Programs opened a new baseball-themed splashpad at Cummings Field on July 24, 2025, replacing decommissioned baseball fields that suffered drainage issues. The splashpad was recommended by the Eastwood Association in 2021 and features baseball-themed design elements including baseball-adorned sprinkler and water systems. Commissioner Syeisha Bird indicated strong community engagement and future park development plans.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "parks",
+    "initiative-launch",
+    "facilities",
+    "water",
+    "infrastructure",
+    "announcement",
+    "resolved"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syeisha Bird",
+      "type": "person",
+      "canonical_id": "PERSON-SYEISHA-BIRD"
+    },
+    {
+      "name": "Eastwood Association",
+      "type": "organization",
+      "canonical_id": "ORG-EASTWOOD-ASSOCIATION"
+    },
+    {
+      "name": "Cummings Field",
+      "type": "system",
+      "canonical_id": "SYS-CUMMINGS-FIELD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Community-driven park improvement addressing infrastructure drainage problems with themed amenity that builds on neighborhood association recommendations, indicating alignment with constituent needs and parks investment priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts in extracted list ($2, $10,000) are from sponsored content and not relevant to article content",
+    "Article emphasizes constituent engagement and community recommendation pathway (2021 Eastwood Association proposal to 2025 implementation)",
+    "No budget figures provided for splashpad project",
+    "Drainage remediation context suggests prior infrastructure assessment work",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

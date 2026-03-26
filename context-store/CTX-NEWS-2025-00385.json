@@ -1,0 +1,74 @@
+{
+  "record_id": "CTX-NEWS-2025-00385",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://cnycentral.com/news/local/ice-comments-syracuse-business-owners-self-deportation-amid-visa-controversy-jeremey-dottin-neighbors-france",
+  "publication_date": "2025-11-19",
+  "capture_date": "2026-03-26T00:44:00Z",
+  "title": "ICE comments on Syracuse business owner’s self-deportation amid visa controversy",
+  "summary": "ICE detained a French business owner in Syracuse operating on an expired K-1 visa, leading to community intervention and his self-deportation. ICE stated the situation was avoidable and referenced available compliance tools including voluntary departure assistance, but the case highlights tensions between immigration enforcement and local business community protection.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:immigration-enforcement",
+    "PROVISIONAL:federal-programs",
+    "business-community",
+    "residents",
+    "state-agency",
+    "investigation",
+    "escalating"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Jeremy Dottin-Reina",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-DOTTIN-REINA"
+    },
+    {
+      "name": "Rick Reina",
+      "type": "person",
+      "canonical_id": "PERSON-RICK-REINA"
+    },
+    {
+      "name": "Syracuse Soapworks",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-SOAPWORKS"
+    },
+    {
+      "name": "Immigration and Customs Enforcement (ICE)",
+      "type": "organization",
+      "canonical_id": "ORG-ICE"
+    },
+    {
+      "name": "Department of Homeland Security",
+      "type": "organization",
+      "canonical_id": "ORG-DHS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Community mobilization to assist business owner evade federal enforcement suggests local constituents prioritize business continuity and immigrant integration over federal immigration compliance messaging.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-SANCTUARY-CITY-2025Q2"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on federal ICE action, not city policy—limited direct CIO relevance unless city considers digital tools for immigration compliance or community support systems.",
+    "Date discrepancy: headline says 2025-11-19, body says Nov. 11 incident with Nov. 18-20 updates; using article publication date as authoritative.",
+    "No city department involvement detected; this is federal-local tension case.",
+    "Possible future relevance: if city explores 'know your rights' digital tools or immigrant support infrastructure.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (cnycentral.com)"
+  ],
+  "last_relevance_update": null
+}

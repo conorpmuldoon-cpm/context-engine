@@ -1,0 +1,81 @@
+{
+  "record_id": "CTX-NEWS-2025-00312",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2025/03/dozens-of-new-homes-planned-for-vacant-lots-in-poor-syracuse-neighborhoods.html",
+  "publication_date": "2025-03-27",
+  "capture_date": "2026-03-24T11:04:29Z",
+  "title": "Dozens of new homes planned for vacant lots in poor Syracuse neighborhoods",
+  "summary": "Syracuse secured $40M in state Block-by-Block grant funding to construct 25+ affordable homes on vacant lots in South Side and Near West Side neighborhoods. Nonprofits including Home HeadQuarters and Jubilee Homes are purchasing land bank parcels to build single- and two-family homes affordable to residents earning up to 60% of area median income ($56,880 for family of four). The program aligns with the city's 2020 housing initiative and new comprehensive housing strategy focused on infill development and neighborhood stabilization.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "grants",
+    "economic-development",
+    "neighborhood-services",
+    "capital-planning",
+    "initiative-launch",
+    "state-agency",
+    "equity",
+    "land-use"
+  ],
+  "department_refs": [
+    "Office of Neighborhood and Business Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael Collins",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-COLLINS"
+    },
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Home HeadQuarters",
+      "type": "organization",
+      "canonical_id": "ORG-HOME-HEADQUARTERS"
+    },
+    {
+      "name": "Jubilee Homes",
+      "type": "organization",
+      "canonical_id": "ORG-JUBILEE-HOMES"
+    },
+    {
+      "name": "Greater Syracuse Land Bank",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-LAND-BANK"
+    },
+    {
+      "name": "New York State Division of Housing and Community Renewal",
+      "type": "organization",
+      "canonical_id": "ORG-NY-DHCR"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "State legislature prioritized Syracuse for Block-by-Block pilot; mayoral administration's housing goals being achieved ahead of 5-year target; city strategy alignment with state funding priorities demonstrates coordinated governance.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content truncated; full text unavailable behind paywall",
+    "Department refs inferred from Commissioner Michael Collins's role in 'neighborhood and business development'",
+    "No direct CIO system involvement detected; relevance is cross-departmental coordination and data/GIS implications for land bank operations",
+    "Land bank property transactions and cluster mapping could have GIS/data-governance implications for CIO",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from SingleFile HTML (subscriber content)"
+  ],
+  "last_relevance_update": null
+}

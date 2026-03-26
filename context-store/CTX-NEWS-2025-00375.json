@@ -1,0 +1,71 @@
+{
+  "record_id": "CTX-NEWS-2025-00375",
+  "source_agent": "link_importer",
+  "source_type": "news_article",
+  "source_url": "https://www.localsyr.com/news/local-news/syracuses-city-auditor-wants-to-prevent-vacant-structure-fires/",
+  "publication_date": "2025-07-31",
+  "capture_date": "2026-03-26T00:41:51Z",
+  "title": "Syracuse report urges steps to curb vacant building fires",
+  "summary": "Syracuse City Auditor Alexander Marion released a 100+ page report titled 'Following the Fire' analyzing 87 structure fires in 2024, of which 25 (approximately one-third) occurred in vacant buildings. The report recommends immediate actions including enhanced property inspections, FEMA-standard labeling of unsafe structures with red 'X' signs, and pattern identification to enable early interventions and prevent future fires that endanger both residents and first responders.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "audit",
+    "fire",
+    "emergency-services",
+    "public-safety-commission",
+    "housing",
+    "code-enforcement",
+    "initiative-launch",
+    "transparency",
+    "data-governance"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department",
+    "City Auditor's Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Alexander Marion",
+      "type": "person",
+      "canonical_id": "PERSON-ALEXANDER-MARION"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    },
+    {
+      "name": "FEMA",
+      "type": "organization",
+      "canonical_id": "ORG-FEMA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "City Auditor champions data-driven approach to public safety crisis (1/3 of fires in vacant buildings), recommending systematic interventions and establishing inspection standards",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "CLUSTER-FISCAL-AUDIT-2026Q1",
+    "DEDUP-CTX-NEWS-2025-00107"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Report 'Following the Fire' is primary deliverable and should be cataloged as standalone asset",
+    "No budget impacts mentioned; implementation costs for inspection program and signage unknown",
+    "Potential CIO relevance: data analytics, GIS mapping for pattern identification, permitting system integration for inspection tracking",
+    "FEMA standard labeling suggests intergovernmental coordination opportunity",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Imported from email link archive (www.localsyr.com)",
+    "Potential duplicate of CTX-NEWS-2025-00107"
+  ],
+  "last_relevance_update": null
+}
