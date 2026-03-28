@@ -1,0 +1,52 @@
+{
+  "record_id": "CTX-NEWS-2026-00012",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/tv/2026/03/popular-syracuse-university-building-to-be-featured-in-new-fox-nation-series.html",
+  "publication_date": "2026-03-28",
+  "capture_date": "2026-03-28T14:02:32Z",
+  "title": "Popular Syracuse University building to be featured in new FOX Nation series",
+  "summary": "Syracuse University's architecture is being featured in an upcoming FOX Nation television series. This represents positive media exposure for the institution and the Syracuse region, though the article provides limited detail about the specific building or series content.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "trending"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "FOX Nation",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Kelly Corbett",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily entertainment/media coverage with limited municipal policy relevance",
+    "No city government departments, budgets, or initiatives directly referenced",
+    "May have tangential value for economic-development or tourism positioning but requires full article content to assess",
+    "No actionable intelligence for CIO operations detected",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

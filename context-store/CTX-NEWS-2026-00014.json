@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-NEWS-2026-00014",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/03/federal-judge-orders-ice-border-patrol-to-release-records-sought-by-syracuse-group.html",
+  "publication_date": "2026-03-27",
+  "capture_date": "2026-03-28T14:02:38Z",
+  "title": "Federal judge orders ICE, border patrol to release records sought by Syracuse group",
+  "summary": "A federal judge ruled in favor of TRAC (Transactional Records Access Clearinghouse), a Syracuse University-based research group, ordering ICE and U.S. Customs and Border Protection to release detailed enforcement data through a FOIA lawsuit. The ruling enables greater transparency into federal immigration enforcement operations and demonstrates successful use of public records mechanisms.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "transparency",
+    "federal-programs",
+    "data-governance",
+    "intergovernmental",
+    "investigation"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Transactional Records Access Clearinghouse",
+      "type": "organization",
+      "canonical_id": "ORG-TRAC"
+    },
+    {
+      "name": "Susan B. Long",
+      "type": "person",
+      "canonical_id": "PERSON-SUSAN-LONG"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement",
+      "type": "organization",
+      "canonical_id": "ORG-ICE"
+    },
+    {
+      "name": "U.S. Customs and Border Protection",
+      "type": "organization",
+      "canonical_id": "ORG-CBP"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Syracuse-based research institution successfully challenged federal agencies on transparency grounds, advancing open government principles and data access rights.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on judicial/legal action rather than direct CIO operations; relevance is data governance and federal transparency precedent",
+    "No direct city budget or departmental impact identified",
+    "Potential interest for CIO regarding FOIA process best practices and data transparency frameworks",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,50 @@
+{
+  "record_id": "CTX-NEWS-2026-00013",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/traffic/2026/03/traffic-alert-heavy-traffic-expected-near-dome-saturday-for-syracuse-lacrosse-doubleheader.html",
+  "publication_date": "2026-03-28",
+  "capture_date": "2026-03-28T14:02:35Z",
+  "title": "Traffic alert: Heavy traffic expected near dome Saturday for Syracuse lacrosse doubleheader",
+  "summary": "Syracuse Police Department issued a traffic alert for heavy congestion expected around JMA Wireless Dome on Saturday due to Syracuse University hosting a lacrosse doubleheader (women's vs. Pittsburgh at 10 a.m., men's vs. Duke at 2 p.m.). The alert advises drivers and fans to plan ahead and arrive early to mitigate delays.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "police",
+    "transportation",
+    "emergency-services"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "JMA Wireless Dome",
+      "type": "system",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is a routine traffic advisory with no direct CIO relevance unless contextualized within smart traffic management or real-time event coordination initiatives",
+    "No city budget, policy, or departmental operations impact identified",
+    "Potential secondary relevance: could inform transportation/GIS systems planning for high-traffic events",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
