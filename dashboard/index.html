@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Context Engine — Syracuse CME</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <h1>Context Engine</h1>
+    <p class="subtitle">City of Syracuse — Change Management Ecosystem</p>
+  </div>
+</header>
+
+<nav class="tabs">
+  <a href="#/" class="tab active" data-view="dashboard">Dashboard</a>
+  <a href="#/records" class="tab" data-view="records">Records</a>
+  <a href="#/clusters" class="tab" data-view="clusters">Clusters</a>
+  <a href="#/briefings" class="tab" data-view="briefings">Briefings</a>
+  <a href="#/submit" class="tab" data-view="submit">Submit</a>
+</nav>
+
+<!-- Dashboard View -->
+<main id="view-dashboard" class="view">
+  <div class="stats-grid" id="stats-grid"></div>
+  <div class="two-col">
+    <section class="card">
+      <h2>Records by Source</h2>
+      <div id="chart-source"></div>
+    </section>
+    <section class="card">
+      <h2>Top Tags</h2>
+      <div id="chart-tags"></div>
+    </section>
+  </div>
+  <section class="card">
+    <h2>Records by Month</h2>
+    <div id="chart-timeline"></div>
+  </section>
+  <section class="card">
+    <h2>Recent Records</h2>
+    <div id="recent-records"></div>
+  </section>
+</main>
+
+<!-- Records View -->
+<main id="view-records" class="view" style="display:none">
+  <div class="search-bar">
+    <input type="text" id="search-input" placeholder="Search records by title, summary, entity...">
+    <span id="search-count" class="search-count"></span>
+  </div>
+  <div class="filters">
+    <select id="filter-source">
+      <option value="">All Sources</option>
+    </select>
+    <select id="filter-dept">
+      <option value="">All Departments</option>
+    </select>
+    <select id="filter-tag">
+      <option value="">All Tags</option>
+    </select>
+    <select id="filter-sentiment">
+      <option value="">All Sentiments</option>
+    </select>
+    <select id="filter-signal">
+      <option value="">All Signals</option>
+    </select>
+    <button id="clear-filters" class="btn-secondary">Clear</button>
+  </div>
+  <div id="records-list" class="records-list"></div>
+  <div class="pagination" id="pagination"></div>
+</main>
+
+<!-- Clusters View -->
+<main id="view-clusters" class="view" style="display:none">
+  <div class="search-bar">
+    <input type="text" id="cluster-search" placeholder="Search clusters...">
+  </div>
+  <div id="clusters-list" class="clusters-list"></div>
+</main>
+
+<!-- Briefings View -->
+<main id="view-briefings" class="view" style="display:none">
+  <div id="briefings-list" class="briefings-list"></div>
+</main>
+
+<!-- Submit View -->
+<main id="view-submit" class="view" style="display:none">
+  <section class="card">
+    <h2>Submit New Record</h2>
+    <p>Submit intelligence for the Context Engine by opening a GitHub Issue. The form will guide you through the required fields.</p>
+    <a href="" id="new-record-link" class="btn" target="_blank">Open New Record Form</a>
+  </section>
+  <section class="card">
+    <h2>Request a Briefing</h2>
+    <p>Request a context briefing on any department, topic, or cluster. The Innovation Team will generate it.</p>
+    <a href="" id="briefing-request-link" class="btn" target="_blank">Open Briefing Request Form</a>
+  </section>
+</main>
+
+<!-- Record Detail Modal -->
+<div id="modal-overlay" class="modal-overlay" style="display:none">
+  <div class="modal">
+    <button class="modal-close" id="modal-close">&times;</button>
+    <div id="modal-content"></div>
+  </div>
+</div>
+
+<footer>
+  <p>Context Engine v1.0 &mdash; Office of Analytics, Performance &amp; Innovation</p>
+  <p id="footer-generated"></p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

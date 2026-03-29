@@ -1,0 +1,42 @@
+name: Briefing Request
+description: Request a context briefing on a department, topic, or cluster
+title: "[Briefing] "
+labels: ["briefing-request"]
+body:
+  - type: dropdown
+    id: briefing_type
+    attributes:
+      label: Briefing Type
+      options:
+        - Department briefing
+        - Topic/theme briefing
+        - Cluster briefing
+        - Pre-interview package
+    validations:
+      required: true
+
+  - type: input
+    id: target
+    attributes:
+      label: Target
+      description: Which department, topic, or cluster should this briefing cover?
+      placeholder: "e.g., Department of Public Works, lead remediation, CLUSTER-SHA-GOVERNANCE-CRISIS-2025"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: time_range
+    attributes:
+      label: Time Range
+      description: How far back should the briefing look?
+      options:
+        - Last 3 months
+        - Last 6 months
+        - Last 12 months
+        - All available records
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Any additional context — upcoming meetings, specific questions to answer, people to focus on

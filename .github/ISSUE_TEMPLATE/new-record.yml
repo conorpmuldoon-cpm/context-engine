@@ -1,0 +1,74 @@
+name: New Context Record
+description: Submit intelligence for the Context Engine
+title: "[Record] "
+labels: ["new-record"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      description: Short descriptive title for this intelligence
+      placeholder: "e.g., Council approves DPW capital bond"
+    validations:
+      required: true
+
+  - type: input
+    id: source_url
+    attributes:
+      label: Source URL
+      description: Link to the original source (article, press release, meeting page)
+      placeholder: "https://..."
+
+  - type: dropdown
+    id: source_type
+    attributes:
+      label: Source Type
+      options:
+        - news_article
+        - press_release
+        - council_segment
+        - board_minutes
+        - budget_document
+        - public_notice
+        - meeting_notes
+        - other
+    validations:
+      required: true
+
+  - type: input
+    id: publication_date
+    attributes:
+      label: Publication Date
+      description: When was this published or occurred?
+      placeholder: "YYYY-MM-DD"
+    validations:
+      required: true
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: 2-4 sentence summary of the key intelligence
+      placeholder: "What happened? Who was involved? Why does it matter?"
+    validations:
+      required: true
+
+  - type: input
+    id: departments
+    attributes:
+      label: Departments
+      description: Which city departments are involved? (comma-separated)
+      placeholder: "e.g., Department of Public Works, Syracuse Police Department"
+
+  - type: input
+    id: tags
+    attributes:
+      label: Topic Tags
+      description: Relevant tags from the taxonomy (comma-separated)
+      placeholder: "e.g., budget, infrastructure, police"
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional Notes
+      description: Any context the Librarian should know when processing this record
