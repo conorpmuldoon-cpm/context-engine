@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2026-00015",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/highschoolsports/2026/03/cicero-north-syracuse-grad-nets-game-winning-ot-goal-for-le-moyne-womens-lacrosse.html",
+  "publication_date": "2026-03-29",
+  "capture_date": "2026-03-29T14:05:09Z",
+  "title": "Cicero-North Syracuse grad nets game-winning OT goal for Le Moyne women’s lacrosse",
+  "summary": "Local news article covering Le Moyne College women's lacrosse victory featuring two Cicero-North Syracuse high school graduates. Not directly relevant to City of Syracuse municipal operations, innovation, or policy.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Le Moyne College",
+      "type": "organization",
+      "canonical_id": "ORG-LEMOYNE"
+    },
+    {
+      "name": "Francesca Tortora",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Mackenzie Prentice",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Cicero-North Syracuse",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Wagner College",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is sports news with no municipal governance, innovation, or policy relevance",
+    "Geographic references are to regional high school and colleges, not City of Syracuse municipal operations",
+    "No connection to CIO mandate or city innovation initiatives detected",
+    "Recommend filtering out similar non-municipal sports coverage in future ingestion",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

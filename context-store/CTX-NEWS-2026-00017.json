@@ -1,0 +1,47 @@
+{
+  "record_id": "CTX-NEWS-2026-00017",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/sports/2026/03/le-moyne-mens-lacrosse-falls-to-robert-morris-in-nec-matchup.html",
+  "publication_date": "2026-03-29",
+  "capture_date": "2026-03-29T14:05:15Z",
+  "title": "Le Moyne men’s lacrosse falls to Robert Morris in NEC matchup",
+  "summary": "Le Moyne College men's lacrosse team lost 19-4 to Robert Morris University in Northeast Conference play, falling to 2-9 overall and 1-2 in conference. This article reports on a collegiate sports event with no direct relevance to City of Syracuse municipal operations or Chief Innovation Officer priorities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Le Moyne College",
+      "type": "organization",
+      "canonical_id": "ORG-LEMOYNE"
+    },
+    {
+      "name": "Robert Morris University",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is sports reporting with no municipal government relevance",
+    "No City of Syracuse operations, policy, or innovation initiatives mentioned",
+    "No applicable tags from provided list match content",
+    "Retained entity references for completeness, but minimal CIO context value",
+    "Recommend filtering from CIO knowledge base unless tracking local institutional partnerships",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

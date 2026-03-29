@@ -1,0 +1,84 @@
+2026-03-29 14:05:05,398 [INFO] ============================================================
+2026-03-29 14:05:05,398 [INFO] News Scanner starting
+2026-03-29 14:05:05,399 [INFO] Fetching: Syracuse.com Politics
+2026-03-29 14:05:05,903 [INFO]   50 new articles from Syracuse.com Politics
+2026-03-29 14:05:05,903 [INFO] Fetching: Syracuse.com Government
+2026-03-29 14:05:06,083 [INFO]   0 new articles from Syracuse.com Government
+2026-03-29 14:05:06,084 [INFO] Fetching: Syracuse.com Local
+2026-03-29 14:05:06,253 [INFO]   0 new articles from Syracuse.com Local
+2026-03-29 14:05:06,253 [INFO] Fetching: Syracuse.com Main
+2026-03-29 14:05:06,407 [INFO]   0 new articles from Syracuse.com Main
+2026-03-29 14:05:06,408 [INFO] Total unique articles across all feeds: 50
+2026-03-29 14:05:06,408 [INFO] New articles (not previously processed): 50
+2026-03-29 14:05:06,453 [DEBUG]   Filtered (not relevant): NCAA Tournament 2026: Sunday’s Elite 8 TV schedule, bracket update
+2026-03-29 14:05:06,453 [DEBUG]   Filtered (not relevant): Cayuga County real estate: See all residential properties sold, March 16-22
+2026-03-29 14:05:06,454 [DEBUG]   Filtered (not relevant): Dear Annie: A Palm Sunday message about the importance of daily small gestures
+2026-03-29 14:05:06,455 [DEBUG]   Filtered (not relevant): Updated BetMGM Bonus Code CUSE150: $150 bonus and $5K+ casino bonus in MI for Pa
+2026-03-29 14:05:06,455 [DEBUG]   Filtered (not relevant): Asking Eric: I discovered wife’s secret photos of close friend; do I confront he
+2026-03-29 14:05:06,456 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 spring media day track coach poll: Natural born leader
+2026-03-29 14:05:06,456 [INFO]   Relevant: Cicero-North Syracuse grad nets game-winning OT goal for Le Moyne women’s lacros
+2026-03-29 14:05:06,456 [DEBUG]     → Entities: Le Moyne College
+2026-03-29 14:05:09,490 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-03-29 14:05:09,512 [INFO]     Saved: CTX-NEWS-2026-00015 → CTX-NEWS-2026-00015.json
+2026-03-29 14:05:09,513 [DEBUG]   Filtered (not relevant): Madison County real estate: See all residential properties sold, March 16-22
+2026-03-29 14:05:09,513 [DEBUG]   Filtered (not relevant): Truck carrying 413,793 KitKat bars vanishes in Europe
+2026-03-29 14:05:09,513 [DEBUG]   Filtered (not relevant): Editorial cartoons for March 29, 2026: Iran war planning, airport chaos, social 
+2026-03-29 14:05:09,514 [DEBUG]   Filtered (not relevant): Four-story retail and residential building proposed near Northeast Medical Cente
+2026-03-29 14:05:09,514 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 spring media day track athlete poll: Most competitive teamma
+2026-03-29 14:05:09,514 [DEBUG]   Filtered (not relevant): Asking Eric: I sent a sympathy box when your husband died; where’s my ‘thank-you
+2026-03-29 14:05:09,515 [DEBUG]   Filtered (not relevant): $4.3 million for lakeside contemporary: Plus 94 more Onondaga County home sales
+2026-03-29 14:05:09,515 [DEBUG]   Filtered (not relevant): The SAVE Act isn’t about voter fraud. It’s about voter suppression (Editorial Bo
+2026-03-29 14:05:09,516 [DEBUG]   Filtered (not relevant): ICE shipped NY man to Louisiana. Stranger got him home (Top stories)
+2026-03-29 14:05:09,516 [DEBUG]   Filtered (not relevant): Classic rock singer releases first new album in 17 years, announces tour dates
+2026-03-29 14:05:09,517 [DEBUG]   Filtered (not relevant): Central NY weather: Warm temps give way to heavy rain by Tuesday
+2026-03-29 14:05:09,517 [DEBUG]   Filtered (not relevant): Dear Abby: Thorny start to relationship with new neighbor over a shrub on shared
+2026-03-29 14:05:09,518 [DEBUG]   Filtered (not relevant): Legendary rock band announces lineup change for new tour
+2026-03-29 14:05:09,518 [DEBUG]   Filtered (not relevant): CNY Inspirations: Inspired by those who practice
+2026-03-29 14:05:09,518 [INFO]   Relevant: Syracuse lacrosse couldn’t play defense vs. Duke but found another ‘D’ its been 
+2026-03-29 14:05:09,518 [DEBUG]     → Entities: Syracuse University
+2026-03-29 14:05:12,384 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-03-29 14:05:12,393 [INFO]     Saved: CTX-NEWS-2026-00016 → CTX-NEWS-2026-00016.json
+2026-03-29 14:05:12,394 [DEBUG]   Filtered (not relevant): Dear Abby: You became too busy for friendship; I’m not interested in continuing 
+2026-03-29 14:05:12,395 [INFO]   Relevant: Le Moyne men’s lacrosse falls to Robert Morris in NEC matchup
+2026-03-29 14:05:12,395 [DEBUG]     → Entities: Le Moyne College
+2026-03-29 14:05:15,019 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-03-29 14:05:15,028 [INFO]     Saved: CTX-NEWS-2026-00017 → CTX-NEWS-2026-00017.json
+2026-03-29 14:05:15,029 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Saturday’s $166 million drawing
+2026-03-29 14:05:15,029 [DEBUG]   Filtered (not relevant): Veteran defender says he’s ‘trying to’ return to Buffalo Bills in 2026
+2026-03-29 14:05:15,030 [DEBUG]   Filtered (not relevant): Upstate NY ‘No Kings’ protests bring tens of thousands of people to the streets
+2026-03-29 14:05:15,030 [DEBUG]   Filtered (not relevant): Former All-Central NY guard Deng Garang to enter transfer portal after 2 seasons
+2026-03-29 14:05:15,031 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for March 28
+2026-03-29 14:05:15,031 [DEBUG]   Filtered (not relevant): Anderson continues rapid rise with career-high 5 points vs. Duke: ‘He’s basicall
+2026-03-29 14:05:15,032 [DEBUG]   Filtered (not relevant): Elite 8 BetMGM Bonus Code CUSE150 announced: $150 bonus and $5K casino deals for
+2026-03-29 14:05:15,032 [DEBUG]   Filtered (not relevant): MLB Kalshi Promo Code SYRACUSE: Upgraded $10 bonus for Yankees in NY
+2026-03-29 14:05:15,033 [DEBUG]   Filtered (not relevant): Where to watch Mexico friendly today: International soccer free live stream
+2026-03-29 14:05:15,033 [DEBUG]   Filtered (not relevant): Where to watch Formula 1 Japan Grand Prix: Race start time, free stream
+2026-03-29 14:05:15,033 [DEBUG]   Filtered (not relevant): Le Moyne men’s lacrosse box score at Robert Morris
+2026-03-29 14:05:15,034 [DEBUG]   Filtered (not relevant): Most expensive homes sold in five Central NY counties from March 16 to 22
+2026-03-29 14:05:15,034 [DEBUG]   Filtered (not relevant): Cayuga County real estate: 10 most expensive properties sold, March 16-22
+2026-03-29 14:05:15,035 [DEBUG]   Filtered (not relevant): Where to watch Purdue vs. Arizona: March Madness free live stream
+2026-03-29 14:05:15,035 [DEBUG]   Filtered (not relevant): General Brown boys lacrosse knocks off Westhill for 1st time since 2019: ‘It was
+2026-03-29 14:05:15,036 [DEBUG]   Filtered (not relevant): Elite 8 Novig Promo Code SYRACUSE: New “Spend 5, Get $50″ bonus!
+2026-03-29 14:05:15,036 [DEBUG]   Filtered (not relevant): Syracuse lacrosse squeaks by Duke in electric shootout to earn 6th straight win 
+2026-03-29 14:05:15,036 [DEBUG]   Filtered (not relevant): Syracuse lacrosse box score vs. Duke
+2026-03-29 14:05:15,037 [DEBUG]   Filtered (not relevant): No. 2 UConn vs. No. 1 Duke Elite 8 odds update: Experts adjust predictions, Booz
+2026-03-29 14:05:15,037 [DEBUG]   Filtered (not relevant): 6,000 to 7,000 turn out for anti-Trump ‘No Kings’ protest in DeWitt (34 photos, 
+2026-03-29 14:05:15,038 [DEBUG]   Filtered (not relevant): Epic cereal box domino chain at Syracuse school leads to big donation
+2026-03-29 14:05:15,038 [DEBUG]   Filtered (not relevant): Lifetime’s new thriller ‘The Man in the Window’ premieres tonight: How to watch 
+2026-03-29 14:05:15,039 [DEBUG]   Filtered (not relevant): $150 BetMGM Bonus Code “CUSE150” upgraded in PA and MI for MLB, NBA, and NCAA!
+2026-03-29 14:05:15,039 [DEBUG]   Filtered (not relevant): Madison County real estate: 5 most expensive homes sold, March 16-22
+2026-03-29 14:05:15,040 [DEBUG]   Filtered (not relevant): Where to watch Iowa vs. Illinois today: March Madness free live stream
+2026-03-29 14:05:15,040 [DEBUG]   Filtered (not relevant): ‘Back to the Future’ actor dies at 94 in Upstate NY
+2026-03-29 14:05:15,041 [INFO] News Scanner Run — 2026-03-29 14:05
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • Cicero-North Syracuse grad nets game-winning OT goal for Le Moyne women’s lacros
+  • Syracuse lacrosse couldn’t play defense vs. Duke but found another ‘D’ its been 
+  • Le Moyne men’s lacrosse falls to Robert Morris in NEC matchup
+
