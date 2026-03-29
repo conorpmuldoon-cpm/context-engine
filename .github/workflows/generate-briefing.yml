@@ -1,0 +1,135 @@
+name: Generate Briefing
+
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: write
+  issues: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: briefing-${{ github.event.issue.number }}
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    if: contains(github.event.label.name, 'briefing-request')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install anthropic
+
+      - name: Parse issue body
+        id: parse
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          # Extract target field (line after "### Target")
+          TARGET=$(echo "$ISSUE_BODY" | sed -n '/### Target/{n;/^$/d;p;}' | head -1 | xargs)
+
+          # Extract time range (line after "### Time Range")
+          TIME_RANGE=$(echo "$ISSUE_BODY" | sed -n '/### Time Range/{n;/^$/d;p;}' | head -1 | xargs)
+
+          # Convert time range to days
+          case "$TIME_RANGE" in
+            "Last 3 months") DAYS=90 ;;
+            "Last 6 months") DAYS=180 ;;
+            "Last 12 months") DAYS=365 ;;
+            "All available records") DAYS=9999 ;;
+            *) DAYS=365 ;;
+          esac
+
+          echo "target=$TARGET" >> $GITHUB_OUTPUT
+          echo "days=$DAYS" >> $GITHUB_OUTPUT
+          echo "Parsed: target='$TARGET', days=$DAYS"
+
+      - name: Generate briefing
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python scripts/gen_briefing.py \
+            --target "${{ steps.parse.outputs.target }}" \
+            --days ${{ steps.parse.outputs.days }}
+
+      - name: Build dashboard data
+        run: python scripts/build_dashboard.py
+
+      - name: Commit briefing
+        run: |
+          git config user.name "Context Engine Bot"
+          git config user.email "noreply@context-engine.bot"
+          git add outputs/briefings/ dashboard/data/
+          git commit -m "Auto: briefing for '${{ steps.parse.outputs.target }}'"
+          git push
+
+      - name: Comment on issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+
+            // Find the newest briefing file
+            const briefDir = 'outputs/briefings';
+            const files = fs.readdirSync(briefDir)
+              .filter(f => f.endsWith('.md'))
+              .sort()
+              .reverse();
+            const newest = files[0] || 'unknown';
+
+            const dashboardUrl = 'https://conorpmuldoon-cpm.github.io/context-engine/#/briefings';
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `## Briefing Generated\n\nYour briefing has been generated and saved to \`${briefDir}/${newest}\`.\n\nView it on the [Context Engine Dashboard](${dashboardUrl}).\n\nThe dashboard will update within a few minutes.`
+            });
+
+      - name: Close issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });
+
+  # Trigger dashboard deployment after briefing is committed
+  deploy:
+    needs: generate
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main  # Get the latest commit (with new briefing)
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build dashboard data
+        run: python scripts/build_dashboard.py
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dashboard
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
