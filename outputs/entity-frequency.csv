@@ -1,0 +1,999 @@
+Count,Name,Type,Canonical ID
+186,Ben Walsh,person,PERSON-BEN-WALSH
+117,Sharon F. Owens,person,PERSON-SHARON-OWENS
+63,Syracuse Common Council,organization,ORG-SYRACUSE-COUNCIL
+51,City of Syracuse,organization,ORG-CITY-SYRACUSE
+46,Pat Hogan,person,PERSON-PAT-HOGAN
+41,Rita Paniagua,person,PERSON-RITA-PANIAGUA
+40,Donna Moore,person,PERSON-DONNA-MOORE
+38,Syracuse University,organization,ORG-SU
+36,Rasheada Caldwell,person,PERSON-RASHEADA-CALDWELL
+32,Patrona Jones-Rowser,person,PERSON-PATRONA-JONES-ROWSER
+32,Marino L. Nave,person,PERSON-NAVE-COUNCIL
+31,Hanah Ehrenreich,person,PERSON-HANAH-EHRENREICH
+30,Jimmy Monto,person,PERSON-JIMMY-MONTO
+30,Sharon Owens,person,PERSON-SHARON-OWENS
+28,Dr. Chol Majok,person,PERSON-MAJOK-COUNCIL
+27,Corey Williams,person,PERSON-COREY-WILLIAMS
+24,Joe Cecile,person,PERSON-JOE-CECILE
+23,Corey J. Williams,person,PERSON-WILLIAMS-COUNCIL
+22,Michael Collins,person,PERSON-MICHAEL-COLLINS
+22,Chol Majok,person,PERSON-CHOL-MAJOK
+22,Office of Communications,organization,ORG-COMMUNICATIONS
+20,Ryan McMahon,person,PERSON-RYAN-MCMAHON
+18,Michael Monds,person,PERSON-MICHAEL-MONDS
+16,National Grid,organization,ORG-NATIONAL-GRID
+16,Syracuse Housing Authority,organization,ORG-SHA
+15,Veo,organization,ORG-VEO
+15,Robert Brandt,person,PERSON-ROBERT-BRANDT
+15,Alexander Marion,person,PERSON-ALEXANDER-MARION
+14,Syracuse Police Department,organization,ORG-SPD
+14,Marty Nave,person,PERSON-MARTY-NAVE
+14,Joseph Cecile,person,PERSON-JOSEPH-CECILE
+14,Kathy Hochul,person,PERSON-KATHY-HOCHUL
+13,Onondaga County,organization,ORG-ONONDAGA-COUNTY
+13,Jeremy Boyer,person,PERSON-JEREMY-BOYER
+13,City of Syracuse Department of Water,organization,ORG-WATER-DEPT
+12,SWC/UKG,system,SYS-SWC
+12,Helen Hudson,person,PERSON-HELEN-HUDSON
+12,Mary Kielar,person,PERSON-MARY-KIELAR
+12,Clear Investment Group,organization,ORG-CLEAR-INVESTMENT
+11,Onondaga County Resource Recovery Agency,organization,ORG-OCCRA
+11,Syracuse City School District,organization,ORG-SCSD
+11,Bill Simmons,person,PERSON-BILL-SIMMONS
+11,Greg Loh,person,PERSON-GREG-LOH
+11,Micron Technology,organization,ORG-MICRON
+10,Bonadio Group,organization,ORG-BONADIO
+10,Amir Gethers,person,PERSON-AMIR-GETHERS
+9,Syeisha Byrd,person,PERSON-BYRD-PARKS
+9,Jake Dishaw,person,PERSON-JAKE-DISHAW
+8,Mosaic Consulting Group,organization,ORG-MOSAIC-CONSULTING
+8,Mary E. Robison,person,PERSON-ROBISON-ENGINEERING
+8,Comstock Avenue,location,
+8,New York State Department of Transportation,organization,ORG-NYDOT
+8,Syracuse Police Benevolent Association,organization,ORG-SPBA
+8,Anthony Davis,person,PERSON-ANTHONY-DAVIS
+7,Le Moyne College,organization,ORG-LEMOYNE
+7,BFC Partners,organization,ORG-BFC-PARTNERS
+7,SAEVI,organization,
+7,Hayner Hoyt Corporation,organization,ORG-HAYNER-HOYT
+7,Common Council,organization,ORG-COMMON-COUNCIL
+7,Brandon Ladd,person,
+7,Skaneateles Lake,system,SYS-SKANEATELES-LAKE
+6,Jeffrey Hoover,person,
+6,Paul Kalabufo,person,
+6,Parkside Commons,organization,
+6,AS400,system,SYS-AS400
+6,Gary Robinson Jr.,person,
+6,Amy Rubenstein,person,PERSON-AMY-RUBENSTEIN
+6,Ryan Shiel,person,
+6,Mayor Walsh,person,PERSON-WALSH-MAYOR
+6,CNY Central,organization,ORG-CNY-CENTRAL
+6,Alex Marion,person,PERSON-ALEX-MARION
+6,Corey Driscoll Dunham,person,PERSON-COREY-DRISCOLL-DUNHAM
+6,Jeremy Robinson,person,PERSON-JEREMY-ROBINSON
+6,Mark Congel,person,PERSON-MARK-CONGEL
+6,Stephanie Miner,person,PERSON-STEPHANIE-MINER
+6,U.S. Environmental Protection Agency,organization,ORG-EPA
+6,CenterState CEO,organization,ORG-CENTERSTATE-CEO
+6,Tim Knauss,person,PERSON-TIM-KNAUSS
+5,Axon,organization,ORG-AXON
+5,Flock Group,organization,ORG-FLOCK
+5,Neil Burke,person,PERSON-NEIL-BURKE
+5,Michael Layman,person,PERSON-LAYMAN-ASSESSMENT
+5,Candice Xie,person,PERSON-CANDICE-XIE
+5,Lateef Johnson-Kinsey,person,PERSON-LATEEF-JOHNSON-KINSEY
+5,Advanced IT,organization,ORG-ADVANCED-IT
+5,WAER,organization,ORG-WAER
+5,New York State Department of Environmental Conservation,organization,ORG-NYSDEC
+5,Home HeadQuarters,organization,ORG-HOME-HEADQUARTERS
+5,Frank Caliva,person,PERSON-FRANK-CALIVA
+5,Kelsey May,person,PERSON-KELSEY-MAY
+5,Rachel May,person,PERSON-RACHEL-MAY
+5,Joe Driscoll,person,PERSON-JOE-DRISCOLL
+5,Eric Ennis,person,PERSON-ERIC-ENNIS
+5,Kieran Coffey,person,PERSON-KIERAN-COFFEY
+5,New York State Senate,organization,ORG-NYS-SENATE
+5,Kelsey Francemone,person,PERSON-KELSEY-FRANCEMONE
+4,Greater Syracuse Property Development Corporation,organization,
+4,Citizen Review Board,organization,ORG-CRB
+4,Centro,organization,ORG-CENTRO
+4,Rich Trudeau,person,
+4,JCOM,organization,
+4,Ostrom Avenue,location,
+4,Syracuse Housing Strategies Corporation,organization,ORG-SHSC
+4,Onondaga Community College,organization,ORG-OCC
+4,Skyline Apartments,organization,PROPERTY-SKYLINE-APARTMENTS
+4,Michael Cannizzaro,person,PERSON-MICHAEL-CANNIZZARO
+4,McCormack Baron Salazar,organization,ORG-MBS
+4,Jaumar Chandler,person,
+4,New York State,organization,ORG-NYS
+4,Joe Moran,person,PERSON-JOE-MORAN
+4,Surge Link,organization,ORG-SURGE-LINK
+4,Federal Highway Administration,organization,ORG-FHWA
+4,Hannah Devanny,person,PERSON-HANNAH-DEVANNY
+4,JF Real Estate,organization,ORG-JF-REAL-ESTATE
+4,Pamela Odom,person,PERSON-PAMELA-ODOM
+4,John Mannion,person,PERSON-JOHN-MANNION
+4,SUNY College of Environmental Science and Forestry,organization,ORG-SUNY-ESF
+4,Governor Kathy Hochul,person,PERSON-KATHY-HOCHUL
+4,United Way of Central New York,organization,ORG-UWCNY
+4,Gary Porter,person,PERSON-GARY-PORTER
+4,Rescue Mission,organization,ORG-RESCUE-MISSION
+4,Donald Trump,person,PERSON-DONALD-TRUMP
+4,Kristi Noem,person,PERSON-KRISTI-NOEM
+4,Blueprint 15,organization,ORG-BLUEPRINT-15
+4,Sol Muñoz,person,PERSON-SOL-MUNOZ
+4,Greater Syracuse Land Bank,organization,ORG-SYRACUSE-LAND-BANK
+4,Gerry McNamara,person,
+3,Crouse Health Hospital,organization,ORG-CROUSE
+3,LaBella Associates,organization,ORG-LABELLA
+3,Joe Barry,person,PERSON-JOE-BARRY
+3,Mark Rusin,person,PERSON-MARK-RUSIN
+3,CNS Engineers,organization,ORG-CNS-ENGINEERS
+3,Downtown Syracuse Foundation,organization,ORG-DTSF
+3,Scott Willis,person,PERSON-SCOTT-WILLIS
+3,Nicole La Fiandra,person,
+3,Nob Hill Apartments,organization,ORG-NOB-HILL-APT
+3,C&S Companies,organization,
+3,EY (Ernst & Young),organization,ORG-EY
+3,Tim Rudd,person,PERSON-TIM-RUDD
+3,Onondaga Nation,organization,ORG-ONONDAGA-NATION
+3,Matt Oja,person,PERSON-MATT-OJA
+3,Richard Shoff,person,PERSON-RICHARD-SHOFF
+3,Ann Rooney,person,PERSON-ANN-ROONEY
+3,Mayor Ben Walsh,person,PERSON-BEN-WALSH
+3,Oceanna Fair,person,PERSON-OCEANNA-FAIR
+3,Families for Lead Freedom Now,organization,ORG-FLFN
+3,Mayor's Office to Reduce Gun Violence,system,SYS-MORGV
+3,Home Leasing,organization,ORG-HOME-LEASING
+3,Maria Regina College,organization,ORG-MARIA-REGINA
+3,Destiny USA,organization,
+3,Micron,organization,
+3,Syracuse Planning Commission,organization,
+3,Jenoptik,organization,ORG-JENOPTIK
+3,New York Civil Liberties Union,organization,ORG-NYCLU
+3,Onondaga County Sheriff's Office,organization,ORG-ONONDAGA-SHERIFF
+3,Onondaga County Legislature,organization,ORG-ONONDAGA-COUNTY-LEG
+3,Matthew Benninger,person,
+3,Syracuse City Hall,organization,
+3,Connor Muldoon,person,PERSON-CONNOR-MULDOON
+3,Albanese Organization,organization,ORG-ALBANESE
+3,New York State Division of Criminal Justice Services,organization,ORG-NYDCJS
+3,Jubilee Homes,organization,ORG-JUBILEE-HOMES
+3,Greta Stuckey,person,PERSON-GRETA-STUCKEY
+3,The Bonadio Group,organization,ORG-BONADIO-GROUP
+3,Salt City Market,organization,
+3,Toby Shelley,person,PERSON-TOBY-SHELLEY
+3,Tom Homan,person,PERSON-TOM-HOMAN
+3,Department of Homeland Security,organization,ORG-DHS
+3,Advance Media NY Editorial Board,organization,ORG-ADVANCE-MEDIA-NY
+3,Allyn Foundation,organization,ORG-ALLYN-FOUNDATION
+3,NBT Bank Stadium,organization,
+3,Joseph Moran,person,PERSON-JOSEPH-MORAN
+3,Trump Administration,organization,ORG-US-DOJ
+3,Antal Tatum,person,
+3,Mary Nelson,person,
+3,Fred Lichtmacher,person,PERSON-FRED-LICHTMACHER
+3,New York State Department of Health,organization,ORG-NYSDOH
+3,SYRCityline,system,SYS-SYRACITYLINE
+2,AMR,organization,ORG-AMR
+2,Deputy Chief Trudeau,person,
+2,Ryan Or,person,
+2,Owen Kerney,person,PERSON-OWEN-KERNEY
+2,Helio Health,organization,
+2,Jeremy Thurston,person,
+2,Joel Fury,person,
+2,Walnut Avenue,location,
+2,Marshall Street,location,
+2,CHA,organization,ORG-CHA
+2,Eric,person,
+2,Central Permit Office,process,
+2,Centro Bus Service,organization,ORG-CENTRO
+2,Empire State Trail,system,SYS-EMPIRE-STATE-TRAIL
+2,On Point for College,organization,
+2,Susan Katzoff,person,PERSON-SUSAN-KATZOFF
+2,Emanuel Carter,person,PERSON-EMANUEL-CARTER
+2,EPA,organization,ORG-EPA
+2,Children Rising Center,system,SYS-CHILDREN-RISING-CENTER
+2,Calvin Corriders Sr.,person,PERSON-CALVIN-CORRIDERS-SR
+2,ShotSpotter,system,SYS-SHOTSPOTTER
+2,Walsh Administration,organization,ORG-WALSH-ADMIN
+2,Patricia McBride,person,PERSON-PATRICIA-MCBRIDE
+2,Susan Fahrenkrug,person,PERSON-SUSAN-FAHRENKRUG
+2,United Way,organization,ORG-UNITED-WAY
+2,Marie Therese Dominguez,person,PERSON-MARIE-DOMINGUEZ
+2,Linda Brown-Robinson,person,PERSON-LINDA-BROWN-ROBINSON
+2,Van Robinson,person,PERSON-VAN-ROBINSON
+2,Deka Eysaman,person,PERSON-DEKA-EYSAMAN
+2,Syracuse Build,organization,ORG-SYR-BUILD
+2,Syracuse Rescue Mission,organization,ORG-RESCUE-MISSION
+2,EY,organization,ORG-EY
+2,Dickerson Street,system,GIS-DICKERSON-STREET
+2,Marissa Lieberman-Klein,person,PERSON-MARISSA-LIEBERMAN-KLEIN
+2,The Herbal Center,organization,
+2,New York State Supreme Court,organization,ORG-NYS-SUPREME-COURT
+2,Tom Babilon,person,PERSON-TOM-BABILON
+2,Rachel Culver,person,PERSON-RACHEL-CULVER
+2,Lane Russell,person,PERSON-LANE-RUSSELL
+2,Syracuse City Schools,organization,ORG-SCS
+2,Eastwood Heights,organization,
+2,Archie Wixson,person,PERSON-ARCHIE-WIXSON
+2,Natural Resources Defense Council,organization,ORG-NRDC
+2,Conor Muldoon,person,PERSON-CONOR-MULDOON
+2,HUD,organization,
+2,James Pass Arboretum,system,SYS-JAMES-PASS-ARBORETUM
+2,Chief Joe Cecile,person,
+2,Walsh administration,organization,ORG-WALSH-ADMIN
+2,Police Benevolent Association,organization,ORG-PBA
+2,Lafayette Country Club,organization,ORG-LAFAYETTE-CC
+2,I-81 Viaduct Project,system,PROJ-I81-VIADUCT
+2,Charlotte Hansen,person,
+2,Charlene Tarver,person,PERSON-CHARLENE-TARVER
+2,Frank Lang,person,PERSON-FRANK-LANG
+2,St. Nicks Alliance,organization,ORG-ST-NICKS
+2,Windsor Capital Group,organization,ORG-WINDSOR-CAPITAL
+2,Tieasha Muhammad,person,PERSON-TIEASHA-MUHAMMAD
+2,Kona Mahu,person,PERSON-KONA-MAHU
+2,Onondaga County Democratic Committee,organization,ORG-ONDAGA-DEMS
+2,Brooke Dehn,person,
+2,Syracuse Food Bank,organization,
+2,"Green Skyline Apartments, LLC",organization,ORG-GREEN-SKYLINE
+2,Mike Cannizzaro,person,PERSON-MIKE-CANNIZZARO
+2,Lincoln Middle School,organization,
+2,Nottingham High School,organization,ORG-NOTTINGHAM-HS
+2,Columbus Monument Corporation,organization,ORG-COLUMBUS-MONUMENT-CORP
+2,Razi Uddin,person,PERSON-RAZI-UDDIN
+2,School Zone Traffic Enforcement Program,system,SYS-SZTP
+2,Division of Code Enforcement,organization,ORG-CODE-ENFORCEMENT
+2,Onondaga Historical Association,organization,ORG-ONONDAGA-HISTORICAL-ASSOC
+2,Christopher J. Ryan,person,PERSON-CHRISTOPHER-RYAN
+2,Hasahn Bloodworth,person,PERSON-HASAHN-BLOODWORTH
+2,Martin Cass,person,PERSON-MARTIN-CASS
+2,Nyatwa Bullock,person,PERSON-NYATWA-BULLOCK
+2,Karen Cordano,person,PERSON-KAREN-CORDANO
+2,Bryn Lovejoy-Grinnell,person,PERSON-BRYN-LOVEJOY-GRINNELL
+2,C&S Cos.,organization,ORG-CS-COS
+2,William Fitzpatrick,person,PERSON-WILLIAM-FITZPATRICK
+2,New York State Attorney General,organization,ORG-NY-AG
+2,Ed Griffin-Nolan,person,PERSON-ED-GRIFFIN-NOLAN
+2,Downtown Committee,organization,ORG-DOWNTOWN-COMMITTEE
+2,Catholic Charities,organization,ORG-CATHOLIC-CHARITIES
+2,Tom Hornstein,person,PERSON-TOM-HORNSTEIN
+2,Syracuse STEAM High School,system,SYS-STEAM-HIGH-SCHOOL
+2,Heidelberg Materials,organization,ORG-HEIDELBERG-MATERIALS
+2,Len Montreal,person,PERSON-LEN-MONTREAL
+2,Syracuse Industrial Development Agency,organization,ORG-SYRACUSE-IDA
+2,Landmark Preservation Board,organization,ORG-LANDMARK-PRESERVATION-BOARD
+2,Calvin Corriders,person,PERSON-CALVIN-CORRIDERS
+2,New York State Division of Housing and Community Renewal,organization,ORG-NY-DHCR
+2,South Side Community Growth Foundation,organization,ORG-SSCGF
+2,Chedy Hampson,person,PERSON-CHEDY-HAMPSON
+2,Christopher Geiger,person,PERSON-CHRISTOPHER-GEIGER
+2,Gateway Apartments,organization,
+2,Vince Gasparini,person,PERSON-VINCE-GASPARINI
+2,Empire State Development,organization,ORG-ESD
+2,Luke Esposito,person,PERSON-LUKE-ESPOSITO
+2,Charles Schumer,person,PERSON-CHARLES-SCHUMER
+2,Transportation for America,organization,ORG-TRANSPORTATION-FOR-AMERICA
+2,Sisters of St. Francis,organization,ORG-SSF
+2,St. Anthony's Convent,system,SYS-ST-ANTHONYS-CONVENT
+2,KeyBank,organization,
+2,Upper Onondaga Park Pool,system,SYS-UPPER-ONONDAGA-POOL
+2,Jeff Brown,person,PERSON-JEFF-BROWN
+2,Onondaga County Water Authority,organization,ORG-OCWA
+2,Terrence Nolan,person,PERSON-TERRENCE-NOLAN
+2,New Leaf Energy,organization,ORG-NEW-LEAF-ENERGY
+2,Mary Nelson Youth Center,organization,ORG-MNYC
+2,Emalyn Muzzy,person,
+2,Mark Weiner,person,PERSON-MARK-WEINER
+2,U.S. Immigration and Customs Enforcement,organization,ORG-ICE
+2,Chuck Schumer,person,PERSON-CHUCK-SCHUMER
+2,Matthew Oja,person,PERSON-MATTHEW-OJA
+2,Immigration and Customs Enforcement (ICE),organization,ORG-ICE
+2,Catholic Church,organization,
+2,Police Chief,person,
+2,Deputy Mayor,person,
+2,Armory Square,system,LOCATION-ARMORY-SQUARE
+2,Alex Lawson,person,PERSON-ALEX-LAWSON
+2,Jason Terreri,person,PERSON-JASON-TERRERI
+2,FEMA,organization,ORG-FEMA
+2,Syracuse Fire Department,organization,ORG-SFD
+2,Environmental Protection Agency,organization,ORG-EPA
+2,Bryan Blair,person,PERSON-BRYAN-BLAIR
+2,Carrie Large,person,PERSON-CARRIE-LARGE
+2,Pamela J. Odom,person,PERSON-PAMELA-ODOM
+2,Diane Nastri,person,PERSON-DIANE-NASTRI
+2,EnergySmart CNY,organization,ORG-ENERGYSMART-CNY
+2,Solar Simplified,organization,ORG-SOLAR-SIMPLIFIED
+2,Central New York Regional Planning and Development Board,organization,ORG-CNY-RPDB
+2,Lindsay Speer,person,PERSON-LINDSAY-SPEER
+2,Aviv Shalgi,person,PERSON-AVIV-SHALGI
+2,Onondaga County Health Department,organization,ORG-OCHD
+2,Seals Community Center at Kirk Park,organization,
+2,Onondaga Creek,organization,
+2,Cecile Community Center,organization,
+2,Cityline,system,SYS-CITYLINE
+2,Kathryn Anderson,person,PERSON-KATHRYN-ANDERSON
+2,AFSCME Council 66,organization,ORG-AFSCME
+2,City of Syracuse Office of Communications,organization,ORG-SYR-COMMUNICATIONS
+2,Clinton Square,system,
+2,Downtown Syracuse,organization,
+1,DSI,organization,
+1,Eastwood Neighborhood Association,organization,
+1,Syracuse Inner Rotary Club,organization,
+1,Tomorrow's Neighborhood Today,organization,
+1,CBH Group,organization,
+1,Multimed,organization,
+1,New York State Association of Fire Chiefs,organization,
+1,Onondaga County Sheriff's Department,organization,
+1,Northland Pro,organization,
+1,WCNY,organization,
+1,Spectrum,organization,
+1,Miovision Technologies,organization,
+1,Global Traffic Technologies,organization,
+1,Katherine Conrad,person,
+1,Elite Gaming,organization,
+1,ENI,organization,
+1,WellNow AkMed,organization,
+1,"Bureau of Alcohol, Tobacco, and Firearms",organization,
+1,Reed Neil,person,
+1,Nicole Watt,person,
+1,Carmelita Sapp-Walker,person,
+1,Jamie Pastorello,person,
+1,Maria Holmes,person,
+1,Tiny Home For Good,organization,
+1,Dr. Linda LeMura,person,
+1,JACOMB LLC,organization,
+1,Susan R. Katzoff,person,PERSON-KATZOFF-LAW
+1,Regional Transportation Center,location,
+1,Regional Market,location,
+1,New York State DOT,organization,
+1,John Meyer,person,
+1,Washington Square Neighborhood Watch,organization,
+1,Washington Square Task Force,organization,
+1,Oceanceana Fair,person,
+1,Peter Kings,person,
+1,Families for Lead Freedom,organization,
+1,Kevin Henry,person,
+1,Jennifer Bbeby,person,
+1,Amy Dake,person,
+1,Pasro Associates,organization,
+1,Anne Fordock,person,
+1,Jeff Regola,person,
+1,Ian Brown,person,
+1,Josh Wilcox,person,
+1,Elton Davis,person,
+1,Dave Prowak,person,PERSON-PROWAK-IT
+1,NAN Associates,organization,
+1,Latif Johnson-Kenzie,person,
+1,Stephanie Pasqual,person,
+1,Janice Burke,person,
+1,Tom Series,person,
+1,Tom Ferrer,person,
+1,Kimone Jordan,person,
+1,Huber Brewer,organization,
+1,American Leak,organization,
+1,Onondaga Earth Corps,organization,
+1,NYS DEC,organization,
+1,Terrence Hudson,person,PERSON-HUDSON-COUNCIL
+1,SURA,organization,
+1,Miros,person,
+1,Jake,person,
+1,Thornton Park,location,
+1,Laz Parking,organization,
+1,Syracuse Parking Association LLC,organization,
+1,Aneesah Evans,person,PERSON-ANEESAH-EVANS
+1,Dr. Ednita Wright,person,PERSON-EDNITA-WRIGHT
+1,Safer Streets Program,organization,ORG-SAFER-STREETS
+1,Project Heal,organization,ORG-PROJECT-HEAL
+1,Clear Investment,organization,ORG-CLEAR-INVESTMENT
+1,Jojo Dennis,person,PERSON-JOJO-DENNIS
+1,Corey Dunham,person,PERSON-COREY-DUNHAM
+1,Nicolas Diaz,person,PERSON-NICOLAS-DIAZ
+1,Ernst and Young,organization,ORG-ERNST-YOUNG
+1,Oracle Fusion,system,SYS-ORACLE-FUSION
+1,Mable Wilson,person,PERSON-MABLE-WILSON
+1,SHA Board of Commissioners,organization,ORG-SHA-BOARD
+1,Brad Hunt,person,PERSON-BRAD-HUNT
+1,Mayfair Management,organization,ORG-MAYFAIR-MANAGEMENT
+1,Andre Chambers,person,
+1,Mered Billu,person,
+1,SUNY ESF,organization,ORG-SUNY-ESF
+1,National Resources Defense Council,organization,ORG-NRDC
+1,Syracuse Housing Authority Board of Commissioners,organization,ORG-SHA
+1,"Calvin Corriders, Senior",person,PERSON-CALVIN-CORRIDERS-SR
+1,Mayfair Management Group,organization,ORG-MAYFAIR-MGMT
+1,Chief Cecile,person,PERSON-CECILE-FIRSTNAME-UNKNOWN
+1,Sue Katzoff,person,PERSON-SUE-KATZOFF
+1,Theresa Durham,person,PERSON-THERESA-DURHAM
+1,Kerry Quaglia,person,PERSON-KERRY-QUAGLIA
+1,Affordable Homeownership Opportunity Program,system,SYS-AHOP
+1,Paul Wolf,person,PERSON-PAUL-WOLF
+1,New York Coalition for Open Government,organization,ORG-NYCOG
+1,Lou Mosher,person,PERSON-LOU-MOSHER
+1,Ellen Abbott,person,PERSON-ELLEN-ABBOTT
+1,Conor Wight,person,PERSON-CONOR-WIGHT
+1,John Smith,person,PERSON-JOHN-SMITH
+1,David Smith,person,PERSON-DAVID-SMITH
+1,I-81 Connect App,system,SYS-I81-CONNECT
+1,Diane Greenpope,person,PERSON-DIANE-GREENPOPE
+1,Dunbar American Legion,organization,ORG-DUNBAR-AMERICAN-LEGION
+1,Urban Jobs Task Force,organization,ORG-UJTF
+1,CNY Pride,organization,ORG-CNY-PRIDE
+1,Onondaga County Justice Center,organization,ORG-ONONDAGA-COUNTY-JUSTICE-CENTER
+1,Syracuse City Criminal Courthouse,organization,ORG-SYR-CRIMINAL-COURTHOUSE
+1,Dan Sieburg,person,PERSON-DAN-SIEBURG
+1,Foxpointe Solutions,organization,ORG-FOXPOINTE-SOLUTIONS
+1,Sam Gruber,person,PERSON-SAM-GRUBER
+1,Westcott Neighborhood Association,organization,ORG-WESTCOTT-NA
+1,Westcott Theater,organization,
+1,Tryail Martin,person,PERSON-TRYAIL-MARTIN
+1,Moody's Investors Service,organization,ORG-MOODYS
+1,Tower 701,organization,ORG-TOWER701
+1,Isaac Dinton,person,
+1,Jake DiShaw,person,PERSON-JAKE-DISHAW
+1,Earthjustice,organization,ORG-EARTHJUSTICE
+1,Adhon Thomas,person,PERSON-ADHON-THOMAS
+1,Joseph McCoy,person,
+1,Onondaga Park,system,SYS-ONONDAGA-PARK
+1,Matt Moran,person,PERSON-MATT-MORAN
+1,Syracuse City Code Enforcement,organization,ORG-SCCE
+1,H. Bernard Alex,person,PERSON-BERNARD-ALEX
+1,Dwayne Jefferson,person,
+1,Anthony Spratt,person,
+1,Onondaga Park Pool,system,SYS-ONONDAGA-PARK-POOL
+1,Zakary George,person,
+1,Nick's Tomato Pie,organization,
+1,Chief Joseph Cecile,person,PERSON-JOSEPH-CECILE
+1,Rev. Lateef Johnson-Kinsey,person,PERSON-LATEEF-JOHNSON-KINSEY
+1,Bianca Hill,person,PERSON-BIANCA-HILL
+1,IKEA,organization,ORG-IKEA
+1,James Orioli,person,PERSON-JAMES-ORIOLI
+1,Community Broadband Networks,organization,ORG-CBN
+1,ConnectALL Initiative,organization,ORG-CONNECTALL
+1,ConnectALL,organization,ORG-CONNECTALL
+1,NYSERDA,organization,ORG-NYSERDA
+1,Rachel DeWitt,person,PERSON-RACHEL-DEWITT
+1,Skaneateles Lake Association,organization,ORG-SKANEATELES-LAKE-ASSOC
+1,NAACP,organization,ORG-NAACP
+1,Brooklyn Pickle,organization,ORG-BROOKLYN-PICKLE
+1,Craig Kowadla,person,PERSON-CRAIG-KOWADLA
+1,Jerlene Harper,person,PERSON-JERLENE-HARPER
+1,Birtha Truell,person,PERSON-BIRTHA-TRUELL
+1,Valerie Baron,person,PERSON-VALERIE-BARON
+1,EarthJustice,organization,ORG-EARTHJUSTICE
+1,Market convenience store,organization,
+1,Comfort Tyler Park,organization,
+1,Charlie Nichols,person,
+1,Tom DiNapoli,person,PERSON-TOM-DINAPOLIS
+1,President Donald Trump,person,PERSON-DONALD-TRUMP
+1,Lanessa Owens-Chaplin,person,PERSON-LANESSA-OWENS-CHAPLIN
+1,Mujahid Muhammed,person,PERSON-MUJAHID-MUHAMMED
+1,COPRA,system,SYS-COPRA
+1,Thomas Blake,person,PERSON-THOMAS-BLAKE
+1,Deputy Mayor Owens,person,
+1,State Department of Transportation,organization,
+1,I-81 Project,system,SYS-I81-PROJECT
+1,Oncenter,organization,ORG-ONCENTER
+1,Axon Enterprises,organization,ORG-AXON
+1,Syracuse Peace Council,organization,ORG-SYRACUSE-PEACE-COUNCIL
+1,Lee Cridland,person,PERSON-LEE-CRIDLAND
+1,"Nob Hill Apartment Group, LLC",organization,ORG-NOHILLAPTGROUP
+1,Sinatra & Company Real Estate,organization,ORG-SINATRA-REALESTATE
+1,Basalt Capital LLC,organization,ORG-BASALTCAP
+1,Kona Lisa Mahu,person,PERSON-KONA-MAHU
+1,Nob Hill Tenants Association,organization,ORG-NOHILLTENANT-ASSOC
+1,Jackie Patterson,person,PERSON-JACKIE-PATTERSON
+1,Nob Hill apartment complex,system,SYS-NOB-HILL
+1,Alphonso Davis,person,PERSON-ALPHONSO-DAVIS
+1,Legal Services of Central New York,organization,ORG-LEGAL-SERVICES-CNY
+1,UKG Software,system,SYS-UKG
+1,ATZ Solution LLC,organization,ORG-ATZ-SOLUTION
+1,Consultadd Inc.,organization,ORG-CONSULTADD
+1,City Engineering Department,organization,
+1,Robert DiFlorio,person,PERSON-ROBERT-DIFLORIO
+1,Syracuse Schools,organization,ORG-SYRACUSE-SCHOOLS
+1,School Zone Enforcement Program,system,SYS-SCHOOL-ZONE-ENFORCEMENT
+1,Syracuse Latin School,organization,
+1,Fowler High School,organization,
+1,Walter Mosley,person,PERSON-WALTER-MOSLEY
+1,Rescue Missions,organization,ORG-RESCUE-MISSIONS
+1,New York Secretary of State,organization,ORG-NYS-SOS
+1,Downtown Revitalization Initiative,organization,PROVISIONAL:DRI-NYS
+1,Alfonso Davis,person,PERSON-ALFONSO-DAVIS
+1,Timothy Rudd,person,PERSON-TIMOTHY-RUDD
+1,Tom Babalon,person,PERSON-TOM-BABALON
+1,New York Court of Appeals,organization,
+1,Heritage Park,system,
+1,Nick Pirro,person,PERSON-NICK-PIRRO
+1,Home Headquarters,organization,ORG-HOME-HEADQUARTERS
+1,New York State Affordable Homeownership Opportunity Program,system,SYS-AHOP
+1,Resurgent Neighborhood Initiative,system,SYS-RNI
+1,Tipperary Hill,organization,
+1,New York State Comptroller,organization,ORG-NY-STATE-COMPTROLLER
+1,"Finance, Taxation & Assessment Committee",organization,ORG-FTA-COMMITTEE
+1,Cecile,person,PERSON-CECILE-POLICE-CHIEF
+1,School Bus Stop-Arm Camera Program,system,SYS-SCHOOL-BUS-STOP-ARM-CAMERA
+1,Dr. Weeks Elementary School,organization,
+1,PSLA at Fowler,organization,
+1,Department of Neighborhood & Business Development,organization,ORG-DNBD
+1,Phil Bousquet,person,PERSON-PHIL-BOUSQUET
+1,Bousquet Holstein PLLC,organization,
+1,Jake DeShaw,person,PERSON-JAKE-DESHAW
+1,300 East Fayette Street Parking Garage,system,SYS-FAYETTE-GARAGE
+1,Washington Street Parking Garage,system,SYS-WASHINGTON-GARAGE
+1,Exalt,organization,ORG-EXALT
+1,Jason Alleyne,person,PERSON-JASON-ALLEYNE
+1,Michael Lehmann,person,PERSON-MICHAEL-LEHMANN
+1,Dunk & Bright,organization,ORG-DUNK-BRIGHT
+1,exalt,organization,ORG-EXALT
+1,Dr. Gisele Castro,person,PERSON-GISELE-CASTRO
+1,Mayor Elect Owens,person,PROVISIONAL: PERSON-OWENS-MAYOR-ELECT
+1,Reconnecting Communities Planning Project,system,PROJ-I81-RECONNECTING-COMMUNITIES
+1,Beauchamp Branch Library,organization,ORG-SYRACUSE-LIBRARY
+1,Pioneer Homes Coffee Shop,organization,
+1,Exalt Youth,organization,
+1,Holmes King Kallquist & Associates,organization,ORG-HKKA
+1,Syracuse Landmark Preservation Board,organization,ORG-SLPB
+1,City of Syracuse Auditor's Office,organization,ORG-AUDITOR-OFFICE
+1,Don Johnson,person,PERSON-DON-JOHNSON
+1,Nolita Tanyhill,person,PERSON-NOLITA-TANYHILL
+1,East Adams Housing Project,system,PROJ-EAST-ADAMS
+1,Latimer Terrace,system,PROP-LATIMER-TERRACE
+1,Institute of Technology,organization,ORG-SYRACUSE-ITC
+1,Matheu Carter,person,PERSON-MATHEU-CARTER
+1,University of Delaware,organization,ORG-UNIV-DELAWARE
+1,CSX Railroad,organization,ORG-CSX
+1,Freedom of Espresso,organization,ORG-FREEDOM-OF-ESPRESSO
+1,City of Syracuse Snow Operations Map,system,SYS-SNOW-OPS-MAP
+1,Josephine Galdamez,person,PERSON-JOSEPHINE-GALDAMEZ
+1,Robert Searing,person,PERSON-ROBERT-SEARING
+1,City of Irpin,organization,ORG-IRPIN-UKRAINE
+1,Ukraine 1991 Foundation,organization,ORG-UKRAINE-1991-FOUNDATION
+1,Governor Hochul,person,PERSON-KATHY-HOCHUL
+1,Homes and Community Renewal,organization,ORG-HCR-NY
+1,Southeast District,system,SYS-SOUTHEAST-DISTRICT
+1,Southwest District,system,SYS-SOUTHWEST-DISTRICT
+1,Northside District,system,SYS-NORTHSIDE-DISTRICT
+1,Safer Streets program,system,SYS-SAFER-STREETS
+1,Police/Athletic Activities League,system,SYS-PAAL
+1,Gun Involved Violence Elimination (GIVE),system,SYS-GIVE
+1,Brandon Roth,person,PERSON-BRANDON-ROTH
+1,I-81,system,SYS-I81-CORRIDOR
+1,Shwaban Swiri,person,PERSON-SHWABAN-SWIRI
+1,Giovanni Esposito,person,PERSON-GIOVANNI-ESPOSITO
+1,Mehgi Taibi,person,PERSON-MEHGI-TAIBI
+1,New York State Canal Corporation,organization,ORG-NYSCC
+1,Aid and Incentives for Municipalities (AIM),system,SYS-AIM
+1,Twiggy Billue,person,PERSON-TWIGGY-BILLUE
+1,Michael Root,person,PERSON-MICHAEL-ROOT
+1,Andrew Cuomo,person,PERSON-ANDREW-CUOMO
+1,George Pataki,person,PERSON-GEORGE-PATAKI
+1,Kenton Buckner,person,PERSON-KENTON-BUCKNER
+1,NY Department of Environmental Conservation,organization,ORG-NYDEC
+1,Nancy Kern Eaton,person,PERSON-NANCY-KERN-EATON
+1,Tanajee Maddox,person,PERSON-TANAJEE-MADDOX
+1,Onondaga County District Attorney,organization,ORG-DA-ONONDAGA
+1,Central Library,organization,
+1,Merike Treier,person,PERSON-MERIKE-TREIER
+1,Kim Vinciguerra,person,
+1,City Auditor,organization,ORG-CITY-AUDITOR
+1,Syracuse Police Union,organization,ORG-SPD-UNION
+1,Nayyirah Shariff,person,PERSON-NAYYIRAH-SHARIFF
+1,Flint Rising,organization,ORG-FLINT-RISING
+1,Syracuse Water Department,organization,
+1,New York Central Railroad Building,system,SYS-NYCR-BUILDING
+1,Syracuse Housing Strategies Corp,organization,ORG-SHSC
+1,"Bond, Schoeneck & King",organization,ORG-BSK
+1,Kristen Smith,person,PERSON-KRISTEN-SMITH
+1,Eric Wagenaar,person,PERSON-ERIC-WAGENAAR
+1,Sarah V.C. Pierce,person,PERSON-SARAH-PIERCE
+1,Cliff G. Olney III,person,PERSON-CLIFF-OLNEY
+1,Harris Beach,organization,ORG-HARRIS-BEACH
+1,H. Todd Bullard,person,PERSON-TODD-BULLARD
+1,Sarah Walton LaFave,person,PERSON-SARAH-WALTON-LAFAVE
+1,Raquan Pride-Green,person,PERSON-RAQUAN-PRIDE-GREEN
+1,Redhouse,organization,
+1,The MOST,organization,
+1,Madison Howard,person,
+1,Food Bank of Central New York,organization,ORG-FBCNY
+1,U.S. Department of Agriculture,organization,ORG-USDA
+1,Steve Featherstone,person,PERSON-STEVE-FEATHERSTONE
+1,Colin Cleghorn,person,PERSON-COLIN-CLEGHORN
+1,Greg Cleghorn,person,PERSON-GREG-CLEGHORN
+1,IronHorn Enterprises,organization,ORG-IRONHORN-ENTERPRISES
+1,Beak & Skiff Apple Orchards,organization,ORG-BEAK-SKIFF
+1,Central New York Regional Market,organization,ORG-CNYREGIONAL-MARKET
+1,Syracuse Inner Harbor,system,SYS-INNER-HARBOR
+1,Evan Loving,person,PERSON-EVAN-LOVING
+1,Julie Castellitto,person,PERSON-JULIE-CASTELLITTO
+1,Jeff Rowe,person,PERSON-JEFF-ROWE
+1,Syracuse Public Safety Building,system,SYS-PSB
+1,15th Ward,organization,ORG-15TH-WARD
+1,Syracuse.com | The Post-Standard,organization,ORG-SYRACUSE-MEDIA
+1,Grazi Zazzara Jr.,person,PERSON-GRAZI-ZAZZARA
+1,Icon Cos.,organization,ORG-ICON-COS
+1,Onondaga County Housing Initiative Program,organization,ORG-O-CHIP
+1,Marnie Eisenstadt,person,
+1,Julia Hafftka-Marshall,person,PERSON-JULIA-HAFFTKA-MARSHALL
+1,Tom Cerio,person,PERSON-TOM-CERIO
+1,Andrew Roblee,person,PERSON-ANDREW-ROBLEE
+1,Preservation Association of Central New York,organization,ORG-PACNY
+1,Kassie Smith,person,PERSON-KASSIE-SMITH
+1,KS Global Development,organization,ORG-KS-GLOBAL-DEV
+1,B3R Investments,organization,ORG-B3R-INVESTMENTS
+1,SUNY Upstate,organization,ORG-SUNY-UPSTATE
+1,National Grid Foundation,organization,ORG-NATIONAL-GRID
+1,Adam Gold,person,PERSON-ADAM-GOLD
+1,Cheryl Hassett,person,PERSON-CHERYL-HASSETT
+1,Funk 'n Waffles,organization,ORG-FUNK-N-WAFFLES
+1,Soup R Salads,organization,ORG-SOUP-R-SALADS
+1,Kitty Hoynes Irish Pub,organization,ORG-KITTY-HOYNES
+1,Chris Albanese,person,PERSON-CHRIS-ALBANESE
+1,Goldman Sachs,organization,ORG-GOLDMAN-SACHS
+1,Rosamond Gifford Zoo,organization,ORG-GIFFORD-ZOO
+1,Onondaga County District Attorney's Office,organization,ORG-ONONDAGA-DA
+1,COMPSTAT,system,SYS-COMPSTAT
+1,Urban Jobs Task Force of Syracuse,organization,ORG-UJTF-SYR
+1,Boys & Girls Clubs of Syracuse,organization,ORG-BGCS
+1,McKinley Park,organization,
+1,Capital District Concrete Batch Inc.,organization,ORG-CAPITAL-DISTRICT-CONCRETE
+1,Jeff Sieg,person,PERSON-JEFF-SIEG
+1,Moody's Ratings,organization,ORG-MOODYS
+1,Erik Caster,person,PERSON-ERIK-CASTER
+1,Phillip Vogt,person,PERSON-PHILLIP-VOGT
+1,Micron Technology Inc.,organization,ORG-MICRON
+1,JMA Wireless,organization,ORG-JMA-WIRELESS
+1,Syracuse Community Health Center,organization,ORG-SCHC
+1,Northland Workforce Development Training Center,organization,ORG-NORTHLAND-WDC
+1,Pennrose,organization,ORG-PENNROSE
+1,Patrick Hogan,person,PERSON-PATRICK-HOGAN
+1,U.S. Small Business Administration,organization,ORG-SBA
+1,Kelly Loeffler,person,PERSON-KELLY-LOEFFLER
+1,Nicole Malliotakis,person,PERSON-NICOLE-MALLIOTAKIS
+1,Elise Stefanik,person,PERSON-ELISE-STEFANIK
+1,House Republicans / GOP,organization,ORG-HOUSE-GOP
+1,Corrigan Salerno,person,PERSON-CORRIGAN-SALERNO
+1,Linda LeMura,person,PERSON-LINDA-LEMURA
+1,Board of Trustees,organization,
+1,Tashawn Albert,person,PERSON-TASHAWN-ALBERT
+1,Darian Stevenson,person,PERSON-DARIAN-STEVENSON
+1,Syracuse Civilian Review Board,organization,ORG-SCRB
+1,Anthony 'TD' Davis,person,PERSON-ANTHONY-DAVIS
+1,Syracuse Mets,organization,ORG-SYRACUSE-METS
+1,Jason Smorol,person,PERSON-JASON-SMOROL
+1,Northeast Regional Climate Center,organization,
+1,One Lincoln Center,organization,
+1,Glenn Coin,person,
+1,Chris Gorman,person,PERSON-CHRIS-GORMAN
+1,Onondaga County Health Department Lead Poisoning Prevention Program,organization,ORG-ONONDAGA-HEALTH-LEAD
+1,Richard McCarron,person,PERSON-RICHARD-MCCARRON
+1,LeadSafeCNY Coalition,organization,ORG-LEADSAFE-CNY
+1,Catholic Charities of Onondaga County,organization,ORG-CATHOLIC-CHARITIES-ONONDAGA
+1,BABY B.A.C.K. INC.,organization,ORG-BABY-BACK
+1,Marquita Hetherington,person,PERSON-MARQUITA-HETHERINGTON
+1,Pioneer Homes,organization,ORG-PIONEER-HOMES
+1,La Liga,organization,ORG-LA-LIGA
+1,CZB LLC,organization,
+1,Shy Mason,person,PERSON-SHY-MASON
+1,Kirsten Gillibrand,person,PERSON-KIRSTEN-GILLIBRAND
+1,Ron Wyden,person,PERSON-RON-WYDEN
+1,J.D. Vance,person,PERSON-JD-VANCE
+1,Geoffrey P. Alpert,person,PERSON-GEOFFREY-ALPERT
+1,Sean Girvin,person,PERSON-SEAN-GIRVIN
+1,Zy'Mier Zulueta,person,PERSON-ZYMIER-ZULUETA
+1,San Francisco Chronicle,organization,ORG-SF-CHRONICLE
+1,University of South Carolina,organization,ORG-USC
+1,Dan Wears,person,PERSON-DAN-WEARS
+1,Byrne Dairy,organization,
+1,Lotte Biologics,organization,
+1,Meg O'Connell,person,PERSON-MEG-OCONNELL
+1,Lataya Dixson,person,
+1,Convergent,organization,ORG-CONVERGENT
+1,Axon Enterprises Inc.,organization,ORG-AXON
+1,Surveillance Technology Working Group,organization,ORG-STWG
+1,Nader Maroun,person,PERSON-NADER-MAROUN
+1,Chad Terrinoni,person,PERSON-CHAD-TERRINONI
+1,Hummingbird Heating & Cooling,organization,ORG-HUMMINGBIRD-HC
+1,Ray Manassa,person,PERSON-RAY-MANASSA
+1,Vision Zero Network,organization,ORG-VISION-ZERO-NETWORK
+1,Raykeisha Rouse,person,PERSON-RAYKEISHA-ROUSE
+1,Cueshan Allen,person,PERSON-CUESHAN-ALLEN
+1,Lawsuit Reform Alliance of New York,organization,ORG-LRANY
+1,Ranette Releford,person,PERSON-RANETTE-RELEFORD
+1,Tara Jennings,person,PERSON-TARA-JENNINGS
+1,New York State Education Department,organization,ORG-NYSED
+1,Neighborhood Access and Equity Program,system,SYS-NAEP
+1,Stantec Consulting Services Inc.,organization,ORG-STANTEC
+1,Michael J. Bunker,person,PERSON-MICHAEL-BUNKER
+1,Craig Stone,person,PERSON-CRAIG-STONE
+1,University of Denver,organization,ORG-UNIVERSITY-OF-DENVER
+1,Georgetown University,organization,ORG-GEORGETOWN-UNIVERSITY
+1,U.S. Coast Guard,organization,ORG-US-COAST-GUARD
+1,Kent Syverud,person,PERSON-KENT-SYVERUD
+1,American Association of Colleges and Universities,organization,ORG-AACU
+1,Robert Simpson,person,PERSON-ROBERT-SIMPSON
+1,Kevin Tampone,person,PERSON-KEVIN-TAMPONE
+1,Community Broadband Networks LLC,organization,ORG-COMMUNITY-BROADBAND-NETWORKS
+1,New York State ConnectALL Program,organization,ORG-NYS-CONNECTALL
+1,Columbus Monument Corp.,organization,ORG-COLUMBUS-MONUMENT-CORP
+1,Mellon Foundation,organization,ORG-MELLON-FOUNDATION
+1,Joseph Heath,person,PERSON-JOSEPH-HEATH
+1,Lisa Moore,person,PERSON-LISA-MOORE
+1,George A. Wojtowycz,person,PERSON-GEORGE-WOJTOWYCZ
+1,House Republicans,organization,
+1,Syracuse 15th Ward,organization,
+1,Kyari Cunningham,person,PERSON-KYARI-CUNNINGHAM
+1,A'Dhon Thomas,person,PERSON-ADHON-THOMAS
+1,U.S. Department of Homeland Security,organization,null
+1,U.S. State Department,organization,null
+1,Pamela Bondi,person,PERSON-PAMELA-BONDI
+1,Eric Adams,person,PERSON-ERIC-ADAMS
+1,Jessica Tisch,person,PERSON-JESSICA-TISCH
+1,Donna Lieberman,person,PERSON-DONNA-LIEBERMAN
+1,Across the Hall Cafe,organization,
+1,Albanese Organization Inc.,organization,ORG-ALBANESE
+1,Mike Melara,person,PERSON-MIKE-MELARA
+1,Julie Abbott,person,PERSON-JULIE-ABBOTT
+1,Maurice Brown,person,PERSON-MAURICE-BROWN
+1,Nodesia Hernandez,person,PERSON-NODESIA-HERNANDEZ
+1,Cody Kelly,person,PERSON-CODY-KELLY
+1,Boys & Girls Club,organization,
+1,Elizabeth Parmley,person,PERSON-ELIZABETH-PARMLEY
+1,TeNesha Murphy,person,PERSON-TENESHA-MURPHY
+1,Brian Bouchard,person,PERSON-BRIAN-BOUCHARD
+1,New York Department of Transportation,organization,ORG-NYDOT
+1,Division of Criminal Justice Services,organization,ORG-DCJS
+1,Dr. Barry B. Perlman,person,PERSON-BARRY-PERLMAN
+1,New York Lawyers for the Public Interest,organization,ORG-NYLPI
+1,New York State Office of Mental Health,organization,ORG-NYS-OMH
+1,Alliance for Rights and Recovery,organization,ORG-ARR
+1,Mental Health Association of New York State,organization,ORG-MHANYS
+1,National Alliance on Mental Illness - New York State,organization,ORG-NAMI-NYS
+1,NYSDOT,organization,
+1,McKinney Manor,organization,
+1,Flock Safety,organization,ORG-FLOCK-SAFETY
+1,Paris Lewbel,person,PERSON-PARIS-LEWBEL
+1,Norm Swanson,person,PERSON-NORM-SWANSON
+1,700 Out Parcel LLC,organization,ORG-700-OUT-PARCEL
+1,Mosher Architects,organization,ORG-MOSHER-ARCHITECTS
+1,Hancock Estabrook,organization,ORG-HANCOCK-ESTABROOK
+1,OHB Redev LLC,organization,ORG-OHB-REDEV
+1,Ryan Benz,person,PERSON-RYAN-BENZ
+1,Andrew Breuer,person,PERSON-ANDREW-BREUER
+1,Onondaga County Industrial Development Agency,organization,ORG-ONONDAGA-IDA
+1,Robert Petrovich,person,PERSON-ROBERT-PETROVICH
+1,The Metropolitan (formerly Skyline Apartments),system,PROP-METROPOLITAN-753-JAMES
+1,The Summit (formerly Vincent Apartments),system,PROP-SUMMIT-JAMESVILLE
+1,New York Central Railroad Station,system,SYS-NYCR-STATION
+1,Carmelo Anthony,person,PERSON-CARMELO-ANTHONY
+1,STAYME70,organization,ORG-STAYME70
+1,Flynnstoned Cannabis Co.,organization,ORG-FLYNNSTONED
+1,NuProject,organization,ORG-NUPROJECT
+1,Last Prisoner Project,organization,ORG-LAST-PRISONER-PROJECT
+1,Grand National,organization,ORG-GRAND-NATIONAL
+1,James Murphy,person,PERSON-JAMES-MURPHY
+1,John Vanfossen,person,
+1,Brady O'Malley,person,
+1,Adam Fumarola,person,PERSON-ADAM-FUMAROLA
+1,Hanover Real Estate Development,organization,ORG-HANOVER-RED
+1,City Hall Commons,system,FACILITY-CITY-HALL-COMMONS
+1,One Park Place,system,FACILITY-ONE-PARK-PLACE
+1,Tipperary Hill Neighborhood Association,organization,ORG-TIPPERARY-HILL-NA
+1,Putnam Properties LLC,organization,ORG-PUTNAM-PROPERTIES
+1,Fred Davies,person,PERSON-FRED-DAVIES
+1,Sun Development,organization,ORG-SUN-DEVELOPMENT
+1,City Planning Commission,organization,ORG-CITY-PLANNING-COMMISSION
+1,Judge Joseph E. Lamendola,person,PERSON-JOSEPH-LAMENDOLA
+1,Sol Munoz,person,PERSON-SOL-MUNOZ
+1,Chief U.S. District Judge Brenda Sannes,person,PERSON-BRENDA-SANNES
+1,Brenda Sannes,person,PERSON-BRENDA-SANNES
+1,Delil Alptekin,person,
+1,Ardil Zilan,person,
+1,Alex Gonzalez,person,
+1,SUNY Upstate Medical Hospital,organization,ORG-SUNY-UPSTATE
+1,Syracuse Teachers Association,organization,ORG-STA
+1,Nicole Capsello,person,PERSON-NICOLE-CAPSELLO
+1,Oracle,system,SYS-ORACLE
+1,We of Italian & Syracuse Heritage (WISH) CNY,organization,ORG-WISH-CNY
+1,Paul Ciavarri,person,PERSON-PAUL-CIAVARRI
+1,Hilary-Anne Coppola,person,PERSON-HILARY-ANNE-COPPOLA
+1,Police Union President,person,
+1,Syracuse Police Union President,person,
+1,Ankit Bandyopadhyay,person,
+1,Ryann Phillips,person,
+1,Mary D'Agostino,person,PERSON-MARY-DAGOSTINO
+1,Judge Brenda Sannes,person,PERSON-BRENDA-SANNES
+1,John Funiciello,person,PERSON-JOHN-FUNICIELLO
+1,Landmark Theatre,organization,ORG-LANDMARK-THEATRE
+1,Mike Intaglietta,person,PERSON-MIKE-INTAGLIETTA
+1,James Horan,person,PERSON-JAMES-HORAN
+1,Vagabond Clothing,organization,ORG-VAGABOND-CLOTHING
+1,Downtown Committee of Syracuse,organization,ORG-DOWNTOWN-COMMITTEE-SYR
+1,Rewiring America,organization,ORG-REWIRING-AMERICA
+1,U.S. Court of Appeals for the Second Circuit,organization,ORG-USCA-2ND-CIRCUIT
+1,American Indian Law Alliance,organization,ORG-AILA
+1,Betty Hill,person,PERSON-BETTY-HILL
+1,The Metropolitan (former Skyline Apartments),organization,
+1,Thornden Park Association,organization,ORG-THORNDEN-PARK-ASSOC
+1,Kate Auwaerter,person,PERSON-KATE-AUWAERTER
+1,Katie Lawson,person,PERSON-KATIE-LAWSON
+1,Westminster Park,system,PARK-WESTMINSTER
+1,Tim Green,person,PERSON-TIM-GREEN
+1,Troy Green,person,PERSON-TROY-GREEN
+1,Syracuse Hancock International Airport,organization,ORG-SYRACUSE-AIRPORT
+1,Syracuse Regional Airport Authority,organization,ORG-AIRPORT-AUTHORITY
+1,Transportation Security Administration,organization,ORG-TSA
+1,Janet Berl Burman,person,PERSON-JANET-BURMAN
+1,James Street School Zone,system,
+1,Fayette Street Parking Garage,system,SYS-FAYETTE-GARAGE
+1,LAZ Parking,organization,ORG-LAZ-PARKING
+1,Washington Street Garage,system,SYS-WASHINGTON-GARAGE
+1,Dunk & Bright Furniture,organization,ORG-DUNK-BRIGHT
+1,Joe Bright,person,PERSON-JOE-BRIGHT
+1,Steven Schultz,person,PERSON-STEVEN-SCHULTZ
+1,William Bright Sr.,person,PERSON-WILLIAM-BRIGHT-SR
+1,William Dunk Sr.,person,PERSON-WILLIAM-DUNK-SR
+1,City-Owned Property Search,system,SYS-PROPERTY-SEARCH
+1,Beata Karpinska,person,PERSON-BEATA-KARPINSKA
+1,PureSky Energy,organization,ORG-PURESKY-ENERGY
+1,Sabrina Betts,person,PERSON-SABRINA-BETTS
+1,CSX,organization,ORG-CSX
+1,Clanker System,system,SYS-CLANKER-BRIDGE-ALERT
+1,Skyline Apartments / The Metropolitan,system,SYS-SKYLINE-APARTMENTS
+1,Green National Co.,organization,ORG-GREEN-NATIONAL-CO
+1,Destra Multifamily,organization,ORG-DESTRA-MULTIFAMILY
+1,Joe Labita,person,PERSON-JOE-LABITA
+1,Vince Latorre,person,PERSON-VINCE-LATORRE
+1,John Oliver,person,
+1,Thomas Hirschl,person,
+1,Patricia Washington,person,
+1,SUNY Upstate Medical University,organization,ORG-SUNY-UPSTATE
+1,Ascent Property Co.,organization,ORG-ASCENT-PROPERTY
+1,Norm Roth / University Hill Realty,person,PERSON-NORM-ROTH
+1,Central New York Community Foundation,organization,ORG-CNYCF
+1,CNY Arts,organization,ORG-CNY-ARTS
+1,Katrina Tulloch,person,PERSON-KATRINA-TULLOCH
+1,BLD Properties,organization,ORG-BLD-PROPERTIES
+1,Kenan Bigby,person,PERSON-KENAN-BIGBY
+1,Walt Dixie,person,PERSON-WALT-DIXIE
+1,New York State Low Income Housing Tax Credit Program,system,SYS-NY-LIHTC
+1,Syracuse NAACP,organization,ORG-SYRACUSE-NAACP
+1,Syracuse Hancock International Airport / Syracuse Regional Airport Authority,organization,ORG-SRAA
+1,Megan Thomas,person,PERSON-MEGAN-THOMAS
+1,ON-RAMP,system,SYS-ON-RAMP
+1,Lynne Werbeck,person,PERSON-LYNNE-WERBECK
+1,Jen Schultz,person,PERSON-JEN-SCHULTZ
+1,G.A.R. Associates,organization,ORG-GAR-ASSOCIATES
+1,Palmer Harvey,person,PERSON-PALMER-HARVEY
+1,Bonnke Sekarore,person,PERSON-BONNKE-SEKARORE
+1,Pyramid Brokerage Company,organization,ORG-PYRAMID-BROKERAGE
+1,Town of Salina,organization,ORG-SALINA
+1,Town of DeWitt,organization,ORG-DEWITT
+1,Nick Paro,person,PERSON-NICK-PARO
+1,Maria Regina College Campus,organization,
+1,Euclid Ave property owner,person,
+1,Greater Syracuse Tenants Network,organization,ORG-SYRACUSE-TENANTS-NETWORK
+1,CNY Fair Housing,organization,ORG-CNY-FAIR-HOUSING
+1,Sharon Sherman,person,PERSON-SHARON-SHERMAN
+1,Greg Evans,person,PERSON-GREG-EVANS
+1,Ernst & Young,organization,ORG-EY
+1,Cherry Road Technologies,organization,ORG-CHERRY-ROAD
+1,Stephen Harris,person,PERSON-STEPHEN-HARRIS
+1,Laura Kreidler,person,
+1,Emmanuel Carter,person,
+1,Syracuse Division of Forestry,organization,ORG-SYRACUSE-FORESTRY
+1,SUNY ESF Department of Landscape Architecture,organization,
+1,New Salem Baptist Church,organization,
+1,Village of North Syracuse,organization,ORG-NORTH-SYRACUSE
+1,Syracuse Haulers,organization,ORG-SYRACUSE-HAULERS
+1,Butler Disposal,organization,ORG-BUTLER-DISPOSAL
+1,Jill Lewandowska,person,
+1,Joe Asztalos,person,
+1,Clifford Ryan,person,PERSON-CLIFFORD-RYAN
+1,OG's Against Violence,organization,ORG-OGS-AGAINST-VIOLENCE
+1,Frank Coots,person,PERSON-FRANK-COOTS
+1,Syracuse,organization,ORG-CITY-SYRACUSE
+1,Syeisha Bird,person,PERSON-SYEISHA-BIRD
+1,Eastwood Association,organization,ORG-EASTWOOD-ASSOCIATION
+1,Cummings Field,system,SYS-CUMMINGS-FIELD
+1,New York State Police,organization,ORG-NYSP
+1,Michael Benny,person,PERSON-MICHAEL-BENNY
+1,Walter Hang,person,PERSON-WALTER-HANG
+1,Environmental Health Research Group,organization,ORG-EHRG
+1,Taughannock Falls State Park,organization,
+1,Cayuga Lake,system,
+1,McMahon,person,
+1,Westhill Central School District,organization,ORG-WESTHILL-CSD
+1,Maria Regina Motherhouse,organization,
+1,Dale Ostrander,person,PERSON-DALE-OSTRANDER
+1,Historic Convent Complex,organization,
+1,Darryl Patterson,person,
+1,Meachem Park,organization,
+1,Women's Economic Institute,organization,ORG-WEI
+1,New York State Office of the Local Initiatives Support Corporation (LISC),organization,ORG-LISC-NY
+1,Kristi Smiley,person,PERSON-KRISTI-SMILEY
+1,Colleen Gunnip,person,PERSON-COLLEEN-GUNNIP
+1,Airbnb,organization,ORG-AIRBNB
+1,VRBO,organization,ORG-VRBO
+1,William Bennett,person,PERSON-WILLIAM-BENNETT
+1,Nancy Larson,person,
+1,National Park Service,organization,ORG-NPS
+1,TD22 Consulting LLC,organization,
+1,New York State Department of Education,organization,ORG-NYSED
+1,Jeremy Dottin-Reina,person,PERSON-JEREMY-DOTTIN-REINA
+1,Rick Reina,person,PERSON-RICK-REINA
+1,Syracuse Soapworks,organization,ORG-SYRACUSE-SOAPWORKS
+1,Washington Square Neighborhood Association,organization,ORG-WSNA
+1,Erin Noto,person,PERSON-ERIN-NOTO
+1,Greenhouse Gas Emission Inventory (GHGI),system,SYS-GHGI
+1,Jeff Miller,person,PERSON-JEFF-MILLER
+1,New York Attorney General,organization,ORG-NYAG
+1,Marcy Correctional Center,organization,
+1,Siena College,organization,ORG-SIENA-COLLEGE
+1,Adrian Autry,person,PERSON-ADRIAN-AUTRY
+1,Jim Boeheim,person,PERSON-JIM-BOEHEIM
+1,Renee Fox,person,
+1,Mike Waters,person,
+1,First Year Players,organization,
+1,Schine Student Center,organization,
+1,Frank W. Kovacs,person,PERSON-FRANK-KOVACS
+1,Laurens,organization,ORG-LAURENS-NY
+1,Clifton Park,organization,ORG-CLIFTON-PARK-NY
+1,Rick Moriarty,person,PERSON-RICK-MORIARTY
+1,FOX Nation,organization,
+1,Kelly Corbett,person,
+1,JMA Wireless Dome,system,
+1,Transactional Records Access Clearinghouse,organization,ORG-TRAC
+1,Susan B. Long,person,PERSON-SUSAN-LONG
+1,U.S. Customs and Border Protection,organization,ORG-CBP
+1,Francesca Tortora,person,
+1,Mackenzie Prentice,person,
+1,Cicero-North Syracuse,organization,
+1,Wagner College,organization,
+1,Brent Axe,person,
+1,Robert Morris University,organization,
+1,City of Syracuse Department of Engineering,organization,ORG-DEPT-ENGINEERING
+1,200 block of Mather Street,system,LOC-MATHER-ST-200BLK
+1,United States Department of Agriculture,organization,ORG-USDA
+1,South Geddes Street,system,SYS-GEDDES-ST
+1,Richmond Avenue,system,
+1,Wilkinson Street,system,
+1,Henninger High School,organization,ORG-HENNINGER-HS
+1,CNY Regional Market,organization,
+1,Stantec,organization,ORG-STANTEC
+1,STEAM at Dr. King,organization,
+1,Superintendent Davis,person,
+1,120Water,organization,ORG-120WATER
+1,Joint Schools Construction Board,organization,ORG-JSCB
+1,Mayor Sharon F. Walsh,person,PERSON-SHARON-WALSH
+1,NYS Department of Homeland Security and Emergency Services,organization,ORG-NYS-DHSES
+1,Onondaga County Parks,organization,ORG-ONONDAGA-PARKS
+1,Sharon F. Walsh,person,PERSON-SHARON-WALSH
+1,Kirk Park,organization,null
+1,Southwest Community Center,organization,
+1,Citibot,organization,ORG-CITIBOT
+1,Kirk Park Community Center,organization,
+1,Salvation Army,organization,ORG-SALVATION-ARMY
+1,Westcott Community Center,organization,
+1,Joseph Awald,person,PERSON-JOSEPH-AWALD
+1,Guildford Pump Station,system,SYS-GUILDFORD-PUMP-STATION
+1,Department of Water,organization,ORG-WATER
+1,Syracuse Metropolitan Transportation Council,organization,ORG-SMTC
+1,Tony Williams,person,PERSON-TONY-WILLIAMS
+1,Robinson Iron,organization,ORG-ROBINSON-IRON
+1,Annemarie Deegan,person,PERSON-ANNEMARIE-DEEGAN
+1,FOCUS Greater Syracuse,organization,ORG-FOCUS-SYRACUSE
+1,Timothy Faulker,person,PERSON-TIMOTHY-FAULKER
+1,Fisher Associates,organization,ORG-FISHER-ASSOCIATES
+1,Institute of Transportation Engineers - Upstate Chapter,organization,ORG-ITE-UPSTATE
+1,Festa Italiana Syracuse,organization,
+1,Brian Schultz,person,PERSON-BRIAN-SCHULTZ
+1,Syracuse Irish Festival,organization,
+1,Sankofa Park,organization,PARK-SANKOFA
+1,Northeast Jazz & Wine Festival,organization,ORG-NEJAZZ
+1,AmeriCu Arts & Crafts Festival,organization,
+1,Syracuse Jazz Fest,organization,ORG-JAZZ-FEST
+1,Syracuse Juneteenth Festival,organization,
+1,Dunbar Center,organization,
