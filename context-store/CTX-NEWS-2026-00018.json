@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00018",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangewomen/2026/03/syracuse-womens-lacrosse-rides-9-game-winning-streak-into-top-3-of-latest-poll.html",
+  "publication_date": "2026-03-30",
+  "capture_date": "2026-03-30T15:57:23Z",
+  "title": "Syracuse women’s lacrosse rides winning streak into Top 3 of latest poll",
+  "summary": "Syracuse University women's lacrosse team achieves Top 3 NCAA ranking on a 9-game winning streak. This article reports on athletic achievement and does not contain information relevant to City of Syracuse municipal operations or the Chief Innovation Officer's policy agenda.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRUNI"
+    },
+    {
+      "name": "Brent Axe",
+      "type": "person",
+      "canonical_id": "PERSON-BRENT-AXE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns university athletics and has no relevance to City of Syracuse municipal governance, innovation initiatives, or CIO operational domain",
+    "No applicable municipal tags identified",
+    "No city departments, budget items, policy changes, or civic infrastructure content detected",
+    "Source is sports journalism, not municipal affairs reporting",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,52 @@
+{
+  "record_id": "CTX-NEWS-2026-00020",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/03/man-critically-injured-in-syracuse-stabbing.html",
+  "publication_date": "2026-03-29",
+  "capture_date": "2026-03-30T15:57:29Z",
+  "title": "Man critically injured in Syracuse stabbing",
+  "summary": "A man was critically injured in a stabbing on Syracuse's South Side on March 29, 2026. The incident occurred at approximately 5:10 p.m. in the 600 block of Ballantyne Road and was reported to the Syracuse Police Department. This represents a public safety incident requiring potential CIO awareness for emergency response coordination and crime data tracking systems.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "emergency-services",
+    "public-safety-commission"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sgt. Thomas Blake",
+      "type": "person",
+      "canonical_id": "PERSON-THOMAS-BLAKE"
+    },
+    {
+      "name": "Jon Moss",
+      "type": "person",
+      "canonical_id": "PERSON-JON-MOSS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is crime-focused news reporting; limited operational or policy relevance to CIO office",
+    "No technology systems, infrastructure projects, or digital services initiatives mentioned",
+    "Crime incident data may be relevant for crime-data analytics and emergency services coordination systems",
+    "Victim identity not disclosed in article",
+    "Suspect information not provided",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

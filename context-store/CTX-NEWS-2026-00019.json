@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00019",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangelacrosse/2026/03/syracuse-lacrosse-moves-up-in-poll-setting-up-top-3-matchup-at-north-carolina.html",
+  "publication_date": "2026-03-30",
+  "capture_date": "2026-03-30T15:57:26Z",
+  "title": "Syracuse lacrosse moves up in poll, setting up Top 3 matchup at UNC",
+  "summary": "Syracuse University men's lacrosse team advanced in national rankings, positioning for a competitive ACC matchup. This article covers collegiate athletics and has no direct relevance to City of Syracuse municipal operations or the Chief Innovation Officer's policy domain.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRU"
+    },
+    {
+      "name": "Brent Axe",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns collegiate athletics, not municipal government",
+    "No CIO relevance detected",
+    "No available tags apply to sports reporting",
+    "Document should be filtered out of municipal policy analysis",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
