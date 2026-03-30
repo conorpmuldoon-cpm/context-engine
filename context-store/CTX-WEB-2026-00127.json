@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-WEB-2026-00127",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-03-30-Mayors-Office-News-830AM",
+  "publication_date": "2026-03-30",
+  "capture_date": "2026-03-30T16:11:47Z",
+  "title": "Mayor Owens Announces Syracuse Awarded for Outstanding Work with GIS",
+  "summary": "Syracuse's Office of Analytics, Performance and Innovation (API) received a Special Achievement in GIS Award from Esri for building a cross-departmental GIS infrastructure that enhances municipal operations and resident services. The City was among approximately 200 organizations recognized out of 700,000 worldwide Esri users. Mayor Owens highlighted data-driven tools like Look Before You Rent, the Lead Service Line Map, and the Open Data Portal as exemplifying the partnership's success. Joanna Bailey was promoted to GIS Administrator to advance enterprise-wide GIS deployment.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "GIS",
+    "IT-infrastructure",
+    "digital-services",
+    "data-governance",
+    "announcement",
+    "software-systems",
+    "transparency",
+    "initiative-launch",
+    "leadership-change"
+  ],
+  "department_refs": [
+    "Office of Analytics, Performance and Innovation",
+    "Department of Public Works",
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Joanna Bailey",
+      "type": "person",
+      "canonical_id": "PERSON-JOANNA-BAILEY"
+    },
+    {
+      "name": "Esri",
+      "type": "organization",
+      "canonical_id": "ORG-ESRI"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor and administration prioritize data-driven municipal operations and digital transformation. Award validates investment in GIS infrastructure and signals commitment to transparency and efficiency as core governance values.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in source metadata",
+    "This is a second Esri award; prior recognition in 2022 for Winter Weather Operations tool indicates sustained GIS strategic focus",
+    "Lead Service Line Map reference suggests intersection with lead-remediation efforts",
+    "Promotion of Joanna Bailey represents institutional maturation of GIS function within city structure",
+    "No budget amounts mentioned in release",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

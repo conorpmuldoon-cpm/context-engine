@@ -1,0 +1,24 @@
+2026-03-30 16:11:23,226 [INFO] ============================================================
+2026-03-30 16:11:23,226 [INFO] Website Monitor starting
+2026-03-30 16:11:25,281 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-03-30 16:11:25,281 [INFO]   Navigating to https://www.syr.gov/News
+2026-03-30 16:11:30,903 [INFO]   Found 10 article links in News
+2026-03-30 16:11:35,903 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-03-30-Mayors-Office-News-830AM
+2026-03-30 16:11:47,726 [INFO]     Saved: CTX-WEB-2026-00127 → CTX-WEB-2026-00127.json
+2026-03-30 16:11:47,726 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-03-30 16:11:47,726 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-03-30 16:11:50,731 [INFO]   Found 0 article links in Announcements
+2026-03-30 16:11:55,732 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-03-30 16:11:55,732 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-03-30 16:11:58,763 [INFO]   Found 0 article links in Public Notices
+2026-03-30 16:12:03,801 [INFO] Website Monitor Run — 2026-03-30 16:12
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • Mayor Owens Announces Syracuse Awarded for Outstanding Work with GIS
+
