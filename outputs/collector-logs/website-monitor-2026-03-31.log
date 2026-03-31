@@ -1,0 +1,24 @@
+2026-03-31 16:13:38,371 [INFO] ============================================================
+2026-03-31 16:13:38,371 [INFO] Website Monitor starting
+2026-03-31 16:13:39,108 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-03-31 16:13:39,108 [INFO]   Navigating to https://www.syr.gov/News
+2026-03-31 16:13:44,084 [INFO]   Found 10 article links in News
+2026-03-31 16:13:49,085 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-03-31-Mayors-Office-News-1030-AM
+2026-03-31 16:14:01,851 [INFO]     Saved: CTX-WEB-2026-00128 → CTX-WEB-2026-00128.json
+2026-03-31 16:14:01,851 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-03-31 16:14:01,851 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-03-31 16:14:05,826 [INFO]   Found 0 article links in Announcements
+2026-03-31 16:14:10,826 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-03-31 16:14:10,826 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-03-31 16:14:14,139 [INFO]   Found 0 article links in Public Notices
+2026-03-31 16:14:19,173 [INFO] Website Monitor Run — 2026-03-31 16:14
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • Mayor Owens Announces Board Member Appointed To SCSD Board
+

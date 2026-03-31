@@ -1,0 +1,80 @@
+{
+  "record_id": "CTX-WEB-2026-00128",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-03-31-Mayors-Office-News-1030-AM",
+  "publication_date": "2026-03-31",
+  "capture_date": "2026-03-31T16:14:01Z",
+  "title": "Mayor Owens Announces Board Member Appointed To SCSD Board",
+  "summary": "Mayor Sharon F. Owens appointed Desire K. Ndagijimana to fill a vacant seat on the Syracuse City School District Board of Education under Education Law Section 2553(6). Ndagijimana, a refugee resettlement success story with background in mental health and disability support services, will serve in an interim capacity until the next election cycle. The appointment emphasizes continuity, representation, and community investment in education equity.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "leadership-change",
+    "equity",
+    "intergovernmental",
+    "transparency",
+    "residents",
+    "federal-programs"
+  ],
+  "department_refs": [
+    "Office of the Mayor",
+    "Syracuse City School District",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Desire K. Ndagijimana",
+      "type": "person",
+      "canonical_id": "PERSON-DESIRE-NDAGIJIMANA"
+    },
+    {
+      "name": "Syracuse City School District",
+      "type": "organization",
+      "canonical_id": "ORG-SCSD"
+    },
+    {
+      "name": "InterFaith Works",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Citizen Review Board (City of Syracuse)",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Onondaga County Democratic Committee",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Appointment demonstrates mayoral commitment to educational equity, refugee integration, mental health/disability representation, and community trust through transparent board governance.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Name variant detected: 'Nadgijimana' in biography section vs. 'Ndagijimana' in main text—canonicalized to latter",
+    "SCSD is referenced but is not a City department; classified as intergovernmental entity",
+    "Appointee holds multiple concurrent board roles (SCSD, CRB, County Democratic Committee); potential civic engagement signal",
+    "Content reflects procedural/legal compliance (Education Law Section 2553(6)) and addresses governance transparency explicitly",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
