@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00021",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/syracuse-university/2026/03/mike-haynie-to-take-over-at-syracuse-university-sooner-than-expected.html",
+  "publication_date": "2026-03-31",
+  "capture_date": "2026-03-31T15:54:20Z",
+  "title": "Mike Haynie to take over at Syracuse University sooner than expected",
+  "summary": "Syracuse University Chancellor Kent Syverud's tenure will end sooner than originally anticipated, with Mike Haynie taking over leadership. This leadership transition at a major regional institution may have implications for Syracuse city government partnerships, economic development initiatives, and community engagement efforts.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "announcement",
+    "intergovernmental"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Kent Syverud",
+      "type": "person",
+      "canonical_id": "PERSON-KENT-SYVERUD"
+    },
+    {
+      "name": "Mike Haynie",
+      "type": "person",
+      "canonical_id": "PERSON-MIKE-HAYNIE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Leadership change at major regional institution signals potential shift in SU's strategic priorities and community partnerships; CIO should monitor implications for digital services, innovation initiatives, and tech sector engagement.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content incomplete in provided text; only headline and lede available",
+    "No direct city government connection stated; flagged for intergovernmental relations relevance",
+    "No financial, policy, or operational impacts specified in available content",
+    "Recommend full article review for CIO stakeholder briefing value",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

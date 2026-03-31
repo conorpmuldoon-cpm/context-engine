@@ -1,0 +1,78 @@
+2026-03-31 15:54:14,850 [INFO] ============================================================
+2026-03-31 15:54:14,851 [INFO] News Scanner starting
+2026-03-31 15:54:14,851 [INFO] Fetching: Syracuse.com Politics
+2026-03-31 15:54:15,628 [INFO]   50 new articles from Syracuse.com Politics
+2026-03-31 15:54:15,628 [INFO] Fetching: Syracuse.com Government
+2026-03-31 15:54:15,861 [INFO]   0 new articles from Syracuse.com Government
+2026-03-31 15:54:15,861 [INFO] Fetching: Syracuse.com Local
+2026-03-31 15:54:16,159 [INFO]   0 new articles from Syracuse.com Local
+2026-03-31 15:54:16,159 [INFO] Fetching: Syracuse.com Main
+2026-03-31 15:54:16,591 [INFO]   0 new articles from Syracuse.com Main
+2026-03-31 15:54:16,591 [INFO] Total unique articles across all feeds: 50
+2026-03-31 15:54:16,591 [INFO] New articles (not previously processed): 50
+2026-03-31 15:54:16,626 [DEBUG]   Filtered (not relevant): See dramatic video of Auburn officers rescuing person from frigid water (video)
+2026-03-31 15:54:16,626 [DEBUG]   Filtered (not relevant): Syracuse basketball freshman elects to enter transfer portal
+2026-03-31 15:54:16,627 [DEBUG]   Filtered (not relevant): REI’s top-rated running vests are on sale right now for less than $100
+2026-03-31 15:54:16,627 [DEBUG]   Filtered (not relevant): Dear Abby: Work friend says she ‘loves’ us, but we’re getting conflicting signal
+2026-03-31 15:54:16,628 [DEBUG]   Filtered (not relevant): Model’s head stolen from grave in grisly theft
+2026-03-31 15:54:16,628 [DEBUG]   Filtered (not relevant): New BetMGM Bonus Code CUSE150: $150 bonus and $5K+ casino bonus in MI for Easter
+2026-03-31 15:54:16,629 [DEBUG]   Filtered (not relevant): 3-time state champion basketball coach leaves Central NY program he has led to w
+2026-03-31 15:54:16,629 [DEBUG]   Filtered (not relevant): Onondaga County selects new poet laureate for 2026-27
+2026-03-31 15:54:16,629 [DEBUG]   Filtered (not relevant): Miss Manners: ‘How do you do’ has become fussy and old fashioned, so, what am I 
+2026-03-31 15:54:16,630 [DEBUG]   Filtered (not relevant): Near-record slaughter of NY black bears nothing to celebrate (Your Letters)
+2026-03-31 15:54:16,630 [DEBUG]   Filtered (not relevant): See closing arguments in the murder trial of NY prison guard in the death of inm
+2026-03-31 15:54:16,630 [DEBUG]   Filtered (not relevant): Florida airport near Mar-a-Lago getting very Trump makeover
+2026-03-31 15:54:16,631 [INFO]   Relevant: Mike Haynie to take over at Syracuse University sooner than expected
+2026-03-31 15:54:16,631 [DEBUG]     → Entities: Syracuse University
+2026-03-31 15:54:20,438 [INFO]     Saved: CTX-NEWS-2026-00021 → CTX-NEWS-2026-00021.json
+2026-03-31 15:54:20,439 [DEBUG]   Filtered (not relevant): Miss Manners: Where have all the manners gone? Is everyone rude these days, or i
+2026-03-31 15:54:20,440 [DEBUG]   Filtered (not relevant): Knicks vs. Rockets odds update: Experts alter predictions as Brunson, Durant hea
+2026-03-31 15:54:20,440 [DEBUG]   Filtered (not relevant): Flood warning active for Finger Lakes until Tuesday midday due to excessive rain
+2026-03-31 15:54:20,441 [DEBUG]   Filtered (not relevant): Dear Doctor: My primary says there’s no need for shingles vaccine because of my 
+2026-03-31 15:54:20,441 [DEBUG]   Filtered (not relevant): How to secure Weezer ‘The Gathering Tour’ presale tickets before they sell out
+2026-03-31 15:54:20,442 [DEBUG]   Filtered (not relevant): Flood warning for Herkimer County until Thursday evening — minor flooding is for
+2026-03-31 15:54:20,442 [DEBUG]   Filtered (not relevant): 'I leave it to the universe': Meet the typewriter poet writing poems for strange
+2026-03-31 15:54:20,443 [DEBUG]   Filtered (not relevant): Dear Doctor: Mysterious blob appears after 22 years of perfect vision; should I 
+2026-03-31 15:54:20,443 [DEBUG]   Filtered (not relevant): Section III boys lacrosse 2026: Team previews, must-watch games for Class A and 
+2026-03-31 15:54:20,443 [INFO]   Relevant: Owens appoints refugee, mental health advocate to vacant Syracuse school board s
+2026-03-31 15:54:20,443 [DEBUG]     → Keywords: mayor, syracuse mayor
+2026-03-31 15:54:23,613 [INFO]     Saved: CTX-NEWS-2026-00022 → CTX-NEWS-2026-00022.json
+2026-03-31 15:54:23,614 [DEBUG]   Filtered (not relevant): Walmart slashes price of 4.7-star Blackstone Griddle in limited time deal - On s
+2026-03-31 15:54:23,614 [DEBUG]   Filtered (not relevant): Upstate NY college grad to command NASA's first crewed lunar mission in decades
+2026-03-31 15:54:23,615 [DEBUG]   Filtered (not relevant): 5 Mets minor leaguers who are on the brink of a call-up
+2026-03-31 15:54:23,615 [DEBUG]   Filtered (not relevant): Section III girls lacrosse 2026: Team previews, must-watch games for Class A and
+2026-03-31 15:54:23,615 [DEBUG]   Filtered (not relevant): Dear Annie: Husband wants no boundaries between our household and his parents, a
+2026-03-31 15:54:23,616 [DEBUG]   Filtered (not relevant): NY should implement its climate law, not dismantle it (Guest Opinion by Anshul G
+2026-03-31 15:54:23,616 [DEBUG]   Filtered (not relevant): U.S. gas prices hit $4 a gallon for first time since 2022
+2026-03-31 15:54:23,617 [DEBUG]   Filtered (not relevant): North Country, Mohawk Valley placed under a flood advisory until Tuesday morning
+2026-03-31 15:54:23,618 [DEBUG]   Filtered (not relevant): Hear how leaders in the optics industry found workforce success through collabor
+2026-03-31 15:54:23,618 [DEBUG]   Filtered (not relevant): Section III girls lacrosse stats leaders (through March 30)
+2026-03-31 15:54:23,618 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: I tested reader recommended DIY cleaners, and these are the
+2026-03-31 15:54:23,619 [DEBUG]   Filtered (not relevant): ‘90s rock band announces 30th anniversary tour dates, new album
+2026-03-31 15:54:23,619 [DEBUG]   Filtered (not relevant): Upstate NY man indicted for trying to vote in dead person's name
+2026-03-31 15:54:23,620 [DEBUG]   Filtered (not relevant): Thousands welcome McNamara back to SU (Good Morning CNY)
+2026-03-31 15:54:23,620 [DEBUG]   Filtered (not relevant): Hummus soup with crispy chickpeas
+2026-03-31 15:54:23,620 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for March 31
+2026-03-31 15:54:23,621 [DEBUG]   Filtered (not relevant): Axe: Press conference? No, no. Monday was Gerry McNamara’s first victory party a
+2026-03-31 15:54:23,621 [DEBUG]   Filtered (not relevant): Asking Eric: Boyfriend resents my close friendship with ex; upcoming trip sparks
+2026-03-31 15:54:23,622 [DEBUG]   Filtered (not relevant): Asking Eric: My job is to make boss look better; how can I when he sabotages him
+2026-03-31 15:54:23,622 [DEBUG]   Filtered (not relevant): Thunderstorms, flash flooding possible in Upstate NY as wave of storms begin
+2026-03-31 15:54:23,622 [DEBUG]   Filtered (not relevant): CNY Inspirations: Inspired by those who see
+2026-03-31 15:54:23,623 [DEBUG]   Filtered (not relevant): Ebony Farrow builds paths toward lifelong careers: Thriving over surviving (Syra
+2026-03-31 15:54:23,623 [DEBUG]   Filtered (not relevant): When did McNamara become SU’s top choice? ‘You don’t make emotional decisions’
+2026-03-31 15:54:23,624 [DEBUG]   Filtered (not relevant): Dear Abby: Boyfriend insists on wearing a keyring like a building super, and it’
+2026-03-31 15:54:23,624 [DEBUG]   Filtered (not relevant): Country star announces Turning Stone concert; tickets on sale Tuesday
+2026-03-31 15:54:23,625 [DEBUG]   Filtered (not relevant): Dear Abby: We are disgusted by the way our ex-daughter-in-law speaks to her son 
+2026-03-31 15:54:23,625 [DEBUG]   Filtered (not relevant): Business listings: See 44 new businesses in Central NY (March 31, 2026)
+2026-03-31 15:54:23,626 [INFO] News Scanner Run — 2026-03-31 15:54
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Mike Haynie to take over at Syracuse University sooner than expected
+  • Owens appoints refugee, mental health advocate to vacant Syracuse school board s
+

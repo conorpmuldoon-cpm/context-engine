@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00022",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/03/owens-appoints-refugee-mental-health-advocate-to-vacant-syracuse-school-board-seat.html",
+  "publication_date": "2026-03-31",
+  "capture_date": "2026-03-31T15:54:23Z",
+  "title": "Owens appoints refugee, mental health advocate to vacant Syracuse school board seat",
+  "summary": "Mayor Sharon Owens appointed a refugee activist and mental health specialist to fill a vacant Syracuse school board seat previously held by Twiggy Billue. This leadership change reflects municipal prioritization of refugee integration and mental health advocacy within K-12 governance.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "announcement",
+    "equity",
+    "mayor"
+  ],
+  "department_refs": [
+    "Syracuse City School District"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Twiggy Billue",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Emalyn Muzzy",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayoral appointment prioritizes refugee services and mental health within education governance, signaling municipal commitment to equity-focused education policy and social services integration.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Appointee name not provided in article excerpt—recommend full text review for complete entity mapping",
+    "School board seat appointment is advisory to CIO only; no direct IT/digital services implications detected",
+    "Mental health specialist background suggests potential future initiatives in student data systems or wellness platform needs",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
