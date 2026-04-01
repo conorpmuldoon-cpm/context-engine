@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00023",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/04/fire-at-syracuse-convenience-store-intentionally-set-fire-officials-say.html",
+  "publication_date": "2026-04-01",
+  "capture_date": "2026-04-01T15:58:43Z",
+  "title": "Fire at Syracuse convenience store intentionally set, fire officials say",
+  "summary": "A fire at a Syracuse convenience store on Tuesday night was determined to be intentionally set by the Syracuse Fire Department. This incident represents a criminal arson case requiring coordination between fire and law enforcement agencies.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "fire",
+    "crime-data",
+    "emergency-services",
+    "investigation"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Darian Stevenson",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Syracuse Fire Department",
+      "type": "organization",
+      "canonical_id": "ORG-SFD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Intentional fire/arson raises public safety concerns and may trigger community oversight of emergency response protocols and arson investigation capacity.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Location specificity limited (convenience store, not named)",
+    "No structural damage estimates or injuries reported in excerpt",
+    "Investigation status unclear - may be ongoing",
+    "Would benefit from cross-reference with police department records and arson investigation unit for full incident context",
+    "Consider monitoring for follow-up reporting on arrests or investigation outcomes",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

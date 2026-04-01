@@ -1,0 +1,82 @@
+2026-04-01 15:58:38,887 [INFO] ============================================================
+2026-04-01 15:58:38,888 [INFO] News Scanner starting
+2026-04-01 15:58:38,888 [INFO] Fetching: Syracuse.com Politics
+2026-04-01 15:58:39,256 [INFO]   50 new articles from Syracuse.com Politics
+2026-04-01 15:58:39,256 [INFO] Fetching: Syracuse.com Government
+2026-04-01 15:58:39,394 [INFO]   0 new articles from Syracuse.com Government
+2026-04-01 15:58:39,394 [INFO] Fetching: Syracuse.com Local
+2026-04-01 15:58:39,529 [INFO]   0 new articles from Syracuse.com Local
+2026-04-01 15:58:39,529 [INFO] Fetching: Syracuse.com Main
+2026-04-01 15:58:39,674 [INFO]   0 new articles from Syracuse.com Main
+2026-04-01 15:58:39,674 [INFO] Total unique articles across all feeds: 50
+2026-04-01 15:58:39,675 [INFO] New articles (not previously processed): 50
+2026-04-01 15:58:39,717 [DEBUG]   Filtered (not relevant): Late-night host launches website offering ‘Trump Head’ stickers for national par
+2026-04-01 15:58:39,717 [DEBUG]   Filtered (not relevant): Updated BetMGM Bonus Code CUSE150: $150 bonus and $5K+ casino bonus in PA for Ap
+2026-04-01 15:58:39,718 [INFO]   Relevant: Fire at Syracuse convenience store intentionally set, fire officials say
+2026-04-01 15:58:39,718 [DEBUG]     → Departments: Syracuse Fire Department
+2026-04-01 15:58:39,718 [DEBUG]     → Keywords: syracuse fire
+2026-04-01 15:58:43,190 [INFO]     Saved: CTX-NEWS-2026-00023 → CTX-NEWS-2026-00023.json
+2026-04-01 15:58:43,191 [DEBUG]   Filtered (not relevant): Miss Manners: Wife’s attacks of ‘verbal diarrhea’ solved by an age old old age p
+2026-04-01 15:58:43,191 [DEBUG]   Filtered (not relevant): Refusing to play CBA football is an embarrassment for Section 3 (Your Letters)
+2026-04-01 15:58:43,192 [DEBUG]   Filtered (not relevant): County wins eminent domain case against last part of ShoppingTown Mall
+2026-04-01 15:58:43,192 [DEBUG]   Filtered (not relevant): Upstate NY hotel owner refuses service to federal border chief Homan
+2026-04-01 15:58:43,192 [DEBUG]   Filtered (not relevant): SU basketball to play Big Ten team in neutral-site game in 2026-27 season
+2026-04-01 15:58:43,193 [DEBUG]   Filtered (not relevant): Not the owner: Judge’s blunt words on ballroom have Trump ‘seething’
+2026-04-01 15:58:43,193 [DEBUG]   Filtered (not relevant): Miss Manners: Guests won’t keep their feet off the furniture; I don’t want to be
+2026-04-01 15:58:43,194 [DEBUG]   Filtered (not relevant): Carrot cake butter mochi
+2026-04-01 15:58:43,194 [DEBUG]   Filtered (not relevant): Joe Brady, Josh Allen make accountability pact as Bills enter new era
+2026-04-01 15:58:43,195 [DEBUG]   Filtered (not relevant): One-legged goose teaches about disabilities, acceptance (Enable: The Disability 
+2026-04-01 15:58:43,196 [DEBUG]   Filtered (not relevant): Dear Doctor: The secret to calming my overactive bladder came from eliminating t
+2026-04-01 15:58:43,196 [DEBUG]   Filtered (not relevant): This is your last chance to get select Owala water bottles on sale at Target - G
+2026-04-01 15:58:43,196 [DEBUG]   Filtered (not relevant): How to secure Lily Allen presale tickets for fall tour dates before they sell ou
+2026-04-01 15:58:43,197 [DEBUG]   Filtered (not relevant): One of NHL’s hottest scorers shares funny story about his recruiting visit to Co
+2026-04-01 15:58:43,197 [DEBUG]   Filtered (not relevant): Dear Doctor: Should people take probiotics after antibiotics, especially if they
+2026-04-01 15:58:43,198 [DEBUG]   Filtered (not relevant): Decorated WWII veteran from Upstate NY dies at 102
+2026-04-01 15:58:43,198 [DEBUG]   Filtered (not relevant): The Monster High Skullector Coraline Collectible Doll is finally at Walmart, but
+2026-04-01 15:58:43,199 [DEBUG]   Filtered (not relevant): Syracuse man to get third trial after court overturns his murder conviction a se
+2026-04-01 15:58:43,199 [DEBUG]   Filtered (not relevant): Dear Annie: Competitive athlete wonders if there’s any future with woman who hat
+2026-04-01 15:58:43,200 [DEBUG]   Filtered (not relevant): Highmark Stadium demolition underway; seats, signs, more for sale
+2026-04-01 15:58:43,200 [DEBUG]   Filtered (not relevant): Beak & Skiff concerts are ‘one of the true gifts of living here’ (Your Letters)
+2026-04-01 15:58:43,200 [INFO]   Relevant: Syracuse Salt Company and SU team up to launch orange-inspired ‘Cuse Flake Salts
+2026-04-01 15:58:43,200 [DEBUG]     → Entities: Syracuse University
+2026-04-01 15:58:46,856 [INFO]     Saved: CTX-NEWS-2026-00024 → CTX-NEWS-2026-00024.json
+2026-04-01 15:58:46,857 [DEBUG]   Filtered (not relevant): Dear Annie: We’re raising kids in an affluent area, and they resent what we can’
+2026-04-01 15:58:46,857 [DEBUG]   Filtered (not relevant): Trey Autry, son of former Syracuse coach Adrian Autry, will enter transfer porta
+2026-04-01 15:58:46,858 [DEBUG]   Filtered (not relevant): Man who killed co-worker at Upstate NY corner store sentenced to 22 years
+2026-04-01 15:58:46,858 [DEBUG]   Filtered (not relevant): See the Central NY schools with the biggest jumps in ELA scores in 2025
+2026-04-01 15:58:46,858 [DEBUG]   Filtered (not relevant): A part of Sweetheart Corner could get new life, including restaurants, under pro
+2026-04-01 15:58:46,859 [DEBUG]   Filtered (not relevant): Section III baseball pitching leaders (through March 31)
+2026-04-01 15:58:46,859 [DEBUG]   Filtered (not relevant): Flood warning in place for Madison and Onondaga counties until Wednesday evening
+2026-04-01 15:58:46,860 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: Throwing your coffee grounds away is a huge mistake; here’s
+2026-04-01 15:58:46,860 [DEBUG]   Filtered (not relevant): Section III baseball hitting leaders (through March 31)
+2026-04-01 15:58:46,860 [INFO]   Relevant: Mike Haynie to take over at Syracuse University sooner than expected (Good Morni
+2026-04-01 15:58:46,860 [DEBUG]     → Entities: Syracuse University
+2026-04-01 15:58:49,893 [INFO]     Saved: CTX-NEWS-2026-00025 → CTX-NEWS-2026-00025.json
+2026-04-01 15:58:49,893 [DEBUG]   Filtered (not relevant): New SAMMYs director has ideas on how Syracuse artists can thrive in cutthroat in
+2026-04-01 15:58:49,894 [DEBUG]   Filtered (not relevant): Slow cooker chicken and bean fideo
+2026-04-01 15:58:49,895 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for April 1
+2026-04-01 15:58:49,895 [DEBUG]   Filtered (not relevant): Police blotter: See 290 new arrests added (April 1, 2026)
+2026-04-01 15:58:49,895 [DEBUG]   Filtered (not relevant): Upstate NY turkey poacher busted for bagging 3 birds out of season
+2026-04-01 15:58:49,896 [DEBUG]   Filtered (not relevant): Asking Eric: Stepson is doing very well for himself, but pouting about dad’s inh
+2026-04-01 15:58:49,897 [DEBUG]   Filtered (not relevant): Asking Eric: Sister sides with abusive brother-in-law; I’m still hurting from ri
+2026-04-01 15:58:49,897 [DEBUG]   Filtered (not relevant): Flooding closes roads in Upstate NY; more rain expected this weekend
+2026-04-01 15:58:49,897 [DEBUG]   Filtered (not relevant): OCRRA opens four new battery drop-off sites in Syracuse to prevent fires
+2026-04-01 15:58:49,898 [DEBUG]   Filtered (not relevant): Flood advisory for Oswego County until early Thursday morning caused by excessiv
+2026-04-01 15:58:49,898 [DEBUG]   Filtered (not relevant): Hudson Valley drive-in that closed years ago is set to reopen
+2026-04-01 15:58:49,898 [DEBUG]   Filtered (not relevant): Surprising discovery of mercury in Onondaga Lake marina raises concern of broade
+2026-04-01 15:58:49,899 [DEBUG]   Filtered (not relevant): Clear Path for Veterans’ Ryan Woodruff on leadership: Serve something greater th
+2026-04-01 15:58:49,900 [DEBUG]   Filtered (not relevant): Dear Abby: I’m a 35-year-old virgin on the verge of hiring a male escort, becaus
+2026-04-01 15:58:49,900 [DEBUG]   Filtered (not relevant): Dear Abby: My daughter ended up drunk and in jail; to this day, she claims I cal
+2026-04-01 15:58:49,901 [INFO] News Scanner Run — 2026-04-01 15:58
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • Fire at Syracuse convenience store intentionally set, fire officials say
+  • Syracuse Salt Company and SU team up to launch orange-inspired ‘Cuse Flake Salts
+  • Mike Haynie to take over at Syracuse University sooner than expected (Good Morni
+

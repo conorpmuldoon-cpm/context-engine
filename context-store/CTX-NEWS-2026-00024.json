@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00024",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/04/syracuse-salt-company-and-su-team-up-to-launch-orange-inspired-cuse-flake-salts.html",
+  "publication_date": "2026-04-01",
+  "capture_date": "2026-04-01T15:58:46Z",
+  "title": "Syracuse Salt Company and SU team up to launch orange-inspired ‘Cuse Flake Salts",
+  "summary": "Syracuse Salt Company has partnered with Syracuse University to develop and launch 'Cuse Flake Salts, a consumer product line inspired by the university's orange branding. This business-community collaboration represents a local economic development initiative combining institutional partnership with private sector innovation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "business-community",
+    "initiative-launch",
+    "economic-development"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse Salt Company",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-SALT"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Kacie Moschella",
+      "type": "person",
+      "canonical_id": "PERSON-KACIE-MOSCHELLA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Local private-public partnership demonstrating alignment with economic development and business community engagement priorities; promotes local entrepreneurship and institutional collaboration.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date is 2026-04-01 (April Fools' Day) — potential satire or promotional content; recommend verification of authenticity",
+    "No municipal government involvement detected; relevance to CIO role is indirect (business community context only)",
+    "No IT systems, digital services, or infrastructure implications identified",
+    "No budget, procurement, or departmental resource impacts mentioned",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

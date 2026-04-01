@@ -1,0 +1,52 @@
+{
+  "record_id": "CTX-NEWS-2026-00025",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/04/mike-haynie-to-take-over-at-syracuse-university-sooner-than-expected-good-morning-cny-for-april-1.html",
+  "publication_date": "2026-04-01",
+  "capture_date": "2026-04-01T15:58:49Z",
+  "title": "Mike Haynie to take over at Syracuse University sooner than expected (Good Morning CNY)",
+  "summary": "Mike Haynie's transition to leadership at Syracuse University is occurring ahead of schedule. This leadership change at a major regional institution may have implications for Syracuse's innovation ecosystem and university-community partnerships.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "intergovernmental",
+    "economic-development"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Mike Haynie",
+      "type": "person",
+      "canonical_id": "PERSON-MIKE-HAYNIE"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Leadership transition at Syracuse University, a key anchor institution for regional innovation and economic development strategy",
+    "confidence": "low"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article headline references accelerated timeline but full content not provided—limited context for CIO relevance assessment",
+    "No direct city government involvement detected in excerpt",
+    "Potential relevance to innovation ecosystem and university partnerships warrants monitoring",
+    "Date format suggests future-dated article (April 1, 2026); verify publication date",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
