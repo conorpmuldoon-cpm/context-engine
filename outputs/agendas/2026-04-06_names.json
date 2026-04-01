@@ -1,0 +1,23 @@
+{
+  "date": "2026-04-06",
+  "source": "agenda_parse",
+  "names": [],
+  "organizations": [
+    {
+      "name": "Energy Automation",
+      "context": "Item 15"
+    },
+    {
+      "name": "Siteimprove",
+      "context": "Item 27"
+    },
+    {
+      "name": "SurveyMonkey Inc.",
+      "context": "Item 29"
+    },
+    {
+      "name": "Syracuse Model Neighborhood Facility",
+      "context": "Item 33"
+    }
+  ]
+}
