@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00026",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangebasketball/2026/04/doubling-down-syracuse-fans-hit-50000-vinny-lobdell-ups-matching-offer-to-100000.html",
+  "publication_date": "2026-04-02",
+  "capture_date": "2026-04-02T15:38:36Z",
+  "title": "Doubling down: Syracuse fans hit $50,000; Vinny Lobdell ups matching offer to $100,000",
+  "summary": "Syracuse University launched a grassroots fundraising campaign for its basketball program on April 2, 2026. The campaign reached $50,000 in donations, prompting local donor Vinny Lobdell to double his matching offer from $50,000 to $100,000. This represents community engagement in university athletics funding but falls outside direct City of Syracuse municipal operations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "business-community",
+    "announcement",
+    "trending"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Vinny Lobdell",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Mike Waters",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Community philanthropic support for Syracuse University athletics demonstrates civic engagement and private-sector investment in institutional priorities aligned with regional economic development.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns Syracuse University (state entity, not City of Syracuse municipality) - limited direct relevance to municipal CIO operations",
+    "Primary news value is community fundraising momentum rather than municipal policy or service delivery",
+    "No city departments, infrastructure systems, or digital services referenced",
+    "Recommend for monitoring only if university partnership initiatives emerge involving city IT/digital services",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

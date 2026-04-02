@@ -1,0 +1,75 @@
+2026-04-02 15:38:32,124 [INFO] ============================================================
+2026-04-02 15:38:32,125 [INFO] News Scanner starting
+2026-04-02 15:38:32,125 [INFO] Fetching: Syracuse.com Politics
+2026-04-02 15:38:32,376 [INFO]   50 new articles from Syracuse.com Politics
+2026-04-02 15:38:32,376 [INFO] Fetching: Syracuse.com Government
+2026-04-02 15:38:32,531 [INFO]   0 new articles from Syracuse.com Government
+2026-04-02 15:38:32,531 [INFO] Fetching: Syracuse.com Local
+2026-04-02 15:38:32,687 [INFO]   0 new articles from Syracuse.com Local
+2026-04-02 15:38:32,687 [INFO] Fetching: Syracuse.com Main
+2026-04-02 15:38:32,838 [INFO]   0 new articles from Syracuse.com Main
+2026-04-02 15:38:32,839 [INFO] Total unique articles across all feeds: 50
+2026-04-02 15:38:32,839 [INFO] New articles (not previously processed): 50
+2026-04-02 15:38:32,881 [DEBUG]   Filtered (not relevant): Syracuse man stabs man multiple times in DeWitt hotel room during fight, police 
+2026-04-02 15:38:32,882 [DEBUG]   Filtered (not relevant): Man accused of stabbing two Fort Drum soldiers at hookah lounge
+2026-04-02 15:38:32,882 [INFO]   Relevant: Doubling down: Syracuse fans hit $50,000; Vinny Lobdell ups matching offer to $1
+2026-04-02 15:38:32,883 [DEBUG]     → Entities: Syracuse University
+2026-04-02 15:38:36,939 [INFO]     Saved: CTX-NEWS-2026-00026 → CTX-NEWS-2026-00026.json
+2026-04-02 15:38:36,939 [DEBUG]   Filtered (not relevant): 13 iconic Upstate New York foods you need to try before you die
+2026-04-02 15:38:36,940 [DEBUG]   Filtered (not relevant): Extended BetMGM Bonus Code CUSE150: $150 bonus and $5K+ casino bonus in MI throu
+2026-04-02 15:38:36,941 [DEBUG]   Filtered (not relevant): Today’s obituary: Rev. Nebraski Carter, 90, founded and pastored at Syracuse chu
+2026-04-02 15:38:36,941 [DEBUG]   Filtered (not relevant): Miss Manners: Mouthy grandma at kids sporting events is ruining it for the rest 
+2026-04-02 15:38:36,942 [DEBUG]   Filtered (not relevant): Company news: Dave Toomey promoted to senior vice president at SRC Inc.
+2026-04-02 15:38:36,942 [DEBUG]   Filtered (not relevant): Josh Allen and Hailee Steinfeld welcome baby girl: ‘Feeling incredibly grateful 
+2026-04-02 15:38:36,943 [DEBUG]   Filtered (not relevant): $50 Novig Promo Code SYRACUSE updates PGA bonus for Easter Weekend
+2026-04-02 15:38:36,943 [DEBUG]   Filtered (not relevant): Sewer smell, foods out of temp: 2 restaurants fail inspections
+2026-04-02 15:38:36,943 [DEBUG]   Filtered (not relevant): Autry joins Virginia staff as an assistant
+2026-04-02 15:38:36,944 [DEBUG]   Filtered (not relevant): Miss Manners: My last name looks a lot like a four-letter-word, and I need a pro
+2026-04-02 15:38:36,944 [DEBUG]   Filtered (not relevant): New York gas prices hit $4 a gallon for first time since 2022
+2026-04-02 15:38:36,945 [DEBUG]   Filtered (not relevant): World Cup tickets soar during FIFA’s chaotic pricing; we found them under $300
+2026-04-02 15:38:36,945 [DEBUG]   Filtered (not relevant): Walmart is having a Flash Deal on its ‘affordable’ and ‘great’ AC unit before te
+2026-04-02 15:38:36,946 [DEBUG]   Filtered (not relevant): Syracuse to return to Buffalo for a basketball exhibition game
+2026-04-02 15:38:36,946 [DEBUG]   Filtered (not relevant): Coach: Separate public, private high schools for postseason play (Your Letters)
+2026-04-02 15:38:36,946 [DEBUG]   Filtered (not relevant): Woman moves police barriers and gets stranded in deep floodwaters in Cortland Co
+2026-04-02 15:38:36,947 [DEBUG]   Filtered (not relevant): Siena picks new basketball coach to replace McNamara
+2026-04-02 15:38:36,947 [DEBUG]   Filtered (not relevant): Company news: Sarah Cone joins Pinckney Hugo Group
+2026-04-02 15:38:36,948 [DEBUG]   Filtered (not relevant): Dear Doctor: Everything doctors do to make me feel ‘normal’ just ends up making 
+2026-04-02 15:38:36,948 [DEBUG]   Filtered (not relevant): Presidential interpreter Lilia Rubio speaks out on ICE raids and Trump
+2026-04-02 15:38:36,949 [DEBUG]   Filtered (not relevant): 9 displaced after overnight apartment fire in Syracuse
+2026-04-02 15:38:36,949 [DEBUG]   Filtered (not relevant): Markets are reacting to Trump’s speech on Iran: It isn’t pretty
+2026-04-02 15:38:36,949 [DEBUG]   Filtered (not relevant): Stanley drops Karol G Quencher Flowstate Tumbler and it’s still in stock, but no
+2026-04-02 15:38:36,950 [DEBUG]   Filtered (not relevant): Dear Annie: I dedicated 32 years to career and family; now I’m retired and reali
+2026-04-02 15:38:36,951 [DEBUG]   Filtered (not relevant): Prepare for freezing rain in Northern Warren and Hamilton County until Thursday 
+2026-04-02 15:38:36,951 [DEBUG]   Filtered (not relevant): GOP health care cuts hurt women the most (Guest Opinion by Ursula Rozum)
+2026-04-02 15:38:36,951 [DEBUG]   Filtered (not relevant): Dear Annie: Well-mannered husband has developed ‘unspeakably disgusting habit’ w
+2026-04-02 15:38:36,952 [DEBUG]   Filtered (not relevant): Company news: Andreia Simon joins Syracuse nonprofit The Reading League
+2026-04-02 15:38:36,952 [DEBUG]   Filtered (not relevant): All-CNY pitcher continues grandpa’s legacy that began almost 60 years ago with D
+2026-04-02 15:38:36,953 [DEBUG]   Filtered (not relevant): New York State Fair rethinks Empire Room for 3rd time in 3 years
+2026-04-02 15:38:36,953 [DEBUG]   Filtered (not relevant): A Syracuse firefighter took a side passion to the Olympics: ‘I always assumed I’
+2026-04-02 15:38:36,953 [DEBUG]   Filtered (not relevant): Section III softball pitching leaders (through April 1)
+2026-04-02 15:38:36,954 [DEBUG]   Filtered (not relevant): How Russell’s injury impacts SU football: ‘That’s a deep wide receiver room’
+2026-04-02 15:38:36,954 [DEBUG]   Filtered (not relevant): Affordable, reliable, and still going strong: Syracuse’s Bleu Monkey Cafe (Dinin
+2026-04-02 15:38:36,954 [DEBUG]   Filtered (not relevant): Section III softball hitting leaders (through April 1)
+2026-04-02 15:38:36,955 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: Understanding the ‘pain and pleasure principle’ can help re
+2026-04-02 15:38:36,955 [DEBUG]   Filtered (not relevant): New York’s first tornado of 2026 touched down in Western NY
+2026-04-02 15:38:36,956 [DEBUG]   Filtered (not relevant): Downtown Syracuse sandwich shop to close (Good Morning CNY)
+2026-04-02 15:38:36,956 [DEBUG]   Filtered (not relevant): Asking Eric: Brother lets political rage consume our whole relationship, even wi
+2026-04-02 15:38:36,956 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for April 2
+2026-04-02 15:38:36,957 [DEBUG]   Filtered (not relevant): CNY SPCA Pet of the Week: Mabel loves a good snuggle
+2026-04-02 15:38:36,958 [DEBUG]   Filtered (not relevant): Coconut-chile salmon and greens
+2026-04-02 15:38:36,958 [DEBUG]   Filtered (not relevant): Asking Eric: Brother dares to use my childhood trauma in his newly-published boo
+2026-04-02 15:38:36,958 [DEBUG]   Filtered (not relevant): CNY forecast: Rain now, 70s by the weekend, then light snow
+2026-04-02 15:38:36,959 [DEBUG]   Filtered (not relevant): Rock legend, 76, attacked by alleged stalker (reports)
+2026-04-02 15:38:36,959 [DEBUG]   Filtered (not relevant): CNY Inspirations: Inspired by those who show up
+2026-04-02 15:38:36,959 [DEBUG]   Filtered (not relevant): This Upstate NY brewery with award-winning beer, fun food was just named No. 3 i
+2026-04-02 15:38:36,960 [INFO] News Scanner Run — 2026-04-02 15:38
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Doubling down: Syracuse fans hit $50,000; Vinny Lobdell ups matching offer to $1
+
