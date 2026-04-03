@@ -1,0 +1,45 @@
+{
+  "record_id": "CTX-NEWS-2026-00027",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangelacrosse/2026/04/no-3-syracuse-lacrosse-has-to-overcome-countrys-best-fogo-to-knock-off-no-2-unc-youve-got-to-have-a-plan-b.html",
+  "publication_date": "2026-04-03",
+  "capture_date": "2026-04-03T14:29:58Z",
+  "title": "SU lax has to overcome country’s top FOGO to knock off UNC: ‘You’ve got to have a plan B’",
+  "summary": "This article covers Syracuse University men's lacrosse team's upcoming ACC matchup against UNC. The content is sports-focused and not relevant to City of Syracuse municipal operations, innovation initiatives, or city government.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "University of North Carolina",
+      "type": "organization",
+      "canonical_id": "ORG-UNC"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is about collegiate athletics and is outside the scope of City of Syracuse municipal operations and CIO responsibilities",
+    "While Syracuse University is a major local institution, this specific sports coverage has no direct relevance to city innovation, infrastructure, or governance",
+    "No municipal services, policy changes, or city operations mentioned",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,80 @@
+2026-04-03 14:29:54,053 [INFO] ============================================================
+2026-04-03 14:29:54,053 [INFO] News Scanner starting
+2026-04-03 14:29:54,054 [INFO] Fetching: Syracuse.com Politics
+2026-04-03 14:29:54,310 [INFO]   50 new articles from Syracuse.com Politics
+2026-04-03 14:29:54,310 [INFO] Fetching: Syracuse.com Government
+2026-04-03 14:29:54,588 [INFO]   0 new articles from Syracuse.com Government
+2026-04-03 14:29:54,588 [INFO] Fetching: Syracuse.com Local
+2026-04-03 14:29:54,970 [INFO]   0 new articles from Syracuse.com Local
+2026-04-03 14:29:54,970 [INFO] Fetching: Syracuse.com Main
+2026-04-03 14:29:55,358 [INFO]   0 new articles from Syracuse.com Main
+2026-04-03 14:29:55,358 [INFO] Total unique articles across all feeds: 50
+2026-04-03 14:29:55,358 [INFO] New articles (not previously processed): 50
+2026-04-03 14:29:55,402 [DEBUG]   Filtered (not relevant): Dear Doctor: Doctor is recommending a procedure that I just can’t believe I real
+2026-04-03 14:29:55,402 [DEBUG]   Filtered (not relevant): Walmart’s best-selling ‘comfortable’ $300 patio set is on sale for more than $10
+2026-04-03 14:29:55,403 [DEBUG]   Filtered (not relevant): Company news: Pioneer Companies promotes Eric Ridley to president
+2026-04-03 14:29:55,404 [DEBUG]   Filtered (not relevant): Dear Doctor: AI is being used in your doctor visits; there’s a big benefit you m
+2026-04-03 14:29:55,404 [DEBUG]   Filtered (not relevant): How much are the economies of NY counties worth? See GDP growth, ranked
+2026-04-03 14:29:55,404 [DEBUG]   Filtered (not relevant): New York man arrested after FBI finds 25 explosive devices in apartment
+2026-04-03 14:29:55,405 [DEBUG]   Filtered (not relevant): Updated BetMGM Bonus Code CUSE150: $150 bonus and $5K+ casino bonus in PA for Go
+2026-04-03 14:29:55,406 [DEBUG]   Filtered (not relevant): What Channel is the Final Four on this weekend?
+2026-04-03 14:29:55,406 [INFO]   Relevant: SU lax has to overcome country’s top FOGO to knock off UNC: ‘You’ve got to have 
+2026-04-03 14:29:55,406 [DEBUG]     → Entities: Syracuse University
+2026-04-03 14:29:58,862 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-04-03 14:29:58,884 [INFO]     Saved: CTX-NEWS-2026-00027 → CTX-NEWS-2026-00027.json
+2026-04-03 14:29:58,885 [DEBUG]   Filtered (not relevant): Syracuse.com’s All-Central New York girls wrestling team announced for 2025-26
+2026-04-03 14:29:58,885 [DEBUG]   Filtered (not relevant): Auburn nonprofit is adding more job training programs for people with disabiliti
+2026-04-03 14:29:58,886 [DEBUG]   Filtered (not relevant): Dear Annie: I have a strong bond with my ex-brother-in-law; sister wants me to c
+2026-04-03 14:29:58,886 [DEBUG]   Filtered (not relevant): Upstate NY teacher pleads not guilty to raping student
+2026-04-03 14:29:58,887 [DEBUG]   Filtered (not relevant): Dear Annie: How to tell you your measly, store-bought desert is no longer welcom
+2026-04-03 14:29:58,887 [DEBUG]   Filtered (not relevant): Syracuse.com’s All-Central New York Division II boys hockey team announced
+2026-04-03 14:29:58,888 [DEBUG]   Filtered (not relevant): NFL executives slam Bills’ trade of DJ Moore: What is going on in Buffalo?
+2026-04-03 14:29:58,888 [DEBUG]   Filtered (not relevant): Upstate NY parents arrested after twin babies found with burns, broken bones
+2026-04-03 14:29:58,889 [DEBUG]   Filtered (not relevant): Syracuse Sandwiches: Stone Creek’s crispy chicken makes noise in all the right w
+2026-04-03 14:29:58,889 [DEBUG]   Filtered (not relevant): Syracuse.com’s All-Central New York Division I boys hockey team announced for 20
+2026-04-03 14:29:58,889 [DEBUG]   Filtered (not relevant): Joey Spallina on verge of Syracuse lacrosse scoring record: ‘He’s carved out his
+2026-04-03 14:29:58,890 [DEBUG]   Filtered (not relevant): Up next: Meet the Central NY baseball players with big shoes to fill in 2026 (ph
+2026-04-03 14:29:58,891 [DEBUG]   Filtered (not relevant): Upstate NY deputies seize 42 pounds of meth in massive drug bust
+2026-04-03 14:29:58,891 [DEBUG]   Filtered (not relevant): Why do historians hate this bestselling Abraham Lincoln book by a Syracuse autho
+2026-04-03 14:29:58,891 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for April 3
+2026-04-03 14:29:58,891 [DEBUG]   Filtered (not relevant): Recipes: 3 beloved dishes in soup form
+2026-04-03 14:29:58,892 [DEBUG]   Filtered (not relevant): West Genesee grad leads Richmond lacrosse to first No. 1 ranking: ‘They should f
+2026-04-03 14:29:58,892 [DEBUG]   Filtered (not relevant): Asking Eric: Regular cabin trip has become annual nightmare as one friend’s alco
+2026-04-03 14:29:58,893 [DEBUG]   Filtered (not relevant): New York gas prices hit $4 a gallon; more top stories (Good Morning CNY)
+2026-04-03 14:29:58,893 [DEBUG]   Filtered (not relevant): Asking Eric: After escaping abusive relationship, I realize that I am the proble
+2026-04-03 14:29:58,894 [DEBUG]   Filtered (not relevant): CNY weekend forecast: Mid-70s on Friday, then possible flooding and snow
+2026-04-03 14:29:58,894 [DEBUG]   Filtered (not relevant): Who was the last SU basketball coach with prior head-coaching experience? (Mike’
+2026-04-03 14:29:58,894 [DEBUG]   Filtered (not relevant): House of the Week: Former Liverpool barn was converted into a home with abundant
+2026-04-03 14:29:58,895 [DEBUG]   Filtered (not relevant): CNY anglers had a terrible, horrible, no good, very bad opening day of the 2026 
+2026-04-03 14:29:58,896 [DEBUG]   Filtered (not relevant): Dear Abby: My adult kids are struggling to find their way, and they seem to want
+2026-04-03 14:29:58,896 [DEBUG]   Filtered (not relevant): Dear Abby: ‘I don’t know why I can’t make up my mind about a stupid boy,’ but I 
+2026-04-03 14:29:58,896 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for April 2
+2026-04-03 14:29:58,897 [DEBUG]   Filtered (not relevant): 11 opening-period goals for West Genesee girls lacrosse lead to dominant win ove
+2026-04-03 14:29:58,897 [DEBUG]   Filtered (not relevant): Seven-run 2nd inning propels Cortland baseball past Homer in home opener (35 pho
+2026-04-03 14:29:58,897 [DEBUG]   Filtered (not relevant): Toledo Mud Hens score 15 runs in first five innings, beat Syracuse 17-7
+2026-04-03 14:29:58,898 [DEBUG]   Filtered (not relevant): West Genesee boys lacrosse falls to Pittsford in OT (30 photos)
+2026-04-03 14:29:58,898 [DEBUG]   Filtered (not relevant): Standoff at home on Syracuse’s North Side ends after 6 hours
+2026-04-03 14:29:58,899 [DEBUG]   Filtered (not relevant): NBA Kalshi Promo Code SYRACUSE: Upgraded $10 bonus for Thunder vs. Lakers
+2026-04-03 14:29:58,899 [DEBUG]   Filtered (not relevant): As Iran war continues, Hegseth tells high-ranking U.S. military leader to resign
+2026-04-03 14:29:58,899 [DEBUG]   Filtered (not relevant): Five weeknight dishes: Chilly? Chili.
+2026-04-03 14:29:58,900 [DEBUG]   Filtered (not relevant): New DraftKings promo code: Updated $300 Arkansas bonus for all sports
+2026-04-03 14:29:58,901 [INFO]   Relevant: Man found shot in thigh on Syracuse’s South Side
+2026-04-03 14:29:58,901 [DEBUG]     → Departments: Syracuse Police Department
+2026-04-03 14:29:58,901 [DEBUG]     → Keywords: syracuse police
+2026-04-03 14:30:02,586 [INFO]     Saved: CTX-NEWS-2026-00028 → CTX-NEWS-2026-00028.json
+2026-04-03 14:30:02,587 [DEBUG]   Filtered (not relevant): How to watch the Mets game tonight: MLB free live stream
+2026-04-03 14:30:02,587 [DEBUG]   Filtered (not relevant): ‘The Real Housewives of Rhode Island’ premieres tonight: How to watch for free
+2026-04-03 14:30:02,588 [DEBUG]   Filtered (not relevant): You can now buy an uncleaned urinal trough from the Bills but it’ll cost you a f
+2026-04-03 14:30:02,588 [DEBUG]   Filtered (not relevant): A Syracuse big man plans on entering the transfer portal
+2026-04-03 14:30:02,589 [INFO] News Scanner Run — 2026-04-03 14:30
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • SU lax has to overcome country’s top FOGO to knock off UNC: ‘You’ve got to have 
+  • Man found shot in thigh on Syracuse’s South Side
+

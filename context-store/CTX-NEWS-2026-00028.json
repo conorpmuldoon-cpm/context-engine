@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00028",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/04/man-found-shot-in-thigh-on-syracuses-south-side.html",
+  "publication_date": "2026-04-02",
+  "capture_date": "2026-04-03T14:30:02Z",
+  "title": "Man found shot in thigh on Syracuse’s South Side",
+  "summary": "A 35-year-old man was found shot in the thigh on Syracuse's South Side on April 2, 2026 at approximately 2:22 p.m. in the 3200 block of South Salina Street. The incident was reported by Syracuse Police Department and represents a public safety event relevant to crime data tracking and neighborhood safety monitoring.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "crime-data",
+    "police",
+    "emergency-services",
+    "residents",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "35-year-old male victim",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Incident contributes to ongoing public safety performance metrics and South Side neighborhood crime patterns that may warrant CIO attention for data analytics, crime mapping systems, or public safety technology initiatives.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Victim identity withheld; no suspect information provided in source article",
+    "Specific location (3200 block South Salina Street) enables GIS correlation with other datasets",
+    "Article is factual crime report with no policy implications or CIO-specific technology angle detected",
+    "Could inform broader public safety data dashboards or 311 integration workflows",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
