@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-WEB-2026-00129",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-04-02-Mayors-Office-News-1240-PM",
+  "publication_date": "2026-04-02",
+  "capture_date": "2026-04-03T14:34:05Z",
+  "title": "Syracuse Department of Public Works Receives Two APWA Awards",
+  "summary": "Syracuse Department of Public Works received two APWA awards for its Waste & Recycling Revitalization Program, which modernized sanitation operations through new carts, optimized routes, and semi-automated collection. The initiative reduced sanitation worker shoulder injuries from 41% of all city injuries in 2022 to zero in 2025, while improving service reliability and neighborhood cleanliness.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "initiative-launch",
+    "labor-relations",
+    "safety",
+    "workforce-development",
+    "sustainability",
+    "service-requests",
+    "infrastructure",
+    "mayor"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Ann Fordock",
+      "type": "person",
+      "canonical_id": "PERSON-ANN-FORDOCK"
+    },
+    {
+      "name": "American Public Works Association",
+      "type": "organization",
+      "canonical_id": "ORG-APWA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor and DPW leadership champion worker safety and operational efficiency improvements; award recognition signals successful execution of departmental innovation agenda aligned with CIO's innovation mandate.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in source metadata",
+    "No dollar amounts or budget impacts specified in release",
+    "Awards span both local branch (Feb 2026) and state chapter (March 2026) recognition",
+    "Quantified safety outcome (41% to 0% shoulder injuries) provides strong metrics for CIO reporting",
+    "Program implementation timeline suggests 2022-2025 execution window; specific technology systems not detailed",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'safety' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

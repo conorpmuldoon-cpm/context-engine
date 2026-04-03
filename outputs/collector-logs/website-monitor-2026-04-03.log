@@ -1,0 +1,25 @@
+2026-04-03 14:33:43,736 [INFO] ============================================================
+2026-04-03 14:33:43,736 [INFO] Website Monitor starting
+2026-04-03 14:33:44,411 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-04-03 14:33:44,411 [INFO]   Navigating to https://www.syr.gov/News
+2026-04-03 14:33:48,726 [INFO]   Found 10 article links in News
+2026-04-03 14:33:53,727 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-04-02-Mayors-Office-News-1240-PM
+2026-04-03 14:34:05,152 [WARNING]     Tag issue: Unknown tag 'safety' not in taxonomy
+2026-04-03 14:34:05,163 [INFO]     Saved: CTX-WEB-2026-00129 → CTX-WEB-2026-00129.json
+2026-04-03 14:34:05,163 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-04-03 14:34:05,163 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-04-03 14:34:08,085 [INFO]   Found 0 article links in Announcements
+2026-04-03 14:34:13,085 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-04-03 14:34:13,086 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-04-03 14:34:16,136 [INFO]   Found 0 article links in Public Notices
+2026-04-03 14:34:21,175 [INFO] Website Monitor Run — 2026-04-03 14:34
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • Syracuse Department of Public Works Receives Two APWA Awards
+
