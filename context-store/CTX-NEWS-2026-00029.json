@@ -1,0 +1,50 @@
+{
+  "record_id": "CTX-NEWS-2026-00029",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/sports/2026/04/former-c-ns-standout-nets-another-game-winning-goal-for-le-moyne-womens-lacrosse.html",
+  "publication_date": "2026-04-05",
+  "capture_date": "2026-04-05T14:05:38Z",
+  "title": "Former C-NS standout nets another game-winning goal for Le Moyne women’s lacrosse",
+  "summary": "Local news article about Le Moyne College women's lacrosse player Francesca Tortora (Cicero-North Syracuse High School alumna) scoring a game-winning goal. Not relevant to City of Syracuse municipal operations, budget, policy, or Chief Innovation Officer mandate.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Le Moyne College",
+      "type": "organization",
+      "canonical_id": "ORG-LEMOYNE"
+    },
+    {
+      "name": "Francesca Tortora",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "University of New Haven",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is sports/education content with no direct municipal governance relevance",
+    "Mention of Syracuse, N.Y. and Cicero-North Syracuse indicates local connection but no city policy, infrastructure, or operational implications",
+    "Not actionable for CIO purposes; recommend filtering out similar sports coverage",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
