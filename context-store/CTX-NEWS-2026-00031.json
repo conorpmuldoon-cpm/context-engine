@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00031",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangelacrosse/2026/04/syracuse-lacrosse-falls-out-of-top-5-following-loss-to-unc.html",
+  "publication_date": "2026-04-06",
+  "capture_date": "2026-04-06T14:38:41Z",
+  "title": "Syracuse lacrosse falls out of Top 5 following loss to UNC",
+  "summary": "Article reports on Syracuse University men's lacrosse team dropping out of the Top 5 NCAA rankings following a loss to UNC. This sports news item has no direct relevance to City of Syracuse municipal operations, infrastructure, or Chief Innovation Officer priorities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Brent Axe",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is sports coverage unrelated to municipal governance or CIO initiatives",
+    "Syracuse University is distinct from City of Syracuse government",
+    "No city services, infrastructure, technology systems, or policy implications detected",
+    "Recommend exclusion from CIO context engine unless tracking university partnership initiatives",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

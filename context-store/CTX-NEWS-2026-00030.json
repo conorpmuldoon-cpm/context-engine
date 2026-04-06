@@ -1,0 +1,53 @@
+{
+  "record_id": "CTX-NEWS-2026-00030",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangebasketball/2026/04/european-star-agrees-to-play-for-syracuse-basketball-hes-an-elite-scorer.html",
+  "publication_date": "2026-04-06",
+  "capture_date": "2026-04-06T14:38:38Z",
+  "title": "European star agrees to play for Syracuse basketball: ‘He’s an elite scorer’",
+  "summary": "This article reports on a European basketball player's recruitment to Syracuse University. While not directly relevant to municipal government operations, it represents positive publicity for the Syracuse region and may have indirect economic development implications through sports tourism and institutional visibility.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:sports-recruitment",
+    "PROVISIONAL:higher-education",
+    "economic-development"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Mark Morano Mahmutovic",
+      "type": "person",
+      "canonical_id": "PERSON-MARK-MAHMUTOVIC"
+    },
+    {
+      "name": "Jonathan Givony",
+      "type": "person",
+      "canonical_id": "PERSON-JONATHAN-GIVONY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is sports/athletics focused, not municipal governance",
+    "No direct CIO relevance detected (no IT systems, digital services, data governance, or infrastructure components mentioned)",
+    "Could have tangential economic development value for Syracuse region branding",
+    "No budget, policy, or operational impacts on city government identified",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

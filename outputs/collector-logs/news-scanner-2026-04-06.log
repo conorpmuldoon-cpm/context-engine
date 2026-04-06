@@ -1,0 +1,79 @@
+2026-04-06 14:38:34,263 [INFO] ============================================================
+2026-04-06 14:38:34,263 [INFO] News Scanner starting
+2026-04-06 14:38:34,264 [INFO] Fetching: Syracuse.com Politics
+2026-04-06 14:38:34,814 [INFO]   50 new articles from Syracuse.com Politics
+2026-04-06 14:38:34,814 [INFO] Fetching: Syracuse.com Government
+2026-04-06 14:38:34,953 [INFO]   0 new articles from Syracuse.com Government
+2026-04-06 14:38:34,953 [INFO] Fetching: Syracuse.com Local
+2026-04-06 14:38:35,088 [INFO]   0 new articles from Syracuse.com Local
+2026-04-06 14:38:35,088 [INFO] Fetching: Syracuse.com Main
+2026-04-06 14:38:35,254 [INFO]   0 new articles from Syracuse.com Main
+2026-04-06 14:38:35,254 [INFO] Total unique articles across all feeds: 50
+2026-04-06 14:38:35,255 [INFO] New articles (not previously processed): 50
+2026-04-06 14:38:35,298 [DEBUG]   Filtered (not relevant): Mamacitas closing original location as Fayetteville becomes the main stage
+2026-04-06 14:38:35,298 [DEBUG]   Filtered (not relevant): Miss Manners: I cannot believe you are demanding an ‘thank you’ note less than 4
+2026-04-06 14:38:35,299 [INFO]   Relevant: European star agrees to play for Syracuse basketball: ‘He’s an elite scorer’
+2026-04-06 14:38:35,299 [DEBUG]     → Entities: Syracuse University
+2026-04-06 14:38:38,685 [INFO]     Saved: CTX-NEWS-2026-00030 → CTX-NEWS-2026-00030.json
+2026-04-06 14:38:38,685 [DEBUG]   Filtered (not relevant): Descendants of Choctaw code talkers gather in Fort Worth for historical marker u
+2026-04-06 14:38:38,686 [DEBUG]   Filtered (not relevant): Dear Doctor: I have been relying on AI for medical advice where my doctor is fai
+2026-04-06 14:38:38,686 [DEBUG]   Filtered (not relevant): Restaurant chain may bring back food deal that once bankrupted it
+2026-04-06 14:38:38,686 [DEBUG]   Filtered (not relevant): Ceasefire with Iran ‘being discussed,’ White House official says
+2026-04-06 14:38:38,687 [DEBUG]   Filtered (not relevant): Dear Doctor: It’s illegal for doctors to get money from prescriptions, but there
+2026-04-06 14:38:38,688 [DEBUG]   Filtered (not relevant): The surprising truth about who is actually being deported under Trump's immigrat
+2026-04-06 14:38:38,688 [DEBUG]   Filtered (not relevant): Expanding sex offender registry won’t make us safer (Guest Opinion by Eri Solomo
+2026-04-06 14:38:38,689 [DEBUG]   Filtered (not relevant): Shoppers are sprinting to Walmart to score a $200 off deal on the viral Cloud Co
+2026-04-06 14:38:38,690 [DEBUG]   Filtered (not relevant): Extended BetMGM Bonus Code CUSE150: $150 bonus and $5K+ casino bonus in MI throu
+2026-04-06 14:38:38,690 [INFO]   Relevant: Syracuse lacrosse falls out of Top 5 following loss to UNC
+2026-04-06 14:38:38,690 [DEBUG]     → Entities: Syracuse University
+2026-04-06 14:38:41,524 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-04-06 14:38:41,534 [INFO]     Saved: CTX-NEWS-2026-00031 → CTX-NEWS-2026-00031.json
+2026-04-06 14:38:41,534 [DEBUG]   Filtered (not relevant): OCC athletics HOF inductees include 2 former SU lacrosse players who won NCAA ti
+2026-04-06 14:38:41,535 [DEBUG]   Filtered (not relevant): Onondaga County town sues to shut down smoke shop after repeated violations
+2026-04-06 14:38:41,535 [DEBUG]   Filtered (not relevant): Photos you’ll want to see from Central New York high school spring sports (Week 
+2026-04-06 14:38:41,536 [DEBUG]   Filtered (not relevant): Gas prices jump 13 cents: ‘The biggest problem is now rapidly being realized’
+2026-04-06 14:38:41,536 [DEBUG]   Filtered (not relevant): Company news: David P. Smith named McFarland-Johnson regional director for New Y
+2026-04-06 14:38:41,537 [DEBUG]   Filtered (not relevant): Another Syracuse booster mirrors Vinny Lobdell’s $100,000 match in Back G-Mac ca
+2026-04-06 14:38:41,537 [DEBUG]   Filtered (not relevant): Dear Annie: As loyal friend fixates on troubles, relationship feels more an more
+2026-04-06 14:38:41,538 [DEBUG]   Filtered (not relevant): Investor’s Edge: Got a refund? Start your tax planning for next year
+2026-04-06 14:38:41,538 [DEBUG]   Filtered (not relevant): South Side Community Growth Foundation hires 3 leaders
+2026-04-06 14:38:41,538 [DEBUG]   Filtered (not relevant): Car crashes into house in Upstate NY; driver hospitalized (photos)
+2026-04-06 14:38:41,539 [DEBUG]   Filtered (not relevant): 90-unit apartment complex proposed in eastern Onondaga County
+2026-04-06 14:38:41,539 [DEBUG]   Filtered (not relevant): Syracuse.com’s All-Central New York boys swimming and diving team announced for 
+2026-04-06 14:38:41,540 [DEBUG]   Filtered (not relevant): Power strips sold on Amazon recalled due to serious fire hazard
+2026-04-06 14:38:41,540 [DEBUG]   Filtered (not relevant): McNamara has what he needs to win right away: ‘I want to be immediately relevant
+2026-04-06 14:38:41,541 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: There’s one cleaning tool I only buy at the Dollar Store; h
+2026-04-06 14:38:41,541 [DEBUG]   Filtered (not relevant): Section III boys lacrosse stats leaders (through April 5)
+2026-04-06 14:38:41,541 [DEBUG]   Filtered (not relevant): Cell tower, parking garage: See latest business, apartment, land sales ($400 to 
+2026-04-06 14:38:41,542 [DEBUG]   Filtered (not relevant): WKRP coming to a real station in Cincinnati
+2026-04-06 14:38:41,542 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for April 6
+2026-04-06 14:38:41,543 [DEBUG]   Filtered (not relevant): Fiery vindaloo chili
+2026-04-06 14:38:41,543 [DEBUG]   Filtered (not relevant): Asking Eric: It’s time for tough love with daughter who takes nepo baby job for 
+2026-04-06 14:38:41,544 [DEBUG]   Filtered (not relevant): Fire at a gas lighter factory kills 5 people
+2026-04-06 14:38:41,544 [DEBUG]   Filtered (not relevant): PWHL game in New York sets US pro women’s hockey attendance record
+2026-04-06 14:38:41,545 [DEBUG]   Filtered (not relevant): Firefighters battle blaze at historic Baldwinsville mansion; more top stories (G
+2026-04-06 14:38:41,545 [DEBUG]   Filtered (not relevant): School musical: Clary/ELMS Drama Club presents ‘Spamalot’
+2026-04-06 14:38:41,545 [DEBUG]   Filtered (not relevant): Pop-punk band member admits ‘I won’t be able to tour normally ever again’
+2026-04-06 14:38:41,546 [DEBUG]   Filtered (not relevant): Asking Eric: Brother wants kids in wedding ceremony, but demands they stay away 
+2026-04-06 14:38:41,546 [DEBUG]   Filtered (not relevant): Central NY weather: Snow, cold and wind return Monday
+2026-04-06 14:38:41,547 [DEBUG]   Filtered (not relevant): March Madness watch party, bird watching, spring psychic fair: 22 things to do i
+2026-04-06 14:38:41,547 [DEBUG]   Filtered (not relevant): Ex-owner of CNY kids’ entertainment hotspot owes nearly $1M in taxes
+2026-04-06 14:38:41,548 [DEBUG]   Filtered (not relevant): Dear Abby: I went out of my way to hand-deliver wedding gift, now I’m being trea
+2026-04-06 14:38:41,548 [DEBUG]   Filtered (not relevant): Dear Abby: I have a neurological disorder that makes my entire life painful, but
+2026-04-06 14:38:41,549 [DEBUG]   Filtered (not relevant): Person dies after being struck by train in Utica
+2026-04-06 14:38:41,549 [DEBUG]   Filtered (not relevant): Kalshi Promo Code SYRACUSE: $10 Easter bonus for Curry and the Warriors against 
+2026-04-06 14:38:41,550 [DEBUG]   Filtered (not relevant): See homes sold in four Central NY counties, March 23 to 29
+2026-04-06 14:38:41,550 [DEBUG]   Filtered (not relevant): Tompkins County real estate: See all residential properties sold, March 23-29
+2026-04-06 14:38:41,551 [DEBUG]   Filtered (not relevant): Savory mince pie
+2026-04-06 14:38:41,552 [INFO] News Scanner Run — 2026-04-06 14:38
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • European star agrees to play for Syracuse basketball: ‘He’s an elite scorer’
+  • Syracuse lacrosse falls out of Top 5 following loss to UNC
+
