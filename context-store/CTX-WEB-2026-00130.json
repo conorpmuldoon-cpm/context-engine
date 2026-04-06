@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-WEB-2026-00130",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-04-06-Infrastructure-News-1030-AM",
+  "publication_date": "2026-04-06",
+  "capture_date": "2026-04-06T15:08:41Z",
+  "title": "Department of Public Works Transitions to Spring Operations",
+  "summary": "The City of Syracuse Department of Public Works is transitioning from winter overnight operations to standard daytime spring operations beginning April 2026. DPW will shift focus from snow response to street sweeping, pothole repair, and yard waste collection, with a detailed quadrant-based collection schedule provided for residents.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "roads-bridges",
+    "snow-removal",
+    "neighborhood-services",
+    "service-requests",
+    "infrastructure",
+    "recurring"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Jeremy Robinson",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-ROBINSON"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor emphasizes DPW crew commitment and frames spring operations as strategic shift toward neighborhood restoration and construction season readiness; signals municipal investment in infrastructure maintenance.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown; sourced from official City of Syracuse government domain.",
+    "Press release includes detailed operational schedules (yard waste collection by quadrant) suggesting constituent-facing service documentation.",
+    "Commissioner Jeremy Robinson quoted indicates department-head visibility on seasonal transition.",
+    "References Cityline (311 system) and SYRCityline app for service requests—potential IT/digital-services integration point for CIO.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
