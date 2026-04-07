@@ -1,0 +1,79 @@
+2026-04-07 16:16:19,745 [INFO] ============================================================
+2026-04-07 16:16:19,745 [INFO] News Scanner starting
+2026-04-07 16:16:19,746 [INFO] Fetching: Syracuse.com Politics
+2026-04-07 16:16:20,181 [INFO]   50 new articles from Syracuse.com Politics
+2026-04-07 16:16:20,181 [INFO] Fetching: Syracuse.com Government
+2026-04-07 16:16:20,395 [INFO]   0 new articles from Syracuse.com Government
+2026-04-07 16:16:20,395 [INFO] Fetching: Syracuse.com Local
+2026-04-07 16:16:20,654 [INFO]   0 new articles from Syracuse.com Local
+2026-04-07 16:16:20,654 [INFO] Fetching: Syracuse.com Main
+2026-04-07 16:16:20,877 [INFO]   0 new articles from Syracuse.com Main
+2026-04-07 16:16:20,877 [INFO] Total unique articles across all feeds: 50
+2026-04-07 16:16:20,877 [INFO] New articles (not previously processed): 50
+2026-04-07 16:16:20,921 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 softball rankings (through April 6): Schedule picks up with 
+2026-04-07 16:16:20,922 [DEBUG]   Filtered (not relevant): Asking Eric: My husband has magic touch when dealing with people with dementia; 
+2026-04-07 16:16:20,922 [DEBUG]   Filtered (not relevant): Kate Spade Outlet’s $330 shoulder bag is now $89 in major deal, but it’s selling
+2026-04-07 16:16:20,923 [DEBUG]   Filtered (not relevant): Music festival canceled after headliner barred from entering country
+2026-04-07 16:16:20,923 [DEBUG]   Filtered (not relevant): ‘80s child star files for divorce after 3 years, cites marriage is ‘irretrievabl
+2026-04-07 16:16:20,924 [INFO]   Relevant: Letters sent to possible victims in Syracuse police data breach that cost city $
+2026-04-07 16:16:20,924 [DEBUG]     → Departments: Syracuse Police Department
+2026-04-07 16:16:20,924 [DEBUG]     → Keywords: syracuse police
+2026-04-07 16:16:25,031 [INFO]     Saved: CTX-NEWS-2026-00032 → CTX-NEWS-2026-00032.json
+2026-04-07 16:16:25,031 [DEBUG]   Filtered (not relevant): State Police search for missing North Country man last seen at funeral
+2026-04-07 16:16:25,032 [DEBUG]   Filtered (not relevant): Miss Manners: My friend stopped too long at a stop sign; is it ok to beep at him
+2026-04-07 16:16:25,032 [DEBUG]   Filtered (not relevant): ‘A whole civilization will die’: What to know about Trump’s Iran warning
+2026-04-07 16:16:25,033 [DEBUG]   Filtered (not relevant): Grammy-winning singer cancels concert per doctor’s order: ‘Absolutely heartbroke
+2026-04-07 16:16:25,033 [DEBUG]   Filtered (not relevant): Didn’t get selected for Celine Dion Paris tickets? Here’s where you can still bu
+2026-04-07 16:16:25,034 [DEBUG]   Filtered (not relevant): Lake Placid travel guide: Best things to do in and around the Adirondacks’ Olymp
+2026-04-07 16:16:25,034 [DEBUG]   Filtered (not relevant): A restaurant chain known for its fried chicken is proposing first Onondaga Count
+2026-04-07 16:16:25,034 [DEBUG]   Filtered (not relevant): Miss Manners: What is the polite way to treat a housekeeper when you also have g
+2026-04-07 16:16:25,035 [DEBUG]   Filtered (not relevant): Nordstrom is having a major sale on popular On sneakers: Cloud 6, Cloudmonster, 
+2026-04-07 16:16:25,035 [DEBUG]   Filtered (not relevant): MLB Kalshi Promo Code SYRACUSE: $10 bonus in NY, PA for Mets, Yankees, Pirates a
+2026-04-07 16:16:25,036 [DEBUG]   Filtered (not relevant): New Novig Promo Code SYRACUSE announces “Spend $10, Get $50” extension through T
+2026-04-07 16:16:25,037 [DEBUG]   Filtered (not relevant): Democrats will compete in 3 primary elections for Onondaga County Legislature
+2026-04-07 16:16:25,037 [DEBUG]   Filtered (not relevant): Buffalo Bills are bringing in one of the draft’s most sought-after defensive lin
+2026-04-07 16:16:25,037 [DEBUG]   Filtered (not relevant): Dear Doctor: Which of these supplemental remedies is better for arthritis; MSM o
+2026-04-07 16:16:25,038 [DEBUG]   Filtered (not relevant): We owe it to breast cancer patients to fix the 340B drug program (Guest Opinion 
+2026-04-07 16:16:25,038 [DEBUG]   Filtered (not relevant): How to secure Shakira presale tickets for 2026 US tour before they sell out
+2026-04-07 16:16:25,039 [DEBUG]   Filtered (not relevant): Jury couldn’t decide if Syracuse killing was self-defense, but convicts man on g
+2026-04-07 16:16:25,039 [DEBUG]   Filtered (not relevant): Dear Doctor: Have you ever heard of ‘birdshot chorioretinopathy,’ and can you he
+2026-04-07 16:16:25,040 [DEBUG]   Filtered (not relevant): Walmart slashes the price of Samsung’s 75-inch TV to $450 in limited time sale
+2026-04-07 16:16:25,040 [DEBUG]   Filtered (not relevant): Pennsylvania BetMGM Bonus Code CUSE150 unlocks $150 bonus and $5K+ NBA deal
+2026-04-07 16:16:25,041 [DEBUG]   Filtered (not relevant): Comedian Bert Kreischer is seeking ‘Permission to Party’ in Syracuse
+2026-04-07 16:16:25,041 [DEBUG]   Filtered (not relevant): Prepare for heavy snow in parts of Upstate NY Tuesday morning
+2026-04-07 16:16:25,042 [DEBUG]   Filtered (not relevant): Dear Annie: ‘If I disappeared for a week, I honestly wonder who would notice’
+2026-04-07 16:16:25,042 [DEBUG]   Filtered (not relevant): Syracuse.com’s All-Central New York girls track and field team announced for 202
+2026-04-07 16:16:25,043 [DEBUG]   Filtered (not relevant): Albany must boost wages for Direct Support Professionals (Guest Opinion by Ellen
+2026-04-07 16:16:25,043 [DEBUG]   Filtered (not relevant): Rock icon to play concerts at Syracuse amphitheater, Darien Lake
+2026-04-07 16:16:25,043 [DEBUG]   Filtered (not relevant): Update: Be prepared for heavy snow in North Country Tuesday midday
+2026-04-07 16:16:25,044 [DEBUG]   Filtered (not relevant): A Syracuse player hits the transfer market as NCAA portal opens
+2026-04-07 16:16:25,044 [DEBUG]   Filtered (not relevant): Onondaga County residents leave NY for 1 region more than any other
+2026-04-07 16:16:25,045 [DEBUG]   Filtered (not relevant): Syracuse.com’s All-Central New York boys indoor track and field team announced f
+2026-04-07 16:16:25,045 [DEBUG]   Filtered (not relevant): Math scores jumped 20 points in 2 NY school districts last year: Search statewid
+2026-04-07 16:16:25,045 [DEBUG]   Filtered (not relevant): See list of roads NY state will fix in pothole blitz after tough winter
+2026-04-07 16:16:25,046 [DEBUG]   Filtered (not relevant): Classic rock band cancels Upstate NY concert: ‘We are truly saddened’
+2026-04-07 16:16:25,046 [DEBUG]   Filtered (not relevant): Section III girls lacrosse stats leaders (through April 6)
+2026-04-07 16:16:25,046 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: 5 must-follow rules to build wealth that will last
+2026-04-07 16:16:25,047 [DEBUG]   Filtered (not relevant): Weather alert in place for North Country, Mohawk Valley Tuesday morning
+2026-04-07 16:16:25,047 [DEBUG]   Filtered (not relevant): World Series champion, former Yankees and Mets coach dies suddenly at 65
+2026-04-07 16:16:25,048 [DEBUG]   Filtered (not relevant): Spicy broccoli rabe pasta
+2026-04-07 16:16:25,049 [DEBUG]   Filtered (not relevant): Loaded sweet potatoes with kimchi and bacon
+2026-04-07 16:16:25,050 [INFO]   Relevant: Want a job building Micron’s megasite in NY? Here are tips straight from the gen
+2026-04-07 16:16:25,050 [DEBUG]     → Entities: Micron Technology
+2026-04-07 16:16:28,470 [INFO]     Saved: CTX-NEWS-2026-00033 → CTX-NEWS-2026-00033.json
+2026-04-07 16:16:28,470 [DEBUG]   Filtered (not relevant): Asking Eric: Don’t like it when I give advice for your problems? Don’t tell me y
+2026-04-07 16:16:28,471 [DEBUG]   Filtered (not relevant): Smothered pepper steak
+2026-04-07 16:16:28,472 [DEBUG]   Filtered (not relevant): Business listings: See 38 new businesses in Central NY (April 7, 2026)
+2026-04-07 16:16:28,472 [DEBUG]   Filtered (not relevant): School board tables budget proposal that would cut jobs (Good Morning CNY)
+2026-04-07 16:16:28,473 [INFO] News Scanner Run — 2026-04-07 16:16
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Letters sent to possible victims in Syracuse police data breach that cost city $
+  • Want a job building Micron’s megasite in NY? Here are tips straight from the gen
+

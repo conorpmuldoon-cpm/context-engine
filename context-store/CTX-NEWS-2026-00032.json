@@ -1,0 +1,53 @@
+{
+  "record_id": "CTX-NEWS-2026-00032",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/04/letters-sent-to-possible-victims-in-syracuse-police-data-breach-that-cost-city-250k.html",
+  "publication_date": "2026-04-07",
+  "capture_date": "2026-04-07T16:16:25Z",
+  "title": "Letters sent to possible victims in Syracuse police data breach that cost city $250K",
+  "summary": "A data breach of Syracuse Police Department digital files discovered in early 2025 has resulted in a $250,000 cost to the city after investigation and remediation. Notification letters have been sent to potential victims of the breach, indicating a significant cybersecurity incident requiring immediate CIO attention for infrastructure review and future prevention protocols.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "cybersecurity",
+    "police",
+    "investigation",
+    "data-governance",
+    "IT-infrastructure",
+    "transparency",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public disclosure of significant municipal cybersecurity failure with substantial financial impact suggests elevated scrutiny of IT security practices and digital infrastructure governance across city systems.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Breach discovery date (early 2025) predates article publication (April 2026) by ~15 months, indicating extended investigation and remediation timeline",
+    "Article URL and publication suggest local media coverage of significant municipal liability",
+    "Cost figure ($250K) represents direct taxpayer impact; actual breach scope and affected records count not specified in excerpt",
+    "No CIO or IT leadership quoted or referenced—suggests potential gap in public communication strategy",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

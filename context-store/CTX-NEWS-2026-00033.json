@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-NEWS-2026-00033",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/04/want-a-job-building-microns-megasite-heres-how-to-get-started-straight-from-the-general-contractor.html",
+  "publication_date": "2026-04-07",
+  "capture_date": "2026-04-07T16:16:28Z",
+  "title": "Want a job building Micron’s megasite in NY? Here are tips straight from the general contractor",
+  "summary": "Article provides guidance to job seekers on how to apply for construction positions at Micron Technology's megasite in New York. The piece, sourced from the general contractor, offers practical steps for thousands of construction jobs expected during the chipmaking facility's build-out phase.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "workforce-development",
+    "hiring",
+    "construction-staging",
+    "business-community"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Renee Fox",
+      "type": "person",
+      "canonical_id": "PERSON-RENEE-FOX"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Article reflects municipal/state priority alignment with Micron megasite development as major economic development and job creation initiative",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date is 2026-04-07, indicating future/speculative content or possible test data",
+    "No dollar amounts detected in excerpt provided",
+    "General contractor identity not specified in article excerpt",
+    "Content focuses on hiring process guidance rather than policy or governance decisions",
+    "Potential connection to broader state economic development strategy around semiconductor manufacturing",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
