@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00034",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/04/new-report-ranks-a-syracuse-university-school-no-1-in-nation-beats-harvard.html",
+  "publication_date": "2026-04-08",
+  "capture_date": "2026-04-08T16:20:49Z",
+  "title": "New report ranks a Syracuse University school No. 1 in nation, beats Harvard",
+  "summary": "Syracuse University's public affairs program has been ranked tied for No. 1 nationally, surpassing Harvard University according to a new report. This recognition highlights the quality of academic programming within the region and may have positive implications for the city's reputation, workforce development, and economic development through talent retention and attraction.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "PROVISIONAL:higher-education",
+    "economic-development",
+    "workforce-development"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Harvard University",
+      "type": "organization",
+      "canonical_id": "ORG-HARVARD"
+    },
+    {
+      "name": "Emalyn Muzzy",
+      "type": "person",
+      "canonical_id": "PERSON-EMALYN-MUZZY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Educational excellence and institutional ranking achievements align with city economic development and regional competitiveness priorities, supporting talent attraction and retention goals.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on higher education institution external to city government; limited direct CIO operational relevance unless pursuing digital innovation partnerships with SU",
+    "No specific city departments, budgets, or digital systems mentioned",
+    "Consider for economic development and workforce development context tracking",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

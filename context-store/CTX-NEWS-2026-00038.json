@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00038",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/04/onondaga-county-lawmakers-temporarily-cap-gas-tax-in-case-prices-soar-this-summer.html",
+  "publication_date": "2026-04-08",
+  "capture_date": "2026-04-08T16:21:06Z",
+  "title": "Onondaga County lawmakers temporarily cap gas tax, in case prices soar this summer",
+  "summary": "Onondaga County legislators approved a resolution on April 8, 2026, to temporarily cap the gas tax to provide relief to motorists if fuel prices exceed $4 per gallon during summer months. This represents a potential fiscal impact on county tax revenue and reflects constituent pressure regarding cost-of-living concerns.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "legislation",
+    "tax-revenue",
+    "vote",
+    "constituent-complaints",
+    "policy-change",
+    "procedural"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Onondaga County Legislature",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY-LEG"
+    },
+    {
+      "name": "Tim Knauss",
+      "type": "person",
+      "canonical_id": "PERSON-TIM-KNAUSS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "County lawmakers responding to constituent concerns about fuel price volatility by implementing temporary tax relief mechanism; indicates responsiveness to cost-of-living issues affecting motorists.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article addresses county-level policy, not City of Syracuse directly; relevant for cross-jurisdictional coordination on transportation and economic development",
+    "Dollar threshold ($4/gallon) mentioned but resolution mechanics and revenue impact estimates not detailed in excerpt",
+    "Temporal indicator: 'summer' suggests seasonal/temporary measure rather than permanent policy shift",
+    "No CIO-specific departmental references detected; relevance is indirect through tax policy and transportation economics",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'procedural' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

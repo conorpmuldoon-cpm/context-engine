@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00035",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/cny/2026/04/four-democrats-file-to-run-in-primary-for-syracuse-common-council.html",
+  "publication_date": "2026-04-08",
+  "capture_date": "2026-04-08T16:20:53Z",
+  "title": "Four Democrats file to run in primary for Syracuse Common Council",
+  "summary": "Four Democratic candidates have filed to run in a primary election for a Syracuse Common Council seat, the only council election scheduled for 2026. This procedural announcement indicates active electoral engagement in local governance.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "council",
+    "vote",
+    "announcement",
+    "procedural"
+  ],
+  "department_refs": [
+    "Common Council"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Multiple Democratic candidates filing for single open seat suggests competitive local engagement and active political participation in city governance",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article provides minimal substantive detail on candidates' platforms or policy positions",
+    "No direct CIO office implications identified; primarily electoral/procedural in nature",
+    "May indicate broader constituent engagement trends worth monitoring",
+    "Recommend cross-referencing with council meeting minutes for any innovation/digital services policy discussions",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'procedural' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

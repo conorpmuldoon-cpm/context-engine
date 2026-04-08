@@ -1,0 +1,89 @@
+2026-04-08 16:20:44,569 [INFO] ============================================================
+2026-04-08 16:20:44,569 [INFO] News Scanner starting
+2026-04-08 16:20:44,570 [INFO] Fetching: Syracuse.com Politics
+2026-04-08 16:20:45,028 [INFO]   50 new articles from Syracuse.com Politics
+2026-04-08 16:20:45,028 [INFO] Fetching: Syracuse.com Government
+2026-04-08 16:20:45,227 [INFO]   0 new articles from Syracuse.com Government
+2026-04-08 16:20:45,227 [INFO] Fetching: Syracuse.com Local
+2026-04-08 16:20:45,416 [INFO]   0 new articles from Syracuse.com Local
+2026-04-08 16:20:45,416 [INFO] Fetching: Syracuse.com Main
+2026-04-08 16:20:45,607 [INFO]   0 new articles from Syracuse.com Main
+2026-04-08 16:20:45,607 [INFO] Total unique articles across all feeds: 50
+2026-04-08 16:20:45,608 [INFO] New articles (not previously processed): 50
+2026-04-08 16:20:45,649 [DEBUG]   Filtered (not relevant): How to navigate Celine Dion’s Paris ticket frenzy as millions compete for limite
+2026-04-08 16:20:45,649 [DEBUG]   Filtered (not relevant): Tori Spelling gives update after car crash sent her and 7 children to the hospit
+2026-04-08 16:20:45,650 [DEBUG]   Filtered (not relevant): Where to watch PSG vs. Liverpool today: Champions League FREE live stream
+2026-04-08 16:20:45,650 [DEBUG]   Filtered (not relevant): Novig Promo Code SYRACUSE updates “Spend $10, Get $50” promo for MLB
+2026-04-08 16:20:45,651 [DEBUG]   Filtered (not relevant): New Kalshi Promo Code SYRACUSE: $10 bonus in PA for MLB Pirates vs. Padres, Phil
+2026-04-08 16:20:45,652 [DEBUG]   Filtered (not relevant): Firefighters carry two people out of house fire in Syracuse
+2026-04-08 16:20:45,652 [INFO]   Relevant: New report ranks a Syracuse University school No. 1 in nation, beats Harvard
+2026-04-08 16:20:45,652 [DEBUG]     → Entities: Syracuse University
+2026-04-08 16:20:49,811 [INFO]     Saved: CTX-NEWS-2026-00034 → CTX-NEWS-2026-00034.json
+2026-04-08 16:20:49,811 [DEBUG]   Filtered (not relevant): Upstate NY police officer indicted for allegedly killing wife on Valentine's Day
+2026-04-08 16:20:49,812 [DEBUG]   Filtered (not relevant): Man stabbed, hit with car after fight near boat launch in Upstate NY, troopers s
+2026-04-08 16:20:49,812 [DEBUG]   Filtered (not relevant): Syracuse officially announces another assistant men’s basketball coach
+2026-04-08 16:20:49,813 [DEBUG]   Filtered (not relevant): Miss Manners: Friend mistakes my sympathy for mockery, and now it’s all unraveli
+2026-04-08 16:20:49,813 [DEBUG]   Filtered (not relevant): NYS Fair adds longtime favorite to 2026 concert lineup
+2026-04-08 16:20:49,813 [DEBUG]   Filtered (not relevant): ‘Tehran toll booth:’ Iran charges some ships millions
+2026-04-08 16:20:49,814 [DEBUG]   Filtered (not relevant): The new Hatch Baby is now available at Target and parents are already loving it
+2026-04-08 16:20:49,814 [DEBUG]   Filtered (not relevant): Miss Manners: Why am I the only one calling old teacher ‘Mrs. Jones’ while every
+2026-04-08 16:20:49,815 [DEBUG]   Filtered (not relevant): Popular actress, 41, pregnant with first child one year after husband died by su
+2026-04-08 16:20:49,815 [DEBUG]   Filtered (not relevant): Meet Bo: Upstate NY’s adorable one-eyed beaver that has millions of fans
+2026-04-08 16:20:49,816 [DEBUG]   Filtered (not relevant): BetMGM Bonus Code CUSE150: Updated $150 bonus and $5K+ deal in MI for NBA, MLB a
+2026-04-08 16:20:49,816 [DEBUG]   Filtered (not relevant): Where to watch The Masters Par 3 Contest for free today
+2026-04-08 16:20:49,817 [DEBUG]   Filtered (not relevant): Keep New York a safe haven for reproductive rights (Guest Opinion)
+2026-04-08 16:20:49,817 [DEBUG]   Filtered (not relevant): Dear Doctor: I live in a measles outbreak community, and I don’t know my own imm
+2026-04-08 16:20:49,817 [DEBUG]   Filtered (not relevant): The Bunker golf simulator, restaurant will open near Turning Stone in Verona
+2026-04-08 16:20:49,818 [DEBUG]   Filtered (not relevant): Dear Doctor: I am engaged, and I just got a positive pap smear; what do I do now
+2026-04-08 16:20:49,818 [DEBUG]   Filtered (not relevant): Syracuse.com’s All-Central New York girls bowling team announced for 2025-26 sea
+2026-04-08 16:20:49,819 [DEBUG]   Filtered (not relevant): This $234 Michael Kors Jet Set crossbody bag is on sale for $50 for a limited ti
+2026-04-08 16:20:49,820 [DEBUG]   Filtered (not relevant): Learning disabilities and doubters: ‘They couldn’t see what I could do’ (Enable:
+2026-04-08 16:20:49,820 [DEBUG]   Filtered (not relevant): Can-Am Speedway season opener for SuperDirt cancelled due to poor weather
+2026-04-08 16:20:49,821 [DEBUG]   Filtered (not relevant): Historic Baldwinsville mansion damaged by fire is salvageable, owner says
+2026-04-08 16:20:49,821 [DEBUG]   Filtered (not relevant): Syracuse.com’s All-Central New York boys bowling team announced for 2025-26 seas
+2026-04-08 16:20:49,822 [DEBUG]   Filtered (not relevant): Dear Annie: Constantly exhausted and trying to balance work, family, pressure to
+2026-04-08 16:20:49,822 [DEBUG]   Filtered (not relevant): Upstate NY activist, injured by police at 2020 protest, dies at 81
+2026-04-08 16:20:49,822 [DEBUG]   Filtered (not relevant): Dear Annie: Neighborly friendship sours when she starts treating my home like it
+2026-04-08 16:20:49,823 [DEBUG]   Filtered (not relevant): High school students founded a free CNY tutoring program. Nearly six years later
+2026-04-08 16:20:49,823 [INFO]   Relevant: Four Democrats file to run in primary for Syracuse Common Council
+2026-04-08 16:20:49,823 [DEBUG]     → Keywords: common council
+2026-04-08 16:20:53,208 [WARNING]     Tag issue: Unknown tag 'procedural' not in taxonomy
+2026-04-08 16:20:53,217 [INFO]     Saved: CTX-NEWS-2026-00035 → CTX-NEWS-2026-00035.json
+2026-04-08 16:20:53,217 [DEBUG]   Filtered (not relevant): Syracuse schools need to focus on what works (Guest Opinion by Katie Sojewicz)
+2026-04-08 16:20:53,218 [DEBUG]   Filtered (not relevant): Angeli on Russell’s injury: ‘I was sick to my stomach’
+2026-04-08 16:20:53,218 [INFO]   Relevant: Owens’ first Syracuse budget: Big deficit, flat taxes, rising inflation costs
+2026-04-08 16:20:53,218 [DEBUG]     → Keywords: mayor
+2026-04-08 16:20:57,901 [INFO]     Saved: CTX-NEWS-2026-00036 → CTX-NEWS-2026-00036.json
+2026-04-08 16:20:57,902 [DEBUG]   Filtered (not relevant): Wrong-way driver arrested for DWI after crash on Thruway, police say
+2026-04-08 16:20:57,902 [DEBUG]   Filtered (not relevant): Section III baseball pitching leaders (through April 7)
+2026-04-08 16:20:57,903 [INFO]   Relevant: Men charged with bringing bombs to NY protest discussed terror plot, indictment 
+2026-04-08 16:20:57,903 [DEBUG]     → Keywords: mayor
+2026-04-08 16:21:02,121 [INFO]     Saved: CTX-NEWS-2026-00037 → CTX-NEWS-2026-00037.json
+2026-04-08 16:21:02,121 [DEBUG]   Filtered (not relevant): Syracuse WR who entered portal now viewed as leader: ‘We was just mad at each ot
+2026-04-08 16:21:02,122 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: This painless home decluttering and organizing method is th
+2026-04-08 16:21:02,122 [DEBUG]   Filtered (not relevant): Section III baseball hitting leaders (through April 7)
+2026-04-08 16:21:02,123 [DEBUG]   Filtered (not relevant): Mega Millions ticket sold in New York wins $2 million in Tuesday's drawing
+2026-04-08 16:21:02,123 [INFO]   Relevant: Onondaga County lawmakers temporarily cap gas tax, in case prices soar this summ
+2026-04-08 16:21:02,123 [DEBUG]     → Keywords: resolution
+2026-04-08 16:21:06,579 [WARNING]     Tag issue: Unknown tag 'procedural' not in taxonomy
+2026-04-08 16:21:06,591 [INFO]     Saved: CTX-NEWS-2026-00038 → CTX-NEWS-2026-00038.json
+2026-04-08 16:21:06,591 [DEBUG]   Filtered (not relevant): Millions from failed film hub ‘donated’ to aquarium (Good Morning CNY for April 
+2026-04-08 16:21:06,592 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for April 8
+2026-04-08 16:21:06,592 [DEBUG]   Filtered (not relevant): Asking Eric: If you truly ‘despise’ your stepchild, you need to take some time t
+2026-04-08 16:21:06,593 [DEBUG]   Filtered (not relevant): Beef shank massaman curry
+2026-04-08 16:21:06,593 [DEBUG]   Filtered (not relevant): Police blotter: See 204 new arrests added (April 8, 2026)
+2026-04-08 16:21:06,594 [INFO] News Scanner Run — 2026-04-08 16:21
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 5
+Filtered (not relevant): 45
+Errors: 0
+
+New records:
+  • New report ranks a Syracuse University school No. 1 in nation, beats Harvard
+  • Four Democrats file to run in primary for Syracuse Common Council
+  • Owens’ first Syracuse budget: Big deficit, flat taxes, rising inflation costs
+  • Men charged with bringing bombs to NY protest discussed terror plot, indictment 
+  • Onondaga County lawmakers temporarily cap gas tax, in case prices soar this summ
+

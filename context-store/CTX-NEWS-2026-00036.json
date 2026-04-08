@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-NEWS-2026-00036",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/04/owens-first-syracuse-budget-big-deficit-flat-taxes-rising-inflation-costs.html",
+  "publication_date": "2026-04-08",
+  "capture_date": "2026-04-08T16:20:57Z",
+  "title": "Owens’ first Syracuse budget: Big deficit, flat taxes, rising inflation costs",
+  "summary": "Mayor Sharon Owens' first budget proposal maintains flat property and school tax rates while increasing water costs, amid a significant budget deficit and rising inflation pressures. The article signals fiscal constraints and policy trade-offs that will impact city revenue and service delivery planning.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "mayor",
+    "tax-revenue",
+    "water",
+    "recurring",
+    "announcement"
+  ],
+  "department_refs": [
+    "Office of the Mayor",
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Syracuse.com",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-COM"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "First budget from new mayoral administration demonstrates constrained fiscal position with deficit pressures; flat tax policy protects residents while water rate increases suggest targeted revenue adjustments; inflation costs emerging as structural challenge to city finances.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content excerpt insufficient for complete financial analysis—full article text needed to extract specific dollar amounts and department impacts",
+    "Leadership change context: Sharon Owens appears to be new mayor; may warrant cross-reference with leadership-change announcements",
+    "Inflation cost pressures noted as emerging theme—recommend trend monitoring across subsequent budget documents",
+    "School district budget implications mentioned but not detailed—may require separate school district coordination",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
