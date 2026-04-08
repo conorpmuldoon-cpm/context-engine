@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-WEB-2026-00131",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-04-08-Mayors-Office-News-8-AM",
+  "publication_date": "2026-04-08",
+  "capture_date": "2026-04-08T16:41:10Z",
+  "title": "Mayor Owens Releases Proposed FY27 City of Syracuse Budget",
+  "summary": "Mayor Sharon F. Owens submitted a $354.5 million proposed FY27 budget emphasizing fiscal responsibility, transparency, and targeted investments in housing, youth workforce development, and constituent services. The plan maintains zero property tax increases, includes a 4% water rate increase, and projects General Fund revenues of $330.6 million with $12 million net growth. The Common Council will review and act on the final budget by May 8, 2027.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "mayor",
+    "fiscal-planning",
+    "housing",
+    "workforce-development",
+    "transparency",
+    "tax-revenue",
+    "capital-planning",
+    "permitting",
+    "transportation",
+    "economic-development"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Office of Management and Budget",
+    "Department of Permits and Development Services",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    },
+    {
+      "name": "Housing Strategies Corporation",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Mayor prioritizes housing, youth employment, workforce development, and infrastructure modernization (transportation mobility coordination, third-party permitting) as strategic growth investments. Emphasis on fiscal discipline (no property tax increase) paired with service expansion signals pro-growth, constituent-focused governance.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts in mechanical extraction require unit clarification: all values are in millions",
+    "CARE Team referenced but department affiliation not specified—likely constituent services or public safety",
+    "Budget review process decentralized to working group with Common Council—potential CIO engagement point for financial planning technology or data transparency tools",
+    "Revenue enhancement group creation suggests potential business intelligence or forecasting system needs",
+    "Property revaluation project flagged as multi-year initiative—GIS and data governance implications",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'fiscal-planning' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

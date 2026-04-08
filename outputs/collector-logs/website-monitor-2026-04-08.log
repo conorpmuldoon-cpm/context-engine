@@ -1,0 +1,25 @@
+2026-04-08 16:40:46,663 [INFO] ============================================================
+2026-04-08 16:40:46,664 [INFO] Website Monitor starting
+2026-04-08 16:40:47,317 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-04-08 16:40:47,317 [INFO]   Navigating to https://www.syr.gov/News
+2026-04-08 16:40:51,848 [INFO]   Found 10 article links in News
+2026-04-08 16:40:56,848 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-04-08-Mayors-Office-News-8-AM
+2026-04-08 16:41:10,399 [WARNING]     Tag issue: Unknown tag 'fiscal-planning' not in taxonomy
+2026-04-08 16:41:10,411 [INFO]     Saved: CTX-WEB-2026-00131 → CTX-WEB-2026-00131.json
+2026-04-08 16:41:10,411 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-04-08 16:41:10,411 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-04-08 16:41:13,550 [INFO]   Found 0 article links in Announcements
+2026-04-08 16:41:18,550 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-04-08 16:41:18,550 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-04-08 16:41:21,742 [INFO]   Found 0 article links in Public Notices
+2026-04-08 16:41:26,786 [INFO] Website Monitor Run — 2026-04-08 16:41
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • Mayor Owens Releases Proposed FY27 City of Syracuse Budget
+
