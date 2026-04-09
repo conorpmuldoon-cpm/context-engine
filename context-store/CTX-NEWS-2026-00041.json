@@ -1,0 +1,53 @@
+{
+  "record_id": "CTX-NEWS-2026-00041",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/04/syracuse-veo-scooter-rental-how-to-use-e-bikes-and-electric-scooters-if-you-dont-have-a-car.html",
+  "publication_date": "2026-04-09",
+  "capture_date": "2026-04-09T16:49:28Z",
+  "title": "Syracuse Veo rental guide: How to use e-bikes and scooters if you’re car-free",
+  "summary": "Article provides guidance on using Veo e-bikes and scooters as car-free transportation alternatives in Syracuse. Positions micromobility as a viable transit option in the city, addressing the region's car-centric infrastructure patterns.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "micromobility",
+    "transportation",
+    "residents",
+    "sustainability"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Veo",
+      "type": "organization",
+      "canonical_id": "ORG-VEO"
+    },
+    {
+      "name": "Amy Bleier Long",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Editorial positioning of micromobility as sustainable transportation solution aligns with typical municipal innovation and sustainability priorities; indicates constituent interest in car-free alternatives.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No specific city department referenced; content is consumer-focused guidance rather than policy or operational announcement",
+    "Date is future-dated (2026-04-09); verify if this is test data or publication scheduling",
+    "No budget, contracts, or specific municipal initiatives mentioned",
+    "Could indicate growing constituent demand for micromobility infrastructure support",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

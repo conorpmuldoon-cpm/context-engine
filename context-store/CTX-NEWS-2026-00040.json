@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-NEWS-2026-00040",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/04/man-shot-in-syracuse-arrives-at-upstate-er-by-private-vehicle.html",
+  "publication_date": "2026-04-09",
+  "capture_date": "2026-04-09T16:49:24Z",
+  "title": "Man shot in Syracuse arrives at Upstate ER by private vehicle",
+  "summary": "A 29-year-old male victim of a shooting incident in Syracuse on Wednesday, April 9, 2026 at approximately 9:09 p.m. arrived at Upstate University Hospital via private vehicle rather than emergency services. Syracuse Police Department responded to the hospital report. The incident represents a public safety event with potential implications for emergency response protocols and crime data tracking.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "crime-data",
+    "emergency-services",
+    "police",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Kieran Coffey",
+      "type": "person",
+      "canonical_id": "PERSON-KIERAN-COFFEY"
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    },
+    {
+      "name": "Upstate University Hospital",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public safety incident reported through media channels; potential indicator of crime trends in Syracuse requiring monitoring by innovation office for emergency response efficiency and data coordination.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Victim age and gender extracted but name not provided in article",
+    "No location coordinates provided beyond 'Syracuse'",
+    "Private vehicle transport to ER (rather than ambulance) may indicate response protocol gap worth investigating",
+    "Upstate University Hospital is external organization, not City department",
+    "Author Darian Stevenson identified but not a City official",
+    "No budget or resource implications stated in article",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

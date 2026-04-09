@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-NEWS-2026-00042",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/04/syracuses-e-scooters-are-popular-with-young-riders-a-worry-the-company-says-its-trying-to-fix.html",
+  "publication_date": "2026-04-09",
+  "capture_date": "2026-04-09T16:49:32Z",
+  "title": "Syracuse’s e-scooters are popular with young riders, a worry the company says it’s trying to fix",
+  "summary": "Veo, operator of Syracuse's e-scooter and e-bike sharing system, is collaborating with city lawmakers to address safety concerns regarding underage riders. The initiative focuses on age verification and usage restrictions to limit access by minors, indicating both regulatory engagement and corporate responsibility efforts.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "micromobility",
+    "public-safety-commission",
+    "policy-change",
+    "residents",
+    "trending"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Veo",
+      "type": "organization",
+      "canonical_id": "ORG-VEO"
+    },
+    {
+      "name": "Jai'La Du Rousseau",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "City lawmakers and Veo executive jointly addressing age-access concerns for e-scooter/e-bike program; indicates regulatory oversight and potential policy adjustments to usage restrictions",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No specific department assigned; likely involves Parks or Transportation given micromobility focus",
+    "No dollar amounts or budget impacts mentioned",
+    "Article date is future-dated (2026-04-09); verify publication authenticity",
+    "May warrant CIO engagement if age-gating system or digital identity verification mechanisms are proposed",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

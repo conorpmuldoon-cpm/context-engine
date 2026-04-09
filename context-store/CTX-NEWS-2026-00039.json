@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00039",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/weather-alerts/2026/04/weather-alert-for-elevated-fire-danger-in-western-ny-finger-lakes-until-early-thursday-evening.html",
+  "publication_date": "2026-04-09",
+  "capture_date": "2026-04-09T16:49:20Z",
+  "title": "Weather alert for elevated fire danger in Western NY, Finger Lakes until early Thursday evening",
+  "summary": "National Weather Service issued a fire danger alert for 13 Western NY and Finger Lakes counties (including areas near Syracuse) effective until 5 p.m. Thursday, April 9, 2026, due to dry conditions, high winds (20-30 mph), and low humidity (25-35%). The statewide burn ban remains in effect through May 14 with no burn permits issued; residents are advised to use caution with ignition sources.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "fire",
+    "emergency-services",
+    "state-mandates",
+    "state-agency",
+    "announcement",
+    "public-safety-commission"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "National Weather Service",
+      "type": "organization",
+      "canonical_id": "ORG-NWS"
+    },
+    {
+      "name": "New York State Department of Environmental Conservation",
+      "type": "organization",
+      "canonical_id": "ORG-NYSDEC"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "State-level emergency alert requiring local coordination and public communication; aligns with public safety priorities and state mandate compliance.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Alert is time-bound (expires early Thursday evening 2026-04-09); recommend monitoring for renewal.",
+    "Geographic scope includes 13 counties but article sourced from Syracuse.com, suggesting relevance to Onondaga County region.",
+    "New York State burn ban (state-mandate) is external regulatory driver; DEC website referenced as authoritative source.",
+    "No mechanical extraction of Syracuse-specific departments needed; SFD referenced generically for alert distribution.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

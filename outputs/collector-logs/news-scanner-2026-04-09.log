@@ -1,0 +1,88 @@
+2026-04-09 16:49:10,554 [INFO] ============================================================
+2026-04-09 16:49:10,554 [INFO] News Scanner starting
+2026-04-09 16:49:10,555 [INFO] Fetching: Syracuse.com Politics
+2026-04-09 16:49:10,945 [INFO]   50 new articles from Syracuse.com Politics
+2026-04-09 16:49:10,946 [INFO] Fetching: Syracuse.com Government
+2026-04-09 16:49:11,142 [INFO]   0 new articles from Syracuse.com Government
+2026-04-09 16:49:11,142 [INFO] Fetching: Syracuse.com Local
+2026-04-09 16:49:11,349 [INFO]   0 new articles from Syracuse.com Local
+2026-04-09 16:49:11,349 [INFO] Fetching: Syracuse.com Main
+2026-04-09 16:49:11,537 [INFO]   0 new articles from Syracuse.com Main
+2026-04-09 16:49:11,537 [INFO] Total unique articles across all feeds: 50
+2026-04-09 16:49:11,537 [INFO] New articles (not previously processed): 50
+2026-04-09 16:49:11,582 [DEBUG]   Filtered (not relevant): NY Mets lead MLB in spending as average salary hits a record $5.34M
+2026-04-09 16:49:11,583 [DEBUG]   Filtered (not relevant): Upstate NY beer brand ranked second best new brewery in the country
+2026-04-09 16:49:11,583 [DEBUG]   Filtered (not relevant): Former NY cop gets prison sentence for throwing cooler that caused fatal crash
+2026-04-09 16:49:11,584 [DEBUG]   Filtered (not relevant): Brooks’ Ghost 17 running shoe is ‘back,’ ‘better’ and 20% off this week
+2026-04-09 16:49:11,585 [INFO]   Relevant: Brace for elevated fire danger in Jefferson County until early Thursday evening
+2026-04-09 16:49:11,585 [DEBUG]     → Departments: Syracuse Fire Department, Department of Permits and Development
+2026-04-09 16:49:15,838 [ERROR]     Schema error: Schema validation: 'state_mandates' is not one of ['championship', 'opposition', 'scrutiny', 'constituent_pressure', 'priority_alignment', 'budget_commitment']
+2026-04-09 16:49:15,843 [ERROR]     Cannot fix schema errors for Brace for elevated fire danger in Jefferson County until ear — skipping
+2026-04-09 16:49:15,845 [INFO]   Relevant: Weather alert for elevated fire danger in Western NY, Finger Lakes until early T
+2026-04-09 16:49:15,845 [DEBUG]     → Departments: Syracuse Fire Department, Department of Permits and Development
+2026-04-09 16:49:20,262 [INFO]     Saved: CTX-NEWS-2026-00039 → CTX-NEWS-2026-00039.json
+2026-04-09 16:49:20,263 [DEBUG]   Filtered (not relevant): Human remains found in 2 burned vehicles identified as North Country couple
+2026-04-09 16:49:20,263 [DEBUG]   Filtered (not relevant): Most Onondaga County towns see home prices increase through March
+2026-04-09 16:49:20,264 [DEBUG]   Filtered (not relevant): Central NY state worker and her boyfriend ran sex trafficking ring from NYC to U
+2026-04-09 16:49:20,264 [DEBUG]   Filtered (not relevant): Syracuse women’s lacrosse is on an 11-game winning streak: ‘This group’s got a l
+2026-04-09 16:49:20,264 [DEBUG]   Filtered (not relevant): 2 Upstate NY women among victims of Gilgo Beach serial killer
+2026-04-09 16:49:20,265 [DEBUG]   Filtered (not relevant): An NFL defender just settled the Josh Allen vs. Lamar Jackson debate for Bills &
+2026-04-09 16:49:20,265 [DEBUG]   Filtered (not relevant): EPA cleans up 920 tons of expired sanitizer from Upstate NY warehouse
+2026-04-09 16:49:20,266 [DEBUG]   Filtered (not relevant): Miss Manners: Bride’s restrictive plus one rule is meant to help; it’s actually 
+2026-04-09 16:49:20,266 [DEBUG]   Filtered (not relevant): Today’s obituary: Mary Anne Young Romig, 87, was among The Post-Standard’s first
+2026-04-09 16:49:20,267 [DEBUG]   Filtered (not relevant): Upstate NY gun club reopens shooting ranges amid dispute over stray bullets hitt
+2026-04-09 16:49:20,267 [DEBUG]   Filtered (not relevant): Shoppers can take $50 off the popular Ninja SLUSHi at Target this week
+2026-04-09 16:49:20,268 [INFO]   Relevant: Man shot in Syracuse arrives at Upstate ER by private vehicle
+2026-04-09 16:49:20,268 [DEBUG]     → Departments: Syracuse Police Department
+2026-04-09 16:49:20,268 [DEBUG]     → Keywords: syracuse police
+2026-04-09 16:49:24,957 [INFO]     Saved: CTX-NEWS-2026-00040 → CTX-NEWS-2026-00040.json
+2026-04-09 16:49:24,957 [DEBUG]   Filtered (not relevant): How to watch syracuse.com’s girls lacrosse Game of the Week: CBA at West Genesee
+2026-04-09 16:49:24,958 [DEBUG]   Filtered (not relevant): Guitarist Eliot Fisk returns to perform in Syracuse, where he attended school
+2026-04-09 16:49:24,958 [DEBUG]   Filtered (not relevant): Miss Manners: I work in a factory where the machines are constantly unzipping pe
+2026-04-09 16:49:24,959 [DEBUG]   Filtered (not relevant): Prepare for fire danger in St. Lawrence and Franklin counties until Thursday eve
+2026-04-09 16:49:24,959 [DEBUG]   Filtered (not relevant): Novelis fires push Ford to press Trump admin for tariff relief
+2026-04-09 16:49:24,960 [DEBUG]   Filtered (not relevant): Woman who alleges she was sexually assaulted by former prosecutor now sues DA fo
+2026-04-09 16:49:24,960 [DEBUG]   Filtered (not relevant): As CNY tick season begins, prevention must lead the conversation (Guest Opinion 
+2026-04-09 16:49:24,961 [DEBUG]   Filtered (not relevant): Dear Doctor: Doctor prescribes heavy dose of antibiotics, and I’m worried about 
+2026-04-09 16:49:24,961 [DEBUG]   Filtered (not relevant): Didn’t get Shakira tickets? Here’s where you can still buy them
+2026-04-09 16:49:24,962 [DEBUG]   Filtered (not relevant): ‘70s, ‘80s hit singer reveals he’s 90% deaf, still touring today
+2026-04-09 16:49:24,962 [DEBUG]   Filtered (not relevant): Legislators surprised that secret donor to Onondaga County aquarium is … the cou
+2026-04-09 16:49:24,963 [DEBUG]   Filtered (not relevant): Company news: Upstate Medical University administrator to lead healthcare supply
+2026-04-09 16:49:24,963 [INFO]   Relevant: Syracuse Veo rental guide: How to use e-bikes and scooters if you’re car-free
+2026-04-09 16:49:24,963 [DEBUG]     → Entities: Veo
+2026-04-09 16:49:28,275 [INFO]     Saved: CTX-NEWS-2026-00041 → CTX-NEWS-2026-00041.json
+2026-04-09 16:49:28,276 [DEBUG]   Filtered (not relevant): Syracuse.com’s All-Central New York small school girls basketball team announced
+2026-04-09 16:49:28,277 [DEBUG]   Filtered (not relevant): Dear Doctor: Before you go ordering yourself a camphor necklace, read this about
+2026-04-09 16:49:28,277 [DEBUG]   Filtered (not relevant): Walmart slashes the price of LEGO’s Botanical Happy Plants to $19 in limited tim
+2026-04-09 16:49:28,278 [DEBUG]   Filtered (not relevant): Police: Fight at basketball game turns deadly at Upstate NY park
+2026-04-09 16:49:28,278 [DEBUG]   Filtered (not relevant): Man pleads guilty to stabbing roommate to death in Clay apartment in 2024
+2026-04-09 16:49:28,279 [INFO]   Relevant: Syracuse’s e-scooters are popular with young riders, a worry the company says it
+2026-04-09 16:49:28,279 [DEBUG]     → Entities: Veo
+2026-04-09 16:49:32,692 [INFO]     Saved: CTX-NEWS-2026-00042 → CTX-NEWS-2026-00042.json
+2026-04-09 16:49:32,693 [DEBUG]   Filtered (not relevant): Syracuse.com’s All-Central New York small school boys basketball team announced 
+2026-04-09 16:49:32,693 [DEBUG]   Filtered (not relevant): Dear Annie: I’m starting to suspect work friend is deliberately sabotaging my su
+2026-04-09 16:49:32,694 [DEBUG]   Filtered (not relevant): PGA Kalshi Promo Code SYRACUSE: New $10 bonus in NY and PA for The Masters
+2026-04-09 16:49:32,695 [DEBUG]   Filtered (not relevant): Woman accused of intentionally setting fire to Upstate NY home while kids were i
+2026-04-09 16:49:32,695 [DEBUG]   Filtered (not relevant): Dear Annie: Son refuses to stay under same roof with gay granddaughter, and I’m 
+2026-04-09 16:49:32,695 [DEBUG]   Filtered (not relevant): New York can’t afford to ‘Fix Tier 6’ pensions (Editorial Board Opinion)
+2026-04-09 16:49:32,696 [DEBUG]   Filtered (not relevant): PGA BetMGM Bonus Code CUSE150: Upgraded $150 bonus and $5K+ deal for The Masters
+2026-04-09 16:49:32,697 [DEBUG]   Filtered (not relevant): NY Workforce Connect to Host Industry Networking Event in Rochester on April 16
+2026-04-09 16:49:32,697 [DEBUG]   Filtered (not relevant): How bus service works in Syracuse so you can get around without a car
+2026-04-09 16:49:32,698 [DEBUG]   Filtered (not relevant): $50 Novig promo code “SYRACUSE” now available for Masters Round 1!
+2026-04-09 16:49:32,698 [DEBUG]   Filtered (not relevant): Section III softball pitching leaders (through April 8)
+2026-04-09 16:49:32,699 [DEBUG]   Filtered (not relevant): This half-century-old restaurant makes some of the best chicken wings in CNY (re
+2026-04-09 16:49:32,700 [DEBUG]   Filtered (not relevant): Section III softball hitting leaders (through April 8)
+2026-04-09 16:49:32,700 [INFO] News Scanner Run — 2026-04-09 16:49
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 4
+Filtered (not relevant): 46
+Errors: 0
+
+New records:
+  • Weather alert for elevated fire danger in Western NY, Finger Lakes until early T
+  • Man shot in Syracuse arrives at Upstate ER by private vehicle
+  • Syracuse Veo rental guide: How to use e-bikes and scooters if you’re car-free
+  • Syracuse’s e-scooters are popular with young riders, a worry the company says it
+
