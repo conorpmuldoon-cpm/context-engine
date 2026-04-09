@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-WEB-2026-00132",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-04-09-Infrastructure-News-822-AM",
+  "publication_date": "2026-04-09",
+  "capture_date": "2026-04-09T16:50:42Z",
+  "title": "Mayor Sharon F. Owens Announces 2026 Road Reconstruction Plans",
+  "summary": "Mayor Sharon F. Owens announced Syracuse's 2026 road reconstruction plan covering approximately 20 miles of city streets across all quadrants, funded through local, state, and federal sources. The plan leverages SMTC road condition data and implements a \"Dig Once\" coordination strategy to align road work with utility upgrades, demonstrating data-driven infrastructure prioritization and sustained improvement in cityway conditions since 2018.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "roads-bridges",
+    "infrastructure",
+    "capital-planning",
+    "data-governance",
+    "intergovernmental",
+    "sustainability",
+    "transparency",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Department of Engineering",
+    "Syracuse Metropolitan Transportation Council"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Kevin Henry",
+      "type": "person",
+      "canonical_id": "PERSON-KEVIN-HENRY"
+    },
+    {
+      "name": "Syracuse Metropolitan Transportation Council",
+      "type": "organization",
+      "canonical_id": "ORG-SMTC"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMONCOUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor frames infrastructure investment as neighborhood investment; demonstrates data-driven decision-making and intergovernmental coordination; emphasizes fair and strategic resource allocation with sustained multi-year improvement metrics.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00131"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No dollar amounts specified in release; 2025 baseline (18 miles) provided for progress tracking; project contingencies noted (materials, equipment, staffing, weather); Cityline contact number provided for constituent engagement; East Colvin Street project pending state approval suggests external dependency risk",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00131 — linked for review"
+  ],
+  "last_relevance_update": null
+}
