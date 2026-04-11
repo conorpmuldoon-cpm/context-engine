@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2026-00043",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/entertainment/2026/04/syracuse-university-art-museum-will-host-free-community-day-on-april-18.html",
+  "publication_date": "2026-04-10",
+  "capture_date": "2026-04-11T14:06:55Z",
+  "title": "Syracuse University Art Museum will host free Community Day on April 18",
+  "summary": "Syracuse University Art Museum announces a free Community Day event on April 18, 2026, from noon to 4 p.m. at the Shaffer Art Building. This community engagement initiative promotes cultural access and university-community partnerships in Syracuse.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "business-community",
+    "equity",
+    "initiative-launch"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University Art Museum",
+      "type": "organization",
+      "canonical_id": "ORG-SU-ARTMUSEUM"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Taylor Westerlund",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Community access to cultural institutions aligns with equity and public engagement priorities; free programming removes barriers to arts participation.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily a cultural/entertainment announcement with limited direct CIO relevance; tagged for community engagement and equity initiatives",
+    "No government department involvement detected",
+    "No budget, infrastructure, or technology policy implications identified",
+    "Useful for tracking university-city partnership activities and community programming",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
