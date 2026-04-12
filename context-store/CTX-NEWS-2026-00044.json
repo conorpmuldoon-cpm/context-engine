@@ -1,0 +1,50 @@
+{
+  "record_id": "CTX-NEWS-2026-00044",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangelacrosse/2026/04/syracuse-lacrosse-clamps-down-virginia-with-a-jimmy-mccool-owning-the-net-axes-quick-takes.html",
+  "publication_date": "2026-04-11",
+  "capture_date": "2026-04-12T14:11:06Z",
+  "title": "Syracuse lacrosse clamps down Virginia with Jimmy McCool owning the net (Axe’s quick takes)",
+  "summary": "Syracuse University men's lacrosse team defeated Virginia 14-9 in a college sports competition. This article has no relevance to City of Syracuse municipal operations, innovation initiatives, or Chief Innovation Officer priorities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Jimmy McCool",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Brent Axe",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is sports journalism about college lacrosse; not relevant to municipal government or CIO mandate",
+    "No municipal services, infrastructure, policy, or civic innovation content detected",
+    "No actionable intelligence for City of Syracuse operations",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
