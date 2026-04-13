@@ -1,0 +1,82 @@
+2026-04-13 16:40:26,410 [INFO] ============================================================
+2026-04-13 16:40:26,410 [INFO] News Scanner starting
+2026-04-13 16:40:26,411 [INFO] Fetching: Syracuse.com Politics
+2026-04-13 16:40:26,755 [INFO]   50 new articles from Syracuse.com Politics
+2026-04-13 16:40:26,755 [INFO] Fetching: Syracuse.com Government
+2026-04-13 16:40:26,964 [INFO]   0 new articles from Syracuse.com Government
+2026-04-13 16:40:26,964 [INFO] Fetching: Syracuse.com Local
+2026-04-13 16:40:27,153 [INFO]   0 new articles from Syracuse.com Local
+2026-04-13 16:40:27,153 [INFO] Fetching: Syracuse.com Main
+2026-04-13 16:40:27,334 [INFO]   0 new articles from Syracuse.com Main
+2026-04-13 16:40:27,334 [INFO] Total unique articles across all feeds: 50
+2026-04-13 16:40:27,334 [INFO] New articles (not previously processed): 50
+2026-04-13 16:40:27,369 [DEBUG]   Filtered (not relevant): Former Syracuse guard picks new school out of transfer portal
+2026-04-13 16:40:27,370 [DEBUG]   Filtered (not relevant): Syracuse basketball gets transfer guard from Temple who averaged 15.3 points per
+2026-04-13 16:40:27,370 [DEBUG]   Filtered (not relevant): Sombr bringing first arena tour to Upstate NY: Presale and ticket info, full sch
+2026-04-13 16:40:27,371 [DEBUG]   Filtered (not relevant): Death of ‘nearly blind’ refugee after being released by Border Patrol in Upstate
+2026-04-13 16:40:27,371 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 high school baseball rankings (through April 12): Interclass
+2026-04-13 16:40:27,372 [DEBUG]   Filtered (not relevant): Target finally slashes the price on a ton of its fan-favorite fire pits in limit
+2026-04-13 16:40:27,372 [INFO]   Relevant: Syracuse University offers voluntary retirement to 175 professors
+2026-04-13 16:40:27,372 [DEBUG]     → Entities: Syracuse University
+2026-04-13 16:40:31,338 [INFO]     Saved: CTX-NEWS-2026-00045 → CTX-NEWS-2026-00045.json
+2026-04-13 16:40:31,338 [DEBUG]   Filtered (not relevant): Tipp Hill monument to 2 slain Central NY police officers to be unveiled
+2026-04-13 16:40:31,339 [DEBUG]   Filtered (not relevant): Hidden Level VP named 2026 Innovator of the Year by MACNY
+2026-04-13 16:40:31,339 [DEBUG]   Filtered (not relevant): Should seniors expect a Social Security increase amid soaring gas prices?
+2026-04-13 16:40:31,339 [DEBUG]   Filtered (not relevant): Ticketmaster releasing limited number of BTS tickets today: How to secure yours
+2026-04-13 16:40:31,340 [DEBUG]   Filtered (not relevant): Fixing NY’s Tier 6 pensions is a matter of fairness to younger workers (Your Let
+2026-04-13 16:40:31,340 [DEBUG]   Filtered (not relevant): Man who killed boyfriend argues he should get less prison time as a domestic vio
+2026-04-13 16:40:31,340 [DEBUG]   Filtered (not relevant): Neil deGrasse Tyson returning to Syracuse with ‘Cosmic Collisions’
+2026-04-13 16:40:31,341 [DEBUG]   Filtered (not relevant): Pink Bronco, a Western-themed clothing shop, will open in Skaneateles
+2026-04-13 16:40:31,341 [DEBUG]   Filtered (not relevant): Miss Manners: Friend’s new facial hair is seriously traumatizing for me; what ca
+2026-04-13 16:40:31,341 [DEBUG]   Filtered (not relevant): Syracuse women’s basketball gets a commitment from Oregon transfer (report)
+2026-04-13 16:40:31,342 [DEBUG]   Filtered (not relevant): Judge dismisses Trump’s $10 billion lawsuit against WSJ over Epstein reporting
+2026-04-13 16:40:31,342 [DEBUG]   Filtered (not relevant): Man who shot himself outside party at Geddes firehall sentenced to prison on gun
+2026-04-13 16:40:31,343 [DEBUG]   Filtered (not relevant): Bedroom fan, white noise machine recalled due to fire risk
+2026-04-13 16:40:31,344 [DEBUG]   Filtered (not relevant): Experts release new Pirates vs. Nationals prediction after Paul Skenes Kalshi ma
+2026-04-13 16:40:31,344 [INFO]   Relevant: Syracuse men’s and women’s lax both Top 5 teams in latest poll
+2026-04-13 16:40:31,344 [DEBUG]     → Entities: Syracuse University
+2026-04-13 16:40:33,634 [INFO]     Saved: CTX-NEWS-2026-00046 → CTX-NEWS-2026-00046.json
+2026-04-13 16:40:33,635 [DEBUG]   Filtered (not relevant): Dear Doctor: My doctor prescribed me an over-the-counter treatment, then I read 
+2026-04-13 16:40:33,636 [DEBUG]   Filtered (not relevant): In CBA football debate, adults are arguing — and the kids are paying the price
+2026-04-13 16:40:33,636 [DEBUG]   Filtered (not relevant): Didn’t get Buffalo Sabres Playoffs tickets? Here’s where you can still buy them
+2026-04-13 16:40:33,637 [DEBUG]   Filtered (not relevant): Pennsylvania BetMGM Bonus Code CUSE150 unlocks $150 bonus and $5K+ MLB deal
+2026-04-13 16:40:33,637 [DEBUG]   Filtered (not relevant): Samsung’s 75-inch Class Crystal TV is less than $500 in major sale at Walmart
+2026-04-13 16:40:33,637 [DEBUG]   Filtered (not relevant): Syracuse Orthopedic Specialists hires spin surgeon Dr. Mark Wolgin
+2026-04-13 16:40:33,638 [DEBUG]   Filtered (not relevant): QB prospect decommits from SU football days after Orange received separate pledg
+2026-04-13 16:40:33,638 [DEBUG]   Filtered (not relevant): Dear Doctor: Doctor recommends a genicular nerve block to treat arthritis; is th
+2026-04-13 16:40:33,638 [DEBUG]   Filtered (not relevant): Man sentenced to prison for killing his friend during gunfight on Syracuse’s Nor
+2026-04-13 16:40:33,639 [DEBUG]   Filtered (not relevant): Boy band admits having ‘age of consent’ guide to every state on tour
+2026-04-13 16:40:33,639 [DEBUG]   Filtered (not relevant): Trump lashes out at ‘weak’ Pope Leo amid criticisms of Iran war
+2026-04-13 16:40:33,639 [DEBUG]   Filtered (not relevant): Photos you’ll want to see from Central New York high school spring sports (Week 
+2026-04-13 16:40:33,640 [DEBUG]   Filtered (not relevant): Onondaga County and sludge dryer builder settle lawsuit over keeping contract de
+2026-04-13 16:40:33,641 [DEBUG]   Filtered (not relevant): Dear Annie: Neighboring teens have turned condo into unofficial hangout spot; ho
+2026-04-13 16:40:33,641 [DEBUG]   Filtered (not relevant): Former Syracuse women’s basketball guard lands in Big Ten
+2026-04-13 16:40:33,641 [DEBUG]   Filtered (not relevant): NY’s utility rate crisis is bigger than just the electric bill (Guest Opinion by
+2026-04-13 16:40:33,642 [DEBUG]   Filtered (not relevant): Number of millionaire taxpayers jumped in NY in 2024
+2026-04-13 16:40:33,642 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2025-26 winter All-CNY coaches of the year selected
+2026-04-13 16:40:33,643 [DEBUG]   Filtered (not relevant): Dear Annie: Husband retired; now he treats the whole house like it’s his office 
+2026-04-13 16:40:33,643 [DEBUG]   Filtered (not relevant): Upstate NY man in cow costume accused of attempting to stab family member
+2026-04-13 16:40:33,644 [INFO]   Relevant: Clay tries yet again to craft a noise ordinance for Micron construction
+2026-04-13 16:40:33,644 [DEBUG]     → Entities: Micron Technology
+2026-04-13 16:40:33,644 [DEBUG]     → Keywords: ordinance
+2026-04-13 16:40:38,038 [INFO]     Saved: CTX-NEWS-2026-00047 → CTX-NEWS-2026-00047.json
+2026-04-13 16:40:38,039 [DEBUG]   Filtered (not relevant): CNY lacrosse duo set to team up again for reigning Division I national champions
+2026-04-13 16:40:38,039 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: These DIY laundry helpers beat store-bought add-ins every t
+2026-04-13 16:40:38,040 [DEBUG]   Filtered (not relevant): Asking Eric: Friend never recovered COVID-era depression; new terminal illness a
+2026-04-13 16:40:38,040 [DEBUG]   Filtered (not relevant): Section III boys lacrosse stats leaders by class (through April 12)
+2026-04-13 16:40:38,040 [DEBUG]   Filtered (not relevant): NYS police car hit by distracted driver; trooper injured
+2026-04-13 16:40:38,041 [DEBUG]   Filtered (not relevant): Building lots, commercial properties: See 28 latest business, apartment, land sa
+2026-04-13 16:40:38,041 [DEBUG]   Filtered (not relevant): Syracuse bike guide: Car-free, cycling transit tips in Central New York
+2026-04-13 16:40:38,042 [INFO] News Scanner Run — 2026-04-13 16:40
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • Syracuse University offers voluntary retirement to 175 professors
+  • Syracuse men’s and women’s lax both Top 5 teams in latest poll
+  • Clay tries yet again to craft a noise ordinance for Micron construction
+

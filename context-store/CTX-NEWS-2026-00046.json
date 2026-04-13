@@ -1,0 +1,40 @@
+{
+  "record_id": "CTX-NEWS-2026-00046",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangelacrosse/2026/04/both-syracuse-mens-and-womens-lacrosse-land-in-top-5-of-latest-poll.html",
+  "publication_date": "2026-04-13",
+  "capture_date": "2026-04-13T16:40:33Z",
+  "title": "Syracuse men’s and women’s lax both Top 5 teams in latest poll",
+  "summary": "Syracuse University lacrosse teams achieved top-5 rankings in the latest Inside Lacrosse media poll. This article reports on athletic achievements with no direct relevance to city government operations or the Chief Innovation Officer's mandate.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:athletics"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on university sports and has no relevance to municipal government, innovation, or city operations",
+    "No budget, policy, infrastructure, or service delivery implications",
+    "Recommend filtering out similar sports coverage in future article ingestion",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

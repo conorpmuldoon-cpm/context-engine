@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-NEWS-2026-00047",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/04/clay-tries-yet-again-to-pass-a-noise-ordinance-for-micron-construction.html",
+  "publication_date": "2026-04-13",
+  "capture_date": "2026-04-13T16:40:38Z",
+  "title": "Clay tries yet again to craft a noise ordinance for Micron construction",
+  "summary": "The Clay Town Board is attempting a third passage of a noise ordinance that would permit Micron Technology to increase construction noise levels. This reflects ongoing negotiations between local government and a major economic development actor regarding land-use and construction standards.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "legislation",
+    "zoning",
+    "land-use",
+    "permitting",
+    "construction-staging",
+    "economic-development",
+    "policy-change"
+  ],
+  "department_refs": [
+    "Town of Clay Planning and Zoning",
+    "Town of Clay Board"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Glenn Coin",
+      "type": "person",
+      "canonical_id": "PERSON-GLENN-COIN"
+    },
+    {
+      "name": "Clay Town Board",
+      "type": "organization",
+      "canonical_id": "ORG-CLAY-TOWN-BOARD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Repeated attempts to pass ordinance suggest Town prioritization of Micron project facilitation, though multiple failures indicate potential constituent opposition or technical/legal barriers.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article source is syracuse.com but subject entity (Micron) is located in Town of Clay, not City of Syracuse—verify jurisdictional relevance to CIO office",
+    "Third attempt suggests legislative friction; underlying constituent or operational concerns not detailed in headline",
+    "No dollar amounts, timeline, or specific noise threshold metrics provided in extracted content",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

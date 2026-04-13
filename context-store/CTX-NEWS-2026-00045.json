@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-NEWS-2026-00045",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/syracuse-university/2026/04/syracuse-university-offers-voluntary-retirement-to-175-professors.html",
+  "publication_date": "2026-04-13",
+  "capture_date": "2026-04-13T16:40:31Z",
+  "title": "Syracuse University offers voluntary retirement to 175 professors",
+  "summary": "Syracuse University is offering voluntary retirement incentives to 175 professors in majors being discontinued or facing low enrollment. This workforce restructuring initiative reflects institutional budget pressures and academic portfolio decisions that may have broader implications for regional higher education and workforce development.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "labor-relations",
+    "workforce-development",
+    "budget",
+    "leadership-change",
+    "PROVISIONAL:higher-education"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIV"
+    },
+    {
+      "name": "Emalyn Muzzy",
+      "type": "person",
+      "canonical_id": "PERSON-EMALYN-MUZZY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Voluntary retirement incentive program indicates institutional cost-control measures and strategic academic prioritization, with potential workforce reduction implications.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article source is regional news (syracuse.com), not direct City of Syracuse government communication",
+    "Syracuse University is private institution; relationship to City CIO office scope unclear",
+    "No dollar amounts specified in article excerpt; full budget impact unknown",
+    "May be relevant to local workforce development and economic development monitoring rather than direct city operations",
+    "Consider whether this warrants CIO tracking or is outside municipal innovation portfolio",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
