@@ -1,0 +1,958 @@
+Context Engine Data Quality Audit — 2026-04-13
+============================================================
+
+Loading configuration...
+Loading context records...
+
+=======================================================
+  Context Engine Data Quality Audit
+  732 records scanned | 2026-04-13
+=======================================================
+
+Running checks...
+
+--- AUTO-FIXABLE ISSUES (use --fix to apply) ---
+
+  [1] Missing canonical_id: 26 issues across 24 records
+      CTX-COUNCIL-2026-00006: entity_refs[0] 'Syracuse City School District' matches registry → ORG-SCSD
+      CTX-COUNCIL-2026-00041: entity_refs[1] 'SAEVI' matches registry → ORG-SAEVI
+      CTX-COUNCIL-2026-00042: entity_refs[1] 'SAEVI' matches registry → ORG-SAEVI
+      CTX-COUNCIL-2026-00043: entity_refs[1] 'SAEVI' matches registry → ORG-SAEVI
+      CTX-COUNCIL-2026-00044: entity_refs[1] 'SAEVI' matches registry → ORG-SAEVI
+      CTX-COUNCIL-2026-00045: entity_refs[1] 'SAEVI' matches registry → ORG-SAEVI
+      CTX-COUNCIL-2026-00046: entity_refs[1] 'SAEVI' matches registry → ORG-SAEVI
+      CTX-COUNCIL-2026-00047: entity_refs[1] 'SAEVI' matches registry → ORG-SAEVI
+      CTX-NEWS-2019-00001: entity_refs[1] 'National Grid' matches registry → ORG-NATIONAL-GRID
+      CTX-NEWS-2025-00022: entity_refs[2] 'Mary Kielar' matches registry → PERSON-KIELAR-SHA
+      CTX-NEWS-2025-00067: entity_refs[2] 'Pat Hogan' matches registry → PERSON-HOGAN-COUNCIL
+      CTX-NEWS-2025-00067: entity_refs[3] 'Chol Majok' matches registry → PERSON-MAJOK-COUNCIL
+      CTX-NEWS-2025-00067: entity_refs[5] 'Rachel May' matches registry → PERSON-MAY-STATE
+      CTX-NEWS-2025-00083: entity_refs[3] 'Brandon Ladd' matches registry → PERSON-LADD-DPW
+      CTX-NEWS-2025-00090: entity_refs[2] 'Syracuse University' matches registry → ORG-SYRACUSE-UNIVERSITY
+      CTX-NEWS-2025-00098: entity_refs[3] 'Brandon Ladd' matches registry → PERSON-LADD-DPW
+      CTX-NEWS-2025-00110: entity_refs[2] 'Brandon Ladd' matches registry → PERSON-LADD-DPW
+      CTX-NEWS-2025-00145: entity_refs[2] 'Brandon Ladd' matches registry → PERSON-LADD-DPW
+      CTX-NEWS-2025-00157: entity_refs[2] 'Brandon Ladd' matches registry → PERSON-LADD-DPW
+      CTX-NEWS-2025-00171: entity_refs[3] 'Micron' matches registry → ORG-MICRON
+      CTX-NEWS-2025-00193: entity_refs[3] 'Ryan McMahon' matches registry → PERSON-MCMAHON-COUNTY
+      CTX-NEWS-2025-00236: entity_refs[6] 'Micron Technology' matches registry → ORG-MICRON
+      CTX-NEWS-2025-00275: entity_refs[3] 'Syracuse Housing Authority' matches registry → ORG-SHA
+      CTX-NEWS-2025-00357: entity_refs[1] 'Brandon Ladd' matches registry → PERSON-LADD-DPW
+      CTX-WEB-2026-00018: entity_refs[4] 'Rachel May' matches registry → PERSON-MAY-STATE
+      CTX-WEB-2026-00038: entity_refs[1] 'Mayor Walsh' matches registry → PERSON-WALSH-MAYOR
+
+  [3] Non-canonical department name: 2 issues across 2 records
+      CTX-NEWS-2025-00117: department_refs[2] 'Parks and Recreation' → 'Department of Parks, Recreation and Youth Programs'
+      CTX-NEWS-2025-00381: department_refs[0] 'Parks and Recreation' → 'Department of Parks, Recreation and Youth Programs'
+
+--- RECOMMENDATIONS (require review) ---
+
+  [6] Possible cluster orphan: 524 issues across 98 records
+      CTX-NEWS-2025-00019: Shares 2 non-council entities + 6 substantive tags with CLUSTER-CODE-ENFORCEMENT-REFORM-2026Q1 (via CTX-NEWS-2025-00013)
+      CTX-NEWS-2025-00019: Shares 2 non-council entities + 2 substantive tags with CLUSTER-BUDGET-BATTLE-2025Q2 (via CTX-NEWS-2025-00029)
+      CTX-NEWS-2025-00019: Shares 2 non-council entities + 5 substantive tags with CLUSTER-SKYLINE-APARTMENTS-2025 (via CTX-NEWS-2025-00141)
+      CTX-NEWS-2025-00019: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00026 (via CTX-NEWS-2025-00029)
+      CTX-NEWS-2025-00019: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00066 (via CTX-NEWS-2025-00247)
+      CTX-NEWS-2025-00019: Shares 2 non-council entities + 2 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00247)
+      CTX-NEWS-2025-00019: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00209 (via CTX-NEWS-2025-00338)
+      CTX-NEWS-2025-00019: Shares 2 non-council entities + 6 substantive tags with DEDUP-CTX-NEWS-2025-00208 (via CTX-NEWS-2025-00356)
+      CTX-NEWS-2025-00030: Shares 2 non-council entities + 3 substantive tags with CLUSTER-BUDGET-BATTLE-2025Q2 (via CTX-NEWS-2025-00001)
+      CTX-NEWS-2025-00030: Shares 2 non-council entities + 2 substantive tags with CLUSTER-SHA-GOVERNANCE-CRISIS-2025 (via CTX-NEWS-2025-00018)
+      CTX-NEWS-2025-00030: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00031 (via CTX-NEWS-2025-00037)
+      CTX-NEWS-2025-00031: Shares 2 non-council entities + 3 substantive tags with CLUSTER-BUDGET-BATTLE-2025Q2 (via CTX-NEWS-2025-00042)
+      CTX-NEWS-2025-00031: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00039 (via CTX-NEWS-2025-00042)
+      CTX-NEWS-2025-00033: Shares 2 non-council entities + 3 substantive tags with DEDUP-EVENT-SURGE-LINK (via CTX-NEWS-2025-00078)
+      CTX-NEWS-2025-00033: Shares 3 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00078 (via CTX-NEWS-2025-00079)
+      CTX-NEWS-2025-00033: Shares 2 non-council entities + 2 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00165)
+      CTX-NEWS-2025-00033: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00002 (via CTX-NEWS-2025-00180)
+      CTX-NEWS-2025-00033: Shares 3 non-council entities + 5 substantive tags with DEDUP-CTX-NEWS-2025-00143 (via CTX-NEWS-2025-00219)
+      CTX-NEWS-2025-00033: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00135 (via CTX-NEWS-2025-00289)
+      CTX-NEWS-2025-00033: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00230 (via CTX-NEWS-2025-00348)
+      CTX-NEWS-2025-00047: Shares 2 non-council entities + 2 substantive tags with CLUSTER-PAYROLL-MODERNIZATION-2026Q1 (via CTX-NEWS-2025-00038)
+      CTX-NEWS-2025-00047: Shares 2 non-council entities + 3 substantive tags with CLUSTER-BUDGET-BATTLE-2025Q2 (via CTX-NEWS-2025-00002)
+      CTX-NEWS-2025-00047: Shares 2 non-council entities + 2 substantive tags with CLUSTER-SKYLINE-APARTMENTS-2025 (via CTX-NEWS-2025-00355)
+      CTX-NEWS-2025-00047: Shares 2 non-council entities + 4 substantive tags with CLUSTER-SPD-USE-OF-FORCE-2025 (via CTX-NEWS-2025-00045)
+      CTX-NEWS-2025-00047: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00019 (via CTX-NEWS-2025-00038)
+      CTX-NEWS-2025-00047: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00024 (via CTX-NEWS-2025-00026)
+      CTX-NEWS-2025-00047: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00026 (via CTX-NEWS-2025-00029)
+      CTX-NEWS-2025-00047: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00032 (via CTX-NEWS-2025-00052)
+      CTX-NEWS-2025-00047: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00031 (via CTX-NEWS-2025-00037)
+      CTX-NEWS-2025-00047: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00039 (via CTX-NEWS-2025-00040)
+      CTX-NEWS-2025-00047: Shares 2 non-council entities + 2 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00165)
+      CTX-NEWS-2025-00047: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00002 (via CTX-NEWS-2025-00180)
+      CTX-NEWS-2025-00047: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00050 (via CTX-NEWS-2025-00187)
+      CTX-NEWS-2025-00047: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00143 (via CTX-NEWS-2025-00219)
+      CTX-NEWS-2025-00047: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00219 (via CTX-NEWS-2025-00262)
+      CTX-NEWS-2025-00047: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00180 (via CTX-NEWS-2025-00269)
+      CTX-NEWS-2025-00047: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00036 (via CTX-NEWS-2025-00270)
+      CTX-NEWS-2025-00047: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00209 (via CTX-NEWS-2025-00355)
+      CTX-NEWS-2025-00048: Shares 2 non-council entities + 2 substantive tags with CLUSTER-BUDGET-BATTLE-2025Q2 (via CTX-NEWS-2025-00027)
+      CTX-NEWS-2025-00048: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00024 (via CTX-NEWS-2025-00027)
+      CTX-NEWS-2025-00048: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00026 (via CTX-NEWS-2025-00034)
+      CTX-NEWS-2025-00048: Shares 2 non-council entities + 5 substantive tags with DEDUP-CTX-NEWS-2025-00017 (via CTX-NEWS-2025-00184)
+      CTX-NEWS-2025-00048: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00048 (via CTX-NEWS-2025-00264)
+      CTX-NEWS-2025-00054: Shares 2 non-council entities + 3 substantive tags with CLUSTER-PAYROLL-MODERNIZATION-2026Q1 (via CTX-NEWS-2025-00038)
+      CTX-NEWS-2025-00054: Shares 4 non-council entities + 5 substantive tags with CLUSTER-BUDGET-BATTLE-2025Q2 (via CTX-NEWS-2025-00027)
+      CTX-NEWS-2025-00054: Shares 2 non-council entities + 2 substantive tags with CLUSTER-CRIME-TRENDS-2025Q3 (via CTX-NEWS-2025-00112)
+      CTX-NEWS-2025-00054: Shares 2 non-council entities + 3 substantive tags with CLUSTER-SKYLINE-APARTMENTS-2025 (via CTX-NEWS-2025-00355)
+      CTX-NEWS-2025-00054: Shares 2 non-council entities + 2 substantive tags with CLUSTER-SHA-GOVERNANCE-CRISIS-2025 (via CTX-NEWS-2025-00256)
+      CTX-NEWS-2025-00054: Shares 2 non-council entities + 2 substantive tags with CLUSTER-EAST-ADAMS-TRANSFORMATION-2025 (via CTX-NEWS-2025-00256)
+      CTX-NEWS-2025-00054: Shares 2 non-council entities + 3 substantive tags with CLUSTER-SPD-USE-OF-FORCE-2025 (via CTX-NEWS-2025-00302)
+      CTX-NEWS-2025-00054: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00019 (via CTX-NEWS-2025-00038)
+      CTX-NEWS-2025-00054: Shares 4 non-council entities + 5 substantive tags with DEDUP-CTX-NEWS-2025-00024 (via CTX-NEWS-2025-00027)
+      CTX-NEWS-2025-00054: Shares 3 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00026 (via CTX-NEWS-2025-00029)
+      CTX-NEWS-2025-00054: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00039 (via CTX-NEWS-2025-00042)
+      CTX-NEWS-2025-00054: Shares 3 non-council entities + 2 substantive tags with CLUSTER-PBA-ARMORY-SQUARE-2025Q3 (via CTX-NEWS-2025-00073)
+      CTX-NEWS-2025-00054: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00073 (via CTX-NEWS-2025-00075)
+      CTX-NEWS-2025-00054: Shares 2 non-council entities + 3 substantive tags with CLUSTER-COLUMBUS-STATUE-2025 (via CTX-NEWS-2025-00136)
+      CTX-NEWS-2025-00054: Shares 2 non-council entities + 3 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00165)
+      CTX-NEWS-2025-00054: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00045 (via CTX-NEWS-2025-00302)
+      CTX-NEWS-2025-00054: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00209 (via CTX-NEWS-2025-00355)
+      CTX-NEWS-2025-00060: Shares 2 non-council entities + 2 substantive tags with CLUSTER-PAYROLL-MODERNIZATION-2026Q1 (via CTX-NEWS-2025-00129)
+      CTX-NEWS-2025-00060: Shares 2 non-council entities + 2 substantive tags with CLUSTER-BUDGET-BATTLE-2025Q2 (via CTX-NEWS-2025-00002)
+      CTX-NEWS-2025-00060: Shares 2 non-council entities + 3 substantive tags with CLUSTER-SPD-USE-OF-FORCE-2025 (via CTX-NEWS-2025-00045)
+      CTX-NEWS-2025-00060: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00024 (via CTX-NEWS-2025-00026)
+      CTX-NEWS-2025-00060: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00026 (via CTX-NEWS-2025-00029)
+      CTX-NEWS-2025-00060: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00032 (via CTX-NEWS-2025-00052)
+      CTX-NEWS-2025-00060: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00031 (via CTX-NEWS-2025-00037)
+      CTX-NEWS-2025-00060: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00039 (via CTX-NEWS-2025-00040)
+      CTX-NEWS-2025-00060: Shares 2 non-council entities + 2 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00206)
+      CTX-NEWS-2025-00060: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00002 (via CTX-NEWS-2025-00180)
+      CTX-NEWS-2025-00060: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00050 (via CTX-NEWS-2025-00187)
+      CTX-NEWS-2025-00060: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00143 (via CTX-NEWS-2025-00219)
+      CTX-NEWS-2025-00060: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00180 (via CTX-NEWS-2025-00269)
+      CTX-NEWS-2025-00060: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00036 (via CTX-NEWS-2025-00270)
+      CTX-NEWS-2025-00065: Shares 2 non-council entities + 3 substantive tags with CLUSTER-SKYLINE-APARTMENTS-2025 (via CTX-NEWS-2025-00355)
+      CTX-NEWS-2025-00065: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00065 (via CTX-NEWS-2025-00308)
+      CTX-NEWS-2025-00065: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00209 (via CTX-NEWS-2025-00355)
+      CTX-NEWS-2025-00066: Shares 2 non-council entities + 3 substantive tags with CLUSTER-BUDGET-BATTLE-2025Q2 (via CTX-NEWS-2025-00027)
+      CTX-NEWS-2025-00066: Shares 2 non-council entities + 3 substantive tags with CLUSTER-SCHOOL-ZONE-CAMERAS-2025Q4 (via CTX-WEB-2026-00039)
+      CTX-NEWS-2025-00066: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00024 (via CTX-NEWS-2025-00027)
+      CTX-NEWS-2025-00066: Shares 3 non-council entities + 5 substantive tags with DEDUP-CTX-NEWS-2025-00026 (via CTX-NEWS-2025-00029)
+      CTX-NEWS-2025-00066: Shares 2 non-council entities + 6 substantive tags with DEDUP-CTX-NEWS-2025-00066 (via CTX-NEWS-2025-00247)
+      CTX-NEWS-2025-00066: Shares 2 non-council entities + 6 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00247)
+      CTX-NEWS-2025-00067: Shares 2 non-council entities + 2 substantive tags with CLUSTER-CRIME-TRENDS-2025Q3 (via CTX-NEWS-2025-00167)
+      CTX-NEWS-2025-00067: Shares 2 non-council entities + 2 substantive tags with CLUSTER-SKYLINE-APARTMENTS-2025 (via CTX-NEWS-2025-00355)
+      CTX-NEWS-2025-00067: Shares 2 non-council entities + 2 substantive tags with CLUSTER-COLUMBUS-STATUE-2025 (via CTX-NEWS-2025-00136)
+      CTX-NEWS-2025-00067: Shares 2 non-council entities + 2 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00165)
+      CTX-NEWS-2025-00067: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00209 (via CTX-NEWS-2025-00355)
+      CTX-NEWS-2025-00067: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00166 (via CTX-NEWS-2025-00393)
+      CTX-NEWS-2025-00071: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00002 (via CTX-NEWS-2025-00235)
+      CTX-NEWS-2025-00071: Shares 2 non-council entities + 5 substantive tags with CLUSTER-MARIA-REGINA-CONGEL-2025Q2 (via CTX-NEWS-2025-00350)
+      CTX-NEWS-2025-00071: Shares 3 non-council entities + 5 substantive tags with DEDUP-CTX-NEWS-2025-00338 (via CTX-NEWS-2025-00351)
+      CTX-NEWS-2025-00072: Shares 2 non-council entities + 3 substantive tags with CLUSTER-BUDGET-BATTLE-2025Q2 (via CTX-NEWS-2025-00029)
+      CTX-NEWS-2025-00072: Shares 2 non-council entities + 3 substantive tags with CLUSTER-SCHOOL-ZONE-CAMERAS-2025Q4 (via CTX-WEB-2026-00039)
+      CTX-NEWS-2025-00072: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00026 (via CTX-NEWS-2025-00029)
+      CTX-NEWS-2025-00072: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00066 (via CTX-NEWS-2025-00247)
+      CTX-NEWS-2025-00072: Shares 2 non-council entities + 4 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00247)
+      CTX-NEWS-2025-00077: Shares 2 non-council entities + 2 substantive tags with CLUSTER-MARIA-REGINA-CONGEL-2025Q2 (via CTX-NEWS-2025-00350)
+      CTX-NEWS-2025-00093: Shares 2 non-council entities + 2 substantive tags with CLUSTER-BUDGET-BATTLE-2025Q2 (via CTX-NEWS-2025-00029)
+      CTX-NEWS-2025-00093: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00026 (via CTX-NEWS-2025-00029)
+      CTX-NEWS-2025-00101: Shares 2 non-council entities + 2 substantive tags with DEDUP-EVENT-SURGE-LINK (via CTX-NEWS-2025-00079)
+      CTX-NEWS-2025-00101: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00078 (via CTX-NEWS-2025-00079)
+      CTX-NEWS-2025-00103: Shares 2 non-council entities + 2 substantive tags with CLUSTER-SKYLINE-APARTMENTS-2025 (via CTX-NEWS-2025-00338)
+      CTX-NEWS-2025-00103: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00002 (via CTX-NEWS-2025-00235)
+      CTX-NEWS-2025-00103: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00209 (via CTX-NEWS-2025-00338)
+      CTX-NEWS-2025-00103: Shares 2 non-council entities + 2 substantive tags with CLUSTER-MARIA-REGINA-CONGEL-2025Q2 (via CTX-NEWS-2025-00351)
+      CTX-NEWS-2025-00103: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00338 (via CTX-NEWS-2025-00351)
+      CTX-NEWS-2025-00116: Shares 2 non-council entities + 3 substantive tags with CLUSTER-BUDGET-BATTLE-2025Q2 (via CTX-NEWS-2025-00002)
+      CTX-NEWS-2025-00116: Shares 2 non-council entities + 3 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00215)
+      CTX-NEWS-2025-00116: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00180 (via CTX-NEWS-2025-00269)
+      CTX-NEWS-2025-00119: Shares 2 non-council entities + 7 substantive tags with DEDUP-CTX-NEWS-2025-00119 (via CTX-NEWS-2025-00240)
+      CTX-NEWS-2025-00121: Shares 3 non-council entities + 3 substantive tags with CLUSTER-LEAD-REMEDIATION-2026Q1 (via CTX-WEB-2026-00069)
+      CTX-NEWS-2025-00121: Shares 2 non-council entities + 4 substantive tags with CLUSTER-LEAD-WATER-2025Q3 (via CTX-NEWS-2025-00086)
+      CTX-NEWS-2025-00121: Shares 2 non-council entities + 3 substantive tags with CLUSTER-HOMELESSNESS-SERVICES-2025 (via CTX-NEWS-2025-00193)
+      CTX-NEWS-2025-00121: Shares 3 non-council entities + 5 substantive tags with CLUSTER-SCSD-GOVERNANCE-2025 (via CTX-NEWS-2025-00094)
+      CTX-NEWS-2025-00121: Shares 3 non-council entities + 7 substantive tags with DEDUP-CTX-NEWS-2025-00121 (via CTX-NEWS-2025-00378)
+      CTX-NEWS-2025-00121: Shares 3 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00069 (via CTX-WEB-2026-00070)
+      CTX-NEWS-2025-00125: Shares 2 non-council entities + 2 substantive tags with CLUSTER-CRIME-TRENDS-2025Q3 (via CTX-NEWS-2025-00167)
+      CTX-NEWS-2025-00125: Shares 2 non-council entities + 2 substantive tags with CLUSTER-SKYLINE-APARTMENTS-2025 (via CTX-NEWS-2025-00355)
+      CTX-NEWS-2025-00125: Shares 2 non-council entities + 2 substantive tags with CLUSTER-COLUMBUS-STATUE-2025 (via CTX-NEWS-2025-00136)
+      CTX-NEWS-2025-00125: Shares 2 non-council entities + 2 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00165)
+      CTX-NEWS-2025-00125: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00209 (via CTX-NEWS-2025-00355)
+      CTX-NEWS-2025-00128: Shares 4 non-council entities + 8 substantive tags with CLUSTER-SKYLINE-APARTMENTS-2025 (via CTX-NEWS-2025-00141)
+      CTX-NEWS-2025-00128: Shares 2 non-council entities + 7 substantive tags with DEDUP-CTX-NEWS-2025-00209 (via CTX-NEWS-2025-00327)
+      CTX-NEWS-2025-00128: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00208 (via CTX-NEWS-2025-00356)
+      CTX-NEWS-2025-00135: Shares 2 non-council entities + 5 substantive tags with CLUSTER-SHA-GOVERNANCE-CRISIS-2025 (via CTX-NEWS-2025-00256)
+      CTX-NEWS-2025-00135: Shares 2 non-council entities + 4 substantive tags with CLUSTER-EAST-ADAMS-TRANSFORMATION-2025 (via CTX-NEWS-2025-00160)
+      CTX-NEWS-2025-00135: Shares 2 non-council entities + 2 substantive tags with CLUSTER-PBA-ARMORY-SQUARE-2025Q3 (via CTX-NEWS-2025-00073)
+      CTX-NEWS-2025-00135: Shares 2 non-council entities + 4 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00160)
+      CTX-NEWS-2025-00135: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00230 (via CTX-NEWS-2025-00348)
+      CTX-NEWS-2025-00137: Shares 2 non-council entities + 5 substantive tags with DEDUP-CTX-NEWS-2025-00143 (via CTX-NEWS-2025-00219)
+      CTX-NEWS-2025-00142: Shares 2 non-council entities + 3 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00165)
+      CTX-NEWS-2025-00142: Shares 2 non-council entities + 5 substantive tags with DEDUP-CTX-NEWS-2025-00143 (via CTX-NEWS-2025-00219)
+      CTX-NEWS-2025-00142: Shares 2 non-council entities + 5 substantive tags with DEDUP-CTX-NEWS-2025-00135 (via CTX-NEWS-2025-00289)
+      CTX-NEWS-2025-00143: Shares 2 non-council entities + 3 substantive tags with CLUSTER-PAYROLL-MODERNIZATION-2026Q1 (via CTX-NEWS-2025-00129)
+      CTX-NEWS-2025-00143: Shares 2 non-council entities + 3 substantive tags with CLUSTER-BUDGET-BATTLE-2025Q2 (via CTX-NEWS-2025-00024)
+      CTX-NEWS-2025-00143: Shares 2 non-council entities + 2 substantive tags with CLUSTER-CRIME-TRENDS-2025Q3 (via CTX-NEWS-2025-00112)
+      CTX-NEWS-2025-00143: Shares 2 non-council entities + 2 substantive tags with CLUSTER-SPD-USE-OF-FORCE-2025 (via CTX-NEWS-2025-00302)
+      CTX-NEWS-2025-00143: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00024 (via CTX-NEWS-2025-00027)
+      CTX-NEWS-2025-00143: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00025 (via CTX-NEWS-2025-00035)
+      CTX-NEWS-2025-00143: Shares 2 non-council entities + 2 substantive tags with CLUSTER-PBA-ARMORY-SQUARE-2025Q3 (via CTX-NEWS-2025-00073)
+      CTX-NEWS-2025-00143: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00073 (via CTX-NEWS-2025-00089)
+      CTX-NEWS-2025-00143: Shares 2 non-council entities + 3 substantive tags with DEDUP-URL-NEWS-WAGE-ORDINANCE (via CTX-NEWS-2025-00207)
+      CTX-NEWS-2025-00143: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00207 (via CTX-NEWS-2025-00257)
+      CTX-NEWS-2025-00143: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00045 (via CTX-NEWS-2025-00302)
+      CTX-NEWS-2025-00144: Shares 2 non-council entities + 6 substantive tags with DEDUP-CTX-NEWS-2025-00143 (via CTX-NEWS-2025-00219)
+      CTX-NEWS-2025-00148: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00148 (via CTX-NEWS-2025-00249)
+      CTX-NEWS-2025-00149: Shares 2 non-council entities + 3 substantive tags with CLUSTER-SUSTAINABILITY-CLIMATE-2025 (via CTX-NEWS-2025-00183)
+      CTX-NEWS-2025-00164: Shares 2 non-council entities + 3 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00280)
+      CTX-NEWS-2025-00166: Shares 2 non-council entities + 3 substantive tags with CLUSTER-PAYROLL-MODERNIZATION-2026Q1 (via CTX-NEWS-2025-00038)
+      CTX-NEWS-2025-00166: Shares 2 non-council entities + 3 substantive tags with CLUSTER-BUDGET-BATTLE-2025Q2 (via CTX-NEWS-2025-00042)
+      CTX-NEWS-2025-00166: Shares 2 non-council entities + 4 substantive tags with CLUSTER-CRIME-TRENDS-2025Q3 (via CTX-NEWS-2025-00167)
+      CTX-NEWS-2025-00166: Shares 2 non-council entities + 3 substantive tags with CLUSTER-SKYLINE-APARTMENTS-2025 (via CTX-NEWS-2025-00355)
+      CTX-NEWS-2025-00166: Shares 2 non-council entities + 2 substantive tags with CLUSTER-SHA-GOVERNANCE-CRISIS-2025 (via CTX-NEWS-2025-00256)
+      CTX-NEWS-2025-00166: Shares 2 non-council entities + 2 substantive tags with CLUSTER-EAST-ADAMS-TRANSFORMATION-2025 (via CTX-NEWS-2025-00160)
+      CTX-NEWS-2025-00166: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00019 (via CTX-NEWS-2025-00038)
+      CTX-NEWS-2025-00166: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00039 (via CTX-NEWS-2025-00042)
+      CTX-NEWS-2025-00166: Shares 2 non-council entities + 5 substantive tags with CLUSTER-PBA-ARMORY-SQUARE-2025Q3 (via CTX-NEWS-2025-00073)
+      CTX-NEWS-2025-00166: Shares 2 non-council entities + 2 substantive tags with CLUSTER-COLUMBUS-STATUE-2025 (via CTX-NEWS-2025-00136)
+      CTX-NEWS-2025-00166: Shares 2 non-council entities + 2 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00160)
+      CTX-NEWS-2025-00166: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00209 (via CTX-NEWS-2025-00355)
+      CTX-NEWS-2025-00171: Shares 2 non-council entities + 2 substantive tags with CLUSTER-VEO-MICROMOBILITY-2026Q1 (via CTX-WEB-2026-00093)
+      CTX-NEWS-2025-00171: Shares 2 non-council entities + 4 substantive tags with CLUSTER-PEDESTRIAN-SAFETY-2026Q1 (via CTX-WEB-2026-00055)
+      CTX-NEWS-2025-00171: Shares 2 non-council entities + 2 substantive tags with CLUSTER-BUDGET-BATTLE-2025Q2 (via CTX-NEWS-2025-00001)
+      CTX-NEWS-2025-00171: Shares 2 non-council entities + 2 substantive tags with CLUSTER-CRIME-TRENDS-2025Q3 (via CTX-NEWS-2025-00167)
+      CTX-NEWS-2025-00171: Shares 2 non-council entities + 4 substantive tags with CLUSTER-SKYLINE-APARTMENTS-2025 (via CTX-NEWS-2025-00355)
+      CTX-NEWS-2025-00171: Shares 2 non-council entities + 5 substantive tags with CLUSTER-SHA-GOVERNANCE-CRISIS-2025 (via CTX-NEWS-2025-00256)
+      CTX-NEWS-2025-00171: Shares 2 non-council entities + 4 substantive tags with CLUSTER-EAST-ADAMS-TRANSFORMATION-2025 (via CTX-NEWS-2025-00160)
+      CTX-NEWS-2025-00171: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00039 (via CTX-NEWS-2025-00042)
+      CTX-NEWS-2025-00171: Shares 2 non-council entities + 3 substantive tags with CLUSTER-PBA-ARMORY-SQUARE-2025Q3 (via CTX-NEWS-2025-00073)
+      CTX-NEWS-2025-00171: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00078 (via CTX-NEWS-2025-00390)
+      CTX-NEWS-2025-00171: Shares 2 non-council entities + 4 substantive tags with CLUSTER-COLUMBUS-STATUE-2025 (via CTX-NEWS-2025-00136)
+      CTX-NEWS-2025-00171: Shares 2 non-council entities + 4 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00160)
+      CTX-NEWS-2025-00171: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00209 (via CTX-NEWS-2025-00355)
+      CTX-NEWS-2025-00171: Shares 2 non-council entities + 2 substantive tags with CLUSTER-ROAD-RECONSTRUCTION-2026Q1 (via CTX-WEB-2026-00110)
+      CTX-NEWS-2025-00171: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00115)
+      CTX-NEWS-2025-00185: Shares 2 non-council entities + 5 substantive tags with CLUSTER-SPD-USE-OF-FORCE-2025 (via CTX-NEWS-2025-00313)
+      CTX-NEWS-2025-00185: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00313 (via CTX-NEWS-2025-00314)
+      CTX-NEWS-2025-00189: Shares 2 non-council entities + 2 substantive tags with CLUSTER-BUDGET-BATTLE-2025Q2 (via CTX-NEWS-2025-00026)
+      CTX-NEWS-2025-00189: Shares 2 non-council entities + 2 substantive tags with CLUSTER-CRIME-TRENDS-2025Q3 (via CTX-NEWS-2025-00167)
+      CTX-NEWS-2025-00189: Shares 2 non-council entities + 2 substantive tags with CLUSTER-SKYLINE-APARTMENTS-2025 (via CTX-NEWS-2025-00355)
+      CTX-NEWS-2025-00189: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00024 (via CTX-NEWS-2025-00026)
+      CTX-NEWS-2025-00189: Shares 2 non-council entities + 2 substantive tags with CLUSTER-COLUMBUS-STATUE-2025 (via CTX-NEWS-2025-00136)
+      CTX-NEWS-2025-00189: Shares 2 non-council entities + 2 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00165)
+      CTX-NEWS-2025-00189: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00209 (via CTX-NEWS-2025-00355)
+      CTX-NEWS-2025-00192: Shares 2 non-council entities + 2 substantive tags with CLUSTER-CRB-OVERSIGHT-2025 (via CTX-NEWS-2025-00182)
+      CTX-NEWS-2025-00192: Shares 2 non-council entities + 4 substantive tags with CLUSTER-BUDGET-BATTLE-2025Q2 (via CTX-NEWS-2025-00002)
+      CTX-NEWS-2025-00192: Shares 3 non-council entities + 4 substantive tags with CLUSTER-SCHOOL-ZONE-CAMERAS-2025Q4 (via CTX-NEWS-2025-00228)
+      CTX-NEWS-2025-00192: Shares 2 non-council entities + 2 substantive tags with CLUSTER-SPD-USE-OF-FORCE-2025 (via CTX-NEWS-2025-00045)
+      CTX-NEWS-2025-00192: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00024 (via CTX-NEWS-2025-00026)
+      CTX-NEWS-2025-00192: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00026 (via CTX-NEWS-2025-00029)
+      CTX-NEWS-2025-00192: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00032 (via CTX-NEWS-2025-00052)
+      CTX-NEWS-2025-00192: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00039 (via CTX-NEWS-2025-00040)
+      CTX-NEWS-2025-00192: Shares 2 non-council entities + 2 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00206)
+      CTX-NEWS-2025-00192: Shares 3 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00050 (via CTX-NEWS-2025-00187)
+      CTX-NEWS-2025-00192: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00143 (via CTX-NEWS-2025-00219)
+      CTX-NEWS-2025-00192: Shares 3 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00219 (via CTX-NEWS-2025-00262)
+      CTX-NEWS-2025-00192: Shares 2 non-council entities + 6 substantive tags with DEDUP-CTX-NEWS-2025-00146 (via CTX-NEWS-2025-00267)
+      CTX-NEWS-2025-00192: Shares 3 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00036 (via CTX-NEWS-2025-00270)
+      CTX-NEWS-2025-00192: Shares 2 non-council entities + 4 substantive tags with CLUSTER-ROAD-RECONSTRUCTION-2026Q1 (via CTX-WEB-2026-00094)
+      CTX-NEWS-2025-00192: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00113)
+      CTX-NEWS-2025-00195: Shares 2 non-council entities + 4 substantive tags with CLUSTER-SCHOOL-ZONE-CAMERAS-2025Q4 (via CTX-NEWS-2025-00228)
+      CTX-NEWS-2025-00195: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00219 (via CTX-NEWS-2025-00262)
+      CTX-NEWS-2025-00208: Shares 2 non-council entities + 4 substantive tags with CLUSTER-SKYLINE-APARTMENTS-2025 (via CTX-NEWS-2025-00141)
+      CTX-NEWS-2025-00208: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00141 (via CTX-NEWS-2025-00304)
+      CTX-NEWS-2025-00208: Shares 2 non-council entities + 5 substantive tags with DEDUP-CTX-NEWS-2025-00209 (via CTX-NEWS-2025-00338)
+      CTX-NEWS-2025-00208: Shares 3 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00208 (via CTX-NEWS-2025-00356)
+      CTX-NEWS-2025-00220: Shares 2 non-council entities + 2 substantive tags with CLUSTER-BUDGET-BATTLE-2025Q2 (via CTX-NEWS-2025-00027)
+      CTX-NEWS-2025-00220: Shares 2 non-council entities + 6 substantive tags with CLUSTER-CRIME-TRENDS-2025Q3 (via CTX-NEWS-2025-00112)
+      CTX-NEWS-2025-00220: Shares 2 non-council entities + 2 substantive tags with CLUSTER-SKYLINE-APARTMENTS-2025 (via CTX-NEWS-2025-00355)
+      CTX-NEWS-2025-00220: Shares 2 non-council entities + 3 substantive tags with CLUSTER-SHA-GOVERNANCE-CRISIS-2025 (via CTX-NEWS-2025-00256)
+      CTX-NEWS-2025-00220: Shares 2 non-council entities + 3 substantive tags with CLUSTER-EAST-ADAMS-TRANSFORMATION-2025 (via CTX-NEWS-2025-00160)
+      CTX-NEWS-2025-00220: Shares 2 non-council entities + 2 substantive tags with CLUSTER-SPD-USE-OF-FORCE-2025 (via CTX-NEWS-2025-00302)
+      CTX-NEWS-2025-00220: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00024 (via CTX-NEWS-2025-00027)
+      CTX-NEWS-2025-00220: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00039 (via CTX-NEWS-2025-00042)
+      CTX-NEWS-2025-00220: Shares 3 non-council entities + 5 substantive tags with CLUSTER-PBA-ARMORY-SQUARE-2025Q3 (via CTX-NEWS-2025-00073)
+      CTX-NEWS-2025-00220: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00073 (via CTX-NEWS-2025-00075)
+      CTX-NEWS-2025-00220: Shares 2 non-council entities + 3 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00160)
+      CTX-NEWS-2025-00220: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00017 (via CTX-NEWS-2025-00184)
+      CTX-NEWS-2025-00220: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00048 (via CTX-NEWS-2025-00264)
+      CTX-NEWS-2025-00220: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00045 (via CTX-NEWS-2025-00302)
+      CTX-NEWS-2025-00220: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00209 (via CTX-NEWS-2025-00355)
+      CTX-NEWS-2025-00225: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00135 (via CTX-NEWS-2025-00289)
+      CTX-NEWS-2025-00225: Shares 4 non-council entities + 6 substantive tags with DEDUP-CTX-NEWS-2025-00225 (via CTX-NEWS-2025-00294)
+      CTX-NEWS-2025-00234: Shares 4 non-council entities + 8 substantive tags with CLUSTER-CRIME-TRENDS-2025Q3 (via CTX-NEWS-2025-00252)
+      CTX-NEWS-2025-00234: Shares 2 non-council entities + 6 substantive tags with CLUSTER-EAST-ADAMS-TRANSFORMATION-2025 (via CTX-NEWS-2025-00274)
+      CTX-NEWS-2025-00250: Shares 2 non-council entities + 2 substantive tags with CLUSTER-SCSD-GOVERNANCE-2025 (via CTX-NEWS-2025-00236)
+      CTX-NEWS-2025-00250: Shares 2 non-council entities + 5 substantive tags with DEDUP-CTX-NEWS-2025-00205 (via CTX-NEWS-2025-00216)
+      CTX-NEWS-2025-00250: Shares 2 non-council entities + 7 substantive tags with DEDUP-CTX-NEWS-2025-00250 (via CTX-NEWS-2025-00278)
+      CTX-NEWS-2025-00255: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-WATER-2025Q3 (via CTX-NEWS-2025-00394)
+      CTX-NEWS-2025-00258: Shares 2 non-council entities + 5 substantive tags with CLUSTER-SPD-USE-OF-FORCE-2025 (via CTX-NEWS-2025-00362)
+      CTX-NEWS-2025-00258: Shares 2 non-council entities + 3 substantive tags with CLUSTER-PBA-ARMORY-SQUARE-2025Q3 (via CTX-NEWS-2025-00073)
+      CTX-NEWS-2025-00258: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00073 (via CTX-NEWS-2025-00074)
+      CTX-NEWS-2025-00258: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00109 (via CTX-NEWS-2025-00248)
+      CTX-NEWS-2025-00258: Shares 5 non-council entities + 6 substantive tags with DEDUP-CTX-NEWS-2025-00258 (via CTX-NEWS-2025-00295)
+      CTX-NEWS-2025-00259: Shares 2 non-council entities + 4 substantive tags with CLUSTER-BUDGET-BATTLE-2025Q2 (via CTX-NEWS-2025-00042)
+      CTX-NEWS-2025-00259: Shares 2 non-council entities + 2 substantive tags with CLUSTER-SKYLINE-APARTMENTS-2025 (via CTX-NEWS-2025-00355)
+      CTX-NEWS-2025-00259: Shares 2 non-council entities + 2 substantive tags with CLUSTER-SHA-GOVERNANCE-CRISIS-2025 (via CTX-NEWS-2025-00256)
+      CTX-NEWS-2025-00259: Shares 2 non-council entities + 2 substantive tags with CLUSTER-EAST-ADAMS-TRANSFORMATION-2025 (via CTX-NEWS-2025-00256)
+      CTX-NEWS-2025-00259: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-NEWS-2025-00039 (via CTX-NEWS-2025-00042)
+      CTX-NEWS-2025-00259: Shares 2 non-council entities + 2 substantive tags with CLUSTER-PBA-ARMORY-SQUARE-2025Q3 (via CTX-NEWS-2025-00073)
+      CTX-NEWS-2025-00259: Shares 2 non-council entities + 3 substantive tags with CLUSTER-COLUMBUS-STATUE-2025 (via CTX-NEWS-2025-00136)
+      CTX-NEWS-2025-00259: Shares 2 non-council entities + 3 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00206)
+      CTX-NEWS-2025-00259: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00209 (via CTX-NEWS-2025-00355)
+      CTX-NEWS-2025-00265: Shares 2 non-council entities + 3 substantive tags with CLUSTER-FIRE-APPARATUS-2026Q1 (via CTX-NEWS-2025-00017)
+      CTX-NEWS-2025-00265: Shares 2 non-council entities + 2 substantive tags with CLUSTER-PAYROLL-MODERNIZATION-2026Q1 (via CTX-NEWS-2025-00129)
+      CTX-NEWS-2025-00265: Shares 2 non-council entities + 7 substantive tags with CLUSTER-BUDGET-BATTLE-2025Q2 (via CTX-NEWS-2025-00002)
+      CTX-NEWS-2025-00265: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00024 (via CTX-NEWS-2025-00026)
+      CTX-NEWS-2025-00265: Shares 3 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00026 (via CTX-NEWS-2025-00029)
+      CTX-NEWS-2025-00265: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00039 (via CTX-NEWS-2025-00042)
+      CTX-NEWS-2025-00265: Shares 2 non-council entities + 2 substantive tags with CLUSTER-DPW-WINTER-OPS-2025Q4 (via CTX-NEWS-2025-00173)
+      CTX-NEWS-2025-00265: Shares 2 non-council entities + 3 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00206)
+      CTX-NEWS-2025-00265: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00002 (via CTX-NEWS-2025-00180)
+      CTX-NEWS-2025-00265: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00017 (via CTX-NEWS-2025-00184)
+      CTX-NEWS-2025-00265: Shares 2 non-council entities + 6 substantive tags with DEDUP-CTX-NEWS-2025-00143 (via CTX-NEWS-2025-00219)
+      CTX-NEWS-2025-00265: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00048 (via CTX-NEWS-2025-00264)
+      CTX-NEWS-2025-00265: Shares 4 non-council entities + 6 substantive tags with DEDUP-CTX-NEWS-2025-00122 (via CTX-NEWS-2025-00266)
+      CTX-NEWS-2025-00265: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00180 (via CTX-NEWS-2025-00269)
+      CTX-NEWS-2025-00265: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00266 (via CTX-NEWS-2025-00305)
+      CTX-NEWS-2025-00265: Shares 2 non-council entities + 2 substantive tags with CLUSTER-ROAD-RECONSTRUCTION-2026Q1 (via CTX-WEB-2026-00094)
+      CTX-NEWS-2025-00279: Shares 2 non-council entities + 8 substantive tags with DEDUP-EVENT-SURGE-LINK (via CTX-NEWS-2025-00078)
+      CTX-NEWS-2025-00279: Shares 2 non-council entities + 7 substantive tags with DEDUP-CTX-NEWS-2025-00078 (via CTX-NEWS-2025-00079)
+      CTX-NEWS-2025-00283: Shares 2 non-council entities + 5 substantive tags with DEDUP-CTX-NEWS-2025-00066 (via CTX-NEWS-2025-00247)
+      CTX-NEWS-2025-00283: Shares 2 non-council entities + 5 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00247)
+      CTX-NEWS-2025-00291: Shares 2 non-council entities + 6 substantive tags with DEDUP-CTX-NEWS-2025-00119 (via CTX-NEWS-2025-00240)
+      CTX-NEWS-2025-00303: Shares 2 non-council entities + 3 substantive tags with CLUSTER-SCSD-GOVERNANCE-2025 (via CTX-NEWS-2025-00236)
+      CTX-NEWS-2025-00303: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00205 (via CTX-NEWS-2025-00216)
+      CTX-NEWS-2025-00303: Shares 2 non-council entities + 5 substantive tags with DEDUP-CTX-NEWS-2025-00250 (via CTX-NEWS-2025-00278)
+      CTX-NEWS-2025-00312: Shares 2 non-council entities + 2 substantive tags with CLUSTER-SKYLINE-APARTMENTS-2025 (via CTX-NEWS-2025-00338)
+      CTX-NEWS-2025-00312: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00002 (via CTX-NEWS-2025-00235)
+      CTX-NEWS-2025-00312: Shares 3 non-council entities + 6 substantive tags with DEDUP-CTX-NEWS-2025-00143 (via CTX-NEWS-2025-00219)
+      CTX-NEWS-2025-00312: Shares 2 non-council entities + 6 substantive tags with DEDUP-CTX-NEWS-2025-00135 (via CTX-NEWS-2025-00289)
+      CTX-NEWS-2025-00312: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00209 (via CTX-NEWS-2025-00338)
+      CTX-NEWS-2025-00312: Shares 2 non-council entities + 3 substantive tags with CLUSTER-MARIA-REGINA-CONGEL-2025Q2 (via CTX-NEWS-2025-00351)
+      CTX-NEWS-2025-00312: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00338 (via CTX-NEWS-2025-00351)
+      CTX-NEWS-2025-00315: Shares 2 non-council entities + 5 substantive tags with CLUSTER-SHA-GOVERNANCE-CRISIS-2025 (via CTX-NEWS-2025-00256)
+      CTX-NEWS-2025-00315: Shares 2 non-council entities + 5 substantive tags with CLUSTER-EAST-ADAMS-TRANSFORMATION-2025 (via CTX-NEWS-2025-00160)
+      CTX-NEWS-2025-00315: Shares 2 non-council entities + 2 substantive tags with CLUSTER-PBA-ARMORY-SQUARE-2025Q3 (via CTX-NEWS-2025-00073)
+      CTX-NEWS-2025-00315: Shares 2 non-council entities + 5 substantive tags with CLUSTER-MAYORAL-TRANSITION-2025Q4 (via CTX-NEWS-2025-00160)
+      CTX-NEWS-2025-00315: Shares 2 non-council entities + 5 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00113)
+      CTX-NEWS-2025-00335: Shares 2 non-council entities + 4 substantive tags with CLUSTER-BUDGET-BATTLE-2025Q2 (via CTX-NEWS-2025-00002)
+      CTX-NEWS-2025-00335: Shares 2 non-council entities + 2 substantive tags with CLUSTER-SCHOOL-ZONE-CAMERAS-2025Q4 (via CTX-NEWS-2025-00228)
+      CTX-NEWS-2025-00335: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00143 (via CTX-NEWS-2025-00219)
+      CTX-NEWS-2025-00335: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00122 (via CTX-NEWS-2025-00266)
+      CTX-NEWS-2025-00335: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00180 (via CTX-NEWS-2025-00269)
+      CTX-NEWS-2025-00335: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00113)
+      CTX-NEWS-2025-00346: Shares 2 non-council entities + 2 substantive tags with DEDUP-EVENT-SURGE-LINK (via CTX-NEWS-2025-00078)
+      CTX-NEWS-2025-00346: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00078 (via CTX-NEWS-2025-00079)
+      CTX-NEWS-2025-00346: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00143 (via CTX-NEWS-2025-00219)
+      CTX-NEWS-2025-00346: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-NEWS-2025-00230 (via CTX-NEWS-2025-00348)
+      CTX-NEWS-2025-00387: Shares 2 non-council entities + 2 substantive tags with CLUSTER-BUDGET-BATTLE-2025Q2 (via CTX-NEWS-2025-00001)
+      CTX-NEWS-2026-00038: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-NEWS-2025-00119 (via CTX-NEWS-2025-00240)
+      CTX-NEWS-2026-00040: Shares 2 non-council entities + 2 substantive tags with CLUSTER-CRIME-TRENDS-2025Q3 (via CTX-NEWS-2025-00238)
+      CTX-NEWS-2026-00047: Shares 2 non-council entities + 2 substantive tags with CLUSTER-MICRON-ECONOMIC-DEV-2025 (via CTX-NEWS-2025-00242)
+      CTX-WEB-2026-00034: Shares 2 non-council entities + 2 substantive tags with CLUSTER-PEDESTRIAN-SAFETY-2026Q1 (via CTX-WEB-2026-00055)
+      CTX-WEB-2026-00034: Shares 2 non-council entities + 3 substantive tags with CLUSTER-DPW-WINTER-OPS-2025Q4 (via CTX-WEB-2026-00036)
+      CTX-WEB-2026-00034: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-SOUTH-AVE-BRIDGE (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00034: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00034: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00037: Shares 2 non-council entities + 2 substantive tags with CLUSTER-DPW-WINTER-OPS-2025Q4 (via CTX-WEB-2026-00060)
+      CTX-WEB-2026-00045: Shares 3 non-council entities + 2 substantive tags with CLUSTER-VEO-MICROMOBILITY-2026Q1 (via CTX-WEB-2026-00093)
+      CTX-WEB-2026-00045: Shares 3 non-council entities + 3 substantive tags with CLUSTER-PEDESTRIAN-SAFETY-2026Q1 (via CTX-WEB-2026-00055)
+      CTX-WEB-2026-00045: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-REMEDIATION-2026Q1 (via CTX-WEB-2026-00069)
+      CTX-WEB-2026-00045: Shares 2 non-council entities + 3 substantive tags with CLUSTER-SCHOOL-ZONE-CAMERAS-2025Q4 (via CTX-WEB-2026-00038)
+      CTX-WEB-2026-00045: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00045 (via CTX-WEB-2026-00046)
+      CTX-WEB-2026-00045: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-SOUTH-AVE-BRIDGE (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00045: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00045: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00043 (via CTX-WEB-2026-00044)
+      CTX-WEB-2026-00045: Shares 2 non-council entities + 2 substantive tags with CLUSTER-ROAD-RECONSTRUCTION-2026Q1 (via CTX-WEB-2026-00094)
+      CTX-WEB-2026-00045: Shares 3 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00115)
+      CTX-WEB-2026-00050: Shares 2 non-council entities + 3 substantive tags with CLUSTER-VEO-MICROMOBILITY-2026Q1 (via CTX-WEB-2026-00093)
+      CTX-WEB-2026-00050: Shares 2 non-council entities + 2 substantive tags with CLUSTER-PEDESTRIAN-SAFETY-2026Q1 (via CTX-WEB-2026-00055)
+      CTX-WEB-2026-00050: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-REMEDIATION-2026Q1 (via CTX-WEB-2026-00069)
+      CTX-WEB-2026-00050: Shares 2 non-council entities + 2 substantive tags with CLUSTER-SCHOOL-ZONE-CAMERAS-2025Q4 (via CTX-WEB-2026-00039)
+      CTX-WEB-2026-00050: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00045 (via CTX-WEB-2026-00046)
+      CTX-WEB-2026-00050: Shares 2 non-council entities + 2 substantive tags with CLUSTER-DPW-WINTER-OPS-2025Q4 (via CTX-WEB-2026-00035)
+      CTX-WEB-2026-00050: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00063 (via CTX-WEB-2026-00064)
+      CTX-WEB-2026-00050: Shares 2 non-council entities + 2 substantive tags with CLUSTER-ROAD-RECONSTRUCTION-2026Q1 (via CTX-WEB-2026-00094)
+      CTX-WEB-2026-00050: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00115)
+      CTX-WEB-2026-00052: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-REMEDIATION-2026Q1 (via CTX-WEB-2026-00010)
+      CTX-WEB-2026-00052: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-WATER-2025Q3 (via CTX-WEB-2026-00042)
+      CTX-WEB-2026-00052: Shares 2 non-council entities + 2 substantive tags with CLUSTER-DPW-WINTER-OPS-2025Q4 (via CTX-WEB-2026-00036)
+      CTX-WEB-2026-00052: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-LEAD-STANDARD (via CTX-WEB-2026-00010)
+      CTX-WEB-2026-00052: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00052: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00054: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-WATER-2025Q3 (via CTX-WEB-2026-00040)
+      CTX-WEB-2026-00054: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00054: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00065 (via CTX-WEB-2026-00066)
+      CTX-WEB-2026-00054: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00091)
+      CTX-WEB-2026-00057: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-REMEDIATION-2026Q1 (via CTX-WEB-2026-00092)
+      CTX-WEB-2026-00057: Shares 3 non-council entities + 2 substantive tags with CLUSTER-LEAD-WATER-2025Q3 (via CTX-WEB-2026-00040)
+      CTX-WEB-2026-00057: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00057: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00065 (via CTX-WEB-2026-00066)
+      CTX-WEB-2026-00057: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00058: Shares 2 non-council entities + 2 substantive tags with CLUSTER-PEDESTRIAN-SAFETY-2026Q1 (via CTX-WEB-2026-00055)
+      CTX-WEB-2026-00058: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-REMEDIATION-2026Q1 (via CTX-WEB-2026-00092)
+      CTX-WEB-2026-00058: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-WATER-2025Q3 (via CTX-WEB-2026-00040)
+      CTX-WEB-2026-00058: Shares 2 non-council entities + 2 substantive tags with CLUSTER-DPW-WINTER-OPS-2025Q4 (via CTX-WEB-2026-00036)
+      CTX-WEB-2026-00058: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-SOUTH-AVE-BRIDGE (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00058: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00058: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-KIRKPATRICK-BRIDGE (via CTX-WEB-2026-00023)
+      CTX-WEB-2026-00058: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00058: Shares 3 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00059: Shares 2 non-council entities + 3 substantive tags with CLUSTER-LEAD-WATER-2025Q3 (via CTX-WEB-2026-00040)
+      CTX-WEB-2026-00059: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00059: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00065 (via CTX-WEB-2026-00066)
+      CTX-WEB-2026-00059: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00091)
+      CTX-WEB-2026-00062: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-REMEDIATION-2026Q1 (via CTX-WEB-2026-00092)
+      CTX-WEB-2026-00062: Shares 3 non-council entities + 3 substantive tags with CLUSTER-LEAD-WATER-2025Q3 (via CTX-WEB-2026-00040)
+      CTX-WEB-2026-00062: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-SOUTH-AVE-BRIDGE (via CTX-WEB-2026-00001)
+      CTX-WEB-2026-00062: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00062: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00065 (via CTX-WEB-2026-00066)
+      CTX-WEB-2026-00062: Shares 2 non-council entities + 5 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00065: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-REMEDIATION-2026Q1 (via CTX-WEB-2026-00092)
+      CTX-WEB-2026-00065: Shares 3 non-council entities + 2 substantive tags with CLUSTER-LEAD-WATER-2025Q3 (via CTX-WEB-2026-00040)
+      CTX-WEB-2026-00065: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00065: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00065 (via CTX-WEB-2026-00066)
+      CTX-WEB-2026-00065: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00072: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-REMEDIATION-2026Q1 (via CTX-WEB-2026-00092)
+      CTX-WEB-2026-00072: Shares 3 non-council entities + 3 substantive tags with CLUSTER-LEAD-WATER-2025Q3 (via CTX-WEB-2026-00040)
+      CTX-WEB-2026-00072: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-SOUTH-AVE-BRIDGE (via CTX-WEB-2026-00001)
+      CTX-WEB-2026-00072: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00072: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00065 (via CTX-WEB-2026-00066)
+      CTX-WEB-2026-00072: Shares 2 non-council entities + 5 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00073: Shares 2 non-council entities + 2 substantive tags with CLUSTER-VEO-MICROMOBILITY-2026Q1 (via CTX-WEB-2026-00093)
+      CTX-WEB-2026-00073: Shares 2 non-council entities + 3 substantive tags with CLUSTER-PEDESTRIAN-SAFETY-2026Q1 (via CTX-WEB-2026-00055)
+      CTX-WEB-2026-00073: Shares 2 non-council entities + 2 substantive tags with CLUSTER-SCHOOL-ZONE-CAMERAS-2025Q4 (via CTX-WEB-2026-00039)
+      CTX-WEB-2026-00073: Shares 2 non-council entities + 2 substantive tags with CLUSTER-DPW-WINTER-OPS-2025Q4 (via CTX-WEB-2026-00068)
+      CTX-WEB-2026-00073: Shares 2 non-council entities + 4 substantive tags with CLUSTER-ROAD-RECONSTRUCTION-2026Q1 (via CTX-WEB-2026-00082)
+      CTX-WEB-2026-00073: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00112)
+      CTX-WEB-2026-00074: Shares 3 non-council entities + 3 substantive tags with CLUSTER-PEDESTRIAN-SAFETY-2026Q1 (via CTX-WEB-2026-00055)
+      CTX-WEB-2026-00074: Shares 3 non-council entities + 3 substantive tags with CLUSTER-DPW-WINTER-OPS-2025Q4 (via CTX-WEB-2026-00035)
+      CTX-WEB-2026-00074: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-SOUTH-AVE-BRIDGE (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00074: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00074: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-KIRKPATRICK-BRIDGE (via CTX-WEB-2026-00023)
+      CTX-WEB-2026-00074: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00074: Shares 2 non-council entities + 2 substantive tags with CLUSTER-ROAD-RECONSTRUCTION-2026Q1 (via CTX-WEB-2026-00082)
+      CTX-WEB-2026-00074: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00074: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00112)
+      CTX-WEB-2026-00075: Shares 2 non-council entities + 2 substantive tags with CLUSTER-PEDESTRIAN-SAFETY-2026Q1 (via CTX-WEB-2026-00055)
+      CTX-WEB-2026-00075: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-REMEDIATION-2026Q1 (via CTX-WEB-2026-00092)
+      CTX-WEB-2026-00075: Shares 2 non-council entities + 3 substantive tags with CLUSTER-LEAD-WATER-2025Q3 (via CTX-WEB-2026-00040)
+      CTX-WEB-2026-00075: Shares 2 non-council entities + 2 substantive tags with CLUSTER-DPW-WINTER-OPS-2025Q4 (via CTX-WEB-2026-00036)
+      CTX-WEB-2026-00075: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-SOUTH-AVE-BRIDGE (via CTX-WEB-2026-00001)
+      CTX-WEB-2026-00075: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-ST-PATRICKS (via CTX-WEB-2026-00006)
+      CTX-WEB-2026-00075: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00008)
+      CTX-WEB-2026-00075: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-KIRKPATRICK-BRIDGE (via CTX-WEB-2026-00008)
+      CTX-WEB-2026-00075: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00075: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00043 (via CTX-WEB-2026-00044)
+      CTX-WEB-2026-00075: Shares 3 non-council entities + 5 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00077: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-REMEDIATION-2026Q1 (via CTX-WEB-2026-00025)
+      CTX-WEB-2026-00077: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-WATER-2025Q3 (via CTX-WEB-2026-00042)
+      CTX-WEB-2026-00077: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-LEAD-STANDARD (via CTX-WEB-2026-00025)
+      CTX-WEB-2026-00078: Shares 2 non-council entities + 2 substantive tags with CLUSTER-PARKS-CAPITAL-2025 (via CTX-WEB-2026-00049)
+      CTX-WEB-2026-00078: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-REMEDIATION-2026Q1 (via CTX-WEB-2026-00092)
+      CTX-WEB-2026-00078: Shares 2 non-council entities + 4 substantive tags with CLUSTER-LEAD-WATER-2025Q3 (via CTX-WEB-2026-00040)
+      CTX-WEB-2026-00078: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00080: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-REMEDIATION-2026Q1 (via CTX-WEB-2026-00092)
+      CTX-WEB-2026-00080: Shares 2 non-council entities + 3 substantive tags with CLUSTER-LEAD-WATER-2025Q3 (via CTX-WEB-2026-00040)
+      CTX-WEB-2026-00080: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-SOUTH-AVE-BRIDGE (via CTX-WEB-2026-00001)
+      CTX-WEB-2026-00080: Shares 2 non-council entities + 5 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00081: Shares 2 non-council entities + 2 substantive tags with CLUSTER-VEO-MICROMOBILITY-2026Q1 (via CTX-WEB-2026-00093)
+      CTX-WEB-2026-00081: Shares 2 non-council entities + 3 substantive tags with CLUSTER-PEDESTRIAN-SAFETY-2026Q1 (via CTX-WEB-2026-00055)
+      CTX-WEB-2026-00081: Shares 2 non-council entities + 3 substantive tags with CLUSTER-DPW-WINTER-OPS-2025Q4 (via CTX-WEB-2026-00036)
+      CTX-WEB-2026-00081: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-SOUTH-AVE-BRIDGE (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00081: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-ST-PATRICKS (via CTX-WEB-2026-00006)
+      CTX-WEB-2026-00081: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00008)
+      CTX-WEB-2026-00081: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-KIRKPATRICK-BRIDGE (via CTX-WEB-2026-00008)
+      CTX-WEB-2026-00081: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00081: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00043 (via CTX-WEB-2026-00044)
+      CTX-WEB-2026-00081: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00083: Shares 2 non-council entities + 2 substantive tags with CLUSTER-PARKS-CAPITAL-2025 (via CTX-WEB-2026-00049)
+      CTX-WEB-2026-00083: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-REMEDIATION-2026Q1 (via CTX-WEB-2026-00033)
+      CTX-WEB-2026-00083: Shares 2 non-council entities + 3 substantive tags with CLUSTER-LEAD-WATER-2025Q3 (via CTX-WEB-2026-00040)
+      CTX-WEB-2026-00083: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00010 (via CTX-WEB-2026-00033)
+      CTX-WEB-2026-00083: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00086: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-REMEDIATION-2026Q1 (via CTX-WEB-2026-00092)
+      CTX-WEB-2026-00086: Shares 3 non-council entities + 3 substantive tags with CLUSTER-LEAD-WATER-2025Q3 (via CTX-WEB-2026-00040)
+      CTX-WEB-2026-00086: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00086: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00065 (via CTX-WEB-2026-00066)
+      CTX-WEB-2026-00086: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00088: Shares 2 non-council entities + 3 substantive tags with CLUSTER-LEAD-REMEDIATION-2026Q1 (via CTX-WEB-2026-00092)
+      CTX-WEB-2026-00088: Shares 2 non-council entities + 2 substantive tags with CLUSTER-SUSTAINABILITY-CLIMATE-2025 (via CTX-WEB-2026-00002)
+      CTX-WEB-2026-00088: Shares 2 non-council entities + 3 substantive tags with CLUSTER-LEAD-WATER-2025Q3 (via CTX-WEB-2026-00040)
+      CTX-WEB-2026-00088: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00089: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-REMEDIATION-2026Q1 (via CTX-WEB-2026-00092)
+      CTX-WEB-2026-00089: Shares 3 non-council entities + 4 substantive tags with CLUSTER-LEAD-WATER-2025Q3 (via CTX-WEB-2026-00040)
+      CTX-WEB-2026-00089: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00089: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00065 (via CTX-WEB-2026-00066)
+      CTX-WEB-2026-00089: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00095: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-WATER-2025Q3 (via CTX-WEB-2026-00040)
+      CTX-WEB-2026-00095: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00052 (via CTX-WEB-2026-00053)
+      CTX-WEB-2026-00095: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00065 (via CTX-WEB-2026-00066)
+      CTX-WEB-2026-00095: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00091)
+      CTX-WEB-2026-00096: Shares 2 non-council entities + 2 substantive tags with CLUSTER-PEDESTRIAN-SAFETY-2026Q1 (via CTX-WEB-2026-00055)
+      CTX-WEB-2026-00096: Shares 2 non-council entities + 2 substantive tags with CLUSTER-DPW-WINTER-OPS-2025Q4 (via CTX-WEB-2026-00036)
+      CTX-WEB-2026-00096: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-SOUTH-AVE-BRIDGE (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00096: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-ST-PATRICKS (via CTX-WEB-2026-00006)
+      CTX-WEB-2026-00096: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00008)
+      CTX-WEB-2026-00096: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-KIRKPATRICK-BRIDGE (via CTX-WEB-2026-00008)
+      CTX-WEB-2026-00096: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00096: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00043 (via CTX-WEB-2026-00044)
+      CTX-WEB-2026-00096: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00097: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00113)
+      CTX-WEB-2026-00099: Shares 2 non-council entities + 2 substantive tags with CLUSTER-DPW-WINTER-OPS-2025Q4 (via CTX-WEB-2026-00036)
+      CTX-WEB-2026-00099: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-ST-PATRICKS (via CTX-WEB-2026-00006)
+      CTX-WEB-2026-00101: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-REMEDIATION-2026Q1 (via CTX-WEB-2026-00092)
+      CTX-WEB-2026-00101: Shares 2 non-council entities + 3 substantive tags with CLUSTER-LEAD-WATER-2025Q3 (via CTX-WEB-2026-00040)
+      CTX-WEB-2026-00101: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-SOUTH-AVE-BRIDGE (via CTX-WEB-2026-00026)
+      CTX-WEB-2026-00101: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00026)
+      CTX-WEB-2026-00101: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-KIRKPATRICK-BRIDGE (via CTX-WEB-2026-00023)
+      CTX-WEB-2026-00101: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00101: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00043 (via CTX-WEB-2026-00044)
+      CTX-WEB-2026-00101: Shares 3 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00103: Shares 3 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00060 (via CTX-WEB-2026-00061)
+      CTX-WEB-2026-00106: Shares 2 non-council entities + 4 substantive tags with CLUSTER-ROAD-RECONSTRUCTION-2026Q1 (via CTX-WEB-2026-00082)
+      CTX-WEB-2026-00108: Shares 2 non-council entities + 3 substantive tags with CLUSTER-VEO-MICROMOBILITY-2026Q1 (via CTX-WEB-2026-00093)
+      CTX-WEB-2026-00108: Shares 2 non-council entities + 4 substantive tags with CLUSTER-PEDESTRIAN-SAFETY-2026Q1 (via CTX-WEB-2026-00055)
+      CTX-WEB-2026-00108: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-REMEDIATION-2026Q1 (via CTX-WEB-2026-00069)
+      CTX-WEB-2026-00108: Shares 2 non-council entities + 4 substantive tags with CLUSTER-SCHOOL-ZONE-CAMERAS-2025Q4 (via CTX-WEB-2026-00039)
+      CTX-WEB-2026-00108: Shares 2 non-council entities + 2 substantive tags with CLUSTER-DPW-WINTER-OPS-2025Q4 (via CTX-WEB-2026-00035)
+      CTX-WEB-2026-00108: Shares 2 non-council entities + 2 substantive tags with CLUSTER-ROAD-RECONSTRUCTION-2026Q1 (via CTX-WEB-2026-00082)
+      CTX-WEB-2026-00108: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00112)
+      CTX-WEB-2026-00118: Shares 2 non-council entities + 2 substantive tags with CLUSTER-VEO-MICROMOBILITY-2026Q1 (via CTX-WEB-2026-00093)
+      CTX-WEB-2026-00118: Shares 2 non-council entities + 3 substantive tags with CLUSTER-PEDESTRIAN-SAFETY-2026Q1 (via CTX-WEB-2026-00055)
+      CTX-WEB-2026-00118: Shares 2 non-council entities + 3 substantive tags with CLUSTER-DPW-WINTER-OPS-2025Q4 (via CTX-WEB-2026-00036)
+      CTX-WEB-2026-00118: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-SOUTH-AVE-BRIDGE (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00118: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-ST-PATRICKS (via CTX-WEB-2026-00006)
+      CTX-WEB-2026-00118: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00008)
+      CTX-WEB-2026-00118: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-KIRKPATRICK-BRIDGE (via CTX-WEB-2026-00008)
+      CTX-WEB-2026-00118: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00118: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00043 (via CTX-WEB-2026-00044)
+      CTX-WEB-2026-00118: Shares 2 non-council entities + 5 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00119: Shares 2 non-council entities + 2 substantive tags with CLUSTER-VEO-MICROMOBILITY-2026Q1 (via CTX-WEB-2026-00093)
+      CTX-WEB-2026-00119: Shares 2 non-council entities + 3 substantive tags with CLUSTER-PEDESTRIAN-SAFETY-2026Q1 (via CTX-WEB-2026-00055)
+      CTX-WEB-2026-00119: Shares 2 non-council entities + 3 substantive tags with CLUSTER-DPW-WINTER-OPS-2025Q4 (via CTX-WEB-2026-00036)
+      CTX-WEB-2026-00119: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-SOUTH-AVE-BRIDGE (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00119: Shares 2 non-council entities + 4 substantive tags with DEDUP-URL-WEB-ST-PATRICKS (via CTX-WEB-2026-00006)
+      CTX-WEB-2026-00119: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00008)
+      CTX-WEB-2026-00119: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-KIRKPATRICK-BRIDGE (via CTX-WEB-2026-00008)
+      CTX-WEB-2026-00119: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00119: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00043 (via CTX-WEB-2026-00044)
+      CTX-WEB-2026-00119: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00121: Shares 2 non-council entities + 3 substantive tags with CLUSTER-PARKS-CAPITAL-2025 (via CTX-WEB-2026-00049)
+      CTX-WEB-2026-00121: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-WATER-2025Q3 (via CTX-WEB-2026-00040)
+      CTX-WEB-2026-00121: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-SOUTH-AVE-BRIDGE (via CTX-WEB-2026-00001)
+      CTX-WEB-2026-00121: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00122: Shares 2 non-council entities + 4 substantive tags with CLUSTER-PARKS-CAPITAL-2025 (via CTX-WEB-2026-00049)
+      CTX-WEB-2026-00122: Shares 2 non-council entities + 2 substantive tags with CLUSTER-VEO-MICROMOBILITY-2026Q1 (via CTX-WEB-2026-00093)
+      CTX-WEB-2026-00122: Shares 2 non-council entities + 3 substantive tags with CLUSTER-PEDESTRIAN-SAFETY-2026Q1 (via CTX-WEB-2026-00055)
+      CTX-WEB-2026-00122: Shares 2 non-council entities + 3 substantive tags with CLUSTER-DPW-WINTER-OPS-2025Q4 (via CTX-WEB-2026-00036)
+      CTX-WEB-2026-00122: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-SOUTH-AVE-BRIDGE (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00122: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00122: Shares 2 non-council entities + 3 substantive tags with DEDUP-URL-WEB-KIRKPATRICK-BRIDGE (via CTX-WEB-2026-00023)
+      CTX-WEB-2026-00122: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00122: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00043 (via CTX-WEB-2026-00044)
+      CTX-WEB-2026-00122: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00123: Shares 3 non-council entities + 3 substantive tags with CLUSTER-VEO-MICROMOBILITY-2026Q1 (via CTX-WEB-2026-00093)
+      CTX-WEB-2026-00123: Shares 3 non-council entities + 2 substantive tags with CLUSTER-PEDESTRIAN-SAFETY-2026Q1 (via CTX-WEB-2026-00055)
+      CTX-WEB-2026-00123: Shares 2 non-council entities + 3 substantive tags with CLUSTER-LEAD-REMEDIATION-2026Q1 (via CTX-WEB-2026-00069)
+      CTX-WEB-2026-00123: Shares 2 non-council entities + 2 substantive tags with CLUSTER-SCHOOL-ZONE-CAMERAS-2025Q4 (via CTX-WEB-2026-00038)
+      CTX-WEB-2026-00123: Shares 2 non-council entities + 3 substantive tags with CLUSTER-DPW-WINTER-OPS-2025Q4 (via CTX-WEB-2026-00035)
+      CTX-WEB-2026-00123: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00043 (via CTX-WEB-2026-00044)
+      CTX-WEB-2026-00123: Shares 2 non-council entities + 2 substantive tags with CLUSTER-ROAD-RECONSTRUCTION-2026Q1 (via CTX-WEB-2026-00110)
+      CTX-WEB-2026-00123: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00113)
+      CTX-WEB-2026-00124: Shares 2 non-council entities + 3 substantive tags with CLUSTER-VEO-MICROMOBILITY-2026Q1 (via CTX-WEB-2026-00093)
+      CTX-WEB-2026-00124: Shares 2 non-council entities + 2 substantive tags with CLUSTER-PEDESTRIAN-SAFETY-2026Q1 (via CTX-WEB-2026-00055)
+      CTX-WEB-2026-00124: Shares 2 non-council entities + 2 substantive tags with CLUSTER-LEAD-REMEDIATION-2026Q1 (via CTX-WEB-2026-00069)
+      CTX-WEB-2026-00124: Shares 2 non-council entities + 3 substantive tags with CLUSTER-SCHOOL-ZONE-CAMERAS-2025Q4 (via CTX-WEB-2026-00039)
+      CTX-WEB-2026-00124: Shares 2 non-council entities + 2 substantive tags with CLUSTER-DPW-WINTER-OPS-2025Q4 (via CTX-WEB-2026-00035)
+      CTX-WEB-2026-00124: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00113)
+      CTX-WEB-2026-00126: Shares 2 non-council entities + 2 substantive tags with CLUSTER-VEO-MICROMOBILITY-2026Q1 (via CTX-WEB-2026-00093)
+      CTX-WEB-2026-00126: Shares 2 non-council entities + 3 substantive tags with CLUSTER-PEDESTRIAN-SAFETY-2026Q1 (via CTX-WEB-2026-00055)
+      CTX-WEB-2026-00126: Shares 2 non-council entities + 4 substantive tags with CLUSTER-DPW-WINTER-OPS-2025Q4 (via CTX-WEB-2026-00036)
+      CTX-WEB-2026-00126: Shares 2 non-council entities + 2 substantive tags with DEDUP-URL-WEB-SOUTH-AVE-BRIDGE (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00126: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00001 (via CTX-WEB-2026-00017)
+      CTX-WEB-2026-00126: Shares 2 non-council entities + 3 substantive tags with DEDUP-URL-WEB-KIRKPATRICK-BRIDGE (via CTX-WEB-2026-00023)
+      CTX-WEB-2026-00126: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00023 (via CTX-WEB-2026-00030)
+      CTX-WEB-2026-00126: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00089 (via CTX-WEB-2026-00090)
+      CTX-WEB-2026-00128: Shares 2 non-council entities + 3 substantive tags with DEDUP-CTX-WEB-2026-00069 (via CTX-WEB-2026-00070)
+      CTX-WEB-2026-00130: Shares 2 non-council entities + 4 substantive tags with CLUSTER-DPW-WINTER-OPS-2025Q4 (via CTX-WEB-2026-00035)
+      CTX-WEB-2026-00131: Shares 2 non-council entities + 2 substantive tags with CLUSTER-ROAD-RECONSTRUCTION-2026Q1 (via CTX-WEB-2026-00094)
+      CTX-WEB-2026-00131: Shares 2 non-council entities + 4 substantive tags with DEDUP-CTX-WEB-2026-00111 (via CTX-WEB-2026-00113)
+      CTX-WEB-2026-00131: Shares 2 non-council entities + 2 substantive tags with DEDUP-CTX-WEB-2026-00131 (via CTX-WEB-2026-00132)
+
+  [7] Unregistered frequent entity: 13 found
+           : Comstock Avenue (location, 8 records)
+           : Jeffrey Hoover (person, 6 records) — Director of Government Partnerships
+           : Paul Kalabufo (person, 6 records) — Operations Manager, Syracuse
+           : Parkside Commons (organization, 6 records)
+           : Jeremy Boyer (person, 5 records)
+           : Greater Syracuse Property Development Corporation (organization, 4 records)
+           : Neil Burke (person, 4 records) — DPW Commissioner; DPW Staff; Fire Department Representative
+           : Rich Trudeau (person, 4 records) — Deputy Chief of Police; First Deputy Chief; SPD First Deputy Chief
+           : JCOM (organization, 4 records)
+           : Ostrom Avenue (location, 4 records)
+           : Brent Axe (person, 4 records)
+           : CNY Central (organization, 3 records)
+           : Office of Communications (organization, 3 records)
+
+  [9] Invalid tag: 204 issues across 163 records
+      CTX-NEWS-2022-00002: Tag 'public-transportation' not in taxonomy
+      CTX-NEWS-2025-00001: Tag 'constituent_pressure' not in taxonomy
+      CTX-NEWS-2025-00001: Tag 'fiscal-pressure' not in taxonomy
+      CTX-NEWS-2025-00003: Tag 'advocacy' not in taxonomy
+      CTX-NEWS-2025-00005: Tag 'procedural' not in taxonomy
+      CTX-NEWS-2025-00007: Tag 'fiscal-sustainability' not in taxonomy
+      CTX-NEWS-2025-00007: Tag 'fund-balance' not in taxonomy
+      CTX-NEWS-2025-00008: Tag 'accountability' not in taxonomy
+      CTX-NEWS-2025-00010: Tag 'use of force' not in taxonomy
+      CTX-NEWS-2025-00011: Tag 'use-of-force' not in taxonomy
+      CTX-NEWS-2025-00012: Tag 'governance' not in taxonomy
+      CTX-NEWS-2025-00018: Tag 'governance' not in taxonomy
+      CTX-NEWS-2025-00019: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2025-00020: Tag 'procedural' not in taxonomy
+      CTX-NEWS-2025-00021: Tag 'fiscal-sustainability' not in taxonomy
+      CTX-NEWS-2025-00024: Tag 'fiscal-analysis' not in taxonomy
+      CTX-NEWS-2025-00024: Tag 'cost-cuts' not in taxonomy
+      CTX-NEWS-2025-00024: Tag 'deficit' not in taxonomy
+      CTX-NEWS-2025-00025: Tag 'fiscal-responsibility' not in taxonomy
+      CTX-NEWS-2025-00027: Tag 'procedural' not in taxonomy
+      CTX-NEWS-2025-00028: Tag 'accountability' not in taxonomy
+      CTX-NEWS-2025-00028: Tag 'procedural' not in taxonomy
+      CTX-NEWS-2025-00029: Tag 'deficit' not in taxonomy
+      CTX-NEWS-2025-00029: Tag 'cuts' not in taxonomy
+      CTX-NEWS-2025-00029: Tag 'jobs' not in taxonomy
+      CTX-NEWS-2025-00030: Tag 'fiscal-year' not in taxonomy
+      CTX-NEWS-2025-00031: Tag 'staffing' not in taxonomy
+      CTX-NEWS-2025-00037: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2025-00039: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2025-00040: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2025-00040: Tag 'procedural' not in taxonomy
+      CTX-NEWS-2025-00041: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2025-00043: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2025-00043: Tag 'procedural' not in taxonomy
+      CTX-NEWS-2025-00047: Tag 'political-infighting' not in taxonomy
+      CTX-NEWS-2025-00048: Tag 'community-community' not in taxonomy
+      CTX-NEWS-2025-00050: Tag 'community-engagement' not in taxonomy
+      CTX-NEWS-2025-00054: Tag 'procedural' not in taxonomy
+      CTX-NEWS-2025-00056: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2025-00056: Tag 'homelessness' not in taxonomy
+      CTX-NEWS-2025-00059: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2025-00060: Tag 'financial-management' not in taxonomy
+      CTX-NEWS-2025-00061: Tag 'oversight' not in taxonomy
+      CTX-NEWS-2025-00062: Tag 'affordable-housing' not in taxonomy
+      CTX-NEWS-2025-00064: Tag 'procedural' not in taxonomy
+      CTX-NEWS-2025-00067: Tag 'election' not in taxonomy
+      CTX-NEWS-2025-00068: Tag 'intervention' not in taxonomy
+      CTX-NEWS-2025-00070: Tag 'constituent_complaints' not in taxonomy
+      CTX-NEWS-2025-00071: Tag 'demolition' not in taxonomy
+      CTX-NEWS-2025-00071: Tag 'property-neglect' not in taxonomy
+      CTX-NEWS-2025-00072: Tag 'community-relations' not in taxonomy
+      CTX-NEWS-2025-00076: Tag 'community-outreach' not in taxonomy
+      CTX-NEWS-2025-00085: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2025-00087: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2025-00087: Tag 'proactive-policing' not in taxonomy
+      CTX-NEWS-2025-00087: Tag 'community-safety' not in taxonomy
+      CTX-NEWS-2025-00089: Tag 'community-community' not in taxonomy
+      CTX-NEWS-2025-00094: Tag 'education' not in taxonomy
+      CTX-NEWS-2025-00095: Tag 'procedural' not in taxonomy
+      CTX-NEWS-2025-00096: Tag 'resident-complaints' not in taxonomy
+      CTX-NEWS-2025-00098: Tag 'community-center' not in taxonomy
+      CTX-NEWS-2025-00100: Tag 'maintenance' not in taxonomy
+      CTX-NEWS-2025-00101: Tag 'crisis' not in taxonomy
+      CTX-NEWS-2025-00102: Tag 'advocacy' not in taxonomy
+      CTX-NEWS-2025-00104: Tag 'community' not in taxonomy
+      CTX-NEWS-2025-00125: Tag 'controversy' not in taxonomy
+      CTX-NEWS-2025-00125: Tag 'election' not in taxonomy
+      CTX-NEWS-2025-00126: Tag 'wildlife' not in taxonomy
+      CTX-NEWS-2025-00131: Tag 'traffic-safety' not in taxonomy
+      CTX-NEWS-2025-00132: Tag 'traffic-enforcement' not in taxonomy
+      CTX-NEWS-2025-00132: Tag 'school-safety' not in taxonomy
+      CTX-NEWS-2025-00135: Tag 'downtown-revitalization' not in taxonomy
+      CTX-NEWS-2025-00135: Tag 'state-programs' not in taxonomy
+      CTX-NEWS-2025-00136: Tag 'litigation' not in taxonomy
+      CTX-NEWS-2025-00137: Tag 'state-programs' not in taxonomy
+      CTX-NEWS-2025-00139: Tag 'litigation' not in taxonomy
+      CTX-NEWS-2025-00139: Tag 'community-stakeholders' not in taxonomy
+      CTX-NEWS-2025-00142: Tag 'affordable-housing' not in taxonomy
+      CTX-NEWS-2025-00143: Tag 'compensation' not in taxonomy
+      CTX-NEWS-2025-00151: Tag 'criminal-justice' not in taxonomy
+      CTX-NEWS-2025-00151: Tag 'youth-services' not in taxonomy
+      CTX-NEWS-2025-00153: Tag 'criminal-justice' not in taxonomy
+      CTX-NEWS-2025-00153: Tag 'youth-services' not in taxonomy
+      CTX-NEWS-2025-00154: Tag 'community-feedback' not in taxonomy
+      CTX-NEWS-2025-00154: Tag 'public-engagement' not in taxonomy
+      CTX-NEWS-2025-00155: Tag 'brownfield-remediation' not in taxonomy
+      CTX-NEWS-2025-00155: Tag 'affordable-housing' not in taxonomy
+      CTX-NEWS-2025-00156: Tag 'criminal-justice' not in taxonomy
+      CTX-NEWS-2025-00156: Tag 'youth' not in taxonomy
+      CTX-NEWS-2025-00156: Tag 'state-programs' not in taxonomy
+      CTX-NEWS-2025-00158: Tag 'compliance' not in taxonomy
+      CTX-NEWS-2025-00164: Tag 'cultural-ties' not in taxonomy
+      CTX-NEWS-2025-00164: Tag 'youth-engagement' not in taxonomy
+      CTX-NEWS-2025-00173: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2025-00173: Tag 'procedural' not in taxonomy
+      CTX-NEWS-2025-00174: Tag 'weather' not in taxonomy
+      CTX-NEWS-2025-00176: Tag 'advocacy' not in taxonomy
+      CTX-NEWS-2025-00178: Tag 'advocacy' not in taxonomy
+      CTX-NEWS-2025-00179: Tag 'election' not in taxonomy
+      CTX-NEWS-2025-00181: Tag 'succession-planning' not in taxonomy
+      CTX-NEWS-2025-00182: Tag 'procedural' not in taxonomy
+      CTX-NEWS-2025-00184: Tag 'community-engagement' not in taxonomy
+      CTX-NEWS-2025-00184: Tag 'fundraising' not in taxonomy
+      CTX-NEWS-2025-00185: Tag 'litigation' not in taxonomy
+      CTX-NEWS-2025-00188: Tag 'homelessness' not in taxonomy
+      CTX-NEWS-2025-00188: Tag 'advocacy' not in taxonomy
+      CTX-NEWS-2025-00189: Tag 'advocacy' not in taxonomy
+      CTX-NEWS-2025-00193: Tag 'homelessness' not in taxonomy
+      CTX-NEWS-2025-00193: Tag 'community-engagement' not in taxonomy
+      CTX-NEWS-2025-00198: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2025-00202: Tag 'education' not in taxonomy
+      CTX-NEWS-2025-00204: Tag 'real-estate' not in taxonomy
+      CTX-NEWS-2025-00205: Tag 'advocacy' not in taxonomy
+      CTX-NEWS-2025-00213: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2025-00215: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2025-00217: Tag 'critical' not in taxonomy
+      CTX-NEWS-2025-00218: Tag 'revenue' not in taxonomy
+      CTX-NEWS-2025-00223: Tag 'community-violence-intervention' not in taxonomy
+      CTX-NEWS-2025-00225: Tag 'brownfield-remediation' not in taxonomy
+      CTX-NEWS-2025-00227: Tag 'governance' not in taxonomy
+      CTX-NEWS-2025-00230: Tag 'state-programs' not in taxonomy
+      CTX-NEWS-2025-00231: Tag 'mixed-income' not in taxonomy
+      CTX-NEWS-2025-00232: Tag 'democracy' not in taxonomy
+      CTX-NEWS-2025-00235: Tag 'property-management' not in taxonomy
+      CTX-NEWS-2025-00236: Tag 'education' not in taxonomy
+      CTX-NEWS-2025-00244: Tag 'health' not in taxonomy
+      CTX-NEWS-2025-00247: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2025-00249: Tag 'crime' not in taxonomy
+      CTX-NEWS-2025-00255: Tag 'crisis-response' not in taxonomy
+      CTX-NEWS-2025-00258: Tag 'use-of-force' not in taxonomy
+      CTX-NEWS-2025-00259: Tag 'constituent_pressure' not in taxonomy
+      CTX-NEWS-2025-00260: Tag 'procedural' not in taxonomy
+      CTX-NEWS-2025-00264: Tag 'community-engagement' not in taxonomy
+      CTX-NEWS-2025-00264: Tag 'charity' not in taxonomy
+      CTX-NEWS-2025-00267: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2025-00268: Tag 'litigation' not in taxonomy
+      CTX-NEWS-2025-00268: Tag 'settlement' not in taxonomy
+      CTX-NEWS-2025-00268: Tag 'risk-management' not in taxonomy
+      CTX-NEWS-2025-00271: Tag 'immigration' not in taxonomy
+      CTX-NEWS-2025-00273: Tag 'education' not in taxonomy
+      CTX-NEWS-2025-00276: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2025-00282: Tag 'advocacy' not in taxonomy
+      CTX-NEWS-2025-00287: Tag 'traffic-enforcement' not in taxonomy
+      CTX-NEWS-2025-00287: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2025-00290: Tag 'constituent_complaints' not in taxonomy
+      CTX-NEWS-2025-00292: Tag 'political_conflict' not in taxonomy
+      CTX-NEWS-2025-00294: Tag 'permits' not in taxonomy
+      CTX-NEWS-2025-00294: Tag 'brownfield-remediation' not in taxonomy
+      CTX-NEWS-2025-00295: Tag 'use-of-force' not in taxonomy
+      CTX-NEWS-2025-00296: Tag 'procedural' not in taxonomy
+      CTX-NEWS-2025-00297: Tag 'advocacy' not in taxonomy
+      CTX-NEWS-2025-00300: Tag 'privacy' not in taxonomy
+      CTX-NEWS-2025-00302: Tag 'litigation' not in taxonomy
+      CTX-NEWS-2025-00304: Tag 'settlement' not in taxonomy
+      CTX-NEWS-2025-00306: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2025-00308: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2025-00310: Tag 'community-engagement' not in taxonomy
+      CTX-NEWS-2025-00311: Tag 'litigation' not in taxonomy
+      CTX-NEWS-2025-00318: Tag 'community-engagement' not in taxonomy
+      CTX-NEWS-2025-00321: Tag 'litigation' not in taxonomy
+      CTX-NEWS-2025-00323: Tag 'downtown-syracuse' not in taxonomy
+      CTX-NEWS-2025-00324: Tag 'fire-ems' not in taxonomy
+      CTX-NEWS-2025-00324: Tag 'parks-recreation' not in taxonomy
+      CTX-NEWS-2025-00324: Tag 'technology-modernization' not in taxonomy
+      CTX-NEWS-2025-00326: Tag 'environmental-remediation' not in taxonomy
+      CTX-NEWS-2025-00327: Tag 'permits' not in taxonomy
+      CTX-NEWS-2025-00328: Tag 'community-engagement' not in taxonomy
+      CTX-NEWS-2025-00330: Tag 'legal-settlement' not in taxonomy
+      CTX-NEWS-2025-00330: Tag 'inspection-oversight' not in taxonomy
+      CTX-NEWS-2025-00332: Tag 'advocacy' not in taxonomy
+      CTX-NEWS-2025-00332: Tag 'schools' not in taxonomy
+      CTX-NEWS-2025-00333: Tag 'safety' not in taxonomy
+      CTX-NEWS-2025-00339: Tag 'advocacy' not in taxonomy
+      CTX-NEWS-2025-00341: Tag 'advocacy' not in taxonomy
+      CTX-NEWS-2025-00344: Tag 'affordable-housing' not in taxonomy
+      CTX-NEWS-2025-00344: Tag 'permits' not in taxonomy
+      CTX-NEWS-2025-00349: Tag 'constituent_pressure' not in taxonomy
+      CTX-NEWS-2025-00350: Tag 'property-neglect' not in taxonomy
+      CTX-NEWS-2025-00356: Tag 'litigation' not in taxonomy
+      CTX-NEWS-2025-00358: Tag 'legal-action' not in taxonomy
+      CTX-NEWS-2025-00359: Tag 'fiscal-discipline' not in taxonomy
+      CTX-NEWS-2025-00361: Tag 'urban-forestry' not in taxonomy
+      CTX-NEWS-2025-00361: Tag 'community-engagement' not in taxonomy
+      CTX-NEWS-2025-00362: Tag 'use-of-force' not in taxonomy
+      CTX-NEWS-2025-00362: Tag 'discipline' not in taxonomy
+      CTX-NEWS-2025-00365: Tag 'communication' not in taxonomy
+      CTX-NEWS-2025-00366: Tag 'youth-violence' not in taxonomy
+      CTX-NEWS-2025-00366: Tag 'community-deterrent' not in taxonomy
+      CTX-NEWS-2025-00377: Tag 'community-community' not in taxonomy
+      CTX-NEWS-2025-00380: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2025-00381: Tag 'advocacy' not in taxonomy
+      CTX-NEWS-2025-00383: Tag 'education' not in taxonomy
+      CTX-NEWS-2025-00389: Tag 'education' not in taxonomy
+      CTX-NEWS-2025-00393: Tag 'public-safety' not in taxonomy
+      CTX-NEWS-2026-00004: Tag 'utility-infrastructure' not in taxonomy
+      CTX-NEWS-2026-00035: Tag 'procedural' not in taxonomy
+      CTX-NEWS-2026-00038: Tag 'procedural' not in taxonomy
+      CTX-WEB-2026-00036: Tag 'public-safety' not in taxonomy
+      CTX-WEB-2026-00048: Tag 'parks-and-recreation' not in taxonomy
+      CTX-WEB-2026-00103: Tag 'waste-management' not in taxonomy
+      CTX-WEB-2026-00115: Tag 'public-safety' not in taxonomy
+      CTX-WEB-2026-00122: Tag 'public-engagement' not in taxonomy
+      CTX-WEB-2026-00129: Tag 'safety' not in taxonomy
+      CTX-WEB-2026-00131: Tag 'fiscal-planning' not in taxonomy
+
+  [12] Unlinked duplicate: 122 issues across 85 records
+      CTX-COUNCIL-2026-00031: Matches dedup criteria with CTX-COUNCIL-2026-00139 but no shared cluster
+      CTX-COUNCIL-2026-00037: Matches dedup criteria with CTX-COUNCIL-2026-00078 but no shared cluster
+      CTX-COUNCIL-2026-00048: Matches dedup criteria with CTX-COUNCIL-2026-00060 but no shared cluster
+      CTX-COUNCIL-2026-00048: Matches dedup criteria with CTX-COUNCIL-2026-00061 but no shared cluster
+      CTX-COUNCIL-2026-00048: Matches dedup criteria with CTX-COUNCIL-2026-00062 but no shared cluster
+      CTX-COUNCIL-2026-00048: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00049: Matches dedup criteria with CTX-COUNCIL-2026-00060 but no shared cluster
+      CTX-COUNCIL-2026-00049: Matches dedup criteria with CTX-COUNCIL-2026-00061 but no shared cluster
+      CTX-COUNCIL-2026-00049: Matches dedup criteria with CTX-COUNCIL-2026-00062 but no shared cluster
+      CTX-COUNCIL-2026-00049: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00050: Matches dedup criteria with CTX-COUNCIL-2026-00060 but no shared cluster
+      CTX-COUNCIL-2026-00050: Matches dedup criteria with CTX-COUNCIL-2026-00061 but no shared cluster
+      CTX-COUNCIL-2026-00050: Matches dedup criteria with CTX-COUNCIL-2026-00062 but no shared cluster
+      CTX-COUNCIL-2026-00050: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00051: Matches dedup criteria with CTX-COUNCIL-2026-00061 but no shared cluster
+      CTX-COUNCIL-2026-00051: Matches dedup criteria with CTX-COUNCIL-2026-00062 but no shared cluster
+      CTX-COUNCIL-2026-00051: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00060: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00060: Matches dedup criteria with CTX-COUNCIL-2026-00115 but no shared cluster
+      CTX-COUNCIL-2026-00060: Matches dedup criteria with CTX-COUNCIL-2026-00116 but no shared cluster
+      CTX-COUNCIL-2026-00060: Matches dedup criteria with CTX-COUNCIL-2026-00117 but no shared cluster
+      CTX-COUNCIL-2026-00061: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00062: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00062: Matches dedup criteria with CTX-COUNCIL-2026-00116 but no shared cluster
+      CTX-COUNCIL-2026-00063: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00075: Matches dedup criteria with CTX-COUNCIL-2026-00114 but no shared cluster
+      CTX-COUNCIL-2026-00075: Matches dedup criteria with CTX-MANUAL-2026-00002 but no shared cluster
+      CTX-NEWS-2025-00002: Matches dedup criteria with CTX-NEWS-2025-00180 but no shared cluster
+      CTX-NEWS-2025-00002: Matches dedup criteria with CTX-NEWS-2025-00235 but no shared cluster
+      CTX-NEWS-2025-00010: Matches dedup criteria with CTX-NEWS-2025-00011 but no shared cluster
+      CTX-NEWS-2025-00017: Matches dedup criteria with CTX-NEWS-2025-00184 but no shared cluster
+      CTX-NEWS-2025-00019: Matches dedup criteria with CTX-NEWS-2025-00021 but no shared cluster
+      CTX-NEWS-2025-00019: Matches dedup criteria with CTX-NEWS-2025-00038 but no shared cluster
+      CTX-NEWS-2025-00031: Matches dedup criteria with CTX-NEWS-2025-00034 but no shared cluster
+      CTX-NEWS-2025-00031: Matches dedup criteria with CTX-NEWS-2025-00037 but no shared cluster
+      CTX-NEWS-2025-00032: Matches dedup criteria with CTX-NEWS-2025-00036 but no shared cluster
+      CTX-NEWS-2025-00032: Matches dedup criteria with CTX-NEWS-2025-00052 but no shared cluster
+      CTX-NEWS-2025-00034: Matches dedup criteria with CTX-NEWS-2025-00037 but no shared cluster
+      CTX-NEWS-2025-00035: Matches dedup criteria with CTX-NEWS-2025-00037 but no shared cluster
+      CTX-NEWS-2025-00036: Matches dedup criteria with CTX-NEWS-2025-00270 but no shared cluster
+      CTX-NEWS-2025-00048: Matches dedup criteria with CTX-NEWS-2025-00264 but no shared cluster
+      CTX-NEWS-2025-00050: Matches dedup criteria with CTX-NEWS-2025-00187 but no shared cluster
+      CTX-NEWS-2025-00052: Matches dedup criteria with CTX-NEWS-2025-00270 but no shared cluster
+      CTX-NEWS-2025-00054: Matches dedup criteria with CTX-NEWS-2025-00270 but no shared cluster
+      CTX-NEWS-2025-00058: Matches dedup criteria with CTX-WEB-2026-00045 but no shared cluster
+      CTX-NEWS-2025-00060: Matches dedup criteria with CTX-NEWS-2025-00224 but no shared cluster
+      CTX-NEWS-2025-00061: Matches dedup criteria with CTX-NEWS-2025-00226 but no shared cluster
+      CTX-NEWS-2025-00061: Matches dedup criteria with CTX-NEWS-2025-00227 but no shared cluster
+      CTX-NEWS-2025-00065: Matches dedup criteria with CTX-NEWS-2025-00308 but no shared cluster
+      CTX-NEWS-2025-00066: Matches dedup criteria with CTX-NEWS-2025-00070 but no shared cluster
+      CTX-NEWS-2025-00066: Matches dedup criteria with CTX-NEWS-2025-00247 but no shared cluster
+      CTX-NEWS-2025-00073: Matches dedup criteria with CTX-NEWS-2025-00191 but no shared cluster
+      CTX-NEWS-2025-00078: Matches dedup criteria with CTX-NEWS-2025-00390 but no shared cluster
+      CTX-NEWS-2025-00107: Matches dedup criteria with CTX-NEWS-2025-00345 but no shared cluster
+      CTX-NEWS-2025-00107: Matches dedup criteria with CTX-NEWS-2025-00375 but no shared cluster
+      CTX-NEWS-2025-00112: Matches dedup criteria with CTX-NEWS-2025-00114 but no shared cluster
+      CTX-NEWS-2025-00112: Matches dedup criteria with CTX-NEWS-2025-00223 but no shared cluster
+      CTX-NEWS-2025-00113: Matches dedup criteria with CTX-NEWS-2025-00223 but no shared cluster
+      CTX-NEWS-2025-00116: Matches dedup criteria with CTX-NEWS-2025-00123 but no shared cluster
+      CTX-NEWS-2025-00117: Matches dedup criteria with CTX-NEWS-2025-00118 but no shared cluster
+      CTX-NEWS-2025-00119: Matches dedup criteria with CTX-NEWS-2025-00240 but no shared cluster
+      CTX-NEWS-2025-00121: Matches dedup criteria with CTX-NEWS-2025-00378 but no shared cluster
+      CTX-NEWS-2025-00122: Matches dedup criteria with CTX-NEWS-2025-00266 but no shared cluster
+      CTX-NEWS-2025-00123: Matches dedup criteria with CTX-NEWS-2025-00124 but no shared cluster
+      CTX-NEWS-2025-00127: Matches dedup criteria with CTX-NEWS-2025-00288 but no shared cluster
+      CTX-NEWS-2025-00127: Matches dedup criteria with CTX-NEWS-2025-00293 but no shared cluster
+      CTX-NEWS-2025-00131: Matches dedup criteria with CTX-NEWS-2025-00132 but no shared cluster
+      CTX-NEWS-2025-00135: Matches dedup criteria with CTX-NEWS-2025-00289 but no shared cluster
+      CTX-NEWS-2025-00143: Matches dedup criteria with CTX-NEWS-2025-00219 but no shared cluster
+      CTX-NEWS-2025-00144: Matches dedup criteria with CTX-NEWS-2025-00219 but no shared cluster
+      CTX-NEWS-2025-00146: Matches dedup criteria with CTX-NEWS-2025-00267 but no shared cluster
+      CTX-NEWS-2025-00148: Matches dedup criteria with CTX-NEWS-2025-00249 but no shared cluster
+      CTX-NEWS-2025-00166: Matches dedup criteria with CTX-NEWS-2025-00393 but no shared cluster
+      CTX-NEWS-2025-00173: Matches dedup criteria with CTX-NEWS-2025-00174 but no shared cluster
+      CTX-NEWS-2025-00180: Matches dedup criteria with CTX-NEWS-2025-00269 but no shared cluster
+      CTX-NEWS-2025-00180: Matches dedup criteria with CTX-NEWS-2025-00296 but no shared cluster
+      CTX-NEWS-2025-00187: Matches dedup criteria with CTX-NEWS-2025-00302 but no shared cluster
+      CTX-NEWS-2025-00198: Matches dedup criteria with CTX-NEWS-2025-00306 but no shared cluster
+      CTX-NEWS-2025-00205: Matches dedup criteria with CTX-NEWS-2025-00216 but no shared cluster
+      CTX-NEWS-2025-00208: Matches dedup criteria with CTX-NEWS-2025-00354 but no shared cluster
+      CTX-NEWS-2025-00208: Matches dedup criteria with CTX-NEWS-2025-00356 but no shared cluster
+      CTX-NEWS-2025-00208: Matches dedup criteria with CTX-NEWS-2025-00358 but no shared cluster
+      CTX-NEWS-2025-00217: Matches dedup criteria with CTX-NEWS-2025-00246 but no shared cluster
+      CTX-NEWS-2025-00219: Matches dedup criteria with CTX-NEWS-2025-00262 but no shared cluster
+      CTX-NEWS-2025-00225: Matches dedup criteria with CTX-NEWS-2025-00294 but no shared cluster
+      CTX-NEWS-2025-00230: Matches dedup criteria with CTX-NEWS-2025-00348 but no shared cluster
+      CTX-NEWS-2025-00241: Matches dedup criteria with CTX-NEWS-2025-00391 but no shared cluster
+      CTX-NEWS-2025-00250: Matches dedup criteria with CTX-NEWS-2025-00278 but no shared cluster
+      CTX-NEWS-2025-00258: Matches dedup criteria with CTX-NEWS-2025-00295 but no shared cluster
+      CTX-NEWS-2025-00258: Matches dedup criteria with CTX-NEWS-2025-00362 but no shared cluster
+      CTX-NEWS-2025-00261: Matches dedup criteria with CTX-WEB-2026-00039 but no shared cluster
+      CTX-NEWS-2025-00266: Matches dedup criteria with CTX-NEWS-2025-00305 but no shared cluster
+      CTX-NEWS-2025-00271: Matches dedup criteria with CTX-NEWS-2025-00302 but no shared cluster
+      CTX-NEWS-2025-00279: Matches dedup criteria with CTX-NEWS-2025-00390 but no shared cluster
+      CTX-NEWS-2025-00280: Matches dedup criteria with CTX-NEWS-2025-00289 but no shared cluster
+      CTX-NEWS-2025-00338: Matches dedup criteria with CTX-NEWS-2025-00351 but no shared cluster
+      CTX-NEWS-2025-00351: Matches dedup criteria with CTX-NEWS-2025-00355 but no shared cluster
+      CTX-NEWS-2025-00351: Matches dedup criteria with CTX-NEWS-2025-00356 but no shared cluster
+      CTX-WEB-2026-00001: Matches dedup criteria with CTX-WEB-2026-00008 but no shared cluster
+      CTX-WEB-2026-00003: Matches dedup criteria with CTX-WEB-2026-00007 but no shared cluster
+      CTX-WEB-2026-00003: Matches dedup criteria with CTX-WEB-2026-00125 but no shared cluster
+      CTX-WEB-2026-00005: Matches dedup criteria with CTX-WEB-2026-00008 but no shared cluster
+      CTX-WEB-2026-00005: Matches dedup criteria with CTX-WEB-2026-00125 but no shared cluster
+      CTX-WEB-2026-00008: Matches dedup criteria with CTX-WEB-2026-00125 but no shared cluster
+      CTX-WEB-2026-00009: Matches dedup criteria with CTX-WEB-2026-00125 but no shared cluster
+      CTX-WEB-2026-00019: Matches dedup criteria with CTX-WEB-2026-00020 but no shared cluster
+      CTX-WEB-2026-00019: Matches dedup criteria with CTX-WEB-2026-00029 but no shared cluster
+      CTX-WEB-2026-00043: Matches dedup criteria with CTX-WEB-2026-00044 but no shared cluster
+      CTX-WEB-2026-00045: Matches dedup criteria with CTX-WEB-2026-00046 but no shared cluster
+      CTX-WEB-2026-00052: Matches dedup criteria with CTX-WEB-2026-00053 but no shared cluster
+      CTX-WEB-2026-00060: Matches dedup criteria with CTX-WEB-2026-00061 but no shared cluster
+      CTX-WEB-2026-00063: Matches dedup criteria with CTX-WEB-2026-00064 but no shared cluster
+      CTX-WEB-2026-00065: Matches dedup criteria with CTX-WEB-2026-00066 but no shared cluster
+      CTX-WEB-2026-00069: Matches dedup criteria with CTX-WEB-2026-00070 but no shared cluster
+      CTX-WEB-2026-00083: Matches dedup criteria with CTX-WEB-2026-00084 but no shared cluster
+      CTX-WEB-2026-00083: Matches dedup criteria with CTX-WEB-2026-00085 but no shared cluster
+      CTX-WEB-2026-00089: Matches dedup criteria with CTX-WEB-2026-00090 but no shared cluster
+      CTX-WEB-2026-00089: Matches dedup criteria with CTX-WEB-2026-00091 but no shared cluster
+      CTX-WEB-2026-00111: Matches dedup criteria with CTX-WEB-2026-00112 but no shared cluster
+      CTX-WEB-2026-00111: Matches dedup criteria with CTX-WEB-2026-00113 but no shared cluster
+      CTX-WEB-2026-00111: Matches dedup criteria with CTX-WEB-2026-00115 but no shared cluster
+      CTX-WEB-2026-00131: Matches dedup criteria with CTX-WEB-2026-00132 but no shared cluster
+
+--- SUMMARY ---
+
+  Auto-fixable:     28 issues
+  Recommendations:  863 issues
+  Errors:           204
+
+--- APPLYING FIXES ---
+
+  Applied 28 fixes across 26 records.
+  Modified files:
+    CTX-COUNCIL-2026-00006.json
+    CTX-COUNCIL-2026-00041.json
+    CTX-COUNCIL-2026-00042.json
+    CTX-COUNCIL-2026-00043.json
+    CTX-COUNCIL-2026-00044.json
+    CTX-COUNCIL-2026-00045.json
+    CTX-COUNCIL-2026-00046.json
+    CTX-COUNCIL-2026-00047.json
+    CTX-NEWS-2019-00001.json
+    CTX-NEWS-2025-00022.json
+    CTX-NEWS-2025-00067.json
+    CTX-NEWS-2025-00083.json
+    CTX-NEWS-2025-00090.json
+    CTX-NEWS-2025-00098.json
+    CTX-NEWS-2025-00110.json
+    CTX-NEWS-2025-00117.json
+    CTX-NEWS-2025-00145.json
+    CTX-NEWS-2025-00157.json
+    CTX-NEWS-2025-00171.json
+    CTX-NEWS-2025-00193.json
+    CTX-NEWS-2025-00236.json
+    CTX-NEWS-2025-00275.json
+    CTX-NEWS-2025-00357.json
+    CTX-NEWS-2025-00381.json
+    CTX-WEB-2026-00018.json
+    CTX-WEB-2026-00038.json
+
+  Schema valid: 732/732
