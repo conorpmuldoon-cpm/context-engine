@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00048",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/schools/2026/04/more-syracuse-kids-are-showing-up-to-school-its-not-a-coincidence.html",
+  "publication_date": "2026-04-14",
+  "capture_date": "2026-04-14T15:57:15Z",
+  "title": "More Syracuse kids are showing up to school. It’s not a coincidence",
+  "summary": "Syracuse City School District achieved an 11% reduction in chronic absenteeism during the previous school year, indicating successful implementation of attendance improvement initiatives. This outcome demonstrates measurable progress on student engagement and may have implications for data systems, constituent services coordination, and potential digital tools supporting school attendance tracking.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "initiative-launch",
+    "data-governance",
+    "equity",
+    "trending",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Education Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse City School District",
+      "type": "organization",
+      "canonical_id": "ORG-SCSD"
+    },
+    {
+      "name": "Emalyn Muzzy",
+      "type": "person",
+      "canonical_id": "PERSON-EMALYN-MUZZY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "District leadership's successful reduction in chronic absenteeism signals commitment to equity and educational outcomes. Positive trend data could support future budget requests and policy initiatives related to student services and attendance infrastructure.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on K-12 education outcomes; limited direct CIO operational relevance unless attendance data systems or digital service platforms were contributing factors",
+    "No budget amounts, specific programs, or technology systems mentioned in excerpt",
+    "Recommend follow-up to determine what digital tools, data analytics platforms, or notification systems supported this improvement",
+    "Potential connection to equity initiatives and constituent services expansion",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

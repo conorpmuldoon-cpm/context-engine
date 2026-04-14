@@ -1,0 +1,78 @@
+2026-04-14 15:57:10,278 [INFO] ============================================================
+2026-04-14 15:57:10,279 [INFO] News Scanner starting
+2026-04-14 15:57:10,280 [INFO] Fetching: Syracuse.com Politics
+2026-04-14 15:57:10,472 [INFO]   50 new articles from Syracuse.com Politics
+2026-04-14 15:57:10,473 [INFO] Fetching: Syracuse.com Government
+2026-04-14 15:57:10,608 [INFO]   0 new articles from Syracuse.com Government
+2026-04-14 15:57:10,608 [INFO] Fetching: Syracuse.com Local
+2026-04-14 15:57:10,744 [INFO]   0 new articles from Syracuse.com Local
+2026-04-14 15:57:10,744 [INFO] Fetching: Syracuse.com Main
+2026-04-14 15:57:10,867 [INFO]   0 new articles from Syracuse.com Main
+2026-04-14 15:57:10,867 [INFO] Total unique articles across all feeds: 50
+2026-04-14 15:57:10,867 [INFO] New articles (not previously processed): 50
+2026-04-14 15:57:10,910 [DEBUG]   Filtered (not relevant): Convenience store chain closing 645 locations as part of major makeover
+2026-04-14 15:57:10,911 [DEBUG]   Filtered (not relevant): Shaq and Kevin Hart’s latest photo has the internet in stitches: ‘He looks like 
+2026-04-14 15:57:10,911 [DEBUG]   Filtered (not relevant): Still need Coachella Weekend 2 tickets? Here’s where to buy
+2026-04-14 15:57:10,912 [DEBUG]   Filtered (not relevant): Former CNY basketball star gets pre-draft workout with NY Knicks
+2026-04-14 15:57:10,912 [DEBUG]   Filtered (not relevant): Syracuse basketball assistant named to new role within Orange program
+2026-04-14 15:57:10,913 [DEBUG]   Filtered (not relevant): Miss Manners: We didn’t get invited to niece’s wedding; would it be ok if we sen
+2026-04-14 15:57:10,913 [DEBUG]   Filtered (not relevant): Update: Quarter-sized hail and damaging winds expected with thunderstorms in Jef
+2026-04-14 15:57:10,914 [DEBUG]   Filtered (not relevant): Miss Manners: My concert attendee etiquette rant is worth the all caps, SO YOU B
+2026-04-14 15:57:10,914 [DEBUG]   Filtered (not relevant): Kate Spade Outlet’s $359 crossbody bag is on sale for 71% off in major online de
+2026-04-14 15:57:10,914 [DEBUG]   Filtered (not relevant): Co-creator of iconic kids’ shows dies at 96
+2026-04-14 15:57:10,915 [DEBUG]   Filtered (not relevant): Experts update Yankees vs. Angels prediction as Kalshi markets react to Judge, T
+2026-04-14 15:57:10,916 [DEBUG]   Filtered (not relevant): Michigan BetMGM Bonus Code CUSE150 secures $150 bonus and $5K+ NBA Play-In promo
+2026-04-14 15:57:10,916 [INFO]   Relevant: More Syracuse kids are showing up to school. It’s not a coincidence
+2026-04-14 15:57:10,916 [DEBUG]     → Entities: Syracuse City School District
+2026-04-14 15:57:15,370 [INFO]     Saved: CTX-NEWS-2026-00048 → CTX-NEWS-2026-00048.json
+2026-04-14 15:57:15,371 [DEBUG]   Filtered (not relevant): How to secure Sombr ‘You Are the Reason Tour’ presale tickets before they sell o
+2026-04-14 15:57:15,371 [DEBUG]   Filtered (not relevant): You can finally try the viral Marvis Toothpaste that influencers love on sale at
+2026-04-14 15:57:15,372 [DEBUG]   Filtered (not relevant): Dear Doctor: Husband’s doctors told him nothing can be done about chronic tinnit
+2026-04-14 15:57:15,372 [DEBUG]   Filtered (not relevant): Trump family deals could open door for future presidents to profit from office
+2026-04-14 15:57:15,373 [DEBUG]   Filtered (not relevant): Joey Spallina will soon share more history with Mike Powell before breaking his 
+2026-04-14 15:57:15,373 [DEBUG]   Filtered (not relevant): Syracuse pothole awards: Where is the biggest, deepest pothole in the city?
+2026-04-14 15:57:15,373 [DEBUG]   Filtered (not relevant): An Earth Day proposal we all can agree on: cutting energy red tape (Guest Opinio
+2026-04-14 15:57:15,374 [DEBUG]   Filtered (not relevant): Judge rejects plea agreement in case of missing Navajo elder Ella Mae Begay
+2026-04-14 15:57:15,375 [DEBUG]   Filtered (not relevant): For second time, Trump seeks to eliminate federal funding for tribal colleges an
+2026-04-14 15:57:15,375 [DEBUG]   Filtered (not relevant): Update: The current severe thunderstorm warning for Finger Lakes will be expirin
+2026-04-14 15:57:15,376 [DEBUG]   Filtered (not relevant): 3 Syracuse-area burgers are in the hunt for New York’s best
+2026-04-14 15:57:15,376 [DEBUG]   Filtered (not relevant): Dear Annie: Over 45 years, silence in our marriage has grown deafening, and my f
+2026-04-14 15:57:15,376 [DEBUG]   Filtered (not relevant): After 17 years in the Syracuse area, a popular party venue for kids is closing
+2026-04-14 15:57:15,377 [DEBUG]   Filtered (not relevant): Distracted driver was adjusting sock in boot when she hit NYS trooper, police sa
+2026-04-14 15:57:15,377 [INFO]   Relevant: These former jails became luxury hotels and housing — could Syracuse’s Justice C
+2026-04-14 15:57:15,377 [DEBUG]     → Entities: Ryan McMahon
+2026-04-14 15:57:18,932 [INFO]     Saved: CTX-NEWS-2026-00049 → CTX-NEWS-2026-00049.json
+2026-04-14 15:57:18,933 [DEBUG]   Filtered (not relevant): Barn fire kills more than 70 animals in Cayuga County (photos)
+2026-04-14 15:57:18,933 [DEBUG]   Filtered (not relevant): Fight reported at Upstate NY mall; 2 women arrested
+2026-04-14 15:57:18,934 [DEBUG]   Filtered (not relevant): How to watch the NBA Play-In Tournament today for free
+2026-04-14 15:57:18,934 [DEBUG]   Filtered (not relevant): Section III girls lacrosse stats leaders by class (through April 13)
+2026-04-14 15:57:18,935 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: The value of ‘trivial pursuits’ goes far beyond just saving
+2026-04-14 15:57:18,935 [DEBUG]   Filtered (not relevant): Harvey Weinstein going on trial again in a New York rape case
+2026-04-14 15:57:18,936 [DEBUG]   Filtered (not relevant): New York high school boys track and field bests: Top season marks for 2026
+2026-04-14 15:57:18,936 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for April 14
+2026-04-14 15:57:18,936 [DEBUG]   Filtered (not relevant): Asking Eric: I don’t want to abandon my toxic alcoholic brother, but I won’t be 
+2026-04-14 15:57:18,937 [DEBUG]   Filtered (not relevant): Easy tomato and stars soup
+2026-04-14 15:57:18,937 [DEBUG]   Filtered (not relevant): Business listings: See 35 new businesses in Central NY (April 14, 2026)
+2026-04-14 15:57:18,938 [DEBUG]   Filtered (not relevant): I-81 detours ahead in Syracuse; more top stories (Good Morning CNY)
+2026-04-14 15:57:18,938 [DEBUG]   Filtered (not relevant): Buffalo Sabres win division for first time in 16 years, ready for NHL playoffs r
+2026-04-14 15:57:18,939 [DEBUG]   Filtered (not relevant): Asking Eric: Chronically online girlfriend has social world where I’m talked abo
+2026-04-14 15:57:18,939 [DEBUG]   Filtered (not relevant): US, Iran begin second round of talks as Strait of Hormuz showdown endures
+2026-04-14 15:57:18,940 [DEBUG]   Filtered (not relevant): Central NY weather: Severe thunderstorms, isolated tornado risk Tuesday, Wednesd
+2026-04-14 15:57:18,940 [DEBUG]   Filtered (not relevant): Teen charged with sexually assaulting and killing stepsister on cruise ship
+2026-04-14 15:57:18,940 [DEBUG]   Filtered (not relevant): Metal band finally in Rock and Roll Hall of Fame after 21 years of eligibility
+2026-04-14 15:57:18,941 [DEBUG]   Filtered (not relevant): CNY Inspirations: Play ball!
+2026-04-14 15:57:18,941 [DEBUG]   Filtered (not relevant): Sam Nordquist's accused killers left a trail of depravity and red flags
+2026-04-14 15:57:18,942 [DEBUG]   Filtered (not relevant): Dear Abby: Regular holiday dinner guests wear their disinterest in cooking like 
+2026-04-14 15:57:18,942 [DEBUG]   Filtered (not relevant): Dear Abby: First job out of college is a nightmare with abusive boss; do I stick
+2026-04-14 15:57:18,944 [INFO] News Scanner Run — 2026-04-14 15:57
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • More Syracuse kids are showing up to school. It’s not a coincidence
+  • These former jails became luxury hotels and housing — could Syracuse’s Justice C
+

@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00049",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/04/these-former-jails-became-luxury-hotels-and-housing-could-syracuses-justice-center-be-next.html",
+  "publication_date": "2026-04-14",
+  "capture_date": "2026-04-14T15:57:18Z",
+  "title": "These former jails became luxury hotels and housing — could Syracuse’s Justice Center be next?",
+  "summary": "Onondaga County Executive Ryan McMahon proposes relocating inmates from the Justice Center, raising questions about the facility's future reuse. The article examines precedents where former jails were converted into luxury hotels and housing, suggesting potential adaptive reuse opportunities for Syracuse's Justice Center if the relocation proceeds.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "facilities",
+    "capital-planning",
+    "economic-development",
+    "housing",
+    "historic-preservation",
+    "intergovernmental",
+    "PROVISIONAL:jail-reuse",
+    "PROVISIONAL:real-estate-development"
+  ],
+  "department_refs": [
+    "Onondaga County Executive Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "County executive championing infrastructure reuse and economic development through adaptive repurposing of public facilities; aligns with modern urban renewal trends.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article frames policy proposal through real estate development lens rather than criminal justice reform",
+    "No specific budget figures or timeline provided in excerpt",
+    "Intergovernmental coordination likely required between county and city for implementation",
+    "CIO relevance: potential digital infrastructure/systems migration if facility conversion occurs",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
