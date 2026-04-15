@@ -1,0 +1,94 @@
+2026-04-15 16:15:07,683 [INFO] === Agenda Scanner  — 2026 ===
+2026-04-15 16:15:07,683 [INFO] Already processed: 8 agendas
+2026-04-15 16:15:07,714 [INFO] Fetching agenda listing page for 2026...
+2026-04-15 16:15:14,145 [INFO]   Found 32 meeting page(s) for 2026
+2026-04-15 16:15:17,743 [DEBUG]   2026-05-13 Common Council Study Session: no agenda PDF found
+2026-04-15 16:15:22,619 [DEBUG]   2026-05-04 Common Council Regular Meeting: no agenda PDF found
+2026-04-15 16:15:25,398 [DEBUG]   2026-05-04 Common Council Study Session: no agenda PDF found
+2026-04-15 16:15:28,806 [DEBUG]   2026-04-29 Common Council Study Session: no agenda PDF found
+2026-04-15 16:15:31,905 [INFO]   2026-04-20 Common Council Regular Meeting (2026-04-20): found book PDF
+2026-04-15 16:15:31,905 [INFO]   Running: parse_agenda.py (book, max-pages=8)
+2026-04-15 16:15:50,464 [DEBUG]     Downloading: https://www.syr.gov/files/sharedassets/public/v/1/departments/common-council/documents/draft-2026-agenda-books/04.20.2026-draft-common-council-agenda-book.pdf
+2026-04-15 16:15:50,464 [DEBUG]       Downloaded (19018 KB)
+2026-04-15 16:15:50,464 [DEBUG]     Running OCR...
+2026-04-15 16:15:50,464 [DEBUG]       Pages: 94 (processing first 8)
+2026-04-15 16:15:50,464 [DEBUG]       OCR page 1/8 done
+2026-04-15 16:15:50,464 [DEBUG]       OCR page 2/8 done
+2026-04-15 16:15:50,464 [DEBUG]       OCR page 3/8 done
+2026-04-15 16:15:50,464 [DEBUG]       OCR page 4/8 done
+2026-04-15 16:15:50,464 [DEBUG]       OCR page 5/8 done
+2026-04-15 16:15:50,464 [DEBUG]       OCR page 6/8 done
+2026-04-15 16:15:50,464 [DEBUG]       OCR page 7/8 done
+2026-04-15 16:15:50,464 [DEBUG]       OCR page 8/8 done
+2026-04-15 16:15:50,465 [DEBUG]     Parsing meeting metadata...
+2026-04-15 16:15:50,465 [DEBUG]       Type: Regular Meeting
+2026-04-15 16:15:50,465 [DEBUG]       Date: 2026-04-20
+2026-04-15 16:15:50,465 [DEBUG]       Time: 1:00 P.M.
+2026-04-15 16:15:50,465 [DEBUG]       Roll call: None present
+2026-04-15 16:15:50,465 [DEBUG]     Parsing agenda items...
+2026-04-15 16:15:50,465 [DEBUG]       Items found: 19
+2026-04-15 16:15:50,465 [DEBUG]     Cross-referencing with entity registry...
+2026-04-15 16:15:50,465 [DEBUG]     Saving outputs...
+2026-04-15 16:15:50,465 [DEBUG]       Saved: outputs/agendas/2026-04-20_agenda.json
+2026-04-15 16:15:50,465 [DEBUG]       Saved: outputs/agendas/2026-04-20_names.json
+2026-04-15 16:15:50,465 [DEBUG]     
+2026-04-15 16:15:50,465 [DEBUG]     --- Summary ---
+2026-04-15 16:15:50,465 [DEBUG]       Meeting:  Regular Meeting — 2026-04-20
+2026-04-15 16:15:50,465 [DEBUG]       Items:    19
+2026-04-15 16:15:50,465 [DEBUG]       Votes:    4 recorded
+2026-04-15 16:15:50,465 [DEBUG]     
+2026-04-15 16:15:50,465 [DEBUG]       Council members detected (11):
+2026-04-15 16:15:50,465 [DEBUG]         - Rita Paniagua (Council President)
+2026-04-15 16:15:50,465 [DEBUG]         - Dr. Chol Majok (Common Councilor At-Large)
+2026-04-15 16:15:50,465 [DEBUG]         - Hanah Ehrenreich (Common Councilor At-Large)
+2026-04-15 16:15:50,465 [DEBUG]         - Helen Hudson (Common Councilor At-Large)
+2026-04-15 16:15:50,465 [DEBUG]         - Donna Moore (Common Councilor, District 2)
+2026-04-15 16:15:50,465 [DEBUG]         - Corey J. Williams (Common Councilor, District 3)
+2026-04-15 16:15:50,465 [DEBUG]         - Patrona Jones-Rowser (Common Councilor, District 4)
+2026-04-15 16:15:50,465 [DEBUG]         - Jimmy Monto (Common Councilor, District 5)
+2026-04-15 16:15:50,465 [DEBUG]         - Michael Collins (Commissioner of Neighborhood and Business Development)
+2026-04-15 16:15:50,465 [DEBUG]         - Joseph Cecile (Former Chief of Police (retired Dec 2025))
+2026-04-15 16:15:50,465 [DEBUG]         - Rachel May (New York State Senator (Syracuse area))
+2026-04-15 16:15:50,465 [DEBUG]     
+2026-04-15 16:15:50,465 [DEBUG]       External people (1):
+2026-04-15 16:15:50,465 [DEBUG]         - Michael Jensen (Item 19)
+2026-04-15 16:15:50,465 [DEBUG]     
+2026-04-15 16:15:50,465 [DEBUG]       New organizations (1) — consider adding to entity registry:
+2026-04-15 16:15:50,465 [DEBUG]         - Esri, on behalf of the Office of Analytics, Performance, & Innovation (Item 17)
+2026-04-15 16:15:50,465 [DEBUG]     
+2026-04-15 16:15:50,465 [DEBUG]       Departments referenced (2):
+2026-04-15 16:15:50,465 [DEBUG]         - Division of Code Enforcement
+2026-04-15 16:15:50,465 [DEBUG]         - Syracuse Fire Department
+2026-04-15 16:15:53,699 [DEBUG]   2026-04-20 Common Council Study Session (2026-04-20): already processed
+2026-04-15 16:15:57,985 [DEBUG]   2026-04-15 Common Council Study Session (2026-04-20): already processed
+2026-04-15 16:16:04,460 [DEBUG]   2026-04-06 Common Council Regular Meeting (2026-04-06): already processed
+2026-04-15 16:16:07,292 [DEBUG]   2026-04-06 Common Council Study Session (2026-04-06): already processed
+2026-04-15 16:16:10,092 [DEBUG]   2026-04-01 Common Council Study Session (2026-04-06): already processed
+2026-04-15 16:16:12,968 [DEBUG]   2026-03-23 Common Council Regular Meeting (2026-03-23): already processed
+2026-04-15 16:16:16,498 [DEBUG]   2026-03-23 Common Council Study Session (2026-03-23): already processed
+2026-04-15 16:16:20,322 [DEBUG]   2026-03-18 Common Council Study Session (2026-03-23): already processed
+2026-04-15 16:16:23,643 [DEBUG]   2026-03-09 Common Council Public Hearing: no agenda PDF found
+2026-04-15 16:16:31,196 [DEBUG]   2026-03-09 Common Council Regular Meeting (2026-03-09): already processed
+2026-04-15 16:16:39,162 [DEBUG]   2026-03-09 Common Council Study Session (2026-03-09): already processed
+2026-04-15 16:16:42,149 [DEBUG]   2026-03-04 Common Council Study Session (2026-03-09): already processed
+2026-04-15 16:16:44,898 [DEBUG]   2026-02-23 Common Council Regular Meeting (2026-02-23): already processed
+2026-04-15 16:16:48,060 [DEBUG]   2026-02-23 Common Council Study Session (2026-02-23): already processed
+2026-04-15 16:16:50,670 [DEBUG]   2026-02-19 Common Council Town Hall: no agenda PDF found
+2026-04-15 16:16:53,343 [DEBUG]   2026-02-18 Common Council Study Session (2026-02-23): already processed
+2026-04-15 16:16:56,319 [DEBUG]   2026-02-09 Common Council Regular Meeting (2026-02-09): already processed
+2026-04-15 16:16:59,121 [DEBUG]   2026-02-09 Common Council Study Session (2026-02-09): already processed
+2026-04-15 16:17:02,046 [DEBUG]   2026-02-04 Common Council Study Session (2026-02-09): already processed
+2026-04-15 16:17:04,868 [DEBUG]   2026-01-26 Common Council Public Hearing: no agenda PDF found
+2026-04-15 16:17:07,538 [DEBUG]   2026-01-26 Common Council Regular Meeting (2026-01-26): already processed
+2026-04-15 16:17:10,322 [DEBUG]   2026-01-26 Common Council Study Session (2026-01-26): already processed
+2026-04-15 16:17:13,266 [DEBUG]   2026-01-21 Common Council Study Session (2026-01-26): already processed
+2026-04-15 16:17:16,117 [DEBUG]   2026-01-12 Common Council Regular Meeting (2026-01-12): already processed
+2026-04-15 16:17:19,215 [DEBUG]   2026-01-12 Common Council Study Session (2026-01-12): already processed
+2026-04-15 16:17:22,144 [DEBUG]   2026-01-07 Common Council Study Session (2026-01-12): already processed
+2026-04-15 16:17:25,011 [DEBUG]   2026-01-05 Common Council Organizational Meeting (2026-01-05): already processed
+2026-04-15 16:17:25,012 [INFO] 
+==================================================
+2026-04-15 16:17:25,012 [INFO] AGENDA SCANNER SUMMARY 
+2026-04-15 16:17:25,012 [INFO]   Meeting pages checked: 32
+2026-04-15 16:17:25,012 [INFO]   New agendas parsed: 1
+2026-04-15 16:17:25,012 [INFO]   Skipped (already processed or no PDF): 31
