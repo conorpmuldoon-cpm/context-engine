@@ -1,0 +1,78 @@
+2026-04-15 15:54:47,942 [INFO] ============================================================
+2026-04-15 15:54:47,942 [INFO] News Scanner starting
+2026-04-15 15:54:47,943 [INFO] Fetching: Syracuse.com Politics
+2026-04-15 15:54:49,293 [INFO]   50 new articles from Syracuse.com Politics
+2026-04-15 15:54:49,293 [INFO] Fetching: Syracuse.com Government
+2026-04-15 15:54:49,530 [INFO]   0 new articles from Syracuse.com Government
+2026-04-15 15:54:49,530 [INFO] Fetching: Syracuse.com Local
+2026-04-15 15:54:49,727 [INFO]   0 new articles from Syracuse.com Local
+2026-04-15 15:54:49,727 [INFO] Fetching: Syracuse.com Main
+2026-04-15 15:54:49,939 [INFO]   0 new articles from Syracuse.com Main
+2026-04-15 15:54:49,940 [INFO] Total unique articles across all feeds: 50
+2026-04-15 15:54:49,940 [INFO] New articles (not previously processed): 50
+2026-04-15 15:54:49,986 [DEBUG]   Filtered (not relevant): New Buffalo Bills stadium to set global record with seven sensory-friendly rooms
+2026-04-15 15:54:49,986 [DEBUG]   Filtered (not relevant): Hochul’s Bolstering Biotech Initiative supports cures, innovation, jobs (Your Le
+2026-04-15 15:54:49,987 [DEBUG]   Filtered (not relevant): After decades behind the counter, longtime server opens Lakeland Diner
+2026-04-15 15:54:49,987 [DEBUG]   Filtered (not relevant): Miss Manners: Friend loves to tell me she’s ‘worried about me’ and I can’t get h
+2026-04-15 15:54:49,988 [DEBUG]   Filtered (not relevant): Warm cherry skillet cake
+2026-04-15 15:54:49,989 [DEBUG]   Filtered (not relevant): ‘It’s even scarier’: Autism moms on children becoming adults (Enable: The Disabi
+2026-04-15 15:54:49,989 [DEBUG]   Filtered (not relevant): ‘We’re working to get good bigs’: 4 quotes from Aiden Tobiason that will resonat
+2026-04-15 15:54:49,990 [DEBUG]   Filtered (not relevant): Target slashes the price of Ray-Ban Meta Wayfarer sunglasses in rare 25% off dea
+2026-04-15 15:54:49,991 [DEBUG]   Filtered (not relevant): Miss Manners: Hosts kept it discourteously cold inside, but it feels rude for me
+2026-04-15 15:54:49,991 [DEBUG]   Filtered (not relevant): Girl obsessed with Columbine, Sandy Hook wanted to shoot up Central NY middle sc
+2026-04-15 15:54:49,991 [DEBUG]   Filtered (not relevant): Popular NYC lunch spot opens first Upstate NY location with $5 specials
+2026-04-15 15:54:49,992 [DEBUG]   Filtered (not relevant): 2 Section III teams ranked No. 1 in 1st baseball state rankings
+2026-04-15 15:54:49,993 [DEBUG]   Filtered (not relevant): Sixers vs. Magic: Experts alter NBA Play-In prediction as Kalshi Markets react t
+2026-04-15 15:54:49,993 [DEBUG]   Filtered (not relevant): Dear Doctor: Dad’s doctor has the nerve to give him dietary restrictions at the 
+2026-04-15 15:54:49,994 [INFO]   Relevant: Syracuse University Chancellor Kent Syverud diagnosed with brain cancer, steps d
+2026-04-15 15:54:49,994 [DEBUG]     → Entities: Syracuse University
+2026-04-15 15:54:53,232 [INFO]     Saved: CTX-NEWS-2026-00050 → CTX-NEWS-2026-00050.json
+2026-04-15 15:54:53,232 [DEBUG]   Filtered (not relevant): Dear Doctor: I built a caffeine addiction with soda my whole life; now I’m told 
+2026-04-15 15:54:53,233 [DEBUG]   Filtered (not relevant): Walmart restocks the viral Porch Goose that shoppers are obsessed with, but stoc
+2026-04-15 15:54:53,234 [DEBUG]   Filtered (not relevant): Prepare for strong thunderstorms in Mohawk Valley Wednesday morning — gusts to h
+2026-04-15 15:54:53,234 [DEBUG]   Filtered (not relevant): Man, 71, accused of abusing girl says he did nothing wrong: ‘We fell in love’
+2026-04-15 15:54:53,235 [DEBUG]   Filtered (not relevant): NHL star from Baldwinsville, donates $50K to hospital that cared for newborn son
+2026-04-15 15:54:53,235 [DEBUG]   Filtered (not relevant): Those viral soft-serve margaritas have finally landed in Syracuse
+2026-04-15 15:54:53,235 [DEBUG]   Filtered (not relevant): Weather alert for strong thunderstorms and gusty winds in parts of Upstate NY We
+2026-04-15 15:54:53,236 [DEBUG]   Filtered (not relevant): For second time, Trump seeks to eliminate federal funding for tribal colleges an
+2026-04-15 15:54:53,236 [DEBUG]   Filtered (not relevant): Syracuse’s newest transfer on his decision: ‘It was just like love at first sigh
+2026-04-15 15:54:53,237 [DEBUG]   Filtered (not relevant): Dear Annie: Friend reveals her darkest secret; now I feel burdened with weight o
+2026-04-15 15:54:53,237 [DEBUG]   Filtered (not relevant): Section III baseball hitting leaders by class (through April 14)
+2026-04-15 15:54:53,238 [DEBUG]   Filtered (not relevant): Tax Day freebies: How to get free food, more deals today
+2026-04-15 15:54:53,238 [DEBUG]   Filtered (not relevant): Dear Annie: Behind in-laws polished charm is a steady drip of cutting remarks to
+2026-04-15 15:54:53,239 [DEBUG]   Filtered (not relevant): Say Yes is an investment in Syracuse’s future. It’s paying off (Your Letters)
+2026-04-15 15:54:53,239 [DEBUG]   Filtered (not relevant): AG secures $350K settlement from online furniture store based in NY
+2026-04-15 15:54:53,240 [DEBUG]   Filtered (not relevant): Jury convicts Upstate NY man who strangled his significant other’s puppy
+2026-04-15 15:54:53,240 [DEBUG]   Filtered (not relevant): Major retailer redesigns store brand packaging to reflect changing shopping habi
+2026-04-15 15:54:53,241 [DEBUG]   Filtered (not relevant): Upstate NY man sentenced for stealing hundreds of checks worth $516K from USPS m
+2026-04-15 15:54:53,241 [DEBUG]   Filtered (not relevant): 1 Central NY school sees math scores jump more than 20 points: See data for all
+2026-04-15 15:54:53,242 [DEBUG]   Filtered (not relevant): In addition to Liverpool, two other CNY school districts are facing layoffs
+2026-04-15 15:54:53,242 [DEBUG]   Filtered (not relevant): Section III baseball pitching leaders (through April 14)
+2026-04-15 15:54:53,242 [DEBUG]   Filtered (not relevant): BTS Ticketmaster requests are closed: What to do if you missed out
+2026-04-15 15:54:53,243 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: Yes, you really can have the same bar of soap for 10 years 
+2026-04-15 15:54:53,244 [DEBUG]   Filtered (not relevant): Wife of NY man who shot lost DoorDash driver admits deleting videos from doorbel
+2026-04-15 15:54:53,244 [INFO]   Relevant: Biden returns to Syracuse University; more top stories (Good Morning CNY)
+2026-04-15 15:54:53,244 [DEBUG]     → Entities: Syracuse University
+2026-04-15 15:54:57,070 [INFO]     Saved: CTX-NEWS-2026-00051 → CTX-NEWS-2026-00051.json
+2026-04-15 15:54:57,071 [DEBUG]   Filtered (not relevant): CNY 8th grader has brush with fame on set of hot Hulu flick ‘Pizza Movie’
+2026-04-15 15:54:57,071 [DEBUG]   Filtered (not relevant): Police blotter: See 243 new arrests added (April 15, 2026)
+2026-04-15 15:54:57,072 [DEBUG]   Filtered (not relevant): Asking Eric: Daughter’s wealthy friends put her up in $1,200 Airbnb, then stick 
+2026-04-15 15:54:57,073 [DEBUG]   Filtered (not relevant): Mustard-braised pork
+2026-04-15 15:54:57,073 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for April 15
+2026-04-15 15:54:57,074 [DEBUG]   Filtered (not relevant): Lysander neighbors aim to stop developer’s multibillion-dollar data center
+2026-04-15 15:54:57,074 [DEBUG]   Filtered (not relevant): Many Americans are turning to AI for health advice, polls show
+2026-04-15 15:54:57,074 [DEBUG]   Filtered (not relevant): Thunderstorm risk in Central NY: What to expect Wednesday, Thursday
+2026-04-15 15:54:57,075 [DEBUG]   Filtered (not relevant): Asking Eric: Brother has the nerve to make my destination wedding about proposin
+2026-04-15 15:54:57,075 [DEBUG]   Filtered (not relevant): State Police release sketch in 1980 Upstate NY homicide cold case
+2026-04-15 15:54:57,076 [INFO] News Scanner Run — 2026-04-15 15:54
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Syracuse University Chancellor Kent Syverud diagnosed with brain cancer, steps d
+  • Biden returns to Syracuse University; more top stories (Good Morning CNY)
+

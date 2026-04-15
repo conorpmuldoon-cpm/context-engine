@@ -1,0 +1,47 @@
+{
+  "record_id": "CTX-NEWS-2026-00050",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/syracuse-university/2026/04/syracuse-university-chancellor-kent-syverud-diagnosed-with-brain-cancer-steps-down.html",
+  "publication_date": "2026-04-15",
+  "capture_date": "2026-04-15T15:54:53Z",
+  "title": "Syracuse University Chancellor Kent Syverud diagnosed with brain cancer, steps down",
+  "summary": "Syracuse University Chancellor Kent Syverud announced a brain cancer diagnosis and immediate resignation. While this is a significant leadership change at a major local institution, it has limited direct operational impact on City of Syracuse government unless coordinated emergency services or intergovernmental support is required.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Kent Syverud",
+      "type": "person",
+      "canonical_id": "PERSON-KENT-SYVERUD"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns private institution leadership, not City government",
+    "No direct fiscal, operational, or policy implications for City of Syracuse identified",
+    "Potential secondary relevance: workforce development, economic development partnerships if successor impacts university-city collaboration",
+    "No City departments, budgets, or services mentioned",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

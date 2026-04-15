@@ -1,0 +1,52 @@
+{
+  "record_id": "CTX-NEWS-2026-00051",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/04/biden-returns-to-syracuse-university-more-top-stories-good-morning-cny-for-april-15.html",
+  "publication_date": "2026-04-15",
+  "capture_date": "2026-04-15T15:54:57Z",
+  "title": "Biden returns to Syracuse University; more top stories (Good Morning CNY)",
+  "summary": "News brief announcing President Biden's return visit to Syracuse University. Limited substantive city governance content; primarily a newsletter header for local news aggregation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "trending"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIV"
+    },
+    {
+      "name": "Joe Biden",
+      "type": "person",
+      "canonical_id": "PERSON-JOE-BIDEN"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Presidential visit to Syracuse University may indicate federal attention to regional higher education or economic development priorities",
+    "confidence": "low"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily a newsletter header/announcement with minimal substantive content provided",
+    "No direct municipal governance, budget, or departmental implications evident from excerpt",
+    "URL suggests this is part of 'Good Morning CNY' daily news roundup; full content of Biden story not included in provided text",
+    "No dollar amounts, legislation, or policy changes mentioned",
+    "Recommend obtaining full article text for complete analysis if presidential visit impacts city planning or economic development strategy",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
