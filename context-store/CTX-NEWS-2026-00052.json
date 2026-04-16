@@ -1,0 +1,41 @@
+{
+  "record_id": "CTX-NEWS-2026-00052",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/04/faculty-nutrition-lives-on-at-syracuse-university-your-letters.html",
+  "publication_date": "2026-04-16",
+  "capture_date": "2026-04-16T16:57:02Z",
+  "title": "Faculty: Nutrition lives on at Syracuse University (Your Letters)",
+  "summary": "Opinion letter regarding nutrition program continuation at Syracuse University. This piece addresses academic program retention at a major regional institution but lacks direct relevance to City of Syracuse municipal operations, CIO priorities, or city government services.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:higher-education"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIV"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is opinion/letters section content focused on university academic programming, not city government operations",
+    "No city services, municipal budget, infrastructure, or CIO-relevant digital/IT initiatives detected",
+    "Content appears misrouted for municipal innovation office context; better suited for higher education or constituent relations channels",
+    "No actionable intelligence for city leadership or innovation strategy",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
