@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00053",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangelacrosse/2026/04/syracuse-mens-lacrosse-set-to-face-a-colgate-team-that-creates-complete-chaos.html",
+  "publication_date": "2026-04-17",
+  "capture_date": "2026-04-17T15:41:39Z",
+  "title": "Syracuse men’s lacrosse set to face a Colgate team  that ‘creates complete chaos’",
+  "summary": "Sports coverage article announcing Syracuse University men's lacrosse team's non-conference matchup against Colgate Raiders. Not relevant to City of Syracuse municipal innovation operations or policy.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Colgate University",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is collegiate sports coverage unrelated to municipal government operations",
+    "No city policy, budget, infrastructure, or service delivery content detected",
+    "Entity 'Syracuse' refers to geographic location only; no Syracuse city government involvement",
+    "Recommend filtering out sports coverage in future submissions to CIO context engine",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

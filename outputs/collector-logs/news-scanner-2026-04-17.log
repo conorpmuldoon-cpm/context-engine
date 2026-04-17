@@ -1,0 +1,76 @@
+2026-04-17 15:41:35,491 [INFO] ============================================================
+2026-04-17 15:41:35,491 [INFO] News Scanner starting
+2026-04-17 15:41:35,492 [INFO] Fetching: Syracuse.com Politics
+2026-04-17 15:41:35,958 [INFO]   50 new articles from Syracuse.com Politics
+2026-04-17 15:41:35,958 [INFO] Fetching: Syracuse.com Government
+2026-04-17 15:41:36,160 [INFO]   0 new articles from Syracuse.com Government
+2026-04-17 15:41:36,160 [INFO] Fetching: Syracuse.com Local
+2026-04-17 15:41:36,374 [INFO]   0 new articles from Syracuse.com Local
+2026-04-17 15:41:36,374 [INFO] Fetching: Syracuse.com Main
+2026-04-17 15:41:36,567 [INFO]   0 new articles from Syracuse.com Main
+2026-04-17 15:41:36,567 [INFO] Total unique articles across all feeds: 50
+2026-04-17 15:41:36,567 [INFO] New articles (not previously processed): 50
+2026-04-17 15:41:36,621 [DEBUG]   Filtered (not relevant): Not your average traffic stop: Trooper helps rescue bear cub found on Oneida Cou
+2026-04-17 15:41:36,621 [DEBUG]   Filtered (not relevant): BTS in Tampa: Cheap ‘Arirang’ tour tickets to US opening nights at Raymond James
+2026-04-17 15:41:36,622 [DEBUG]   Filtered (not relevant): Music festival cuts ticket prices in half, early buyers complain: ‘This isn’t co
+2026-04-17 15:41:36,622 [DEBUG]   Filtered (not relevant): Where to watch Mets vs. Cubs today: MLB free live stream
+2026-04-17 15:41:36,623 [DEBUG]   Filtered (not relevant): Canjeero (sourdough pancake)
+2026-04-17 15:41:36,623 [DEBUG]   Filtered (not relevant): Miss Manners: Casual conversation has become a waking nightmare after sudden dea
+2026-04-17 15:41:36,624 [DEBUG]   Filtered (not relevant): This beloved park that made the Adirondacks accessible to all won’t open this su
+2026-04-17 15:41:36,624 [DEBUG]   Filtered (not relevant): New Syracuse movie puts a twist on American High: See first look at 'Never Chang
+2026-04-17 15:41:36,624 [DEBUG]   Filtered (not relevant): Syracuse seafood restaurant to expand with second CNY location
+2026-04-17 15:41:36,625 [DEBUG]   Filtered (not relevant): Miss Manners: Toddler’s toe-tapping kicks off a cold war between neighbors, but 
+2026-04-17 15:41:36,625 [DEBUG]   Filtered (not relevant): Former Syracuse women’s basketball player headed to Atlantic-10
+2026-04-17 15:41:36,626 [DEBUG]   Filtered (not relevant): Hochul wants to ban masked officers, limit ICE cooperation in New York
+2026-04-17 15:41:36,626 [DEBUG]   Filtered (not relevant): Metal band to skip Rock and Roll Hall of Fame induction ceremony
+2026-04-17 15:41:36,627 [DEBUG]   Filtered (not relevant): BetMGM Bonus Code CUSE150 secures $150 bonus and $5K+ NBA promo in MA and PA
+2026-04-17 15:41:36,627 [DEBUG]   Filtered (not relevant): Dear Doctor: Struggling to come to terms with losing my son due to this extremel
+2026-04-17 15:41:36,628 [DEBUG]   Filtered (not relevant): Walmart’s ‘Overall Pick’ Skylight Calendar is seeing a rare deal just ahead of M
+2026-04-17 15:41:36,628 [DEBUG]   Filtered (not relevant): New York loses $73.5M in federal funds over immigrant CDL dispute
+2026-04-17 15:41:36,629 [DEBUG]   Filtered (not relevant): Company news: Turning Stone announces promotions, new hires for $370M expansion
+2026-04-17 15:41:36,629 [DEBUG]   Filtered (not relevant): When rules change overnight, Fair Haven property owners pay the price (Your Lett
+2026-04-17 15:41:36,629 [DEBUG]   Filtered (not relevant): The parking lot cameras you ignore every day may be tracking immigrants for ICE
+2026-04-17 15:41:36,630 [DEBUG]   Filtered (not relevant): Buller turns to ag industry, influential friends to fuel campaign against Mannio
+2026-04-17 15:41:36,630 [DEBUG]   Filtered (not relevant): Dear Annie: Am I overreacting to wife’s pot-smoking revelation, or am I right to
+2026-04-17 15:41:36,631 [DEBUG]   Filtered (not relevant): Pop star abruptly cancels tour ahead of new album
+2026-04-17 15:41:36,631 [DEBUG]   Filtered (not relevant): Tiny Upstate NY town gets hit by second tornado in just over 2 weeks
+2026-04-17 15:41:36,632 [DEBUG]   Filtered (not relevant): Developer claims Syracuse suburb is trying ‘sabotage’ proposed Goodwill store al
+2026-04-17 15:41:36,632 [DEBUG]   Filtered (not relevant): Dear Annie: Friend insists on splitting the bill evenly, but she orders triple w
+2026-04-17 15:41:36,633 [DEBUG]   Filtered (not relevant): Upstate NY judge fights removal over the use of the ‘n-word’
+2026-04-17 15:41:36,633 [DEBUG]   Filtered (not relevant): Iconic TV shopping network headed for bankruptcy
+2026-04-17 15:41:36,634 [DEBUG]   Filtered (not relevant): Syracuse Sandwiches: This convenience store sandwich creates a line out the door
+2026-04-17 15:41:36,634 [DEBUG]   Filtered (not relevant): Syracuse.com’s flag football Game of the Week is live tonight: Syracuse East at 
+2026-04-17 15:41:36,634 [DEBUG]   Filtered (not relevant): Section III flag football stat leaders (through April 15)
+2026-04-17 15:41:36,635 [DEBUG]   Filtered (not relevant): Syracuse man’s viral resume landed him on ‘Jimmy Fallon.’ 2 months later, he was
+2026-04-17 15:41:36,635 [DEBUG]   Filtered (not relevant): Indicted: See 28 indictments for March 2026, charges include manslaughter
+2026-04-17 15:41:36,635 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for April 17
+2026-04-17 15:41:36,636 [DEBUG]   Filtered (not relevant): Asking Eric: I am reliant mobility devices; here’s how I keep from feeling self-
+2026-04-17 15:41:36,637 [DEBUG]   Filtered (not relevant): Roasted tomato and onion frittata
+2026-04-17 15:41:36,637 [INFO]   Relevant: Syracuse men’s lacrosse set to face a Colgate team  that ‘creates complete chaos
+2026-04-17 15:41:36,637 [DEBUG]     → Entities: Syracuse University
+2026-04-17 15:41:39,670 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-04-17 15:41:39,758 [INFO]     Saved: CTX-NEWS-2026-00053 → CTX-NEWS-2026-00053.json
+2026-04-17 15:41:39,758 [DEBUG]   Filtered (not relevant): New owners, plans for iconic Syracuse towers (Good Morning CNY)
+2026-04-17 15:41:39,759 [DEBUG]   Filtered (not relevant): Dinosaur Bar-B-Que closing another location after 15 years
+2026-04-17 15:41:39,759 [DEBUG]   Filtered (not relevant): Overheard at syracuse.com’s All-CNY winter photo shoot (Day 2): ‘The first swipe
+2026-04-17 15:41:39,760 [DEBUG]   Filtered (not relevant): Asking Eric: Boyfriend’s daughter has challenging life; it’s starting to interfe
+2026-04-17 15:41:39,760 [DEBUG]   Filtered (not relevant): Central NY weekend weather: From 70s to snow showers in 24 hours
+2026-04-17 15:41:39,761 [DEBUG]   Filtered (not relevant): Hit singer arrested on suspicion of killing a 14-year-old girl
+2026-04-17 15:41:39,761 [DEBUG]   Filtered (not relevant): ICE acting director Todd Lyons is resigning, DHS says
+2026-04-17 15:41:39,762 [DEBUG]   Filtered (not relevant): Metal band to skip Rock and Roll Hall of Fame induction ceremony
+2026-04-17 15:41:39,762 [DEBUG]   Filtered (not relevant): Upstate NY teen rescued from river after jumping off bridge
+2026-04-17 15:41:39,762 [DEBUG]   Filtered (not relevant): Popular beverage brand to make major change after 60 years
+2026-04-17 15:41:39,763 [DEBUG]   Filtered (not relevant): Dear Abby: Friend escaped abusive ex once, now he’s pressuring her to move back 
+2026-04-17 15:41:39,763 [DEBUG]   Filtered (not relevant): House of the Week: Three-story Camillus home has an observatory, ‘party room,’ a
+2026-04-17 15:41:39,764 [DEBUG]   Filtered (not relevant): Dear Abby: Husband’s online shopping is addictive, impulsive, and utterly useles
+2026-04-17 15:41:39,765 [INFO] News Scanner Run — 2026-04-17 15:41
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Syracuse men’s lacrosse set to face a Colgate team  that ‘creates complete chaos
+
