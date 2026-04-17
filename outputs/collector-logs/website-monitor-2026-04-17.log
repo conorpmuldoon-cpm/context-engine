@@ -1,0 +1,25 @@
+2026-04-17 15:43:17,409 [INFO] ============================================================
+2026-04-17 15:43:17,409 [INFO] Website Monitor starting
+2026-04-17 15:43:19,199 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-04-17 15:43:19,199 [INFO]   Navigating to https://www.syr.gov/News
+2026-04-17 15:43:23,636 [INFO]   Found 10 article links in News
+2026-04-17 15:43:28,636 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-04-16-Mayors-Office-News-1PM
+2026-04-17 15:43:40,767 [WARNING]     Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-04-17 15:43:40,778 [INFO]     Saved: CTX-WEB-2026-00133 → CTX-WEB-2026-00133.json
+2026-04-17 15:43:40,779 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-04-17 15:43:40,779 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-04-17 15:43:44,186 [INFO]   Found 0 article links in Announcements
+2026-04-17 15:43:49,187 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-04-17 15:43:49,187 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-04-17 15:43:52,205 [INFO]   Found 0 article links in Public Notices
+2026-04-17 15:43:57,244 [INFO] Website Monitor Run — 2026-04-17 15:43
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • Mayor Owens Announces Closure of Stores Engaging in Illegal Activity
+

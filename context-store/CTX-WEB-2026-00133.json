@@ -1,0 +1,71 @@
+{
+  "record_id": "CTX-WEB-2026-00133",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-04-16-Mayors-Office-News-1PM",
+  "publication_date": "2026-04-16",
+  "capture_date": "2026-04-17T15:43:40Z",
+  "title": "Mayor Owens Announces Closure of Stores Engaging in Illegal Activity",
+  "summary": "Mayor Owens announced the City won all nine Article 78 lawsuits challenging Code Enforcement store closures for illegal activity (unlicensed cannabis sales, tobacco to minors, synthetic drugs). The court rulings affirm the City's authority to close non-compliant properties without prior court orders and validate immediate closure procedures when imminent public health threats exist. This represents a significant enforcement victory across seven properties citywide.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "code-enforcement",
+    "public-safety",
+    "police",
+    "fire",
+    "announcement",
+    "resolved",
+    "leadership-change",
+    "transparency",
+    "residents",
+    "emergency-services"
+  ],
+  "department_refs": [
+    "Department of Law",
+    "Division of Code Enforcement",
+    "Syracuse Police Department",
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Sue Katzoff",
+      "type": "person",
+      "canonical_id": "PERSON-SUE-KATZOFF"
+    },
+    {
+      "name": "Onondaga County Supreme Court",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COURT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Mayor Owens champions aggressive code enforcement and intergovernmental coordination as public safety wins. Emphasizes immediate action capability and departmental collaboration effectiveness.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Date anomaly: Press release dated 2026-04-16 references March 17, 2026 court ruling (9 days prior), consistent internal timeline.",
+    "Seven properties mentioned by street location but not all individually named except 1001 Park Street.",
+    "Corporation Counsel Sue Katzoff identified as Department of Law head.",
+    "No budget amounts or resource allocations specified despite reference to 'significant resources'.",
+    "Interagency coordination span: Code Enforcement, Law, Fire, Police suggests CIO may have IT/data infrastructure role in coordinating enforcement operations.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}
