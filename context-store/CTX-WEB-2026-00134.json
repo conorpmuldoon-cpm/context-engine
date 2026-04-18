@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-WEB-2026-00134",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Parks-News/Parks-2026/2026-04-16-Parks-News",
+  "publication_date": "2026-04-16",
+  "capture_date": "2026-04-18T14:29:07Z",
+  "title": "2026 Big Rig Day at Burnet Park",
+  "summary": "The City of Syracuse Parks and Recreation Department will host Big Rig Day on May 16, 2026 at Burnet Park, a free community event featuring vehicles from city departments (Police, Fire, Public Works, Parks, Water) and local organizations. The event includes a sensory-friendly hour, carnival games, arts and crafts, and community resource information; Parks Commissioner Syeisha Byrd emphasizes cross-departmental collaboration and community engagement.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "parks",
+    "announcement",
+    "residents",
+    "community-engagement",
+    "PROVISIONAL:family-events",
+    "recurring"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs",
+    "Syracuse Police Department",
+    "Syracuse Fire Department",
+    "Department of Public Works",
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syeisha Byrd",
+      "type": "person",
+      "canonical_id": "PERSON-SYEISHA-BYRD"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Henry's Hen House Concessions",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Parks Commissioner publicly champions interdepartmental collaboration and community-centered programming; signals departmental coordination capability and youth/family engagement priority.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00133"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown; press inquiry contact provided (press@syr.gov)",
+    "Event date is May 16, 2026 (Saturday); publication date April 16, 2026",
+    "No budget or cost data provided; event is free to public",
+    "Accessibility noted: sensory hour accommodation (11am-12pm, muted horns/sirens)",
+    "No dollar amounts or procurement data detected",
+    "URL structure suggests standard Parks & Recreation news flow",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'community-engagement' not in taxonomy",
+    "Potential duplicate of CTX-WEB-2026-00133 — linked for review"
+  ],
+  "last_relevance_update": null
+}
