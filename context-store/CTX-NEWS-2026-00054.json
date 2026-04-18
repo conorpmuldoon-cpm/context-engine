@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2026-00054",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/04/syracuse-police-just-got-sweet-revenge-against-the-fire-department-in-charity-basketball-showdown-photos.html",
+  "publication_date": "2026-04-18",
+  "capture_date": "2026-04-18T14:25:32Z",
+  "title": "Syracuse Police get sweet revenge against the Fire Department in charity basketball showdown (photos)",
+  "summary": "Syracuse Police and Fire departments competed in the second annual 'Bravest vs. Finest' charity basketball game to benefit the United Way of Central New York. The event represents interagency collaboration and community engagement, with the Police Department securing victory.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "emergency-services",
+    "police",
+    "fire",
+    "community-community",
+    "one-time"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "United Way of Central New York",
+      "type": "organization",
+      "canonical_id": "ORG-UWCNY"
+    },
+    {
+      "name": "Scott Schild",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Interagency cooperation and community engagement through charity event demonstrates cohesion between emergency services departments and alignment with charitable mission.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily celebratory/human interest in nature with limited strategic innovation content",
+    "No budget, procurement, or policy implications detected",
+    "Event appears to be recurring (second consecutive year after five-year hiatus) but tag as one-time per coverage",
+    "CIO relevance is marginal unless tracking community engagement metrics or emergency services coordination",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'community-community' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

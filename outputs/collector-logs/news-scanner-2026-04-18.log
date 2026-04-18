@@ -1,0 +1,77 @@
+2026-04-18 14:25:27,999 [INFO] ============================================================
+2026-04-18 14:25:27,999 [INFO] News Scanner starting
+2026-04-18 14:25:28,000 [INFO] Fetching: Syracuse.com Politics
+2026-04-18 14:25:28,360 [INFO]   50 new articles from Syracuse.com Politics
+2026-04-18 14:25:28,360 [INFO] Fetching: Syracuse.com Government
+2026-04-18 14:25:28,605 [INFO]   0 new articles from Syracuse.com Government
+2026-04-18 14:25:28,605 [INFO] Fetching: Syracuse.com Local
+2026-04-18 14:25:28,928 [INFO]   0 new articles from Syracuse.com Local
+2026-04-18 14:25:28,928 [INFO] Fetching: Syracuse.com Main
+2026-04-18 14:25:29,165 [INFO]   0 new articles from Syracuse.com Main
+2026-04-18 14:25:29,165 [INFO] Total unique articles across all feeds: 50
+2026-04-18 14:25:29,165 [INFO] New articles (not previously processed): 50
+2026-04-18 14:25:29,213 [DEBUG]   Filtered (not relevant): Expert prediction, Kalshi markets for Knicks vs. Hawks Game 1
+2026-04-18 14:25:29,214 [DEBUG]   Filtered (not relevant): Private Upstate NY club to pay $1.5M to settle PPP loan fraud allegations
+2026-04-18 14:25:29,214 [DEBUG]   Filtered (not relevant): Where to watch Raptors vs. Cavaliers: NBA Playoffs TV schedule
+2026-04-18 14:25:29,215 [DEBUG]   Filtered (not relevant): Dear Annie: My crossdressing never bothered my wife until she retired; now I can
+2026-04-18 14:25:29,215 [DEBUG]   Filtered (not relevant): Holes-in-one for Central New York golfers (as of April 17)
+2026-04-18 14:25:29,216 [DEBUG]   Filtered (not relevant): Dear Annie: Husband’s chronic oversharing is so bad, I feel like I need to keep 
+2026-04-18 14:25:29,216 [DEBUG]   Filtered (not relevant): Upstate NY man accused of setting fire to his building, seeking insurance payout
+2026-04-18 14:25:29,217 [DEBUG]   Filtered (not relevant): Where to watch Syracuse men’s lacrosse vs. Colgate for free today
+2026-04-18 14:25:29,217 [DEBUG]   Filtered (not relevant): Syracuse Catholic bishop: We must admit abuse happened and make sure it never ha
+2026-04-18 14:25:29,218 [DEBUG]   Filtered (not relevant): Central NY man trapped and assaulted hospital worker in room, police say
+2026-04-18 14:25:29,218 [INFO]   Relevant: Syracuse Police get sweet revenge against the Fire Department in charity basketb
+2026-04-18 14:25:29,218 [DEBUG]     → Departments: Syracuse Fire Department, Syracuse Police Department
+2026-04-18 14:25:29,218 [DEBUG]     → Keywords: syracuse police
+2026-04-18 14:25:32,738 [WARNING]     Tag issue: Unknown tag 'community-community' not in taxonomy
+2026-04-18 14:25:32,766 [INFO]     Saved: CTX-NEWS-2026-00054 → CTX-NEWS-2026-00054.json
+2026-04-18 14:25:32,766 [DEBUG]   Filtered (not relevant): Asking Eric: I just attended your destination wedding, now you’re divorced and p
+2026-04-18 14:25:32,767 [DEBUG]   Filtered (not relevant): Oneida County real estate: 10 most expensive homes sold, April 6-12
+2026-04-18 14:25:32,767 [DEBUG]   Filtered (not relevant): Sign up for hands-on youth fly fishing clinic in Oswego County
+2026-04-18 14:25:32,768 [DEBUG]   Filtered (not relevant): Instant impact: 15 Section III boys lacrosse players who are turning heads early
+2026-04-18 14:25:32,768 [DEBUG]   Filtered (not relevant): Where to watch ARCA Menards Series at Kansas today: Free live stream
+2026-04-18 14:25:32,768 [DEBUG]   Filtered (not relevant): Asking Eric: How can I get my mother to stop inviting my stalker over for dinner
+2026-04-18 14:25:32,769 [DEBUG]   Filtered (not relevant): AG upgrades probe into Upstate NY man’s death after police used Taser and pepper
+2026-04-18 14:25:32,770 [DEBUG]   Filtered (not relevant): OCHS adoptable pet: Tommy is always ready for fun
+2026-04-18 14:25:32,770 [DEBUG]   Filtered (not relevant): Where are Section III athletes going to college? (Spring 2026 edition)
+2026-04-18 14:25:32,770 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for April 18
+2026-04-18 14:25:32,771 [DEBUG]   Filtered (not relevant): Hard rock supergroup returns with new album: ‘Rock is still alive and well’
+2026-04-18 14:25:32,771 [DEBUG]   Filtered (not relevant): Popular pantry staple debuts first new flavor in 60 years to rave reviews: ‘Deli
+2026-04-18 14:25:32,771 [DEBUG]   Filtered (not relevant): Dear Abby: Co-worker is sensitive about my success; must I act like I’m not crus
+2026-04-18 14:25:32,772 [DEBUG]   Filtered (not relevant): Central NY weather: Heavy rain, storms arrive before dramatic cooldown
+2026-04-18 14:25:32,772 [DEBUG]   Filtered (not relevant): Popular singer posts photo from hospital bed on same day his new album dropped: 
+2026-04-18 14:25:32,773 [DEBUG]   Filtered (not relevant): Popular actress, 44, pregnant with third child: ‘Such a privilege and a miracle’
+2026-04-18 14:25:32,773 [DEBUG]   Filtered (not relevant): Son charged with homicide after mother, 89, dies after living in shed in Upstate
+2026-04-18 14:25:32,774 [DEBUG]   Filtered (not relevant): Dear Abby: How to handle in-laws who show up 3 hours early for dinner and sit ar
+2026-04-18 14:25:32,774 [DEBUG]   Filtered (not relevant): Federal judge blocks $6B merger involving Syracuse TV station’s owner
+2026-04-18 14:25:32,775 [DEBUG]   Filtered (not relevant): Buffalo Zoo’s beloved ‘old lady’ tiger dies at 18
+2026-04-18 14:25:32,776 [DEBUG]   Filtered (not relevant): Wind advisory issued for Franklin and Clinton counties until early Sunday
+2026-04-18 14:25:32,776 [DEBUG]   Filtered (not relevant): GOTW: Syracuse East flag football rolls F-M in long-awaited rematch (33 photos)
+2026-04-18 14:25:32,776 [DEBUG]   Filtered (not relevant): West Genesee boys lacrosse tops CBA in battle of state-ranked teams (30 photos)
+2026-04-18 14:25:32,777 [DEBUG]   Filtered (not relevant): Mega Millions numbers: Are you the lucky winner of Friday’s $130 million jackpot
+2026-04-18 14:25:32,777 [DEBUG]   Filtered (not relevant): Syracuse Mets beat RailRiders 5-3 on three-homer night
+2026-04-18 14:25:32,777 [DEBUG]   Filtered (not relevant): Syracuse Crunch fall to Belleville Senators 6-4
+2026-04-18 14:25:32,778 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for April 17
+2026-04-18 14:25:32,778 [DEBUG]   Filtered (not relevant): Watertown junior pitcher throws no-hitter against Carthage
+2026-04-18 14:25:32,778 [DEBUG]   Filtered (not relevant): Update: Coastal flood advisory issued for Westchester County until 2 a.m. Sunday
+2026-04-18 14:25:32,779 [DEBUG]   Filtered (not relevant): Syracuse.com flag football Game of the Week MVP: Syracuse East vs. F-M (poll)
+2026-04-18 14:25:32,779 [DEBUG]   Filtered (not relevant): Le Moyne men’s lacrosse box score at Cleveland State
+2026-04-18 14:25:32,780 [DEBUG]   Filtered (not relevant): Bruins vs. Sabres NHL playoffs odds update: Experts adjust predictions after Tag
+2026-04-18 14:25:32,780 [DEBUG]   Filtered (not relevant): Hard Rock Bet Online Casino secures $1,000 Lossback bonus for New Jersey residen
+2026-04-18 14:25:32,781 [DEBUG]   Filtered (not relevant): Japanese ground beef curry
+2026-04-18 14:25:32,782 [DEBUG]   Filtered (not relevant): $10 Promo Code SYRACUSE: New bonus for NBA Play-In games on Friday
+2026-04-18 14:25:32,782 [DEBUG]   Filtered (not relevant): Bills in attendance for Jordyn Tyson’s successful workout: What it means for Buf
+2026-04-18 14:25:32,783 [DEBUG]   Filtered (not relevant): Upstate NY man allegedly climbs FBI fence at night, drives patrol truck around l
+2026-04-18 14:25:32,783 [DEBUG]   Filtered (not relevant): Where to watch Warriors vs. Suns today: NBA Play-In free live stream
+2026-04-18 14:25:32,784 [DEBUG]   Filtered (not relevant): Central NY coach used AI and photo of 12-year-old girl to make porn video, deput
+2026-04-18 14:25:32,785 [INFO] News Scanner Run — 2026-04-18 14:25
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Syracuse Police get sweet revenge against the Fire Department in charity basketb
+
