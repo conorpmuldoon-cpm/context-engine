@@ -1,0 +1,80 @@
+2026-04-19 14:26:01,069 [INFO] ============================================================
+2026-04-19 14:26:01,069 [INFO] News Scanner starting
+2026-04-19 14:26:01,070 [INFO] Fetching: Syracuse.com Politics
+2026-04-19 14:26:01,281 [INFO]   50 new articles from Syracuse.com Politics
+2026-04-19 14:26:01,281 [INFO] Fetching: Syracuse.com Government
+2026-04-19 14:26:01,446 [INFO]   0 new articles from Syracuse.com Government
+2026-04-19 14:26:01,446 [INFO] Fetching: Syracuse.com Local
+2026-04-19 14:26:01,577 [INFO]   0 new articles from Syracuse.com Local
+2026-04-19 14:26:01,577 [INFO] Fetching: Syracuse.com Main
+2026-04-19 14:26:01,712 [INFO]   0 new articles from Syracuse.com Main
+2026-04-19 14:26:01,712 [INFO] Total unique articles across all feeds: 50
+2026-04-19 14:26:01,713 [INFO] New articles (not previously processed): 50
+2026-04-19 14:26:01,757 [DEBUG]   Filtered (not relevant): Syracuse Mets home game on Sunday afternoon is postponed
+2026-04-19 14:26:01,758 [DEBUG]   Filtered (not relevant): Where to watch 76ers vs. Celtics: NBA Playoffs TV schedule, live stream
+2026-04-19 14:26:01,758 [DEBUG]   Filtered (not relevant): Oneida County real estate: See all residential properties sold, April 6-12
+2026-04-19 14:26:01,758 [DEBUG]   Filtered (not relevant): Dear Annie: Scrolling my life away on Instagram where everyone is perfect, while
+2026-04-19 14:26:01,759 [DEBUG]   Filtered (not relevant): Legendary singer reschedules Upstate NY concerts on farewell tour
+2026-04-19 14:26:01,759 [DEBUG]   Filtered (not relevant): Asking Eric: I wanted simple celebration for being cancer free; my ‘best friend’
+2026-04-19 14:26:01,760 [DEBUG]   Filtered (not relevant): Spallina breaks SU scoring record with flair: ‘Not the first time we’ve done it’
+2026-04-19 14:26:01,760 [DEBUG]   Filtered (not relevant): Madison County real estate: See all residential properties sold, April 6-12
+2026-04-19 14:26:01,761 [DEBUG]   Filtered (not relevant): Editorial cartoons for April 19, 2026: Trump vs. Pope Leo, Jesus meme, Hormuz bl
+2026-04-19 14:26:01,761 [DEBUG]   Filtered (not relevant): Where to watch Manchester City vs. Arsenal: Premier League free stream
+2026-04-19 14:26:01,762 [DEBUG]   Filtered (not relevant): Asking Eric: I want to support disabled veteran friend, but his body odor is rui
+2026-04-19 14:26:01,762 [DEBUG]   Filtered (not relevant): $950,000 for village home: Plus 76 more Onondaga County home sales
+2026-04-19 14:26:01,763 [DEBUG]   Filtered (not relevant): Accused Finger Lakes killers left trail of depravity (Top stories)
+2026-04-19 14:26:01,763 [DEBUG]   Filtered (not relevant): Joey Spallina’s legacy will be leaving Syracuse lacrosse better than he found it
+2026-04-19 14:26:01,763 [DEBUG]   Filtered (not relevant): ‘Unprecedented’ fare hike for World Cup 2026 draws fire from FIFA, Gov. Kathy Ho
+2026-04-19 14:26:01,764 [DEBUG]   Filtered (not relevant): After misconduct finding, sheriff missed chance to send a stronger message (Edit
+2026-04-19 14:26:01,764 [DEBUG]   Filtered (not relevant): Central NY weather: Winter-like blast before warm weather returns
+2026-04-19 14:26:01,765 [DEBUG]   Filtered (not relevant): Famous actor jumps into Upstate NY lake after making Buffalo Sabres bet
+2026-04-19 14:26:01,765 [DEBUG]   Filtered (not relevant): Dear Abby: Bride’s rehearsal dinner plans seem over-the top, or am I just out of
+2026-04-19 14:26:01,766 [DEBUG]   Filtered (not relevant): CNY Inspirations: How we show up to each experience is often the lesson
+2026-04-19 14:26:01,766 [DEBUG]   Filtered (not relevant): Upstate NY man sentenced to maximum prison term in daughter’s starvation death: 
+2026-04-19 14:26:01,767 [DEBUG]   Filtered (not relevant): Trump signs bill extending controversial surveillance powers
+2026-04-19 14:26:01,767 [DEBUG]   Filtered (not relevant): Hard rock band cancels concerts due to ‘unforeseen medical circumstances’
+2026-04-19 14:26:01,768 [DEBUG]   Filtered (not relevant): Dear Abby: Son keeps trying to foist his untrained, chaos dog on me when he has 
+2026-04-19 14:26:01,768 [DEBUG]   Filtered (not relevant): Iran closes Strait of Hormuz again as ceasefire with US nears expiration
+2026-04-19 14:26:01,768 [DEBUG]   Filtered (not relevant): Freeze watch in place for Hudson Valley for Tuesday
+2026-04-19 14:26:01,769 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Saturday’s $75 million drawing
+2026-04-19 14:26:01,770 [INFO]   Relevant: Le Moyne women’s lacrosse knocks off FDU on Senior Day
+2026-04-19 14:26:01,770 [DEBUG]     → Entities: Le Moyne College
+2026-04-19 14:26:05,296 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-04-19 14:26:05,313 [INFO]     Saved: CTX-NEWS-2026-00055 → CTX-NEWS-2026-00055.json
+2026-04-19 14:26:05,314 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for April 18
+2026-04-19 14:26:05,314 [DEBUG]   Filtered (not relevant): Fire badly damages business in Salina
+2026-04-19 14:26:05,315 [DEBUG]   Filtered (not relevant): A third tornado was confirmed in Upstate NY, and all 3 hit the same county
+2026-04-19 14:26:05,315 [INFO]   Relevant: Syracuse men’s lacrosse shakes off pesky Colgate to close out JMA Dome slate und
+2026-04-19 14:26:05,315 [DEBUG]     → Entities: Syracuse University
+2026-04-19 14:26:07,869 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-04-19 14:26:07,878 [INFO]     Saved: CTX-NEWS-2026-00056 → CTX-NEWS-2026-00056.json
+2026-04-19 14:26:07,879 [DEBUG]   Filtered (not relevant): Syracuse lacrosse box score vs. Colgate
+2026-04-19 14:26:07,879 [DEBUG]   Filtered (not relevant): Syracuse Mets sweep doubleheader from RailRiders
+2026-04-19 14:26:07,879 [DEBUG]   Filtered (not relevant): $10 Kalshi Promo Code SYRACUSE upgraded for NBA Playoffs on Saturday
+2026-04-19 14:26:07,880 [DEBUG]   Filtered (not relevant): NBA Playoffs DraftKings Promo Code upgraded: $300 “Bet & Get” for Saturday night
+2026-04-19 14:26:07,880 [DEBUG]   Filtered (not relevant): ACC softball commit throws first no-hitter of the season for Oswego
+2026-04-19 14:26:07,881 [DEBUG]   Filtered (not relevant): Senior delivers game-winning hit to carry CVA softball past Utica Notre Dame
+2026-04-19 14:26:07,881 [DEBUG]   Filtered (not relevant): Joey Spallina breaks Syracuse lacrosse all-time scoring record
+2026-04-19 14:26:07,882 [DEBUG]   Filtered (not relevant): Most expensive homes sold in three Central NY counties from April 6 to 12
+2026-04-19 14:26:07,882 [DEBUG]   Filtered (not relevant): Madison County real estate: 10 most expensive homes sold, April 6-12
+2026-04-19 14:26:07,882 [DEBUG]   Filtered (not relevant): Watertown boys lacrosse weathers Westhill’s late storm for OT win
+2026-04-19 14:26:07,883 [DEBUG]   Filtered (not relevant): Late go-ahead touchdown lifts Central Square flag football past C-NS
+2026-04-19 14:26:07,883 [DEBUG]   Filtered (not relevant): Where to watch Flyers vs. Penguins: NHL Playoffs TV, stream schedule
+2026-04-19 14:26:07,884 [DEBUG]   Filtered (not relevant): Where to watch Rockets vs. Lakers: NBA Playoffs TV schedule, free stream
+2026-04-19 14:26:07,884 [DEBUG]   Filtered (not relevant): Ticket prices rapidly rising for Bruins vs. Sabres games in Buffalo
+2026-04-19 14:26:07,884 [DEBUG]   Filtered (not relevant): Syracuse men’s lacrosse finishes nonconference play with 14-7 win over Colgate: 
+2026-04-19 14:26:07,885 [DEBUG]   Filtered (not relevant): Experts release best bets and player projections for Suns vs. Thunder Game 1
+2026-04-19 14:26:07,886 [DEBUG]   Filtered (not relevant): How to watch NASCAR at Kansas today: Free live stream
+2026-04-19 14:26:07,886 [DEBUG]   Filtered (not relevant): How to Lifetime’s ‘Murder in the Dark’ premiere for free without cable
+2026-04-19 14:26:07,888 [INFO] News Scanner Run — 2026-04-19 14:26
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Le Moyne women’s lacrosse knocks off FDU on Senior Day
+  • Syracuse men’s lacrosse shakes off pesky Colgate to close out JMA Dome slate und
+

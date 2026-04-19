@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00055",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/sports/2026/04/le-moyne-womens-lacrosse-knocks-off-fdu-on-senior-day.html",
+  "publication_date": "2026-04-19",
+  "capture_date": "2026-04-19T14:26:05Z",
+  "title": "Le Moyne women’s lacrosse knocks off FDU on Senior Day",
+  "summary": "Le Moyne College women's lacrosse team defeated FDU 11-7 on Senior Day, clinching an NEC Tournament berth. This article reports on a local higher education institution's athletic achievement and has no direct relevance to City of Syracuse municipal operations or the Chief Innovation Officer's mandate.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Le Moyne College",
+      "type": "organization",
+      "canonical_id": "ORG-LEMOYNE"
+    },
+    {
+      "name": "Francesca Tortora",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Fairleigh Dickinson University",
+      "type": "organization",
+      "canonical_id": "ORG-FDU"
+    },
+    {
+      "name": "Central Connecticut State University",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is sports news with no municipal governance content",
+    "No budget, policy, infrastructure, or city service implications detected",
+    "Out of scope for CIO context engine unless tracking community institution partnerships or workforce development through athletics",
+    "Geographic reference to Syracuse, N.Y. is incidental (athlete hometown)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
