@@ -1,0 +1,80 @@
+2026-04-20 16:02:24,771 [INFO] ============================================================
+2026-04-20 16:02:24,771 [INFO] News Scanner starting
+2026-04-20 16:02:24,772 [INFO] Fetching: Syracuse.com Politics
+2026-04-20 16:02:25,228 [INFO]   50 new articles from Syracuse.com Politics
+2026-04-20 16:02:25,229 [INFO] Fetching: Syracuse.com Government
+2026-04-20 16:02:25,453 [INFO]   0 new articles from Syracuse.com Government
+2026-04-20 16:02:25,453 [INFO] Fetching: Syracuse.com Local
+2026-04-20 16:02:25,655 [INFO]   0 new articles from Syracuse.com Local
+2026-04-20 16:02:25,655 [INFO] Fetching: Syracuse.com Main
+2026-04-20 16:02:25,858 [INFO]   0 new articles from Syracuse.com Main
+2026-04-20 16:02:25,858 [INFO] Total unique articles across all feeds: 50
+2026-04-20 16:02:25,859 [INFO] New articles (not previously processed): 50
+2026-04-20 16:02:25,905 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 high school baseball rankings (through April 19): 2 No. 1 in
+2026-04-20 16:02:25,906 [DEBUG]   Filtered (not relevant): Shoppers are losing their minds over Target’s exceptional Sony Headphones sale
+2026-04-20 16:02:25,906 [DEBUG]   Filtered (not relevant): Tickets on sale now for Sycamore Hill Gardens Mother’s Day tour
+2026-04-20 16:02:25,907 [DEBUG]   Filtered (not relevant): Dirt bike rider, 62, dies at motocross  track after being thrown after a jump
+2026-04-20 16:02:25,907 [DEBUG]   Filtered (not relevant): 2026 Syracuse Crunch playoff schedule: See dates, times, ticket info
+2026-04-20 16:02:25,908 [DEBUG]   Filtered (not relevant): White bean gratin
+2026-04-20 16:02:25,908 [DEBUG]   Filtered (not relevant): Upstate NY man who just got out of prison charged with murder after body found i
+2026-04-20 16:02:25,909 [DEBUG]   Filtered (not relevant): Owen Freeman picks Auburn; who does Syracuse turn to now?
+2026-04-20 16:02:25,910 [DEBUG]   Filtered (not relevant): Miss Manners: Family decides to invite several hundred people to a birthday part
+2026-04-20 16:02:25,910 [DEBUG]   Filtered (not relevant): Experts release new Knicks vs. Hawks prediction after Brunson, KAT BetMGM player
+2026-04-20 16:02:25,911 [DEBUG]   Filtered (not relevant): Central NY’s Adam Weitsman makes surprise appearance at WrestleMania
+2026-04-20 16:02:25,912 [DEBUG]   Filtered (not relevant): Dear Doctor: What is the best general wellness supplement to take? Does it work 
+2026-04-20 16:02:25,912 [INFO]   Relevant: NY drivers pay billions. Why are we still dodging potholes? (Guest Opinion by Ju
+2026-04-20 16:02:25,912 [DEBUG]     → Keywords: taxpayer
+2026-04-20 16:02:30,457 [WARNING]     Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-04-20 16:02:30,475 [INFO]     Saved: CTX-NEWS-2026-00057 → CTX-NEWS-2026-00057.json
+2026-04-20 16:02:30,476 [INFO]   Relevant: Where does Syracuse lacrosse rank entering final week of regular season?
+2026-04-20 16:02:30,476 [DEBUG]     → Entities: Syracuse University
+2026-04-20 16:02:32,418 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-04-20 16:02:32,428 [INFO]     Saved: CTX-NEWS-2026-00058 → CTX-NEWS-2026-00058.json
+2026-04-20 16:02:32,428 [DEBUG]   Filtered (not relevant): U.S.-Iran ceasefire set to expire: ‘NO MORE MR. NICE GUY!’ says Trump
+2026-04-20 16:02:32,429 [DEBUG]   Filtered (not relevant): Volunteers plant 3,500 native trees to protect Skaneateles Lake
+2026-04-20 16:02:32,429 [DEBUG]   Filtered (not relevant): Dear Doctor: There is so much misinformation about water drinking; what is the c
+2026-04-20 16:02:32,430 [DEBUG]   Filtered (not relevant): Walmart’s best-selling $1,000 patio set is on sale for less than $500 this week
+2026-04-20 16:02:32,430 [DEBUG]   Filtered (not relevant): New York asks residents to turn off outdoor lights to save migrating birds
+2026-04-20 16:02:32,431 [DEBUG]   Filtered (not relevant): Photos you’ll want to see from Central New York high school spring sports (Week 
+2026-04-20 16:02:32,431 [DEBUG]   Filtered (not relevant): Dear Annie: I don’t want to come off as needy, but I’m tired of doing all the ca
+2026-04-20 16:02:32,432 [DEBUG]   Filtered (not relevant): Tour bus carrying high school students crashes in Upstate NY
+2026-04-20 16:02:32,432 [DEBUG]   Filtered (not relevant): St. Joseph’s Health hires orthopedic surgeon Dr. Prashant Deshmane
+2026-04-20 16:02:32,433 [DEBUG]   Filtered (not relevant): Respect highway work zones: Slow down, stay alert and move over (Your Letters)
+2026-04-20 16:02:32,433 [DEBUG]   Filtered (not relevant): Dear Annie: How do I bounce back from relationship that felt real to me, but was
+2026-04-20 16:02:32,434 [DEBUG]   Filtered (not relevant): Cicero rematch in supervisor race: Aregano to challenge Santucci
+2026-04-20 16:02:32,434 [DEBUG]   Filtered (not relevant): ‘90s TV star, movie actor dead at 57 after heart attack
+2026-04-20 16:02:32,434 [DEBUG]   Filtered (not relevant): Section III boys lacrosse stats leaders by league (through April 19)
+2026-04-20 16:02:32,435 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: The housework secret I learned from timing all the little c
+2026-04-20 16:02:32,435 [DEBUG]   Filtered (not relevant): Marinas, motel, restaurants: See 22 latest business, apartment, land sales ($500
+2026-04-20 16:02:32,436 [DEBUG]   Filtered (not relevant): Clinton Square transformed into Syracuse’s most important gathering place 25 yea
+2026-04-20 16:02:32,436 [DEBUG]   Filtered (not relevant): Stir-fried rice cakes
+2026-04-20 16:02:32,437 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for April 20
+2026-04-20 16:02:32,438 [DEBUG]   Filtered (not relevant): Asking Eric: You made a mistake with advice to aging woman who didn’t like being
+2026-04-20 16:02:32,438 [DEBUG]   Filtered (not relevant): Buffalo Sabres mark return to the playoffs with late rally to beat Bruins
+2026-04-20 16:02:32,439 [DEBUG]   Filtered (not relevant): Asking Eric: It’s abundantly clear which daughter deserves more inheritance; wil
+2026-04-20 16:02:32,439 [DEBUG]   Filtered (not relevant): Micron buys land from county for $30 million (Good Morning CNY)
+2026-04-20 16:02:32,439 [DEBUG]   Filtered (not relevant): CNY weather: Freezing temps, snow showers Monday before warmup
+2026-04-20 16:02:32,440 [DEBUG]   Filtered (not relevant): Earth Day Clean Up, ‘& Juliet,’ Autism Acceptance Walk: 30 things to do in CNY
+2026-04-20 16:02:32,440 [DEBUG]   Filtered (not relevant): Businesses can start claiming refunds for Trump tariffs declared unconstitutiona
+2026-04-20 16:02:32,441 [DEBUG]   Filtered (not relevant): A decade after Onondaga Lake cleanup, mercury levels remain high in fish that pe
+2026-04-20 16:02:32,441 [DEBUG]   Filtered (not relevant): Dear Abby: Ladies at husband’s office start annual Valentine’s tradition that ma
+2026-04-20 16:02:32,442 [DEBUG]   Filtered (not relevant): Powerful 7.5-magnitude earthquake strikes off Japan, tsunami alert issued
+2026-04-20 16:02:32,442 [DEBUG]   Filtered (not relevant): Oil prices jump as US-Iran standoff keeps the Strait of Hormuz in limbo
+2026-04-20 16:02:32,443 [DEBUG]   Filtered (not relevant): Popular ‘90s rock band returns with first new album in 26 years
+2026-04-20 16:02:32,443 [DEBUG]   Filtered (not relevant): Dear Abby: Son helped himself to grandkids’ college money; how could I have rais
+2026-04-20 16:02:32,444 [DEBUG]   Filtered (not relevant): Weather alert active for Clinton and Essex counties until Monday morning
+2026-04-20 16:02:32,445 [DEBUG]   Filtered (not relevant): $150 BetMGM Bonus Code “CUSEMGM” upgraded for Blazers, Thunder NBA tonight
+2026-04-20 16:02:32,445 [DEBUG]   Filtered (not relevant): NBA Playoffs Underdog promo code “SYRACUSE” extends $50 bonus with $1K deposit m
+2026-04-20 16:02:32,446 [DEBUG]   Filtered (not relevant): $10 Kalshi Promo Code SYRACUSE extended for NBA Playoffs on Sunday
+2026-04-20 16:02:32,447 [INFO] News Scanner Run — 2026-04-20 16:02
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • NY drivers pay billions. Why are we still dodging potholes? (Guest Opinion by Ju
+  • Where does Syracuse lacrosse rank entering final week of regular season?
+

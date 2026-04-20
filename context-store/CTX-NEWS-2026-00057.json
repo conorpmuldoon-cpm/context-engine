@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2026-00057",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/04/ny-drivers-pay-billions-why-are-we-still-dodging-potholes-guest-opinion-by-justin-wilcox.html",
+  "publication_date": "2026-04-20",
+  "capture_date": "2026-04-20T16:02:30Z",
+  "title": "NY drivers pay billions. Why are we still dodging potholes? (Guest Opinion by Justin Wilcox)",
+  "summary": "Opinion piece by Justin Wilcox (Upstate United) critiques New York State's road maintenance despite substantial driver funding. Raises constituent concerns about pothole infrastructure and questions efficiency of current road-bridge maintenance investments.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "roads-bridges",
+    "infrastructure",
+    "tax-revenue",
+    "advocacy",
+    "constituent-complaints",
+    "budget"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Justin Wilcox",
+      "type": "person",
+      "canonical_id": "PERSON-JUSTIN-WILCOX"
+    },
+    {
+      "name": "Upstate United",
+      "type": "organization",
+      "canonical_id": "ORG-UPSTATE-UNITED"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Business/taxpayer advocacy organization raising public scrutiny of road maintenance outcomes relative to funding levels; implies accountability gap in infrastructure spending",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content not provided in source material—analysis based on title and metadata only",
+    "Dollar amounts and specific Syracuse infrastructure details not extractable from available data",
+    "Author affiliation (Upstate United) signals organized business community engagement on fiscal efficiency",
+    "Potential data source for roads-bridges capital planning and budget analysis",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}
