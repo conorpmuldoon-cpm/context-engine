@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2026-00059",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/04/syracuse-police-watchdogs-investigations-on-hold-future-uncertain.html",
+  "publication_date": "2026-04-21",
+  "capture_date": "2026-04-21T16:19:54Z",
+  "title": "Syracuse police watchdog’s investigations on hold, future uncertain",
+  "summary": "Syracuse's police review board has indefinitely suspended over 70 misconduct investigations and halted new complaint intake following a court ruling affecting Rochester's police oversight agency. The pause creates uncertainty about the watchdog's operational future and investigative capacity.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "investigation",
+    "complaint",
+    "transparency",
+    "public-safety-commission",
+    "policy-change",
+    "escalating"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Police Review Board",
+      "type": "organization",
+      "canonical_id": "ORG-SPRB"
+    },
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-BOYER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Court ruling affecting police oversight agencies creates operational disruption and raises governance questions about complaint investigation infrastructure and accountability mechanisms.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references Rochester court ruling but lacks specifics—recommend cross-referencing Rochester news for legal precedent context",
+    "Status is 'indefinite' pause, not permanent closure—monitoring required for resolution updates",
+    "Affects constituent complaint processing pipeline; potential impact on 311 complaint routing should be assessed",
+    "No specific financial impact quantified in excerpt; investigation backlog may have budget/resource implications",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,76 @@
+2026-04-21 16:19:49,008 [INFO] ============================================================
+2026-04-21 16:19:49,008 [INFO] News Scanner starting
+2026-04-21 16:19:49,009 [INFO] Fetching: Syracuse.com Politics
+2026-04-21 16:19:49,532 [INFO]   50 new articles from Syracuse.com Politics
+2026-04-21 16:19:49,532 [INFO] Fetching: Syracuse.com Government
+2026-04-21 16:19:49,676 [INFO]   0 new articles from Syracuse.com Government
+2026-04-21 16:19:49,676 [INFO] Fetching: Syracuse.com Local
+2026-04-21 16:19:49,806 [INFO]   0 new articles from Syracuse.com Local
+2026-04-21 16:19:49,806 [INFO] Fetching: Syracuse.com Main
+2026-04-21 16:19:49,938 [INFO]   0 new articles from Syracuse.com Main
+2026-04-21 16:19:49,938 [INFO] Total unique articles across all feeds: 50
+2026-04-21 16:19:49,938 [INFO] New articles (not previously processed): 50
+2026-04-21 16:19:49,975 [DEBUG]   Filtered (not relevant): Section III teams slide in latest high school flag football state rankings
+2026-04-21 16:19:49,975 [DEBUG]   Filtered (not relevant): Teen’s drowning at popular Upstate NY waterfall prompts safety warning from offi
+2026-04-21 16:19:49,975 [DEBUG]   Filtered (not relevant): Popular actress stuns fans with dramatic hair transformation: ‘Welcome to the bo
+2026-04-21 16:19:49,976 [DEBUG]   Filtered (not relevant): New BetMGM Bonus Code CUSEMGM: $150 bonus and $2.5K casino promos through April!
+2026-04-21 16:19:49,976 [DEBUG]   Filtered (not relevant): How to secure Usher and Chris Brown presale tickets before they sell out
+2026-04-21 16:19:49,976 [DEBUG]   Filtered (not relevant): Wisconsin basketball gives transfer Trey Autry chance to make NCAA Tournament
+2026-04-21 16:19:49,977 [DEBUG]   Filtered (not relevant): StubHub to pay $10M over ‘deceptive’ ticket prices: Are you eligible for money?
+2026-04-21 16:19:49,977 [DEBUG]   Filtered (not relevant): NYS Fair adds 2000s teen heartthrob to free concert lineup
+2026-04-21 16:19:49,978 [DEBUG]   Filtered (not relevant): Syracuse is getting 52 factory-built starter homes across the city as soon as th
+2026-04-21 16:19:49,978 [DEBUG]   Filtered (not relevant): Wayfair is having a 28% off deal on the viral Porch Goose that everyone’s going 
+2026-04-21 16:19:49,978 [DEBUG]   Filtered (not relevant): Miss Manners: I don’t want to exclude brother-in-law, but Mother’s Day planning 
+2026-04-21 16:19:49,979 [DEBUG]   Filtered (not relevant): Apricot thyme chicken and chickpeas
+2026-04-21 16:19:49,979 [DEBUG]   Filtered (not relevant): Bryan Blair on SU's ability to spend above the cap: ‘I don’t know if you can eve
+2026-04-21 16:19:49,980 [DEBUG]   Filtered (not relevant): Iran ceasefire to expire: What Trump had to say about an extension
+2026-04-21 16:19:49,980 [DEBUG]   Filtered (not relevant): Miss Manners: The complex societal pressures of the grocery store cart return
+2026-04-21 16:19:49,981 [DEBUG]   Filtered (not relevant): Friends of the Zoo refused to give $1M to the Onondaga County aquarium. Are they
+2026-04-21 16:19:49,981 [INFO]   Relevant: Syracuse police watchdog’s investigations on hold, future uncertain
+2026-04-21 16:19:49,981 [DEBUG]     → Departments: Syracuse Police Department
+2026-04-21 16:19:49,981 [DEBUG]     → Keywords: syracuse police
+2026-04-21 16:19:54,092 [INFO]     Saved: CTX-NEWS-2026-00059 → CTX-NEWS-2026-00059.json
+2026-04-21 16:19:54,093 [DEBUG]   Filtered (not relevant): Experts release new Lakers vs. Rockets Game 2 prediction after latest Kevin Dura
+2026-04-21 16:19:54,093 [DEBUG]   Filtered (not relevant): Gov. Hochul’s insurance reforms will save people, municipalities money (Your Let
+2026-04-21 16:19:54,093 [DEBUG]   Filtered (not relevant): Dear Doctor: After life-altering COVID symptoms, my husband is considering a hyp
+2026-04-21 16:19:54,094 [DEBUG]   Filtered (not relevant): Walmart’s insane markdown on Samsung’s 65-inch TV is selling fast - Get it for $
+2026-04-21 16:19:54,094 [DEBUG]   Filtered (not relevant): Member of beloved Syracuse rock band dies at 70: ‘We’ll all miss you’
+2026-04-21 16:19:54,095 [DEBUG]   Filtered (not relevant): Dear Annie: Son decides his Christianity is the one-true faith; we all worship t
+2026-04-21 16:19:54,095 [DEBUG]   Filtered (not relevant): Dear Annie: Sister demands loyalty after her divorce, but isn’t this just emotio
+2026-04-21 16:19:54,095 [DEBUG]   Filtered (not relevant): Legislator: I-81 viaduct project promised equity. Residents are still waiting (Y
+2026-04-21 16:19:54,096 [DEBUG]   Filtered (not relevant): Rachel Friedman joins Barclay Damon in Syracuse
+2026-04-21 16:19:54,096 [DEBUG]   Filtered (not relevant): Weren’t selected for BTS Ticketmaster lottery? Here’s where to still get tickets
+2026-04-21 16:19:54,097 [DEBUG]   Filtered (not relevant): Gas prices might not go back to $3 until next year? ’Totally wrong,’ Trump claim
+2026-04-21 16:19:54,097 [DEBUG]   Filtered (not relevant): Instant impact: 38 Section III softball players who are making noise early
+2026-04-21 16:19:54,097 [DEBUG]   Filtered (not relevant): See chronic absenteeism in NY school districts, ranked
+2026-04-21 16:19:54,098 [DEBUG]   Filtered (not relevant): Company news: Col. Woolfolk takes command of Civil Air Patrol’s NY Wing
+2026-04-21 16:19:54,098 [DEBUG]   Filtered (not relevant): Supreme Court refuses to hear case against Cuomo over NY nursing home deaths
+2026-04-21 16:19:54,098 [DEBUG]   Filtered (not relevant): SU soccer alum cashes in ripped up lottery ticket with plans to fund youth sport
+2026-04-21 16:19:54,099 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: The 3-part lesson you must teach your kids about money befo
+2026-04-21 16:19:54,099 [DEBUG]   Filtered (not relevant): Section III girls lacrosse stats leaders by league (through April 20)
+2026-04-21 16:19:54,100 [DEBUG]   Filtered (not relevant): NY Workforce Connect summit to explore innovative solutions in CNY labor force e
+2026-04-21 16:19:54,100 [DEBUG]   Filtered (not relevant): Oswego Hospital adds nurse practitioner to hospitalist team
+2026-04-21 16:19:54,101 [DEBUG]   Filtered (not relevant): Ginger salmon lettuce wraps
+2026-04-21 16:19:54,102 [DEBUG]   Filtered (not relevant): Asking Eric: I don’t buy the ‘epidemic of loneliness’ — more like an epidemic of
+2026-04-21 16:19:54,102 [DEBUG]   Filtered (not relevant): Business listings: See the 33 new businesses in Central NY (April 21, 2026)
+2026-04-21 16:19:54,102 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for April 21
+2026-04-21 16:19:54,103 [DEBUG]   Filtered (not relevant): 2026 NFL Draft Bills prospects: Who visited Buffalo and their draft projections
+2026-04-21 16:19:54,103 [DEBUG]   Filtered (not relevant): Liverpool school board OKs budget proposal that cuts jobs (Good Morning CNY)
+2026-04-21 16:19:54,104 [DEBUG]   Filtered (not relevant): Autopsy: Upstate NY man found dead on couch was strangled
+2026-04-21 16:19:54,104 [DEBUG]   Filtered (not relevant): Asking Eric: Friend’s emotional baggage, my busy life have us careening towards 
+2026-04-21 16:19:54,104 [DEBUG]   Filtered (not relevant): Central NY weather: Chilly start on Tuesday, showers tonight, then 60s through w
+2026-04-21 16:19:54,105 [DEBUG]   Filtered (not relevant): Metal band changes iconic logo for first time in 27 years: ‘Looks like 2000s art
+2026-04-21 16:19:54,105 [DEBUG]   Filtered (not relevant): In the in between
+2026-04-21 16:19:54,105 [DEBUG]   Filtered (not relevant): Gavin Doty’s relentless motor: 8 revealing moments show how ‘he was always a bit
+2026-04-21 16:19:54,106 [DEBUG]   Filtered (not relevant): Syracuse airport is planning a massive makeover. Travelers who leave home at 1 a
+2026-04-21 16:19:54,107 [INFO] News Scanner Run — 2026-04-21 16:19
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Syracuse police watchdog’s investigations on hold, future uncertain
+
