@@ -1,0 +1,66 @@
+{
+  "record_id": "CTX-WEB-2026-00135",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-04-20-Infrastructure-News-230-PM",
+  "publication_date": "2026-04-20",
+  "capture_date": "2026-04-22T14:09:14Z",
+  "title": "City of Syracuse to Host Public Meeting on Creekwalk Phase 3 Project",
+  "summary": "The City of Syracuse will host a public meeting on April 27, 2026, to present the preferred trail route and design plans for the Creekwalk Phase 3 extension project, which will extend the trail system south along Onondaga Creek to improve pedestrian and bicycle connectivity, sidewalk safety, and road crossing infrastructure across multiple neighborhoods.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "parks",
+    "micromobility",
+    "transportation",
+    "announcement",
+    "residents",
+    "public-safety-commission",
+    "capital-planning",
+    "sustainability"
+  ],
+  "department_refs": [
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Brighton Academy Middle School",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Public engagement on a capital infrastructure project demonstrating commitment to multimodal transportation, neighborhood connectivity, and pedestrian/cyclist safety aligned with Vision Zero and sustainability priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field marked 'Unknown' in source metadata",
+    "No budget allocation or dollar amounts disclosed in release",
+    "Online feedback portal and extended comment period (through May 29, 2026) suggests structured public input process",
+    "Project framed around equity/access (connecting neighborhoods, safer options) and active transportation modes",
+    "Brighton Academy venue selection may indicate geographic focus on South Side neighborhoods",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

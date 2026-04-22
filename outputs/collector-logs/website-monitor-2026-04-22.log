@@ -1,0 +1,24 @@
+2026-04-22 14:08:50,890 [INFO] ============================================================
+2026-04-22 14:08:50,890 [INFO] Website Monitor starting
+2026-04-22 14:08:51,675 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-04-22 14:08:51,675 [INFO]   Navigating to https://www.syr.gov/News
+2026-04-22 14:08:56,442 [INFO]   Found 10 article links in News
+2026-04-22 14:09:01,443 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-04-20-Infrastructure-News-230-PM
+2026-04-22 14:09:14,385 [INFO]     Saved: CTX-WEB-2026-00135 → CTX-WEB-2026-00135.json
+2026-04-22 14:09:14,385 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-04-22 14:09:14,385 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-04-22 14:09:17,489 [INFO]   Found 0 article links in Announcements
+2026-04-22 14:09:22,490 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-04-22 14:09:22,490 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-04-22 14:09:25,826 [INFO]   Found 0 article links in Public Notices
+2026-04-22 14:09:30,866 [INFO] Website Monitor Run — 2026-04-22 14:09
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • City of Syracuse to Host Public Meeting on Creekwalk Phase 3 Project
+
