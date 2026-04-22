@@ -1,0 +1,44 @@
+2026-04-22 14:16:39,915 [INFO] === Agenda Scanner  — 2026 ===
+2026-04-22 14:16:39,916 [INFO] Already processed: 9 agendas
+2026-04-22 14:16:39,948 [INFO] Fetching agenda listing page for 2026...
+2026-04-22 14:16:45,335 [INFO]   Found 34 meeting page(s) for 2026
+2026-04-22 14:16:47,918 [DEBUG]   2026-05-18 Common Council Regular Meeting: no agenda PDF found
+2026-04-22 14:16:50,449 [DEBUG]   2026-05-18 Common Council Study Session: no agenda PDF found
+2026-04-22 14:16:52,810 [DEBUG]   2026-05-13 Common Council Study Session: no agenda PDF found
+2026-04-22 14:16:56,180 [DEBUG]   2026-05-04 Common Council Regular Meeting: no agenda PDF found
+2026-04-22 14:16:58,761 [DEBUG]   2026-05-04 Common Council Study Session: no agenda PDF found
+2026-04-22 14:17:01,643 [DEBUG]   2026-04-29 Common Council Study Session: no agenda PDF found
+2026-04-22 14:17:04,869 [DEBUG]   2026-04-20 Common Council Regular Meeting (2026-04-20): already processed
+2026-04-22 14:17:08,485 [DEBUG]   2026-04-20 Common Council Study Session (2026-04-20): already processed
+2026-04-22 14:17:11,180 [DEBUG]   2026-04-15 Common Council Study Session (2026-04-20): already processed
+2026-04-22 14:17:13,807 [DEBUG]   2026-04-06 Common Council Regular Meeting (2026-04-06): already processed
+2026-04-22 14:17:16,617 [DEBUG]   2026-04-06 Common Council Study Session (2026-04-06): already processed
+2026-04-22 14:17:19,376 [DEBUG]   2026-04-01 Common Council Study Session (2026-04-06): already processed
+2026-04-22 14:17:22,075 [DEBUG]   2026-03-23 Common Council Regular Meeting (2026-03-23): already processed
+2026-04-22 14:17:25,355 [DEBUG]   2026-03-23 Common Council Study Session (2026-03-23): already processed
+2026-04-22 14:17:28,425 [DEBUG]   2026-03-18 Common Council Study Session (2026-03-23): already processed
+2026-04-22 14:17:31,512 [DEBUG]   2026-03-09 Common Council Public Hearing: no agenda PDF found
+2026-04-22 14:17:34,258 [DEBUG]   2026-03-09 Common Council Regular Meeting (2026-03-09): already processed
+2026-04-22 14:17:37,077 [DEBUG]   2026-03-09 Common Council Study Session (2026-03-09): already processed
+2026-04-22 14:17:39,762 [DEBUG]   2026-03-04 Common Council Study Session (2026-03-09): already processed
+2026-04-22 14:17:42,307 [DEBUG]   2026-02-23 Common Council Regular Meeting (2026-02-23): already processed
+2026-04-22 14:17:44,784 [DEBUG]   2026-02-23 Common Council Study Session (2026-02-23): already processed
+2026-04-22 14:17:48,071 [DEBUG]   2026-02-19 Common Council Town Hall: no agenda PDF found
+2026-04-22 14:17:50,501 [DEBUG]   2026-02-18 Common Council Study Session (2026-02-23): already processed
+2026-04-22 14:17:53,282 [DEBUG]   2026-02-09 Common Council Regular Meeting (2026-02-09): already processed
+2026-04-22 14:17:55,803 [DEBUG]   2026-02-09 Common Council Study Session (2026-02-09): already processed
+2026-04-22 14:17:58,494 [DEBUG]   2026-02-04 Common Council Study Session (2026-02-09): already processed
+2026-04-22 14:18:01,345 [DEBUG]   2026-01-26 Common Council Public Hearing: no agenda PDF found
+2026-04-22 14:18:03,827 [DEBUG]   2026-01-26 Common Council Regular Meeting (2026-01-26): already processed
+2026-04-22 14:18:07,117 [DEBUG]   2026-01-26 Common Council Study Session (2026-01-26): already processed
+2026-04-22 14:18:09,660 [DEBUG]   2026-01-21 Common Council Study Session (2026-01-26): already processed
+2026-04-22 14:18:12,156 [DEBUG]   2026-01-12 Common Council Regular Meeting (2026-01-12): already processed
+2026-04-22 14:18:14,879 [DEBUG]   2026-01-12 Common Council Study Session (2026-01-12): already processed
+2026-04-22 14:18:17,450 [DEBUG]   2026-01-07 Common Council Study Session (2026-01-12): already processed
+2026-04-22 14:18:20,294 [DEBUG]   2026-01-05 Common Council Organizational Meeting (2026-01-05): already processed
+2026-04-22 14:18:20,294 [INFO] 
+==================================================
+2026-04-22 14:18:20,294 [INFO] AGENDA SCANNER SUMMARY 
+2026-04-22 14:18:20,294 [INFO]   Meeting pages checked: 34
+2026-04-22 14:18:20,294 [INFO]   New agendas parsed: 0
+2026-04-22 14:18:20,294 [INFO]   Skipped (already processed or no PDF): 34
