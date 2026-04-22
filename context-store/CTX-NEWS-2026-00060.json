@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-NEWS-2026-00060",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/04/syracuse-police-union-sought-review-that-led-to-suspending-watchdogs-investigations.html",
+  "publication_date": "2026-04-22",
+  "capture_date": "2026-04-22T13:52:34Z",
+  "title": "Syracuse police union sought review that led to suspending watchdog’s investigations",
+  "summary": "Syracuse Police Union requested a legal review that resulted in pausing independent investigations of police misconduct complaints. The decision to suspend the watchdog's reviews was made jointly following this union-initiated legal analysis, raising questions about oversight independence and accountability processes.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "investigation",
+    "labor-relations",
+    "complaint",
+    "transparency",
+    "escalating",
+    "policy-change"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Police Union",
+      "type": "organization",
+      "canonical_id": "ORG-SPU"
+    },
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Union intervention in oversight process raises governance concerns; suspension of misconduct investigations suggests potential constraint on accountability mechanisms and independent review authority.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2026-00059"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article headline suggests union influence over watchdog independence; core issue is potential conflict of interest in oversight suspension",
+    "No specific individuals beyond journalist identified; union leadership not named",
+    "No dollar amounts or budget impact mentioned",
+    "Timestamp indicates recent development (April 2026) — likely active governance issue for CIO transparency/accountability initiatives",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-NEWS-2026-00059 — linked for review"
+  ],
+  "last_relevance_update": null
+}

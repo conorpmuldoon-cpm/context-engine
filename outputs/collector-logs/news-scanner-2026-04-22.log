@@ -1,0 +1,77 @@
+2026-04-22 13:52:29,605 [INFO] ============================================================
+2026-04-22 13:52:29,605 [INFO] News Scanner starting
+2026-04-22 13:52:29,606 [INFO] Fetching: Syracuse.com Politics
+2026-04-22 13:52:30,075 [INFO]   50 new articles from Syracuse.com Politics
+2026-04-22 13:52:30,075 [INFO] Fetching: Syracuse.com Government
+2026-04-22 13:52:30,371 [INFO]   0 new articles from Syracuse.com Government
+2026-04-22 13:52:30,371 [INFO] Fetching: Syracuse.com Local
+2026-04-22 13:52:30,600 [INFO]   0 new articles from Syracuse.com Local
+2026-04-22 13:52:30,600 [INFO] Fetching: Syracuse.com Main
+2026-04-22 13:52:30,833 [INFO]   0 new articles from Syracuse.com Main
+2026-04-22 13:52:30,833 [INFO] Total unique articles across all feeds: 50
+2026-04-22 13:52:30,833 [INFO] New articles (not previously processed): 50
+2026-04-22 13:52:30,868 [DEBUG]   Filtered (not relevant): Half moon cookies in Central NY: Holland Farms takes generous approach to iconic
+2026-04-22 13:52:30,869 [DEBUG]   Filtered (not relevant): Dear Doctor: I’ve had knee pain for eight months; doctors won’t endorse surgery,
+2026-04-22 13:52:30,869 [DEBUG]   Filtered (not relevant): Meet syracuse.com’s 2025-26 All-CNY boys swimming and diving team
+2026-04-22 13:52:30,870 [DEBUG]   Filtered (not relevant): Central New York elementary librarian named
+2026-04-22 13:52:30,870 [DEBUG]   Filtered (not relevant): Baldwinsville brewery set for upgrades as Anheuser-Busch boosts spending on U.S.
+2026-04-22 13:52:30,870 [DEBUG]   Filtered (not relevant): Instant impact: 29 Section III baseball players turning heads early
+2026-04-22 13:52:30,871 [DEBUG]   Filtered (not relevant): Trump endorses Upstate NY candidate to replace Stefanik
+2026-04-22 13:52:30,871 [DEBUG]   Filtered (not relevant): Former Syracuse running back signs new contract with Buccaneers
+2026-04-22 13:52:30,871 [DEBUG]   Filtered (not relevant): New poll shows Trump losing support in key demographic
+2026-04-22 13:52:30,872 [DEBUG]   Filtered (not relevant): Dear Annie: When world weighs on me I eat in secret, then wake up the next day f
+2026-04-22 13:52:30,872 [DEBUG]   Filtered (not relevant): How to watch syracuse.com’s baseball Game of the Week: C-NS vs. F-M at NBT Bank 
+2026-04-22 13:52:30,872 [DEBUG]   Filtered (not relevant): $10K Syracuse Prize: CNY Arts announces 5 finalists for inaugural award
+2026-04-22 13:52:30,873 [DEBUG]   Filtered (not relevant): Iran war could drive up costs for clothes, crayons, stuffed toys, more
+2026-04-22 13:52:30,873 [DEBUG]   Filtered (not relevant): Civil rights group charged, accused of secretly paying extremist informants
+2026-04-22 13:52:30,874 [DEBUG]   Filtered (not relevant): Section III baseball pitching leaders by league (through April 21)
+2026-04-22 13:52:30,874 [DEBUG]   Filtered (not relevant): College student from Central NY charged with possession of child sex abuse mater
+2026-04-22 13:52:30,874 [DEBUG]   Filtered (not relevant): Section III baseball hitting leaders by league (through April 21)
+2026-04-22 13:52:30,875 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: Tired of brown sugar turning rock hard? Here’s what to do
+2026-04-22 13:52:30,875 [DEBUG]   Filtered (not relevant): Texas can require public schools to display Ten Commandments in classrooms, cour
+2026-04-22 13:52:30,876 [DEBUG]   Filtered (not relevant): Recipes: 3 quick options to break the Ramadan fast
+2026-04-22 13:52:30,876 [DEBUG]   Filtered (not relevant): Asking Eric: An elder care alternative when the conversation is too difficult to
+2026-04-22 13:52:30,876 [INFO]   Relevant: Syracuse police union sought review that led to suspending watchdog’s investigat
+2026-04-22 13:52:30,876 [DEBUG]     → Departments: Syracuse Police Department, Law Department
+2026-04-22 13:52:30,876 [DEBUG]     → Keywords: syracuse police
+2026-04-22 13:52:34,888 [INFO]     Dedup match: CTX-NEWS-2026-00059 — linking via cluster
+2026-04-22 13:52:34,889 [INFO]     Saved: CTX-NEWS-2026-00060 → CTX-NEWS-2026-00060.json
+2026-04-22 13:52:34,889 [DEBUG]   Filtered (not relevant): Police blotter: See 255 new arrests added (April 22, 2026)
+2026-04-22 13:52:34,890 [DEBUG]   Filtered (not relevant): Could a former Cicero-North Syracuse football star be taken early in the 2026 NF
+2026-04-22 13:52:34,890 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for April 22
+2026-04-22 13:52:34,890 [DEBUG]   Filtered (not relevant): Zoo group says it has been bullied by Onondaga County officials (Good Morning CN
+2026-04-22 13:52:34,891 [DEBUG]   Filtered (not relevant): 2 US officials killed in Mexico crash worked for CIA anti-drug operation, source
+2026-04-22 13:52:34,891 [DEBUG]   Filtered (not relevant): Dear Abby: Friend seems to think my sex life should be an open book for her ente
+2026-04-22 13:52:34,892 [DEBUG]   Filtered (not relevant): Asking Eric: Friend made me executor of her estate, but refuses to do the smalle
+2026-04-22 13:52:34,893 [DEBUG]   Filtered (not relevant): Iran fires on 3 ships in Strait of Hormuz, complicating US talks
+2026-04-22 13:52:34,893 [DEBUG]   Filtered (not relevant): Central NY weather: Region gets short break before cool, wet pattern returns
+2026-04-22 13:52:34,893 [DEBUG]   Filtered (not relevant): Legendary guitarist dies at 79; was ‘the Forrest Gump of rock’
+2026-04-22 13:52:34,894 [DEBUG]   Filtered (not relevant): Foundation director Deka Eysaman on leading with vision: ‘See more of what is po
+2026-04-22 13:52:34,894 [DEBUG]   Filtered (not relevant): Youth turkey hunt returns to New York this weekend
+2026-04-22 13:52:34,894 [DEBUG]   Filtered (not relevant): Trump strips union rights from 1,400 Fort Drum and Rome defense workers
+2026-04-22 13:52:34,895 [DEBUG]   Filtered (not relevant): Dear Abby: Drug addict son is being scammed by ‘23-year-old actress,’ and there’
+2026-04-22 13:52:34,896 [DEBUG]   Filtered (not relevant): Dear Abby: Afraid to talk to girl I like because of drag queen co-worker; who’s 
+2026-04-22 13:52:34,896 [DEBUG]   Filtered (not relevant): Mega Millions numbers: Are you the lucky winner of Tuesday’s $140 million jackpo
+2026-04-22 13:52:34,896 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for April 21
+2026-04-22 13:52:34,897 [DEBUG]   Filtered (not relevant): Cortland baseball wins ‘soaking wet’ game behind relief pitcher’s milestone (49 
+2026-04-22 13:52:34,897 [DEBUG]   Filtered (not relevant): CBA baseball bounces back with fiery start: ‘Yesterday’s news’ (21 photos)
+2026-04-22 13:52:34,897 [DEBUG]   Filtered (not relevant): Ronny Mauricio three home runs lead Syracuse Mets past Worcester
+2026-04-22 13:52:34,898 [DEBUG]   Filtered (not relevant): John A. Cirando reappointed to IOLA Fund Board of Trustees
+2026-04-22 13:52:34,898 [DEBUG]   Filtered (not relevant): Bills’ Josh Allen just did the most Buffalo thing ever at the Sabres playoff gam
+2026-04-22 13:52:34,899 [DEBUG]   Filtered (not relevant): Extended BetMGM Bonus Code CUSEMGM: $150 bonus and $5K+ casino deal in MI throug
+2026-04-22 13:52:34,899 [DEBUG]   Filtered (not relevant): Friends of the Zoo tell lawmakers they have been bullied by Onondaga County offi
+2026-04-22 13:52:34,899 [DEBUG]   Filtered (not relevant): Syracuse’s ArtRage Gallery hosts new exhibit exploring global plastic crisis
+2026-04-22 13:52:34,900 [DEBUG]   Filtered (not relevant): Where to watch Rockets vs. Lakers Game 2: NBA Playoffs free stream
+2026-04-22 13:52:34,901 [DEBUG]   Filtered (not relevant): Quick, bright dinners for winter
+2026-04-22 13:52:34,901 [DEBUG]   Filtered (not relevant): AMC to release limited-edition purse popcorn bucket in honor of upcoming film
+2026-04-22 13:52:34,902 [INFO] News Scanner Run — 2026-04-22 13:52
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Syracuse police union sought review that led to suspending watchdog’s investigat
+
