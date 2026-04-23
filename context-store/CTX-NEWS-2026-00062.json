@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-NEWS-2026-00062",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/04/micron-exec-says-company-is-ahead-of-schedule-on-clay-factory-that-will-transform-this-region.html",
+  "publication_date": "2026-04-22",
+  "capture_date": "2026-04-23T13:55:22Z",
+  "title": "Micron exec says company is ahead of schedule on Clay factory that will ‘transform this region’",
+  "summary": "Micron Technology reports its Clay, NY semiconductor manufacturing facility is ahead of schedule and positioned to be the largest of its kind in the U.S., with potential for significant regional economic transformation. This development presents opportunities for workforce development, infrastructure planning, and economic development alignment for the City of Syracuse.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "workforce-development",
+    "infrastructure",
+    "business-community",
+    "announcement",
+    "PROVISIONAL:semiconductor-manufacturing"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Rick Moriarty",
+      "type": "person",
+      "canonical_id": "PERSON-RICK-MORIARTY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Major private sector investment in region with stated transformative economic impact aligns with municipal economic development priorities and may require coordinated city planning and infrastructure support.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on corporate announcement; no municipal budget, policy, or departmental impact details provided",
+    "Clay is adjacent town; relevance to Syracuse CIO contingent on regional coordination needs",
+    "No specific dollar amounts, timeline milestones, or city deliverables mentioned",
+    "Potential downstream implications for permitting, utilities, transportation, and workforce training not yet detailed",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

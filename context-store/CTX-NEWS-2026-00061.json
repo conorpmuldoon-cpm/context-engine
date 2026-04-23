@@ -1,0 +1,41 @@
+{
+  "record_id": "CTX-NEWS-2026-00061",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/04/le-moyne-college-celebrates-favorite-springtime-tradition-with-55th-annual-dolphy-day.html",
+  "publication_date": "2026-04-22",
+  "capture_date": "2026-04-23T13:55:18Z",
+  "title": "Le Moyne College celebrates favorite springtime tradition with 55th annual Dolphy Day",
+  "summary": "Le Moyne College celebrates its 55th annual Dolphy Day springtime tradition. This is a community cultural event with limited direct relevance to City of Syracuse municipal operations, innovation initiatives, or departmental functions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Le Moyne College",
+      "type": "organization",
+      "canonical_id": "ORG-LEMOYNE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article describes a private college tradition and is not directly relevant to City of Syracuse Chief Innovation Officer priorities or municipal operations",
+    "No budget, policy, infrastructure, or departmental implications detected",
+    "May be tangentially relevant only if mapped to broader community engagement or higher-education partnership initiatives",
+    "Author: Chloe Trofatter; Source: syracuse.com local news section",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
