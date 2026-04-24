@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2026-00065",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/04/lysander-town-board-moves-forward-on-data-center-moratorium-as-massive-project-looms.html",
+  "publication_date": "2026-04-24",
+  "capture_date": "2026-04-24T13:45:57Z",
+  "title": "Lysander town board moves forward on data center moratorium as massive project looms",
+  "summary": "Lysander town board is advancing a proposed six-month moratorium on data center development, with a public hearing scheduled for May 7, 2026. This regulatory action suggests local government is evaluating infrastructure and land-use impacts from large-scale data center projects in the region.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "land-use",
+    "zoning",
+    "permitting",
+    "legislation",
+    "policy-change",
+    "economic-development",
+    "IT-infrastructure"
+  ],
+  "department_refs": [
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Lysander Town Board",
+      "type": "organization",
+      "canonical_id": "ORG-LYSANDER-TB"
+    },
+    {
+      "name": "Tim Knauss",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Town board initiating regulatory pause on data center development, suggesting local concerns about infrastructure capacity, environmental impact, or uncoordinated regional growth. May indicate constituent pressure or need for comprehensive land-use planning.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references 'massive project looms' but specific project details not provided in excerpt",
+    "This is a neighboring jurisdiction (Lysander) action but relevant to Syracuse CIO for regional infrastructure planning and potential competitive/collaborative implications",
+    "No dollar amounts or specific entity names associated with the proposed data center project mentioned",
+    "Public hearing date (May 7) provides actionable timeline for engagement or monitoring",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

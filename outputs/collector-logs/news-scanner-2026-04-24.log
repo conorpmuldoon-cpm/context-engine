@@ -1,0 +1,88 @@
+2026-04-24 13:45:42,377 [INFO] ============================================================
+2026-04-24 13:45:42,377 [INFO] News Scanner starting
+2026-04-24 13:45:42,378 [INFO] Fetching: Syracuse.com Politics
+2026-04-24 13:45:42,910 [INFO]   50 new articles from Syracuse.com Politics
+2026-04-24 13:45:42,910 [INFO] Fetching: Syracuse.com Government
+2026-04-24 13:45:43,121 [INFO]   0 new articles from Syracuse.com Government
+2026-04-24 13:45:43,121 [INFO] Fetching: Syracuse.com Local
+2026-04-24 13:45:43,314 [INFO]   0 new articles from Syracuse.com Local
+2026-04-24 13:45:43,314 [INFO] Fetching: Syracuse.com Main
+2026-04-24 13:45:43,513 [INFO]   0 new articles from Syracuse.com Main
+2026-04-24 13:45:43,513 [INFO] Total unique articles across all feeds: 50
+2026-04-24 13:45:43,513 [INFO] New articles (not previously processed): 50
+2026-04-24 13:45:43,561 [DEBUG]   Filtered (not relevant): Ryan Blackwell discusses his unique new role on Gerry McNamara’s staff
+2026-04-24 13:45:43,562 [DEBUG]   Filtered (not relevant): Former Mattydale firefighter charged with sexual act with teen; deputies seek ot
+2026-04-24 13:45:43,563 [DEBUG]   Filtered (not relevant): Dear Doctor: What is ‘vagus nerve stimulation,’ and can it treat my rheumatoid a
+2026-04-24 13:45:43,563 [DEBUG]   Filtered (not relevant): Father of Salina man who killed 2 police officers admits to illegal gun possessi
+2026-04-24 13:45:43,563 [DEBUG]   Filtered (not relevant): The Buffalo Bills outsmarted 3 NFL teams in a single night and walked away with 
+2026-04-24 13:45:43,564 [DEBUG]   Filtered (not relevant): Meet syracuse.com’s 2025-26 All-CNY Division I boys hockey team
+2026-04-24 13:45:43,564 [INFO]   Relevant: Traffic alert: Road closures set for Sunday’s Step Up 4 Kids 5K, fun run in Syra
+2026-04-24 13:45:43,565 [DEBUG]     → Keywords: city officials
+2026-04-24 13:45:47,886 [WARNING]     Tag issue: Unknown tag 'community-event' not in taxonomy
+2026-04-24 13:45:47,913 [INFO]     Saved: CTX-NEWS-2026-00063 → CTX-NEWS-2026-00063.json
+2026-04-24 13:45:47,914 [INFO]   Relevant: Syracuse University has spent 4 years fighting to keep student center tax exempt
+2026-04-24 13:45:47,914 [DEBUG]     → Entities: Syracuse University
+2026-04-24 13:45:47,914 [DEBUG]     → Keywords: city of syracuse
+2026-04-24 13:45:52,447 [INFO]     Saved: CTX-NEWS-2026-00064 → CTX-NEWS-2026-00064.json
+2026-04-24 13:45:52,448 [DEBUG]   Filtered (not relevant): 3 Syracuse bookstores where you can find your next read without breaking the ban
+2026-04-24 13:45:52,448 [DEBUG]   Filtered (not relevant): 
+2026-04-24 13:45:52,449 [DEBUG]   Filtered (not relevant): Dear Annie: Brother-in-law loves to tell offensive jokes, then gaslight me for b
+2026-04-24 13:45:52,449 [DEBUG]   Filtered (not relevant): Ice Spice concert in Albany changes venues days beforehand
+2026-04-24 13:45:52,450 [DEBUG]   Filtered (not relevant): Syracuse Sandwiches: Lombardi’s lets simplicity and ingredients do all the work
+2026-04-24 13:45:52,450 [DEBUG]   Filtered (not relevant): Unified basketball players set to take center stage with first-ever media day
+2026-04-24 13:45:52,450 [DEBUG]   Filtered (not relevant): Central NY woman arrested for child exploitation, police say
+2026-04-24 13:45:52,451 [DEBUG]   Filtered (not relevant): Ex-cop planned to shoot Black people at New Orleans festival, police say
+2026-04-24 13:45:52,451 [DEBUG]   Filtered (not relevant): Section III flag football stat leaders (through April 23)
+2026-04-24 13:45:52,452 [DEBUG]   Filtered (not relevant): Asking Eric: I never asked for a larger piece of the inheritance; I think I migh
+2026-04-24 13:45:52,452 [INFO]   Relevant: Lysander town board moves forward on data center moratorium as massive project l
+2026-04-24 13:45:52,452 [DEBUG]     → Departments: Department of Permits and Development
+2026-04-24 13:45:52,452 [DEBUG]     → Keywords: public hearing
+2026-04-24 13:45:57,346 [INFO]     Saved: CTX-NEWS-2026-00065 → CTX-NEWS-2026-00065.json
+2026-04-24 13:45:57,347 [INFO]   Relevant: No. 5 Syracuse lacrosse hunting for ACC regular-season title at No. 1 Notre Dame
+2026-04-24 13:45:57,347 [DEBUG]     → Entities: Syracuse University
+2026-04-24 13:46:00,137 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-04-24 13:46:00,148 [INFO]     Saved: CTX-NEWS-2026-00066 → CTX-NEWS-2026-00066.json
+2026-04-24 13:46:00,148 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for April 24
+2026-04-24 13:46:00,149 [DEBUG]   Filtered (not relevant): Gochujang tofu, squash and Brussels sprouts bowls
+2026-04-24 13:46:00,149 [DEBUG]   Filtered (not relevant): Hundreds of SU faculty, researchers may unionize (Good Morning CNY)
+2026-04-24 13:46:00,150 [DEBUG]   Filtered (not relevant): How Unified Sports changed who gets to belong: ‘They are the best people on the 
+2026-04-24 13:46:00,150 [DEBUG]   Filtered (not relevant): Central NY weather: A beautiful Friday, but Saturday will be a washout
+2026-04-24 13:46:00,151 [DEBUG]   Filtered (not relevant): Asking Eric: Sister’s deadbeat adult son is taking his mooching to a new, abusiv
+2026-04-24 13:46:00,151 [DEBUG]   Filtered (not relevant): Classic rock legend in ‘end stages of Alzheimer’s,’ former bandmate says
+2026-04-24 13:46:00,151 [DEBUG]   Filtered (not relevant): When was the last time SU basketball multiple Section III players on the roster?
+2026-04-24 13:46:00,152 [DEBUG]   Filtered (not relevant): It’s prom season again: We’ll bring you 1000s of photos from 40+ proms across Ce
+2026-04-24 13:46:00,152 [DEBUG]   Filtered (not relevant): Bills 2026 draft: Here are 7 big targets left after Buffalo trades out of 1st ro
+2026-04-24 13:46:00,153 [DEBUG]   Filtered (not relevant): Hiker rescued after drinking, passing out in Adirondack fire tower
+2026-04-24 13:46:00,153 [DEBUG]   Filtered (not relevant): House of the Week: Enjoy the sounds and views of Brickyard Falls at this Manlius
+2026-04-24 13:46:00,153 [DEBUG]   Filtered (not relevant): Dear Abby: 5 years with boyfriend and he still won’t give me a key to his place;
+2026-04-24 13:46:00,154 [DEBUG]   Filtered (not relevant): Trump orders US military to ‘shoot and kill’ Iranian boats choking Strait of Hor
+2026-04-24 13:46:00,155 [DEBUG]   Filtered (not relevant): Dear Abby: In deep with a boyfriend whose expenses are piling up, and life choic
+2026-04-24 13:46:00,155 [DEBUG]   Filtered (not relevant): Why Noah Kahan’s ‘Pain is Cold Water’ isn't on ‘The Great Divide'
+2026-04-24 13:46:00,155 [DEBUG]   Filtered (not relevant): 2026 NFL mock draft: Buffalo Bills turn three first-round trades into multiple c
+2026-04-24 13:46:00,156 [DEBUG]   Filtered (not relevant): The Bills just aced the first round of the NFL Draft without making a single sel
+2026-04-24 13:46:00,156 [DEBUG]   Filtered (not relevant): West Genesee girls lacrosse beats C-NS for 1st time in 5 years
+2026-04-24 13:46:00,156 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for April 23
+2026-04-24 13:46:00,157 [DEBUG]   Filtered (not relevant): F-M softball shuts out Oswego in inaugural ‘Pink Out’ game
+2026-04-24 13:46:00,157 [DEBUG]   Filtered (not relevant): NHL Underdog promo code “SYRACUSE” upgrades $50 bonus with $1K deposit match for
+2026-04-24 13:46:00,158 [DEBUG]   Filtered (not relevant): Baldwinsville’s Alex Tuch scores go-ahead goal as Sabres beat Bruins
+2026-04-24 13:46:00,158 [DEBUG]   Filtered (not relevant): Buffalo Bills make three first-round trades with Texans, Patriots and Titans
+2026-04-24 13:46:00,159 [DEBUG]   Filtered (not relevant): Where to buy Jeremiyah Love Cardinals jersey with free shipping
+2026-04-24 13:46:00,159 [DEBUG]   Filtered (not relevant): Where to buy No. 2 pick David Bailey jersey with free shipping
+2026-04-24 13:46:00,160 [DEBUG]   Filtered (not relevant): NFL Draft: Arvell Reese Giants jersey just dropped on Fanatics — where to buy be
+2026-04-24 13:46:00,160 [DEBUG]   Filtered (not relevant): NFL Draft: Carnell Tate Titans jersey just dropped on Fanatics — where to buy be
+2026-04-24 13:46:00,160 [DEBUG]   Filtered (not relevant): NTSB: Firefighter heard ‘stop, stop’ before LaGuardia jet crash, didn’t know who
+2026-04-24 13:46:00,161 [DEBUG]   Filtered (not relevant): How to buy Fernando Mendoza Raiders jersey with free shipping
+2026-04-24 13:46:00,162 [INFO] News Scanner Run — 2026-04-24 13:46
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 4
+Filtered (not relevant): 46
+Errors: 0
+
+New records:
+  • Traffic alert: Road closures set for Sunday’s Step Up 4 Kids 5K, fun run in Syra
+  • Syracuse University has spent 4 years fighting to keep student center tax exempt
+  • Lysander town board moves forward on data center moratorium as massive project l
+  • No. 5 Syracuse lacrosse hunting for ACC regular-season title at No. 1 Notre Dame
+

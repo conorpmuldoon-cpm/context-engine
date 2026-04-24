@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00066",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangelacrosse/2026/04/no-5-syracuse-lacrosse-hunting-for-acc-regular-season-title-at-no1-notre-dame.html",
+  "publication_date": "2026-04-24",
+  "capture_date": "2026-04-24T13:46:00Z",
+  "title": "No. 5 Syracuse lacrosse hunting for ACC regular-season title at No. 1 Notre Dame",
+  "summary": "This article covers Syracuse University men's lacrosse team's matchup against Notre Dame and is not relevant to City of Syracuse municipal operations, innovation initiatives, or Chief Innovation Officer priorities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Notre Dame",
+      "type": "organization",
+      "canonical_id": "ORG-ND"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is about university athletics, not municipal government or city innovation",
+    "Despite geographic reference to 'Syracuse, N.Y.,' content relates to Syracuse University sports, not City of Syracuse operations",
+    "No alignment with CIO mandate; recommend filtering out sports coverage in future indexing",
+    "Entity extraction correctly identified organizations but content is out of scope for municipal innovation context engine",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00063",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/traffic/2026/04/traffic-alert-road-closures-set-for-sundays-step-up-4-kids-5k-fun-run-in-syracuse.html",
+  "publication_date": "2026-04-24",
+  "capture_date": "2026-04-24T13:45:47Z",
+  "title": "Traffic alert: Road closures set for Sunday’s Step Up 4 Kids 5K, fun run in Syracuse",
+  "summary": "McMahon Ryan Child Advocacy Center's Step Up 4 Kids 5K event will cause street closures around Leavenworth Park on Sunday morning (9:00-9:30 a.m.). The city has coordinated traffic management for this community event, affecting perimeter roads around the park.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "roads-bridges",
+    "transportation",
+    "parks",
+    "community-event"
+  ],
+  "department_refs": [
+    "Department of Transportation",
+    "Parks and Recreation"
+  ],
+  "entity_refs": [
+    {
+      "name": "McMahon Ryan Child Advocacy Center",
+      "type": "organization",
+      "canonical_id": "ORG-MRCA"
+    },
+    {
+      "name": "Leavenworth Park",
+      "type": "system",
+      "canonical_id": "PARK-LEAVENWORTH"
+    },
+    {
+      "name": "Greta Stuckey",
+      "type": "person",
+      "canonical_id": "PERSON-GRETA-STUCKEY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Event is community/nonprofit-driven rather than city-initiated; article is informational traffic notice only",
+    "No budget, procurement, or policy implications detected",
+    "Date metadata: published 2026-04-24 for Sunday event (likely 2026-04-26)",
+    "No CIO-specific digital services, IT, or innovation initiative angles identified",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'community-event' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

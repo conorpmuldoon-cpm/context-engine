@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00064",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/syracuse-university/2026/04/syracuse-university-has-spent-4-years-fighting-to-keep-student-center-tax-exempt.html",
+  "publication_date": "2026-04-24",
+  "capture_date": "2026-04-24T13:45:52Z",
+  "title": "Syracuse University has spent 4 years fighting to keep student center tax exempt",
+  "summary": "Syracuse University has engaged in a four-year legal dispute with the City of Syracuse over property tax exemption status for a portion of its student center. This ongoing litigation directly impacts municipal tax revenue and highlights potential conflicts between institutional tax-exempt status claims and city financial interests.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "tax-revenue",
+    "intergovernmental",
+    "investigation",
+    "escalating",
+    "land-use"
+  ],
+  "department_refs": [
+    "Department of Finance",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Extended litigation over institutional tax-exempt property suggests ongoing tension between major anchor institution and municipal government regarding tax base preservation and equitable contribution to city services.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No specific dollar amount of tax revenue at stake was provided in article excerpt",
+    "Four-year duration indicates significant administrative and legal resource commitment by city",
+    "Article focuses on institutional dispute; CIO relevance is primarily through tax revenue impact on municipal IT/digital services budgets",
+    "No specific technology systems or digital services mentioned in provided content",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
