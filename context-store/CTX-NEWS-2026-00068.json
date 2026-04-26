@@ -1,0 +1,50 @@
+{
+  "record_id": "CTX-NEWS-2026-00068",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/sports/2026/04/le-moyne-womens-lacrosse-clinches-nec-regular-season-title.html",
+  "publication_date": "2026-04-26",
+  "capture_date": "2026-04-26T13:16:05Z",
+  "title": "Le Moyne women’s lacrosse clinches NEC regular season title",
+  "summary": "Le Moyne College women's lacrosse team clinched the Northeast Conference regular season championship with a 22-8 victory over Central Connecticut State. While primarily a sports news article, this represents positive institutional recognition for a local higher education partner.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Le Moyne College",
+      "type": "organization",
+      "canonical_id": "ORG-LEMOYNE"
+    },
+    {
+      "name": "Maddi Barney",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Central Connecticut State",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is sports-focused with no direct relevance to CIO operations or municipal innovation priorities",
+    "No policy, infrastructure, digital services, or governance implications detected",
+    "Le Moyne College is a regional education institution; limited strategic alignment with city innovation initiatives unless part of broader university partnership or community engagement portfolio",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

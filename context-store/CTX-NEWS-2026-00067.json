@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-NEWS-2026-00067",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/04/dont-give-up-on-the-syracuse-citizen-review-board-without-a-fight-editorial-board-opinion.html",
+  "publication_date": "2026-04-26",
+  "capture_date": "2026-04-26T13:16:02Z",
+  "title": "Don’t give up on the Syracuse Citizen Review Board without a fight (Editorial Board Opinion)",
+  "summary": "Editorial board opinion piece advocates for Syracuse city government to actively defend the Syracuse Citizen Review Board, framing police accountability as a mission requiring sustained institutional commitment rather than passive acceptance of the board's potential dissolution.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "public-safety-commission",
+    "accountability",
+    "transparency",
+    "policy-change",
+    "advocacy"
+  ],
+  "department_refs": [
+    "Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Citizen Review Board",
+      "type": "system",
+      "canonical_id": "SYS-SCRB"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Editorial board championing survival and institutional support of citizen oversight body; implicit criticism of city government passivity regarding police accountability mechanisms",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is opinion/editorial rather than news report; framed as normative argument about institutional values",
+    "No specific policy proposals, budget impacts, or legislative actions mentioned",
+    "Suggests potential governance tension regarding SCRB status or resources not detailed in excerpt",
+    "May indicate trending constituent pressure or council debate on SCRB continuation",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'accountability' not in taxonomy",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,81 @@
+2026-04-26 13:15:58,057 [INFO] ============================================================
+2026-04-26 13:15:58,057 [INFO] News Scanner starting
+2026-04-26 13:15:58,059 [INFO] Fetching: Syracuse.com Politics
+2026-04-26 13:15:58,532 [INFO]   50 new articles from Syracuse.com Politics
+2026-04-26 13:15:58,532 [INFO] Fetching: Syracuse.com Government
+2026-04-26 13:15:58,688 [INFO]   0 new articles from Syracuse.com Government
+2026-04-26 13:15:58,688 [INFO] Fetching: Syracuse.com Local
+2026-04-26 13:15:58,844 [INFO]   0 new articles from Syracuse.com Local
+2026-04-26 13:15:58,844 [INFO] Fetching: Syracuse.com Main
+2026-04-26 13:15:58,996 [INFO]   0 new articles from Syracuse.com Main
+2026-04-26 13:15:58,996 [INFO] Total unique articles across all feeds: 50
+2026-04-26 13:15:58,997 [INFO] New articles (not previously processed): 50
+2026-04-26 13:15:59,043 [DEBUG]   Filtered (not relevant): Former Syracuse safety signs with Chargers as undrafted free agent
+2026-04-26 13:15:59,043 [DEBUG]   Filtered (not relevant): Asking Eric: I sorta kinda stole-without-stealing my brother-in-law’s coat, but 
+2026-04-26 13:15:59,044 [DEBUG]   Filtered (not relevant): C.W. Baker High School 2026 prom: See 98 photos
+2026-04-26 13:15:59,044 [DEBUG]   Filtered (not relevant): Seneca County real estate: See all residential properties sold, April 6-19
+2026-04-26 13:15:59,044 [DEBUG]   Filtered (not relevant): Holiday movie filming in Upstate NY with figure skating legend
+2026-04-26 13:15:59,045 [DEBUG]   Filtered (not relevant): Jamesville-DeWitt High School 2026 prom: See 79 photos
+2026-04-26 13:15:59,045 [DEBUG]   Filtered (not relevant): Editorial cartoons for April 26, 2026: Hormuz Strait of confusion, embattled Kas
+2026-04-26 13:15:59,046 [DEBUG]   Filtered (not relevant): Asking Eric: Every casual conversation with mom spirals into a flood of lies abo
+2026-04-26 13:15:59,046 [DEBUG]   Filtered (not relevant): Former Syracuse offensive tackle signing with Buffalo Bills (report)
+2026-04-26 13:15:59,046 [DEBUG]   Filtered (not relevant): Former Syracuse player signs with NFL team after 8-year college career (report)
+2026-04-26 13:15:59,047 [DEBUG]   Filtered (not relevant): Trump has Lincoln Memorial reflecting pool painted to appear more blue
+2026-04-26 13:15:59,047 [DEBUG]   Filtered (not relevant): Nu metal band returns with first new song since original member’s exit
+2026-04-26 13:15:59,048 [DEBUG]   Filtered (not relevant): $715,000 for 4,000+ sq. ft. Colonial: Plus more Onondaga County home sales
+2026-04-26 13:15:59,048 [DEBUG]   Filtered (not relevant): Where to watch Chelsea vs. Leeds United: FA Cup soccer free stream
+2026-04-26 13:15:59,049 [DEBUG]   Filtered (not relevant): Honey sesame halloumi spinach salad
+2026-04-26 13:15:59,049 [DEBUG]   Filtered (not relevant): Decade after Onondaga Lake cleanup, mercury still high in fish (Top stories)
+2026-04-26 13:15:59,050 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for April 26
+2026-04-26 13:15:59,050 [DEBUG]   Filtered (not relevant): Resilience defined CNY native Mike Washington Jr.’s path to NFL: ‘I was able to 
+2026-04-26 13:15:59,050 [INFO]   Relevant: Don’t give up on the Syracuse Citizen Review Board without a fight (Editorial Bo
+2026-04-26 13:15:59,050 [DEBUG]     → Keywords: city government
+2026-04-26 13:16:02,622 [WARNING]     Tag issue: Unknown tag 'accountability' not in taxonomy
+2026-04-26 13:16:02,622 [WARNING]     Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-04-26 13:16:02,640 [INFO]     Saved: CTX-NEWS-2026-00067 → CTX-NEWS-2026-00067.json
+2026-04-26 13:16:02,640 [DEBUG]   Filtered (not relevant): Actress dead at 57 after tragic gym incident
+2026-04-26 13:16:02,641 [DEBUG]   Filtered (not relevant): Central NY weather: Beautiful start to week before rain, chilly temperatures arr
+2026-04-26 13:16:02,641 [DEBUG]   Filtered (not relevant): Dear Abby: Wife’s super human ability to fall asleep is so unusual, it keeps ME 
+2026-04-26 13:16:02,642 [DEBUG]   Filtered (not relevant): Accused White House correspondents dinner attacker is identified, arrested
+2026-04-26 13:16:02,642 [DEBUG]   Filtered (not relevant): Roommate charged with murder in death, disappearance of two college students
+2026-04-26 13:16:02,643 [DEBUG]   Filtered (not relevant): CNY Inspirations: The worst lunch hour ever
+2026-04-26 13:16:02,643 [DEBUG]   Filtered (not relevant): Dear Abby: I love my narcissist wife too much to leave, or even expect her to ev
+2026-04-26 13:16:02,644 [DEBUG]   Filtered (not relevant): Weather alert for dense fog in parts of Upstate NY Sunday morning
+2026-04-26 13:16:02,644 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Saturday’s $118 million drawing
+2026-04-26 13:16:02,645 [DEBUG]   Filtered (not relevant): Son of former Buffalo Bills great joining team as undrafted free agent
+2026-04-26 13:16:02,646 [DEBUG]   Filtered (not relevant): Miso brown butter fried rice
+2026-04-26 13:16:02,646 [DEBUG]   Filtered (not relevant): Jordan-Elbridge High School 2026 prom: See 52 photos
+2026-04-26 13:16:02,647 [DEBUG]   Filtered (not relevant): Former Syracuse wide receiver signing with Jacksonville Jaguars (report)
+2026-04-26 13:16:02,647 [DEBUG]   Filtered (not relevant): Trump unharmed after shooting incident at White House correspondents’ dinner
+2026-04-26 13:16:02,648 [INFO]   Relevant: Le Moyne women’s lacrosse clinches NEC regular season title
+2026-04-26 13:16:02,648 [DEBUG]     → Entities: Le Moyne College
+2026-04-26 13:16:05,821 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-04-26 13:16:05,832 [INFO]     Saved: CTX-NEWS-2026-00068 → CTX-NEWS-2026-00068.json
+2026-04-26 13:16:05,832 [DEBUG]   Filtered (not relevant): Former Syracuse TE signs with Los Angeles Rams after NFL draft
+2026-04-26 13:16:05,833 [DEBUG]   Filtered (not relevant): Former Syracuse defensive tackle signs with Ravens as undrafted free agent
+2026-04-26 13:16:05,833 [DEBUG]   Filtered (not relevant): Buffalo Bills draft a punter, another CB and o-lineman in 7th round of 2026 NFL 
+2026-04-26 13:16:05,833 [DEBUG]   Filtered (not relevant): Flood warning issued for Monroe County until Sunday midday triggered by signific
+2026-04-26 13:16:05,834 [DEBUG]   Filtered (not relevant): Former Syracuse defensive lineman signs with Pittsburgh Steelers after NFL draft
+2026-04-26 13:16:05,834 [DEBUG]   Filtered (not relevant): Worcester Red Sox rally past Syracuse Mets 9-2 Saturday
+2026-04-26 13:16:05,834 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for April 25
+2026-04-26 13:16:05,835 [DEBUG]   Filtered (not relevant): Most expensive homes sold in four Central NY counties from April 13 to 19
+2026-04-26 13:16:05,835 [DEBUG]   Filtered (not relevant): Former Syracuse All-ACC punter signing with Houston Texans after NFL draft
+2026-04-26 13:16:05,836 [DEBUG]   Filtered (not relevant): Seneca County real estate: 10 most expensive homes sold, March 30-April 19
+2026-04-26 13:16:05,837 [DEBUG]   Filtered (not relevant): Charred broccoli and salmon noodle salad
+2026-04-26 13:16:05,837 [DEBUG]   Filtered (not relevant): Bills UDFA tracker 2026: Reports & rumors on who team signed following NFL Draft
+2026-04-26 13:16:05,838 [DEBUG]   Filtered (not relevant): 5 thoughts and a grade on Bills new DE T.J. Parker
+2026-04-26 13:16:05,838 [DEBUG]   Filtered (not relevant): Four-star WR nicknamed ‘Speedy’ picks SEC school after listing Syracuse as final
+2026-04-26 13:16:05,839 [DEBUG]   Filtered (not relevant): Where to watch Nuggets vs. Timberwolves: NBA Playoffs free live stream
+2026-04-26 13:16:05,839 [DEBUG]   Filtered (not relevant): Oneida County real estate: 10 most expensive homes sold, April 13-19
+2026-04-26 13:16:05,841 [INFO] News Scanner Run — 2026-04-26 13:16
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Don’t give up on the Syracuse Citizen Review Board without a fight (Editorial Bo
+  • Le Moyne women’s lacrosse clinches NEC regular season title
+
