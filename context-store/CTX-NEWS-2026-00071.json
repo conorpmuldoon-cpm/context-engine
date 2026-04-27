@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00071",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/04/neighbors-safety-expert-say-pool-at-vacant-house-owned-by-micron-is-dangerous.html",
+  "publication_date": "2026-04-27",
+  "capture_date": "2026-04-27T14:04:47Z",
+  "title": "Neighbors, safety expert say abandoned backyard pool owned by Micron is dangerous",
+  "summary": "Neighbors and safety experts are raising concerns about an abandoned residential pool on a Henry Clay Boulevard property owned by Micron Technology. The property was purchased nearly three years ago by the company for a planned industrial wastewater line project, but the pool presents an apparent public safety hazard requiring municipal attention.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "complaint",
+    "code-enforcement",
+    "public-safety-commission",
+    "residents",
+    "land-use",
+    "investigation",
+    "PROVISIONAL:abandoned-property"
+  ],
+  "department_refs": [
+    "Department of Neighborhood Services",
+    "Department of Code Enforcement"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Glenn Coin",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Community members escalating concerns about corporate property maintenance standards and municipal enforcement of safety codes on industrial company holdings within residential areas.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on property safety hazard rather than Micron's primary development project",
+    "No dollar amounts or specific timeline for wastewater line project mentioned",
+    "May relate to broader code-enforcement or permitting processes for stalled commercial projects in residential zones",
+    "Consider cross-referencing with 311 service requests and GIS mapping of Micron holdings in Syracuse",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

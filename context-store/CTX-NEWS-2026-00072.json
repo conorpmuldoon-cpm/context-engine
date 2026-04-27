@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00072",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/04/a-proposed-9-story-syracuse-apartment-building-just-got-way-smaller-heres-why.html",
+  "publication_date": "2026-04-27",
+  "capture_date": "2026-04-27T14:04:51Z",
+  "title": "A proposed 9-story Syracuse apartment building just got way smaller — here’s why",
+  "summary": "A developer is reducing the scope of a proposed 9-story apartment building near Syracuse University due to rising construction costs. This project impacts housing development, land-use planning, and economic development in Syracuse's university district.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "land-use",
+    "economic-development",
+    "construction-staging",
+    "permitting"
+  ],
+  "department_refs": [
+    "Department of Permitting and Planning",
+    "Economic Development Administration"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-U"
+    },
+    {
+      "name": "Rick Moriarty",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Rising construction costs driving project scope reduction signals potential affordability and housing supply challenges in the local development market; may indicate headwinds for residential investment near university anchor.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article mentions cost pressures as primary driver but lacks specifics on final project size, timeline, or affordable housing components",
+    "Developer identity not extracted from provided content snippet",
+    "Recommend follow-up to assess impact on housing supply targets and university district revitalization priorities",
+    "No dollar amounts or specific permitting details provided in excerpt",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,52 @@
+{
+  "record_id": "CTX-NEWS-2026-00070",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/04/su-grad-next-to-trump-during-wh-correspondents-dinner-shooting-i-was-crawling.html",
+  "publication_date": "2026-04-27",
+  "capture_date": "2026-04-27T14:04:44Z",
+  "title": "SU grad next to Trump during WH correspondents dinner shooting: ‘I was crawling’",
+  "summary": "A Syracuse University graduate was present at the White House Correspondents Dinner when a shooting incident occurred, positioned near President Trump. The article documents a firsthand account of the emergency response and chaos that ensued. This is a national security incident with local Syracuse connection through the SU alumna.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "emergency-services",
+    "trending"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Donald Trump",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "White House",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily national news (White House security incident) with minimal direct Syracuse municipal governance relevance",
+    "Local angle is limited to SU graduate connection; no city policy, budget, or operations implications detected",
+    "Event date (2026-04-27) is future-dated; metadata capture for trending/alumni interest only",
+    "No Syracuse city departments, initiatives, or services referenced in article content",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

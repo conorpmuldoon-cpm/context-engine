@@ -1,0 +1,85 @@
+2026-04-27 14:04:36,055 [INFO] ============================================================
+2026-04-27 14:04:36,055 [INFO] News Scanner starting
+2026-04-27 14:04:36,057 [INFO] Fetching: Syracuse.com Politics
+2026-04-27 14:04:37,136 [INFO]   50 new articles from Syracuse.com Politics
+2026-04-27 14:04:37,136 [INFO] Fetching: Syracuse.com Government
+2026-04-27 14:04:37,282 [INFO]   0 new articles from Syracuse.com Government
+2026-04-27 14:04:37,282 [INFO] Fetching: Syracuse.com Local
+2026-04-27 14:04:37,455 [INFO]   0 new articles from Syracuse.com Local
+2026-04-27 14:04:37,455 [INFO] Fetching: Syracuse.com Main
+2026-04-27 14:04:37,597 [INFO]   0 new articles from Syracuse.com Main
+2026-04-27 14:04:37,597 [INFO] Total unique articles across all feeds: 50
+2026-04-27 14:04:37,597 [INFO] New articles (not previously processed): 50
+2026-04-27 14:04:37,643 [DEBUG]   Filtered (not relevant): Roasted cauliflower, chickpeas and dates
+2026-04-27 14:04:37,643 [DEBUG]   Filtered (not relevant): How to secure Karol G tickets during hectic presale before they sell out
+2026-04-27 14:04:37,644 [DEBUG]   Filtered (not relevant): Dear Doctor: Are my osteoporosis meds putting me at risk of a serious dental eme
+2026-04-27 14:04:37,644 [DEBUG]   Filtered (not relevant): Syracuse football cornerback getting early first-round buzz for 2027 NFL Draft
+2026-04-27 14:04:37,645 [DEBUG]   Filtered (not relevant): Walmart is having a $200 off deal on the highly-rated Garmin Instinct 2X Solar w
+2026-04-27 14:04:37,645 [DEBUG]   Filtered (not relevant): Planning a party? NYS fairgrounds just made it cheaper to rent a space
+2026-04-27 14:04:37,646 [DEBUG]   Filtered (not relevant): Meet syracuse.com’s 2025-26 All-CNY Division girls wrestling team
+2026-04-27 14:04:37,646 [DEBUG]   Filtered (not relevant): Photos you’ll want to see from Central New York high school spring sports (Week 
+2026-04-27 14:04:37,646 [INFO]   Relevant: Where does Syracuse lacrosse rank in national polls heading into postseason?
+2026-04-27 14:04:37,646 [DEBUG]     → Entities: Syracuse University
+2026-04-27 14:04:40,405 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-04-27 14:04:40,430 [INFO]     Saved: CTX-NEWS-2026-00069 → CTX-NEWS-2026-00069.json
+2026-04-27 14:04:40,431 [DEBUG]   Filtered (not relevant): In public vs. private school sports, the game is over before it starts (Guest Op
+2026-04-27 14:04:40,432 [DEBUG]   Filtered (not relevant): Meet syracuse.com’s 2025-26 All-CNY Division I boys wrestling team
+2026-04-27 14:04:40,432 [DEBUG]   Filtered (not relevant): Dear Annie: Surrounded by neighbors’ barking dogs on all sides, and the ‘system’
+2026-04-27 14:04:40,433 [INFO]   Relevant: SU grad next to Trump during WH correspondents dinner shooting: ‘I was crawling’
+2026-04-27 14:04:40,433 [DEBUG]     → Entities: Syracuse University
+2026-04-27 14:04:44,014 [INFO]     Saved: CTX-NEWS-2026-00070 → CTX-NEWS-2026-00070.json
+2026-04-27 14:04:44,015 [DEBUG]   Filtered (not relevant): Multiple workers in Syracuse among NY’s highest paid in 2025: Search all
+2026-04-27 14:04:44,015 [DEBUG]   Filtered (not relevant): Meet syracuse.com’s 2025-26 All-CNY Division II boys wrestling team
+2026-04-27 14:04:44,016 [INFO]   Relevant: Neighbors, safety expert say abandoned backyard pool owned by Micron is dangerou
+2026-04-27 14:04:44,016 [DEBUG]     → Entities: Micron Technology
+2026-04-27 14:04:47,919 [INFO]     Saved: CTX-NEWS-2026-00071 → CTX-NEWS-2026-00071.json
+2026-04-27 14:04:47,919 [DEBUG]   Filtered (not relevant): Pathfinder Bank names new VP of marketing, communications
+2026-04-27 14:04:47,920 [DEBUG]   Filtered (not relevant): Upstate NY man arrested for baseball bat beating in e-bike dispute, police say
+2026-04-27 14:04:47,920 [DEBUG]   Filtered (not relevant): Section III boys lacrosse stats leaders by year in school (through April 26)
+2026-04-27 14:04:47,921 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: Refresh your yard this spring with easy fixes that don’t re
+2026-04-27 14:04:47,922 [DEBUG]   Filtered (not relevant): Upstate NY paramedic injured by violence while providing care: ‘Unacceptable’
+2026-04-27 14:04:47,922 [DEBUG]   Filtered (not relevant): Machete-wielding man hospitalizes two troopers in Oswego County, police say
+2026-04-27 14:04:47,922 [DEBUG]   Filtered (not relevant): Oneida Lake Association April 29 meeting will spotlight fishery health
+2026-04-27 14:04:47,923 [DEBUG]   Filtered (not relevant): Silence, nerves and the NFL call that finally came for CNY's Mike Washington Jr.
+2026-04-27 14:04:47,924 [DEBUG]   Filtered (not relevant): Asking Eric: Friend has no one but me and her sister, and sister is about to mov
+2026-04-27 14:04:47,924 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for April 27
+2026-04-27 14:04:47,925 [DEBUG]   Filtered (not relevant): Pastel Azteca (Chicken and tortilla casserole)
+2026-04-27 14:04:47,926 [DEBUG]   Filtered (not relevant): National analysts can't agree on whether the Bills nailed or botched their 2026 
+2026-04-27 14:04:47,926 [DEBUG]   Filtered (not relevant): Syverud will make $2M at Michigan despite changed role (Good Morning CNY)
+2026-04-27 14:04:47,927 [DEBUG]   Filtered (not relevant): Dear Abby: Nephew lied about how gift money was spent; now he refuses to even ta
+2026-04-27 14:04:47,927 [DEBUG]   Filtered (not relevant): Asking Eric: I need to breakup with my massage therapist, because she won’t shut
+2026-04-27 14:04:47,927 [DEBUG]   Filtered (not relevant): Central NY weather: A pleasant Monday, then rain and unseasonably cool temperatu
+2026-04-27 14:04:47,928 [DEBUG]   Filtered (not relevant): Trump’s DOJ uses correspondents dinner shooting to push for White House ballroom
+2026-04-27 14:04:47,929 [DEBUG]   Filtered (not relevant): Iran offers to end chokehold on Strait of Hormuz and asks US to end blockade, of
+2026-04-27 14:04:47,929 [DEBUG]   Filtered (not relevant): The 2026 prom season in Central NY is here. See nearly 200 photos of the celebra
+2026-04-27 14:04:47,930 [DEBUG]   Filtered (not relevant): Crawfish Festival, Maker Faire, Mountain Goat Run: 20 things to do in Central NY
+2026-04-27 14:04:47,930 [DEBUG]   Filtered (not relevant): Late ice and cold water shape NY’s 2026 walleye season opener
+2026-04-27 14:04:47,930 [INFO]   Relevant: A proposed 9-story Syracuse apartment building just got way smaller — here’s why
+2026-04-27 14:04:47,930 [DEBUG]     → Entities: Syracuse University
+2026-04-27 14:04:51,424 [INFO]     Saved: CTX-NEWS-2026-00072 → CTX-NEWS-2026-00072.json
+2026-04-27 14:04:51,424 [DEBUG]   Filtered (not relevant): Dear Abby: Can my family mend fences after niece’s tragic murder and 30 years of
+2026-04-27 14:04:51,425 [DEBUG]   Filtered (not relevant): Last surviving member of iconic ‘60s music group dies at 80
+2026-04-27 14:04:51,425 [DEBUG]   Filtered (not relevant): Dear Abby: Boyfriend is too kind-hearted to realize our close friend is trying t
+2026-04-27 14:04:51,426 [DEBUG]   Filtered (not relevant): Highlander shortbreads
+2026-04-27 14:04:51,427 [DEBUG]   Filtered (not relevant): Syracuse Crunch score 4 goals on first 6 shots to even up series vs. Cleveland
+2026-04-27 14:04:51,427 [DEBUG]   Filtered (not relevant): NHL Underdog promo code “SYRACUSE” extends $50 bonus with $1K deposit match for 
+2026-04-27 14:04:51,427 [DEBUG]   Filtered (not relevant): I-81 Syracuse project: See what lane closures this week could affect your commut
+2026-04-27 14:04:51,428 [DEBUG]   Filtered (not relevant): Roasted cauliflower and lentil salad
+2026-04-27 14:04:51,429 [DEBUG]   Filtered (not relevant): Worcester tops Syracuse Mets in series finale
+2026-04-27 14:04:51,429 [DEBUG]   Filtered (not relevant): 'WWE LFG' Season 3 premieres tonight: How to watch for free
+2026-04-27 14:04:51,430 [DEBUG]   Filtered (not relevant): Buffalo Bills invite embattled wide receiver to rookie minicamp
+2026-04-27 14:04:51,430 [DEBUG]   Filtered (not relevant): See homes sold in four Central NY counties, April 13 to 19
+2026-04-27 14:04:51,432 [INFO] News Scanner Run — 2026-04-27 14:04
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 4
+Filtered (not relevant): 46
+Errors: 0
+
+New records:
+  • Where does Syracuse lacrosse rank in national polls heading into postseason?
+  • SU grad next to Trump during WH correspondents dinner shooting: ‘I was crawling’
+  • Neighbors, safety expert say abandoned backyard pool owned by Micron is dangerou
+  • A proposed 9-story Syracuse apartment building just got way smaller — here’s why
+
