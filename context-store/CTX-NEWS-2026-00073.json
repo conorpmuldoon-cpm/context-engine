@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00073",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/04/three-syracuse-council-primary-candidates-including-ex-president-could-be-tossed.html",
+  "publication_date": "2026-04-29",
+  "capture_date": "2026-04-29T14:08:47Z",
+  "title": "3 Syracuse council candidates, including ex-president, could be tossed from ballot",
+  "summary": "Three Syracuse Democratic primary candidates for at-large city council, including a former council president, face legal challenges to their petition signatures that could result in their removal from the ballot. This election integrity matter involves potential procedural violations in the nomination process.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "council",
+    "vote",
+    "legislation",
+    "transparency",
+    "procedural"
+  ],
+  "department_refs": [
+    "City Clerk",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-BOYER"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Election process integrity scrutiny through petition validity challenges affecting Democratic primary candidacy",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article contains limited substantive details; specific candidate names and challenge grounds not provided in excerpt",
+    "Reference to 'ex-president' indicates former council leadership involved but not named",
+    "Four-way primary suggests competitive at-large race with potential outcome-altering legal determinations",
+    "City Clerk and Law Department likely involved in petition review and ballot access determinations",
+    "May warrant CIO tracking if election administration systems or transparency documentation processes are implicated",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'procedural' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

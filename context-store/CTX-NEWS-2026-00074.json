@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-NEWS-2026-00074",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/04/city-hall-shut-down-a-syracuse-strip-club-the-owner-is-suing-to-reopen.html",
+  "publication_date": "2026-04-29",
+  "capture_date": "2026-04-29T14:08:52Z",
+  "title": "City Hall shut down a Syracuse strip club. The owner is suing to reopen",
+  "summary": "City Hall closed a Northside strip club, and the owner has filed a lawsuit seeking to reopen the establishment. This case involves code enforcement action, potential permitting disputes, and litigation that may affect city regulatory processes and legal exposure.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "code-enforcement",
+    "complaint",
+    "investigation",
+    "permitting",
+    "escalating",
+    "business-community",
+    "litigation"
+  ],
+  "department_refs": [
+    "Department of Permitting and Inspections",
+    "Law Department",
+    "Code Enforcement"
+  ],
+  "entity_refs": [
+    {
+      "name": "Strip club owner",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Litigation against city closure decision indicates potential challenge to regulatory authority and enforcement procedures; may signal need for legal review of permitting/code enforcement protocols.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content truncated; full case details unavailable from excerpt",
+    "Strip club owner name not identified in provided text",
+    "Specific closure rationale not stated; underlying code violation(s) unclear",
+    "Legal proceeding status and timeline unknown",
+    "Recommend cross-reference with Law Department case files and Permitting records",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'litigation' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

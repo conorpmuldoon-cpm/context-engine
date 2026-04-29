@@ -1,0 +1,80 @@
+2026-04-29 14:08:42,906 [INFO] ============================================================
+2026-04-29 14:08:42,906 [INFO] News Scanner starting
+2026-04-29 14:08:42,908 [INFO] Fetching: Syracuse.com Politics
+2026-04-29 14:08:43,415 [INFO]   50 new articles from Syracuse.com Politics
+2026-04-29 14:08:43,415 [INFO] Fetching: Syracuse.com Government
+2026-04-29 14:08:43,741 [INFO]   0 new articles from Syracuse.com Government
+2026-04-29 14:08:43,741 [INFO] Fetching: Syracuse.com Local
+2026-04-29 14:08:43,958 [INFO]   0 new articles from Syracuse.com Local
+2026-04-29 14:08:43,958 [INFO] Fetching: Syracuse.com Main
+2026-04-29 14:08:44,139 [INFO]   0 new articles from Syracuse.com Main
+2026-04-29 14:08:44,139 [INFO] Total unique articles across all feeds: 50
+2026-04-29 14:08:44,139 [INFO] New articles (not previously processed): 50
+2026-04-29 14:08:44,187 [DEBUG]   Filtered (not relevant): Dear Doctor: Is it true that once you stop PPIs, you have a rebound effect, and 
+2026-04-29 14:08:44,188 [DEBUG]   Filtered (not relevant): Laksa noodle salad
+2026-04-29 14:08:44,189 [DEBUG]   Filtered (not relevant): North Carolina woman leads deputies on I-81 chase from Clay to Cortland County
+2026-04-29 14:08:44,189 [DEBUG]   Filtered (not relevant): Oswego school bus driver arrested for driving under influence with students on b
+2026-04-29 14:08:44,189 [DEBUG]   Filtered (not relevant): Live Nation launches $30 summer ticket sale for thousands of concerts
+2026-04-29 14:08:44,190 [DEBUG]   Filtered (not relevant): Autism in military families: Finding stability while moving often (Enable: The D
+2026-04-29 14:08:44,190 [DEBUG]   Filtered (not relevant): The main building at Marble Farms is gone, but the market’s produce and plant st
+2026-04-29 14:08:44,191 [DEBUG]   Filtered (not relevant): Dear Doctor: Blood pressure meds balancing act just can’t see to find the correc
+2026-04-29 14:08:44,192 [DEBUG]   Filtered (not relevant): Turnaround teams: Keys to 7 Section III softball squads’ bounce-back seasons
+2026-04-29 14:08:44,192 [DEBUG]   Filtered (not relevant): Walmart’s best-selling, 4.6-star Pilates Reformer is seeing a major Flash Deal
+2026-04-29 14:08:44,192 [DEBUG]   Filtered (not relevant): 68 apartments proposed for northern Onondaga County suburb near library
+2026-04-29 14:08:44,193 [DEBUG]   Filtered (not relevant): Meet syracuse.com’s 2025-26 All-CNY girls indoor track team
+2026-04-29 14:08:44,194 [DEBUG]   Filtered (not relevant): Dear Annie: I’ve become a resentful family secretary who nobody notices, but eve
+2026-04-29 14:08:44,194 [DEBUG]   Filtered (not relevant): New US passports to feature picture of President Trump
+2026-04-29 14:08:44,195 [DEBUG]   Filtered (not relevant): Buffalo Sabres fans sing Canadian anthem after singer’s mic issues (video)
+2026-04-29 14:08:44,195 [DEBUG]   Filtered (not relevant): Blasting begins for border wall on cherished New Mexico mountain
+2026-04-29 14:08:44,195 [DEBUG]   Filtered (not relevant): Where did the Syracuse women’s basketball transfers land? Final player picks her
+2026-04-29 14:08:44,196 [DEBUG]   Filtered (not relevant): Dear Annie: Mom won’t let me visit without forcing a get-together with my estran
+2026-04-29 14:08:44,197 [DEBUG]   Filtered (not relevant): Meet syracuse.com’s 2025-26 All-CNY boys indoor track team
+2026-04-29 14:08:44,197 [DEBUG]   Filtered (not relevant): Attention Syracuse airport travelers: I-81 lane closures could create delays sta
+2026-04-29 14:08:44,197 [DEBUG]   Filtered (not relevant): See NY districts ranked 1 to 647 by Algebra I Regents results
+2026-04-29 14:08:44,198 [DEBUG]   Filtered (not relevant): Mail spilled out of truck on Upstate NY highway, USPS says (video)
+2026-04-29 14:08:44,198 [DEBUG]   Filtered (not relevant): Section III baseball pitching leaders by year in school (through April 28)
+2026-04-29 14:08:44,199 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: There is only one, truly risk-free, high-yield, guaranteed 
+2026-04-29 14:08:44,199 [INFO]   Relevant: 3 Syracuse council candidates, including ex-president, could be tossed from ball
+2026-04-29 14:08:44,199 [DEBUG]     → Keywords: city council
+2026-04-29 14:08:47,989 [WARNING]     Tag issue: Unknown tag 'procedural' not in taxonomy
+2026-04-29 14:08:48,007 [INFO]     Saved: CTX-NEWS-2026-00073 → CTX-NEWS-2026-00073.json
+2026-04-29 14:08:48,008 [DEBUG]   Filtered (not relevant): Section III baseball hitting leaders by year in school (through April 28)
+2026-04-29 14:08:48,008 [INFO]   Relevant: City Hall shut down a Syracuse strip club. The owner is suing to reopen
+2026-04-29 14:08:48,008 [DEBUG]     → Keywords: city hall
+2026-04-29 14:08:52,307 [WARNING]     Tag issue: Unknown tag 'litigation' not in taxonomy
+2026-04-29 14:08:52,318 [INFO]     Saved: CTX-NEWS-2026-00074 → CTX-NEWS-2026-00074.json
+2026-04-29 14:08:52,318 [DEBUG]   Filtered (not relevant): Eru (Cameroonian stewed greens)
+2026-04-29 14:08:52,318 [DEBUG]   Filtered (not relevant): Final showcase for Syracuse’s top high school basketball seniors: One city, one 
+2026-04-29 14:08:52,319 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for April 29
+2026-04-29 14:08:52,319 [DEBUG]   Filtered (not relevant): Asking Eric: I finally put my foot down and asked husband for help with chores; 
+2026-04-29 14:08:52,320 [DEBUG]   Filtered (not relevant): Police blotter: See 237 new arrests added (April 29, 2026)
+2026-04-29 14:08:52,320 [DEBUG]   Filtered (not relevant): The Jets thought the Bills wanted this wide receiver so badly they traded up to 
+2026-04-29 14:08:52,320 [DEBUG]   Filtered (not relevant): CNY businessman pleads guilty to $95M Ponzi scheme (Good Morning CNY)
+2026-04-29 14:08:52,321 [DEBUG]   Filtered (not relevant): Asking Eric: Husband does not respect my camera shyness, and he has a large soci
+2026-04-29 14:08:52,321 [DEBUG]   Filtered (not relevant): Soaking rain will drench Central NY on Wednesday before temperatures drop 15 deg
+2026-04-29 14:08:52,322 [DEBUG]   Filtered (not relevant): Former Fauci adviser indicted, accused of concealing Covid research communicatio
+2026-04-29 14:08:52,322 [DEBUG]   Filtered (not relevant): Man accused of killing 2 college students asked ChatGPT how to dispose of a body
+2026-04-29 14:08:52,323 [DEBUG]   Filtered (not relevant): Hegseth to be grilled by Congress for first time since Iran war began
+2026-04-29 14:08:52,323 [DEBUG]   Filtered (not relevant): CNY booms with cottage bakers owning their schedules, one sourdough loaf at a ti
+2026-04-29 14:08:52,324 [DEBUG]   Filtered (not relevant): Doug Weed of New Hope Mills on leadership: Be willing to get your hands dirty
+2026-04-29 14:08:52,324 [DEBUG]   Filtered (not relevant): How Greg Fahey became Syracuse’s GM: A Duke hire, an AAU coach’s suggestion and 
+2026-04-29 14:08:52,325 [DEBUG]   Filtered (not relevant): Dear Abby: Friends think I’m just a ‘California cougar,’ but age doesn’t matter 
+2026-04-29 14:08:52,325 [DEBUG]   Filtered (not relevant): Wildlife officers save injured hawk on Long Island
+2026-04-29 14:08:52,325 [DEBUG]   Filtered (not relevant): Hard rock band to release first new album in 9 years with ‘fresh’ power
+2026-04-29 14:08:52,326 [DEBUG]   Filtered (not relevant): Dear Abby: Son is in such denial about his alcoholism, I’m considering writing h
+2026-04-29 14:08:52,326 [DEBUG]   Filtered (not relevant): Update: Brace for fire danger in Clinton and Essex counties until Wednesday even
+2026-04-29 14:08:52,327 [DEBUG]   Filtered (not relevant): Mega Millions numbers: Are you the lucky winner of Tuesday’s $163 million jackpo
+2026-04-29 14:08:52,327 [DEBUG]   Filtered (not relevant): A.J. Ewing Triple-A debut: Syracuse Mets beat Lehigh Valley 10-4
+2026-04-29 14:08:52,327 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for April 28
+2026-04-29 14:08:52,329 [INFO] News Scanner Run — 2026-04-29 14:08
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • 3 Syracuse council candidates, including ex-president, could be tossed from ball
+  • City Hall shut down a Syracuse strip club. The owner is suing to reopen
+
