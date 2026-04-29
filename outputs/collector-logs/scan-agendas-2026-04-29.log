@@ -1,0 +1,99 @@
+2026-04-29 14:38:46,213 [INFO] === Agenda Scanner  — 2026 ===
+2026-04-29 14:38:46,214 [INFO] Already processed: 9 agendas
+2026-04-29 14:38:46,245 [INFO] Fetching agenda listing page for 2026...
+2026-04-29 14:38:51,755 [INFO]   Found 35 meeting page(s) for 2026
+2026-04-29 14:38:54,230 [DEBUG]   2026-05-27 Common Council Study Session: no agenda PDF found
+2026-04-29 14:38:56,729 [DEBUG]   2026-05-18 Common Council Regular Meeting: no agenda PDF found
+2026-04-29 14:38:59,132 [DEBUG]   2026-05-18 Common Council Study Session: no agenda PDF found
+2026-04-29 14:39:01,628 [DEBUG]   2026-05-13 Common Council Study Session: no agenda PDF found
+2026-04-29 14:39:04,131 [INFO]   2026-05-04 Common Council Regular Meeting (2026-05-04): found book PDF
+2026-04-29 14:39:04,131 [INFO]   Running: parse_agenda.py (book, max-pages=8)
+2026-04-29 14:39:25,976 [DEBUG]     Downloading: https://www.syr.gov/files/sharedassets/public/v/1/departments/common-council/documents/draft-2026-agenda-books/05.04.2026-draft-common-council-agenda-book.pdf
+2026-04-29 14:39:25,976 [DEBUG]       Downloaded (20362 KB)
+2026-04-29 14:39:25,977 [DEBUG]     Running OCR...
+2026-04-29 14:39:25,977 [DEBUG]       Pages: 155 (processing first 8)
+2026-04-29 14:39:25,977 [DEBUG]       OCR page 1/8 done
+2026-04-29 14:39:25,977 [DEBUG]       OCR page 2/8 done
+2026-04-29 14:39:25,977 [DEBUG]       OCR page 3/8 done
+2026-04-29 14:39:25,977 [DEBUG]       OCR page 4/8 done
+2026-04-29 14:39:25,977 [DEBUG]       OCR page 5/8 done
+2026-04-29 14:39:25,977 [DEBUG]       OCR page 6/8 done
+2026-04-29 14:39:25,977 [DEBUG]       OCR page 7/8 done
+2026-04-29 14:39:25,977 [DEBUG]       OCR page 8/8 done
+2026-04-29 14:39:25,977 [DEBUG]     Parsing meeting metadata...
+2026-04-29 14:39:25,977 [DEBUG]       Type: Regular Meeting
+2026-04-29 14:39:25,977 [DEBUG]       Date: 2026-05-04
+2026-04-29 14:39:25,977 [DEBUG]       Time: 1:00 P.M.
+2026-04-29 14:39:25,977 [DEBUG]       Roll call: None present
+2026-04-29 14:39:25,977 [DEBUG]     Parsing agenda items...
+2026-04-29 14:39:25,977 [DEBUG]       Items found: 30
+2026-04-29 14:39:25,977 [DEBUG]     Cross-referencing with entity registry...
+2026-04-29 14:39:25,977 [DEBUG]     Saving outputs...
+2026-04-29 14:39:25,977 [DEBUG]       Saved: outputs/agendas/2026-05-04_agenda.json
+2026-04-29 14:39:25,977 [DEBUG]       Saved: outputs/agendas/2026-05-04_names.json
+2026-04-29 14:39:25,977 [DEBUG]     
+2026-04-29 14:39:25,977 [DEBUG]     --- Summary ---
+2026-04-29 14:39:25,977 [DEBUG]       Meeting:  Regular Meeting — 2026-05-04
+2026-04-29 14:39:25,977 [DEBUG]       Items:    30
+2026-04-29 14:39:25,977 [DEBUG]       Votes:    1 recorded
+2026-04-29 14:39:25,977 [DEBUG]     
+2026-04-29 14:39:25,977 [DEBUG]       Council members detected (13):
+2026-04-29 14:39:25,977 [DEBUG]         - Rita Paniagua (Council President)
+2026-04-29 14:39:25,977 [DEBUG]         - Dr. Chol Majok (Common Councilor At-Large)
+2026-04-29 14:39:25,977 [DEBUG]         - Rasheada Caldwell (Common Councilor At-Large)
+2026-04-29 14:39:25,977 [DEBUG]         - Hanah Ehrenreich (Common Councilor At-Large)
+2026-04-29 14:39:25,977 [DEBUG]         - Donna Moore (Common Councilor, District 2)
+2026-04-29 14:39:25,977 [DEBUG]         - Corey J. Williams (Common Councilor, District 3)
+2026-04-29 14:39:25,977 [DEBUG]         - Patrona Jones-Rowser (Common Councilor, District 4)
+2026-04-29 14:39:25,977 [DEBUG]         - Jimmy Monto (Common Councilor, District 5)
+2026-04-29 14:39:25,977 [DEBUG]         - Sharon F. Owens (Mayor)
+2026-04-29 14:39:25,977 [DEBUG]         - Matthew D. Oja (Commissioner of Assessment)
+2026-04-29 14:39:25,977 [DEBUG]         - Patricia K. McBride (City Clerk)
+2026-04-29 14:39:25,977 [DEBUG]         - Ryan McMahon (Onondaga County Executive)
+2026-04-29 14:39:25,977 [DEBUG]         - Rachel May (New York State Senator (Syracuse area))
+2026-04-29 14:39:25,977 [DEBUG]     
+2026-04-29 14:39:25,977 [DEBUG]       New organizations (3) — consider adding to entity registry:
+2026-04-29 14:39:25,977 [DEBUG]         - Zio Enterprises Inc dba Best LED Group and Ubicquia, inc., on behalf of DPW (Item 21)
+2026-04-29 14:39:25,977 [DEBUG]         - Cornell Cooperative Extension of Onondaga County (Item 21)
+2026-04-29 14:39:25,977 [DEBUG]         - Breanna Stewart Foundation (Item 31)
+2026-04-29 14:39:25,977 [DEBUG]     
+2026-04-29 14:39:25,977 [DEBUG]       Departments referenced (3):
+2026-04-29 14:39:25,977 [DEBUG]         - Department of Engineering
+2026-04-29 14:39:25,977 [DEBUG]         - Department of Interior
+2026-04-29 14:39:25,977 [DEBUG]         - Syracuse Fire Department
+2026-04-29 14:39:28,583 [DEBUG]   2026-05-04 Common Council Study Session (2026-05-04): already processed
+2026-04-29 14:39:31,115 [DEBUG]   2026-04-29 Common Council Study Session (2026-05-04): already processed
+2026-04-29 14:39:33,670 [DEBUG]   2026-04-20 Common Council Regular Meeting (2026-04-20): already processed
+2026-04-29 14:39:36,217 [DEBUG]   2026-04-20 Common Council Study Session (2026-04-20): already processed
+2026-04-29 14:39:38,699 [DEBUG]   2026-04-15 Common Council Study Session (2026-04-20): already processed
+2026-04-29 14:39:41,226 [DEBUG]   2026-04-06 Common Council Regular Meeting (2026-04-06): already processed
+2026-04-29 14:39:43,742 [DEBUG]   2026-04-06 Common Council Study Session (2026-04-06): already processed
+2026-04-29 14:39:46,281 [DEBUG]   2026-04-01 Common Council Study Session (2026-04-06): already processed
+2026-04-29 14:39:48,924 [DEBUG]   2026-03-23 Common Council Regular Meeting (2026-03-23): already processed
+2026-04-29 14:39:51,410 [DEBUG]   2026-03-23 Common Council Study Session (2026-03-23): already processed
+2026-04-29 14:39:54,589 [DEBUG]   2026-03-18 Common Council Study Session (2026-03-23): already processed
+2026-04-29 14:39:57,038 [DEBUG]   2026-03-09 Common Council Public Hearing: no agenda PDF found
+2026-04-29 14:39:59,533 [DEBUG]   2026-03-09 Common Council Regular Meeting (2026-03-09): already processed
+2026-04-29 14:40:02,108 [DEBUG]   2026-03-09 Common Council Study Session (2026-03-09): already processed
+2026-04-29 14:40:04,597 [DEBUG]   2026-03-04 Common Council Study Session (2026-03-09): already processed
+2026-04-29 14:40:07,119 [DEBUG]   2026-02-23 Common Council Regular Meeting (2026-02-23): already processed
+2026-04-29 14:40:09,675 [DEBUG]   2026-02-23 Common Council Study Session (2026-02-23): already processed
+2026-04-29 14:40:12,224 [DEBUG]   2026-02-19 Common Council Town Hall: no agenda PDF found
+2026-04-29 14:40:14,888 [DEBUG]   2026-02-18 Common Council Study Session (2026-02-23): already processed
+2026-04-29 14:40:17,404 [DEBUG]   2026-02-09 Common Council Regular Meeting (2026-02-09): already processed
+2026-04-29 14:40:20,032 [DEBUG]   2026-02-09 Common Council Study Session (2026-02-09): already processed
+2026-04-29 14:40:22,573 [DEBUG]   2026-02-04 Common Council Study Session (2026-02-09): already processed
+2026-04-29 14:40:25,110 [DEBUG]   2026-01-26 Common Council Public Hearing: no agenda PDF found
+2026-04-29 14:40:27,697 [DEBUG]   2026-01-26 Common Council Regular Meeting (2026-01-26): already processed
+2026-04-29 14:40:30,405 [DEBUG]   2026-01-26 Common Council Study Session (2026-01-26): already processed
+2026-04-29 14:40:32,981 [DEBUG]   2026-01-21 Common Council Study Session (2026-01-26): already processed
+2026-04-29 14:40:35,535 [DEBUG]   2026-01-12 Common Council Regular Meeting (2026-01-12): already processed
+2026-04-29 14:40:38,041 [DEBUG]   2026-01-12 Common Council Study Session (2026-01-12): already processed
+2026-04-29 14:40:40,527 [DEBUG]   2026-01-07 Common Council Study Session (2026-01-12): already processed
+2026-04-29 14:40:43,009 [DEBUG]   2026-01-05 Common Council Organizational Meeting (2026-01-05): already processed
+2026-04-29 14:40:43,009 [INFO] 
+==================================================
+2026-04-29 14:40:43,009 [INFO] AGENDA SCANNER SUMMARY 
+2026-04-29 14:40:43,009 [INFO]   Meeting pages checked: 35
+2026-04-29 14:40:43,009 [INFO]   New agendas parsed: 1
+2026-04-29 14:40:43,009 [INFO]   Skipped (already processed or no PDF): 34
