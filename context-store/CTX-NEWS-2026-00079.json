@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-NEWS-2026-00079",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/04/debt-grows-for-national-grid-users-who-struggled-to-pay-rising-bills-in-a-cold-upstate-ny-winter.html",
+  "publication_date": "2026-04-30",
+  "capture_date": "2026-04-30T14:07:01Z",
+  "title": "National Grid customers carry more debt even as fewer fall behind",
+  "summary": "National Grid customers across Upstate New York show mixed debt trends: fewer are falling behind on utility bills year-over-year, but those struggling are accumulating larger debt burdens. This reflects broader challenges in bill affordability following a cold winter and rising energy costs. Relevant for CIO consideration regarding utility burden data, potential digital assistance programs, and constituent hardship patterns.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "residents",
+    "equity",
+    "trending",
+    "state-agency",
+    "PROVISIONAL:utility-affordability"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "National Grid",
+      "type": "organization",
+      "canonical_id": "ORG-NATIONAL-GRID"
+    },
+    {
+      "name": "Renee Fox",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Article highlights financial hardship among utility customers, indicating potential constituent advocacy pressure around affordability and energy costs during seasonal peaks.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No Syracuse municipal departments directly referenced; National Grid is state-regulated utility",
+    "Dollar amounts mentioned in title but not quantified in excerpt provided",
+    "Potential relevance to equity initiatives and resident assistance program discovery",
+    "Consider connection to energy assistance, 311 service requests, and budget/financial counseling services",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,92 @@
+2026-04-30 14:06:42,631 [INFO] ============================================================
+2026-04-30 14:06:42,631 [INFO] News Scanner starting
+2026-04-30 14:06:42,633 [INFO] Fetching: Syracuse.com Politics
+2026-04-30 14:06:42,954 [INFO]   50 new articles from Syracuse.com Politics
+2026-04-30 14:06:42,954 [INFO] Fetching: Syracuse.com Government
+2026-04-30 14:06:43,277 [INFO]   0 new articles from Syracuse.com Government
+2026-04-30 14:06:43,277 [INFO] Fetching: Syracuse.com Local
+2026-04-30 14:06:43,453 [INFO]   0 new articles from Syracuse.com Local
+2026-04-30 14:06:43,453 [INFO] Fetching: Syracuse.com Main
+2026-04-30 14:06:43,690 [INFO]   0 new articles from Syracuse.com Main
+2026-04-30 14:06:43,690 [INFO] Total unique articles across all feeds: 50
+2026-04-30 14:06:43,690 [INFO] New articles (not previously processed): 50
+2026-04-30 14:06:43,736 [INFO]   Relevant: Ruling keeps Helen Hudson, former Syracuse council president, on Dem primary bal
+2026-04-30 14:06:43,736 [DEBUG]     → Entities: Helen Hudson
+2026-04-30 14:06:43,736 [DEBUG]     → Keywords: common council, council president
+2026-04-30 14:06:46,727 [INFO]     Saved: CTX-NEWS-2026-00075 → CTX-NEWS-2026-00075.json
+2026-04-30 14:06:46,728 [DEBUG]   Filtered (not relevant): Zucchini lasagna
+2026-04-30 14:06:46,728 [DEBUG]   Filtered (not relevant): Turnaround teams: Why these 7 Section III baseball teams are off to hot starts
+2026-04-30 14:06:46,729 [DEBUG]   Filtered (not relevant): A new program aims to train leaders in Syracuse’s non-profit world. Here’s how t
+2026-04-30 14:06:46,729 [DEBUG]   Filtered (not relevant): Central NY man sent sexual messages and requested nude photos of a child, police
+2026-04-30 14:06:46,729 [DEBUG]   Filtered (not relevant): Beloved Christmas movie to get official LEGO set, designed by CNY family
+2026-04-30 14:06:46,730 [DEBUG]   Filtered (not relevant): Undefeated Section III team cracks top 5 in latest high school flag football sta
+2026-04-30 14:06:46,730 [DEBUG]   Filtered (not relevant): SUNY Oswego coach, one of most accomplished in Division III sports, is retiring
+2026-04-30 14:06:46,731 [DEBUG]   Filtered (not relevant): Township 5 restaurant fails inspection; 3 in Syracuse correct past problems
+2026-04-30 14:06:46,731 [INFO]   Relevant: See 6 Onondaga County places with home prices up 10% or more
+2026-04-30 14:06:46,731 [DEBUG]     → Keywords: city of syracuse
+2026-04-30 14:06:50,460 [INFO]     Saved: CTX-NEWS-2026-00076 → CTX-NEWS-2026-00076.json
+2026-04-30 14:06:50,461 [DEBUG]   Filtered (not relevant): 4 teens charged with attempted murder after attacking man in Binghamton, police 
+2026-04-30 14:06:50,461 [DEBUG]   Filtered (not relevant): Syracuse men’s basketball will face in-state mid-major program next season (repo
+2026-04-30 14:06:50,462 [DEBUG]   Filtered (not relevant): Dear Doctor: Statins weren’t working, so my doctor tried this new drug that seem
+2026-04-30 14:06:50,463 [DEBUG]   Filtered (not relevant): Meet syracuse.com’s 2025-26 All-CNY small school girls basketball team
+2026-04-30 14:06:50,463 [DEBUG]   Filtered (not relevant): Shoppers are rushing to Walmart to score deal on this best-selling inflatable ho
+2026-04-30 14:06:50,464 [DEBUG]   Filtered (not relevant): NYS Blues Festival offers $6,000 in scholarships to young musicians
+2026-04-30 14:06:50,464 [DEBUG]   Filtered (not relevant): Dear Annie: Every time sister gets a new boyfriend, it’s like she drops off the 
+2026-04-30 14:06:50,465 [DEBUG]   Filtered (not relevant): Meet syracuse.com’s 2025-26 All-CNY small school boys basketball team
+2026-04-30 14:06:50,465 [DEBUG]   Filtered (not relevant): How to watch syracuse.com’s boys lacrosse Game of the Week: Liverpool at C-NS
+2026-04-30 14:06:50,466 [INFO]   Relevant: Le Moyne women’s lacrosse goes from worst to first: ‘Let’s give them something t
+2026-04-30 14:06:50,466 [DEBUG]     → Entities: Le Moyne College
+2026-04-30 14:06:53,174 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-04-30 14:06:53,184 [INFO]     Saved: CTX-NEWS-2026-00077 → CTX-NEWS-2026-00077.json
+2026-04-30 14:06:53,185 [DEBUG]   Filtered (not relevant): Dear Annie: Dream job becomes sleepless nightmare during busy season; is this th
+2026-04-30 14:06:53,186 [INFO]   Relevant: Harry Keyishian’s legacy: College as a ‘marketplace of ideas’ (Guest Opinion by 
+2026-04-30 14:06:53,186 [DEBUG]     → Entities: Syracuse University
+2026-04-30 14:06:56,587 [INFO]     Saved: CTX-NEWS-2026-00078 → CTX-NEWS-2026-00078.json
+2026-04-30 14:06:56,587 [DEBUG]   Filtered (not relevant): Amazon looks to launch drone deliveries near Syracuse - 7 things to know
+2026-04-30 14:06:56,588 [INFO]   Relevant: National Grid customers carry more debt even as fewer fall behind
+2026-04-30 14:06:56,588 [DEBUG]     → Entities: National Grid
+2026-04-30 14:07:01,175 [INFO]     Saved: CTX-NEWS-2026-00079 → CTX-NEWS-2026-00079.json
+2026-04-30 14:07:01,175 [DEBUG]   Filtered (not relevant): Section III softball pitching leaders by year in school (through April 29)
+2026-04-30 14:07:01,176 [DEBUG]   Filtered (not relevant): Section III softball hitting leaders by year in school (through April 29)
+2026-04-30 14:07:01,176 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: How to have a financial shelter in the time of an economic 
+2026-04-30 14:07:01,176 [DEBUG]   Filtered (not relevant): This Manlius restaurant with Swan Pond views that's serving some of the best des
+2026-04-30 14:07:01,177 [DEBUG]   Filtered (not relevant): Global firm acquires Modern Advocacy, hires North Syracuse native
+2026-04-30 14:07:01,177 [DEBUG]   Filtered (not relevant): Gas prices increase nearly 30 cents in 3 days: ‘Unprecedented’
+2026-04-30 14:07:01,178 [DEBUG]   Filtered (not relevant): OHSL Patriot Colonial boys basketball all-stars announced for 2025-26
+2026-04-30 14:07:01,178 [DEBUG]   Filtered (not relevant): Doula SeQuoia Kemp’s ‘spark’ for moms and babies started as a child (Syracuse tr
+2026-04-30 14:07:01,178 [DEBUG]   Filtered (not relevant): Changua (Savory breakfast soup)
+2026-04-30 14:07:01,179 [DEBUG]   Filtered (not relevant): CNY SPCA Pet of the Week: Bear wants to be part of the action
+2026-04-30 14:07:01,179 [DEBUG]   Filtered (not relevant): Why did Spallina receive a thank-you card from a 9-year-old fan from Liverpool? 
+2026-04-30 14:07:01,180 [DEBUG]   Filtered (not relevant): Asking Eric: Where is the line between ‘socially criminal’ and tactful honesty
+2026-04-30 14:07:01,180 [DEBUG]   Filtered (not relevant): Scarlett Johansson’s epic text to Colin Jost after Staten Island ferry purchase 
+2026-04-30 14:07:01,180 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for April 30
+2026-04-30 14:07:01,181 [DEBUG]   Filtered (not relevant): Burt Marshall headed to prison, but victims of $90M scam want more (Good Morning
+2026-04-30 14:07:01,181 [DEBUG]   Filtered (not relevant): Where to watch Hailey Baptiste vs. Mirra Andreeva at Madrid Open: Tennis free st
+2026-04-30 14:07:01,182 [DEBUG]   Filtered (not relevant): Former Upstate NY firefighter charged after cat dies; used hose to knock it out 
+2026-04-30 14:07:01,182 [DEBUG]   Filtered (not relevant): Asking Eric: Daughter plans to marry walking red flag boyfriend as soon as she t
+2026-04-30 14:07:01,183 [DEBUG]   Filtered (not relevant): Central NY weather: Cold snap could bring frost just as growing season begins
+2026-04-30 14:07:01,183 [DEBUG]   Filtered (not relevant): CNY Inspirations: Three times a church lady
+2026-04-30 14:07:01,183 [INFO]   Relevant: Micron just dropped another $4 million on land near its massive  chip factory si
+2026-04-30 14:07:01,183 [DEBUG]     → Entities: Micron Technology
+2026-04-30 14:07:04,886 [INFO]     Saved: CTX-NEWS-2026-00080 → CTX-NEWS-2026-00080.json
+2026-04-30 14:07:04,887 [DEBUG]   Filtered (not relevant): Dear Abby: My ex was a bad person; my family knows what he did, but still counts
+2026-04-30 14:07:04,887 [DEBUG]   Filtered (not relevant): Are there other examples that match Gerry McNamara’s turnaround at Siena? (Mike’
+2026-04-30 14:07:04,888 [DEBUG]   Filtered (not relevant): Transponders to be installed on NY airport ground vehicles after deadly collisio
+2026-04-30 14:07:04,889 [DEBUG]   Filtered (not relevant): Dear Abby: Friend’s moment of crisis is no excuse for violating my deep, persona
+2026-04-30 14:07:04,889 [DEBUG]   Filtered (not relevant): First direct US-Venezuela commercial flight in 7 years heads to Caracas
+2026-04-30 14:07:04,891 [INFO] News Scanner Run — 2026-04-30 14:07
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 6
+Filtered (not relevant): 44
+Errors: 0
+
+New records:
+  • Ruling keeps Helen Hudson, former Syracuse council president, on Dem primary bal
+  • See 6 Onondaga County places with home prices up 10% or more
+  • Le Moyne women’s lacrosse goes from worst to first: ‘Let’s give them something t
+  • Harry Keyishian’s legacy: College as a ‘marketplace of ideas’ (Guest Opinion by 
+  • National Grid customers carry more debt even as fewer fall behind
+  • Micron just dropped another $4 million on land near its massive  chip factory si
+

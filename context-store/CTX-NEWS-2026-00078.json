@@ -1,0 +1,60 @@
+{
+  "record_id": "CTX-NEWS-2026-00078",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/04/harry-keyishians-legacy-colleges-as-a-marketplace-of-ideas-guest-opinion-by-roy-s-gutterman.html",
+  "publication_date": "2026-04-30",
+  "capture_date": "2026-04-30T14:06:56Z",
+  "title": "Harry Keyishian’s legacy: College as a ‘marketplace of ideas’ (Guest Opinion by Roy S. Gutterman)",
+  "summary": "Opinion piece by Syracuse University professor Roy Gutterman discussing Harry Keyishian's legacy and the concept of colleges as marketplaces of ideas. This is an academic/cultural commentary on free speech principles at higher education institutions, not directly related to municipal governance or innovation initiatives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:higher-education-policy",
+    "PROVISIONAL:free-speech",
+    "PROVISIONAL:academic-freedom"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Roy S. Gutterman",
+      "type": "person",
+      "canonical_id": "PERSON-ROY-GUTTERMAN"
+    },
+    {
+      "name": "Tully Center for Free Speech",
+      "type": "organization",
+      "canonical_id": "ORG-TULLY-CENTER"
+    },
+    {
+      "name": "Newhouse School",
+      "type": "organization",
+      "canonical_id": "ORG-NEWHOUSE-SCHOOL"
+    },
+    {
+      "name": "Harry Keyishian",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on higher education and free speech principles; limited direct relevance to City of Syracuse municipal operations or innovation strategy. Suggests local expertise/thought leadership available through SU faculty. No fiscal, operational, or policy implications detected for CIO portfolio.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

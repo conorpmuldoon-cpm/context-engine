@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00080",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/04/micron-just-dropped-another-4-million-on-land-near-its-massive-chip-factory-site-heres-why.html",
+  "publication_date": "2026-04-30",
+  "capture_date": "2026-04-30T14:07:04Z",
+  "title": "Micron just dropped another $4 million on land near its massive  chip factory site - here’s why",
+  "summary": "Micron Technology has acquired an additional $4 million in land near its major semiconductor manufacturing facility in Clay, NY, following a prior $30 million land purchase. This continued real estate investment signals ongoing expansion of the company's Central New York operations and represents significant economic development activity in the region.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "business-community",
+    "land-use",
+    "capital-planning",
+    "state-agency"
+  ],
+  "department_refs": [
+    "Office of the Chief Innovation Officer"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Rick Moriarty",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Continued private sector investment in semiconductor manufacturing demonstrates alignment with state and regional economic development priorities and validates prior public incentives/support.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amounts validated: $4M (new land purchase) and $30M (prior purchase)",
+    "Location: Clay/Cicero area, Onondaga County",
+    "Article date 2026-04-30 suggests future publication; verify currency",
+    "No direct city department involvement detected; relevance is economic development and regional competitiveness monitoring",
+    "Recommend cross-reference with EDO records on Micron incentive packages and workforce development initiatives",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

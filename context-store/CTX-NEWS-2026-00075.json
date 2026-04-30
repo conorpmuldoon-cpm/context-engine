@@ -1,0 +1,52 @@
+{
+  "record_id": "CTX-NEWS-2026-00075",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/cny/2026/04/ruling-keeps-helen-hudson-former-syracuse-council-president-on-dem-primary-ballot.html",
+  "publication_date": "2026-04-30",
+  "capture_date": "2026-04-30T14:06:46Z",
+  "title": "Ruling keeps Helen Hudson, former Syracuse council president, on Dem primary ballot",
+  "summary": "A court ruling has secured Helen Hudson's ballot position for the June 2026 Democratic primary in Syracuse's at-large Common Council race. This procedural decision ensures competitive participation in the party nomination process.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "vote",
+    "council",
+    "legislation"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Helen Hudson",
+      "type": "person",
+      "canonical_id": "PERSON-HELEN-HUDSON"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYR-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Electoral process maintaining competitive primary participation; procedural integrity in ballot access decisions",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on electoral procedure rather than municipal operations or CIO initiatives",
+    "Limited direct relevance to Chief Innovation Officer portfolio unless connected to government transparency or civic engagement initiatives",
+    "Author is Jeremy Boyer; publication is syracuse.com/politics",
+    "No budget, fiscal, or departmental implementation details present",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
