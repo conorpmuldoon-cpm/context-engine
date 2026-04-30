@@ -1,0 +1,69 @@
+{
+  "record_id": "CTX-WEB-2026-00137",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-04-29-Mayors-Office-News-12PM",
+  "publication_date": "2026-04-29",
+  "capture_date": "2026-04-30T14:24:06Z",
+  "title": "Mayor Owens and Chief Rusin to Hold Community Meet and Greets",
+  "summary": "Mayor Sharon F. Owens and newly appointed Police Chief Mark Rusin are conducting four community meet-and-greet events across Syracuse (May–August 2026) to strengthen transparency, gather resident feedback, and build trust between city leadership, police, and the community. Events are scheduled at White Branch Library, Westcott Community Center, Betts Branch Library, and the Public Safety Building.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "police",
+    "public-safety-commission",
+    "transparency",
+    "residents",
+    "leadership-change",
+    "community-community",
+    "initiative-launch"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Mayor's Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Mark Rusin",
+      "type": "person",
+      "canonical_id": "PERSON-MARK-RUSIN"
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Administration signals commitment to community engagement, police-community relations, and transparency as core governance priorities under Mayor Owens' leadership.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00136"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Chief Mark Rusin noted as 'newly appointed' — indicates recent leadership change in police department worth tracking for CIO initiatives (training systems, communication platforms, etc.)",
+    "Four geographically distributed venues suggest intentional neighborhood equity strategy",
+    "Reference to syr.gov/events suggests digital engagement channel; CIO may want to audit event management system integration",
+    "No specific technology infrastructure, IT systems, or digital service delivery components mentioned in content",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'community-community' not in taxonomy",
+    "Potential duplicate of CTX-WEB-2026-00136 — linked for review"
+  ],
+  "last_relevance_update": null
+}
