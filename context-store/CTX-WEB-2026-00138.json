@@ -1,0 +1,74 @@
+{
+  "record_id": "CTX-WEB-2026-00138",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-04-30-Mayors-Office-News-330PM",
+  "publication_date": "2026-04-30",
+  "capture_date": "2026-05-01T13:54:16Z",
+  "title": "Mayor Owens Extends Draft Climate Action Plan Public Commenting Period",
+  "summary": "Mayor Sharon F. Owens announced an extension of the public commenting period for Syracuse's draft inaugural Climate Action Plan, now open until May 8, 2026. The plan leverages greenhouse gas emission inventory models to identify climate action opportunities and implementation strategies, with final adoption expected by Syracuse Common Council later in 2026. Funding was provided through the NYS Climate Smart Communities Grant Program.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "sustainability",
+    "initiative-launch",
+    "public-engagement",
+    "state-programs",
+    "grants"
+  ],
+  "department_refs": [
+    "Mayor's Office",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "New York State Department of Environmental Conservation",
+      "type": "organization",
+      "canonical_id": "ORG-NYSDEC"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-COUNCIL"
+    },
+    {
+      "name": "Sustainable Syracuse Initiative",
+      "type": "organization",
+      "canonical_id": "PRGM-SUSTAINABLE-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor demonstrates commitment to climate action and environmental sustainability as core city initiative with emphasis on inclusive public engagement and state-level funding leverage.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00137"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No author attribution provided in press release",
+    "No specific dollar amount disclosed for Climate Smart Communities Grant",
+    "Process includes public launch event, four education meetings, and formal commenting period—indicating mature engagement strategy",
+    "CIO relevance: potential digital platform/portal component at syr.gov/sustainable-syracuse warrants infrastructure review",
+    "Final adoption timeline is Q3-Q4 2026",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'public-engagement' not in taxonomy",
+    "Tag warning: Unknown tag 'state-programs' not in taxonomy",
+    "Potential duplicate of CTX-WEB-2026-00137 — linked for review"
+  ],
+  "last_relevance_update": null
+}

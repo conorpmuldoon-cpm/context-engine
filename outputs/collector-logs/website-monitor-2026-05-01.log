@@ -1,0 +1,27 @@
+2026-05-01 13:53:52,596 [INFO] ============================================================
+2026-05-01 13:53:52,596 [INFO] Website Monitor starting
+2026-05-01 13:53:54,410 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-05-01 13:53:54,410 [INFO]   Navigating to https://www.syr.gov/News
+2026-05-01 13:53:59,180 [INFO]   Found 10 article links in News
+2026-05-01 13:54:04,180 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-04-30-Mayors-Office-News-330PM
+2026-05-01 13:54:16,128 [WARNING]     Tag issue: Unknown tag 'public-engagement' not in taxonomy
+2026-05-01 13:54:16,128 [WARNING]     Tag issue: Unknown tag 'state-programs' not in taxonomy
+2026-05-01 13:54:16,138 [INFO]     Dedup match: CTX-WEB-2026-00137 — linking via cluster
+2026-05-01 13:54:16,139 [INFO]     Saved: CTX-WEB-2026-00138 → CTX-WEB-2026-00138.json
+2026-05-01 13:54:16,139 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-05-01 13:54:16,139 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-05-01 13:54:19,405 [INFO]   Found 0 article links in Announcements
+2026-05-01 13:54:24,405 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-05-01 13:54:24,405 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-05-01 13:54:27,560 [INFO]   Found 0 article links in Public Notices
+2026-05-01 13:54:32,598 [INFO] Website Monitor Run — 2026-05-01 13:54
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • Mayor Owens Extends Draft Climate Action Plan Public Commenting Period
+
