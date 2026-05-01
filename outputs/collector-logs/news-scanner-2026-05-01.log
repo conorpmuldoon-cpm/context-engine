@@ -1,0 +1,82 @@
+2026-05-01 13:27:11,591 [INFO] ============================================================
+2026-05-01 13:27:11,592 [INFO] News Scanner starting
+2026-05-01 13:27:11,593 [INFO] Fetching: Syracuse.com Politics
+2026-05-01 13:27:11,878 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-01 13:27:11,878 [INFO] Fetching: Syracuse.com Government
+2026-05-01 13:27:12,042 [INFO]   0 new articles from Syracuse.com Government
+2026-05-01 13:27:12,042 [INFO] Fetching: Syracuse.com Local
+2026-05-01 13:27:12,231 [INFO]   0 new articles from Syracuse.com Local
+2026-05-01 13:27:12,231 [INFO] Fetching: Syracuse.com Main
+2026-05-01 13:27:12,386 [INFO]   0 new articles from Syracuse.com Main
+2026-05-01 13:27:12,386 [INFO] Total unique articles across all feeds: 50
+2026-05-01 13:27:12,387 [INFO] New articles (not previously processed): 50
+2026-05-01 13:27:12,435 [DEBUG]   Filtered (not relevant): Samsung’s 65-inch Class Crystal TV is less than $350 in limited time deal
+2026-05-01 13:27:12,435 [INFO]   Relevant: Former Syracuse basketball player reunited with family in South Sudan after bein
+2026-05-01 13:27:12,435 [DEBUG]     → Entities: Syracuse University
+2026-05-01 13:27:16,694 [INFO]     Saved: CTX-NEWS-2026-00081 → CTX-NEWS-2026-00081.json
+2026-05-01 13:27:16,694 [DEBUG]   Filtered (not relevant): Meet syracuse.com’s 2025-26 All-CNY large school girls basketball team
+2026-05-01 13:27:16,695 [DEBUG]   Filtered (not relevant): Dear Annie: Son insists he cannot raise his daughter alone; don’t we deserve our
+2026-05-01 13:27:16,695 [INFO]   Relevant: Everyone wants long-vacant Skyline building reopened, but city and owner can’t a
+2026-05-01 13:27:16,696 [DEBUG]     → Keywords: city officials
+2026-05-01 13:27:21,695 [INFO]     Saved: CTX-NEWS-2026-00082 → CTX-NEWS-2026-00082.json
+2026-05-01 13:27:21,696 [DEBUG]   Filtered (not relevant): Meet syracuse.com’s 2025-26 All-CNY large school boys basketball team
+2026-05-01 13:27:21,696 [DEBUG]   Filtered (not relevant): Dear Annie: I got friendly with a co-worker; now things have gone to an uncomfor
+2026-05-01 13:27:21,697 [DEBUG]   Filtered (not relevant): Mountain Goat offers a chance to see Syracuse with fresh eyes (Guest Opinion by 
+2026-05-01 13:27:21,697 [DEBUG]   Filtered (not relevant): Syracuse Sandwiches: This downtown Cuban is so big it’s served as a 3-story towe
+2026-05-01 13:27:21,698 [DEBUG]   Filtered (not relevant): Where to watch Jannik Sinner vs. Arthur Fils today at Madrid Open: Tennis free l
+2026-05-01 13:27:21,698 [DEBUG]   Filtered (not relevant): AHL’s points leader guides Crunch into pivotal Game 3: ‘He’s got an arsenal in h
+2026-05-01 13:27:21,698 [DEBUG]   Filtered (not relevant): Syracuse.com’s boys lacrosse Game of the Week is live tonight: Liverpool at Cice
+2026-05-01 13:27:21,699 [DEBUG]   Filtered (not relevant): Syracuse Playlist: Pop on 12 new tunes from CNY artists (listen)
+2026-05-01 13:27:21,699 [DEBUG]   Filtered (not relevant): Section III flag football stat leaders (through April 30)
+2026-05-01 13:27:21,700 [DEBUG]   Filtered (not relevant): Cinnamon sugar crullers
+2026-05-01 13:27:21,701 [INFO]   Relevant: Syracuse lacrosse opens ACC tournament against North Carolina
+2026-05-01 13:27:21,701 [DEBUG]     → Entities: Syracuse University
+2026-05-01 13:27:23,859 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-05-01 13:27:23,869 [INFO]     Saved: CTX-NEWS-2026-00083 → CTX-NEWS-2026-00083.json
+2026-05-01 13:27:23,870 [DEBUG]   Filtered (not relevant): A design contest is launching for Syracuse’s Columbus Circle. Could the statue s
+2026-05-01 13:27:23,870 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for May 1
+2026-05-01 13:27:23,871 [DEBUG]   Filtered (not relevant): Asking Eric: I want to introduce new partner to my mom, but not when judgmental 
+2026-05-01 13:27:23,871 [DEBUG]   Filtered (not relevant): Clay could join Amazon drone delivery network (Good Morning CNY)
+2026-05-01 13:27:23,872 [DEBUG]   Filtered (not relevant): Asking Eric: Daughter-in-law refuses to let us pick up our grandson, but won’t e
+2026-05-01 13:27:23,872 [DEBUG]   Filtered (not relevant): Unseasonably cold, wet weekend ahead in Central NY
+2026-05-01 13:27:23,873 [DEBUG]   Filtered (not relevant): Syracuse company that helps the U.S. military hunt dangerous drones adds $3M hig
+2026-05-01 13:27:23,873 [DEBUG]   Filtered (not relevant): Love it or hate it, expanded NCAA Tournament is good for Syracuse
+2026-05-01 13:27:23,874 [DEBUG]   Filtered (not relevant): Dear Abby: I have been driving this same wealthy couple for years, and they are 
+2026-05-01 13:27:23,874 [DEBUG]   Filtered (not relevant): House of the Week: Auburn property has the ‘best south-facing view’ of Owasco La
+2026-05-01 13:27:23,874 [DEBUG]   Filtered (not relevant): ‘70s, ‘80s rock band returns with new lead singer: ‘Keep the music alive’
+2026-05-01 13:27:23,875 [DEBUG]   Filtered (not relevant): Dear Abby: My ex and I have two kids; each one hates a parent for unresolvable r
+2026-05-01 13:27:23,875 [DEBUG]   Filtered (not relevant): Syracuse walks it off in extras to complete doubleheader sweep against Lehigh Va
+2026-05-01 13:27:23,876 [DEBUG]   Filtered (not relevant): L.L.Bean drops new analog tote bag and shoppers can’t wait to get their hands on
+2026-05-01 13:27:23,876 [DEBUG]   Filtered (not relevant): Syracuse East flag football hands Oneida 1st loss of season (46 photos)
+2026-05-01 13:27:23,876 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for April 30
+2026-05-01 13:27:23,877 [DEBUG]   Filtered (not relevant): CBA girls lacrosse edges Marcellus in high-scoring league matchup
+2026-05-01 13:27:23,877 [DEBUG]   Filtered (not relevant): Syracuse city seniors close Section III basketball careers with 1st-ever all-sta
+2026-05-01 13:27:23,877 [DEBUG]   Filtered (not relevant): Cincinnatus softball tops McGraw in battle of unbeatens: ‘An electric win’
+2026-05-01 13:27:23,878 [DEBUG]   Filtered (not relevant): Lamb bolognese
+2026-05-01 13:27:23,879 [DEBUG]   Filtered (not relevant): Stunning score: NY Knicks go wild in record-setting first half of NBA playoff ga
+2026-05-01 13:27:23,879 [DEBUG]   Filtered (not relevant): Trump signs bill funding the Department of Homeland Security, ending record shut
+2026-05-01 13:27:23,880 [DEBUG]   Filtered (not relevant): ACC school is first to make deal with Amazon Prime for college basketball broadc
+2026-05-01 13:27:23,880 [DEBUG]   Filtered (not relevant): Video: Fiery explosion at New York City home sends police officers flying
+2026-05-01 13:27:23,881 [DEBUG]   Filtered (not relevant): NHL Underdog promo code “SYRACUSE” updates $50 bonus with $1K deposit match for 
+2026-05-01 13:27:23,881 [DEBUG]   Filtered (not relevant): NHL Kalshi Promo Code SYRACUSE: Extended $10 Bonus for Oilers vs. Ducks Game 6
+2026-05-01 13:27:23,881 [DEBUG]   Filtered (not relevant): How to watch Olivia Rodrigo on ‘The Tonight Show’ with Jimmy Fallon for free ton
+2026-05-01 13:27:23,882 [DEBUG]   Filtered (not relevant): Pasta with tomato-poached eggs
+2026-05-01 13:27:23,883 [DEBUG]   Filtered (not relevant): Novig Promo Code SYRACUSE upgrades “Spend $5, Get $50” offer for Oilers-Ducks Ga
+2026-05-01 13:27:23,883 [DEBUG]   Filtered (not relevant): Oilers vs. Ducks Game 6 FREE live stream: Where to watch NHL Playoffs Thursday
+2026-05-01 13:27:23,884 [DEBUG]   Filtered (not relevant): Nuggets vs. Timberwolves Game 6 FREE live stream: Where to watch NBA Playoffs Th
+2026-05-01 13:27:23,884 [DEBUG]   Filtered (not relevant): Celtics vs. 76ers Game 6 FREE live stream: Where to watch NBA Playoffs Thursday
+2026-05-01 13:27:23,885 [DEBUG]   Filtered (not relevant): Knicks vs. Hawks Game 6 odds update: Brunson, Towns top BetMGM props and parlays
+2026-05-01 13:27:23,885 [DEBUG]   Filtered (not relevant): Jason Aldean, Luke Bryan announce 4-date ‘Double Down Tour’: Presale and ticket 
+2026-05-01 13:27:23,887 [INFO] News Scanner Run — 2026-05-01 13:27
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • Former Syracuse basketball player reunited with family in South Sudan after bein
+  • Everyone wants long-vacant Skyline building reopened, but city and owner can’t a
+  • Syracuse lacrosse opens ACC tournament against North Carolina
+

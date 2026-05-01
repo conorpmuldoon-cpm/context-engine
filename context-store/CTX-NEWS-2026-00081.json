@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00081",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/05/former-syracuse-basketball-player-reunites-with-family-in-south-sudan-after-ice-detention.html",
+  "publication_date": "2026-05-01",
+  "capture_date": "2026-05-01T13:27:16Z",
+  "title": "Former Syracuse basketball player reunited with family in South Sudan after being deported by ICE",
+  "summary": "Former Syracuse University basketball player John Bol Ajak was deported by ICE after spending over one month in custody and has been returned to South Sudan to reunite with family. This story involves immigration enforcement actions and may intersect with city constituency concerns regarding immigrant services and support.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "state-agency",
+    "residents",
+    "trending"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "John Bol Ajak",
+      "type": "person",
+      "canonical_id": "PERSON-JOHN-AJAK"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIVERSITY"
+    },
+    {
+      "name": "U.S. Immigration and Customs Enforcement",
+      "type": "organization",
+      "canonical_id": "ORG-ICE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "ICE deportation of local university-affiliated individual may generate constituent interest in immigrant services, due process, and city-level support mechanisms for vulnerable populations.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on human interest/immigration enforcement rather than direct city services",
+    "No municipal budget, infrastructure, or departmental operations impact detected",
+    "Potential connection to equity and resident services advocacy",
+    "Date marked as 2026 (future-dated; verify publication accuracy)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

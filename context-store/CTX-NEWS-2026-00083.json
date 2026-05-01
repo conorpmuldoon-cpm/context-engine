@@ -1,0 +1,41 @@
+{
+  "record_id": "CTX-NEWS-2026-00083",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangelacrosse/2026/05/syracuse-mens-lacrosse-heads-to-charlotte-to-defend-acc-tournament-title.html",
+  "publication_date": "2026-05-01",
+  "capture_date": "2026-05-01T13:27:23Z",
+  "title": "Syracuse lacrosse opens ACC tournament against North Carolina",
+  "summary": "This article covers Syracuse University men's lacrosse's ACC tournament opener against North Carolina. The content is not relevant to City of Syracuse municipal operations, government services, or Chief Innovation Officer priorities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is about collegiate athletics (Syracuse University lacrosse), not City of Syracuse municipal operations",
+    "No relevance to CIO mandate, city services, or government functions",
+    "Recommend deprioritizing or filtering out sports content in future indexing",
+    "Entity 'Syracuse' refers to university location, not city government context",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

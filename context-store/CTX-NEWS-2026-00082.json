@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2026-00082",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/05/everyone-wants-long-vacant-skyline-building-reopened-but-city-and-owner-cant-agree-when.html",
+  "publication_date": "2026-05-01",
+  "capture_date": "2026-05-01T13:27:21Z",
+  "title": "Everyone wants long-vacant Skyline building reopened, but city and owner can’t agree when",
+  "summary": "A 362-unit former Skyline Apartments building remains vacant despite a court-approved settlement requiring the owner to complete renovations and open for rental by April 30, 2026. The city and property owner are in dispute over the timeline for reopening, indicating a breakdown in enforcement of the settlement agreement and potential housing supply implications for Syracuse.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "facilities",
+    "code-enforcement",
+    "complaint",
+    "escalating",
+    "contract-award",
+    "land-use",
+    "investigation"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Skyline Apartments",
+      "type": "organization",
+      "canonical_id": "ORG-SKYLINE-APTS"
+    },
+    {
+      "name": "Tim Knauss",
+      "type": "person",
+      "canonical_id": "PERSON-TIM-KNAUSS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Settlement enforcement failure suggests accountability gap between city and private property owner; potential constituent pressure regarding housing availability and vacant property management in downtown/neighborhood revitalization context.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date is 2026-05-01 (future date); likely a test case or typo—verify actual publication date",
+    "No dollar amounts, budget data, or specific city departments explicitly named in excerpt",
+    "Court-approved settlement indicates prior legal action; full legal file may be in Law Department records",
+    "362-unit housing stock represents significant affordable/market-rate housing inventory; economic development and housing affordability implications",
+    "PROVISIONAL tag recommendation: 'settlement-enforcement' or 'vacant-property-management' if new governance category needed",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
