@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00084",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangelacrosse/2026/05/2nd-half-struggles-doom-no6-syracuse-lacrosse-again-in-acc-tournament-loss-to-no-5-unc-axes-quick-takes.html",
+  "publication_date": "2026-05-02",
+  "capture_date": "2026-05-02T13:21:19Z",
+  "title": "Second-half struggles doom SU lax in ACC tournament loss to UNC (Axe’s quick takes)",
+  "summary": "This article covers Syracuse University men's lacrosse team's ACC tournament loss to UNC. The content is sports-focused and has no relevance to city innovation, municipal services, or government operations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "North Carolina",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is sports news (NCAA lacrosse) with no municipal governance, innovation, or city services content",
+    "Not relevant to City of Syracuse Chief Innovation Officer context or operations",
+    "Should be filtered out of CIO briefing materials",
+    "Mechanical extraction of 'Syracuse University' entity is geographically coincidental, not operationally relevant",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

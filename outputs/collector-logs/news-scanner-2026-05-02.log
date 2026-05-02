@@ -1,0 +1,81 @@
+2026-05-02 13:21:14,374 [INFO] ============================================================
+2026-05-02 13:21:14,374 [INFO] News Scanner starting
+2026-05-02 13:21:14,375 [INFO] Fetching: Syracuse.com Politics
+2026-05-02 13:21:15,803 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-02 13:21:15,803 [INFO] Fetching: Syracuse.com Government
+2026-05-02 13:21:15,983 [INFO]   0 new articles from Syracuse.com Government
+2026-05-02 13:21:15,983 [INFO] Fetching: Syracuse.com Local
+2026-05-02 13:21:16,207 [INFO]   0 new articles from Syracuse.com Local
+2026-05-02 13:21:16,207 [INFO] Fetching: Syracuse.com Main
+2026-05-02 13:21:16,385 [INFO]   0 new articles from Syracuse.com Main
+2026-05-02 13:21:16,385 [INFO] Total unique articles across all feeds: 50
+2026-05-02 13:21:16,386 [INFO] New articles (not previously processed): 50
+2026-05-02 13:21:16,430 [DEBUG]   Filtered (not relevant): Asking Eric: I’ve spent 65 years of life cowering from yelling family, and I can
+2026-05-02 13:21:16,430 [DEBUG]   Filtered (not relevant): 400 rally for International Workers’ Day in Syracuse Friday
+2026-05-02 13:21:16,431 [DEBUG]   Filtered (not relevant): Where to watch Mirra Andreeva vs. Marta Kostyuk today in Madrid Open finals: Ten
+2026-05-02 13:21:16,431 [DEBUG]   Filtered (not relevant): OCHS adoptable pet: Jazzy would get the gold if lounging were an Olympic event
+2026-05-02 13:21:16,431 [DEBUG]   Filtered (not relevant): Asking Eric: Longtime friend always saves disgusting tissue habit for when we’re
+2026-05-02 13:21:16,432 [DEBUG]   Filtered (not relevant): Syracuse Crunch face elimination after dropping Game 3 in overtime to Cleveland
+2026-05-02 13:21:16,432 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for May 2
+2026-05-02 13:21:16,433 [DEBUG]   Filtered (not relevant): How 2 former Metro Mattress workers are reviving the Syracuse-area chain: ‘We to
+2026-05-02 13:21:16,433 [DEBUG]   Filtered (not relevant): Syracuse.com’s Unified basketball media day: Athletes celebrate new season with 
+2026-05-02 13:21:16,434 [DEBUG]   Filtered (not relevant): No. 2-ranked running back in New York chooses SU over ACC rivals
+2026-05-02 13:21:16,434 [DEBUG]   Filtered (not relevant): Central NY weather: Syracuse is about to see its coldest May temperatures in nea
+2026-05-02 13:21:16,434 [DEBUG]   Filtered (not relevant): Dear Abby: Daughter keeps surprising us with last-minute plus ones; turns furiou
+2026-05-02 13:21:16,435 [DEBUG]   Filtered (not relevant): Costco makes major change to iconic $1.50 hot dog combo for first time since 198
+2026-05-02 13:21:16,435 [DEBUG]   Filtered (not relevant): Dear Abby: I’m seriously considering breaking up with a friend over her behavior
+2026-05-02 13:21:16,436 [DEBUG]   Filtered (not relevant): Buffalo Sabres win, advance to 2nd round of NHL playoffs for first time since 20
+2026-05-02 13:21:16,436 [DEBUG]   Filtered (not relevant): Britney Spears charged with driving under the influence of alcohol and drugs
+2026-05-02 13:21:16,437 [DEBUG]   Filtered (not relevant): US military reaches deals with 7 tech companies to use their AI on classified sy
+2026-05-02 13:21:16,437 [DEBUG]   Filtered (not relevant): Spirit Airlines says it’s going out of business, ending operations immediately
+2026-05-02 13:21:16,437 [DEBUG]   Filtered (not relevant): Unbeaten Weedsport baseball off to best start since 2021: ‘They coexist very wel
+2026-05-02 13:21:16,438 [DEBUG]   Filtered (not relevant): Mega Millions numbers: Are you the lucky winner of Friday’s $178 million jackpot
+2026-05-02 13:21:16,438 [DEBUG]   Filtered (not relevant): Henninger High School 2026 junior prom: See 50 photos
+2026-05-02 13:21:16,438 [DEBUG]   Filtered (not relevant): Solvay High School 2026 junior senior ball: See 118 prom photos
+2026-05-02 13:21:16,439 [DEBUG]   Filtered (not relevant): Onondaga baseball ace pitches perfect game against LaFayette: ‘Just super gritty
+2026-05-02 13:21:16,439 [INFO]   Relevant: Second-half struggles doom SU lax in ACC tournament loss to UNC (Axe’s quick tak
+2026-05-02 13:21:16,439 [DEBUG]     → Entities: Syracuse University
+2026-05-02 13:21:19,090 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-05-02 13:21:19,115 [INFO]     Saved: CTX-NEWS-2026-00084 → CTX-NEWS-2026-00084.json
+2026-05-02 13:21:19,115 [DEBUG]   Filtered (not relevant): Syracuse.com’s Game of the Week: C-NS boys lacrosse tops rival in rain (21 photo
+2026-05-02 13:21:19,116 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for May 1
+2026-05-02 13:21:19,116 [DEBUG]   Filtered (not relevant): SU lacrosse box score vs. North Carolina in ACC semifinals
+2026-05-02 13:21:19,116 [DEBUG]   Filtered (not relevant): Syracuse tops Lehigh in rain-shortened game
+2026-05-02 13:21:19,117 [DEBUG]   Filtered (not relevant): Syracuse.com boys lacrosse Game of the Week MVP: Cicero-North Syracuse vs. Liver
+2026-05-02 13:21:19,117 [DEBUG]   Filtered (not relevant): NBA Kalshi Promo Code SYRACUSE: New $10 bonus for Lakers vs. Rockets Game 6
+2026-05-02 13:21:19,117 [DEBUG]   Filtered (not relevant): NHL and NBA Underdog promo code “SYRACUSE” upgrades $50 bonus with $1K deposit m
+2026-05-02 13:21:19,118 [DEBUG]   Filtered (not relevant): Syracuse lacrosse enters NCAA Tournament on losing streak following loss to UNC 
+2026-05-02 13:21:19,118 [DEBUG]   Filtered (not relevant): Where to watch Olivia Rodrigo on ‘SNL’ for free tonight
+2026-05-02 13:21:19,119 [DEBUG]   Filtered (not relevant): How scout emails played into making one of the Buffalo Bills’ draft picks
+2026-05-02 13:21:19,119 [DEBUG]   Filtered (not relevant): Novig Promo Code SYRACUSE launches “Spend $5, Get $50” welcome offer for Lakers 
+2026-05-02 13:21:19,120 [DEBUG]   Filtered (not relevant): Where to watch Golden Knights vs. Mammoth tonight if you don’t have ESPN
+2026-05-02 13:21:19,120 [DEBUG]   Filtered (not relevant): Lakers vs. Rockets Game 6 FREE live stream: Where to watch NBA Playoffs Friday
+2026-05-02 13:21:19,121 [DEBUG]   Filtered (not relevant): A day to shine for the Unified athletes of Section III (Letter from the Editor)
+2026-05-02 13:21:19,121 [DEBUG]   Filtered (not relevant): Caesars Sportsbook Promo Code CUSEDYW extends $250 Playoff “Bet & Get” deal for 
+2026-05-02 13:21:19,122 [DEBUG]   Filtered (not relevant): Harry Styles Ticketmaster requests are closed: What to do if you missed out
+2026-05-02 13:21:19,122 [DEBUG]   Filtered (not relevant): How to watch Syracuse lacrosse vs #5 North Carolina today for free
+2026-05-02 13:21:19,123 [DEBUG]   Filtered (not relevant): Pistons vs. Magic Game 6 odds update: Banchero, Cunningham headline BetMGM props
+2026-05-02 13:21:19,123 [DEBUG]   Filtered (not relevant): $150 BetMGM Bonus Code “CUSEMGM” announced for Pistons vs. Magic Game 6 NBA toni
+2026-05-02 13:21:19,124 [DEBUG]   Filtered (not relevant): Where to watch Sabres vs. Bruins tonight if you don’t have ESPN
+2026-05-02 13:21:19,124 [INFO]   Relevant: Syracuse council primary is a 3-person race after ruling keeps newcomer on ballo
+2026-05-02 13:21:19,125 [DEBUG]     → Keywords: common council
+2026-05-02 13:21:22,931 [WARNING]     Tag issue: Unknown tag 'procedural' not in taxonomy
+2026-05-02 13:21:22,939 [INFO]     Dedup match: CTX-NEWS-2026-00073 — linking via cluster
+2026-05-02 13:21:22,940 [INFO]     Saved: CTX-NEWS-2026-00085 → CTX-NEWS-2026-00085.json
+2026-05-02 13:21:22,940 [DEBUG]   Filtered (not relevant): Gone, but not forgotten: Upstate NY places we miss, from amusement parks to icon
+2026-05-02 13:21:22,941 [DEBUG]   Filtered (not relevant): Cavaliers vs. Raptors Game 6 FREE live stream: Where to watch NBA Playoffs Frida
+2026-05-02 13:21:22,941 [DEBUG]   Filtered (not relevant): Bogg Bag drops new yellow tote after social media says it’s the new ‘it’ color o
+2026-05-02 13:21:22,942 [DEBUG]   Filtered (not relevant): Where to watch Lightning vs. Canadiens tonight if you don’t have ESPN2
+2026-05-02 13:21:22,942 [DEBUG]   Filtered (not relevant): Pistons vs. Magic Game 6 FREE live stream: Where to watch NBA Playoffs Friday
+2026-05-02 13:21:22,944 [INFO] News Scanner Run — 2026-05-02 13:21
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Second-half struggles doom SU lax in ACC tournament loss to UNC (Axe’s quick tak
+  • Syracuse council primary is a 3-person race after ruling keeps newcomer on ballo
+

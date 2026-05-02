@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-NEWS-2026-00085",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/cny/2026/05/syracuse-council-primary-is-a-3-person-race-after-ruling-keeps-newcomer-on-ballot.html",
+  "publication_date": "2026-05-01",
+  "capture_date": "2026-05-02T13:21:22Z",
+  "title": "Syracuse council primary is a 3-person race after ruling keeps newcomer on ballot",
+  "summary": "Syracuse Democratic primary for common council will feature three candidates competing to fill the final year of a seat, following a court ruling that kept a newcomer on the ballot. This procedural development affects local electoral processes and constituent representation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "vote",
+    "council",
+    "leadership-change",
+    "procedural"
+  ],
+  "department_refs": [
+    "City Clerk",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Judicial ruling on ballot access reflects internal procedural scrutiny and potential disputes over candidate eligibility or nomination processes within local democratic machinery.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2026-00073"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on electoral procedure rather than innovation or municipal operations; limited direct relevance to CIO priorities.",
+    "No specific candidates named in excerpt provided; full names would require additional source review.",
+    "Court ruling suggests possible transparency or governance documentation (legal filings) that may be available through Law Department.",
+    "Limited operational or policy content; recommend monitoring for connections to election administration systems or civic engagement platforms.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'procedural' not in taxonomy",
+    "Potential duplicate of CTX-NEWS-2026-00073 — linked for review"
+  ],
+  "last_relevance_update": null
+}
