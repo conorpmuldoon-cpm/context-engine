@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00089",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/us-news/2026/05/rudy-giuliani-hospitalized-in-critical-condition-his-spokesman-says.html",
+  "publication_date": "2026-05-04",
+  "capture_date": "2026-05-04T14:11:53Z",
+  "title": "Rudy Giuliani hospitalized in critical condition, his spokesman says",
+  "summary": "Article reports on former NYC Mayor Rudy Giuliani's hospitalization in critical but stable condition. This is national political news with no direct relevance to Syracuse city operations or innovation initiatives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Rudolph Giuliani",
+      "type": "person",
+      "canonical_id": "PERSON-RUDOLPH-GIULIANI"
+    },
+    {
+      "name": "The Associated Press",
+      "type": "organization",
+      "canonical_id": "ORG-AP"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is national news story with no Syracuse municipal government relevance",
+    "No city departments, initiatives, or local policies referenced",
+    "No budget, procurement, or operational impact to City of Syracuse",
+    "Recommend deprioritization for CIO context engine unless tracking media mentions of historical NYC leadership",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

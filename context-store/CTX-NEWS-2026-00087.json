@@ -1,0 +1,41 @@
+{
+  "record_id": "CTX-NEWS-2026-00087",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangelacrosse/2026/05/syracuse-mens-lacrosse-to-open-ncaa-tournament-at-home-against-ivy-league-foe.html",
+  "publication_date": "2026-05-04",
+  "capture_date": "2026-05-04T14:11:48Z",
+  "title": "SU men's lax earns NCAA tournament home game against Ivy League foe",
+  "summary": "Syracuse University men's lacrosse team earned an NCAA tournament home game against an Ivy League opponent, beginning their pursuit of a 12th national championship at home. This announcement highlights SU's athletic achievement and the economic/community benefits of hosting a tournament game in Syracuse.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is sports/athletics focused with minimal relevance to City of Syracuse Chief Innovation Officer priorities",
+    "No municipal government, infrastructure, budget, services, or policy implications detected",
+    "Entity is university-based, not city government",
+    "May have tangential economic development interest (event hosting/tourism) but no direct CIO operational connection",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

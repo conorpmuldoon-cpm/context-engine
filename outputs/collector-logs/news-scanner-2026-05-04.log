@@ -1,0 +1,87 @@
+2026-05-04 14:11:41,152 [INFO] ============================================================
+2026-05-04 14:11:41,152 [INFO] News Scanner starting
+2026-05-04 14:11:41,154 [INFO] Fetching: Syracuse.com Politics
+2026-05-04 14:11:41,593 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-04 14:11:41,593 [INFO] Fetching: Syracuse.com Government
+2026-05-04 14:11:41,748 [INFO]   0 new articles from Syracuse.com Government
+2026-05-04 14:11:41,748 [INFO] Fetching: Syracuse.com Local
+2026-05-04 14:11:41,898 [INFO]   0 new articles from Syracuse.com Local
+2026-05-04 14:11:41,898 [INFO] Fetching: Syracuse.com Main
+2026-05-04 14:11:42,065 [INFO]   0 new articles from Syracuse.com Main
+2026-05-04 14:11:42,065 [INFO] Total unique articles across all feeds: 50
+2026-05-04 14:11:42,066 [INFO] New articles (not previously processed): 50
+2026-05-04 14:11:42,110 [DEBUG]   Filtered (not relevant): Tribes sue to halt exploratory drilling in Black Hills near sacred ceremonial si
+2026-05-04 14:11:42,110 [DEBUG]   Filtered (not relevant): Country star Martina McBride coming to Central NY for concert
+2026-05-04 14:11:42,110 [DEBUG]   Filtered (not relevant): Dear Doctor: Was the COVID vaccine put through this one, rigorous type of testin
+2026-05-04 14:11:42,111 [DEBUG]   Filtered (not relevant): I-81 project short on goal to hire local workers, advocates say
+2026-05-04 14:11:42,111 [DEBUG]   Filtered (not relevant): NY may ban ingredient used in doughs for pizza and bagels
+2026-05-04 14:11:42,112 [DEBUG]   Filtered (not relevant): Dear Doctor: After grand mal seizure, husband’s memory slips and he becomes comb
+2026-05-04 14:11:42,112 [DEBUG]   Filtered (not relevant): Walmart’s 4.3-star electric bike is seeing a $100 markdown this week
+2026-05-04 14:11:42,113 [DEBUG]   Filtered (not relevant): Yankees icon John Sterling dies at 87: ‘We are devastated’
+2026-05-04 14:11:42,113 [DEBUG]   Filtered (not relevant): Photos you’ll want to see from Central New York high school spring sports (Week 
+2026-05-04 14:11:42,114 [DEBUG]   Filtered (not relevant): Dear Annie: Neighbor’s dream home is being built at expense of my view; is it ti
+2026-05-04 14:11:42,114 [DEBUG]   Filtered (not relevant): See homes sold in four Central NY counties, April 20 to 26
+2026-05-04 14:11:42,114 [DEBUG]   Filtered (not relevant): Denis Leary puts civilians through FDNY training to raise funds for firefighters
+2026-05-04 14:11:42,115 [DEBUG]   Filtered (not relevant): See more than 400 photos from 5 proms this weekend in Central NY
+2026-05-04 14:11:42,115 [DEBUG]   Filtered (not relevant): Barry Manilow postpones shows for fourth time in 5 months
+2026-05-04 14:11:42,115 [DEBUG]   Filtered (not relevant): Before Styleen's and Benjamin's nightclubs, this old Syracuse building housed a 
+2026-05-04 14:11:42,116 [DEBUG]   Filtered (not relevant): Weather keeps local racing stuck in low gear
+2026-05-04 14:11:42,116 [DEBUG]   Filtered (not relevant): NYS Troopers pose as highway workers to catch speeding drivers, issue hundreds o
+2026-05-04 14:11:42,116 [DEBUG]   Filtered (not relevant): Off-duty sheriff’s deputy accused of DWI after pickup crashes into Manlius offic
+2026-05-04 14:11:42,117 [DEBUG]   Filtered (not relevant): Madison County real estate: See all residential properties sold, April 20-26
+2026-05-04 14:11:42,117 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: The best (and cheapest) Mother’s Day gift might be the one 
+2026-05-04 14:11:42,118 [DEBUG]   Filtered (not relevant): Homes in Onondaga County are selling at near historically fast clip
+2026-05-04 14:11:42,118 [DEBUG]   Filtered (not relevant): Top 50 Section III boys lacrosse stats leaders (through May 3)
+2026-05-04 14:11:42,118 [DEBUG]   Filtered (not relevant): Lumber yard, dairy farm, Micron land: See 25 latest business, apartment, land sa
+2026-05-04 14:11:42,119 [INFO]   Relevant: Does SU lax have what it takes to win a national title? | Axe
+2026-05-04 14:11:42,119 [DEBUG]     → Entities: Syracuse University
+2026-05-04 14:11:44,929 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-05-04 14:11:44,954 [INFO]     Saved: CTX-NEWS-2026-00086 → CTX-NEWS-2026-00086.json
+2026-05-04 14:11:44,955 [DEBUG]   Filtered (not relevant): Asking Eric: I dislike tattoos so much, I can’t even eat at a restaurant where c
+2026-05-04 14:11:44,955 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for May 4
+2026-05-04 14:11:44,956 [DEBUG]   Filtered (not relevant): Former SU linebacker puts cooking skills to the test on Food Network’s ‘Beat Bob
+2026-05-04 14:11:44,956 [DEBUG]   Filtered (not relevant): Statue supporters demand transparency for Columbus Circle redesign (Good Morning
+2026-05-04 14:11:44,956 [DEBUG]   Filtered (not relevant): Asking Eric: Sister’s personality imploded after the divorce, and we’re all expe
+2026-05-04 14:11:44,957 [DEBUG]   Filtered (not relevant): Central NY weather: 70s to start the week, but rain and cooler temperatures are 
+2026-05-04 14:11:44,957 [DEBUG]   Filtered (not relevant): NBC host from Upstate NY reveals breast cancer diagnosis
+2026-05-04 14:11:44,957 [DEBUG]   Filtered (not relevant): Plane hits light pole on NJ Turnpike, damages delivery truck
+2026-05-04 14:11:44,958 [DEBUG]   Filtered (not relevant): Food Truck Battle, Shop Small Sunday: 15 things to do in CNY this week
+2026-05-04 14:11:44,959 [DEBUG]   Filtered (not relevant): Dear Abby: Destination wedding cost everyone a lot of money, but some of us aren
+2026-05-04 14:11:44,959 [DEBUG]   Filtered (not relevant): Syracuse mom spurs community into life-saving quest for donors to save her two s
+2026-05-04 14:11:44,959 [DEBUG]   Filtered (not relevant): How Gerry McNamara is building a Syracuse roster based on his Siena blueprint
+2026-05-04 14:11:44,960 [DEBUG]   Filtered (not relevant): NY Mets place Mauricio on injured list, call up player from Syracuse
+2026-05-04 14:11:44,960 [DEBUG]   Filtered (not relevant): Former Syracuse chancellor Kent Syverud receives honorary degree at Michigan com
+2026-05-04 14:11:44,960 [DEBUG]   Filtered (not relevant): Legendary rock band’s former lead singer dies at 79 with dog by his side
+2026-05-04 14:11:44,961 [DEBUG]   Filtered (not relevant): Dear Abby: It’s harder and harder to stay friends with you the longer you refuse
+2026-05-04 14:11:44,961 [INFO]   Relevant: SU men's lax earns NCAA tournament home game against Ivy League foe
+2026-05-04 14:11:44,961 [DEBUG]     → Entities: Syracuse University
+2026-05-04 14:11:48,340 [INFO]     Saved: CTX-NEWS-2026-00087 → CTX-NEWS-2026-00087.json
+2026-05-04 14:11:48,341 [INFO]   Relevant: SU women's lax draws NCAA tournament opponent it defeated at JMA Dome this seaso
+2026-05-04 14:11:48,341 [DEBUG]     → Entities: Syracuse University
+2026-05-04 14:11:51,016 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-05-04 14:11:51,026 [INFO]     Saved: CTX-NEWS-2026-00088 → CTX-NEWS-2026-00088.json
+2026-05-04 14:11:51,027 [DEBUG]   Filtered (not relevant): 6 Syracuse Mets pitchers combine to shut out IronPigs
+2026-05-04 14:11:51,028 [DEBUG]   Filtered (not relevant): Central NY teen accused of stealing 3 trucks
+2026-05-04 14:11:51,028 [DEBUG]   Filtered (not relevant): Deputy, juvenile burned after flare gun goes off during police stop in Utica
+2026-05-04 14:11:51,029 [INFO]   Relevant: Rudy Giuliani hospitalized in critical condition, his spokesman says
+2026-05-04 14:11:51,029 [DEBUG]     → Keywords: mayor
+2026-05-04 14:11:53,863 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-05-04 14:11:53,872 [INFO]     Saved: CTX-NEWS-2026-00089 → CTX-NEWS-2026-00089.json
+2026-05-04 14:11:53,873 [DEBUG]   Filtered (not relevant): Syracuse Crunch season ends with triple-OT loss to Cleveland
+2026-05-04 14:11:53,874 [DEBUG]   Filtered (not relevant): NBA Novig Promo Code SYRACUSE upgrades “Spend $5, Get $50” deal for Raptors vs. 
+2026-05-04 14:11:53,874 [DEBUG]   Filtered (not relevant): Trump says the US will ‘guide’ stranded ships from the Strait of Hormuz, startin
+2026-05-04 14:11:53,875 [DEBUG]   Filtered (not relevant): Oneida County real estate: See all residential properties sold, April 20-26
+2026-05-04 14:11:53,877 [INFO] News Scanner Run — 2026-05-04 14:11
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 4
+Filtered (not relevant): 46
+Errors: 0
+
+New records:
+  • Does SU lax have what it takes to win a national title? | Axe
+  • SU men's lax earns NCAA tournament home game against Ivy League foe
+  • SU women's lax draws NCAA tournament opponent it defeated at JMA Dome this seaso
+  • Rudy Giuliani hospitalized in critical condition, his spokesman says
+

@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00088",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangelacrosse/2026/05/syracuse-womens-lacrosse-draws-ncaa-tournament-opponent-it-defeated-at-jma-dome-this-season.html",
+  "publication_date": "2026-05-04",
+  "capture_date": "2026-05-04T14:11:51Z",
+  "title": "SU women's lax draws NCAA tournament opponent it defeated at JMA Dome this season",
+  "summary": "Syracuse University women's lacrosse team has been selected to face Loyola (Maryland) in the 2026 NCAA tournament opening round. This article covers NCAA athletics and has no direct relevance to City of Syracuse municipal operations, innovation strategy, or public sector governance.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Loyola University Maryland",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns NCAA Division I athletics and is outside the scope of municipal government operations and innovation strategy",
+    "No city agencies, policies, budgets, or public services are referenced",
+    "JMA Dome is a university athletic facility, not a city asset",
+    "Recommend filtering out sports news unrelated to city operations from future indexing",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

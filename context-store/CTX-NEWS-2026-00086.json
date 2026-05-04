@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00086",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangelacrosse/2026/05/does-syracuse-lacrosse-have-what-it-takes-to-win-a-national-title-axe.html",
+  "publication_date": "2026-05-04",
+  "capture_date": "2026-05-04T14:11:44Z",
+  "title": "Does SU lax have what it takes to win a national title? | Axe",
+  "summary": "Sports commentary article about Syracuse University men's lacrosse team's potential for winning a national championship. Not relevant to City of Syracuse municipal operations, government services, or Chief Innovation Officer policy priorities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Brent Axe",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is sports-focused commentary on university athletics, not municipal government content",
+    "No relevance to City of Syracuse CIO operations, digital services, infrastructure, or policy initiatives",
+    "Should be filtered from government operations analysis",
+    "Entity reference to Syracuse University is geographic/namesake only, not an operational partner or stakeholder in city innovation work",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
