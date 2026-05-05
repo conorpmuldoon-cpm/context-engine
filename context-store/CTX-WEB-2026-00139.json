@@ -1,0 +1,92 @@
+{
+  "record_id": "CTX-WEB-2026-00139",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-05-04-Infrastructure-News",
+  "publication_date": "2026-05-04",
+  "capture_date": "2026-05-05T14:23:52Z",
+  "title": "Mayor Owens and Urban Jobs Task Force Partner to Advance Local Hiring",
+  "summary": "Mayor Owens and the Urban Jobs Task Force announced results from the I-81 Viaduct Project's Local Hire Initiative (Jan 2023–Aug 2025), demonstrating early workforce equity outcomes: 263 local residents hired (14.9% of workforce), $9.56M in local wages, and 50 apprenticeships filled. The initiative is positioned as a national model for community-centered infrastructure contracting.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "workforce-development",
+    "hiring",
+    "infrastructure",
+    "economic-development",
+    "equity",
+    "initiative-launch",
+    "intergovernmental",
+    "labor-relations",
+    "state-agency",
+    "announcement"
+  ],
+  "department_refs": [
+    "Mayor's Office",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Urban Jobs Task Force",
+      "type": "organization",
+      "canonical_id": "ORG-UJTF"
+    },
+    {
+      "name": "New York State Department of Transportation",
+      "type": "organization",
+      "canonical_id": "ORG-NYSDOT"
+    },
+    {
+      "name": "Elizabeth Parmley",
+      "type": "person",
+      "canonical_id": "PERSON-ELIZABETH-PARMLEY"
+    },
+    {
+      "name": "Deka Eysaman",
+      "type": "person",
+      "canonical_id": "PERSON-DEKA-EYSAMAN"
+    },
+    {
+      "name": "Syracuse Build",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-BUILD"
+    },
+    {
+      "name": "IBEW Local 43",
+      "type": "organization",
+      "canonical_id": "ORG-IBEW-LOCAL-43"
+    },
+    {
+      "name": "Onondaga Nation",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor Owens champions community equity and local hiring as core city development strategy; framing I-81 project as model for inclusive infrastructure outcomes aligns with stated equity and economic development priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Press release URL categorized under Traffic & Infrastructure but focuses on workforce/equity outcomes—consider cross-indexing to workforce-development channels",
+    "Report ('I-81 Workforce Equity Report') referenced as public document but not directly linked; recommend tracking publication for CIO data governance purposes",
+    "Data points are from preliminary analysis (Jan 2023–Aug 2025); full project lifecycle outcomes pending",
+    "No direct CIO/IT infrastructure implications detected, but initiative demonstrates data-driven contracting and equity metrics tracking—relevant to procurement modernization strategy",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
