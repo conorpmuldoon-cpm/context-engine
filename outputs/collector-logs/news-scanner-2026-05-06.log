@@ -1,0 +1,73 @@
+2026-05-06 14:24:06,136 [INFO] ============================================================
+2026-05-06 14:24:06,136 [INFO] News Scanner starting
+2026-05-06 14:24:06,137 [INFO] Fetching: Syracuse.com Politics
+2026-05-06 14:24:06,606 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-06 14:24:06,606 [INFO] Fetching: Syracuse.com Government
+2026-05-06 14:24:06,818 [INFO]   0 new articles from Syracuse.com Government
+2026-05-06 14:24:06,818 [INFO] Fetching: Syracuse.com Local
+2026-05-06 14:24:07,009 [INFO]   0 new articles from Syracuse.com Local
+2026-05-06 14:24:07,009 [INFO] Fetching: Syracuse.com Main
+2026-05-06 14:24:07,193 [INFO]   0 new articles from Syracuse.com Main
+2026-05-06 14:24:07,193 [INFO] Total unique articles across all feeds: 50
+2026-05-06 14:24:07,193 [INFO] New articles (not previously processed): 50
+2026-05-06 14:24:07,240 [DEBUG]   Filtered (not relevant): Oswego Health CNA program graduates 4 new nursing assistants
+2026-05-06 14:24:07,240 [DEBUG]   Filtered (not relevant): Experts release new Pistons vs. Cavs Game 2 prediction as Cunningham, Mitchell t
+2026-05-06 14:24:07,241 [DEBUG]   Filtered (not relevant): Manlius 6th-grader rings bell after beating cancer with pioneering backpack trea
+2026-05-06 14:24:07,241 [DEBUG]   Filtered (not relevant): Didn’t get tickets for Hayley Williams at Forest Hills Stadium? Where you can st
+2026-05-06 14:24:07,242 [DEBUG]   Filtered (not relevant): Salt City Bread closing Manlius bakery permanently
+2026-05-06 14:24:07,242 [DEBUG]   Filtered (not relevant): How to secure All Things Go DC 2026 presale tickets before they sell out
+2026-05-06 14:24:07,242 [DEBUG]   Filtered (not relevant): Syracuse-based The Reading League hires national chapter director
+2026-05-06 14:24:07,243 [DEBUG]   Filtered (not relevant): Dear Doctor: I have stage 4 endometrial cancer, and I used this diet to stay hea
+2026-05-06 14:24:07,243 [DEBUG]   Filtered (not relevant): Water company donates 250 filtered faucets to in-home childcare centers in the S
+2026-05-06 14:24:07,244 [DEBUG]   Filtered (not relevant): Walmart is having the ultimate sale on a ton of best-selling Ninja items
+2026-05-06 14:24:07,244 [DEBUG]   Filtered (not relevant): 5 Section III teams climb into latest state baseball rankings
+2026-05-06 14:24:07,244 [INFO]   Relevant: Could a new tax on luxury second homes in New York City work in wealthy Skaneate
+2026-05-06 14:24:07,244 [DEBUG]     → Keywords: mayor
+2026-05-06 14:24:12,124 [ERROR]     Schema error: Schema validation: 'state_mandates' is not one of ['championship', 'opposition', 'scrutiny', 'constituent_pressure', 'priority_alignment', 'budget_commitment']
+2026-05-06 14:24:12,129 [ERROR]     Cannot fix schema errors for Could a new tax on luxury second homes in New York City work — skipping
+2026-05-06 14:24:12,130 [DEBUG]   Filtered (not relevant): Dear Annie: How do I tell my retired sister that her ‘help’ feels more like cont
+2026-05-06 14:24:12,131 [DEBUG]   Filtered (not relevant): Boy Scout Troop 50 and 780 complete service project in Minetto NY
+2026-05-06 14:24:12,131 [DEBUG]   Filtered (not relevant): 16-year-old accused of fatal shooting at Syracuse pool offered plea deal
+2026-05-06 14:24:12,132 [DEBUG]   Filtered (not relevant): When access to capital becomes a citizenship test, US economy loses (Guest Opini
+2026-05-06 14:24:12,132 [DEBUG]   Filtered (not relevant): Dear Annie: Surprise baby when my other kids are teens has me torn between paren
+2026-05-06 14:24:12,133 [DEBUG]   Filtered (not relevant): Who are the Section III flag football midseason MVPs? 6 coaches make their picks
+2026-05-06 14:24:12,133 [DEBUG]   Filtered (not relevant): The world's largest known cluster of bees is under a cemetery in Ithaca, NY
+2026-05-06 14:24:12,133 [DEBUG]   Filtered (not relevant): See CNY schools ranked 1 to 124 by 2025 Algebra I Regents
+2026-05-06 14:24:12,134 [DEBUG]   Filtered (not relevant): Missed Olivia Rodrigo’s AMEX presale? Here’s your best chance at getting tickets
+2026-05-06 14:24:12,134 [DEBUG]   Filtered (not relevant): Experts adjust Sabres vs. Canadiens Game 1 predictions following Sam Carrick inj
+2026-05-06 14:24:12,134 [DEBUG]   Filtered (not relevant): Top Section III baseball pitching leaders (through May 5)
+2026-05-06 14:24:12,135 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: Frugality vs. fun, and how to find that sweet spot in the m
+2026-05-06 14:24:12,135 [DEBUG]   Filtered (not relevant): Top Section III baseball hitting leaders (through May 5)
+2026-05-06 14:24:12,136 [DEBUG]   Filtered (not relevant): Netflix show filmed in Upstate NY returns for season 2: See trailer
+2026-05-06 14:24:12,136 [DEBUG]   Filtered (not relevant): With Micron as its magnet, Onondaga County draws a crowd at USA investment summi
+2026-05-06 14:24:12,136 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for May 6
+2026-05-06 14:24:12,137 [DEBUG]   Filtered (not relevant): Police blotter: See 250 new arrests added (May 6, 2026)
+2026-05-06 14:24:12,137 [DEBUG]   Filtered (not relevant): Syracuse.com journalists win top honors from Syracuse Press Club
+2026-05-06 14:24:12,138 [DEBUG]   Filtered (not relevant): Asking Eric: I’m suddenly realizing I talk way too much, and have no idea how to
+2026-05-06 14:24:12,138 [DEBUG]   Filtered (not relevant): N.J. family loses business, car after ICE roadblock
+2026-05-06 14:24:12,139 [DEBUG]   Filtered (not relevant): Asking Eric: I’m an eight-time grandfather, and I absolutely hate interacting wi
+2026-05-06 14:24:12,139 [DEBUG]   Filtered (not relevant): Central NY weather: Rain moves out but an unseasonably cold pattern takes over
+2026-05-06 14:24:12,139 [DEBUG]   Filtered (not relevant): Food Truck Battle returning to fairgrounds; more top stories (Good Morning CNY)
+2026-05-06 14:24:12,140 [DEBUG]   Filtered (not relevant): Tony Awards: Upstate NY native nominated for best actor
+2026-05-06 14:24:12,140 [DEBUG]   Filtered (not relevant): Data centers descend on needy Upstate NY towns. Is anyone looking out for us?
+2026-05-06 14:24:12,141 [DEBUG]   Filtered (not relevant): ‘Clean’ skin care pioneer Indie Lee on leadership: Live the life you love, start
+2026-05-06 14:24:12,142 [DEBUG]   Filtered (not relevant): Dear Abby: Miserable sister has nothing left but sending me nasty texts and voic
+2026-05-06 14:24:12,142 [DEBUG]   Filtered (not relevant): Upstate NY man allegedly ran $10 million fraud scheme that fooled investors for 
+2026-05-06 14:24:12,143 [DEBUG]   Filtered (not relevant): Dear Abby: Must I pay for staying loyal to my ailing, estranged wife with a life
+2026-05-06 14:24:12,143 [DEBUG]   Filtered (not relevant): Gas now costs 50% more in the US than before the Iran war
+2026-05-06 14:24:12,144 [DEBUG]   Filtered (not relevant): 3 New York men plead guilty to juror bribery scheme in high-profile drug traffic
+2026-05-06 14:24:12,144 [DEBUG]   Filtered (not relevant): Police rush to famous singer’s home after reported 911 call
+2026-05-06 14:24:12,144 [DEBUG]   Filtered (not relevant): Iconic rock band releases 2 new songs, reveals big guest stars for album
+2026-05-06 14:24:12,145 [DEBUG]   Filtered (not relevant): Polymarket Promo Code CUSE debuts $20 Mother’s Day Week bonus
+2026-05-06 14:24:12,146 [DEBUG]   Filtered (not relevant): Syracuse commits combine for 11 goals as F-M girls lacrosse downs Watertown (30 
+2026-05-06 14:24:12,146 [DEBUG]   Filtered (not relevant): Mega Millions numbers: Are you the lucky winner of Tuesday’s $195 million jackpo
+2026-05-06 14:24:12,146 [DEBUG]   Filtered (not relevant): Trump’s border czar threatens to ‘flood’ NY state with ICE agents
+2026-05-06 14:24:12,147 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for May 5
+2026-05-06 14:24:12,149 [INFO] News Scanner Run — 2026-05-06 14:24
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 0
+Filtered (not relevant): 50
+Errors: 0
+
