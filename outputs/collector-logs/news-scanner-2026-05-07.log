@@ -1,0 +1,75 @@
+2026-05-07 14:24:33,745 [INFO] ============================================================
+2026-05-07 14:24:33,745 [INFO] News Scanner starting
+2026-05-07 14:24:33,747 [INFO] Fetching: Syracuse.com Politics
+2026-05-07 14:24:34,002 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-07 14:24:34,003 [INFO] Fetching: Syracuse.com Government
+2026-05-07 14:24:34,175 [INFO]   0 new articles from Syracuse.com Government
+2026-05-07 14:24:34,175 [INFO] Fetching: Syracuse.com Local
+2026-05-07 14:24:34,298 [INFO]   0 new articles from Syracuse.com Local
+2026-05-07 14:24:34,298 [INFO] Fetching: Syracuse.com Main
+2026-05-07 14:24:34,418 [INFO]   0 new articles from Syracuse.com Main
+2026-05-07 14:24:34,418 [INFO] Total unique articles across all feeds: 50
+2026-05-07 14:24:34,418 [INFO] New articles (not previously processed): 50
+2026-05-07 14:24:34,463 [DEBUG]   Filtered (not relevant): MACNY The Manufacturers Association announces 3 promotions
+2026-05-07 14:24:34,464 [DEBUG]   Filtered (not relevant): Experts release new Knicks vs. Sixers Game 3 prediction after Joel Embiid injury
+2026-05-07 14:24:34,464 [DEBUG]   Filtered (not relevant): Nvidia gives NY company massive boost with huge potential investment
+2026-05-07 14:24:34,465 [DEBUG]   Filtered (not relevant): Dear Doctor: Everything I’ve read says I shouldn’t use aspirin; why is cardiolog
+2026-05-07 14:24:34,465 [DEBUG]   Filtered (not relevant): Didn’t get Kacey Musgraves tickets? Here’s where you can still buy them
+2026-05-07 14:24:34,466 [DEBUG]   Filtered (not relevant): Midseason MVPs: 15 Section III boys lacrosse coaches share their picks
+2026-05-07 14:24:34,466 [DEBUG]   Filtered (not relevant): Amazon drone delivery map: See which parts of Central NY would get Prime Air ser
+2026-05-07 14:24:34,467 [DEBUG]   Filtered (not relevant): Hochul reaches budget deal with New York lawmakers, ending 5-week deadlock
+2026-05-07 14:24:34,467 [DEBUG]   Filtered (not relevant): 2026 Section III boys tennis team playoff field announced — full bracket, schedu
+2026-05-07 14:24:34,468 [DEBUG]   Filtered (not relevant): Dear Doctor: My doctor says you’re wrong about this magnesium level test for cer
+2026-05-07 14:24:34,468 [DEBUG]   Filtered (not relevant): Syracuse amphitheater adds another country concert to 2026 lineup
+2026-05-07 14:24:34,468 [DEBUG]   Filtered (not relevant): Walmart’s ‘Overall Pick’ patio dining set is on sale for less than $100 in rare 
+2026-05-07 14:24:34,469 [DEBUG]   Filtered (not relevant): Bad Moms Day Out is the Mother’s Day gift she actually wants (Surviving Parentin
+2026-05-07 14:24:34,470 [DEBUG]   Filtered (not relevant): Dear Annie: Are boyfriend’s birthday gifts a sign he doesn’t love me, or am I be
+2026-05-07 14:24:34,470 [DEBUG]   Filtered (not relevant): CNY’s most decorated high school skier set to continue Nordic career with D-I pr
+2026-05-07 14:24:34,471 [DEBUG]   Filtered (not relevant): Reappraising Columbus: Syracuse must finish what it started (Guest Opinion by WI
+2026-05-07 14:24:34,471 [DEBUG]   Filtered (not relevant): Dear Annie: Granddaughter doesn’t like her uncle’s ‘tickling’ and I’m worried ab
+2026-05-07 14:24:34,471 [DEBUG]   Filtered (not relevant): Who are the Section III baseball midseason MVPs? 34 coaches make their picks
+2026-05-07 14:24:34,472 [DEBUG]   Filtered (not relevant): Centolella Law hires Danna Scouten as healthcare partner
+2026-05-07 14:24:34,472 [DEBUG]   Filtered (not relevant): Report: 4 Upstate NY metros among top 10 in US for property taxes
+2026-05-07 14:24:34,473 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: I want a homemade cleaner for my extremely specific eyeglas
+2026-05-07 14:24:34,473 [DEBUG]   Filtered (not relevant): Section III softball pitching leaders (through May 6)
+2026-05-07 14:24:34,473 [DEBUG]   Filtered (not relevant): Section III softball hitting leaders (through May 6)
+2026-05-07 14:24:34,473 [DEBUG]   Filtered (not relevant): This new all-you-can-eat sushi buffet has an impressive secret that makes it wor
+2026-05-07 14:24:34,474 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: I miss my old blue jeans softener; can’t find it anywhere s
+2026-05-07 14:24:34,474 [DEBUG]   Filtered (not relevant): CNY SPCA Pet of the Week: Lily wants a place to bloom
+2026-05-07 14:24:34,475 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for May 7
+2026-05-07 14:24:34,475 [DEBUG]   Filtered (not relevant): CNY lacrosse player with autism scores the goal of a lifetime: ‘It was Nari’s mo
+2026-05-07 14:24:34,476 [INFO]   Relevant: Syracuse lawmakers will cut mayor’s budget, but this year the drama is missing
+2026-05-07 14:24:34,476 [DEBUG]     → Keywords: common council, mayor, syracuse mayor
+2026-05-07 14:24:38,286 [INFO]     Saved: CTX-NEWS-2026-00090 → CTX-NEWS-2026-00090.json
+2026-05-07 14:24:38,287 [DEBUG]   Filtered (not relevant): Asking Eric: State changes property laws, and suddenly longtime neighbor has bec
+2026-05-07 14:24:38,288 [DEBUG]   Filtered (not relevant): Asking Eric: Brother’s new wife leading him astray of his Jewish heritage in ala
+2026-05-07 14:24:38,288 [DEBUG]   Filtered (not relevant): Parents of boys who were kidnapped and hazed sue school district (Good Morning C
+2026-05-07 14:24:38,288 [DEBUG]   Filtered (not relevant): Central NY weather: Unusually cold stretch will continue into next week
+2026-05-07 14:24:38,289 [DEBUG]   Filtered (not relevant): CNY Inspirations: The theory of personality
+2026-05-07 14:24:38,289 [DEBUG]   Filtered (not relevant): I-81 project will tear up downtown Syracuse streets in coming months: What you n
+2026-05-07 14:24:38,289 [DEBUG]   Filtered (not relevant): Are Syracuse’s 3 transfers and 1 recruit from Siena a record? (Mike’s Mailbox)
+2026-05-07 14:24:38,290 [DEBUG]   Filtered (not relevant): Dear Abby: Retired after 25 year career, only to face criticism and guilt trippi
+2026-05-07 14:24:38,290 [DEBUG]   Filtered (not relevant): Fired minor league baseball manager admits sending ‘inappropriate’ text to colle
+2026-05-07 14:24:38,291 [DEBUG]   Filtered (not relevant): Dear Abby: I’ve developed feelings for close female friend, 20 years my younger;
+2026-05-07 14:24:38,291 [DEBUG]   Filtered (not relevant): Trump seeks to halt $83M payment in sexual abuse case, hopes for eventual Suprem
+2026-05-07 14:24:38,292 [DEBUG]   Filtered (not relevant): Rock legend says he won’t give $550M fortune to his kids: ‘Go to work’
+2026-05-07 14:24:38,292 [DEBUG]   Filtered (not relevant): Frost advisory affecting Capital Region Friday — temperatures as low as 33
+2026-05-07 14:24:38,293 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Wednesday’s $30 million drawing
+2026-05-07 14:24:38,293 [DEBUG]   Filtered (not relevant): Wenninger throws 6 scoreless innings in Syracuse’s win over Rochester
+2026-05-07 14:24:38,294 [DEBUG]   Filtered (not relevant): Sabres open second round of playoffs with win over Montreal
+2026-05-07 14:24:38,294 [DEBUG]   Filtered (not relevant): Lane closure on I-690 east in Syracuse Thursday due to construction
+2026-05-07 14:24:38,294 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for May 6
+2026-05-07 14:24:38,295 [DEBUG]   Filtered (not relevant): NBA Kalshi Promo Code SYRACUSE: Extended $10 promo from Cinco de Mayo for Timber
+2026-05-07 14:24:38,295 [DEBUG]   Filtered (not relevant): Judge releases note that cellmate says he found after Jeffrey Epstein’s suspecte
+2026-05-07 14:24:38,296 [DEBUG]   Filtered (not relevant): NHL and NBA Underdog promo code “SYRACUSE” upgrades $50 bonus with $1K deposit m
+2026-05-07 14:24:38,298 [INFO] News Scanner Run — 2026-05-07 14:24
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Syracuse lawmakers will cut mayor’s budget, but this year the drama is missing
+
