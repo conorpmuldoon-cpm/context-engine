@@ -1,0 +1,66 @@
+{
+  "record_id": "CTX-WEB-2026-00140",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-05-07-Mayors-Office-News-830AM",
+  "publication_date": "2026-05-07",
+  "capture_date": "2026-05-07T14:49:34Z",
+  "title": "Mayor Owens Announces Homeowner Renovation Program",
+  "summary": "Mayor Owens launched the Homeowner Renovation Program, a conditional-grant initiative administered by Syracuse Housing Strategies Corporation (SHSC) to provide 40-60% reimbursement (up to $90,000) for eligible home improvements in Far Westside, Tipperary Hill, and Salt Springs neighborhoods. Grants are forgiven if homeowners remain in their homes for 5-10 years; otherwise, a prorated portion must be repaid. The program includes application support, home inspections, and multiple community informational sessions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "initiative-launch",
+    "grants",
+    "economic-development",
+    "equity",
+    "neighborhood-services",
+    "residents",
+    "announcement"
+  ],
+  "department_refs": [
+    "Office of the Mayor",
+    "Syracuse Housing Strategies Corporation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Syracuse Housing Strategies Corporation",
+      "type": "organization",
+      "canonical_id": "ORG-SHSC"
+    },
+    {
+      "name": "Le Moyne College",
+      "type": "organization",
+      "canonical_id": "ORG-LEMOYNE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor signals housing stability and neighborhood revitalization as core city priorities; frames program as wealth-building and community resilience strategy; heavy community engagement planned.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "SHSC appears to be the administering entity but canonical department name requires validation",
+    "Three target neighborhoods explicitly named; geospatial boundaries should be mapped for CIO infrastructure planning",
+    "Contact email (SHSC@syr.gov) and phone (315-448-8621) provide direct operational touchpoints",
+    "Multiple outreach modalities (webinars, in-person, office hours) suggest digital services integration opportunities",
+    "No explicit tech platform or system mentioned; recommend cross-check with IT-infrastructure for application management tools",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

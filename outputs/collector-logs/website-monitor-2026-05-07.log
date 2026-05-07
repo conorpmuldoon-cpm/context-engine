@@ -1,0 +1,24 @@
+2026-05-07 14:49:11,622 [INFO] ============================================================
+2026-05-07 14:49:11,622 [INFO] Website Monitor starting
+2026-05-07 14:49:12,144 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-05-07 14:49:12,144 [INFO]   Navigating to https://www.syr.gov/News
+2026-05-07 14:49:16,848 [INFO]   Found 10 article links in News
+2026-05-07 14:49:21,848 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-05-07-Mayors-Office-News-830AM
+2026-05-07 14:49:34,879 [INFO]     Saved: CTX-WEB-2026-00140 → CTX-WEB-2026-00140.json
+2026-05-07 14:49:34,879 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-05-07 14:49:34,879 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-05-07 14:49:38,289 [INFO]   Found 0 article links in Announcements
+2026-05-07 14:49:43,290 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-05-07 14:49:43,290 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-05-07 14:49:46,779 [INFO]   Found 0 article links in Public Notices
+2026-05-07 14:49:51,818 [INFO] Website Monitor Run — 2026-05-07 14:49
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • Mayor Owens Announces Homeowner Renovation Program
+
