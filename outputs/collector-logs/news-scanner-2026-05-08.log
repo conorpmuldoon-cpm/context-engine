@@ -1,0 +1,78 @@
+2026-05-08 13:59:31,365 [INFO] ============================================================
+2026-05-08 13:59:31,365 [INFO] News Scanner starting
+2026-05-08 13:59:31,366 [INFO] Fetching: Syracuse.com Politics
+2026-05-08 13:59:31,643 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-08 13:59:31,643 [INFO] Fetching: Syracuse.com Government
+2026-05-08 13:59:31,804 [INFO]   0 new articles from Syracuse.com Government
+2026-05-08 13:59:31,804 [INFO] Fetching: Syracuse.com Local
+2026-05-08 13:59:31,940 [INFO]   0 new articles from Syracuse.com Local
+2026-05-08 13:59:31,940 [INFO] Fetching: Syracuse.com Main
+2026-05-08 13:59:32,080 [INFO]   0 new articles from Syracuse.com Main
+2026-05-08 13:59:32,080 [INFO] Total unique articles across all feeds: 50
+2026-05-08 13:59:32,080 [INFO] New articles (not previously processed): 50
+2026-05-08 13:59:32,127 [DEBUG]   Filtered (not relevant): Scouting reports: Mets have a rising star, a slugger and a speedster in Syracuse
+2026-05-08 13:59:32,128 [DEBUG]   Filtered (not relevant): 3 New York men charged with hijacking truck with $1.2 million in Apple products 
+2026-05-08 13:59:32,128 [DEBUG]   Filtered (not relevant): Dear Doctor: I’ve done everything right, and still my colonoscopy is yielding ba
+2026-05-08 13:59:32,129 [DEBUG]   Filtered (not relevant): Shoppers are heading to Walmart to score a massive discount on the best-selling 
+2026-05-08 13:59:32,129 [DEBUG]   Filtered (not relevant): Onondaga County Dems: We’re not done governing in alignment with  you (Guest Opi
+2026-05-08 13:59:32,130 [DEBUG]   Filtered (not relevant): Syracuse men failed two times before successfully blowing up cupcake vending mac
+2026-05-08 13:59:32,131 [DEBUG]   Filtered (not relevant): Central NY college investigating president over incident with students
+2026-05-08 13:59:32,131 [DEBUG]   Filtered (not relevant): Lysander residents demand more answers as town pauses any data centers for 6 mon
+2026-05-08 13:59:32,132 [DEBUG]   Filtered (not relevant): Dear Annie: After 45 year friendship, I suddenly realized what a selfish jerk he
+2026-05-08 13:59:32,132 [DEBUG]   Filtered (not relevant): ‘Star Wars’ actor posts image of dead Trump. How White House reacted
+2026-05-08 13:59:32,132 [DEBUG]   Filtered (not relevant): Man ticketed after pickup slams into back of stopped Central NY school bus
+2026-05-08 13:59:32,133 [INFO]   Relevant: NBA superstar’s wife surprises fans by wearing Syracuse University gear
+2026-05-08 13:59:32,133 [DEBUG]     → Entities: Syracuse University
+2026-05-08 13:59:35,376 [INFO]     Saved: CTX-NEWS-2026-00091 → CTX-NEWS-2026-00091.json
+2026-05-08 13:59:35,376 [DEBUG]   Filtered (not relevant): Dear Annie: Parents invited me to party across they country; they don’t realize 
+2026-05-08 13:59:35,377 [DEBUG]   Filtered (not relevant): How to watch ‘RuPaul’s Drag Race All Stars’ Season 11 premiere for free without 
+2026-05-08 13:59:35,377 [DEBUG]   Filtered (not relevant): Syracuse Sandwiches: An old-school Italian classic gets dressed up at Vito’s
+2026-05-08 13:59:35,378 [DEBUG]   Filtered (not relevant): How Bad Bunny went from reggaeton star to the voice of Puerto Rican resistance
+2026-05-08 13:59:35,378 [DEBUG]   Filtered (not relevant): How to watch syracuse.com’s boys lacrosse Game of the Week: Victor (Section V) a
+2026-05-08 13:59:35,379 [DEBUG]   Filtered (not relevant): How educated are Upstate NY counties? 1 in top 10 for grad degrees
+2026-05-08 13:59:35,379 [DEBUG]   Filtered (not relevant): OCC lacrosse seeks 1st national title since 2019 at NJCAA Final Four
+2026-05-08 13:59:35,379 [DEBUG]   Filtered (not relevant): Five Star Bank hires Eric Linder for Syracuse commercial banking
+2026-05-08 13:59:35,380 [DEBUG]   Filtered (not relevant): Section III flag football stat leaders (through May 7)
+2026-05-08 13:59:35,380 [DEBUG]   Filtered (not relevant): Share your Memorial Day ceremony with Syracuse.com
+2026-05-08 13:59:35,380 [DEBUG]   Filtered (not relevant): Syracuse men’s lacrosse vs. Yale (NCAA Tournament preview)
+2026-05-08 13:59:35,381 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for May 8
+2026-05-08 13:59:35,381 [DEBUG]   Filtered (not relevant): Asking Eric: I want to be rich and successful; surely that means I should drop o
+2026-05-08 13:59:35,381 [DEBUG]   Filtered (not relevant): Town board approves moratorium on data centers (Good Morning CNY)
+2026-05-08 13:59:35,382 [DEBUG]   Filtered (not relevant): Asking Eric: Marriage circling the drain; it all started when husband bought a m
+2026-05-08 13:59:35,382 [DEBUG]   Filtered (not relevant): Central NY weather: Light rain, cool temperatures through weekend and beyond
+2026-05-08 13:59:35,383 [DEBUG]   Filtered (not relevant): Judge rules DOGE cancellation of humanities grants was unconstitutional
+2026-05-08 13:59:35,383 [DEBUG]   Filtered (not relevant): US says it intercepted Iranian attacks on 3 Navy ships in Strait of Hormuz
+2026-05-08 13:59:35,384 [DEBUG]   Filtered (not relevant): Beloved Skaneateles Lake estate with 600-foot shoreline is up for record-breakin
+2026-05-08 13:59:35,384 [DEBUG]   Filtered (not relevant): For Joey Spallina, Syracuse’s lacrosse star, it’s been a lifetime building for t
+2026-05-08 13:59:35,385 [INFO]   Relevant: How a rare scholarship brought 5 Mohawk siblings to Syracuse University
+2026-05-08 13:59:35,385 [DEBUG]     → Entities: Syracuse University
+2026-05-08 13:59:38,914 [INFO]     Saved: CTX-NEWS-2026-00092 → CTX-NEWS-2026-00092.json
+2026-05-08 13:59:38,915 [DEBUG]   Filtered (not relevant): Dear Abby: Mooching brother has the gall to drop $500 at the casino while living
+2026-05-08 13:59:38,916 [DEBUG]   Filtered (not relevant): Rapper arrested again, pleads not guilty to drug trafficking
+2026-05-08 13:59:38,916 [DEBUG]   Filtered (not relevant): ‘90s rock band announces farewell tour: ‘We are deeply grateful’
+2026-05-08 13:59:38,916 [DEBUG]   Filtered (not relevant): Dear Abby: Dad’s ‘diabolical’ wife robbed us of the best years of his life; now 
+2026-05-08 13:59:38,917 [DEBUG]   Filtered (not relevant): 24-year-old man killed in Syracuse shooting on Wolf Street, police say
+2026-05-08 13:59:38,917 [DEBUG]   Filtered (not relevant): Season’s 1st ‘Duel of the Dishes’ game ends with walk-off win for Syracuse
+2026-05-08 13:59:38,917 [DEBUG]   Filtered (not relevant): After 12 games, C-NS boys lacrosse still hasn’t lost. They want to join CNY’s el
+2026-05-08 13:59:38,918 [DEBUG]   Filtered (not relevant): F-M boys tennis knocks off J-D to remain undefeated
+2026-05-08 13:59:38,918 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for May 7
+2026-05-08 13:59:38,918 [DEBUG]   Filtered (not relevant): Man given CPR and rushed to hospital after being shot in Syracuse
+2026-05-08 13:59:38,919 [DEBUG]   Filtered (not relevant): C-NS softball explodes for 14-run inning on Senior Night
+2026-05-08 13:59:38,919 [DEBUG]   Filtered (not relevant): New York state moves to restrict ICE despite threat from Trump’s border czar
+2026-05-08 13:59:38,919 [DEBUG]   Filtered (not relevant): Unified basketball seniors have huge impact in matchup between ESM, J-D (38 phot
+2026-05-08 13:59:38,920 [DEBUG]   Filtered (not relevant): Oneida County man had illegal guns and lied trying to buy another at Walmart, po
+2026-05-08 13:59:38,921 [DEBUG]   Filtered (not relevant): Experts release Sabres vs. Canadiens Game 2 predictions after Rasmus Dahlin rece
+2026-05-08 13:59:38,921 [DEBUG]   Filtered (not relevant): NBA Kalshi Promo Code SYRACUSE: Extended $10 Cash Bonus for Lakers-Thunder Game 
+2026-05-08 13:59:38,922 [DEBUG]   Filtered (not relevant): Dozens who left hantavirus-stricken ship tracked across four continents by healt
+2026-05-08 13:59:38,923 [INFO] News Scanner Run — 2026-05-08 13:59
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • NBA superstar’s wife surprises fans by wearing Syracuse University gear
+  • How a rare scholarship brought 5 Mohawk siblings to Syracuse University
+

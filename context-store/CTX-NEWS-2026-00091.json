@@ -1,0 +1,42 @@
+{
+  "record_id": "CTX-NEWS-2026-00091",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/sports/2026/05/nba-superstars-wife-surprises-fans-by-wearing-syracuse-university-gear.html",
+  "publication_date": "2026-05-08",
+  "capture_date": "2026-05-08T13:59:35Z",
+  "title": "NBA superstar’s wife surprises fans by wearing Syracuse University gear",
+  "summary": "NBA player's spouse wore Syracuse University apparel in public appearance, generating fan attention. Article reports on the fashion choice and its perceived connection to the university, despite the couple having no documented ties to SU or the Central New York region.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "trending"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily sports/celebrity entertainment content with minimal city governance relevance",
+    "No direct connection to Chief Innovation Officer mandate or municipal operations",
+    "Potential soft economic development angle (brand visibility for SU) but not substantive",
+    "Author Geoff Herbert is syracuse.com sports reporter; content appears designed for local interest/engagement",
+    "No identified city departments, budget impacts, policy changes, or operational implications",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
