@@ -1,0 +1,84 @@
+2026-05-09 13:25:34,849 [INFO] ============================================================
+2026-05-09 13:25:34,849 [INFO] News Scanner starting
+2026-05-09 13:25:34,850 [INFO] Fetching: Syracuse.com Politics
+2026-05-09 13:25:35,161 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-09 13:25:35,161 [INFO] Fetching: Syracuse.com Government
+2026-05-09 13:25:35,333 [INFO]   0 new articles from Syracuse.com Government
+2026-05-09 13:25:35,333 [INFO] Fetching: Syracuse.com Local
+2026-05-09 13:25:35,530 [INFO]   0 new articles from Syracuse.com Local
+2026-05-09 13:25:35,530 [INFO] Fetching: Syracuse.com Main
+2026-05-09 13:25:35,694 [INFO]   0 new articles from Syracuse.com Main
+2026-05-09 13:25:35,694 [INFO] Total unique articles across all feeds: 50
+2026-05-09 13:25:35,694 [INFO] New articles (not previously processed): 50
+2026-05-09 13:25:35,731 [DEBUG]   Filtered (not relevant): Asking Eric: I’m not being jealous; friend’s gift to my fiance crossed an unacce
+2026-05-09 13:25:35,731 [DEBUG]   Filtered (not relevant): Final Syracuse player in transfer portal commits to ACC foe
+2026-05-09 13:25:35,732 [DEBUG]   Filtered (not relevant): As No. 6 Syracuse prepares for Yale, New Yorkers are using Kalshi to back the Or
+2026-05-09 13:25:35,732 [DEBUG]   Filtered (not relevant): After fatal hit-and-run that wasn’t, a son answers online attacks on driver: ‘He
+2026-05-09 13:25:35,733 [DEBUG]   Filtered (not relevant): Asking Eric: I’ve been lying about child’s adoption to biological grandmother; I
+2026-05-09 13:25:35,733 [DEBUG]   Filtered (not relevant): OCHS adoptable pet: Orbit wants to be a part of your universe
+2026-05-09 13:25:35,734 [DEBUG]   Filtered (not relevant): Syracuse.com’s boys lacrosse Game of the Week is live today: Victor at Jamesvill
+2026-05-09 13:25:35,734 [DEBUG]   Filtered (not relevant): East Syracuse Minoa High School 2026 junior prom: See 78 photos
+2026-05-09 13:25:35,735 [DEBUG]   Filtered (not relevant): PSLA@Fowler High School 2026 senior prom: See 150 photos
+2026-05-09 13:25:35,735 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for May 9
+2026-05-09 13:25:35,735 [DEBUG]   Filtered (not relevant): Joe Brady encourages rookie Skyler Bell after a few drops at rookie camp
+2026-05-09 13:25:35,736 [DEBUG]   Filtered (not relevant): Bright lights? Aliens? UFO files detail sightings but leave interpretation to pu
+2026-05-09 13:25:35,736 [DEBUG]   Filtered (not relevant): Dear Abby: After becoming a widow, divorcing a narcissist, I’m having real trust
+2026-05-09 13:25:35,737 [DEBUG]   Filtered (not relevant): CNY’s Breanna Stewart scores 31 points in WNBA season-opening win
+2026-05-09 13:25:35,737 [DEBUG]   Filtered (not relevant): Central NY weather: Scattered showers on Saturday, followed by temperature drop 
+2026-05-09 13:25:35,737 [DEBUG]   Filtered (not relevant): ’70s, ’80s singer’s team gives health update after her hospitalization this week
+2026-05-09 13:25:35,738 [INFO]   Relevant: Syracuse mayor urged to restore independent police misconduct probes
+2026-05-09 13:25:35,738 [DEBUG]     → Keywords: mayor, syracuse mayor
+2026-05-09 13:25:40,284 [WARNING]     Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-05-09 13:25:40,313 [INFO]     Saved: CTX-NEWS-2026-00093 → CTX-NEWS-2026-00093.json
+2026-05-09 13:25:40,314 [DEBUG]   Filtered (not relevant): Dear Abby: Husband stubbornly refuses to allow me a cat, while I’ve supported hi
+2026-05-09 13:25:40,314 [DEBUG]   Filtered (not relevant): Beloved ‘80s rock band cancels tour due to ‘serious medical issue’
+2026-05-09 13:25:40,314 [DEBUG]   Filtered (not relevant): Iconic singer releases first new album in 12 years, completing trilogy
+2026-05-09 13:25:40,315 [DEBUG]   Filtered (not relevant): All-CNY track stars lead West Genesse boys, South Jefferson girls to invite wins
+2026-05-09 13:25:40,315 [DEBUG]   Filtered (not relevant): Cincinnatus softball stays perfect with gritty comeback win over McGraw (40 phot
+2026-05-09 13:25:40,316 [DEBUG]   Filtered (not relevant): Mega Millions numbers: Are you the lucky winner of Friday’s $215 million jackpot
+2026-05-09 13:25:40,316 [DEBUG]   Filtered (not relevant): Syracuse Mets fall to Rochester 7-5 after five-run sixth inning
+2026-05-09 13:25:40,316 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for May 8
+2026-05-09 13:25:40,317 [DEBUG]   Filtered (not relevant): Syracuse women’s lacrosse NCAA Tournament box score vs. Loyola
+2026-05-09 13:25:40,317 [DEBUG]   Filtered (not relevant): Onondaga High School 2026 junior senior prom: See 80 photos
+2026-05-09 13:25:40,317 [INFO]   Relevant: SU women's lax grinds past Loyola, advances to second-round of NCAA Tournament
+2026-05-09 13:25:40,317 [DEBUG]     → Entities: Syracuse University
+2026-05-09 13:25:43,987 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-05-09 13:25:43,996 [INFO]     Saved: CTX-NEWS-2026-00094 → CTX-NEWS-2026-00094.json
+2026-05-09 13:25:43,996 [DEBUG]   Filtered (not relevant): NBA Kalshi Promo Code SYRACUSE: Extended $10 cash bonus for Knicks-76ers Game 3
+2026-05-09 13:25:43,996 [DEBUG]   Filtered (not relevant): Central NY lacrosse pioneer, who helped start 2 programs, named to state Hall of
+2026-05-09 13:25:43,997 [DEBUG]   Filtered (not relevant): Standing-room-only crowd ignites Unified athletes in Cazenovia-Chittenango showd
+2026-05-09 13:25:43,997 [DEBUG]   Filtered (not relevant): New Hard Rock Bet Michigan offer: Get 500 bonus spins + $1,000 Lossback in May 2
+2026-05-09 13:25:43,998 [DEBUG]   Filtered (not relevant): NHL and NBA Underdog promo code “SYRACUSE” extends $50 bonus with $1K deposit ma
+2026-05-09 13:25:43,998 [DEBUG]   Filtered (not relevant): Novig Promo Code SYRACUSE upgrades “Spend $5, Get $50” exclusive offer for Knick
+2026-05-09 13:25:43,999 [DEBUG]   Filtered (not relevant): Where to watch Golden Knights vs. Ducks tonight if you don’t have TNT
+2026-05-09 13:25:43,999 [DEBUG]   Filtered (not relevant): Spurs vs. Timberwolves Game 3 free stream: Where to watch Playoffs
+2026-05-09 13:25:44,000 [DEBUG]   Filtered (not relevant): A nod to our future journalists on graduation weekend (Letter from the Editor)
+2026-05-09 13:25:44,000 [DEBUG]   Filtered (not relevant): Kalshi extends $10 referral code SYRACUSE through Mother’s Day Weekend in NY and
+2026-05-09 13:25:44,001 [INFO]   Relevant: SU men's lax flips Class of '26 recruit from UNC
+2026-05-09 13:25:44,001 [DEBUG]     → Entities: Syracuse University
+2026-05-09 13:25:46,246 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-05-09 13:25:46,255 [INFO]     Saved: CTX-NEWS-2026-00095 → CTX-NEWS-2026-00095.json
+2026-05-09 13:25:46,256 [DEBUG]   Filtered (not relevant): How to watch ‘Amadeus’ US premiere for free without Starz
+2026-05-09 13:25:46,256 [DEBUG]   Filtered (not relevant): Pistons vs. Cavs odds update: Cleveland on the brink ahead of Game 3
+2026-05-09 13:25:46,257 [DEBUG]   Filtered (not relevant): $150 BetMGM Bonus Code “CUSEMGM” extended through Knicks, Sixers Game 3 NBA toni
+2026-05-09 13:25:46,258 [DEBUG]   Filtered (not relevant): Polymarket referral code “CUSE” extends $20 bonus into New York and Pennsylvania
+2026-05-09 13:25:46,258 [DEBUG]   Filtered (not relevant): Two New Jersey residents monitored for potential hantavirus after cruise ship co
+2026-05-09 13:25:46,259 [DEBUG]   Filtered (not relevant): Mother and daughter who died in early morning Herkimer County house fire identif
+2026-05-09 13:25:46,259 [DEBUG]   Filtered (not relevant): How to watch ‘Deadliest Catch’ Season 22 premiere for free without cable
+2026-05-09 13:25:46,259 [DEBUG]   Filtered (not relevant): How to watch Syracuse women’s lacrosse vs #23 Loyola today for free
+2026-05-09 13:25:46,260 [DEBUG]   Filtered (not relevant): We found the Blackstone Camping Griddle at its cheapest price, but it’s selling 
+2026-05-09 13:25:46,260 [DEBUG]   Filtered (not relevant): Series finale of popular show to debut in theaters
+2026-05-09 13:25:46,261 [DEBUG]   Filtered (not relevant): Canadiens vs. Sabres Game 2 free stream: Where to watch NHL Friday
+2026-05-09 13:25:46,262 [INFO] News Scanner Run — 2026-05-09 13:25
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • Syracuse mayor urged to restore independent police misconduct probes
+  • SU women's lax grinds past Loyola, advances to second-round of NCAA Tournament
+  • SU men's lax flips Class of '26 recruit from UNC
+

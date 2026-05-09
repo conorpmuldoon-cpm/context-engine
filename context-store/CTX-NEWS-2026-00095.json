@@ -1,0 +1,45 @@
+{
+  "record_id": "CTX-NEWS-2026-00095",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangelacrosse/2026/05/syracuse-mens-lacrosse-flips-class-of-2026-ssdm-recruit-from-unc.html",
+  "publication_date": "2026-05-08",
+  "capture_date": "2026-05-09T13:25:46Z",
+  "title": "SU men's lax flips Class of '26 recruit from UNC",
+  "summary": "Syracuse University men's lacrosse team recruits a Class of 2026 prospect from UNC. This article concerns college athletics recruitment and has no direct relevance to City of Syracuse municipal operations, innovation initiatives, or civic infrastructure.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Brent Axe",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is about university athletics recruitment, not municipal governance or civic innovation",
+    "No relevance to CIO portfolio, city departments, or municipal services",
+    "Should not be indexed for municipal operations context",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

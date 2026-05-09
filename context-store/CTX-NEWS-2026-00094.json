@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00094",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangelacrosse/2026/05/syracuse-womens-lacrosse-grinds-past-loyola-advances-to-second-round-of-ncaa-tournament.html",
+  "publication_date": "2026-05-09",
+  "capture_date": "2026-05-09T13:25:43Z",
+  "title": "SU women's lax grinds past Loyola, advances to second-round of NCAA Tournament",
+  "summary": "Syracuse University women's lacrosse team advanced to the second round of the NCAA Tournament after defeating Loyola with a strong defensive performance. The team will remain in Annapolis for weekend tournament play. This article has no direct relevance to City of Syracuse municipal operations or innovation initiatives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Brent Axe",
+      "type": "person",
+      "canonical_id": "PERSON-BRENT-AXE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is sports-related content with no municipal governance, policy, budget, or city innovation relevance",
+    "Syracuse University is an academic institution but article does not address institutional operations, infrastructure, or city partnerships",
+    "No applicable tags from provided municipal governance taxonomy",
+    "Recommend excluding from CIO context engine unless university-city collaboration projects emerge as relevant research area",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

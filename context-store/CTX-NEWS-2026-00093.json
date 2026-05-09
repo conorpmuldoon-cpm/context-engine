@@ -1,0 +1,70 @@
+{
+  "record_id": "CTX-NEWS-2026-00093",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/05/syracuse-mayor-urged-to-restore-independent-police-misconduct-probes.html",
+  "publication_date": "2026-05-09",
+  "capture_date": "2026-05-09T13:25:40Z",
+  "title": "Syracuse mayor urged to restore independent police misconduct probes",
+  "summary": "Advocates are pressuring Mayor Sharon Owens to reverse her decision to suspend the independent police oversight board's investigations following a recent court ruling. This governance issue affects Syracuse's police accountability mechanisms and transparency infrastructure.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "investigation",
+    "policy-change",
+    "transparency",
+    "public-safety-commission",
+    "escalating",
+    "advocacy"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Mayor's Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Greta Stuckey",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Syracuse Independent Police Oversight Board",
+      "type": "organization",
+      "canonical_id": "ORG-SIPOB"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Community advocates mobilizing to reverse executive decision on police oversight suspension; indicates active constituent engagement on accountability and transparency issues",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Court decision details not provided in article excerpt; full legal context needed for CIO implications",
+    "Suspension timing (last month) suggests recent policy reversal",
+    "No direct CIO/digital systems involvement apparent, but relates to government transparency and public records systems",
+    "Consider tracking relationship to broader municipal governance and oversight systems",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}
