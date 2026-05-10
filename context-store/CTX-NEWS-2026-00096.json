@@ -1,0 +1,52 @@
+{
+  "record_id": "CTX-NEWS-2026-00096",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/05/man-accused-of-shooting-two-police-officers-near-downtown-syracuse-identified.html",
+  "publication_date": "2026-05-10",
+  "capture_date": "2026-05-10T13:27:21Z",
+  "title": "Man accused of shooting two police officers near downtown Syracuse identified",
+  "summary": "Syracuse Police Department identified a suspect charged with shooting two police officers and wounding another in an incident near downtown Syracuse on Saturday, May 10, 2026. This criminal incident involves officer safety and emergency response coordination.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "emergency-services",
+    "public-safety-commission",
+    "investigation"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Officer-involved shooting incident near downtown area may trigger public safety scrutiny and potential demand for investigation transparency or policy review",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Suspect name not provided in article excerpt; full details may be in complete article text",
+    "Article references 'Saturday' incident but header date is 2026-05-10; day-of-week alignment should be verified",
+    "Victim count: 2 officers shot, 1 additional officer wounded (3 total)",
+    "No CIO-specific infrastructure, technology systems, or digital service implications apparent in excerpt",
+    "May warrant cross-reference with police department incident reports and public safety commission records",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

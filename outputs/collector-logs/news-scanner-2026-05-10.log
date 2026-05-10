@@ -1,0 +1,76 @@
+2026-05-10 13:27:16,933 [INFO] ============================================================
+2026-05-10 13:27:16,933 [INFO] News Scanner starting
+2026-05-10 13:27:16,934 [INFO] Fetching: Syracuse.com Politics
+2026-05-10 13:27:17,460 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-10 13:27:17,460 [INFO] Fetching: Syracuse.com Government
+2026-05-10 13:27:17,698 [INFO]   0 new articles from Syracuse.com Government
+2026-05-10 13:27:17,698 [INFO] Fetching: Syracuse.com Local
+2026-05-10 13:27:17,896 [INFO]   0 new articles from Syracuse.com Local
+2026-05-10 13:27:17,896 [INFO] Fetching: Syracuse.com Main
+2026-05-10 13:27:18,130 [INFO]   0 new articles from Syracuse.com Main
+2026-05-10 13:27:18,130 [INFO] Total unique articles across all feeds: 50
+2026-05-10 13:27:18,131 [INFO] New articles (not previously processed): 50
+2026-05-10 13:27:18,166 [DEBUG]   Filtered (not relevant): Sandy Creek High School 2026 boat tour prom: See 57 photos
+2026-05-10 13:27:18,166 [DEBUG]   Filtered (not relevant): Hamilton High School 2026 junior senior prom: See 82 photos
+2026-05-10 13:27:18,166 [DEBUG]   Filtered (not relevant): Asking Eric: As family’s children reach adulthood, the burden to travel has shif
+2026-05-10 13:27:18,167 [DEBUG]   Filtered (not relevant): Gov. Kathy Hochul pardons 19 people who turned their lives around after convicti
+2026-05-10 13:27:18,167 [DEBUG]   Filtered (not relevant): Cayuga County real estate: See all residential properties sold, April 27-May 3
+2026-05-10 13:27:18,168 [DEBUG]   Filtered (not relevant): Editorial cartoons for May 10, 2026: Cost of living, SCOTUS OKs gerrymandering, 
+2026-05-10 13:27:18,168 [DEBUG]   Filtered (not relevant): Asking Eric: Young love torn apart by Vietnam War, and the mystery of a letter n
+2026-05-10 13:27:18,168 [DEBUG]   Filtered (not relevant): $999,999 for Skaneateles home: Plus 84 more Onondaga County home sales
+2026-05-10 13:27:18,169 [DEBUG]   Filtered (not relevant): This Mother’s Day, my grief has a new purpose: helping others find hope (Guest O
+2026-05-10 13:27:18,169 [DEBUG]   Filtered (not relevant): TV star dead at 35 after tragic freak accident
+2026-05-10 13:27:18,169 [DEBUG]   Filtered (not relevant): I-81 project will tear up downtown Syracuse streets (Top stories)
+2026-05-10 13:27:18,170 [DEBUG]   Filtered (not relevant): NY state should seize the initiative on regulating AI data centers (Editorial Bo
+2026-05-10 13:27:18,170 [DEBUG]   Filtered (not relevant): Central NY weather: Cool but dry on Sunday, followed by frost on Monday night
+2026-05-10 13:27:18,170 [DEBUG]   Filtered (not relevant): Dear Abby: Socially delusional sister melts down after perceived dinner party sn
+2026-05-10 13:27:18,171 [DEBUG]   Filtered (not relevant): CNY Inspirations: Love Actively
+2026-05-10 13:27:18,171 [DEBUG]   Filtered (not relevant): Jennifer Aniston gets sent Mother’s Day flowers each year from popular actor
+2026-05-10 13:27:18,171 [DEBUG]   Filtered (not relevant): ‘Popeye the Slayer Man 2′ movie filming in Upstate NY with Daniel Baldwin
+2026-05-10 13:27:18,172 [DEBUG]   Filtered (not relevant): Dear Abby: I love visiting my son’s family, but I can’t look past their messy ho
+2026-05-10 13:27:18,172 [DEBUG]   Filtered (not relevant): Underdog promo code “SYRACUSE” extends $50 bonus with $1K deposit match for Moth
+2026-05-10 13:27:18,172 [DEBUG]   Filtered (not relevant): Weather alert in place for Rockland and Westchester counties until Sunday mornin
+2026-05-10 13:27:18,173 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Saturday’s $47 million drawing
+2026-05-10 13:27:18,173 [DEBUG]   Filtered (not relevant): Update: Woman near North Syracuse 7-Eleven was not stabbed, was experiencing men
+2026-05-10 13:27:18,173 [DEBUG]   Filtered (not relevant): Update: Statewide Amber Alert canceled after 2 children found, police say
+2026-05-10 13:27:18,174 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for May 9
+2026-05-10 13:27:18,174 [DEBUG]   Filtered (not relevant): ‘SNL’: Kenan, Chloe, Marcello and others support writer after family homicide up
+2026-05-10 13:27:18,174 [DEBUG]   Filtered (not relevant): Mexico High School 2026 junior prom: See 134 photos
+2026-05-10 13:27:18,175 [INFO]   Relevant: Man accused of shooting two police officers near downtown Syracuse identified
+2026-05-10 13:27:18,175 [DEBUG]     → Departments: Syracuse Police Department
+2026-05-10 13:27:18,175 [DEBUG]     → Keywords: syracuse police
+2026-05-10 13:27:21,859 [INFO]     Saved: CTX-NEWS-2026-00096 → CTX-NEWS-2026-00096.json
+2026-05-10 13:27:21,859 [DEBUG]   Filtered (not relevant): Hall of Fame manager Bobby Cox, who led Syracuse Chiefs to a Governors’ Cup titl
+2026-05-10 13:27:21,860 [DEBUG]   Filtered (not relevant): Be prepared for thunderstorms and gusty winds in Finger Lakes, Southern Tier Sat
+2026-05-10 13:27:21,860 [DEBUG]   Filtered (not relevant): OCC Lax knocks off Nassau, will play for national championship
+2026-05-10 13:27:21,860 [DEBUG]   Filtered (not relevant): $10 Kalshi Referral Code SYRACUSE upgraded for Chimaev vs. Strickland UFC 328!
+2026-05-10 13:27:21,861 [DEBUG]   Filtered (not relevant): Thornton makes Triple-A debut, but Syracuse falls to Rochester
+2026-05-10 13:27:21,861 [DEBUG]   Filtered (not relevant): Skaneateles baseball senior delivers walk-off home run in extra innings
+2026-05-10 13:27:21,861 [DEBUG]   Filtered (not relevant): Update: Severe thunderstorm warning for Finger Lakes expected to expire at 8:45 
+2026-05-10 13:27:21,862 [DEBUG]   Filtered (not relevant): New details emerge on shooting of Syracuse officers, 6-hour standoff and man in 
+2026-05-10 13:27:21,862 [DEBUG]   Filtered (not relevant): NHL and NBA Underdog promo code “SYRACUSE” updates $50 bonus with $1K deposit ma
+2026-05-10 13:27:21,863 [DEBUG]   Filtered (not relevant): Novig Promo Code SYRACUSE extends “Spend $5, Get $50” bonus for UFC 328 on Satur
+2026-05-10 13:27:21,863 [DEBUG]   Filtered (not relevant): CNY foodies pack fairgrounds for annual Food Truck Battle
+2026-05-10 13:27:21,863 [DEBUG]   Filtered (not relevant): Junior carries Rome Free Academy boys lacrosse to comeback victory
+2026-05-10 13:27:21,864 [DEBUG]   Filtered (not relevant): NBA Kalshi Promo Code SYRACUSE: $10 bonus extended for Thunder-Lakers Game 3 on 
+2026-05-10 13:27:21,864 [DEBUG]   Filtered (not relevant): Where to watch Avalanche vs. Wild tonight if you don’t have TNT
+2026-05-10 13:27:21,864 [DEBUG]   Filtered (not relevant): Western NY, Finger Lakes placed under a severe thunderstorm watch until Saturday
+2026-05-10 13:27:21,865 [DEBUG]   Filtered (not relevant): Thunder vs. Lakers Game 3 FREE stream: Where to watch NBA Saturday
+2026-05-10 13:27:21,865 [DEBUG]   Filtered (not relevant): Baldwinsville baseball shuts out Rome Free Academy for 6th straight win (40 phot
+2026-05-10 13:27:21,866 [DEBUG]   Filtered (not relevant): Thunder vs. Lakers Game 3 odds update: Experts release new projections, Lebron a
+2026-05-10 13:27:21,866 [DEBUG]   Filtered (not relevant): Classic rock band changes lineup for upcoming tour dates
+2026-05-10 13:27:21,866 [DEBUG]   Filtered (not relevant): How to watch UFC 328 for free on Paramount+ today
+2026-05-10 13:27:21,866 [DEBUG]   Filtered (not relevant): Matt Damon reveals secret about Netflix movie plots
+2026-05-10 13:27:21,867 [DEBUG]   Filtered (not relevant): Most expensive homes sold in three Central NY counties from April 27 to May 3
+2026-05-10 13:27:21,867 [DEBUG]   Filtered (not relevant): ‘SNL’ writer Jimmy Fowlie shares devastating update on sister missing since Dece
+2026-05-10 13:27:21,868 [INFO] News Scanner Run — 2026-05-10 13:27
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Man accused of shooting two police officers near downtown Syracuse identified
+
