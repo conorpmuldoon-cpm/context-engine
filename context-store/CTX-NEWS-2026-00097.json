@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00097",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangelacrosse/2026/05/syracuse-lacrosse-overcomes-second-half-struggles-to-keep-championship-dream-alive-axe.html",
+  "publication_date": "2026-05-11",
+  "capture_date": "2026-05-11T15:20:18Z",
+  "title": "SU lax overcomes second-half struggles to keep championship dream alive | Axe",
+  "summary": "Sports article about Syracuse University men's lacrosse team's performance in championship competition. Not relevant to City of Syracuse municipal operations, policy, budget, or innovation initiatives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Brent Axe",
+      "type": "person",
+      "canonical_id": "PERSON-BRENT-AXE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns collegiate athletics, not municipal governance or city operations",
+    "No relevance to CIO charter, city innovation, digital services, or municipal infrastructure",
+    "Source is Syracuse.com sports section, not city policy/operations coverage",
+    "Recommend exclusion from municipal context engine unless tracking community/institutional partnerships specifically",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

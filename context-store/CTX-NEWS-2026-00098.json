@@ -1,0 +1,51 @@
+{
+  "record_id": "CTX-NEWS-2026-00098",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/syracuse-university/2026/05/tirico-tells-students-to-keep-childlike-wonder-as-thousands-graduate-syracuse-university-photos.html",
+  "publication_date": "2026-05-10",
+  "capture_date": "2026-05-11T15:20:21Z",
+  "title": "Tirico tells students to keep ‘childlike wonder’ as thousands graduate Syracuse University (photos)",
+  "summary": "Mike Tirico, a Syracuse University Newhouse School of Communications alumnus and prominent media personality, delivered the commencement address to thousands of graduating students, encouraging them to maintain 'childlike wonder.' This is a ceremonial university event with limited direct relevance to municipal innovation or city operations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Mike Tirico",
+      "type": "person",
+      "canonical_id": "PERSON-MIKE-TIRICO"
+    },
+    {
+      "name": "Newhouse School of Communications",
+      "type": "organization",
+      "canonical_id": "ORG-NEWHOUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns university commencement ceremony, not city government or innovation operations",
+    "No municipal budget, policy, infrastructure, or service impacts detected",
+    "Low relevance to Chief Innovation Officer's operational mandate",
+    "Classified as local community announcement only",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,79 @@
+2026-05-11 15:20:14,252 [INFO] ============================================================
+2026-05-11 15:20:14,252 [INFO] News Scanner starting
+2026-05-11 15:20:14,254 [INFO] Fetching: Syracuse.com Politics
+2026-05-11 15:20:14,585 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-11 15:20:14,585 [INFO] Fetching: Syracuse.com Government
+2026-05-11 15:20:14,800 [INFO]   0 new articles from Syracuse.com Government
+2026-05-11 15:20:14,801 [INFO] Fetching: Syracuse.com Local
+2026-05-11 15:20:14,972 [INFO]   0 new articles from Syracuse.com Local
+2026-05-11 15:20:14,972 [INFO] Fetching: Syracuse.com Main
+2026-05-11 15:20:15,148 [INFO]   0 new articles from Syracuse.com Main
+2026-05-11 15:20:15,148 [INFO] Total unique articles across all feeds: 50
+2026-05-11 15:20:15,148 [INFO] New articles (not previously processed): 50
+2026-05-11 15:20:15,197 [DEBUG]   Filtered (not relevant): Miss Manners: In-laws have a ‘ghoulish’ funeral attendance habit that I can’t wr
+2026-05-11 15:20:15,197 [DEBUG]   Filtered (not relevant): Target slashes the price on a ton of Garmin’s most-wanted watches in limited tim
+2026-05-11 15:20:15,198 [DEBUG]   Filtered (not relevant): Miss Manners: Colleague who has treated me badly for years retires; must I atten
+2026-05-11 15:20:15,198 [DEBUG]   Filtered (not relevant): See most popular baby names in the US for boys and girls in 2025
+2026-05-11 15:20:15,198 [DEBUG]   Filtered (not relevant): Former All-CNY lacrosse star misses NCAA tournament due to ‘violations of team r
+2026-05-11 15:20:15,199 [DEBUG]   Filtered (not relevant): Experts update Pistons vs. Cavs Game 4 prediction after Mitchell, Cunningham hea
+2026-05-11 15:20:15,200 [DEBUG]   Filtered (not relevant): Clay’s supervisor is on leave. The town’s deputy, who’s running for the top post
+2026-05-11 15:20:15,200 [DEBUG]   Filtered (not relevant): Parents allegedly punched teens, threatened mass shooting at varsity flag footba
+2026-05-11 15:20:15,201 [DEBUG]   Filtered (not relevant): Dear Doctor: Is my regular exercise regimen causing a bad result in my prostate 
+2026-05-11 15:20:15,201 [DEBUG]   Filtered (not relevant): Police searching for young kayaker who went missing on Upstate NY river
+2026-05-11 15:20:15,202 [DEBUG]   Filtered (not relevant): Dear Doctor: I finally discovered the reason I feel so awful, and it’s something
+2026-05-11 15:20:15,202 [DEBUG]   Filtered (not relevant): Walmart has a bunch of 70-inch TVs on sale today starting at just $278
+2026-05-11 15:20:15,203 [DEBUG]   Filtered (not relevant): Photos you’ll want to see from Central New York high school spring sports (Week 
+2026-05-11 15:20:15,203 [DEBUG]   Filtered (not relevant): Dear Annie: Your dietary restrictions, allergies have made dinner party more tro
+2026-05-11 15:20:15,204 [DEBUG]   Filtered (not relevant): Aurie gains FDA clearance to sell infection-reducing catheter device
+2026-05-11 15:20:15,204 [DEBUG]   Filtered (not relevant): Dear Annie: Our adoptive children have cut ties with us, abandoned their brother
+2026-05-11 15:20:15,205 [DEBUG]   Filtered (not relevant): 10-year-old Preston Trautschold wins at Utica-Rome Speedway
+2026-05-11 15:20:15,205 [DEBUG]   Filtered (not relevant): SU women's lax tries to process unthinkable loss to Navy: ‘This one hurts’
+2026-05-11 15:20:15,205 [DEBUG]   Filtered (not relevant): Upstate NY metro area among top 10 hottest real estate markets
+2026-05-11 15:20:15,206 [DEBUG]   Filtered (not relevant): ‘Pip,’ ‘Squishy’ and ‘El Cruzado’: Best nicknames of Section III’s spring season
+2026-05-11 15:20:15,206 [DEBUG]   Filtered (not relevant): Tirico urges SU grads to retain their sense of wonder (Good Morning CNY)
+2026-05-11 15:20:15,207 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: Traveling this summer? Make sure you’re prepared for these 
+2026-05-11 15:20:15,207 [DEBUG]   Filtered (not relevant): Top 100 Section III boys lacrosse stats leaders (through May 10)
+2026-05-11 15:20:15,208 [DEBUG]   Filtered (not relevant): Bar, motel, farmland, towers: See 30 latest business, apartment, land sales ($15
+2026-05-11 15:20:15,208 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for May 11
+2026-05-11 15:20:15,208 [DEBUG]   Filtered (not relevant): Asking Eric: How Googling the answer to everything has sapped all the joy out of
+2026-05-11 15:20:15,209 [DEBUG]   Filtered (not relevant): Pete Corasaniti got a promotion in Syracuse athletics. What does his new job loo
+2026-05-11 15:20:15,209 [DEBUG]   Filtered (not relevant): McCool rode emotional roller coaster before and during SU’s dramatic win
+2026-05-11 15:20:15,210 [DEBUG]   Filtered (not relevant): Asking Eric: Cousin refuses to use her assets to pay for cancer care, leaving th
+2026-05-11 15:20:15,210 [DEBUG]   Filtered (not relevant): Central NY weather: Widespread frost likely Monday night, then rain midweek
+2026-05-11 15:20:15,210 [DEBUG]   Filtered (not relevant): Classic rock band admits struggles: ‘We still have to go out there and earn our 
+2026-05-11 15:20:15,211 [DEBUG]   Filtered (not relevant): Central NY prom season in full swing: See 100s of photos
+2026-05-11 15:20:15,211 [DEBUG]   Filtered (not relevant): Big Rig Day, 'Frozen,' Battle of the Wings: 15 things to do in CNY this week
+2026-05-11 15:20:15,212 [DEBUG]   Filtered (not relevant): Assault with an owner’s manual: A botched immigration bust in NY reveals agents’
+2026-05-11 15:20:15,212 [INFO]   Relevant: SU lax overcomes second-half struggles to keep championship dream alive | Axe
+2026-05-11 15:20:15,212 [DEBUG]     → Entities: Syracuse University
+2026-05-11 15:20:18,477 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-05-11 15:20:18,503 [INFO]     Saved: CTX-NEWS-2026-00097 → CTX-NEWS-2026-00097.json
+2026-05-11 15:20:18,504 [DEBUG]   Filtered (not relevant): Dear Abby: Dad’s depression makes the whole house tense, and he refuses to addre
+2026-05-11 15:20:18,505 [DEBUG]   Filtered (not relevant): Dear Abby: Mother whipped us, brother raped my sister, and we’re still treated l
+2026-05-11 15:20:18,505 [DEBUG]   Filtered (not relevant): Upstate NY traffic stop turns into gun smuggling case when police find 89 firear
+2026-05-11 15:20:18,506 [DEBUG]   Filtered (not relevant): Syracuse vs. Yale NCAA Tournament men’s lacrosse box score
+2026-05-11 15:20:18,506 [DEBUG]   Filtered (not relevant): Road-course ace continues dominance at Watkins Glen NASCAR race
+2026-05-11 15:20:18,506 [DEBUG]   Filtered (not relevant): Golden Knights vs. Ducks Game 4 FREE stream: Where to watch NHL Sunday
+2026-05-11 15:20:18,507 [DEBUG]   Filtered (not relevant): NBA Kalshi Promo Code SYRACUSE: Upgraded $10 bonus for Spurs vs. Wolves Game 4
+2026-05-11 15:20:18,507 [INFO]   Relevant: Tirico tells students to keep ‘childlike wonder’ as thousands graduate Syracuse 
+2026-05-11 15:20:18,507 [DEBUG]     → Entities: Syracuse University
+2026-05-11 15:20:21,658 [INFO]     Saved: CTX-NEWS-2026-00098 → CTX-NEWS-2026-00098.json
+2026-05-11 15:20:21,658 [DEBUG]   Filtered (not relevant): See homes sold in three Central NY counties, April 27 to May 3
+2026-05-11 15:20:21,659 [DEBUG]   Filtered (not relevant): Oneida County real estate: See all residential properties sold, April 27-May 3
+2026-05-11 15:20:21,660 [DEBUG]   Filtered (not relevant): Mother’s Day Novig Promo Code SYRACUSE upgrades “Spend $5, Get $50” deal for NBA
+2026-05-11 15:20:21,660 [DEBUG]   Filtered (not relevant): Spurs vs. Timberwolves Game 4 FREE live stream: Where to watch NBA Playoffs Sund
+2026-05-11 15:20:21,660 [DEBUG]   Filtered (not relevant): OCC lacrosse comes up just short in NJCAA National Championship
+2026-05-11 15:20:21,661 [DEBUG]   Filtered (not relevant): No.6 Syracuse survives a nail-biter against Yale to advance to NCAA quarterfinal
+2026-05-11 15:20:21,661 [DEBUG]   Filtered (not relevant): Sabres vs. Canadiens Game 3 FREE stream: Where to watch NHL Sunday
+2026-05-11 15:20:21,663 [INFO] News Scanner Run — 2026-05-11 15:20
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • SU lax overcomes second-half struggles to keep championship dream alive | Axe
+  • Tirico tells students to keep ‘childlike wonder’ as thousands graduate Syracuse 
+
