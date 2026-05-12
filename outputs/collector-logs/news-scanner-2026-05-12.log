@@ -1,0 +1,79 @@
+2026-05-12 14:33:50,081 [INFO] ============================================================
+2026-05-12 14:33:50,081 [INFO] News Scanner starting
+2026-05-12 14:33:50,083 [INFO] Fetching: Syracuse.com Politics
+2026-05-12 14:33:50,668 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-12 14:33:50,668 [INFO] Fetching: Syracuse.com Government
+2026-05-12 14:33:50,833 [INFO]   0 new articles from Syracuse.com Government
+2026-05-12 14:33:50,833 [INFO] Fetching: Syracuse.com Local
+2026-05-12 14:33:51,356 [INFO]   0 new articles from Syracuse.com Local
+2026-05-12 14:33:51,356 [INFO] Fetching: Syracuse.com Main
+2026-05-12 14:33:51,956 [INFO]   0 new articles from Syracuse.com Main
+2026-05-12 14:33:51,956 [INFO] Total unique articles across all feeds: 50
+2026-05-12 14:33:51,957 [INFO] New articles (not previously processed): 50
+2026-05-12 14:33:52,002 [DEBUG]   Filtered (not relevant): Miss Manners: I couldn’t believe dinner guests ordered ‘for the table,’ then sto
+2026-05-12 14:33:52,003 [DEBUG]   Filtered (not relevant): Experts update Spurs vs. Timberwolves Game 5 prediction after Victor Wembanyama 
+2026-05-12 14:33:52,003 [DEBUG]   Filtered (not relevant): Ella Trinkaus headlines Section III Class AAA, AA, A girls hoops all-state selec
+2026-05-12 14:33:52,003 [DEBUG]   Filtered (not relevant): How to access Hayley Williams presale tickets for ‘The Hayley Williams Show’ tou
+2026-05-12 14:33:52,004 [DEBUG]   Filtered (not relevant): Trump official’s new reality TV show sparks criticism: ‘Brutally out of touch’
+2026-05-12 14:33:52,004 [DEBUG]   Filtered (not relevant): How to access MUNA presale tickets for the ‘Dancing on the Wall’ tour before the
+2026-05-12 14:33:52,005 [DEBUG]   Filtered (not relevant): The $344 Blackstone Original Griddle is on sale for less than $300 at Walmart
+2026-05-12 14:33:52,005 [DEBUG]   Filtered (not relevant): 2 from Upstate NY quarantined after hantavirus outbreak on cruise ship
+2026-05-12 14:33:52,005 [DEBUG]   Filtered (not relevant): Colgate University student about to graduate dies while kayaking on Upstate NY r
+2026-05-12 14:33:52,006 [DEBUG]   Filtered (not relevant): STD spreading to babies amid explosive growth in Onondaga County
+2026-05-12 14:33:52,006 [DEBUG]   Filtered (not relevant): Beef costs decline in March but remain high (Syracuse.com grocery price tracker)
+2026-05-12 14:33:52,007 [DEBUG]   Filtered (not relevant): Syracuse transfer Aiden Tobiason impresses at G League combine
+2026-05-12 14:33:52,007 [DEBUG]   Filtered (not relevant): Central NY woman to appear on ‘Jeopardy!’ Tonight
+2026-05-12 14:33:52,007 [DEBUG]   Filtered (not relevant): Stop smuggling policy into the New York state budget (Your Letters)
+2026-05-12 14:33:52,008 [DEBUG]   Filtered (not relevant): One week until Upstate NY connects for second annual workforce growth summit
+2026-05-12 14:33:52,009 [DEBUG]   Filtered (not relevant): NY Mets call up top prospect from Syracuse
+2026-05-12 14:33:52,009 [DEBUG]   Filtered (not relevant): Dear Annie: I’m independent and responsible while sister is a burden, yet she ge
+2026-05-12 14:33:52,010 [DEBUG]   Filtered (not relevant): A millionaire from Syracuse’s South Side launches his first big project: Revivin
+2026-05-12 14:33:52,010 [DEBUG]   Filtered (not relevant): Hiker rescued in Catskills after suffering allergic reaction to trail mix
+2026-05-12 14:33:52,011 [DEBUG]   Filtered (not relevant): NFL legend dead at 83; first quarterback to start Super Bowl for two franchises
+2026-05-12 14:33:52,011 [INFO]   Relevant: California mayor resigns, admits acting as agent for Chinese government
+2026-05-12 14:33:52,011 [DEBUG]     → Keywords: mayor
+2026-05-12 14:33:56,265 [INFO]     Saved: CTX-NEWS-2026-00099 → CTX-NEWS-2026-00099.json
+2026-05-12 14:33:56,266 [DEBUG]   Filtered (not relevant): Dear Doctor: I was celibate for years before marriage, then my pap smear was pos
+2026-05-12 14:33:56,266 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: Our big belching house guest, and why it’s important not to
+2026-05-12 14:33:56,267 [DEBUG]   Filtered (not relevant): Top 100 Section III girls lacrosse stats leaders (through May 11)
+2026-05-12 14:33:56,267 [DEBUG]   Filtered (not relevant): Woman shot in leg in Solvay; man in custody, deputies say
+2026-05-12 14:33:56,268 [DEBUG]   Filtered (not relevant): How a community saved a senior ball in less than 4 hours (Good Morning CNY for M
+2026-05-12 14:33:56,268 [DEBUG]   Filtered (not relevant): Battle of the Wings returns to Syracuse's Inner Harbor this weekend
+2026-05-12 14:33:56,268 [INFO]   Relevant: Le Moyne College sues Syracuse to avoid paying $93k in taxes on 20 houses
+2026-05-12 14:33:56,268 [DEBUG]     → Entities: Le Moyne College
+2026-05-12 14:33:56,268 [DEBUG]     → Keywords: city of syracuse
+2026-05-12 14:34:00,882 [INFO]     Saved: CTX-NEWS-2026-00100 → CTX-NEWS-2026-00100.json
+2026-05-12 14:34:00,883 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for May 12
+2026-05-12 14:34:00,883 [DEBUG]   Filtered (not relevant): Asking Eric: All I want is a little senior romance, but oh brother, this guy STI
+2026-05-12 14:34:00,883 [DEBUG]   Filtered (not relevant): Business listings: See 50 new businesses in Central NY (May 12, 2026)
+2026-05-12 14:34:00,884 [DEBUG]   Filtered (not relevant): Selflessness, redemption, resilience, patience: 4 CNY basketball stars’ paths to
+2026-05-12 14:34:00,885 [DEBUG]   Filtered (not relevant): Lawsuit blames ChatGPT for helping plan a school shooting
+2026-05-12 14:34:00,885 [DEBUG]   Filtered (not relevant): Supreme Court temporarily extends women’s access to a widely used abortion pill
+2026-05-12 14:34:00,886 [DEBUG]   Filtered (not relevant): Asking Eric: Must we feel guilty for enjoying retirement while our kids live pay
+2026-05-12 14:34:00,886 [DEBUG]   Filtered (not relevant): Syracuse Habitat has been building homes for 42 years. Can it help fix housing c
+2026-05-12 14:34:00,887 [DEBUG]   Filtered (not relevant): Trump nominates fired FEMA official to lead the agency
+2026-05-12 14:34:00,887 [DEBUG]   Filtered (not relevant): CNY weather: Chilly, rainy midweek before temperatures hit 80s
+2026-05-12 14:34:00,887 [DEBUG]   Filtered (not relevant): Metal band announces first new album in 10 years: ‘We’re back’
+2026-05-12 14:34:00,888 [DEBUG]   Filtered (not relevant): CNY Inspirations: Love the stranger
+2026-05-12 14:34:00,888 [DEBUG]   Filtered (not relevant): Village of Camillus moves forward with $2M biking and walking trail
+2026-05-12 14:34:00,888 [DEBUG]   Filtered (not relevant): How Gerry McNamara’s encouraging words to a late-bloomer led to an assistant coa
+2026-05-12 14:34:00,889 [DEBUG]   Filtered (not relevant): Dear Abby: As mom ages, clock is ticking on revealing sister’s true parentage be
+2026-05-12 14:34:00,890 [DEBUG]   Filtered (not relevant): Upstate NY man pleads guilty to stealing over $2 million in multiple fraud schem
+2026-05-12 14:34:00,890 [DEBUG]   Filtered (not relevant): Dear Abby: My fiance’s best friend is a serial cheater; I can’t bring myself to 
+2026-05-12 14:34:00,891 [DEBUG]   Filtered (not relevant): A New York man said an intruder shot him in the knee, but police found the truth
+2026-05-12 14:34:00,891 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for May 11
+2026-05-12 14:34:00,891 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Monday’s $57 million drawing
+2026-05-12 14:34:00,892 [DEBUG]   Filtered (not relevant): Extended Polymarket code “CUSE” updates $20 bonus for Rousey vs. Carano this wee
+2026-05-12 14:34:00,892 [DEBUG]   Filtered (not relevant): Thunder vs. Lakers Game 4 free stream: Where to watch Playoffs Monday
+2026-05-12 14:34:00,895 [INFO] News Scanner Run — 2026-05-12 14:34
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • California mayor resigns, admits acting as agent for Chinese government
+  • Le Moyne College sues Syracuse to avoid paying $93k in taxes on 20 houses
+

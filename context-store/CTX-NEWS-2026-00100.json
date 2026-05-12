@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00100",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/schools/2026/05/le-moyne-college-sues-syracuse-to-avoid-paying-93k-in-taxes-on-20-houses.html",
+  "publication_date": "2026-05-12",
+  "capture_date": "2026-05-12T14:34:00Z",
+  "title": "Le Moyne College sues Syracuse to avoid paying $93k in taxes on 20 houses",
+  "summary": "Le Moyne College filed a lawsuit against the City of Syracuse to challenge tax assessments totaling $93,000 on 20 single-family homes used for student housing. This litigation represents a potential revenue impact and raises questions about tax-exempt status claims by educational institutions operating residential properties within city limits.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "tax-revenue",
+    "intergovernmental",
+    "housing",
+    "investigation",
+    "escalating"
+  ],
+  "department_refs": [
+    "Department of Finance",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Le Moyne College",
+      "type": "organization",
+      "canonical_id": "ORG-LEMOYNE"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Litigation by major institutional actor challenging city tax authority and revenue collection; suggests tension in municipal-institutional relations and potential precedent-setting outcome affecting future tax assessments.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount validated as $93,000 (article states '$93k')",
+    "No specific CIO-level technology or digital services angle apparent in article excerpt; however, may connect to property/GIS management systems",
+    "Litigation status and outcome tracking recommended for budget impact assessment",
+    "Suggests possible need for intergovernmental coordination between Mayor's office, Finance, and Law departments",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

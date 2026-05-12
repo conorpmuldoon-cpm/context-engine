@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00099",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/us-news/2026/05/california-mayor-resigns-admits-acting-as-agent-for-chinese-government.html",
+  "publication_date": "2026-05-12",
+  "capture_date": "2026-05-12T14:33:56Z",
+  "title": "California mayor resigns, admits acting as agent for Chinese government",
+  "summary": "A Southern California mayor has resigned after agreeing to plead guilty to acting as an illegal agent for the Chinese government. While geographically distant from Syracuse, this case highlights foreign interference risks in municipal government and underscores the importance of robust cybersecurity, personnel vetting, and transparency protocols that city innovation and administrative operations should consider.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "investigation",
+    "transparency",
+    "cybersecurity",
+    "PROVISIONAL:foreign-interference"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Southern California Mayor",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Chinese Government",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Associated Press",
+      "type": "organization",
+      "canonical_id": "ORG-AP"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "National news coverage of municipal corruption and foreign influence; signals increased scrutiny of local government integrity and potential policy implications for intergovernmental relations and security protocols.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is geographically external (California) but relevant to Syracuse CIO for governance and security risk awareness",
+    "No Syracuse-specific departments or budget impacts identified",
+    "Specific mayor name not provided in excerpt; limited entity resolution",
+    "Added provisional tag for foreign interference as not in standard tag library",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
