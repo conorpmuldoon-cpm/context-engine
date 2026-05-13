@@ -1,0 +1,52 @@
+{
+  "record_id": "CTX-NEWS-2026-00101",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/living/2026/05/this-magnificent-temple-syracuses-st-pauls-episcopal-church-to-mark-200-years-on-saturday.html",
+  "publication_date": "2026-05-13",
+  "capture_date": "2026-05-13T14:44:01Z",
+  "title": "Syracuse’s St. Paul’s Episcopal Church to mark 200 years on Saturday",
+  "summary": "St. Paul's Episcopal Church in downtown Syracuse is celebrating its 200-year anniversary on Saturday, May 13, 2026. The article marks a community milestone for a historic institution that has been integral to Syracuse's development. This may be relevant for historic preservation initiatives and downtown revitalization efforts.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "historic-preservation",
+    "announcement",
+    "residents"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "St. Paul's Episcopal Church",
+      "type": "organization",
+      "canonical_id": "ORG-STPAULS-EPISCOPAL"
+    },
+    {
+      "name": "Johnathan Croyle",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Historic preservation and downtown community identity are implicit priorities; celebration of long-standing institutions signals investment in neighborhood heritage and continuity.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is celebratory in nature with minimal operational or policy details",
+    "No direct CIO engagement anticipated unless digital/social media documentation of event is requested",
+    "Could inform historic preservation data, neighborhood asset mapping, or community engagement analytics",
+    "Consider cross-referencing with GIS downtown landmarks database if CIO maintains one",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,78 @@
+2026-05-13 14:43:56,450 [INFO] ============================================================
+2026-05-13 14:43:56,450 [INFO] News Scanner starting
+2026-05-13 14:43:56,452 [INFO] Fetching: Syracuse.com Politics
+2026-05-13 14:43:57,123 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-13 14:43:57,123 [INFO] Fetching: Syracuse.com Government
+2026-05-13 14:43:57,496 [INFO]   0 new articles from Syracuse.com Government
+2026-05-13 14:43:57,496 [INFO] Fetching: Syracuse.com Local
+2026-05-13 14:43:57,736 [INFO]   0 new articles from Syracuse.com Local
+2026-05-13 14:43:57,736 [INFO] Fetching: Syracuse.com Main
+2026-05-13 14:43:57,971 [INFO]   0 new articles from Syracuse.com Main
+2026-05-13 14:43:57,971 [INFO] Total unique articles across all feeds: 50
+2026-05-13 14:43:57,972 [INFO] New articles (not previously processed): 50
+2026-05-13 14:43:58,019 [DEBUG]   Filtered (not relevant): Miss Manners: Friend and I cannot agree on answering the phone when together; wh
+2026-05-13 14:43:58,019 [DEBUG]   Filtered (not relevant): Target slashes the price of its best-selling $600 outdoor shed to $200 in limite
+2026-05-13 14:43:58,020 [DEBUG]   Filtered (not relevant): Man and woman charged with attempted murder after woman shot in Solvay
+2026-05-13 14:43:58,021 [DEBUG]   Filtered (not relevant): Travel tips for disabilities with ‘Blindish Latina’ Catarina Rivera (Enable: The
+2026-05-13 14:43:58,022 [DEBUG]   Filtered (not relevant): Vinny Lobdell promises 2nd annual Syracuse Summer Slam will be star-powered even
+2026-05-13 14:43:58,022 [DEBUG]   Filtered (not relevant): Experts release new Pistons vs. Cavs Game 5 prediction as
+2026-05-13 14:43:58,023 [DEBUG]   Filtered (not relevant): Brides make Mom’s wedding dress new again in this latest wedding trend
+2026-05-13 14:43:58,023 [DEBUG]   Filtered (not relevant): Black Hills drilling project canceled after backlash from tribes
+2026-05-13 14:43:58,023 [DEBUG]   Filtered (not relevant): Classic rock band adds more concerts to farewell tour: ‘The fans have been incre
+2026-05-13 14:43:58,024 [DEBUG]   Filtered (not relevant): Walmart’s ‘Overall Pick’ $300 gazebo is on sale for $100 ahead of Memorial Day
+2026-05-13 14:43:58,024 [INFO]   Relevant: Syracuse’s St. Paul’s Episcopal Church to mark 200 years on Saturday
+2026-05-13 14:43:58,024 [DEBUG]     → Keywords: city of syracuse
+2026-05-13 14:44:01,956 [INFO]     Saved: CTX-NEWS-2026-00101 → CTX-NEWS-2026-00101.json
+2026-05-13 14:44:01,957 [DEBUG]   Filtered (not relevant): Inside the portal: The key traits that Syracuse coach Gerry McNamara and his sta
+2026-05-13 14:44:01,958 [DEBUG]   Filtered (not relevant): An Onondaga County high school is putting free lunches back on the menu
+2026-05-13 14:44:01,958 [DEBUG]   Filtered (not relevant): How to watch syracuse.com’s girls lacrosse Game of the Week: Skaneateles vs. Wes
+2026-05-13 14:44:01,959 [DEBUG]   Filtered (not relevant): True unity means preserving Syracuse’s Columbus monument (Guest Opinion by Nick 
+2026-05-13 14:44:01,959 [DEBUG]   Filtered (not relevant): Inside the fear and chaos at Pioneer Homes standoff: ‘I thought my daughter woul
+2026-05-13 14:44:01,960 [DEBUG]   Filtered (not relevant): Micron CEO going to China with Trump, other tech executives
+2026-05-13 14:44:01,960 [DEBUG]   Filtered (not relevant): Dear Annie: Could this 44-year friendship really implode over a measly $4 debt?
+2026-05-13 14:44:01,961 [DEBUG]   Filtered (not relevant): Popular movie theater chain to offer $1 movie tickets this summer
+2026-05-13 14:44:01,961 [DEBUG]   Filtered (not relevant): See NY districts ranked 1 to 599 based on 2025 science tests
+2026-05-13 14:44:01,962 [DEBUG]   Filtered (not relevant): Syracuse Regional Market gets first step toward a massive upgrade
+2026-05-13 14:44:01,962 [DEBUG]   Filtered (not relevant): Top Section III baseball pitching leaders (through May 12)
+2026-05-13 14:44:01,963 [DEBUG]   Filtered (not relevant): Traffic advisory: Police escorting large load moving at 5-10 mph in Upstate NY
+2026-05-13 14:44:01,963 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: The frugal frittata is the perfect way to end a hectic day;
+2026-05-13 14:44:01,963 [DEBUG]   Filtered (not relevant): Top Section III baseball hitting leaders (through May 12)
+2026-05-13 14:44:01,964 [DEBUG]   Filtered (not relevant): Dear Doctor: Doctor has recommended ‘microsphere’ ultrasound, and it makes me ne
+2026-05-13 14:44:01,964 [DEBUG]   Filtered (not relevant): Asking Eric: Why don’t you ever advise people to tell some one ‘just shut up’?
+2026-05-13 14:44:01,965 [DEBUG]   Filtered (not relevant): Beloved actor, 78, says ‘mortality is the real deal’ after health scare
+2026-05-13 14:44:01,965 [DEBUG]   Filtered (not relevant): Police blotter: See 290 new arrests added (May 13, 2026)
+2026-05-13 14:44:01,966 [DEBUG]   Filtered (not relevant): Sick spider monkey removed from Upstate NY home
+2026-05-13 14:44:01,966 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for May 13
+2026-05-13 14:44:01,966 [DEBUG]   Filtered (not relevant): Millionaire from Syracuse aims to revive community center (Good Morning CNY)
+2026-05-13 14:44:01,967 [DEBUG]   Filtered (not relevant): Asking Eric: I’m an aspiring podcaster; is everyone ghosting me because I’m too 
+2026-05-13 14:44:01,967 [DEBUG]   Filtered (not relevant): Central NY weather: Storms Wednesday, followed by unseasonably cold temperatures
+2026-05-13 14:44:01,967 [DEBUG]   Filtered (not relevant): Syracuse Mets star delivers in MLB debut after fast rise through minors
+2026-05-13 14:44:01,968 [DEBUG]   Filtered (not relevant): Trump’s proposed ‘Golden Dome’ to cost $1.2 trillion, far more than initially sa
+2026-05-13 14:44:01,968 [DEBUG]   Filtered (not relevant): Kids are in a ‘reading recession,’ as test scores continue to decline
+2026-05-13 14:44:01,969 [DEBUG]   Filtered (not relevant): Man accused of killing rock singer in 1993 is arrested after decades on the run
+2026-05-13 14:44:01,969 [INFO]   Relevant: Who might run against Ryan McMahon for Onondaga County executive? Democrats eye 
+2026-05-13 14:44:01,969 [DEBUG]     → Entities: Ryan McMahon
+2026-05-13 14:44:05,033 [INFO]     Saved: CTX-NEWS-2026-00102 → CTX-NEWS-2026-00102.json
+2026-05-13 14:44:05,034 [DEBUG]   Filtered (not relevant): Dear Abby: I’ve been daughter’s stepdad her whole life; now I’m being snubbed at
+2026-05-13 14:44:05,035 [DEBUG]   Filtered (not relevant): Dear Abby: Stepdad is encouraging our 14-year-old granddaughter to chug beer at 
+2026-05-13 14:44:05,035 [DEBUG]   Filtered (not relevant): Former Upstate NY priest allegedly stole $450K meant for people in need
+2026-05-13 14:44:05,036 [DEBUG]   Filtered (not relevant): Syracuse Mets prevail in 13-inning marathon over Scranton/Wilkes-Barre
+2026-05-13 14:44:05,036 [DEBUG]   Filtered (not relevant): Baldwinsville flag football’s 2-minute drill clinches close win: ‘Did the right 
+2026-05-13 14:44:05,036 [DEBUG]   Filtered (not relevant): Mega Millions numbers: Are you the lucky winner of Tuesday’s $232 million jackpo
+2026-05-13 14:44:05,037 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for May 12
+2026-05-13 14:44:05,037 [DEBUG]   Filtered (not relevant): Defending champ West Genesee edges C-NS in heart-pounding boys lacrosse thriller
+2026-05-13 14:44:05,038 [DEBUG]   Filtered (not relevant): Binghamton softball commit’s go-ahead sac fly lifts F-M past C-NS
+2026-05-13 14:44:05,038 [DEBUG]   Filtered (not relevant): A-P-W senior overcomes jinx for perfect game in final home outing: ‘Knock on woo
+2026-05-13 14:44:05,038 [DEBUG]   Filtered (not relevant): Former Brooklyn Nets center dies of brain cancer; was NBA’s first openly gay pla
+2026-05-13 14:44:05,040 [INFO] News Scanner Run — 2026-05-13 14:44
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Syracuse’s St. Paul’s Episcopal Church to mark 200 years on Saturday
+  • Who might run against Ryan McMahon for Onondaga County executive? Democrats eye 
+

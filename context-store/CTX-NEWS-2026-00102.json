@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00102",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/05/who-might-run-against-ryan-mcmahon-for-onondaga-county-executive-democrats-eye-2027-race.html",
+  "publication_date": "2026-05-13",
+  "capture_date": "2026-05-13T14:44:05Z",
+  "title": "Who might run against Ryan McMahon for Onondaga County executive? Democrats eye 2027",
+  "summary": "Article reports on potential Democratic challengers to incumbent Republican County Executive Ryan McMahon in the 2027 election, with Onondaga County Comptroller Marty Masterpole among those considering a run. This is a county-level political story with limited direct relevance to City of Syracuse CIO operations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "intergovernmental",
+    "leadership-change",
+    "vote"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Marty Masterpole",
+      "type": "person",
+      "canonical_id": "PERSON-MARTY-MASTERPOLE"
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Democratic Party exploring candidates to challenge incumbent Republican county executive in 2027 election.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns county-level politics, not City of Syracuse government operations",
+    "No direct CIO/digital services implications identified",
+    "Relevant only for intergovernmental awareness and relationship management",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
