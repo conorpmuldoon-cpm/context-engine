@@ -1,0 +1,52 @@
+{
+  "record_id": "CTX-NEWS-2026-00105",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/05/could-micron-soon-join-the-worlds-exclusive-club-of-trillion-dollar-companies.html",
+  "publication_date": "2026-05-14",
+  "capture_date": "2026-05-14T14:24:20Z",
+  "title": "Could Micron soon join the world’s exclusive club of trillion-dollar companies?",
+  "summary": "Article reports on Micron Technology's potential approach to $1 trillion market valuation, joining an exclusive group of elite global companies. Limited direct relevance to City of Syracuse municipal operations, though may indicate regional economic development significance given Micron's presence in Central New York.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "business-community",
+    "economic-development",
+    "trending"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Glenn Coin",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Article suggests regional corporate growth and economic vitality, potentially relevant to CIO's economic development and business-community engagement priorities.",
+    "confidence": "low"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily financial/business news with minimal municipal governance content",
+    "Relevance to City CIO office primarily contextual (regional economic indicator) rather than operational",
+    "No specific municipal service, policy, or IT infrastructure implications identified",
+    "Dollar amount ($1 trillion) relates to corporate valuation, not city budget",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,60 @@
+{
+  "record_id": "CTX-NEWS-2026-00104",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/05/supreme-courts-voting-rights-decision-silences-black-voters-guest-opinion-by-paula-c-johnson.html",
+  "publication_date": "2026-05-14",
+  "capture_date": "2026-05-14T14:24:17Z",
+  "title": "Supreme Court’s voting rights decision silences Black voters (Guest Opinion by Paula C. Johnson)",
+  "summary": "Guest opinion article by Syracuse University Law Professor Paula C. Johnson critiques a Supreme Court voting rights decision, arguing it disenfranchises Black voters. The piece represents academic commentary on federal judicial action with potential implications for voting access and equity in Syracuse and nationally.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "vote",
+    "equity",
+    "PROVISIONAL:voting-rights",
+    "legislation"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Paula C. Johnson",
+      "type": "person",
+      "canonical_id": "PERSON-PAULA-JOHNSON"
+    },
+    {
+      "name": "Syracuse University College of Law",
+      "type": "organization",
+      "canonical_id": "ORG-SYCUSE-LAW"
+    },
+    {
+      "name": "Cold Case Justice Initiative",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Academic opinion challenging federal judicial decision on voting rights with focus on racial equity impact; signals constituent and institutional concern about voting access and civil rights protections.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is guest opinion/op-ed, not news reporting",
+    "Content focuses on federal Supreme Court decision, not city/local government action",
+    "No direct city of Syracuse policy, budget, or departmental implications detected",
+    "Syracuse University affiliation is geographic/institutional connection rather than departmental reference",
+    "May be relevant for equity and voting access policy discussions at city level",
+    "No mechanical dollar amounts or contracts detected",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
