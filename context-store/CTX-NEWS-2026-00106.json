@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00106",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/05/man-stabbed-in-face-on-north-side-of-syracuse.html",
+  "publication_date": "2026-05-15",
+  "capture_date": "2026-05-16T13:40:41Z",
+  "title": "Update: Syracuse police say man suffered laceration, was not stabbed on city’s North Side",
+  "summary": "Syracuse Police Department issued a correction regarding an incident on the North Side, clarifying that a man sustained a laceration rather than a stab wound. This represents a factual update to initial crime reporting that may affect public safety perception and crime data accuracy for the neighborhood.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "emergency-services",
+    "public-safety-commission",
+    "transparency"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Greta Stuckey",
+      "type": "person",
+      "canonical_id": "PERSON-GRETA-STUCKEY"
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Correction to initial crime report suggests potential issues with incident classification accuracy or initial reporting procedures; relevant to police transparency and data governance standards.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is a correction/update; headline vs. URL show conflicting descriptions (stabbed vs. laceration)",
+    "No specific location details, dollar amounts, or named individuals (victim/accused) provided in excerpt",
+    "Relevant to crime-data quality assurance and public-safety-commission oversight",
+    "Date indicates future publication (2026-05-15)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

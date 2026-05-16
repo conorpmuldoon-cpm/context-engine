@@ -1,0 +1,51 @@
+{
+  "record_id": "CTX-NEWS-2026-00107",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/05/syracuse-graduates-19-new-firefighters-after-five-month-academy.html",
+  "publication_date": "2026-05-15",
+  "capture_date": "2026-05-16T13:40:44Z",
+  "title": "Syracuse graduates 19 new firefighters after five-month academy",
+  "summary": "The Syracuse Fire Department graduated 19 new firefighters on May 15, 2026, after completing a five-month training academy. This represents a workforce expansion for the fire department and demonstrates continued recruitment and training capacity.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "fire",
+    "hiring",
+    "training",
+    "workforce-development",
+    "announcement"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Greta Stuckey",
+      "type": "person",
+      "canonical_id": "PERSON-GRETA-STUCKEY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Graduating class announcement signals continued investment in public safety workforce and emergency services capacity building, aligning with typical municipal priorities for service delivery.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No budget information provided in article",
+    "No specific names of graduates or academy instructors mentioned",
+    "Article focuses on completion milestone rather than policy or operational changes",
+    "Could relate to broader workforce-development or labor-relations initiatives but insufficient context provided",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

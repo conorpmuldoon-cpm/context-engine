@@ -1,0 +1,80 @@
+2026-05-16 13:40:35,587 [INFO] ============================================================
+2026-05-16 13:40:35,587 [INFO] News Scanner starting
+2026-05-16 13:40:35,589 [INFO] Fetching: Syracuse.com Politics
+2026-05-16 13:40:36,144 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-16 13:40:36,144 [INFO] Fetching: Syracuse.com Government
+2026-05-16 13:40:36,395 [INFO]   0 new articles from Syracuse.com Government
+2026-05-16 13:40:36,395 [INFO] Fetching: Syracuse.com Local
+2026-05-16 13:40:36,666 [INFO]   0 new articles from Syracuse.com Local
+2026-05-16 13:40:36,666 [INFO] Fetching: Syracuse.com Main
+2026-05-16 13:40:36,920 [INFO]   0 new articles from Syracuse.com Main
+2026-05-16 13:40:36,920 [INFO] Total unique articles across all feeds: 50
+2026-05-16 13:40:36,920 [INFO] New articles (not previously processed): 50
+2026-05-16 13:40:36,966 [DEBUG]   Filtered (not relevant): Holes-in-one for Central New York golfers (as of May 15)
+2026-05-16 13:40:36,966 [DEBUG]   Filtered (not relevant): Dear Annie: I know daughter is mentally ill, but the lies she has told about us 
+2026-05-16 13:40:36,967 [DEBUG]   Filtered (not relevant): Wing sellers talk big — and deliver — at Syracuse wing battle
+2026-05-16 13:40:36,967 [DEBUG]   Filtered (not relevant): Southeast Alaskans largely critical of new direction on Tongass management plan,
+2026-05-16 13:40:36,967 [DEBUG]   Filtered (not relevant): Robotic pets whimper, purr, help seniors combat loneliness (video)
+2026-05-16 13:40:36,968 [DEBUG]   Filtered (not relevant): Asking Eric: Husband insists on a monetary gift at every wedding that covers our
+2026-05-16 13:40:36,968 [DEBUG]   Filtered (not relevant): Port Byron high school 2026 junior senior prom: See 60 photos
+2026-05-16 13:40:36,969 [DEBUG]   Filtered (not relevant): Fulton high school 2026 junior senior prom: See 114 photos
+2026-05-16 13:40:36,969 [DEBUG]   Filtered (not relevant): Chittenango High School 2026 junior prom: See 55 photos
+2026-05-16 13:40:36,969 [DEBUG]   Filtered (not relevant): LaFayette High School 2026 prom: See 71 photos
+2026-05-16 13:40:36,970 [DEBUG]   Filtered (not relevant): Auburn High School 2026 junior prom: See 47 photos
+2026-05-16 13:40:36,970 [DEBUG]   Filtered (not relevant): Skaneateles High School 2026 junior prom: See 61 photos
+2026-05-16 13:40:36,970 [DEBUG]   Filtered (not relevant): West Genesee High School 2026 senior ball: See 79 prom photos
+2026-05-16 13:40:36,971 [DEBUG]   Filtered (not relevant): Asking Eric: I feel embarrassed to flee home after move to the big city, but I h
+2026-05-16 13:40:36,971 [DEBUG]   Filtered (not relevant): OCHS adoptable pet: Agate and Topaz have coats like little clouds
+2026-05-16 13:40:36,972 [DEBUG]   Filtered (not relevant): Chelsea vs. Manchester City FREE stream: Where to watch FA Cup final
+2026-05-16 13:40:36,972 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for May 16
+2026-05-16 13:40:36,973 [DEBUG]   Filtered (not relevant): Syracuse could see back-to-back record-hot days next week
+2026-05-16 13:40:36,973 [DEBUG]   Filtered (not relevant): Dear Abby: Husband starts drinking after 9 years of marriage, gets a DUI; now I 
+2026-05-16 13:40:36,974 [DEBUG]   Filtered (not relevant): Dear Abby: Friend who ghosted me for 35 years wants to reconnect; do I let bygon
+2026-05-16 13:40:36,974 [DEBUG]   Filtered (not relevant): Upstate NY medical practice agrees to pay $500K after allegedly scamming pandemi
+2026-05-16 13:40:36,975 [DEBUG]   Filtered (not relevant): Mega Millions numbers: Are you the lucky winner of Friday’s $251 million jackpot
+2026-05-16 13:40:36,975 [DEBUG]   Filtered (not relevant): Thornton throws 6 scoreless innings in Syracuse’s win over Scranton/Wilkes-Barre
+2026-05-16 13:40:36,975 [DEBUG]   Filtered (not relevant): Fayetteville-Manlius softball blanks New Hartford in battle of state-ranked team
+2026-05-16 13:40:36,976 [DEBUG]   Filtered (not relevant): Fabius-Pompey High School 2026 junior senior prom: See 70 photos
+2026-05-16 13:40:36,976 [DEBUG]   Filtered (not relevant): Syracuse Academy of Science 2026 junior senior prom: See 82 photos
+2026-05-16 13:40:36,977 [DEBUG]   Filtered (not relevant): Cicero North Syracuse High School 2026 junior prom: See 94 photos
+2026-05-16 13:40:36,977 [DEBUG]   Filtered (not relevant): Bishop Ludden Grimes 2026 junior senior gala: See 80 prom photos
+2026-05-16 13:40:36,977 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for May 15
+2026-05-16 13:40:36,978 [DEBUG]   Filtered (not relevant): ‘Dark horse’ run for Manlius Pebble Hill boys tennis leads to redemption over Sk
+2026-05-16 13:40:36,978 [DEBUG]   Filtered (not relevant): Central NY man pointed gun at 5 teens and fired shots into air, police say
+2026-05-16 13:40:36,978 [INFO]   Relevant: Update: Syracuse police say man suffered laceration, was not stabbed on city’s N
+2026-05-16 13:40:36,978 [DEBUG]     → Departments: Syracuse Police Department
+2026-05-16 13:40:36,978 [DEBUG]     → Keywords: syracuse police
+2026-05-16 13:40:41,134 [INFO]     Saved: CTX-NEWS-2026-00106 → CTX-NEWS-2026-00106.json
+2026-05-16 13:40:41,135 [DEBUG]   Filtered (not relevant): Upgraded Hard Rock Bet Michigan offer: Get 500 bonus spins + $1,000 Lossback in 
+2026-05-16 13:40:41,135 [DEBUG]   Filtered (not relevant): Kalshi Referral Code SYRACUSE Update: $10 Bonus for Spurs vs. Timberwolves Game 
+2026-05-16 13:40:41,136 [DEBUG]   Filtered (not relevant): $50 Novig promo code “SYRACUSE” updated for Cavs-Pistons Game 6
+2026-05-16 13:40:41,137 [DEBUG]   Filtered (not relevant): $50 Polymarket referral code “CUSE” updated for NBA Playoffs Game 6 in MI, MN, O
+2026-05-16 13:40:41,137 [DEBUG]   Filtered (not relevant): Jim Nantz reveals his honest reaction to losing the Bills-Chiefs game
+2026-05-16 13:40:41,137 [DEBUG]   Filtered (not relevant): Spurs vs. Timberwolves Game 6 free stream: Where to watch NBA Friday
+2026-05-16 13:40:41,137 [DEBUG]   Filtered (not relevant): Second annual workforce summit tackles hiring challenges across Upstate (Letter 
+2026-05-16 13:40:41,138 [DEBUG]   Filtered (not relevant): Where to watch Yankees vs. Mets: Subway Series schedule, free stream
+2026-05-16 13:40:41,138 [DEBUG]   Filtered (not relevant): Where to watch WWE SmackDown! tonight after Backlash fallout
+2026-05-16 13:40:41,139 [DEBUG]   Filtered (not relevant): Caesars Sportsbook Promo Code CUSEDYW: Bet $1, Get 10 100% Profit Boosts for PGA
+2026-05-16 13:40:41,140 [DEBUG]   Filtered (not relevant): $150 BetMGM Bonus Code “CUSEMGM” announced for Pistons vs. Cavs, Spurs vs. Timbe
+2026-05-16 13:40:41,140 [DEBUG]   Filtered (not relevant): Pistons vs. Cavaliers Game 6 FREE stream: Where to watch NBA Playoffs
+2026-05-16 13:40:41,141 [INFO]   Relevant: Syracuse graduates 19 new firefighters after five-month academy
+2026-05-16 13:40:41,141 [DEBUG]     → Departments: Syracuse Fire Department
+2026-05-16 13:40:41,141 [DEBUG]     → Keywords: syracuse fire
+2026-05-16 13:40:44,081 [INFO]     Saved: CTX-NEWS-2026-00107 → CTX-NEWS-2026-00107.json
+2026-05-16 13:40:44,082 [DEBUG]   Filtered (not relevant): Yankees vs. Mets FREE live stream: Where to watch MLB ‘Subway Series’
+2026-05-16 13:40:44,082 [DEBUG]   Filtered (not relevant): Where to watch ‘Dutton Ranch’ premiere for free: Time, channel, free live stream
+2026-05-16 13:40:44,083 [DEBUG]   Filtered (not relevant): Suspected hantavirus case not linked to cruise reported in Upstate NY
+2026-05-16 13:40:44,083 [DEBUG]   Filtered (not relevant): Ring smuggling illegal guns through Mohawk nation in Northern NY busted, feds sa
+2026-05-16 13:40:44,084 [DEBUG]   Filtered (not relevant): New Polymarket promo code CUSE updates $50 PGA Championship bonus
+2026-05-16 13:40:44,085 [INFO] News Scanner Run — 2026-05-16 13:40
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Update: Syracuse police say man suffered laceration, was not stabbed on city’s N
+  • Syracuse graduates 19 new firefighters after five-month academy
+
