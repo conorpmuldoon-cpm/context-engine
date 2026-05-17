@@ -1,0 +1,47 @@
+{
+  "record_id": "CTX-NEWS-2026-00108",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/05/more-than-850-students-graduate-from-le-moyne-college.html",
+  "publication_date": "2026-05-16",
+  "capture_date": "2026-05-17T13:39:35Z",
+  "title": "More than 850 students graduate from Le Moyne College",
+  "summary": "Le Moyne College held its spring commencement on May 16, 2026, with over 850 graduates at the Exposition Center at the New York State Fairgrounds in Syracuse. This is a routine educational institution announcement with potential relevance to workforce development and community engagement metrics.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "workforce-development"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Le Moyne College",
+      "type": "organization",
+      "canonical_id": "ORG-LEMOYNE"
+    },
+    {
+      "name": "New York State Fairgrounds",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is a straightforward commencement announcement with minimal policy or operational relevance to city government",
+    "No direct connection to CIO initiatives detected",
+    "Venue (Fairgrounds Exposition Center) is public facility but no infrastructure/facilities issues reported",
+    "May have marginal relevance to regional workforce development tracking but no actionable intelligence for innovation office",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

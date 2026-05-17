@@ -1,0 +1,79 @@
+2026-05-17 13:39:31,492 [INFO] ============================================================
+2026-05-17 13:39:31,492 [INFO] News Scanner starting
+2026-05-17 13:39:31,494 [INFO] Fetching: Syracuse.com Politics
+2026-05-17 13:39:31,943 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-17 13:39:31,943 [INFO] Fetching: Syracuse.com Government
+2026-05-17 13:39:32,217 [INFO]   0 new articles from Syracuse.com Government
+2026-05-17 13:39:32,217 [INFO] Fetching: Syracuse.com Local
+2026-05-17 13:39:32,463 [INFO]   0 new articles from Syracuse.com Local
+2026-05-17 13:39:32,463 [INFO] Fetching: Syracuse.com Main
+2026-05-17 13:39:32,689 [INFO]   0 new articles from Syracuse.com Main
+2026-05-17 13:39:32,689 [INFO] Total unique articles across all feeds: 50
+2026-05-17 13:39:32,689 [INFO] New articles (not previously processed): 50
+2026-05-17 13:39:32,726 [DEBUG]   Filtered (not relevant): Dear Annie: Do women just want ‘bad boys?’ I check all the boxes, but can’t get 
+2026-05-17 13:39:32,727 [DEBUG]   Filtered (not relevant): Central Square prom rescue shows power of community (Editorial Board Opinion)
+2026-05-17 13:39:32,727 [DEBUG]   Filtered (not relevant): Upstate NY college student killed in hit-and-run; suspect arrested
+2026-05-17 13:39:32,728 [DEBUG]   Filtered (not relevant): Watch: Syracuse defender Billy Dwan III goes airborne to push Orange into final 
+2026-05-17 13:39:32,728 [DEBUG]   Filtered (not relevant): Asking Eric: Adult son wants to know why he has no siblings; do I say it’s his d
+2026-05-17 13:39:32,729 [DEBUG]   Filtered (not relevant): Cato-Meridian High School 2026 junior senior prom: See 43 photos
+2026-05-17 13:39:32,729 [DEBUG]   Filtered (not relevant): Hannibal High School 2026 junior prom: See 46 photos
+2026-05-17 13:39:32,729 [DEBUG]   Filtered (not relevant): Union Springs High School 2026 junior prom: See 34 photos
+2026-05-17 13:39:32,730 [DEBUG]   Filtered (not relevant): Marcellus High School 2026 Crystal Ball Cruise: See 68 prom photos
+2026-05-17 13:39:32,730 [DEBUG]   Filtered (not relevant): Vernon Verona Sherrill High School 2026 junior prom: See 65 photos
+2026-05-17 13:39:32,731 [DEBUG]   Filtered (not relevant): Cortland County real estate: See all residential properties sold, April 27-May 1
+2026-05-17 13:39:32,731 [DEBUG]   Filtered (not relevant): Ronda Rousey beats Gina Carano just 17 seconds into their MMA comeback bout
+2026-05-17 13:39:32,731 [DEBUG]   Filtered (not relevant): Jamesville-DeWitt High School 2026 senior ball: See 85 prom photos
+2026-05-17 13:39:32,732 [DEBUG]   Filtered (not relevant): Fayetteville-Manlius High School 2026 junior prom: See 80 photos
+2026-05-17 13:39:32,732 [DEBUG]   Filtered (not relevant): Editorial cartoons for May 17, 2026: Trump in China, Iran war effects, redistric
+2026-05-17 13:39:32,733 [DEBUG]   Filtered (not relevant): Liverpool High School 2026 junior prom: See 69 photos
+2026-05-17 13:39:32,733 [DEBUG]   Filtered (not relevant): Punk rock bands cover each other’s songs for new split record ahead of tour
+2026-05-17 13:39:32,733 [DEBUG]   Filtered (not relevant): Asking Eric: Why should we fund granddaughter’s college if all she does is party
+2026-05-17 13:39:32,734 [DEBUG]   Filtered (not relevant): Pop singer, actress who fatally shot Olympian boyfriend dies at 84
+2026-05-17 13:39:32,734 [DEBUG]   Filtered (not relevant): Inside the fear, chaos at Pioneer Homes standoff (Top stories)
+2026-05-17 13:39:32,735 [DEBUG]   Filtered (not relevant): Immigration crackdown’s rotten core: deception, lies, vigilante tactics (Editori
+2026-05-17 13:39:32,735 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for May 17
+2026-05-17 13:39:32,735 [DEBUG]   Filtered (not relevant): Central NY is about to feel like summer as temperatures soar into low 90s
+2026-05-17 13:39:32,736 [DEBUG]   Filtered (not relevant): Dear Abby: My mother insists on dropping by and disrupting my life every single 
+2026-05-17 13:39:32,737 [DEBUG]   Filtered (not relevant): Weather alert for Jefferson County Sunday morning
+2026-05-17 13:39:32,737 [DEBUG]   Filtered (not relevant): CNY Inspirations: The multitude of meanings
+2026-05-17 13:39:32,737 [DEBUG]   Filtered (not relevant): Five things Syracuse lacrosse did right against UNC to get back to Final Four
+2026-05-17 13:39:32,738 [DEBUG]   Filtered (not relevant): Dear Abby: Brother reveals the shocking truth of why he’s never been kind to me;
+2026-05-17 13:39:32,738 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Saturday’s $86 million drawing
+2026-05-17 13:39:32,739 [DEBUG]   Filtered (not relevant): Tully High School 2026 junior prom: See 57 photos
+2026-05-17 13:39:32,739 [DEBUG]   Filtered (not relevant): Harley-Davidson rider killed by SUV driver, 88, who turned into his path in Upst
+2026-05-17 13:39:32,739 [DEBUG]   Filtered (not relevant): Syracuse beats RailRiders in extras despite Gerrit Cole start
+2026-05-17 13:39:32,740 [DEBUG]   Filtered (not relevant): Most expensive homes sold in six Central NY counties from May 4 to 10
+2026-05-17 13:39:32,740 [DEBUG]   Filtered (not relevant): Napoleon Solo holds off Iron Honor to win Preakness
+2026-05-17 13:39:32,741 [DEBUG]   Filtered (not relevant): Oswego County real estate: 10 most expensive homes sold, March 30-May 10
+2026-05-17 13:39:32,741 [DEBUG]   Filtered (not relevant): How to watch ‘SNL’ Season 51 finale for free with Will Ferrell, Paul McCartney
+2026-05-17 13:39:32,741 [DEBUG]   Filtered (not relevant): Novig promo code “SYRACUSE” launches new “Spend $10, Get $50″ Rousey-Carano Netf
+2026-05-17 13:39:32,741 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for May 16
+2026-05-17 13:39:32,742 [DEBUG]   Filtered (not relevant): $10 Kalshi Promo Code SYRACUSE debuts for Rousey-Carano on Netflix
+2026-05-17 13:39:32,742 [INFO]   Relevant: More than 850 students graduate from Le Moyne College
+2026-05-17 13:39:32,742 [DEBUG]     → Entities: Le Moyne College
+2026-05-17 13:39:35,826 [INFO]     Saved: CTX-NEWS-2026-00108 → CTX-NEWS-2026-00108.json
+2026-05-17 13:39:35,826 [INFO]   Relevant: SU lax overcomes season-high turnover count to beat UNC and advance to Final Fou
+2026-05-17 13:39:35,826 [DEBUG]     → Entities: Syracuse University
+2026-05-17 13:39:38,385 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-05-17 13:39:38,393 [INFO]     Saved: CTX-NEWS-2026-00109 → CTX-NEWS-2026-00109.json
+2026-05-17 13:39:38,394 [DEBUG]   Filtered (not relevant): Syracuse men’s lacrosse NCAA Tournament box score vs. North Carolina
+2026-05-17 13:39:38,394 [DEBUG]   Filtered (not relevant): Prepare for gusty showers in Tompkins and Cortland counties Saturday evening — w
+2026-05-17 13:39:38,395 [DEBUG]   Filtered (not relevant): Oneida County real estate: 10 most expensive homes sold, May 4-10
+2026-05-17 13:39:38,395 [DEBUG]   Filtered (not relevant): Where to watch Sabres vs. Canadiens Game 6 tonight
+2026-05-17 13:39:38,396 [DEBUG]   Filtered (not relevant): Hundreds celebrate Superfield of Dreams park in DeWitt that took 20 years to com
+2026-05-17 13:39:38,396 [DEBUG]   Filtered (not relevant): Be prepared for thunderstorms and gusty showers in parts of Upstate NY Saturday 
+2026-05-17 13:39:38,397 [DEBUG]   Filtered (not relevant): CBA’s ‘muscle memory’ tops Whitesboro in boys tennis crossover (28 photos)
+2026-05-17 13:39:38,397 [DEBUG]   Filtered (not relevant): How to watch ‘Faith & Forgiveness: A Duck Dynasty Love Story’ premiere for free 
+2026-05-17 13:39:38,397 [DEBUG]   Filtered (not relevant): Where to watch Yankees vs. Mets today: MLB free live stream
+2026-05-17 13:39:38,399 [INFO] News Scanner Run — 2026-05-17 13:39
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • More than 850 students graduate from Le Moyne College
+  • SU lax overcomes season-high turnover count to beat UNC and advance to Final Fou
+

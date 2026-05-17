@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00109",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangelacrosse/2026/05/syracuse-lacrosse-overcomes-season-high-turnover-count-to-beat-unc-and-advance-to-final-four-axes-quick-takes.html",
+  "publication_date": "2026-05-16",
+  "capture_date": "2026-05-17T13:39:38Z",
+  "title": "SU lax overcomes season-high turnover count to beat UNC and advance to Final Four",
+  "summary": "Syracuse University men's lacrosse team advanced to the NCAA Final Four by defeating UNC despite committing a season-high turnover count. This article covers a sports achievement with no direct relevance to city innovation, municipal services, or government operations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Brent Axe",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is sports news coverage with no municipal relevance to CIO operations",
+    "No city government departments, infrastructure, digital services, or innovation initiatives referenced",
+    "No available tags from CIO librarian taxonomy apply to this content",
+    "Recommend filtering out college athletics coverage from future submissions",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
