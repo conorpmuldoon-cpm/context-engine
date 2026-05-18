@@ -1,0 +1,51 @@
+{
+  "record_id": "CTX-NEWS-2026-00110",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangebasketball/2026/05/former-syracuse-guard-transfers-to-st-johns.html",
+  "publication_date": "2026-05-18",
+  "capture_date": "2026-05-18T15:41:05Z",
+  "title": "Former Syracuse guard transfers to St. John’s",
+  "summary": "This article reports on a Syracuse University basketball player's transfer to St. John's University. The story has no relevance to City of Syracuse municipal operations, governance, innovation initiatives, or Chief Innovation Officer responsibilities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "St. John's University",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Kyle Cuffe Jr.",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article pertains to university athletics, not municipal government or city innovation operations",
+    "No CIO-relevant content detected",
+    "Recommend filtering: this publication (syracuse.com) covers university sports which fall outside municipal governance scope",
+    "No actionable intelligence for city administration",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

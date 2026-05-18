@@ -1,0 +1,83 @@
+2026-05-18 15:41:01,387 [INFO] ============================================================
+2026-05-18 15:41:01,387 [INFO] News Scanner starting
+2026-05-18 15:41:01,388 [INFO] Fetching: Syracuse.com Politics
+2026-05-18 15:41:01,724 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-18 15:41:01,724 [INFO] Fetching: Syracuse.com Government
+2026-05-18 15:41:01,888 [INFO]   0 new articles from Syracuse.com Government
+2026-05-18 15:41:01,888 [INFO] Fetching: Syracuse.com Local
+2026-05-18 15:41:02,052 [INFO]   0 new articles from Syracuse.com Local
+2026-05-18 15:41:02,052 [INFO] Fetching: Syracuse.com Main
+2026-05-18 15:41:02,215 [INFO]   0 new articles from Syracuse.com Main
+2026-05-18 15:41:02,215 [INFO] Total unique articles across all feeds: 50
+2026-05-18 15:41:02,215 [INFO] New articles (not previously processed): 50
+2026-05-18 15:41:02,264 [DEBUG]   Filtered (not relevant): All Things Go NYC 2026 announces 2026 lineup: How to get presale tickets
+2026-05-18 15:41:02,264 [DEBUG]   Filtered (not relevant): 2 Section III players headline Class B, C, D girls hoops all-state selections
+2026-05-18 15:41:02,265 [DEBUG]   Filtered (not relevant): Large search of Chittenango Falls park ends; police ask for more help finding mi
+2026-05-18 15:41:02,265 [DEBUG]   Filtered (not relevant): Section III boys tennis singles seedings released; play begins today (see bracke
+2026-05-18 15:41:02,266 [DEBUG]   Filtered (not relevant): Trump approval rating his second-term low in new poll
+2026-05-18 15:41:02,266 [DEBUG]   Filtered (not relevant): Syracuse amphitheater adds 19th concert to 2026 lineup
+2026-05-18 15:41:02,267 [DEBUG]   Filtered (not relevant): Stanley drops exclusive America Collection ahead - Here’s where you can get it
+2026-05-18 15:41:02,267 [DEBUG]   Filtered (not relevant): Miss Manners: Fiance offered his jacket to a female friend, and now I’m question
+2026-05-18 15:41:02,267 [DEBUG]   Filtered (not relevant): FOCUS Greater Syracuse announces 2026 Wisdom Keepers
+2026-05-18 15:41:02,268 [DEBUG]   Filtered (not relevant): School votes 2026: When and where to vote plus what’s on the ballot in Onondaga 
+2026-05-18 15:41:02,268 [INFO]   Relevant: Former Syracuse guard transfers to St. John’s
+2026-05-18 15:41:02,268 [DEBUG]     → Entities: Syracuse University
+2026-05-18 15:41:05,026 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-05-18 15:41:05,088 [INFO]     Saved: CTX-NEWS-2026-00110 → CTX-NEWS-2026-00110.json
+2026-05-18 15:41:05,089 [DEBUG]   Filtered (not relevant): Revamped TBT returns this summer; Boeheim’s Army will have a team
+2026-05-18 15:41:05,090 [DEBUG]   Filtered (not relevant): Polymarket invite code “CUSE” extends $50 Conference Finals bonus through Memori
+2026-05-18 15:41:05,090 [DEBUG]   Filtered (not relevant): Syracuse hires deputy athletic director from University of Toledo
+2026-05-18 15:41:05,091 [DEBUG]   Filtered (not relevant): Air quality alert issued for Sullivan County Monday
+2026-05-18 15:41:05,091 [DEBUG]   Filtered (not relevant): Air quality alert for Ulster and Dutchess counties Monday
+2026-05-18 15:41:05,092 [DEBUG]   Filtered (not relevant): Whoa! We were at 20 proms this weekend across Central NY: See all 1,360 photos
+2026-05-18 15:41:05,092 [DEBUG]   Filtered (not relevant): Walmart’s hardtop gazebo is a summertime must-have, and it’s on sale ahead of Me
+2026-05-18 15:41:05,093 [DEBUG]   Filtered (not relevant): $1.265M for newly built Colonial: Plus 80 more Onondaga County home sales
+2026-05-18 15:41:05,093 [DEBUG]   Filtered (not relevant): Gas prices rising into Memorial Day weekend: 5 tips to save money
+2026-05-18 15:41:05,094 [DEBUG]   Filtered (not relevant): Photos you’ll want to see from Central New York high school spring sports (Week 
+2026-05-18 15:41:05,094 [DEBUG]   Filtered (not relevant): UCLA online textbook gives voice to Asian American, Pacific Islander history and
+2026-05-18 15:41:05,095 [DEBUG]   Filtered (not relevant): School district voters head to polls Tuesday to decide on budgets, including som
+2026-05-18 15:41:05,095 [DEBUG]   Filtered (not relevant): Trent Stephens wins ISMA-MSS  opener at Flamboro
+2026-05-18 15:41:05,096 [DEBUG]   Filtered (not relevant): Dear Annie: Friend thinks she’s madly in love and ready for marriage while her m
+2026-05-18 15:41:05,096 [INFO]   Relevant: With Micron jobs coming, Oswego County launches program to prepare residents for
+2026-05-18 15:41:05,096 [DEBUG]     → Departments: Department of Permits and Development, Office of Analytics, Performance & Innovation
+2026-05-18 15:41:09,022 [INFO]     Saved: CTX-NEWS-2026-00111 → CTX-NEWS-2026-00111.json
+2026-05-18 15:41:09,023 [DEBUG]   Filtered (not relevant): Dear Annie: Husband suddenly turns angry with me about every little thing, and w
+2026-05-18 15:41:09,024 [DEBUG]   Filtered (not relevant): Asking Eric: Husband has zero handyman skill, but refuses to call a professional
+2026-05-18 15:41:09,024 [DEBUG]   Filtered (not relevant): Upstate NY man arrested after fake bomb planted in children’s library
+2026-05-18 15:41:09,025 [DEBUG]   Filtered (not relevant): Dear Doctor: I’ve been on pain meds for 14 years, and I’m afraid to keep raising
+2026-05-18 15:41:09,026 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: Simple home fixes that will prevent big expenses with summe
+2026-05-18 15:41:09,026 [DEBUG]   Filtered (not relevant): Top 25 Section III boys lacrosse stats leaders (through May 17)
+2026-05-18 15:41:09,027 [DEBUG]   Filtered (not relevant): ‘Huge’ car dealership, hotel: See 16 latest business, apartment, land sales ($2.
+2026-05-18 15:41:09,027 [DEBUG]   Filtered (not relevant): In reversal from last year, Syracuse will try again to reassess every property
+2026-05-18 15:41:09,027 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for May 18
+2026-05-18 15:41:09,028 [DEBUG]   Filtered (not relevant): Syracuse men’s lacrosse team headed back to final four (Good Morning CNY)
+2026-05-18 15:41:09,028 [DEBUG]   Filtered (not relevant): Asking Eric: I am ready to write dad’s wife out of my life after funeral is over
+2026-05-18 15:41:09,029 [DEBUG]   Filtered (not relevant): Largest US commuter rail system still shut down; Trump, Hochul blame each other
+2026-05-18 15:41:09,029 [DEBUG]   Filtered (not relevant): Waka Flocka Flame, Memorial Day Weekend: 29 things to do this week in Central NY
+2026-05-18 15:41:09,030 [DEBUG]   Filtered (not relevant): Can one of Syracuse’s worst apartment complexes become high-end housing?
+2026-05-18 15:41:09,031 [DEBUG]   Filtered (not relevant): Dear Abby: Mom says we’re ‘breaking up the family’ because we won’t let kids be 
+2026-05-18 15:41:09,031 [DEBUG]   Filtered (not relevant): ‘70s rock singer, guitarist dead at 76: ‘Deeply cherished by all’
+2026-05-18 15:41:09,032 [DEBUG]   Filtered (not relevant): Dear Abby: Sister-in-law is clearly being scammed by her ‘girlfriend’ who she’s 
+2026-05-18 15:41:09,032 [DEBUG]   Filtered (not relevant): Syracuse could break a 64-year-old temperature record on Monday as summer-like h
+2026-05-18 15:41:09,032 [DEBUG]   Filtered (not relevant): College football great who won 4 Super Bowls as a coach dies at 83
+2026-05-18 15:41:09,033 [DEBUG]   Filtered (not relevant): 2 seriously injured after car veers off Central NY road, flips multiple times
+2026-05-18 15:41:09,033 [DEBUG]   Filtered (not relevant): Man critically injured in motorcycle crash in Syracuse
+2026-05-18 15:41:09,034 [INFO]   Relevant: SU-ND lacrosse game time: TV info, face-off details for Final Four
+2026-05-18 15:41:09,034 [DEBUG]     → Entities: Syracuse University
+2026-05-18 15:41:12,179 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-05-18 15:41:12,189 [INFO]     Saved: CTX-NEWS-2026-00112 → CTX-NEWS-2026-00112.json
+2026-05-18 15:41:12,190 [DEBUG]   Filtered (not relevant): Thunderstorms with pea-sized hail in Tioga and Broome counties Sunday — gusts ma
+2026-05-18 15:41:12,191 [DEBUG]   Filtered (not relevant): See homes sold in six Central NY counties, May 4 to 10
+2026-05-18 15:41:12,192 [INFO] News Scanner Run — 2026-05-18 15:41
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • Former Syracuse guard transfers to St. John’s
+  • With Micron jobs coming, Oswego County launches program to prepare residents for
+  • SU-ND lacrosse game time: TV info, face-off details for Final Four
+

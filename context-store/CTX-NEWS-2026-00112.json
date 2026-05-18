@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00112",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangelacrosse/2026/05/syracuse-notre-dame-lacrosse-game-time-tv-info-face-off-details-for-ncaa-semi-final.html",
+  "publication_date": "2026-05-18",
+  "capture_date": "2026-05-18T15:41:12Z",
+  "title": "SU-ND lacrosse game time: TV info, face-off details for Final Four",
+  "summary": "Article announces Syracuse University men's lacrosse team participation in NCAA Division I championships semi-final against Notre Dame in Charlottesville, Virginia on 2026-05-18. Content is sports-focused with no direct municipal governance, budget, or city innovation implications.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Notre Dame",
+      "type": "organization",
+      "canonical_id": "ORG-ND"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is collegiate sports news with no relevance to City of Syracuse municipal operations or Chief Innovation Officer priorities",
+    "Syracuse University mentioned as entity but operates independently; no city government connection detected",
+    "No policy, budget, infrastructure, service delivery, or innovation themes applicable to structured tag taxonomy",
+    "Recommendation: Not relevant for CIO context engine unless tracking community pride/economic impact of SU events as soft indicator",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

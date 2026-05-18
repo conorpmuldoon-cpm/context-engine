@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-NEWS-2026-00111",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/05/with-micron-jobs-coming-oswego-county-launches-program-to-prepare-residents-for-building-trades.html",
+  "publication_date": "2026-05-18",
+  "capture_date": "2026-05-18T15:41:09Z",
+  "title": "With Micron jobs coming, Oswego County launches program to prepare residents for building trades",
+  "summary": "Oswego County is launching a workforce development program to prepare residents for building trades jobs ahead of Micron's facility expansion in Central New York. The initiative addresses labor recruitment and training challenges in the region's growth economy, with a regional workforce development conference scheduled for May 19, 2026.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "workforce-development",
+    "training",
+    "economic-development",
+    "hiring",
+    "intergovernmental",
+    "initiative-launch"
+  ],
+  "department_refs": [
+    "Office of Analytics, Performance & Innovation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Oswego County",
+      "type": "organization",
+      "canonical_id": "ORG-OSWEGO-COUNTY"
+    },
+    {
+      "name": "Micron",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Advance Media New York",
+      "type": "organization",
+      "canonical_id": "ORG-ADVANCE-MEDIA-NY"
+    },
+    {
+      "name": "Rick Moriarty",
+      "type": "person",
+      "canonical_id": "PERSON-RICK-MORIARTY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Regional economic development initiative aligned with state/private sector growth; demonstrates proactive workforce planning in response to major employer expansion",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on Oswego County program; relevance to Syracuse CIO primarily through regional economic development and workforce infrastructure collaboration",
+    "No dollar amounts, specific job counts, or technology systems mentioned",
+    "Conference event (NY Workforce Connect) may be relevant for cross-sector data/innovation sharing opportunities",
+    "Building trades focus suggests potential infrastructure/permitting coordination needs between municipalities",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
