@@ -1,0 +1,70 @@
+{
+  "record_id": "CTX-NEWS-2026-00115",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/05/central-ny-manufacturing-group-launches-nonprofit-to-tackle-worker-shortage.html",
+  "publication_date": "2026-05-19",
+  "capture_date": "2026-05-19T15:33:37Z",
+  "title": "Central NY manufacturing group launches nonprofit to tackle worker shortage",
+  "summary": "Central New York manufacturing sector is launching a nonprofit organization to address worker shortage challenges in the region's growth economy. The article highlights workforce development initiatives and announces a NY Workforce Connect conference on May 19, 2026, designed to foster collaboration among regional workforce development stakeholders.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "workforce-development",
+    "economic-development",
+    "business-community",
+    "initiative-launch",
+    "training"
+  ],
+  "department_refs": [
+    "Department of Permits and Development",
+    "Office of Analytics, Performance & Innovation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Renee Fox",
+      "type": "person",
+      "canonical_id": "PERSON-RENEE-FOX"
+    },
+    {
+      "name": "Advance Media New York",
+      "type": "organization",
+      "canonical_id": "ORG-ADVANCE-MEDIA-NY"
+    },
+    {
+      "name": "Business Matters by syracuse.com",
+      "type": "organization",
+      "canonical_id": "ORG-BUSINESS-MATTERS"
+    },
+    {
+      "name": "NY Workforce Connect",
+      "type": "organization",
+      "canonical_id": "ORG-NY-WORKFORCE-CONNECT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Regional manufacturing sector demonstrating proactive workforce solution development; alignment with regional economic development priorities and labor market stabilization efforts.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2026-00111"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No dollar amounts detected in article text",
+    "Article focuses on external nonprofit initiative rather than direct city/county agency action",
+    "Conference date matches article publication date; may indicate promotional content",
+    "No specific CIO technology or digital services implications explicitly mentioned, though workforce data systems may be relevant",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-NEWS-2026-00111 — linked for review"
+  ],
+  "last_relevance_update": null
+}

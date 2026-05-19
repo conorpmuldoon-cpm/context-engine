@@ -1,0 +1,45 @@
+{
+  "record_id": "CTX-NEWS-2026-00114",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangelacrosse/2026/05/touch-grass-how-syracuse-lacrosse-will-acclimate-to-field-conditions-before-final-four-matchup-with-notre-dame.html",
+  "publication_date": "2026-05-19",
+  "capture_date": "2026-05-19T15:33:33Z",
+  "title": "How SU lax will acclimate to field conditions before Final Four matchup with Notre Dame",
+  "summary": "Sports article about Syracuse University men's lacrosse team's preparation for NCAA Final Four matchup against Notre Dame, focusing on field condition acclimation. Not directly relevant to City of Syracuse municipal operations or Chief Innovation Officer priorities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Brent Axe",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is sports journalism covering collegiate athletics, not municipal governance or innovation initiatives",
+    "No relevance to City of Syracuse CIO mandate or municipal operations",
+    "Consider exclusion from future municipal context library indexing unless explicit connection to city services, facilities, or innovation programs is established",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

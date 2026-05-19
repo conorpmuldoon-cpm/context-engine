@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00113",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/05/micron-will-pay-the-bulk-of-cost-for-new-water-line-to-serve-clay-chip-plant.html",
+  "publication_date": "2026-05-19",
+  "capture_date": "2026-05-19T15:33:29Z",
+  "title": "Micron will pay the bulk of cost for new water line to serve Upstate NY chip plants",
+  "summary": "Micron Technology will fund approximately 75% of infrastructure costs to construct a water line from Lake Ontario to its planned semiconductor manufacturing facility in the Town of Clay, NY. This public-private partnership arrangement represents significant capital investment in regional chip manufacturing infrastructure and water resource allocation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "infrastructure",
+    "water",
+    "capital-planning",
+    "intergovernmental",
+    "business-community"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Glenn Coin",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Private sector commitment to fund majority of infrastructure costs aligns with regional economic development priorities for advanced manufacturing and demonstrates business confidence in Upstate NY investment climate.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article location (Town of Clay) is outside Syracuse city limits but relevant to regional economic development strategy",
+    "No specific dollar amount provided in excerpt; full article text may contain quantified investment figure",
+    "Water infrastructure project has potential implications for DPW, environmental review processes, and long-term municipal water planning",
+    "Public-private partnership structure warrants CIO tracking for future operational/digital infrastructure needs",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
