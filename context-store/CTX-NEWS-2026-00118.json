@@ -1,0 +1,65 @@
+{
+  "record_id": "CTX-NEWS-2026-00118",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/05/ny-workforce-connect-takeaways-on-developing-the-workers-upstate-critically-needs.html",
+  "publication_date": "2026-05-20",
+  "capture_date": "2026-05-20T15:31:28Z",
+  "title": "NY Workforce Connect: Takeaways on developing the workers Upstate critically needs",
+  "summary": "Micron Technology's planned chipmaking complex in Clay will require hiring up to 9,000 workers, necessitating substantial infrastructure development. This article examines workforce development strategies needed to support major regional economic expansion and employer recruitment.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "workforce-development",
+    "hiring",
+    "infrastructure",
+    "business-community",
+    "state-agency"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Renee Fox",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Glenn Coin",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Rick Moriarty",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Regional economic development priority signaling major employer investment and workforce pipeline needs as strategic focus area for Upstate NY",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article dated 2026-05-20 appears to be future-dated; verify publication date accuracy",
+    "Specific dollar amounts and hiring timeline details not present in excerpt provided",
+    "Article references NY Workforce Connect initiative suggesting state-level coordination",
+    "No specific City of Syracuse departmental involvement mentioned in excerpt; may require full article review",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

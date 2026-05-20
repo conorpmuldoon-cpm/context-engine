@@ -1,0 +1,53 @@
+{
+  "record_id": "CTX-NEWS-2026-00117",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/05/micron-finally-fills-in-stagnant-swimming-pool-that-a-national-expert-called-dangerous.html",
+  "publication_date": "2026-05-20",
+  "capture_date": "2026-05-20T15:31:25Z",
+  "title": "Micron finally fills in stagnant swimming pool that a national expert called dangerous",
+  "summary": "Micron Technology has completed filling in an in-ground swimming pool on property acquired nearly three years ago. The pool had been flagged by a national expert as presenting safety hazards due to stagnation. This resolution addresses a previously identified environmental and public safety concern on company-owned property in Clay, NY.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "facilities",
+    "resolved",
+    "business-community",
+    "land-use"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Glenn Coin",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Corporate compliance with safety remediation standards demonstrates alignment between private sector operations and public health/safety expectations in the community.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No Syracuse city departments directly referenced; issue involves private corporate property in Clay, NY (adjacent municipality)",
+    "No dollar amounts or timeline specifics provided beyond 'nearly three years' ownership duration",
+    "Expert assessment of danger validates remediation necessity but expert identity not specified",
+    "Resolved categorization appropriate given completion of remedial action",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

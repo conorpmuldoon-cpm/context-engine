@@ -1,0 +1,82 @@
+2026-05-20 15:31:18,243 [INFO] ============================================================
+2026-05-20 15:31:18,243 [INFO] News Scanner starting
+2026-05-20 15:31:18,245 [INFO] Fetching: Syracuse.com Politics
+2026-05-20 15:31:18,427 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-20 15:31:18,427 [INFO] Fetching: Syracuse.com Government
+2026-05-20 15:31:18,564 [INFO]   0 new articles from Syracuse.com Government
+2026-05-20 15:31:18,565 [INFO] Fetching: Syracuse.com Local
+2026-05-20 15:31:18,682 [INFO]   0 new articles from Syracuse.com Local
+2026-05-20 15:31:18,682 [INFO] Fetching: Syracuse.com Main
+2026-05-20 15:31:18,800 [INFO]   0 new articles from Syracuse.com Main
+2026-05-20 15:31:18,800 [INFO] Total unique articles across all feeds: 50
+2026-05-20 15:31:18,800 [INFO] New articles (not previously processed): 50
+2026-05-20 15:31:18,848 [DEBUG]   Filtered (not relevant): Upstate NY parents plead guilty to manslaughter after baby dies from malnutritio
+2026-05-20 15:31:18,848 [DEBUG]   Filtered (not relevant): Where to watch USA vs. Germany: IIHF Hockey Championships free stream
+2026-05-20 15:31:18,849 [DEBUG]   Filtered (not relevant): Experts update Mets vs. Nationals prediction after Mets promote Thornton, plus S
+2026-05-20 15:31:18,849 [DEBUG]   Filtered (not relevant): Country singer slams President Trump in scathing Instagram post
+2026-05-20 15:31:18,849 [INFO]   Relevant: SU women's lax lands transfer from Boston College
+2026-05-20 15:31:18,849 [DEBUG]     → Entities: Syracuse University
+2026-05-20 15:31:21,724 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-05-20 15:31:21,748 [INFO]     Saved: CTX-NEWS-2026-00116 → CTX-NEWS-2026-00116.json
+2026-05-20 15:31:21,749 [DEBUG]   Filtered (not relevant): Miss Manners: Don’t overthink this buffet etiquette, and certainly don’t play th
+2026-05-20 15:31:21,749 [DEBUG]   Filtered (not relevant): Hoka Rincon 4 updated limited-time sale ends this Monday, save 20% today
+2026-05-20 15:31:21,750 [DEBUG]   Filtered (not relevant): ‘Blue envelopes’ program helps drivers with autism, and police (Enable: The Disa
+2026-05-20 15:31:21,750 [DEBUG]   Filtered (not relevant): Miss Manners: Neighbor’s housesitting favors spiral into a full-time job, and we
+2026-05-20 15:31:21,751 [DEBUG]   Filtered (not relevant): Le Creuset is offering a free Signature Pitcher to shoppers - Here’s how to get 
+2026-05-20 15:31:21,751 [DEBUG]   Filtered (not relevant): How to secure Katseye ‘Wildworld Tour’ tickets during hectic presale
+2026-05-20 15:31:21,751 [DEBUG]   Filtered (not relevant): Costco buys $15.6 million in more Upstate NY land from Pyramid
+2026-05-20 15:31:21,752 [DEBUG]   Filtered (not relevant): Syracuse looks to play Big Ten team at Barclays Center
+2026-05-20 15:31:21,752 [DEBUG]   Filtered (not relevant): Syracuse transfer Luke Wilson: His transformation and the decision to play for t
+2026-05-20 15:31:21,753 [DEBUG]   Filtered (not relevant): Polymarket invite code “CUSE” announces $50 bonus update for NBA, NHL, and F1 on
+2026-05-20 15:31:21,753 [DEBUG]   Filtered (not relevant): Missed Twenty One Pilots’ Ohio Stadium presale? Here’s your best chance at getti
+2026-05-20 15:31:21,754 [DEBUG]   Filtered (not relevant): School Vote 2026: See the results for budgets, school boards in Onondaga County
+2026-05-20 15:31:21,754 [DEBUG]   Filtered (not relevant): Walmart’s bestselling $1,000 ebike is on sale for as low as $620 today
+2026-05-20 15:31:21,754 [DEBUG]   Filtered (not relevant): Central NY’s flame-haired superhero, Marshall Sepello, 12, has died
+2026-05-20 15:31:21,755 [DEBUG]   Filtered (not relevant): Shaq, T-Pain to perform at EDM-meets-motorsports festival at Watkins Glen
+2026-05-20 15:31:21,755 [INFO]   Relevant: Micron finally fills in stagnant swimming pool that a national expert called dan
+2026-05-20 15:31:21,755 [DEBUG]     → Entities: Micron Technology
+2026-05-20 15:31:25,465 [INFO]     Saved: CTX-NEWS-2026-00117 → CTX-NEWS-2026-00117.json
+2026-05-20 15:31:25,466 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: A simple solution for wine stains, and more top reader tips
+2026-05-20 15:31:25,466 [DEBUG]   Filtered (not relevant): Dear Annie: I know for a fact one of my mail carrier colleagues is drinking on t
+2026-05-20 15:31:25,467 [DEBUG]   Filtered (not relevant): Upstate NY man arrested after serious rollover crash on Thruway
+2026-05-20 15:31:25,467 [DEBUG]   Filtered (not relevant): Parking lot confrontation turns violent when Upstate NY woman allegedly rams veh
+2026-05-20 15:31:25,468 [DEBUG]   Filtered (not relevant): Tiffany Bell named chief ambulatory officer at Upstate
+2026-05-20 15:31:25,468 [DEBUG]   Filtered (not relevant): Dear Annie: Nineteen is old enough to make your own mistakes; should marriage be
+2026-05-20 15:31:25,469 [DEBUG]   Filtered (not relevant): See top 25 Upstate districts for per pupil spending; NYS ranks
+2026-05-20 15:31:25,469 [DEBUG]   Filtered (not relevant): Top Section III baseball pitching leaders (through May 19)
+2026-05-20 15:31:25,469 [INFO]   Relevant: NY Workforce Connect: Takeaways on developing the workers Upstate critically nee
+2026-05-20 15:31:25,469 [DEBUG]     → Entities: Micron Technology
+2026-05-20 15:31:28,971 [INFO]     Saved: CTX-NEWS-2026-00118 → CTX-NEWS-2026-00118.json
+2026-05-20 15:31:28,972 [DEBUG]   Filtered (not relevant): Dear Doctor: What’s ‘better’ for your health, beer or soda? And what are the bes
+2026-05-20 15:31:28,972 [DEBUG]   Filtered (not relevant): Top Section III baseball hitting leaders (through May 19)
+2026-05-20 15:31:28,973 [DEBUG]   Filtered (not relevant): NY Mets continue youth movement, call up another Syracuse player
+2026-05-20 15:31:28,973 [DEBUG]   Filtered (not relevant): Man arrested day after judge bans most arrests outside NY immigration courts
+2026-05-20 15:31:28,974 [DEBUG]   Filtered (not relevant): Kyle Volz promoted to project manager at QPK Design
+2026-05-20 15:31:28,974 [DEBUG]   Filtered (not relevant): Judge orders Upstate hospital worker to be deported; more top stories (Good Morn
+2026-05-20 15:31:28,974 [DEBUG]   Filtered (not relevant): Asking Eric: Is this a fix for the ‘engagement announcement at wedding’ problem?
+2026-05-20 15:31:28,975 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for May 20
+2026-05-20 15:31:28,975 [DEBUG]   Filtered (not relevant): Novelis reports $84M loss in Q4 after Oswego fires but signals how soon the plan
+2026-05-20 15:31:28,975 [DEBUG]   Filtered (not relevant): Police blotter: See 216 new arrests added (May 20, 2026)
+2026-05-20 15:31:28,976 [DEBUG]   Filtered (not relevant): Superstar country music duo planning reunion tour after 5 year ‘break’
+2026-05-20 15:31:28,976 [DEBUG]   Filtered (not relevant): Asking Eric: Is it even a friendship anymore if you send cards, but never stop b
+2026-05-20 15:31:28,976 [DEBUG]   Filtered (not relevant): Central NY weather: You may need umbrella and jacket through Memorial Day
+2026-05-20 15:31:28,977 [DEBUG]   Filtered (not relevant): 80% of guitar strings in the U.S. are made in this small CNY town
+2026-05-20 15:31:28,977 [DEBUG]   Filtered (not relevant): This Upstate NY ballpark was just named one of America’s most charming minor lea
+2026-05-20 15:31:28,978 [DEBUG]   Filtered (not relevant): Dear Abby: Daughter’s anxiety about commute leaves me with extra hours of unwant
+2026-05-20 15:31:28,979 [DEBUG]   Filtered (not relevant): AG Blanche says violent Jan. 6 rioters could get payments from $1.8B fund
+2026-05-20 15:31:28,979 [DEBUG]   Filtered (not relevant): WHO concerned over ‘scale and speed’ of Ebola outbreak as 134 reported dead
+2026-05-20 15:31:28,980 [DEBUG]   Filtered (not relevant): Dear Abby: Wife slipping into a polyamory lifestyle I want nothing to do with; h
+2026-05-20 15:31:28,980 [DEBUG]   Filtered (not relevant): Beach hazards statement affecting Central NY, North Country until early Thursday
+2026-05-20 15:31:28,982 [INFO] News Scanner Run — 2026-05-20 15:31
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • SU women's lax lands transfer from Boston College
+  • Micron finally fills in stagnant swimming pool that a national expert called dan
+  • NY Workforce Connect: Takeaways on developing the workers Upstate critically nee
+
