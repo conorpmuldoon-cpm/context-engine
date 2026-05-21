@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-NEWS-2026-00119",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/realestate-news/2026/05/tax-breaks-approved-for-apartments-near-syracuse-university-campus.html",
+  "publication_date": "2026-05-21",
+  "capture_date": "2026-05-21T15:36:50Z",
+  "title": "Tax breaks approved for apartments near Syracuse University campus",
+  "summary": "The Syracuse Industrial Development Agency approved $635,825 in tax incentives for a 30-unit apartment development adjacent to Syracuse University. This residential project represents economic development and housing growth in a university-adjacent neighborhood, with potential implications for local tax revenue and permitting processes.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "housing",
+    "tax-revenue",
+    "permitting",
+    "business-community",
+    "land-use"
+  ],
+  "department_refs": [
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Syracuse Industrial Development Agency",
+      "type": "organization",
+      "canonical_id": "ORG-SIDA"
+    },
+    {
+      "name": "Rick Moriarty",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Tax incentive approval signals municipal support for housing development and economic growth near anchor institution; aligns with typical CIO priorities around development acceleration and revenue strategy.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on IDA decision rather than CIO office directly; relevance is indirect through housing/economic development portfolio",
+    "No specific technology systems, digital services, or innovation initiatives mentioned",
+    "Could connect to broader smart-city planning or GIS mapping of development zones if CIO tracks real estate incentives",
+    "Date is future-projected (2026); verify if this is template testing",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

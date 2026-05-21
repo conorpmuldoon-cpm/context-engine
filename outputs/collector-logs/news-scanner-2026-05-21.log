@@ -1,0 +1,76 @@
+2026-05-21 15:36:45,254 [INFO] ============================================================
+2026-05-21 15:36:45,254 [INFO] News Scanner starting
+2026-05-21 15:36:45,255 [INFO] Fetching: Syracuse.com Politics
+2026-05-21 15:36:45,592 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-21 15:36:45,592 [INFO] Fetching: Syracuse.com Government
+2026-05-21 15:36:45,847 [INFO]   0 new articles from Syracuse.com Government
+2026-05-21 15:36:45,847 [INFO] Fetching: Syracuse.com Local
+2026-05-21 15:36:46,027 [INFO]   0 new articles from Syracuse.com Local
+2026-05-21 15:36:46,028 [INFO] Fetching: Syracuse.com Main
+2026-05-21 15:36:46,374 [INFO]   0 new articles from Syracuse.com Main
+2026-05-21 15:36:46,374 [INFO] Total unique articles across all feeds: 50
+2026-05-21 15:36:46,374 [INFO] New articles (not previously processed): 50
+2026-05-21 15:36:46,423 [DEBUG]   Filtered (not relevant): Man arrested after driving Cybertruck into lake to test water feature
+2026-05-21 15:36:46,423 [DEBUG]   Filtered (not relevant): Legendary soft rock duo just added to NYS Fair concert lineup
+2026-05-21 15:36:46,423 [DEBUG]   Filtered (not relevant): Breakdown, predictions for Oneida, Westmoreland in Section III Class C flag foot
+2026-05-21 15:36:46,424 [DEBUG]   Filtered (not relevant): Nike kicks off Memorial Day weekend with major deals, including the Nike Dunk Lo
+2026-05-21 15:36:46,424 [DEBUG]   Filtered (not relevant): How John Mullen’s resurgence led SU lax back into Final Four
+2026-05-21 15:36:46,425 [DEBUG]   Filtered (not relevant): Dear Abby: I’m very fond of my boss; perhaps a bit too fond?
+2026-05-21 15:36:46,426 [DEBUG]   Filtered (not relevant): Google’s newest screenless Fitbit Air just arrived at Target - What are the revi
+2026-05-21 15:36:46,426 [DEBUG]   Filtered (not relevant): Miss Manners: Group dinner turns into live peep show when couple at the next tab
+2026-05-21 15:36:46,427 [DEBUG]   Filtered (not relevant): Breakdown, predictions for Syracuse East, Liverpool in Section III Class A flag 
+2026-05-21 15:36:46,427 [DEBUG]   Filtered (not relevant): Car destroyed in collision with garbage truck in Cicero
+2026-05-21 15:36:46,428 [DEBUG]   Filtered (not relevant): Boeheim’s Army has opponent and team captain. Hint: Think Big East
+2026-05-21 15:36:46,428 [DEBUG]   Filtered (not relevant): Popular singer learned of ex’s new relationship same week she got cancer diagnos
+2026-05-21 15:36:46,429 [DEBUG]   Filtered (not relevant): Polymarket invite code “CUSE” announces $50 bonus update for NBA, NHL, and the F
+2026-05-21 15:36:46,429 [DEBUG]   Filtered (not relevant): Will Trump seek approval from Congress for his 250-foot arch in DC?
+2026-05-21 15:36:46,430 [DEBUG]   Filtered (not relevant): Missed the Ariana Grande Ticketmaster lottery? Here’s how to still buy tickets
+2026-05-21 15:36:46,430 [DEBUG]   Filtered (not relevant): Breakdown, predictions for Fayetteville-Manlius, East Syracuse Minoa in Section 
+2026-05-21 15:36:46,430 [DEBUG]   Filtered (not relevant): SU women's lax adds top-10 goalie recruit from Big 12 team
+2026-05-21 15:36:46,431 [DEBUG]   Filtered (not relevant): Walmart shoppers love this 4-star, $350 nugget ice maker, and it’s on sale for l
+2026-05-21 15:36:46,432 [DEBUG]   Filtered (not relevant): Section III boys lacrosse playoff preview: Favorites, challengers, top players f
+2026-05-21 15:36:46,432 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: You don’t have to throw away yellow-stained pillows with th
+2026-05-21 15:36:46,432 [DEBUG]   Filtered (not relevant): Crossbows prove popular with NY deer hunters, new data shows
+2026-05-21 15:36:46,433 [DEBUG]   Filtered (not relevant): Section III softball playoff preview: Favorites, challengers, top players in Cla
+2026-05-21 15:36:46,433 [INFO]   Relevant: Tax breaks approved for apartments near Syracuse University campus
+2026-05-21 15:36:46,433 [DEBUG]     → Entities: Syracuse University
+2026-05-21 15:36:46,433 [DEBUG]     → Departments: Department of Permits and Development
+2026-05-21 15:36:50,558 [INFO]     Saved: CTX-NEWS-2026-00119 → CTX-NEWS-2026-00119.json
+2026-05-21 15:36:50,558 [DEBUG]   Filtered (not relevant): Eastwood Memorial Day ceremony will honor Revolutionary War soldier
+2026-05-21 15:36:50,559 [DEBUG]   Filtered (not relevant): This weekend is auto racing’s biggest: Here’s what you need to know for Central 
+2026-05-21 15:36:50,560 [DEBUG]   Filtered (not relevant): Dear Annie: Daughter-in-law’s postpartum personality change doesn’t mean she get
+2026-05-21 15:36:50,560 [DEBUG]   Filtered (not relevant): Trader Joe’s confirms its second location in Onondaga County
+2026-05-21 15:36:50,560 [DEBUG]   Filtered (not relevant): Section III softball pitching leaders (through May 20)
+2026-05-21 15:36:50,560 [DEBUG]   Filtered (not relevant): Section III softball hitting leaders (through May 20)
+2026-05-21 15:36:50,561 [DEBUG]   Filtered (not relevant): Dear Doctor: Neurosurgeon botched back surgery, pain is worse by the day; is the
+2026-05-21 15:36:50,562 [DEBUG]   Filtered (not relevant): Toss & Fire: The growing pizza empire that somehow does it all (Dining Out Revie
+2026-05-21 15:36:50,562 [DEBUG]   Filtered (not relevant): Asking Eric: Husband erupts in a serious rage when he sees the bill at the end o
+2026-05-21 15:36:50,563 [DEBUG]   Filtered (not relevant): A Syracuse affordable housing developer plans its biggest project to date
+2026-05-21 15:36:50,563 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for May 21
+2026-05-21 15:36:50,563 [DEBUG]   Filtered (not relevant): CNY SPCA Pet of the Week: Lydia wants to be friends
+2026-05-21 15:36:50,563 [DEBUG]   Filtered (not relevant): Novelis reports $84M loss after Oswego fires, but looks to restart plant soon (G
+2026-05-21 15:36:50,564 [DEBUG]   Filtered (not relevant): Asking Eric: Wife is so sweet to pack me lunch; I sometimes find her hair in my 
+2026-05-21 15:36:50,564 [DEBUG]   Filtered (not relevant): Frost advisory issued for parts of Central NY on Thursday night
+2026-05-21 15:36:50,565 [DEBUG]   Filtered (not relevant): Spatchcock Funk’s Matt Read on leading in the creator economy: ‘To be great at s
+2026-05-21 15:36:50,565 [DEBUG]   Filtered (not relevant): Sex allegations and free passes: Has Oswego had enough of notorious landlord Dou
+2026-05-21 15:36:50,566 [DEBUG]   Filtered (not relevant): Syracuse recruit Iker Martinez’s coach: ‘This is a high-major talent’
+2026-05-21 15:36:50,566 [DEBUG]   Filtered (not relevant): Memorial Day 2026: A complete guide to parades, ceremonies in Central New York
+2026-05-21 15:36:50,567 [DEBUG]   Filtered (not relevant): Dear Abby: The vicious cycle of random gift giving, and how to finally break fre
+2026-05-21 15:36:50,567 [DEBUG]   Filtered (not relevant): CNY Inspirations: Reflect on the stories that have touched you
+2026-05-21 15:36:50,567 [DEBUG]   Filtered (not relevant): Rock legend facing increased death threats on tour criticizing Trump
+2026-05-21 15:36:50,568 [DEBUG]   Filtered (not relevant): Dear Abby: Sister commemorates mom’s death for days every year; it’s also my son
+2026-05-21 15:36:50,569 [DEBUG]   Filtered (not relevant): Buffalo Sabres reward coach Lindy Ruff with contract extension after breakthroug
+2026-05-21 15:36:50,569 [DEBUG]   Filtered (not relevant): NY mom who drowned her 3 kids at beach is sentenced to 20 years to life
+2026-05-21 15:36:50,569 [DEBUG]   Filtered (not relevant): American music legend celebrating 55th anniversary of iconic song on tour
+2026-05-21 15:36:50,570 [DEBUG]   Filtered (not relevant): Frost advisory active for St. Lawrence and Franklin counties until Friday mornin
+2026-05-21 15:36:50,572 [INFO] News Scanner Run — 2026-05-21 15:36
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Tax breaks approved for apartments near Syracuse University campus
+
