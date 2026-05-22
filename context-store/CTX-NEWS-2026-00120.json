@@ -1,0 +1,53 @@
+{
+  "record_id": "CTX-NEWS-2026-00120",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/05/ex-syracuse-mayor-ben-walsh-releases-retrospective-on-his-eight-years-in-office.html",
+  "publication_date": "2026-05-22",
+  "capture_date": "2026-05-22T14:46:51Z",
+  "title": "Ex-Syracuse Mayor Ben Walsh releases retrospective on his eight years in office",
+  "summary": "Former Syracuse Mayor Ben Walsh released a self-published 44-page retrospective documenting his eight-year administration's accomplishments. Walsh emphasized the report is not motivated by future political ambitions, positioning it as a factual record of his tenure.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "leadership-change",
+    "transparency",
+    "mayor"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Ben Walsh",
+      "type": "person",
+      "canonical_id": "PERSON-BEN-WALSH"
+    },
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-BOYER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Ex-mayor positioning retrospective as objective administrative record while preemptively disclaiming political motivation, suggesting awareness of potential perception concerns.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is announcement-focused with minimal substantive policy or initiative details",
+    "No specific departmental programs, budget figures, or measurable outcomes mentioned in excerpt",
+    "Political signal confidence reduced due to lack of context about retrospective contents and current political landscape",
+    "CIO may want full retrospective document for detailed initiative/technology/digital-services analysis",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

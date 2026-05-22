@@ -1,0 +1,76 @@
+2026-05-22 14:46:46,794 [INFO] ============================================================
+2026-05-22 14:46:46,794 [INFO] News Scanner starting
+2026-05-22 14:46:46,796 [INFO] Fetching: Syracuse.com Politics
+2026-05-22 14:46:47,128 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-22 14:46:47,128 [INFO] Fetching: Syracuse.com Government
+2026-05-22 14:46:47,390 [INFO]   0 new articles from Syracuse.com Government
+2026-05-22 14:46:47,390 [INFO] Fetching: Syracuse.com Local
+2026-05-22 14:46:47,613 [INFO]   0 new articles from Syracuse.com Local
+2026-05-22 14:46:47,613 [INFO] Fetching: Syracuse.com Main
+2026-05-22 14:46:47,808 [INFO]   0 new articles from Syracuse.com Main
+2026-05-22 14:46:47,808 [INFO] Total unique articles across all feeds: 50
+2026-05-22 14:46:47,809 [INFO] New articles (not previously processed): 50
+2026-05-22 14:46:47,859 [DEBUG]   Filtered (not relevant): Miss Manners: So I married a homeless man with an adult tricycle, what gives you
+2026-05-22 14:46:47,860 [DEBUG]   Filtered (not relevant): Pop singer invited police over for lasagna during DUI arrest
+2026-05-22 14:46:47,860 [DEBUG]   Filtered (not relevant): Eight people go to hospital after exposure to ‘unknown substance’ at Central NY 
+2026-05-22 14:46:47,861 [DEBUG]   Filtered (not relevant): Her left arm has a tremor. It didn’t stop this Manlius artist from building new 
+2026-05-22 14:46:47,861 [DEBUG]   Filtered (not relevant): See 2 Onondaga County towns where average home sale prices are over $1M
+2026-05-22 14:46:47,862 [DEBUG]   Filtered (not relevant): Polymarket invite code “CUSE” announces $50 bonus update for NBA, NHL, and Rolan
+2026-05-22 14:46:47,862 [DEBUG]   Filtered (not relevant): Comedy star Keegan-Michael Key spotted at Syracuse restaurant (photos)
+2026-05-22 14:46:47,862 [DEBUG]   Filtered (not relevant): BetMGM Bonus Code CUSEMGM update: $150 bonus and $2.5K casino promos for Memoria
+2026-05-22 14:46:47,863 [DEBUG]   Filtered (not relevant): Syracuse.com’s Connor Pignatello wins first place in national sportswriting cont
+2026-05-22 14:46:47,863 [DEBUG]   Filtered (not relevant): ‘No talent:’ Trump responds after final Colbert ‘Late Show’
+2026-05-22 14:46:47,864 [DEBUG]   Filtered (not relevant): Drake visits Upstate NY to help dad surprise his daughter (watch)
+2026-05-22 14:46:47,864 [DEBUG]   Filtered (not relevant): Dear Annie: Boyfriend’s mom extends helping hand, then stabs me in the back and 
+2026-05-22 14:46:47,864 [DEBUG]   Filtered (not relevant): In Trumpworld, crime does pay -- and taxpayers pick up the bill (Guest Opinion b
+2026-05-22 14:46:47,865 [DEBUG]   Filtered (not relevant): Syracuse Sandwiches: Mazzye’s turns beef on weck into a 5-day project
+2026-05-22 14:46:47,865 [DEBUG]   Filtered (not relevant): Section III softball playoff preview: Favorites, challengers, top players in Cla
+2026-05-22 14:46:47,866 [DEBUG]   Filtered (not relevant): Dear Annie: I’ve sent birthday money to family for years; I can’t afford it, but
+2026-05-22 14:46:47,866 [DEBUG]   Filtered (not relevant): Section III flag football stat leaders (through May 21)
+2026-05-22 14:46:47,867 [DEBUG]   Filtered (not relevant): Brawl erupts at kindergarten graduation ceremony over seating; woman arrested
+2026-05-22 14:46:47,867 [DEBUG]   Filtered (not relevant): Dear Doctor: Despite my healthy lifestyle, I just got an alarming cholesterol te
+2026-05-22 14:46:47,868 [DEBUG]   Filtered (not relevant): See Upstate NY towns and cities with longest commute times
+2026-05-22 14:46:47,868 [DEBUG]   Filtered (not relevant): NY Mets star Kodai Senga to begin minor league rehab assignment
+2026-05-22 14:46:47,869 [DEBUG]   Filtered (not relevant): OnTECH Charter High School 2026 junior senior prom: See 52 photos
+2026-05-22 14:46:47,869 [DEBUG]   Filtered (not relevant): Syracuse affordable housing developer plans its biggest project (Good Morning CN
+2026-05-22 14:46:47,869 [DEBUG]   Filtered (not relevant): Asking Eric: Mom requires daily care; refuses to take it from anyone other than 
+2026-05-22 14:46:47,870 [DEBUG]   Filtered (not relevant): Syracuse lacrosse vs. Notre Dame: Final Four preview
+2026-05-22 14:46:47,870 [DEBUG]   Filtered (not relevant): Buddy Boeheim, bit by the injury bug, is healing at home
+2026-05-22 14:46:47,870 [DEBUG]   Filtered (not relevant): Rescuers free man trapped for six hours in Upstate New York cave
+2026-05-22 14:46:47,871 [INFO]   Relevant: Ex-Syracuse Mayor Ben Walsh releases retrospective on his eight years in office
+2026-05-22 14:46:47,871 [DEBUG]     → Entities: Ben Walsh
+2026-05-22 14:46:47,871 [DEBUG]     → Keywords: mayor, syracuse mayor
+2026-05-22 14:46:51,711 [INFO]     Saved: CTX-NEWS-2026-00120 → CTX-NEWS-2026-00120.json
+2026-05-22 14:46:51,712 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for May 22
+2026-05-22 14:46:51,712 [DEBUG]   Filtered (not relevant): Higher gas prices have Americans scaling back Memorial Day travel plans
+2026-05-22 14:46:51,713 [DEBUG]   Filtered (not relevant): Girl Scouts plan Syracuse growth after years of membership decline
+2026-05-22 14:46:51,713 [DEBUG]   Filtered (not relevant): Asking Eric: Constant gifting with neighbor was draining; now I feel ashamed for
+2026-05-22 14:46:51,713 [DEBUG]   Filtered (not relevant): Central NY weekend weather: Cool temperatures, rain arrive on Saturday
+2026-05-22 14:46:51,714 [DEBUG]   Filtered (not relevant): Trump sending 5,000 more troops to Poland, stirring confusion about US presence 
+2026-05-22 14:46:51,714 [DEBUG]   Filtered (not relevant): Green Day singer announces new tour with a different band
+2026-05-22 14:46:51,715 [DEBUG]   Filtered (not relevant): Syracuse Chargers rugby team wins first national title: ‘Congratulations. Are yo
+2026-05-22 14:46:51,716 [DEBUG]   Filtered (not relevant): Dear Abby: I’m 72, dating a 27-year-old I met online; am I crazy to take the nex
+2026-05-22 14:46:51,716 [DEBUG]   Filtered (not relevant): ‘Great’ Baldwinsville ranch will suit ‘all types of families’
+2026-05-22 14:46:51,717 [DEBUG]   Filtered (not relevant): Buffalo’s first-ever state park opens Friday, features sprayground, playground a
+2026-05-22 14:46:51,718 [DEBUG]   Filtered (not relevant): Dear Abby: Blended family somehow still feels like we’re all living separate liv
+2026-05-22 14:46:51,718 [DEBUG]   Filtered (not relevant): Wegmans announces opening date for its southernmost store
+2026-05-22 14:46:51,719 [DEBUG]   Filtered (not relevant): US soccer legend calls American players citing World Cup pressure a 'bunch of wh
+2026-05-22 14:46:51,719 [DEBUG]   Filtered (not relevant): Syracuse’s offensive surge continues in Thursday’s win over Buffalo
+2026-05-22 14:46:51,719 [DEBUG]   Filtered (not relevant): Pair of  All-CNY girls golfers tie for medalist honors, lead pack of 9 state qua
+2026-05-22 14:46:51,720 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for May 21
+2026-05-22 14:46:51,720 [DEBUG]   Filtered (not relevant): New $50 Polymarket invite code “SYRACUSE” upgrades referral bonus through Memori
+2026-05-22 14:46:51,721 [DEBUG]   Filtered (not relevant): 6 displaced after Onondaga Hill fire badly damages home
+2026-05-22 14:46:51,721 [DEBUG]   Filtered (not relevant): Law enforcement shares Memorial Day boating safety tips as summer begins on Onei
+2026-05-22 14:46:51,722 [DEBUG]   Filtered (not relevant): All-CNY golfer earns top finish at state qualifier; 8 others punch tickets to st
+2026-05-22 14:46:51,722 [DEBUG]   Filtered (not relevant): Where to watch the final ‘Late Show with Stephen Colbert’ episode for free tonig
+2026-05-22 14:46:51,724 [INFO] News Scanner Run — 2026-05-22 14:46
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Ex-Syracuse Mayor Ben Walsh releases retrospective on his eight years in office
+
