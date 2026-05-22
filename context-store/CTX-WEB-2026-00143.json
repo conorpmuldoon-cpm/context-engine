@@ -1,0 +1,47 @@
+{
+  "record_id": "CTX-WEB-2026-00143",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-05-21-Mayors-Office-News-200PM",
+  "publication_date": "2026-05-21",
+  "capture_date": "2026-05-22T15:21:55Z",
+  "title": "City of Syracuse Closing Offices in Observance of Memorial Day Holiday",
+  "summary": "The City of Syracuse will close administrative offices on Monday, May 25, 2026, for Memorial Day observance. Trash and recycling pickup will be delayed one day throughout the week, metered parking will be free, and the Department of Public Works yard waste drop-off will be closed, though emergency services remain available via 311.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "recurring",
+    "residents",
+    "service-requests"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Standard holiday closure notice with operational impact details",
+    "No budget, infrastructure, or policy implications detected",
+    "Contact information and digital service channels clearly provided (SYRCityline app, syr.gov/cityline, emergency line 315-448-8360)",
+    "Sharon F. Owens listed as Mayor but not named as author or quoted in content",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

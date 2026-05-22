@@ -1,0 +1,24 @@
+2026-05-22 15:21:32,420 [INFO] ============================================================
+2026-05-22 15:21:32,420 [INFO] Website Monitor starting
+2026-05-22 15:21:35,312 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-05-22 15:21:35,312 [INFO]   Navigating to https://www.syr.gov/News
+2026-05-22 15:21:39,849 [INFO]   Found 10 article links in News
+2026-05-22 15:21:44,849 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-05-21-Mayors-Office-News-200PM
+2026-05-22 15:21:55,133 [INFO]     Saved: CTX-WEB-2026-00143 → CTX-WEB-2026-00143.json
+2026-05-22 15:21:55,133 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-05-22 15:21:55,133 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-05-22 15:21:58,130 [INFO]   Found 0 article links in Announcements
+2026-05-22 15:22:03,131 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-05-22 15:22:03,131 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-05-22 15:22:06,275 [INFO]   Found 0 article links in Public Notices
+2026-05-22 15:22:11,321 [INFO] Website Monitor Run — 2026-05-22 15:22
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • City of Syracuse Closing Offices in Observance of Memorial Day Holiday
+
