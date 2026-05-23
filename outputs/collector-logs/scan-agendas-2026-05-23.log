@@ -1,0 +1,49 @@
+2026-05-23 14:09:10,186 [INFO] === Agenda Scanner  — 2026 ===
+2026-05-23 14:09:10,187 [INFO] Already processed: 12 agendas
+2026-05-23 14:09:10,223 [INFO] Fetching agenda listing page for 2026...
+2026-05-23 14:09:16,759 [INFO]   Found 39 meeting page(s) for 2026
+2026-05-23 14:09:19,340 [DEBUG]   2026-06-01 Common Council Regular Meeting: no agenda PDF found
+2026-05-23 14:09:21,929 [DEBUG]   2026-06-01 Common Council Study Session: no agenda PDF found
+2026-05-23 14:09:24,623 [DEBUG]   2026-05-27 Common Council Study Session: no agenda PDF found
+2026-05-23 14:09:27,219 [DEBUG]   2026-05-27 Common Council Special Meeting: no agenda PDF found
+2026-05-23 14:09:29,798 [DEBUG]   2026-05-18 Common Council Regular Meeting (2026-05-18): already processed
+2026-05-23 14:09:32,415 [DEBUG]   2026-05-18 Common Council Study Session (2026-05-18): already processed
+2026-05-23 14:09:34,984 [DEBUG]   2026-05-13 Common Council Study Session (2026-05-18): already processed
+2026-05-23 14:09:37,568 [DEBUG]   2026-05-08 Common Council SPECIAL MEETING (2026-05-08): already processed
+2026-05-23 14:09:40,210 [DEBUG]   2026-05-04 Common Council Regular Meeting (2026-05-04): already processed
+2026-05-23 14:09:42,680 [DEBUG]   2026-05-04 Common Council Study Session (2026-05-04): already processed
+2026-05-23 14:09:45,313 [DEBUG]   2026-04-29 Common Council Study Session (2026-05-04): already processed
+2026-05-23 14:09:48,244 [DEBUG]   2026-04-20 Common Council Regular Meeting (2026-04-20): already processed
+2026-05-23 14:09:50,754 [DEBUG]   2026-04-20 Common Council Study Session (2026-04-20): already processed
+2026-05-23 14:09:53,414 [DEBUG]   2026-04-15 Common Council Study Session (2026-04-20): already processed
+2026-05-23 14:09:56,073 [DEBUG]   2026-04-06 Common Council Regular Meeting (2026-04-06): already processed
+2026-05-23 14:09:58,796 [DEBUG]   2026-04-06 Common Council Study Session (2026-04-06): already processed
+2026-05-23 14:10:01,528 [DEBUG]   2026-04-01 Common Council Study Session (2026-04-06): already processed
+2026-05-23 14:10:04,905 [DEBUG]   2026-03-23 Common Council Regular Meeting (2026-03-23): already processed
+2026-05-23 14:10:09,978 [DEBUG]   2026-03-23 Common Council Study Session (2026-03-23): already processed
+2026-05-23 14:10:13,075 [DEBUG]   2026-03-18 Common Council Study Session (2026-03-23): already processed
+2026-05-23 14:10:15,715 [DEBUG]   2026-03-09 Common Council Public Hearing: no agenda PDF found
+2026-05-23 14:10:18,674 [DEBUG]   2026-03-09 Common Council Regular Meeting (2026-03-09): already processed
+2026-05-23 14:10:21,189 [DEBUG]   2026-03-09 Common Council Study Session (2026-03-09): already processed
+2026-05-23 14:10:23,703 [DEBUG]   2026-03-04 Common Council Study Session (2026-03-09): already processed
+2026-05-23 14:10:26,311 [DEBUG]   2026-02-23 Common Council Regular Meeting (2026-02-23): already processed
+2026-05-23 14:10:28,933 [DEBUG]   2026-02-23 Common Council Study Session (2026-02-23): already processed
+2026-05-23 14:10:31,502 [DEBUG]   2026-02-19 Common Council Town Hall: no agenda PDF found
+2026-05-23 14:10:34,088 [DEBUG]   2026-02-18 Common Council Study Session (2026-02-23): already processed
+2026-05-23 14:10:36,645 [DEBUG]   2026-02-09 Common Council Regular Meeting (2026-02-09): already processed
+2026-05-23 14:10:39,764 [DEBUG]   2026-02-09 Common Council Study Session (2026-02-09): already processed
+2026-05-23 14:10:42,402 [DEBUG]   2026-02-04 Common Council Study Session (2026-02-09): already processed
+2026-05-23 14:10:45,059 [DEBUG]   2026-01-26 Common Council Public Hearing: no agenda PDF found
+2026-05-23 14:10:47,531 [DEBUG]   2026-01-26 Common Council Regular Meeting (2026-01-26): already processed
+2026-05-23 14:10:50,162 [DEBUG]   2026-01-26 Common Council Study Session (2026-01-26): already processed
+2026-05-23 14:10:52,774 [DEBUG]   2026-01-21 Common Council Study Session (2026-01-26): already processed
+2026-05-23 14:10:55,512 [DEBUG]   2026-01-12 Common Council Regular Meeting (2026-01-12): already processed
+2026-05-23 14:10:58,081 [DEBUG]   2026-01-12 Common Council Study Session (2026-01-12): already processed
+2026-05-23 14:11:00,692 [DEBUG]   2026-01-07 Common Council Study Session (2026-01-12): already processed
+2026-05-23 14:11:03,331 [DEBUG]   2026-01-05 Common Council Organizational Meeting (2026-01-05): already processed
+2026-05-23 14:11:03,331 [INFO] 
+==================================================
+2026-05-23 14:11:03,331 [INFO] AGENDA SCANNER SUMMARY 
+2026-05-23 14:11:03,331 [INFO]   Meeting pages checked: 39
+2026-05-23 14:11:03,331 [INFO]   New agendas parsed: 0
+2026-05-23 14:11:03,331 [INFO]   Skipped (already processed or no PDF): 39
