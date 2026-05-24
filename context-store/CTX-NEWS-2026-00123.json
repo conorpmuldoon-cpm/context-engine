@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00123",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangelacrosse/2026/05/turnovers-and-lack-of-discipline-end-syracuse-lacrosses-season-2-wins-short-of-a-title-axes-quick-takes.html",
+  "publication_date": "2026-05-23",
+  "capture_date": "2026-05-24T13:43:56Z",
+  "title": "Turnovers and lack of discipline end Syracuse lacrosse season vs. Notre Dame (Axe’s quick takes)",
+  "summary": "Sports news article about Syracuse University men's lacrosse team's season ending in NCAA tournament loss to Notre Dame. Article discusses game performance issues including turnovers and lack of discipline. Not relevant to City of Syracuse municipal operations or Chief Innovation Officer priorities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Brent Axe",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns Syracuse University athletics, not City of Syracuse municipal government",
+    "No relevance to CIO mandate, city operations, or policy matters",
+    "Consider excluding sports coverage from municipal context engine unless tied to city facilities, events, or services",
+    "No actionable intelligence for city leadership",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

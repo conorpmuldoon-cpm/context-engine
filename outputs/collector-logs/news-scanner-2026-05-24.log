@@ -1,0 +1,83 @@
+2026-05-24 13:43:46,528 [INFO] ============================================================
+2026-05-24 13:43:46,528 [INFO] News Scanner starting
+2026-05-24 13:43:46,529 [INFO] Fetching: Syracuse.com Politics
+2026-05-24 13:43:46,977 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-24 13:43:46,977 [INFO] Fetching: Syracuse.com Government
+2026-05-24 13:43:47,169 [INFO]   0 new articles from Syracuse.com Government
+2026-05-24 13:43:47,169 [INFO] Fetching: Syracuse.com Local
+2026-05-24 13:43:47,353 [INFO]   0 new articles from Syracuse.com Local
+2026-05-24 13:43:47,353 [INFO] Fetching: Syracuse.com Main
+2026-05-24 13:43:47,524 [INFO]   0 new articles from Syracuse.com Main
+2026-05-24 13:43:47,524 [INFO] Total unique articles across all feeds: 50
+2026-05-24 13:43:47,524 [INFO] New articles (not previously processed): 50
+2026-05-24 13:43:47,574 [DEBUG]   Filtered (not relevant): Dear Annie: After 22 years of marriage, we’ve slowly drifted apart, and I can’t 
+2026-05-24 13:43:47,575 [DEBUG]   Filtered (not relevant): Early morning fire rips through Baldwinsville home; road closed
+2026-05-24 13:43:47,576 [DEBUG]   Filtered (not relevant): Asking Eric: Grandparents drive themselves from Michigan to Florida every year; 
+2026-05-24 13:43:47,576 [DEBUG]   Filtered (not relevant): Where to watch Liverpool vs. Brentford: Premier League free stream
+2026-05-24 13:43:47,577 [DEBUG]   Filtered (not relevant): Alex Palou leads 2026 Indianapolis 500 predictions after capturing pole position
+2026-05-24 13:43:47,577 [DEBUG]   Filtered (not relevant): Where to watch West Ham vs. Leeds: English Premier League free stream
+2026-05-24 13:43:47,577 [DEBUG]   Filtered (not relevant): New Netflix series seeks Upstate NY actors with North Country accent
+2026-05-24 13:43:47,578 [DEBUG]   Filtered (not relevant): Editorial cartoons for May 24, 2026: 'Anti-weaponization' fund, gas prices, Cuba
+2026-05-24 13:43:47,578 [DEBUG]   Filtered (not relevant): Where to watch Tottenham vs. Everton: Premier League soccer free stream
+2026-05-24 13:43:47,579 [DEBUG]   Filtered (not relevant): Where to watch Brighton vs. Man United: Premier League free stream
+2026-05-24 13:43:47,579 [DEBUG]   Filtered (not relevant): Asking Eric: Random nature walk guy completely hijacked my date; how do I keep i
+2026-05-24 13:43:47,579 [DEBUG]   Filtered (not relevant): Chemical tank at risk of exploding in California as 40,000 residents are ordered
+2026-05-24 13:43:47,580 [DEBUG]   Filtered (not relevant): ‘90s rock band working on final album: ‘It’s very, very important to all of us’
+2026-05-24 13:43:47,580 [DEBUG]   Filtered (not relevant): $4.15M for lakefront 6 bedroom: Plus 88 more Onondaga County home sales
+2026-05-24 13:43:47,581 [INFO]   Relevant: Syracuse’s Boy Mayor: This 14-year-old helmed the city for one day in 1926
+2026-05-24 13:43:47,581 [DEBUG]     → Keywords: mayor
+2026-05-24 13:43:50,949 [INFO]     Saved: CTX-NEWS-2026-00121 → CTX-NEWS-2026-00121.json
+2026-05-24 13:43:50,950 [DEBUG]   Filtered (not relevant): McDonald’s is quietly getting rid of this beloved customer perk
+2026-05-24 13:43:50,950 [DEBUG]   Filtered (not relevant): Sex allegations, free passes: Has Oswego had enough of notorious landlord? (Top 
+2026-05-24 13:43:50,950 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for May 24
+2026-05-24 13:43:50,951 [DEBUG]   Filtered (not relevant): Where to watch Premier League today: Match schedule, free stream
+2026-05-24 13:43:50,951 [DEBUG]   Filtered (not relevant): Syracuse amphitheater at 10: A rite of summer worth celebrating (Editorial Board
+2026-05-24 13:43:50,953 [DEBUG]   Filtered (not relevant): Dear Abby: I admit it, I was the mean girl in high school; 40 years later, I’m w
+2026-05-24 13:43:50,953 [DEBUG]   Filtered (not relevant): Central NY weather: Heavy rain on Sunday night, but sunshine by Monday afternoon
+2026-05-24 13:43:50,953 [DEBUG]   Filtered (not relevant): CNY Inspirations: View aging as ‘ripening’ instead of decline
+2026-05-24 13:43:50,954 [INFO]   Relevant: Syracuse lacrosse is relevant again: Is that good enough? | Axe
+2026-05-24 13:43:50,954 [DEBUG]     → Entities: Syracuse University
+2026-05-24 13:43:53,702 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-05-24 13:43:53,712 [INFO]     Saved: CTX-NEWS-2026-00122 → CTX-NEWS-2026-00122.json
+2026-05-24 13:43:53,713 [DEBUG]   Filtered (not relevant): Memorial Day 2026: What’s open, what’s closed on Monday?
+2026-05-24 13:43:53,714 [DEBUG]   Filtered (not relevant): Dear Abby: Husband verbally assaults me in public, and gaslights me into thinkin
+2026-05-24 13:43:53,714 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Saturday’s $131 million drawing
+2026-05-24 13:43:53,715 [DEBUG]   Filtered (not relevant): Electric vehicle catches fire at Cicero auction lot, ignites 7 other vehicles
+2026-05-24 13:43:53,715 [DEBUG]   Filtered (not relevant): New $50 Polymarket invite code “SYRACUSE” extends referral bonus through Memoria
+2026-05-24 13:43:53,716 [DEBUG]   Filtered (not relevant): Experts release new Avalanche vs. Golden Knights Game 3 prediction after Cale Ma
+2026-05-24 13:43:53,716 [DEBUG]   Filtered (not relevant): Mexico High School 2026 senior ball: See 95 prom photos
+2026-05-24 13:43:53,717 [DEBUG]   Filtered (not relevant): Joey Spallina regrets being made into a liar. He has nothing to be sorry about
+2026-05-24 13:43:53,717 [DEBUG]   Filtered (not relevant): $50 Polymarket referral code “CUSE” updated for NBA Playoffs, MLB in MI, MN, OH,
+2026-05-24 13:43:53,718 [DEBUG]   Filtered (not relevant): Suspect dead after opening fire near White House security checkpoint, Secret Ser
+2026-05-24 13:43:53,718 [DEBUG]   Filtered (not relevant): Port Byron softball embraces new identity in quarterfinal upset
+2026-05-24 13:43:53,719 [DEBUG]   Filtered (not relevant): Kalshi extends $10 referral code SYRACUSE into NY for Knicks-Cavs Game 3
+2026-05-24 13:43:53,719 [DEBUG]   Filtered (not relevant): Senior’s clutch moments propel Marcellus softball to Class B quarters walk off w
+2026-05-24 13:43:53,720 [INFO]   Relevant: Turnovers and lack of discipline end Syracuse lacrosse season vs. Notre Dame (Ax
+2026-05-24 13:43:53,720 [DEBUG]     → Entities: Syracuse University
+2026-05-24 13:43:56,602 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-05-24 13:43:56,612 [INFO]     Saved: CTX-NEWS-2026-00123 → CTX-NEWS-2026-00123.json
+2026-05-24 13:43:56,612 [DEBUG]   Filtered (not relevant): Syracuse lacrosse beaten down by Notre Dame in 4th quarter of NCAA semifinal
+2026-05-24 13:43:56,613 [DEBUG]   Filtered (not relevant): Syracuse lacrosse box score vs. Notre Dame in NCAA semifinal
+2026-05-24 13:43:56,613 [DEBUG]   Filtered (not relevant): Liverpool baseball digs out from ‘behind the 8-ball’ for playoff win
+2026-05-24 13:43:56,614 [DEBUG]   Filtered (not relevant): Junior returns from broken ankle to net go-ahead goal in Class D quarters win fo
+2026-05-24 13:43:56,614 [DEBUG]   Filtered (not relevant): Where to watch Sparks vs. Aces today: WNBA free live stream
+2026-05-24 13:43:56,614 [DEBUG]   Filtered (not relevant): Update: The current beach hazards statement for Western NY, Finger Lakes will be
+2026-05-24 13:43:56,615 [DEBUG]   Filtered (not relevant): You can watch WWE Saturday Night free on Peacock, but there’s a catch
+2026-05-24 13:43:56,615 [DEBUG]   Filtered (not relevant): What channel is the Knicks- Cavaliers game on tonight?
+2026-05-24 13:43:56,616 [DEBUG]   Filtered (not relevant): Most expensive homes sold in five Central NY counties from May 11 to 17
+2026-05-24 13:43:56,616 [DEBUG]   Filtered (not relevant): Couple found dead in murder-suicide scammed by Tom Selleck impersonator (report)
+2026-05-24 13:43:56,617 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for May 23
+2026-05-24 13:43:56,617 [DEBUG]   Filtered (not relevant): Canadiens-Hurricanes Game 2 free stream: Where to watch NHL Playoffs
+2026-05-24 13:43:56,619 [INFO] News Scanner Run — 2026-05-24 13:43
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • Syracuse’s Boy Mayor: This 14-year-old helmed the city for one day in 1926
+  • Syracuse lacrosse is relevant again: Is that good enough? | Axe
+  • Turnovers and lack of discipline end Syracuse lacrosse season vs. Notre Dame (Ax
+

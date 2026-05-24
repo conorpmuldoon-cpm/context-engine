@@ -1,0 +1,49 @@
+{
+  "record_id": "CTX-NEWS-2026-00121",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/living/2026/05/syracuses-boy-mayor-this-14-year-old-helmed-the-city-for-one-day-in-1926.html",
+  "publication_date": "2026-05-24",
+  "capture_date": "2026-05-24T13:43:50Z",
+  "title": "Syracuse’s Boy Mayor: This 14-year-old helmed the city for one day in 1926",
+  "summary": "Historical article about a 14-year-old who served as Syracuse's mayor for one day in 1926, despite official records crediting Charles Hanna as mayor that year. The piece explores an obscure episode in Syracuse's civic history with potential implications for historical record accuracy and institutional memory.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "historic-preservation",
+    "transparency",
+    "trending"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Charles Hanna",
+      "type": "person",
+      "canonical_id": "PERSON-CHARLES-HANNA"
+    },
+    {
+      "name": "Johnathan Croyle",
+      "type": "person",
+      "canonical_id": "PERSON-JOHNATHAN-CROYLE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article describes a historical event from 1926; the 'boy mayor' identity is not explicitly named in provided content",
+    "No current city operations, budget, or policy implications detected",
+    "Potential relevance to institutional history/archives rather than active CIO priorities",
+    "Publication date (2026-05-24) appears to be future-dated; validate against actual publication records",
+    "Low operational relevance to Chief Innovation Officer mandate",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
