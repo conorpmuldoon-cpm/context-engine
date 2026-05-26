@@ -1,0 +1,42 @@
+{
+  "record_id": "CTX-NEWS-2026-00124",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/shopping/2026/05/onns-65-inch-tv-is-less-than-250-during-this-weeks-ultimate-deal.html",
+  "publication_date": "2026-05-26",
+  "capture_date": "2026-05-26T15:47:48Z",
+  "title": "Onn’s 65-inch TV is less than $250 during this week’s ultimate deal",
+  "summary": "Consumer electronics retail article featuring promotional pricing on a 65-inch television. This article has no relevance to City of Syracuse municipal operations, governance, or innovation initiatives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Onn",
+      "type": "organization",
+      "canonical_id": "ORG-ONN"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is consumer shopping content with no municipal governance, policy, or operational relevance",
+    "No Syracuse city departments, officials, or initiatives mentioned",
+    "No actionable intelligence for CIO or city leadership",
+    "Appears to be misrouted or incorrectly indexed to syracuse.com domain",
+    "Recommend exclusion from municipal context library",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,76 @@
+2026-05-26 15:47:44,443 [INFO] ============================================================
+2026-05-26 15:47:44,443 [INFO] News Scanner starting
+2026-05-26 15:47:44,445 [INFO] Fetching: Syracuse.com Politics
+2026-05-26 15:47:44,871 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-26 15:47:44,871 [INFO] Fetching: Syracuse.com Government
+2026-05-26 15:47:45,016 [INFO]   0 new articles from Syracuse.com Government
+2026-05-26 15:47:45,016 [INFO] Fetching: Syracuse.com Local
+2026-05-26 15:47:45,154 [INFO]   0 new articles from Syracuse.com Local
+2026-05-26 15:47:45,154 [INFO] Fetching: Syracuse.com Main
+2026-05-26 15:47:45,301 [INFO]   0 new articles from Syracuse.com Main
+2026-05-26 15:47:45,301 [INFO] Total unique articles across all feeds: 50
+2026-05-26 15:47:45,301 [INFO] New articles (not previously processed): 50
+2026-05-26 15:47:45,353 [DEBUG]   Filtered (not relevant): The sold-out LoveShackFancy x Crocs Clog is available at this one location, but 
+2026-05-26 15:47:45,354 [DEBUG]   Filtered (not relevant): Syracuse lacrosse’s final four run boosts spirits of Baldwinsville boy recoverin
+2026-05-26 15:47:45,354 [DEBUG]   Filtered (not relevant): Miss Manners: You can’t expect a quick thank you note for wedding gifts you deli
+2026-05-26 15:47:45,354 [DEBUG]   Filtered (not relevant): Pizza Hut closes one of its last restaurants in Central NY
+2026-05-26 15:47:45,355 [DEBUG]   Filtered (not relevant): 4 arrested after dozens of guns found in Central NY home
+2026-05-26 15:47:45,356 [DEBUG]   Filtered (not relevant): The 4.6-star Ninja Woodfire Outdoor Grill & Smoker is seeing a major discount - 
+2026-05-26 15:47:45,356 [DEBUG]   Filtered (not relevant): Miss Manners: What choice are we left with when dining out with friends has beco
+2026-05-26 15:47:45,356 [DEBUG]   Filtered (not relevant): Buffalo Bills’ Josh Allen trading card sells for record $1.35 million
+2026-05-26 15:47:45,357 [DEBUG]   Filtered (not relevant): Section III champions climb in latest high school flag football state rankings
+2026-05-26 15:47:45,358 [DEBUG]   Filtered (not relevant): $50 Polymarket referral code “CUSE” upgraded for NBA Playoffs Game 5 OK, TX
+2026-05-26 15:47:45,358 [DEBUG]   Filtered (not relevant): Custodian had secret bedroom at Upstate NY middle school for months (report)
+2026-05-26 15:47:45,359 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: Dad bought a $10,000 engagement ring, then died; can we get
+2026-05-26 15:47:45,359 [DEBUG]   Filtered (not relevant): Bookkeeper for Syracuse law firm stole over $200k from employer, prosecutors say
+2026-05-26 15:47:45,360 [DEBUG]   Filtered (not relevant): New Spurs vs. Thunder Game 5 expert prediction as Wemby, SGA headline Polymarket
+2026-05-26 15:47:45,361 [DEBUG]   Filtered (not relevant): Central NY man, 78, dies when SUV crashes into guardrail
+2026-05-26 15:47:45,361 [INFO]   Relevant: Onn’s 65-inch TV is less than $250 during this week’s ultimate deal
+2026-05-26 15:47:45,361 [DEBUG]     → Keywords: resolution
+2026-05-26 15:47:48,164 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-05-26 15:47:48,182 [INFO]     Saved: CTX-NEWS-2026-00124 → CTX-NEWS-2026-00124.json
+2026-05-26 15:47:48,182 [DEBUG]   Filtered (not relevant): Section III baseball playoff preview: Favorites, challengers, top players in Cla
+2026-05-26 15:47:48,183 [DEBUG]   Filtered (not relevant): Prosecutor in NY prison deaths wants to make it easier to convict guards who wat
+2026-05-26 15:47:48,183 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: If the company that holds my mortgage goes bankrupt, will I
+2026-05-26 15:47:48,184 [DEBUG]   Filtered (not relevant): Woman killed by patio umbrella at restaurant while dining with husband
+2026-05-26 15:47:48,184 [DEBUG]   Filtered (not relevant): NY legislators shouldn’t take away kratom-derived products from responsible user
+2026-05-26 15:47:48,185 [DEBUG]   Filtered (not relevant): New York’s film industry needs green lights, not red tape (Guest Opinion by John
+2026-05-26 15:47:48,185 [DEBUG]   Filtered (not relevant): How F-M softball’s 3 generations of talent are using ‘magic formula’ to push tow
+2026-05-26 15:47:48,185 [DEBUG]   Filtered (not relevant): Dear Annie: Teenage years have hit my daughter hard; I miss the bond we used to 
+2026-05-26 15:47:48,186 [DEBUG]   Filtered (not relevant): Bill to make Daylight Saving Time permanent moves forward, would end changing cl
+2026-05-26 15:47:48,186 [DEBUG]   Filtered (not relevant): Top 25 Section III girls lacrosse stats leaders (through May 25)
+2026-05-26 15:47:48,187 [DEBUG]   Filtered (not relevant): Dear Doctor: A new Alzheimer’s treatment out of Cuba; is it safe, or even real?
+2026-05-26 15:47:48,187 [DEBUG]   Filtered (not relevant): Driver killed when car splits in half in NY crash, police say
+2026-05-26 15:47:48,188 [DEBUG]   Filtered (not relevant): See syracuse.com photos from this weekend’s 3 proms (plus thousands more)
+2026-05-26 15:47:48,188 [DEBUG]   Filtered (not relevant): Dog food recalled in 9 states: Throw away immediately
+2026-05-26 15:47:48,188 [DEBUG]   Filtered (not relevant): SU lax looks to future past Spallina and star-studded seniors
+2026-05-26 15:47:48,189 [DEBUG]   Filtered (not relevant): Business listings: See 26 new businesses in Central NY (May 26, 2026)
+2026-05-26 15:47:48,189 [DEBUG]   Filtered (not relevant): Asking Eric: My two adult sons still make me pay for my own birthday and Mother’
+2026-05-26 15:47:48,190 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for May 26
+2026-05-26 15:47:48,190 [DEBUG]   Filtered (not relevant): Syracuse’s highest earners wear scrubs; more top stories (Good Morning CNY)
+2026-05-26 15:47:48,190 [DEBUG]   Filtered (not relevant): Asking Eric: High-achieving son, daughter-in-law and kids are somehow living in 
+2026-05-26 15:47:48,191 [DEBUG]   Filtered (not relevant): Democrats feud over stock trading as they sharpen anti-corruption case against T
+2026-05-26 15:47:48,191 [DEBUG]   Filtered (not relevant): Central NY weather: Perfect early summer weather is here, but it won’t last long
+2026-05-26 15:47:48,192 [DEBUG]   Filtered (not relevant): Jazz legend dies at 95 in Upstate NY; played with The Rolling Stones
+2026-05-26 15:47:48,192 [DEBUG]   Filtered (not relevant): CNY Inspirations: Experiencing life as a child
+2026-05-26 15:47:48,192 [DEBUG]   Filtered (not relevant): Syracuse’s first $300K cop tripled his pay working 90 hours a week. Should there
+2026-05-26 15:47:48,193 [DEBUG]   Filtered (not relevant): What’s holding up the Delta Sonic car wash and gas station in Clay?
+2026-05-26 15:47:48,193 [DEBUG]   Filtered (not relevant): Dear Abby: Are friends taking advantage of our hospitality, or are we not being 
+2026-05-26 15:47:48,194 [DEBUG]   Filtered (not relevant): New Yorkers can now report harmful algal blooms online
+2026-05-26 15:47:48,194 [DEBUG]   Filtered (not relevant): NY Knicks advance to NBA Finals for first time since 1999 as fans rejoice
+2026-05-26 15:47:48,195 [DEBUG]   Filtered (not relevant): Trump to see doctors for annual physical. What the public finds out is up to him
+2026-05-26 15:47:48,195 [DEBUG]   Filtered (not relevant): Dear Abby: The more success I have at work, the more my partner withdraws and su
+2026-05-26 15:47:48,196 [DEBUG]   Filtered (not relevant): Update: The dense fog advisory for Southern Tier, Central NY is predicted to exp
+2026-05-26 15:47:48,196 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Monday’s $141 million drawing
+2026-05-26 15:47:48,197 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for May 25
+2026-05-26 15:47:48,198 [INFO] News Scanner Run — 2026-05-26 15:47
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Onn’s 65-inch TV is less than $250 during this week’s ultimate deal
+
