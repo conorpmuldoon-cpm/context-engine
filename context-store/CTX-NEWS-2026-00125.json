@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00125",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/cny/2026/05/mayor-owens-appoints-another-ally-to-syracuse-housing-authority-board.html",
+  "publication_date": "2026-05-27",
+  "capture_date": "2026-05-27T15:55:05Z",
+  "title": "Mayor Owens appoints another ally to Syracuse Housing Authority board",
+  "summary": "Mayor Owens appointed Monica Williams, a former Onondaga County legislator, to the Syracuse Housing Authority board. This represents a leadership change at a key housing governance entity, potentially signaling mayoral priorities around housing authority governance and board composition.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "leadership-change",
+    "announcement",
+    "mayor"
+  ],
+  "department_refs": [
+    "Syracuse Housing Authority"
+  ],
+  "entity_refs": [
+    {
+      "name": "Monica Williams",
+      "type": "person",
+      "canonical_id": "PERSON-MONICA-WILLIAMS"
+    },
+    {
+      "name": "Mayor Owens",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Syracuse Housing Authority",
+      "type": "organization",
+      "canonical_id": "ORG-SHA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor's board appointment reflects governance priorities and political coalition-building around housing authority leadership, though article title suggests pattern of mayoral allies on board.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article headline suggests scrutiny of appointment pattern ('another ally'), which may warrant deeper analysis of board composition and governance transparency",
+    "Limited detail provided on Williams' relevant qualifications or specific board role/term",
+    "Syracuse Housing Authority is quasi-independent entity; unclear if falls under CIO departmental purview—flagged as organizational reference for housing policy tracking",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,76 @@
+2026-05-27 15:55:00,445 [INFO] ============================================================
+2026-05-27 15:55:00,446 [INFO] News Scanner starting
+2026-05-27 15:55:00,447 [INFO] Fetching: Syracuse.com Politics
+2026-05-27 15:55:00,948 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-27 15:55:00,948 [INFO] Fetching: Syracuse.com Government
+2026-05-27 15:55:01,142 [INFO]   0 new articles from Syracuse.com Government
+2026-05-27 15:55:01,142 [INFO] Fetching: Syracuse.com Local
+2026-05-27 15:55:01,273 [INFO]   0 new articles from Syracuse.com Local
+2026-05-27 15:55:01,273 [INFO] Fetching: Syracuse.com Main
+2026-05-27 15:55:01,447 [INFO]   0 new articles from Syracuse.com Main
+2026-05-27 15:55:01,447 [INFO] Total unique articles across all feeds: 50
+2026-05-27 15:55:01,447 [INFO] New articles (not previously processed): 50
+2026-05-27 15:55:01,498 [DEBUG]   Filtered (not relevant): Watch Palace vs. Rayo today: UEFA Conference League free live stream
+2026-05-27 15:55:01,499 [DEBUG]   Filtered (not relevant): Pizza Hut brings back iconic roof, red cups to 2 Upstate NY locations
+2026-05-27 15:55:01,499 [DEBUG]   Filtered (not relevant): Pizza restaurant chain brings back beloved retro look at 155 locations
+2026-05-27 15:55:01,500 [DEBUG]   Filtered (not relevant): Police: SUNY Cortland daycare workers hurt children, ordered kids to beat child:
+2026-05-27 15:55:01,500 [DEBUG]   Filtered (not relevant): Kehlani announces 2026 North American tour dates, includes Upstate NY stop
+2026-05-27 15:55:01,501 [DEBUG]   Filtered (not relevant): Where to watch Alexander Zverev vs. Tomas Machac: French Open stream
+2026-05-27 15:55:01,501 [DEBUG]   Filtered (not relevant): Miss Manners: How do I correctly thank someone for a gift I have no use for?
+2026-05-27 15:55:01,501 [DEBUG]   Filtered (not relevant): Grieving mom: NY should protect its residents from dangers of kratom  (Your Lett
+2026-05-27 15:55:01,502 [DEBUG]   Filtered (not relevant): Miss Manners: Impossible to have a call with friend without his wife chiming in 
+2026-05-27 15:55:01,502 [DEBUG]   Filtered (not relevant): Ballet sneakers are the new ‘it’ shoe of the season - Here’s our favorite take
+2026-05-27 15:55:01,503 [DEBUG]   Filtered (not relevant): Adéla announces 2026 debut headlining tour: Presale and ticket info, full schedu
+2026-05-27 15:55:01,503 [DEBUG]   Filtered (not relevant): Golden Knights gear: Where to buy Stanley Cup jerseys, shirts, hats
+2026-05-27 15:55:01,504 [DEBUG]   Filtered (not relevant): Why Lenovo IdeaPad Slim 3 laptop bundle at Walmart is a smart graduation gift
+2026-05-27 15:55:01,504 [DEBUG]   Filtered (not relevant): New $50 Polymarket invite code “CUSE” upgraded in NY, TX for MLB matchups on Wed
+2026-05-27 15:55:01,505 [DEBUG]   Filtered (not relevant): Billy Idol adds hit ‘80s band as opening act for Syracuse, Darien Lake concerts
+2026-05-27 15:55:01,505 [DEBUG]   Filtered (not relevant): Jason Mraz brings solo acoustic tour to Landmark Theatre this weekend (interview
+2026-05-27 15:55:01,506 [DEBUG]   Filtered (not relevant): Syracuse diocese says no layoffs or parish closures expected as it emerges from 
+2026-05-27 15:55:01,506 [INFO]   Relevant: Mayor Owens appoints another ally to Syracuse Housing Authority board
+2026-05-27 15:55:01,506 [DEBUG]     → Entities: Syracuse Housing Authority
+2026-05-27 15:55:01,506 [DEBUG]     → Keywords: mayor
+2026-05-27 15:55:05,528 [INFO]     Saved: CTX-NEWS-2026-00125 → CTX-NEWS-2026-00125.json
+2026-05-27 15:55:05,528 [DEBUG]   Filtered (not relevant): Sen. May: NY needs to get smart on data centers before they outsmart us (Your Le
+2026-05-27 15:55:05,529 [DEBUG]   Filtered (not relevant): 1 dead, 9 missing after chemical tank implosion in Washington state
+2026-05-27 15:55:05,529 [DEBUG]   Filtered (not relevant): New Yankees vs. Royals prediction as Polymarket traders back Gerrit Cole
+2026-05-27 15:55:05,530 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: 13 new uses for your old credit card rather than throwing i
+2026-05-27 15:55:05,530 [DEBUG]   Filtered (not relevant): 19-year-old woman stabbed to death in her kitchen in Cayuga Heights, police say
+2026-05-27 15:55:05,531 [DEBUG]   Filtered (not relevant): A commission for people with disabilities and The Arc’s mission (Enable: The Dis
+2026-05-27 15:55:05,531 [DEBUG]   Filtered (not relevant): Breakdown, predictions for Christian Brothers Academy, Liverpool in Section III 
+2026-05-27 15:55:05,532 [DEBUG]   Filtered (not relevant): See Central NY schools ranked 1 to 183 based on 2025 NYS science tests
+2026-05-27 15:55:05,532 [DEBUG]   Filtered (not relevant): Dear Annie: I started dimming my own joy so jealous sister will stop constantly 
+2026-05-27 15:55:05,532 [DEBUG]   Filtered (not relevant): 1 seriously injured in Upstate NY plane crash; 2 others hurt in related vehicle 
+2026-05-27 15:55:05,533 [DEBUG]   Filtered (not relevant): Top Section III baseball pitching leaders (through May 26)
+2026-05-27 15:55:05,533 [DEBUG]   Filtered (not relevant): Syracuse School District proposes $10k stipends for teachers at 13 struggling sc
+2026-05-27 15:55:05,533 [DEBUG]   Filtered (not relevant): Top Section III baseball hitting leaders (through May 26)
+2026-05-27 15:55:05,534 [DEBUG]   Filtered (not relevant): Dear Doctor: Two rare, deadly diseases that have some similarities, but I can’t 
+2026-05-27 15:55:05,534 [DEBUG]   Filtered (not relevant): NY bill would ban venison donations over lead contamination concerns
+2026-05-27 15:55:05,534 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for May 27
+2026-05-27 15:55:05,535 [DEBUG]   Filtered (not relevant): Police blotter: See 236 new arrests added (May 27, 2026)
+2026-05-27 15:55:05,535 [DEBUG]   Filtered (not relevant): Micron reaches a major milestone; more top stories (Good Morning CNY)
+2026-05-27 15:55:05,535 [DEBUG]   Filtered (not relevant): Central NY weather: Wednesday could be region’s warmest day for a while
+2026-05-27 15:55:05,536 [DEBUG]   Filtered (not relevant): Asking Eric: Sister ghosts me over politics for the second straight Trump electi
+2026-05-27 15:55:05,536 [DEBUG]   Filtered (not relevant): NY Senate candidate’s plan to meet voters: Walk 150 miles across Central New Yor
+2026-05-27 15:55:05,537 [DEBUG]   Filtered (not relevant): NASA reveals moon base plans with landers, buggies and drones
+2026-05-27 15:55:05,537 [DEBUG]   Filtered (not relevant): Popular ‘80s rock band announces 40th anniversary tour dates
+2026-05-27 15:55:05,538 [DEBUG]   Filtered (not relevant): ACC’s new approach to paying schools works out in Syracuse’s favor in Year 1
+2026-05-27 15:55:05,538 [DEBUG]   Filtered (not relevant): Death, dismal care, cover up: Van Duyn admissions frozen amid new horrors
+2026-05-27 15:55:05,538 [DEBUG]   Filtered (not relevant): Where to watch Novak Djokovic vs. Valentin Royer: French Open stream
+2026-05-27 15:55:05,539 [DEBUG]   Filtered (not relevant): Hidden Level’s Antoinett Dufort on leadership: ‘Connect the dots for people and 
+2026-05-27 15:55:05,539 [DEBUG]   Filtered (not relevant): Dear Abby: Daughter punishes my addiction by keeping my grandkids from me years 
+2026-05-27 15:55:05,540 [DEBUG]   Filtered (not relevant): Paul McCartney plans duet with late rock star: ‘He’s a wizard’
+2026-05-27 15:55:05,540 [DEBUG]   Filtered (not relevant): Dear Abby: Brother-in-law’s unwanted advances hurt whole family; now we’re expec
+2026-05-27 15:55:05,541 [DEBUG]   Filtered (not relevant): Dog steps on loaded shotgun, accidentally shoots woman
+2026-05-27 15:55:05,541 [DEBUG]   Filtered (not relevant): Trump administration proposes NDAs for federal employees to stop media leaks
+2026-05-27 15:55:05,543 [INFO] News Scanner Run — 2026-05-27 15:55
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Mayor Owens appoints another ally to Syracuse Housing Authority board
+
