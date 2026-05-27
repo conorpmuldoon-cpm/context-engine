@@ -1,0 +1,728 @@
+{
+  "meeting_type": "Regular Meeting",
+  "date": "2026-06-01",
+  "time": "1:00 P.M.",
+  "roll_call": null,
+  "item_count": 49,
+  "items": [
+    {
+      "number": 8,
+      "sponsors": [
+        "Paniagua"
+      ],
+      "description": "Resolution ~ Approving. the Appointment of Various Persons as Commissioners of\nDeeds for 2025/2026.",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 9,
+      "sponsors": [
+        "Caldwell"
+      ],
+      "description": "Agreement — With Image Integrator, LLC, to continue to provide service, repair and\nupkeep for the Office of Human Resources’ microfiche machine. Total cost not to\nexceed $3,000.",
+      "vote": null,
+      "organizations": [
+        "Image Integrator"
+      ],
+      "people": [],
+      "departments": [],
+      "amounts": [
+        "$3,000"
+      ]
+    },
+    {
+      "number": 10,
+      "sponsors": [
+        "Caldwell"
+      ],
+      "description": "Appropriate Funds — From Account #593001.90000.01 in an amount not to exceed\n$700,000 and enter into an agreement with Syracuse Urban Partnership (SYRUP),\nfor the 2026-2027 Summer Fellows Program for stipends for youth to attend\nprogramming with partner agency sub grantees, to provide enrichment pro...",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": [
+        "$700,000"
+      ]
+    },
+    {
+      "number": 17,
+      "sponsors": [
+        "Caldwell"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 12,
+      "sponsors": [
+        "Caldwell"
+      ],
+      "description": "Amend — Ord. #158 (03/27/2023), “Contract — With Employee Network Inc., (ENI), to\nact as the City’s Employee Assistance Program (EAP), on behalf of the Office of\nPersonnel & Labor Relation, at the date of execution for a period of three (3) years,\nwith two (2) one-year renewal options with the appro...",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": [
+        "$200,000",
+        "$40,000",
+        "$3,666,666",
+        "$11,000,000",
+        "$5,000,000",
+        "$23,000,000"
+      ]
+    },
+    {
+      "number": 13,
+      "sponsors": [
+        "Majok"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 14,
+      "sponsors": [
+        "Majok"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 15,
+      "sponsors": [
+        "Majok"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 76,
+      "sponsors": [
+        "Majok"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 17,
+      "sponsors": [
+        "Majok"
+      ],
+      "description": "Authorize — The Extension of the 90-day.Street Closure of Comstock Avenue\nbetween Waverly Avenue and Marshall Street, toxrun from March 30, 2026-June 28,\n2026, for construction staging for Syracuse University resident hall project.",
+      "vote": "H",
+      "organizations": [
+        "Arcadis U.S. Inc."
+      ],
+      "people": [],
+      "departments": [],
+      "amounts": [
+        "$1,330,593",
+        "$1,800,000"
+      ]
+    },
+    {
+      "number": 18,
+      "sponsors": [
+        "Majok"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 19,
+      "sponsors": [
+        "Majok"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 20,
+      "sponsors": [
+        "Majok"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 27,
+      "sponsors": [
+        "Majok"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 22,
+      "sponsors": [
+        "Majok"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 23,
+      "sponsors": [
+        "Majok"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 24,
+      "sponsors": [
+        "Majok"
+      ],
+      "description": "Amend — Ord. #284 (5/22/2023) “Agreement — With NYS Department of\nTransportation for the Traffic Management Center Operation Program, PIN 3757.06,\nfor wages, consultant fees, software training, repairs along with other associated\ncosts, for the period of August 1, 2023-December 31, 2027.",
+      "vote": null,
+      "organizations": [
+        "NYS Department of Transportation",
+        "Barton &Loguidice"
+      ],
+      "people": [],
+      "departments": [
+        "Department of Public Works",
+        "Department of Engineering"
+      ],
+      "amounts": [
+        "$1,070,400",
+        "$267,600",
+        "$1,338,000,",
+        "$1,800,000",
+        "$20,000",
+        "$50,000",
+        "$302,000,",
+        "$312,000",
+        "$318,000,",
+        "$630,000",
+        "$312,000,",
+        "$3,541,000"
+      ]
+    },
+    {
+      "number": 25,
+      "sponsors": [
+        "Majok"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 26,
+      "sponsors": [
+        "Majok"
+      ],
+      "description": "Local Law — Of the City of Syracuse to grant a permanent easement to the\nOnondaga County Water Authority (OCWA) on the City’s property at the Syracuse\nHancock International Airport, located at 1000 Col.",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": [
+        "$1.00",
+        "$10,800,"
+      ]
+    },
+    {
+      "number": 27,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 28,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 29,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 30,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 37,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "Application — To the Dormitory Authority of New York State (DASNY) through the\nNew York Places for Learning, Activity, and Youth Socialization (NY PLAYS)\nInitiative, for a grant in an amount not to exceed $300,000.",
+      "vote": "H",
+      "organizations": [
+        "Broadcast Music Inc."
+      ],
+      "people": [],
+      "departments": [
+        "Department of Parks, Recreation & Youth Programs"
+      ],
+      "amounts": [
+        "$300,000",
+        "$60,000",
+        "$2,000",
+        "$5,000,",
+        "$55,000"
+      ]
+    },
+    {
+      "number": 32,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 33,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 34,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 35,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 36,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 37,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 38,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 39,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "Agreement — With Syracuse Orthopedic Specialists for athletic training (NATA-\ncertified) services as part of the 2026 Summer Recreation Program, to include\nphysician supervision and oversight along with supplies to coordinate and manage all\nfirst-aid services for five (5) summer youth clinics at var...",
+      "vote": null,
+      "organizations": [
+        "Syracuse Orthopedic Specialists"
+      ],
+      "people": [],
+      "departments": [
+        "Department of Parks, Recreation & Youth Programs"
+      ],
+      "amounts": [
+        "$35",
+        "$4,200,",
+        "$19,000",
+        "$250,000",
+        "$550,000",
+        "$550,",
+        "$445,000"
+      ]
+    },
+    {
+      "number": 40,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 41,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 42,
+      "sponsors": [
+        "Ehrenreich"
+      ],
+      "description": "Authorize — The 2026/2027 Parks Vehicles & Equipment Storage project, for\nreplacement vehicles, motorized equipment, attachments, storage improvements,\nincluding the purchase of five (5) new storage units, and related materials needed for\nPark’s grounds maintenance, forestry operations, special even...",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": [
+        "$445,000",
+        "$25,000"
+      ]
+    },
+    {
+      "number": 43,
+      "sponsors": [
+        "Hudson"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 44,
+      "sponsors": [
+        "Hudson"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 45,
+      "sponsors": [
+        "Hudson"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 46,
+      "sponsors": [
+        "Hudson"
+      ],
+      "description": "Bond Ordinance — Authorizing the issuance and sale of bonds to defray the cost of\nthe 2025/2026 PC, Security Camera and Phone System Improvement Project, as\ndetailed in Appendix A, on behalf of the Bureau of Information Technology. Total\namount not to exceed $405,000.",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [
+        "Information Technology"
+      ],
+      "amounts": [
+        "$405,000",
+        "$460,000",
+        "$250,000"
+      ]
+    },
+    {
+      "number": 47,
+      "sponsors": [
+        "Hudson"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 48,
+      "sponsors": [
+        "Hudson"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 49,
+      "sponsors": [
+        "Hudson"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 50,
+      "sponsors": [
+        "Hudson"
+      ],
+      "description": "Amend — Ord. #503 (06/23/2025), “Agreement — With Electronic Data Corporation\n(EDC), on behalf of API, for software and software support services related to the\nAutomated Inspection Management System (AIMS), for the period of one (1) year\nfrom July 1, 2025-June 30, 2026, with two (2) one (1) year re...",
+      "vote": null,
+      "organizations": [
+        "Clariti Cloud USA Inc, on behalf of Analytics, Performance, & Innovation, Division of Digital Services"
+      ],
+      "people": [],
+      "departments": [
+        "Division of Digital Services",
+        "Division of Purchase"
+      ],
+      "amounts": [
+        "$74,193",
+        "$77,902.50",
+        "$85,000",
+        "$45,671.63",
+        "$47,042.02",
+        "$79,545.45",
+        "$86,821.89"
+      ]
+    },
+    {
+      "number": 57,
+      "sponsors": [
+        "Hudson"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 52,
+      "sponsors": [
+        "Hudson"
+      ],
+      "description": "",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 53,
+      "sponsors": [
+        "Hudson"
+      ],
+      "description": "Amend — Ord. #717 (09/02/2025), “Agreement — With Edmunds GovTech, on behalf\nof the Office of Analytics, Performance & Innovation, for software and software\nsupport services, fo provide software solution for code enforcement, periodic\ninspections (fire etc.",
+      "vote": null,
+      "organizations": [
+        "Edmunds GovTech, on behalf of the Office of Analytics, Performance & Innovation",
+        "Granicus, on behalf of the Office of Analytics, Performance & Innovation",
+        "Azteca Systems"
+      ],
+      "people": [],
+      "departments": [
+        "Department of Analytics",
+        "Division of Digital Services",
+        "Department of Waterand Parks & Recreation"
+      ],
+      "amounts": [
+        "$44,000,",
+        "$45,315.19",
+        "$70,746.23"
+      ]
+    },
+    {
+      "number": 1,
+      "sponsors": [
+        "Hudson"
+      ],
+      "description": "2026-June 30, 2027. Total cost not to exceed $186,398.31, to be charged to\nAccount #540530.01.1240 ($109,018.31) and Account #540530.05.83400 ($77,380).",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": [
+        "$186,398.31",
+        "$109,018.31",
+        "$77,380"
+      ]
+    },
+    {
+      "number": 54,
+      "sponsors": [
+        "Nave"
+      ],
+      "description": "Resolution — To Recognize and Celebrate Tillie’s Touch for its outstanding\ncontributions to the City of Syracuse.",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [],
+      "amounts": []
+    },
+    {
+      "number": 55,
+      "sponsors": [
+        "Moore"
+      ],
+      "description": "Authorize — Intermunicipal. agreement with Onondaga County, on behalf of the\nDepartment of Fire, to accept grant funds to reimburse the Syracuse Fire Department\nfor HazMat training and exercise costs, payroll backfil/OT and consultant costs.",
+      "vote": null,
+      "organizations": [],
+      "people": [],
+      "departments": [
+        "Syracuse Fire Department",
+        "Department of Fire"
+      ],
+      "amounts": [
+        "$104,800"
+      ]
+    }
+  ],
+  "names_detected": {
+    "council_members": [
+      "Rita Paniagua",
+      "Dr. Chol Majok",
+      "Rasheada Caldwell",
+      "Hanah Ehrenreich",
+      "Helen Hudson",
+      "Marino L. Nave",
+      "Donna Moore",
+      "Michael Collins",
+      "Rachel May"
+    ],
+    "external_people": [],
+    "organizations": [
+      "Image Integrator",
+      "Arcadis U.S. Inc.",
+      "NYS Department of Transportation",
+      "Barton &Loguidice",
+      "Broadcast Music Inc.",
+      "Syracuse Orthopedic Specialists",
+      "Clariti Cloud USA Inc, on behalf of Analytics, Performance, & Innovation, Division of Digital Services",
+      "Edmunds GovTech, on behalf of the Office of Analytics, Performance & Innovation",
+      "Granicus, on behalf of the Office of Analytics, Performance & Innovation",
+      "Azteca Systems"
+    ]
+  }
+}

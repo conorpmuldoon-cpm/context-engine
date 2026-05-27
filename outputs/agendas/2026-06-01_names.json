@@ -1,0 +1,47 @@
+{
+  "date": "2026-06-01",
+  "source": "agenda_parse",
+  "names": [],
+  "organizations": [
+    {
+      "name": "Image Integrator",
+      "context": "Item 9"
+    },
+    {
+      "name": "Arcadis U.S. Inc.",
+      "context": "Item 17"
+    },
+    {
+      "name": "NYS Department of Transportation",
+      "context": "Item 24"
+    },
+    {
+      "name": "Barton &Loguidice",
+      "context": "Item 24"
+    },
+    {
+      "name": "Broadcast Music Inc.",
+      "context": "Item 37"
+    },
+    {
+      "name": "Syracuse Orthopedic Specialists",
+      "context": "Item 39"
+    },
+    {
+      "name": "Clariti Cloud USA Inc, on behalf of Analytics, Performance, & Innovation, Division of Digital Services",
+      "context": "Item 50"
+    },
+    {
+      "name": "Edmunds GovTech, on behalf of the Office of Analytics, Performance & Innovation",
+      "context": "Item 53"
+    },
+    {
+      "name": "Granicus, on behalf of the Office of Analytics, Performance & Innovation",
+      "context": "Item 53"
+    },
+    {
+      "name": "Azteca Systems",
+      "context": "Item 53"
+    }
+  ]
+}
