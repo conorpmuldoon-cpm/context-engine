@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-NEWS-2026-00126",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/05/ny-budget-funds-sewage-line-to-help-oswego-county-develop-30000-acres-near-micron.html",
+  "publication_date": "2026-05-28",
+  "capture_date": "2026-05-28T16:08:33Z",
+  "title": "NY budget funds sewage line to help Oswego County develop 30,000 acres near Micron",
+  "summary": "New York State budget legislation has approved funding for a major sewage pipeline infrastructure project across Oswego County designed to enable development of 30,000 acres adjacent to Micron Technology's facility. This state-level infrastructure investment directly impacts regional land-use planning and economic development capacity in Syracuse's broader ecosystem.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "sewer",
+    "economic-development",
+    "land-use",
+    "capital-planning",
+    "intergovernmental",
+    "state-mandates",
+    "housing",
+    "budget"
+  ],
+  "department_refs": [
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "New York State Legislature",
+      "type": "organization",
+      "canonical_id": "ORG-NYS-LEG"
+    },
+    {
+      "name": "Oswego County",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "State legislative budget commitment to regional infrastructure supporting Micron Technology corridor development indicates alignment between state priorities and Central New York economic development strategy",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on state-level action with direct implications for City of Syracuse regional planning context",
+    "No direct City budget impact detected but infrastructure enables private/regional development near major employer",
+    "Author Mark Weiner is Syracuse.com reporter covering Micron beat; article is from 2026 (future-dated)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
