@@ -1,0 +1,70 @@
+{
+  "record_id": "CTX-NEWS-2026-00127",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/05/ny-will-pay-115m-for-onondaga-county-sewage-plant-expansion-easing-burden-on-ratepayers.html",
+  "publication_date": "2026-05-29",
+  "capture_date": "2026-05-29T15:50:06Z",
+  "title": "NY will pay $115M for Onondaga County sewage plant expansion, easing burden on ratepayers",
+  "summary": "New York State will provide $115 million in funding for a major sewage plant expansion in Onondaga County to support Micron Technology's operations and anticipated population growth in Syracuse's northern suburbs. This state investment reduces the financial burden on local ratepayers for critical infrastructure capacity.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "sewer",
+    "infrastructure",
+    "capital-planning",
+    "economic-development",
+    "intergovernmental",
+    "state-agency",
+    "budget",
+    "facilities"
+  ],
+  "department_refs": [
+    "Department of Water, Waste & Pollution Control",
+    "Planning and Sustainability"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "New York State",
+      "type": "organization",
+      "canonical_id": "ORG-NYS"
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-CO"
+    },
+    {
+      "name": "Mark Weiner",
+      "type": "person",
+      "canonical_id": "PERSON-MARK-WEINER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "State-level financial commitment to regional infrastructure supporting major private sector economic development initiative; indicates priority alignment between state and local economic development goals.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount validated: $115 million (state contribution)",
+    "Infrastructure planning implications: CIO should coordinate with water/sewer departments on system capacity planning and potential IT/monitoring system upgrades",
+    "Micron expansion is catalyst for population growth projections—may impact demand forecasting for municipal digital services and 311 systems",
+    "Intergovernmental funding suggests potential grant management and reporting requirements",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
