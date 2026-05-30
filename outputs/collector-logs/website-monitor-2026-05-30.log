@@ -1,0 +1,24 @@
+2026-05-30 14:03:23,264 [INFO] ============================================================
+2026-05-30 14:03:23,264 [INFO] Website Monitor starting
+2026-05-30 14:03:23,872 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-05-30 14:03:23,872 [INFO]   Navigating to https://www.syr.gov/News
+2026-05-30 14:03:28,677 [INFO]   Found 10 article links in News
+2026-05-30 14:03:33,678 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-05-29-Infrastructure-News
+2026-05-30 14:03:45,255 [INFO]     Saved: CTX-WEB-2026-00144 → CTX-WEB-2026-00144.json
+2026-05-30 14:03:45,255 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-05-30 14:03:45,256 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-05-30 14:03:48,185 [INFO]   Found 0 article links in Announcements
+2026-05-30 14:03:53,185 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-05-30 14:03:53,185 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-05-30 14:03:56,302 [INFO]   Found 0 article links in Public Notices
+2026-05-30 14:04:01,346 [INFO] Website Monitor Run — 2026-05-30 14:04
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • City Of Syracuse Announces Start Of Midland Avenue Improvement Project
+
