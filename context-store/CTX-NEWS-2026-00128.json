@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00128",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/05/15-year-old-girl-shot-in-leg-man-hit-by-car-on-syracuses-north-side.html",
+  "publication_date": "2026-05-30",
+  "capture_date": "2026-05-30T13:47:46Z",
+  "title": "15-year-old girl shot in leg, man hit by car on Syracuse’s North Side",
+  "summary": "A 15-year-old girl was shot in the leg and a man was struck by a vehicle on Syracuse's North Side on May 30, 2026, after shots were fired at a moving car, causing it to crash. The incident involved public safety response by the Syracuse Police Department and raises questions about crime prevention and emergency response coordination in this neighborhood.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "emergency-services",
+    "public-safety-commission",
+    "residents",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Thomas Blake",
+      "type": "person",
+      "canonical_id": "PERSON-THOMAS-BLAKE"
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Violent crime incident on North Side may trigger constituent pressure for increased public safety resources and intervention strategies in affected neighborhoods.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on crime incident; limited innovation/CIO-specific content unless connected to crime data systems, ShotSpotter integration, or community safety technology initiatives",
+    "North Side geographic focus may be relevant for neighborhood-level data analysis or resource allocation studies",
+    "No budget, procurement, or IT system implications explicitly mentioned",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

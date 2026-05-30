@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00129",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/weather/2026/05/more-than-1000-homes-businesses-still-without-power-in-central-ny-due-to-storms.html",
+  "publication_date": "2026-05-30",
+  "capture_date": "2026-05-30T13:47:50Z",
+  "title": "More than 1,000 homes, businesses still without power in Central NY due to storms",
+  "summary": "A severe weather event on May 29-30, 2026 caused widespread power outages across Central NY, affecting over 12,000 customers at peak and leaving more than 1,000 without power by Saturday morning. High winds downed trees and utility lines in Onondaga and Oswego counties. This incident highlights infrastructure vulnerability and emergency response coordination needs for the CIO's digital services and facilities planning.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "emergency-services",
+    "infrastructure",
+    "IT-infrastructure",
+    "intergovernmental",
+    "trending",
+    "one-time"
+  ],
+  "department_refs": [
+    "Emergency Management",
+    "Department of Utilities"
+  ],
+  "entity_refs": [
+    {
+      "name": "National Grid",
+      "type": "organization",
+      "canonical_id": "ORG-NATIONAL-GRID"
+    },
+    {
+      "name": "Steven Billmyer",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Weather-related infrastructure failure affecting public service continuity; signals need for resilience planning, backup systems, and emergency communications capability.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is news reporting, not a city announcement or policy document",
+    "No city budget, contracts, or internal departments directly mentioned",
+    "Involves third-party utility provider (National Grid); city may have limited direct operational role",
+    "Relevant for CIO context: infrastructure resilience, emergency communications systems, potential GIS/outage mapping coordination",
+    "Geographic scope: Onondaga and Oswego counties (multi-jurisdiction)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2026-00130",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/05/over-12000-without-power-in-onondaga-and-oswego-counties-due-to-storm-and-high-winds.html",
+  "publication_date": "2026-05-30",
+  "capture_date": "2026-05-30T13:47:54Z",
+  "title": "Over 12,000 without power in Onondaga and Oswego counties due to storm and high winds",
+  "summary": "A severe weather event caused power outages affecting over 12,500 customers across Onondaga and Oswego counties on May 30, 2026, with National Grid reporting approximately 10,247 outages in Onondaga County and 2,259 in Oswego County. This incident highlights potential vulnerabilities in regional infrastructure resilience and may require coordination between the City, utility providers, and county emergency management.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "emergency-services",
+    "infrastructure",
+    "IT-infrastructure",
+    "intergovernmental",
+    "residents",
+    "trending"
+  ],
+  "department_refs": [
+    "Emergency Management",
+    "Department of Innovation and Technology"
+  ],
+  "entity_refs": [
+    {
+      "name": "National Grid",
+      "type": "organization",
+      "canonical_id": "ORG-NATIONAL-GRID"
+    },
+    {
+      "name": "Greta Stuckey",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Large-scale infrastructure failure affecting substantial residential population; may prompt review of utility coordination protocols and emergency response procedures.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2026-00129"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on utility outage rather than direct city government action; file for emergency preparedness and infrastructure resilience tracking.",
+    "Geographic scope spans two counties; relevant for intergovernmental coordination review.",
+    "No city government statements or response actions documented in source material.",
+    "PROVISIONAL tag escalating not applied; incident is reported but not yet linked to city escalation protocols.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-NEWS-2026-00129 — linked for review"
+  ],
+  "last_relevance_update": null
+}

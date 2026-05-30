@@ -1,0 +1,83 @@
+2026-05-30 13:47:40,299 [INFO] ============================================================
+2026-05-30 13:47:40,299 [INFO] News Scanner starting
+2026-05-30 13:47:40,300 [INFO] Fetching: Syracuse.com Politics
+2026-05-30 13:47:40,818 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-30 13:47:40,818 [INFO] Fetching: Syracuse.com Government
+2026-05-30 13:47:40,993 [INFO]   0 new articles from Syracuse.com Government
+2026-05-30 13:47:40,994 [INFO] Fetching: Syracuse.com Local
+2026-05-30 13:47:41,157 [INFO]   0 new articles from Syracuse.com Local
+2026-05-30 13:47:41,157 [INFO] Fetching: Syracuse.com Main
+2026-05-30 13:47:41,321 [INFO]   0 new articles from Syracuse.com Main
+2026-05-30 13:47:41,321 [INFO] Total unique articles across all feeds: 50
+2026-05-30 13:47:41,321 [INFO] New articles (not previously processed): 50
+2026-05-30 13:47:41,371 [DEBUG]   Filtered (not relevant): Polymarket invite code “CUSE” extends $50 Memorial Day bonus for UEFA and MLB th
+2026-05-30 13:47:41,371 [DEBUG]   Filtered (not relevant): Holes-in-one for Central New York golfers (as of May 29)
+2026-05-30 13:47:41,372 [DEBUG]   Filtered (not relevant): Dear Annie: Are mocktails for kids really just ‘training wheels’ for underage dr
+2026-05-30 13:47:41,372 [INFO]   Relevant: 15-year-old girl shot in leg, man hit by car on Syracuse’s North Side
+2026-05-30 13:47:41,372 [DEBUG]     → Departments: Syracuse Police Department
+2026-05-30 13:47:41,372 [DEBUG]     → Keywords: syracuse police
+2026-05-30 13:47:46,121 [INFO]     Saved: CTX-NEWS-2026-00128 → CTX-NEWS-2026-00128.json
+2026-05-30 13:47:46,122 [INFO]   Relevant: More than 1,000 homes, businesses still without power in Central NY due to storm
+2026-05-30 13:47:46,122 [DEBUG]     → Entities: National Grid
+2026-05-30 13:47:50,272 [INFO]     Saved: CTX-NEWS-2026-00129 → CTX-NEWS-2026-00129.json
+2026-05-30 13:47:50,272 [DEBUG]   Filtered (not relevant): Experts release new Spurs vs. Thunder Game 7 prediction as SGA, Wemby top Polyma
+2026-05-30 13:47:50,273 [DEBUG]   Filtered (not relevant): Where to watch PSG vs. Arsenal: Champions League final free stream
+2026-05-30 13:47:50,273 [DEBUG]   Filtered (not relevant): Ryan, Honeywell face rematch in primary for Onondaga County Legislature: Meet th
+2026-05-30 13:47:50,274 [DEBUG]   Filtered (not relevant): Asking Eric: One corner of the family keeps to themselves, even when we’re all t
+2026-05-30 13:47:50,274 [DEBUG]   Filtered (not relevant): Where to watch Canada vs. Finland in World Hockey Championships for free today
+2026-05-30 13:47:50,275 [DEBUG]   Filtered (not relevant): Henninger High School 2026 senior ball: See 122 prom photos
+2026-05-30 13:47:50,275 [DEBUG]   Filtered (not relevant): Cicero North Syracuse High School 2026 senior ball: See 149 prom photos
+2026-05-30 13:47:50,276 [DEBUG]   Filtered (not relevant): Oneida County real estate: 10 most expensive homes sold, May 18-24
+2026-05-30 13:47:50,276 [DEBUG]   Filtered (not relevant): 9 takeaways from the state budget for Central NY
+2026-05-30 13:47:50,277 [DEBUG]   Filtered (not relevant): Breakdown, predictions for West Genesee, Watertown in Section III Class AA baseb
+2026-05-30 13:47:50,277 [DEBUG]   Filtered (not relevant): Asking Eric: I’m aging, my memory is slipping, and I’m embarrassed that I keep m
+2026-05-30 13:47:50,278 [DEBUG]   Filtered (not relevant): Traffic stop escalates into police chase that leaves 1 dead, 3 injured in Upstat
+2026-05-30 13:47:50,278 [DEBUG]   Filtered (not relevant): Where to watch Coco Gauff vs. Anastasia Potapova: French Open stream
+2026-05-30 13:47:50,278 [DEBUG]   Filtered (not relevant): Bullock, Tarver compete for Onondaga County Legislature’s District 16 seat: Meet
+2026-05-30 13:47:50,279 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for May 30
+2026-05-30 13:47:50,279 [DEBUG]   Filtered (not relevant): Multiple NBC shows cancelled as network reshapes lineup for 2027
+2026-05-30 13:47:50,280 [DEBUG]   Filtered (not relevant): Dear Abby: I don’t think children of affairs have any business at funerals of th
+2026-05-30 13:47:50,280 [DEBUG]   Filtered (not relevant): Central NY weather: Gusty winds and morning showers give way to cooler, clearer 
+2026-05-30 13:47:50,280 [DEBUG]   Filtered (not relevant): This retro Upstate NY diner loved by locals is one of the best in America, ranki
+2026-05-30 13:47:50,281 [DEBUG]   Filtered (not relevant): Dear Abby: I’m happy here in the friend zone; why can’t you accept that and move
+2026-05-30 13:47:50,281 [DEBUG]   Filtered (not relevant): How to watch Section III boys lacrosse finals: Live stream, schedule, tickets
+2026-05-30 13:47:50,282 [DEBUG]   Filtered (not relevant): Where to watch Aryna Sabalenka vs. Daria Kasatkina: French Open stream
+2026-05-30 13:47:50,282 [DEBUG]   Filtered (not relevant): Experts adjust Spurs vs. Thunder Game 7 predictions with Jalen Williams, Ajay Mi
+2026-05-30 13:47:50,283 [DEBUG]   Filtered (not relevant): Mega Millions numbers: Are you the lucky winner of Friday’s $331 million jackpot
+2026-05-30 13:47:50,283 [DEBUG]   Filtered (not relevant): McGraw softball dethrones 2-time defending champ in C final: ‘Our biggest dream’
+2026-05-30 13:47:50,283 [DEBUG]   Filtered (not relevant): CNS softball rides ‘anyone can cook’ mentality back to AAA mountaintop with win 
+2026-05-30 13:47:50,284 [DEBUG]   Filtered (not relevant): A title 4 decades in the making as F-M edges West Genesee in AA softball final (
+2026-05-30 13:47:50,284 [DEBUG]   Filtered (not relevant): Cincinnatus continues perfect season with dramatic walkoff win in Class D softba
+2026-05-30 13:47:50,285 [DEBUG]   Filtered (not relevant): Marcellus softball pitcher’s unlikely season in the circle culminates in section
+2026-05-30 13:47:50,285 [DEBUG]   Filtered (not relevant): New $50 Polymarket invite code “CUSE” upgraded for UFC Fight Night Song vs. Figu
+2026-05-30 13:47:50,286 [DEBUG]   Filtered (not relevant): Update: The current severe thunderstorm warning for Delaware and Otsego counties
+2026-05-30 13:47:50,286 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for May 29
+2026-05-30 13:47:50,287 [DEBUG]   Filtered (not relevant): CBA powers past Liverpool to force Game 3 in AAA baseball series: ‘We wanted a b
+2026-05-30 13:47:50,287 [INFO]   Relevant: Over 12,000 without power in Onondaga and Oswego counties due to storm and high 
+2026-05-30 13:47:50,287 [DEBUG]     → Entities: National Grid
+2026-05-30 13:47:54,313 [INFO]     Dedup match: CTX-NEWS-2026-00129 — linking via cluster
+2026-05-30 13:47:54,313 [INFO]     Saved: CTX-NEWS-2026-00130 → CTX-NEWS-2026-00130.json
+2026-05-30 13:47:54,314 [DEBUG]   Filtered (not relevant): Update: Thunderstorms with damaging winds in Chenango and Cortland counties Frid
+2026-05-30 13:47:54,314 [DEBUG]   Filtered (not relevant): ‘Wildest game’ ever? New Hartford completes shocking 7-run comeback for Class A 
+2026-05-30 13:47:54,315 [DEBUG]   Filtered (not relevant): Phoenix high school 2026 junior senior prom: See 110 photos
+2026-05-30 13:47:54,315 [DEBUG]   Filtered (not relevant): Update: Weather alert for gusty showers in Southern Tier Friday night — gusts up
+2026-05-30 13:47:54,315 [DEBUG]   Filtered (not relevant): Update: Be prepared for strong thunderstorms and gusty showers in Mohawk Valley,
+2026-05-30 13:47:54,316 [DEBUG]   Filtered (not relevant): Is Taylor Swift in ‘Toy Story 5?’ All the clues she could be involved so far
+2026-05-30 13:47:54,317 [DEBUG]   Filtered (not relevant): Kalshi debuts $10 referral code SYRACUSE for Saturday’s UFC Fight Night: Song vs
+2026-05-30 13:47:54,317 [DEBUG]   Filtered (not relevant): Polymarket promo code “CUSE” updates new $50 bonus for MLB and NHL Game 6
+2026-05-30 13:47:54,318 [DEBUG]   Filtered (not relevant): Where to watch New York Yankees game today: MLB free live stream
+2026-05-30 13:47:54,318 [DEBUG]   Filtered (not relevant): How to watch the Dodgers game tonight: MLB free live stream
+2026-05-30 13:47:54,319 [DEBUG]   Filtered (not relevant): New Syracuse festival to launch next weekend in Salt Springs neighborhood
+2026-05-30 13:47:54,320 [INFO] News Scanner Run — 2026-05-30 13:47
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • 15-year-old girl shot in leg, man hit by car on Syracuse’s North Side
+  • More than 1,000 homes, businesses still without power in Central NY due to storm
+  • Over 12,000 without power in Onondaga and Oswego counties due to storm and high 
+
