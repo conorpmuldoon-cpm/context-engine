@@ -1,0 +1,8 @@
+2026-05-30 14:14:01,745 [INFO] === Agenda Scanner  — 2026 ===
+2026-05-30 14:14:01,746 [INFO] Already processed: 14 agendas
+2026-05-30 14:14:01,779 [INFO] Fetching agenda listing page for 2026...
+2026-05-30 14:14:32,265 [ERROR] Failed to load listing page: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.syr.gov/Departments/Common-Council/Common-Council-Agendas", waiting until "networkidle"
+
+2026-05-30 14:14:32,303 [INFO] No meeting pages found.
