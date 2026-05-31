@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-NEWS-2026-00131",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/05/donald-newhouse-cared-deeply-about-syracuse-local-news-and-su-students-editorial-board-opinion.html",
+  "publication_date": "2026-05-31",
+  "capture_date": "2026-05-31T13:53:20Z",
+  "title": "Donald Newhouse cared deeply about Syracuse, local news and SU students (Editorial Board Opinion)",
+  "summary": "Editorial tribute to Donald E. Newhouse (1929-2026), who significantly influenced Syracuse through media ownership (syracuse.com/The Post-Standard), major philanthropic commitments to Syracuse University's S.I. Newhouse School of Public Communications, and sustained investment in local journalism. The article highlights his legacy as a civic leader with deep institutional ties to both local media and higher education.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "business-community",
+    "historic-preservation"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Donald E. Newhouse",
+      "type": "person",
+      "canonical_id": "PERSON-DONALD-NEWHOUSE"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "S.I. Newhouse School of Public Communications",
+      "type": "organization",
+      "canonical_id": "ORG-NEWHOUSE-SCHOOL"
+    },
+    {
+      "name": "syracuse.com/The Post-Standard",
+      "type": "organization",
+      "canonical_id": "ORG-POST-STANDARD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Memorial editorial emphasizes local news sustainability and higher education investment as civic priorities; reflects community values alignment with media/education institutional leadership.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is obituary/tribute; no direct CIO operational relevance detected",
+    "No municipal departments, budgets, or policy changes mentioned",
+    "Historical significance for community context; primarily external stakeholder impact",
+    "Potential tangential interest if CIO office engages with media/communications strategy or SU partnerships",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

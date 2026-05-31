@@ -1,0 +1,75 @@
+2026-05-31 13:53:14,420 [INFO] ============================================================
+2026-05-31 13:53:14,420 [INFO] News Scanner starting
+2026-05-31 13:53:14,422 [INFO] Fetching: Syracuse.com Politics
+2026-05-31 13:53:15,001 [INFO]   50 new articles from Syracuse.com Politics
+2026-05-31 13:53:15,001 [INFO] Fetching: Syracuse.com Government
+2026-05-31 13:53:15,183 [INFO]   0 new articles from Syracuse.com Government
+2026-05-31 13:53:15,183 [INFO] Fetching: Syracuse.com Local
+2026-05-31 13:53:15,381 [INFO]   0 new articles from Syracuse.com Local
+2026-05-31 13:53:15,381 [INFO] Fetching: Syracuse.com Main
+2026-05-31 13:53:15,571 [INFO]   0 new articles from Syracuse.com Main
+2026-05-31 13:53:15,571 [INFO] Total unique articles across all feeds: 50
+2026-05-31 13:53:15,571 [INFO] New articles (not previously processed): 50
+2026-05-31 13:53:15,623 [DEBUG]   Filtered (not relevant): Polymarket invite code “CUSE” announces $50 bonus update for MLB, French Open, a
+2026-05-31 13:53:15,624 [DEBUG]   Filtered (not relevant): Dear Annie: Sister-in-law’s ‘nice little attempt at Thanksgiving’ remark was the
+2026-05-31 13:53:15,624 [DEBUG]   Filtered (not relevant): County Dems’ good governance proposals are fine — if they are applied equally (E
+2026-05-31 13:53:15,625 [DEBUG]   Filtered (not relevant): Asking Eric: At a birthday party for three different people, must I bring a gift
+2026-05-31 13:53:15,626 [DEBUG]   Filtered (not relevant): Where to watch Finland vs. Switzerland in World Hockey Championships for free to
+2026-05-31 13:53:15,626 [DEBUG]   Filtered (not relevant): Parent demands school district take public stand against hate incident
+2026-05-31 13:53:15,627 [DEBUG]   Filtered (not relevant): Editorial cartoons for May 31, 2026: Peace deal or no deal, Texas primary, Trump
+2026-05-31 13:53:15,627 [DEBUG]   Filtered (not relevant): How to watch Liverpool-CBA, West Genesee-Watertown in Section III baseball final
+2026-05-31 13:53:15,627 [DEBUG]   Filtered (not relevant): New movie filming in Syracuse area seeks ‘worn in’ house to be star
+2026-05-31 13:53:15,628 [DEBUG]   Filtered (not relevant): Central Square high school 2026 junior prom: See 116 photos
+2026-05-31 13:53:15,628 [DEBUG]   Filtered (not relevant): Skaneateles High School 2026 senior ball: See 59 prom photos
+2026-05-31 13:53:15,629 [DEBUG]   Filtered (not relevant): Baldwinsville high school 2026 senior ball: See 146 prom photos
+2026-05-31 13:53:15,629 [DEBUG]   Filtered (not relevant): Asking Eric: Wife refuses to ‘cut the apron strings’ to her adult, college gradu
+2026-05-31 13:53:15,629 [DEBUG]   Filtered (not relevant): Country star flips piano over in onstage meltdown
+2026-05-31 13:53:15,630 [DEBUG]   Filtered (not relevant): $925,000 for ranch condo: Plus 58 more Onondaga County home sales
+2026-05-31 13:53:15,630 [DEBUG]   Filtered (not relevant): Death, dismal care and a cover-up at Van Duyn (Top stories)
+2026-05-31 13:53:15,631 [INFO]   Relevant: Donald Newhouse cared deeply about Syracuse, local news and SU students (Editori
+2026-05-31 13:53:15,631 [DEBUG]     → Entities: Syracuse University
+2026-05-31 13:53:20,155 [INFO]     Saved: CTX-NEWS-2026-00131 → CTX-NEWS-2026-00131.json
+2026-05-31 13:53:20,156 [DEBUG]   Filtered (not relevant): Actress from hit ‘90s TV show reveals the shocking amount she makes in residuals
+2026-05-31 13:53:20,156 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for May 31
+2026-05-31 13:53:20,157 [DEBUG]   Filtered (not relevant): Trump fumes as judge orders his name to be removed from Kennedy Center
+2026-05-31 13:53:20,157 [DEBUG]   Filtered (not relevant): Central NY weather this week: Showers on Sunday, warming trend ahead
+2026-05-31 13:53:20,158 [DEBUG]   Filtered (not relevant): Dear Abby: Girlfriend loves to flaunt her accomplishments to demean me any time 
+2026-05-31 13:53:20,158 [DEBUG]   Filtered (not relevant): CNY Inspirations: Shadows and light
+2026-05-31 13:53:20,159 [DEBUG]   Filtered (not relevant): Bills' Ed Oliver sits out OTAs, studies Zach Allen film
+2026-05-31 13:53:20,159 [DEBUG]   Filtered (not relevant): Dear Abby: My husband and my sister hate each other so much, he stays at a hotel
+2026-05-31 13:53:20,160 [DEBUG]   Filtered (not relevant): Where to watch Marta Kostyuk vs. Iga Swiatek: French Open free stream
+2026-05-31 13:53:20,160 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Saturday’s $172 million drawing
+2026-05-31 13:53:20,161 [DEBUG]   Filtered (not relevant): Police seek public’s help locating missing Oneida County man
+2026-05-31 13:53:20,161 [DEBUG]   Filtered (not relevant): Section III high school sports scoreboard, stats leaders for May 30
+2026-05-31 13:53:20,161 [DEBUG]   Filtered (not relevant): Red Wings beat Mets behind Seaver King homer
+2026-05-31 13:53:20,162 [DEBUG]   Filtered (not relevant): New Polymarket invite code “CUSE” updates $50 bonus for Thunder, Spurs Game 7 li
+2026-05-31 13:53:20,162 [DEBUG]   Filtered (not relevant): Three people displaced after large house fire in Oswego County
+2026-05-31 13:53:20,163 [DEBUG]   Filtered (not relevant): Experts release new Stanley Cup Final predictions: Rod Brind’Amour and Hurricane
+2026-05-31 13:53:20,164 [DEBUG]   Filtered (not relevant): Kalshi upgrades $10 referral code SYRACUSE for Spurs-Thunder Game 7
+2026-05-31 13:53:20,164 [DEBUG]   Filtered (not relevant): $50 Polymarket referral code “CUSE” upgraded for Spurs vs. Thunder Game 7 in TX 
+2026-05-31 13:53:20,165 [DEBUG]   Filtered (not relevant): Most expensive homes sold in four Central NY counties from May 18 to 24
+2026-05-31 13:53:20,165 [DEBUG]   Filtered (not relevant): Seneca County real estate: 6 most expensive homes sold, May 18-24
+2026-05-31 13:53:20,166 [DEBUG]   Filtered (not relevant): Where to watch Mexico vs. Australia: International soccer free stream
+2026-05-31 13:53:20,166 [DEBUG]   Filtered (not relevant): Where to buy Hurricanes NHL Finals gear with free shipping today
+2026-05-31 13:53:20,166 [DEBUG]   Filtered (not relevant): West Genesee boys lacrosse keeps muddy tradition alive with 5th straight section
+2026-05-31 13:53:20,167 [DEBUG]   Filtered (not relevant): Where to watch Fever vs. Fire today: WNBA free live stream
+2026-05-31 13:53:20,167 [DEBUG]   Filtered (not relevant): Where to watch Spurs vs. Thunder Game 7: NBA Playoffs free stream
+2026-05-31 13:53:20,168 [DEBUG]   Filtered (not relevant): How to watch Toluca vs Tigres: Champions Cup final free stream
+2026-05-31 13:53:20,168 [DEBUG]   Filtered (not relevant): Trump physical exam results show weight gain, but ‘excellent health’
+2026-05-31 13:53:20,168 [DEBUG]   Filtered (not relevant): Regional flag football roundup: F-M punches ticket to state semis; Syracuse East
+2026-05-31 13:53:20,169 [DEBUG]   Filtered (not relevant): Marcellus lacrosse cements dynasty with 4th straight title, but hungers for stat
+2026-05-31 13:53:20,169 [DEBUG]   Filtered (not relevant): Legendary music mogul, 94, hospitalized in New York
+2026-05-31 13:53:20,170 [DEBUG]   Filtered (not relevant): Oscar-winning ‘Star Wars’ editor Marcia Lucas dies at 80
+2026-05-31 13:53:20,170 [DEBUG]   Filtered (not relevant): 16 team champions crowned after 4 days of Section III track class meets
+2026-05-31 13:53:20,170 [DEBUG]   Filtered (not relevant): Upstate NY officer found with cocaine in unmarked sheriff’s car on Thruway, troo
+2026-05-31 13:53:20,172 [INFO] News Scanner Run — 2026-05-31 13:53
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Donald Newhouse cared deeply about Syracuse, local news and SU students (Editori
+
