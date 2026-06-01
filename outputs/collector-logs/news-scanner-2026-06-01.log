@@ -1,0 +1,78 @@
+2026-06-01 17:48:44,218 [INFO] ============================================================
+2026-06-01 17:48:44,218 [INFO] News Scanner starting
+2026-06-01 17:48:44,220 [INFO] Fetching: Syracuse.com Politics
+2026-06-01 17:48:44,754 [INFO]   50 new articles from Syracuse.com Politics
+2026-06-01 17:48:44,754 [INFO] Fetching: Syracuse.com Government
+2026-06-01 17:48:44,961 [INFO]   0 new articles from Syracuse.com Government
+2026-06-01 17:48:44,961 [INFO] Fetching: Syracuse.com Local
+2026-06-01 17:48:45,143 [INFO]   0 new articles from Syracuse.com Local
+2026-06-01 17:48:45,143 [INFO] Fetching: Syracuse.com Main
+2026-06-01 17:48:45,321 [INFO]   0 new articles from Syracuse.com Main
+2026-06-01 17:48:45,321 [INFO] Total unique articles across all feeds: 50
+2026-06-01 17:48:45,321 [INFO] New articles (not previously processed): 50
+2026-06-01 17:48:45,370 [DEBUG]   Filtered (not relevant): NY takes new steps toward Hochul’s plan for a nuclear future
+2026-06-01 17:48:45,371 [DEBUG]   Filtered (not relevant): From New Century to Wake Up: Thoi Trang built his Vietnamese food empire from th
+2026-06-01 17:48:45,371 [DEBUG]   Filtered (not relevant): The new LEGO Shrek, Donkey, Puss in Boots just dropped for $130
+2026-06-01 17:48:45,372 [DEBUG]   Filtered (not relevant): Today’s obituary: Stanley ‘Stan’ Stanley, 106, served on B-24 bomber during WWII
+2026-06-01 17:48:45,372 [DEBUG]   Filtered (not relevant): Where to watch Tennessee vs. Texas WCWS semifinal for free today
+2026-06-01 17:48:45,372 [DEBUG]   Filtered (not relevant): World Cup 2026: Former Syracuse men’s soccer star makes Canada’s roster
+2026-06-01 17:48:45,373 [DEBUG]   Filtered (not relevant): Miss Manners: Housekeeper just gave my grad a very generous cash gift; you see m
+2026-06-01 17:48:45,373 [DEBUG]   Filtered (not relevant): Miss Manners: Is it true that you should never clap for speakers at Memorial Day
+2026-06-01 17:48:45,374 [DEBUG]   Filtered (not relevant): The Oura Ring 4 in ‘Midnight’ is new at Target, and it’s already 20% off
+2026-06-01 17:48:45,374 [DEBUG]   Filtered (not relevant): New York farmers asking federal government for help after spring freeze wiped ou
+2026-06-01 17:48:45,375 [DEBUG]   Filtered (not relevant): Indigenous nations do not consent to NY’s nuke ambitions (Guest Opinion by Abrah
+2026-06-01 17:48:45,375 [DEBUG]   Filtered (not relevant): Breakdown, predictions for Oriskany, McGraw in Section III Class D baseball fina
+2026-06-01 17:48:45,376 [DEBUG]   Filtered (not relevant): Recent Upstate NY college graduate detained by ICE while trying to fly home from
+2026-06-01 17:48:45,376 [DEBUG]   Filtered (not relevant): New York passes Tier 6 changes. Here’s what they are.
+2026-06-01 17:48:45,377 [DEBUG]   Filtered (not relevant): New $50 Polymarket invite code “CUSE” extended in NY, FL for MLB matchups this J
+2026-06-01 17:48:45,377 [DEBUG]   Filtered (not relevant): MAGA rally to replace canceled performances at 250th celebration?
+2026-06-01 17:48:45,378 [DEBUG]   Filtered (not relevant): Walmart’s ‘Overall Pick’ $240 robot cleaner is less than $90 in rare deal
+2026-06-01 17:48:45,378 [DEBUG]   Filtered (not relevant): Breakdown, predictions for Beaver River, West Canada Valley in Section III Class
+2026-06-01 17:48:45,378 [DEBUG]   Filtered (not relevant): New York is having ‘significant' discussions about bringing the Winter Olympics 
+2026-06-01 17:48:45,379 [DEBUG]   Filtered (not relevant): Nationals’ former 1st-round pick homers twice, but Syracuse Mets win at Rocheste
+2026-06-01 17:48:45,379 [DEBUG]   Filtered (not relevant): Experts release new Mets vs. Mariners prediction after New York completes sweep 
+2026-06-01 17:48:45,380 [DEBUG]   Filtered (not relevant): The 10 best concerts in the Syracuse amphitheater’s first 10 years, ranked
+2026-06-01 17:48:45,380 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: The $5 summer comfort trick nobody talks about will actuall
+2026-06-01 17:48:45,380 [DEBUG]   Filtered (not relevant): Photos you’ll want to see from Central New York high school spring sports (Week 
+2026-06-01 17:48:45,381 [DEBUG]   Filtered (not relevant): Breakdown, predictions for Bishop Ludden-Grimes, Utica Notre Dame in Section III
+2026-06-01 17:48:45,381 [DEBUG]   Filtered (not relevant): We need rent stabilization in cities like Syracuse (Guest Opinion by Jasmine Gri
+2026-06-01 17:48:45,382 [DEBUG]   Filtered (not relevant): Dear Annie: As dad nears end of life, cracks show in blended family when it come
+2026-06-01 17:48:45,382 [DEBUG]   Filtered (not relevant): Breakdown, predictions for Cortland, New Hartford in Section III Class A basebal
+2026-06-01 17:48:45,383 [DEBUG]   Filtered (not relevant): Dave Shullick Jr. wins 75th season opener at Oswego Speedway
+2026-06-01 17:48:45,383 [DEBUG]   Filtered (not relevant): Section III boys lacrosse sectional playoff stats leaders (through May 30)
+2026-06-01 17:48:45,384 [DEBUG]   Filtered (not relevant): Dear Doctor: Diagnosed with hemicrania continua; am I really in for a years-long
+2026-06-01 17:48:45,384 [INFO]   Relevant: Highest-paid Syracuse city workers, ranked: Search pay for all
+2026-06-01 17:48:45,384 [DEBUG]     → Keywords: city of syracuse
+2026-06-01 17:48:49,664 [INFO]     Saved: CTX-NEWS-2026-00132 → CTX-NEWS-2026-00132.json
+2026-06-01 17:48:49,664 [DEBUG]   Filtered (not relevant): Jason Mraz is still yours and more (Syracuse concert review, photos, setlist)
+2026-06-01 17:48:49,665 [DEBUG]   Filtered (not relevant): See 702 prom photos from this weekend in Central NY; plus thousands more
+2026-06-01 17:48:49,665 [DEBUG]   Filtered (not relevant): Why we think fubo is the best way to stream the Yankees in 2026
+2026-06-01 17:48:49,666 [DEBUG]   Filtered (not relevant): Asking Eric: Friends are happy for moving help, but ghost us when we need the sa
+2026-06-01 17:48:49,666 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for June 1
+2026-06-01 17:48:49,667 [DEBUG]   Filtered (not relevant): Parent demands apology over school’s handling of hate incident (Good Morning CNY
+2026-06-01 17:48:49,667 [DEBUG]   Filtered (not relevant): Asking Eric: I feel for aging, childless, widowed aunt, but I’m not looking for 
+2026-06-01 17:48:49,668 [DEBUG]   Filtered (not relevant): Central NY weather: A gorgeous week ahead, with mild temperatures and dry condit
+2026-06-01 17:48:49,668 [DEBUG]   Filtered (not relevant): Taste of Syracuse, Paige’s Butterfly Run: 16 things to do this week in Central N
+2026-06-01 17:48:49,669 [INFO]   Relevant: The unlikely story of how a tiny bat forever linked Micron with Destiny USA’s fo
+2026-06-01 17:48:49,669 [DEBUG]     → Entities: Micron Technology
+2026-06-01 17:48:54,653 [INFO]     Saved: CTX-NEWS-2026-00133 → CTX-NEWS-2026-00133.json
+2026-06-01 17:48:54,654 [DEBUG]   Filtered (not relevant): Dear Abby: 55-plus community is a gossipy, cliquey nightmare and I want out of h
+2026-06-01 17:48:54,655 [DEBUG]   Filtered (not relevant): Dear Abby: I think my boyfriend only wants to shack up because he can’t pay the 
+2026-06-01 17:48:54,655 [DEBUG]   Filtered (not relevant): Prepare for dense fog in parts of Upstate NY until Monday morning
+2026-06-01 17:48:54,656 [DEBUG]   Filtered (not relevant): West Genesee ace throws legacy-defining shutout to seal 3-peat: ‘We’re not finis
+2026-06-01 17:48:54,656 [DEBUG]   Filtered (not relevant): Polymarket upgrades $50 invite code “CUSE” for World Cup, NHL, and NBA Finals
+2026-06-01 17:48:54,657 [DEBUG]   Filtered (not relevant): Experts release new Stanley Cup Final projections with Mitch Marner leading the 
+2026-06-01 17:48:54,657 [DEBUG]   Filtered (not relevant): See homes sold in four Central NY counties, May 18 to 24
+2026-06-01 17:48:54,658 [DEBUG]   Filtered (not relevant): $50 Polymarket referral code “CUSE” updated for all sports in NY, MI, IL, and TX
+2026-06-01 17:48:54,660 [INFO] News Scanner Run — 2026-06-01 17:48
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Highest-paid Syracuse city workers, ranked: Search pay for all
+  • The unlikely story of how a tiny bat forever linked Micron with Destiny USA’s fo
+

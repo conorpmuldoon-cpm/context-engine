@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00132",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/data/2026/06/highest-paid-syracuse-city-workers-ranked-search-pay-for-over-2400-employees.html",
+  "publication_date": "2026-06-01",
+  "capture_date": "2026-06-01T17:48:49Z",
+  "title": "Highest-paid Syracuse city workers, ranked: Search pay for all",
+  "summary": "Syracuse.com published a ranked analysis of highest-paid city workers in 2025, revealing that police officers dominated the top compensation positions. This transparency report provides public access to salary data for over 2,400 city employees and may inform workforce planning and budget discussions for the Innovation Office.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "payroll",
+    "police",
+    "transparency",
+    "data-governance",
+    "workforce-development"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Kevin Tampone",
+      "type": "person",
+      "canonical_id": "PERSON-KEVIN-TAMPONE"
+    },
+    {
+      "name": "Syracuse.com",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-COM"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public salary ranking highlights compensation distribution across city workforce, particularly concentration in police department; typical trigger for budget transparency discussions and potential equity/labor relations inquiries.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article headline references searchable database of 2,400+ employees; full compensation data not provided in excerpt",
+    "Publication date 2026-06-01 is future-dated; verify for currency",
+    "No specific dollar amounts extracted from provided content; recommend accessing full linked database",
+    "Potential connection to workforce planning, labor-relations discussions, and budget equity analysis",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

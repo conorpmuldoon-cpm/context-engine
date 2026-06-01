@@ -1,0 +1,73 @@
+{
+  "record_id": "CTX-NEWS-2026-00133",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/06/the-unlikely-story-of-how-a-tiny-bat-forever-linked-micron-with-destiny-usas-founder.html",
+  "publication_date": "2026-06-01",
+  "capture_date": "2026-06-01T17:48:54Z",
+  "title": "The unlikely story of how a tiny bat forever linked Micron with Destiny USA’s founder",
+  "summary": "Micron Technology's proposed flagship U.S. chipmaking facility in Clay, NY triggered environmental discovery of an Indiana bat maternity roost on the site. The finding links the major economic development project to endangered species protections and potential regulatory implications for the City's innovation infrastructure ambitions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "land-use",
+    "sustainability",
+    "federal-programs",
+    "PROVISIONAL:environmental-compliance",
+    "PROVISIONAL:endangered-species"
+  ],
+  "department_refs": [
+    "Planning and Sustainability",
+    "Permitting and Compliance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Glenn Coin",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Destiny USA founder",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "City of Clay, NY",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Indiana bat (endangered species)",
+      "type": "system",
+      "canonical_id": "PROVISIONAL:SPECIES-INDIANA-BAT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Environmental discovery during site evaluation for major corporate investment creates regulatory scrutiny; tension between economic development priority and federal endangered species protections likely to emerge",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date is 2026-06-01 (future date — verify currency)",
+    "Destiny USA founder reference suggests secondary stakeholder context not detailed in excerpt",
+    "Primary location is Clay, NY (adjacent municipality) but has direct CIO implications for regional economic development strategy",
+    "Environmental compliance outcome (permitting path forward) not yet disclosed in article",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
