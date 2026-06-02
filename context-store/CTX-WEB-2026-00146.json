@@ -1,0 +1,96 @@
+{
+  "record_id": "CTX-WEB-2026-00146",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-06-02-Mayors-Office-News-830AM",
+  "publication_date": "2026-06-02",
+  "capture_date": "2026-06-02T16:54:49Z",
+  "title": "Mayor Owens Announces Annual Tour for Safe and Healthy Housing",
+  "summary": "Mayor Owens announces Healthy Housing 101, an annual educational tour hosted by the Division of Code Enforcement on June 16, 2026, at 324 Academy Place. The event features tours of a vacant home to educate residents on common code violations (lead, exterior/interior issues) and provides access to city resources and community agency support for safe and healthy housing maintenance.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "code-enforcement",
+    "housing",
+    "lead-remediation",
+    "initiative-launch",
+    "residents",
+    "training"
+  ],
+  "department_refs": [
+    "Division of Code Enforcement",
+    "Central Permit Office",
+    "Zoning Administration",
+    "Fire Prevention",
+    "Police Department",
+    "Office of Neighborhood and Business Development",
+    "Water Department",
+    "Municipal Violations Bureau"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Greater Syracuse Land Bank",
+      "type": "organization",
+      "canonical_id": "ORG-GSLAND-BANK"
+    },
+    {
+      "name": "Home HeadQuarters",
+      "type": "organization",
+      "canonical_id": "ORG-HOME-HQ"
+    },
+    {
+      "name": "CNY Lead Testing",
+      "type": "organization",
+      "canonical_id": "ORG-CNY-LEAD"
+    },
+    {
+      "name": "Lead Safe CNY",
+      "type": "organization",
+      "canonical_id": "ORG-LEAD-SAFE-CNY"
+    },
+    {
+      "name": "PEACE Inc.",
+      "type": "organization",
+      "canonical_id": "ORG-PEACE-INC"
+    },
+    {
+      "name": "Salvation Army",
+      "type": "organization",
+      "canonical_id": "ORG-SALVATION-ARMY"
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor's office elevates housing safety and code enforcement as civic priority through public education and multi-agency coordination; signals commitment to constituent support and transparent city operations.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in source metadata",
+    "Department references extracted from staff/resource list provided in event description rather than formal departmental bylines",
+    "No budget or contract data present",
+    "Event registration via goto.syr.gov URL suggests digital service integration",
+    "Multi-agency collaboration indicates intergovernmental coordination approach",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-WEB-2026-00145",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Parks-News/Parks-2026/2026-06-02-Parks-News",
+  "publication_date": "2026-06-02",
+  "capture_date": "2026-06-02T16:54:36Z",
+  "title": "City Parks to Host Public Meetings for Potential Playground Projects",
+  "summary": "The Syracuse Department of Parks, Recreation & Youth Programs will host three public meetings (June 11, 18, and 25, 2026) to gather community feedback on playground redesigns and amenity additions at Barry Park, Elmwood Park, and Cummings Field. Online engagement forms are available for residents unable to attend. Commissioner Syeisha Byrd emphasizes community-driven design reflecting park users' needs.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "parks",
+    "announcement",
+    "residents",
+    "community-engagement",
+    "capital-planning",
+    "initiative-launch",
+    "equity"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation and Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Syeisha Byrd",
+      "type": "person",
+      "canonical_id": "PERSON-SYEISHA-BYRD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Community engagement initiative demonstrates commitment to participatory planning and equity-centered park design; aligns with mayoral administration values around resident voice in city improvements.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No budget figures provided; capital project scope and funding source not disclosed in release",
+    "Three distinct project sites with staggered meeting dates facilitate geographic access",
+    "Digital-first alternative (online forms) addresses accessibility and inclusion concerns",
+    "Weather contingency planning noted; rain relocation details to be announced via social media",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'community-engagement' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

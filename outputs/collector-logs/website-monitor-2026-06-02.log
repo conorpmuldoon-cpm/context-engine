@@ -1,0 +1,28 @@
+2026-06-02 16:54:12,292 [INFO] ============================================================
+2026-06-02 16:54:12,292 [INFO] Website Monitor starting
+2026-06-02 16:54:14,977 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-06-02 16:54:14,977 [INFO]   Navigating to https://www.syr.gov/News
+2026-06-02 16:54:19,692 [INFO]   Found 10 article links in News
+2026-06-02 16:54:24,692 [DEBUG]   Fetching: https://www.syr.gov/News/Parks-News/Parks-2026/2026-06-02-Parks-News
+2026-06-02 16:54:36,488 [WARNING]     Tag issue: Unknown tag 'community-engagement' not in taxonomy
+2026-06-02 16:54:36,500 [INFO]     Saved: CTX-WEB-2026-00145 → CTX-WEB-2026-00145.json
+2026-06-02 16:54:36,500 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-06-02-Mayors-Office-News-830AM
+2026-06-02 16:54:49,122 [INFO]     Saved: CTX-WEB-2026-00146 → CTX-WEB-2026-00146.json
+2026-06-02 16:54:49,122 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-06-02 16:54:49,122 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-06-02 16:54:52,105 [INFO]   Found 0 article links in Announcements
+2026-06-02 16:54:57,105 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-06-02 16:54:57,105 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-06-02 16:55:00,439 [INFO]   Found 0 article links in Public Notices
+2026-06-02 16:55:05,482 [INFO] Website Monitor Run — 2026-06-02 16:55
+==================================================
+Sections scanned: 3
+New pages found: 2
+Saved as records: 2
+Already processed: 8
+Errors: 0
+
+New records:
+  • City Parks to Host Public Meetings for Potential Playground Projects
+  • Mayor Owens Announces Annual Tour for Safe and Healthy Housing
+
