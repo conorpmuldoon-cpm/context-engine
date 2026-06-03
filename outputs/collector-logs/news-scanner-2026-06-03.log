@@ -1,0 +1,79 @@
+2026-06-03 16:57:13,141 [INFO] ============================================================
+2026-06-03 16:57:13,141 [INFO] News Scanner starting
+2026-06-03 16:57:13,142 [INFO] Fetching: Syracuse.com Politics
+2026-06-03 16:57:13,666 [INFO]   50 new articles from Syracuse.com Politics
+2026-06-03 16:57:13,667 [INFO] Fetching: Syracuse.com Government
+2026-06-03 16:57:13,822 [INFO]   0 new articles from Syracuse.com Government
+2026-06-03 16:57:13,822 [INFO] Fetching: Syracuse.com Local
+2026-06-03 16:57:13,958 [INFO]   0 new articles from Syracuse.com Local
+2026-06-03 16:57:13,958 [INFO] Fetching: Syracuse.com Main
+2026-06-03 16:57:14,108 [INFO]   0 new articles from Syracuse.com Main
+2026-06-03 16:57:14,108 [INFO] Total unique articles across all feeds: 50
+2026-06-03 16:57:14,109 [INFO] New articles (not previously processed): 50
+2026-06-03 16:57:14,158 [DEBUG]   Filtered (not relevant): Ford recalls 420,000 SUVs, issues ‘do-not-drive’ order for two models
+2026-06-03 16:57:14,159 [DEBUG]   Filtered (not relevant): Tony Danza brings ‘Sinatra & Stories’ to Niagara Falls this month: How to get la
+2026-06-03 16:57:14,160 [DEBUG]   Filtered (not relevant): Gochujang buttered noodles
+2026-06-03 16:57:14,160 [DEBUG]   Filtered (not relevant): Oven-roasted chicken shawarma
+2026-06-03 16:57:14,161 [DEBUG]   Filtered (not relevant): Spicy sesame noodles with chicken and peanuts
+2026-06-03 16:57:14,162 [DEBUG]   Filtered (not relevant): Lemon potato salad with mint
+2026-06-03 16:57:14,162 [DEBUG]   Filtered (not relevant): Smoky red devil eggs
+2026-06-03 16:57:14,162 [DEBUG]   Filtered (not relevant): Owala just dropped an exciting new bag collection starting at $40
+2026-06-03 16:57:14,163 [DEBUG]   Filtered (not relevant): Today’s obituary: Dan Duggan, 69, was a champion hammered dulcimer player
+2026-06-03 16:57:14,163 [DEBUG]   Filtered (not relevant): Actor who appeared on popular sitcom sentenced to 32 years in prison
+2026-06-03 16:57:14,163 [DEBUG]   Filtered (not relevant): Vote for my candidate: Matthew Doran, James Corl, Maurice Brown (Your Letters)
+2026-06-03 16:57:14,164 [DEBUG]   Filtered (not relevant): Section III champions rise in latest state baseball rankings
+2026-06-03 16:57:14,164 [DEBUG]   Filtered (not relevant): One of Syracuse’s biggest pizza secrets is out: Pavone’s owner bought Paladino’s
+2026-06-03 16:57:14,164 [DEBUG]   Filtered (not relevant): Missed Part 2 of the ‘Summer House’ Reunion? Here’s where to watch for free now
+2026-06-03 16:57:14,165 [DEBUG]   Filtered (not relevant): Section III’s state semifinalist climbs in latest high school flag football stat
+2026-06-03 16:57:14,165 [DEBUG]   Filtered (not relevant): Where to watch Matteo Berrettini vs. Matteo Arnaldi: French Open stream
+2026-06-03 16:57:14,166 [DEBUG]   Filtered (not relevant): Final syracuse.com 2026 high school baseball rankings: Surprise champions reach 
+2026-06-03 16:57:14,166 [DEBUG]   Filtered (not relevant): Videos of people entering NYC sewers at night baffle residents, investigators
+2026-06-03 16:57:14,167 [DEBUG]   Filtered (not relevant): Music legend’s tour could be in trouble following ‘upsetting’ discovery: ‘I don’
+2026-06-03 16:57:14,167 [DEBUG]   Filtered (not relevant): Ninja’s Woodfire Outdoor Grill and Smoker is finally on sale at Target
+2026-06-03 16:57:14,168 [DEBUG]   Filtered (not relevant): Miss Manners: I asked a big favor without realizing you were grieving; I really 
+2026-06-03 16:57:14,168 [DEBUG]   Filtered (not relevant): Miss Manners: Why, yes, you have done something to offend me; how to say that, p
+2026-06-03 16:57:14,169 [DEBUG]   Filtered (not relevant): Amputees & prosthetic limbs: "So much they go through emotionally" (Enable: The 
+2026-06-03 16:57:14,169 [DEBUG]   Filtered (not relevant): See who’s graduating from Manlius Pebble Hill School; plus Q&As with 2 top stude
+2026-06-03 16:57:14,170 [DEBUG]   Filtered (not relevant): New $50 Polymarket invite code “CUSE” upgraded in NY, TX for Knicks, Spurs NBA F
+2026-06-03 16:57:14,170 [DEBUG]   Filtered (not relevant): Upstate NY museum changes photo policy, with fees up to $600
+2026-06-03 16:57:14,171 [DEBUG]   Filtered (not relevant): Walmart’s best-selling inflatable paddle board is less than $110 in stellar deal
+2026-06-03 16:57:14,172 [DEBUG]   Filtered (not relevant): Experts release new Knicks vs. Spurs Game 1 prediction as Polymarket traders dou
+2026-06-03 16:57:14,172 [DEBUG]   Filtered (not relevant): George Santos reported to prosecutors over suspicious Kalshi trades
+2026-06-03 16:57:14,173 [DEBUG]   Filtered (not relevant): Taste of Syracuse 2026: Everything you need to know ($2 sample menu, music sched
+2026-06-03 16:57:14,173 [DEBUG]   Filtered (not relevant): NY Democrats take first steps toward aggressive 2028 redistricting plan
+2026-06-03 16:57:14,173 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: Home equity scams, and the red flags you need to look out f
+2026-06-03 16:57:14,174 [DEBUG]   Filtered (not relevant): Three teens accused of killing friend in failed drive-by offered plea deals
+2026-06-03 16:57:14,174 [INFO]   Relevant: Central New York Community Foundation adds executive officer to lead its Micron 
+2026-06-03 16:57:14,174 [DEBUG]     → Entities: Micron Technology
+2026-06-03 16:57:14,174 [DEBUG]     → Departments: Department of Permits and Development
+2026-06-03 16:57:17,706 [INFO]     Saved: CTX-NEWS-2026-00134 → CTX-NEWS-2026-00134.json
+2026-06-03 16:57:17,707 [DEBUG]   Filtered (not relevant): Cerio Law Offices hires Kevin Favreau as attorney
+2026-06-03 16:57:17,707 [DEBUG]   Filtered (not relevant): See who is graduating from Baldwinsville Christian Academy; plus Q&As with 2 top
+2026-06-03 16:57:17,707 [DEBUG]   Filtered (not relevant): Former New York trooper sentenced to prison for crash that killed 11-year-old gi
+2026-06-03 16:57:17,708 [INFO]   Relevant: See highest-paid workers in Syracuse schools; search every salary
+2026-06-03 16:57:17,708 [DEBUG]     → Entities: Syracuse City School District
+2026-06-03 16:57:21,345 [ERROR]     Schema error: Schema validation: 'transparency' is not one of ['championship', 'opposition', 'scrutiny', 'constituent_pressure', 'priority_alignment', 'budget_commitment']
+2026-06-03 16:57:21,350 [ERROR]     Cannot fix schema errors for See highest-paid workers in Syracuse schools; search every s — skipping
+2026-06-03 16:57:21,350 [DEBUG]   Filtered (not relevant): ‘You are evil’: Republicans clash over race for Stefanik’s seat in Upstate NY
+2026-06-03 16:57:21,351 [DEBUG]   Filtered (not relevant): Section III baseball sectional playoff pitching leaders (through June 1)
+2026-06-03 16:57:21,351 [DEBUG]   Filtered (not relevant): Grammy-winning singer, beloved for Disney hits, dies at 75
+2026-06-03 16:57:21,352 [DEBUG]   Filtered (not relevant): Dear Doctor: Husband thinks he’s facing a medical death sentence; none of us rea
+2026-06-03 16:57:21,352 [DEBUG]   Filtered (not relevant): Section III baseball sectional playoff hitting leaders (through June 1)
+2026-06-03 16:57:21,352 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for June 3
+2026-06-03 16:57:21,353 [DEBUG]   Filtered (not relevant): What’s going on with Bill Aris at Fayetteville-Manlius?
+2026-06-03 16:57:21,353 [DEBUG]   Filtered (not relevant): Asking Eric: Dying is a personal thing; you can’t expect someone to tailor it to
+2026-06-03 16:57:21,354 [DEBUG]   Filtered (not relevant): Kind stranger saves two girls’ summer plans; more top stories (Good Morning CNY)
+2026-06-03 16:57:21,354 [DEBUG]   Filtered (not relevant): New York trust claims $3 million Mega Millions prize after a multiplier tripled 
+2026-06-03 16:57:21,355 [DEBUG]   Filtered (not relevant): Asking Eric: I thought I was on good terms with my kids after divorce; suddenly 
+2026-06-03 16:57:21,355 [DEBUG]   Filtered (not relevant): After a week of beautiful weather, Central NY residents should expect a soggy we
+2026-06-03 16:57:21,357 [INFO] News Scanner Run — 2026-06-03 16:57
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Central New York Community Foundation adds executive officer to lead its Micron 
+

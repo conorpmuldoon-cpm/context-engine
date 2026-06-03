@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2026-00134",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/06/central-new-york-community-foundation-adds-executive-officer-to-lead-its-micron-jobs-drive.html",
+  "publication_date": "2026-06-03",
+  "capture_date": "2026-06-03T16:57:17Z",
+  "title": "Central New York Community Foundation adds executive officer to lead its Micron jobs drive",
+  "summary": "The Central New York Community Foundation has hired an executive officer to lead workforce development and job training initiatives tied to Micron Technology's planned semiconductor campus in Clay. This reflects regional economic development strategy focused on preparing workers for major advanced manufacturing employment opportunities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "workforce-development",
+    "training",
+    "initiative-launch",
+    "business-community"
+  ],
+  "department_refs": [
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Central New York Community Foundation",
+      "type": "organization",
+      "canonical_id": "ORG-CNYCF"
+    },
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Renee Fox",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Regional leadership aligning resources behind Micron campus as economic development priority through workforce preparation",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is announcement-focused; specific hire name not provided in excerpt",
+    "Clay location referenced but not Syracuse proper—regional economic development implication",
+    "No budget figures or timeline details in provided content",
+    "Foundation initiative suggests public-private partnership model for workforce readiness",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
