@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00136",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/us-news/2026/06/house-approves-war-powers-resolution-to-halt-military-action-against-iran-rebuking-trump.html",
+  "publication_date": "2026-06-04",
+  "capture_date": "2026-06-04T15:24:18Z",
+  "title": "House approves war powers resolution to halt military action against Iran, rebuking Trump",
+  "summary": "This article reports on a U.S. House vote approving a war powers resolution to halt military action against Iran, representing a bipartisan rebuke of President Trump. While primarily a federal legislative matter, it may have indirect implications for Syracuse constituent services, emergency preparedness alignment, and intergovernmental coordination if escalation occurs.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "legislation",
+    "intergovernmental",
+    "federal-programs"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "U.S. House of Representatives",
+      "type": "organization",
+      "canonical_id": "ORG-US-HOUSE"
+    },
+    {
+      "name": "Donald Trump",
+      "type": "person",
+      "canonical_id": "PERSON-DONALD-TRUMP"
+    },
+    {
+      "name": "Iran",
+      "type": "organization",
+      "canonical_id": "ORG-IRAN"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Congressional check on executive military authority; bipartisan action signals legislative oversight of war powers",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily federal/national news with limited direct relevance to Syracuse municipal operations",
+    "No local Syracuse impact identified in content",
+    "Classified as procedural due to institutional governance focus rather than advocacy or community policy impact",
+    "May warrant monitoring only if constituent inquiries arise regarding federal emergency response coordination",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

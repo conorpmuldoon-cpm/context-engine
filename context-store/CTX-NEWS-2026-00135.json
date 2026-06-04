@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-NEWS-2026-00135",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/state/2026/06/upstate-ny-bus-systems-face-reliability-funding-challenges-comptroller-calls-for-more-centro-transparency.html",
+  "publication_date": "2026-06-04",
+  "capture_date": "2026-06-04T15:24:14Z",
+  "title": "Upstate NY bus systems face reliability, funding challenges; comptroller calls for more Centro transparency",
+  "summary": "State Comptroller DiNapoli's June 2026 report highlights reliability and funding challenges facing four major Upstate NY bus systems, including Centro, despite recent ridership increases. The comptroller is calling for enhanced transparency from Centro, signaling potential governance and accountability concerns that may impact regional transit policy and funding decisions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "transportation",
+    "audit",
+    "budget",
+    "transparency",
+    "state-agency",
+    "investigation",
+    "intergovernmental",
+    "infrastructure"
+  ],
+  "department_refs": [
+    "Department of Transportation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Thomas P. DiNapoli",
+      "type": "person",
+      "canonical_id": "PERSON-THOMAS-DINAPOLI"
+    },
+    {
+      "name": "Centro",
+      "type": "organization",
+      "canonical_id": "ORG-CENTRO"
+    },
+    {
+      "name": "New York State Comptroller's Office",
+      "type": "organization",
+      "canonical_id": "ORG-NY-COMPTROLLER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "State-level audit and transparency demands suggest regulatory oversight and potential accountability concerns for Centro operations; may presage funding conditions or operational mandates.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No dollar amounts provided in article excerpt; full report may contain budget data relevant for capital planning",
+    "Four-system regional coordination implied; specific names of other three systems not mentioned in excerpt",
+    "Ridership increase context suggests demand is present but service/funding model is misaligned—relevant for service innovation strategy",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
