@@ -1,0 +1,24 @@
+2026-06-05 15:27:20,134 [INFO] ============================================================
+2026-06-05 15:27:20,134 [INFO] Website Monitor starting
+2026-06-05 15:27:20,731 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-06-05 15:27:20,731 [INFO]   Navigating to https://www.syr.gov/News
+2026-06-05 15:27:26,377 [INFO]   Found 10 article links in News
+2026-06-05 15:27:31,377 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-06-04-Infrastructure-News-315-PM
+2026-06-05 15:27:43,421 [INFO]     Saved: CTX-WEB-2026-00147 → CTX-WEB-2026-00147.json
+2026-06-05 15:27:43,421 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-06-05 15:27:43,421 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-06-05 15:27:46,526 [INFO]   Found 0 article links in Announcements
+2026-06-05 15:27:51,526 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-06-05 15:27:51,526 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-06-05 15:27:54,792 [INFO]   Found 0 article links in Public Notices
+2026-06-05 15:27:59,834 [INFO] Website Monitor Run — 2026-06-05 15:27
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • City of Syracuse Department of Water Releases 2025 Sanitary Survey
+

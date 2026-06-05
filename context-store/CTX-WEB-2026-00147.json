@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-WEB-2026-00147",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-06-04-Infrastructure-News-315-PM",
+  "publication_date": "2026-06-04",
+  "capture_date": "2026-06-05T15:27:43Z",
+  "title": "City of Syracuse Department of Water Releases 2025 Sanitary Survey",
+  "summary": "The City of Syracuse Department of Water released its 2025 Sanitary Survey, a comprehensive New York State Department of Health evaluation of the city's water system. The department has publicly disclosed findings including violations and recommendations, with corrective actions already underway across infrastructure improvements, operational enhancements, and compliance measures. This release demonstrates the city's commitment to water system transparency and long-term modernization planning.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "infrastructure",
+    "audit",
+    "transparency",
+    "state-mandates",
+    "announcement",
+    "capital-planning"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Commissioner Brandt",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "New York State Department of Health",
+      "type": "organization",
+      "canonical_id": "ORG-NYSDOH"
+    },
+    {
+      "name": "Office of Communications",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Municipal water system compliance and modernization prioritized through public disclosure of state audit findings and commitment to infrastructure improvement.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Press release date (2026-06-04) appears chronologically inconsistent with typical document dating; verify publication date accuracy",
+    "Commissioner Brandt's full name not provided in source material",
+    "Full sanitary survey document referenced at syr.gov/2025-Sanitary-Survey but not included in article text",
+    "Sections of survey redacted for critical infrastructure security reasons—may limit full CIO visibility into system vulnerabilities",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
