@@ -1,0 +1,60 @@
+{
+  "record_id": "CTX-NEWS-2026-00137",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/06/national-grid-shutoffs-surge-across-upstate-as-reality-of-higher-winter-bills-kicks-in.html",
+  "publication_date": "2026-06-05",
+  "capture_date": "2026-06-05T15:13:12Z",
+  "title": "National Grid shutoffs surge across Upstate as reality of higher winter bills kicks in",
+  "summary": "National Grid power shutoffs across Upstate New York surged significantly in spring 2026 compared to the previous year, driven by accumulated winter heating bills and growing customer utility debt. This trend signals potential challenges for municipal services, constituent welfare, and may require coordinated city response around energy assistance programs and utility regulation advocacy.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "state-agency",
+    "utility-debt",
+    "residents",
+    "equity",
+    "escalating",
+    "trending",
+    "emergency-services"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Community Services",
+    "Office of Energy and Sustainability"
+  ],
+  "entity_refs": [
+    {
+      "name": "National Grid",
+      "type": "organization",
+      "canonical_id": "ORG-NATIONAL-GRID"
+    },
+    {
+      "name": "Renee Fox",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Rising utility shutoffs indicate growing household financial stress among Upstate residents; potential advocacy trigger for municipal intervention, energy assistance programming, or regulatory scrutiny of utility practices.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on state-regulated utility (National Grid) rather than municipal services, but impacts constituent welfare and may warrant CIO attention for digital equity/access implications (residents without power lose digital services access)",
+    "No dollar amounts or specific department involvement mentioned in source material",
+    "Date anomaly: article published 2026-06-05 (future date); verify publication date accuracy",
+    "Potential connection to workforce-development and benefits programs if city expands utility assistance",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'utility-debt' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}
