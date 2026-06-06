@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00139",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/syracuse-university/2026/06/syracuse-university-doesnt-have-to-pay-taxes-on-student-center-after-all-judges-say.html",
+  "publication_date": "2026-06-05",
+  "capture_date": "2026-06-06T13:52:13Z",
+  "title": "Syracuse University doesn’t have to pay taxes on student center after all, judges say",
+  "summary": "Syracuse University's Schine Student Center has been ruled tax-exempt by judges, reversing a previous tax liability determination. This decision affects municipal tax revenue and represents a significant outcome in ongoing tax classification disputes involving the university and the city.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "tax-revenue",
+    "intergovernmental",
+    "state-agency",
+    "resolved"
+  ],
+  "department_refs": [
+    "Finance",
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Emalyn Muzzy",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Court ruling on institutional tax-exempt status directly impacts city budget planning and tax revenue projections. Decision favors university over municipal coffers.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date is 2026-06-05 (future date; verify currency)",
+    "No dollar amount specified; recommend Finance Dept quantify revenue impact",
+    "Describes 'once again' suggesting prior dispute history—recommend cross-reference with historical tax litigation records",
+    "Limited content provided; full article analysis recommended for complete context on ruling rationale",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

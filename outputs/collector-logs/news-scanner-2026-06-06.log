@@ -1,0 +1,79 @@
+2026-06-06 13:52:05,540 [INFO] ============================================================
+2026-06-06 13:52:05,540 [INFO] News Scanner starting
+2026-06-06 13:52:05,542 [INFO] Fetching: Syracuse.com Politics
+2026-06-06 13:52:05,843 [INFO]   50 new articles from Syracuse.com Politics
+2026-06-06 13:52:05,844 [INFO] Fetching: Syracuse.com Government
+2026-06-06 13:52:06,037 [INFO]   0 new articles from Syracuse.com Government
+2026-06-06 13:52:06,037 [INFO] Fetching: Syracuse.com Local
+2026-06-06 13:52:06,222 [INFO]   0 new articles from Syracuse.com Local
+2026-06-06 13:52:06,223 [INFO] Fetching: Syracuse.com Main
+2026-06-06 13:52:06,404 [INFO]   0 new articles from Syracuse.com Main
+2026-06-06 13:52:06,404 [INFO] Total unique articles across all feeds: 50
+2026-06-06 13:52:06,404 [INFO] New articles (not previously processed): 50
+2026-06-06 13:52:06,453 [DEBUG]   Filtered (not relevant): Holes-in-one for Central New York golfers (as of June 5)
+2026-06-06 13:52:06,453 [DEBUG]   Filtered (not relevant): Most expensive homes sold in one Central NY counties from May 25 to 31
+2026-06-06 13:52:06,454 [DEBUG]   Filtered (not relevant): Inside CNY Q Center’s Pride Prom: Music, drag and a celebration of identity
+2026-06-06 13:52:06,454 [DEBUG]   Filtered (not relevant): Asking Eric: Mom with dementia has been scammed out of all her money, and I’m le
+2026-06-06 13:52:06,455 [DEBUG]   Filtered (not relevant): Corcoran High School 2026 senior prom: See 108 photos
+2026-06-06 13:52:06,455 [DEBUG]   Filtered (not relevant): Chittenango High School 2026 senior ball: See 140 prom photos
+2026-06-06 13:52:06,456 [DEBUG]   Filtered (not relevant): Cayuga County real estate: 10 most expensive homes sold, May 18-31
+2026-06-06 13:52:06,456 [DEBUG]   Filtered (not relevant): Singer’s bizarre behavior on stage concerns fans: ‘Reminding me of Amy Winehouse
+2026-06-06 13:52:06,456 [DEBUG]   Filtered (not relevant): Beef prices surge close to $7 a pound in latest data (Price tracker)
+2026-06-06 13:52:06,457 [DEBUG]   Filtered (not relevant): ‘90s sitcom star looks ‘ageless’ in ‘stunning’ new photos
+2026-06-06 13:52:06,457 [DEBUG]   Filtered (not relevant): Asking Eric: None of your business how I broke my wrist; for my next trick, I’ll
+2026-06-06 13:52:06,458 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for June 6
+2026-06-06 13:52:06,458 [DEBUG]   Filtered (not relevant): Multiple CBS shows not returning in 2027 as network shakes up lineup
+2026-06-06 13:52:06,459 [DEBUG]   Filtered (not relevant): Dear Abby: Pregnant at 40 and I don’t want this baby, but husband has told every
+2026-06-06 13:52:06,459 [DEBUG]   Filtered (not relevant): Paramount+ to quietly take over another beloved streaming service this summer
+2026-06-06 13:52:06,459 [DEBUG]   Filtered (not relevant): Central NY weather: Scattered storms could bring damaging winds, hail on Saturda
+2026-06-06 13:52:06,460 [DEBUG]   Filtered (not relevant): Where to watch Maja Chwalinska vs. Mirra Andreeva: French Open stream
+2026-06-06 13:52:06,460 [DEBUG]   Filtered (not relevant): How to watch Long Island high school boys lacrosse finals: Live stream, schedule
+2026-06-06 13:52:06,461 [DEBUG]   Filtered (not relevant): Dear Abby: Personal life is too entangled with my boss, and her fiance is making
+2026-06-06 13:52:06,461 [DEBUG]   Filtered (not relevant): How to watch New York high school flag football semifinals: Live stream, schedul
+2026-06-06 13:52:06,462 [DEBUG]   Filtered (not relevant): Beach hazards statement affecting Chautauqua and Erie counties until Saturday ev
+2026-06-06 13:52:06,462 [DEBUG]   Filtered (not relevant): Experts update Golden Knights vs. Hurricanes Game 3 predictions with series head
+2026-06-06 13:52:06,462 [DEBUG]   Filtered (not relevant): Baseball state regional roundup: Liverpool downs defending champs; West Genesee 
+2026-06-06 13:52:06,463 [DEBUG]   Filtered (not relevant): Mega Millions numbers: Are you the lucky winner of Friday’s $368 million jackpot
+2026-06-06 13:52:06,463 [DEBUG]   Filtered (not relevant): Softball state regional roundup: 2 Section III squads punch 1st-ever tickets to 
+2026-06-06 13:52:06,464 [DEBUG]   Filtered (not relevant): Nottingham High School 2026 junior prom: See 89 photos
+2026-06-06 13:52:06,464 [DEBUG]   Filtered (not relevant): Institute of Technology 2026 junior senior prom: See 111 photos
+2026-06-06 13:52:06,465 [DEBUG]   Filtered (not relevant): New Polymarket invite code “CUSE” updates $50 bonus for Knicks, Spurs Game 2 liv
+2026-06-06 13:52:06,465 [DEBUG]   Filtered (not relevant): Syracuse Mets no-hit by Scranton/Wilkes-Barre RailRiders
+2026-06-06 13:52:06,465 [DEBUG]   Filtered (not relevant): $50 Polymarket referral code “CUSE” launched ahead of Knicks-Spurs Game 2 in NY 
+2026-06-06 13:52:06,466 [DEBUG]   Filtered (not relevant): Kalshi introduces new $10 referral code SYRACUSE through Knicks-Spurs Game 2 NBA
+2026-06-06 13:52:06,466 [DEBUG]   Filtered (not relevant): How to stream the Mets game tonight: Watch MLB free online
+2026-06-06 13:52:06,467 [DEBUG]   Filtered (not relevant): Top New York high school girls lacrosse players in 2026: Meet the best midfielde
+2026-06-06 13:52:06,467 [DEBUG]   Filtered (not relevant): Life and culture editor previews summer events coverage (Letter from the Editor)
+2026-06-06 13:52:06,467 [DEBUG]   Filtered (not relevant): Reigning All-CNY Boys Tennis Player of the Year set for return to state quarterf
+2026-06-06 13:52:06,468 [DEBUG]   Filtered (not relevant): Grand jury ruled Syracuse judge who wouldn’t marry gay couple should be removed
+2026-06-06 13:52:06,468 [INFO]   Relevant: Syracuse police ask public for help locating 18-year-old wanted on gun charges
+2026-06-06 13:52:06,468 [DEBUG]     → Departments: Syracuse Police Department
+2026-06-06 13:52:06,468 [DEBUG]     → Keywords: syracuse police
+2026-06-06 13:52:09,388 [INFO]     Saved: CTX-NEWS-2026-00138 → CTX-NEWS-2026-00138.json
+2026-06-06 13:52:09,389 [DEBUG]   Filtered (not relevant): Where to watch Haiti vs. Peru today: International soccer free stream
+2026-06-06 13:52:09,389 [DEBUG]   Filtered (not relevant): Where to watch WWE SmackDown! tonight after Clash in Italy fallout
+2026-06-06 13:52:09,389 [INFO]   Relevant: Syracuse University doesn’t have to pay taxes on student center after all, judge
+2026-06-06 13:52:09,389 [DEBUG]     → Entities: Syracuse University
+2026-06-06 13:52:13,324 [INFO]     Saved: CTX-NEWS-2026-00139 → CTX-NEWS-2026-00139.json
+2026-06-06 13:52:13,325 [DEBUG]   Filtered (not relevant): Where to watch Knicks vs. Spurs tonight if you don’t have ABC
+2026-06-06 13:52:13,325 [DEBUG]   Filtered (not relevant): Where to watch Canada vs. Ireland friendly today: Free live stream
+2026-06-06 13:52:13,326 [DEBUG]   Filtered (not relevant): Man arrested after 1 pound of cocaine and crack found in Syracuse home, troopers
+2026-06-06 13:52:13,326 [DEBUG]   Filtered (not relevant): Here’s what your kids will eat at Taste of Syracuse 2026
+2026-06-06 13:52:13,327 [DEBUG]   Filtered (not relevant): Taste of Syracuse heavyweights: The biggest food samples $2 can buy
+2026-06-06 13:52:13,327 [DEBUG]   Filtered (not relevant): How to watch ‘Dutton Ranch’ Episode 5 for free on Paramount+ with this workaroun
+2026-06-06 13:52:13,327 [DEBUG]   Filtered (not relevant): Where to watch Red Sox vs. Yankees today: MLB free live stream
+2026-06-06 13:52:13,328 [DEBUG]   Filtered (not relevant): Taste of Syracuse 2026: Where to find the best desserts
+2026-06-06 13:52:13,328 [DEBUG]   Filtered (not relevant): I spent $20 hunting for the spiciest food at Taste of Syracuse and the winner sh
+2026-06-06 13:52:13,329 [DEBUG]   Filtered (not relevant): Large box truck hits Onondaga Lake Parkway bridge early Friday
+2026-06-06 13:52:13,331 [INFO] News Scanner Run — 2026-06-06 13:52
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Syracuse police ask public for help locating 18-year-old wanted on gun charges
+  • Syracuse University doesn’t have to pay taxes on student center after all, judge
+

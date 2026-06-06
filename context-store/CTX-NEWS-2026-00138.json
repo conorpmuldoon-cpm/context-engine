@@ -1,0 +1,47 @@
+{
+  "record_id": "CTX-NEWS-2026-00138",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/06/syracuse-police-ask-public-to-help-locate-18-year-old-wanted-on-gun-charges.html",
+  "publication_date": "2026-06-05",
+  "capture_date": "2026-06-06T13:52:09Z",
+  "title": "Syracuse police ask public for help locating 18-year-old wanted on gun charges",
+  "summary": "Syracuse Police Department issued a public appeal to locate an 18-year-old wanted on gun-related charges. This routine law enforcement notice reflects ongoing public safety efforts and community engagement in crime prevention.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "emergency-services",
+    "public-safety-commission",
+    "announcement"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is a standard public assistance notice with minimal substantive policy or budget implications for CIO",
+    "No specific technologies, systems, or digital services referenced",
+    "18-year-old suspect name/identity not disclosed in excerpt",
+    "Consider flagging for crime-data trends analysis if part of broader gun violence pattern",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
