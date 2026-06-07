@@ -1,0 +1,48 @@
+{
+  "record_id": "CTX-NEWS-2026-00140",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/06/18-year-old-wanted-on-gun-charges-turns-himself-in-to-syracuse-police.html",
+  "publication_date": "2026-06-07",
+  "capture_date": "2026-06-07T14:02:08Z",
+  "title": "18-year-old wanted on gun charges turns himself in to Syracuse police",
+  "summary": "An 18-year-old suspect wanted on gun charges voluntarily surrendered to Syracuse Police Department on June 7, 2026. This represents a successful resolution of an active wanted person case through voluntary compliance.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "emergency-services",
+    "public-safety-commission"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2026-00138"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Subject age and specific charges mentioned but no personal identifying information extracted per policy",
+    "Crime data relevance for public safety metrics tracking",
+    "Brief article with limited operational detail beyond headline event",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-NEWS-2026-00138 — linked for review"
+  ],
+  "last_relevance_update": null
+}

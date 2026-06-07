@@ -1,0 +1,77 @@
+2026-06-07 14:02:04,388 [INFO] ============================================================
+2026-06-07 14:02:04,389 [INFO] News Scanner starting
+2026-06-07 14:02:04,390 [INFO] Fetching: Syracuse.com Politics
+2026-06-07 14:02:05,048 [INFO]   50 new articles from Syracuse.com Politics
+2026-06-07 14:02:05,048 [INFO] Fetching: Syracuse.com Government
+2026-06-07 14:02:05,194 [INFO]   0 new articles from Syracuse.com Government
+2026-06-07 14:02:05,194 [INFO] Fetching: Syracuse.com Local
+2026-06-07 14:02:05,358 [INFO]   0 new articles from Syracuse.com Local
+2026-06-07 14:02:05,358 [INFO] Fetching: Syracuse.com Main
+2026-06-07 14:02:05,510 [INFO]   0 new articles from Syracuse.com Main
+2026-06-07 14:02:05,510 [INFO] Total unique articles across all feeds: 50
+2026-06-07 14:02:05,510 [INFO] New articles (not previously processed): 50
+2026-06-07 14:02:05,547 [DEBUG]   Filtered (not relevant): Jordan-Elbridge High School 2026 senior ball: See 69 prom photos
+2026-06-07 14:02:05,547 [DEBUG]   Filtered (not relevant): East Syracuse Minoa High School 2026 senior ball: See 132 prom photos
+2026-06-07 14:02:05,548 [DEBUG]   Filtered (not relevant): New attitude results in charges against Oswego landlord. It’s about time (Editor
+2026-06-07 14:02:05,548 [DEBUG]   Filtered (not relevant): Asking Eric: Ex-husband stiffed me on child support, and his three daughters are
+2026-06-07 14:02:05,549 [DEBUG]   Filtered (not relevant): Meet the New York professor who flies to Michigan 55 times a year to teach
+2026-06-07 14:02:05,549 [DEBUG]   Filtered (not relevant): Live wrestling matches are being held at libraries nationwide to promote literac
+2026-06-07 14:02:05,549 [DEBUG]   Filtered (not relevant): Woman sues popular chain restaurant over alleged mashed potato incident
+2026-06-07 14:02:05,550 [DEBUG]   Filtered (not relevant): Editorial cartoons for June 7, 2026: ’60 Minutes’ turmoil, Trump’s Washington, C
+2026-06-07 14:02:05,550 [DEBUG]   Filtered (not relevant): 2000s sitcom star famously paid less than co-star makes surprising money confess
+2026-06-07 14:02:05,550 [DEBUG]   Filtered (not relevant): Asking Eric: Friend is gullible, vulnerable and dangerously susceptible to scamm
+2026-06-07 14:02:05,551 [DEBUG]   Filtered (not relevant): $999,999 for Manlius Colonial: Plus more Onondaga County home sales
+2026-06-07 14:02:05,551 [DEBUG]   Filtered (not relevant): NY law lets AI data centers avoid millions in taxes (Top stories)
+2026-06-07 14:02:05,551 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for June 7
+2026-06-07 14:02:05,552 [DEBUG]   Filtered (not relevant): HelloFresh’s ‘unhinged’ Pride month post divides the internet: ‘Sick and twisted
+2026-06-07 14:02:05,552 [DEBUG]   Filtered (not relevant): Upstate NY man allegedly killed deli owner, then his wife and kids in shooting r
+2026-06-07 14:02:05,553 [DEBUG]   Filtered (not relevant): NY must repeal outdated, lucrative tax break for billion-dollar data centers (Ed
+2026-06-07 14:02:05,553 [DEBUG]   Filtered (not relevant): Central NY is about to get hot and muggy, with heat indexes climbing into the mi
+2026-06-07 14:02:05,553 [DEBUG]   Filtered (not relevant): Dear Abby: Wife callously ends things after meeting other men; hitting me with ‘
+2026-06-07 14:02:05,554 [DEBUG]   Filtered (not relevant): CNY Inspirations: Four ways of compassion
+2026-06-07 14:02:05,554 [DEBUG]   Filtered (not relevant): Where to watch Flavio Cobolli vs. Alexander Zverev: French Open stream
+2026-06-07 14:02:05,554 [DEBUG]   Filtered (not relevant): Where to watch F1 Monaco Grand Prix today: Free live stream
+2026-06-07 14:02:05,555 [DEBUG]   Filtered (not relevant): Dear Abby: Something is wrong with ‘increasingly prickly’ friend as we all age t
+2026-06-07 14:02:05,555 [DEBUG]   Filtered (not relevant): How to watch New York flag football finals: Live stream, schedule, tickets
+2026-06-07 14:02:05,555 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Saturday’s $212 million drawing
+2026-06-07 14:02:05,556 [DEBUG]   Filtered (not relevant): After 17 days, Syracuse football commit changes his mind and picks new school
+2026-06-07 14:02:05,556 [DEBUG]   Filtered (not relevant): Girls lacrosse regional roundup: Jamesville-DeWitt advances, 3 other Section III
+2026-06-07 14:02:05,556 [DEBUG]   Filtered (not relevant): New Polymarket invite code “CUSE” updates $50 bonus for Hurricanes, Golden Night
+2026-06-07 14:02:05,557 [DEBUG]   Filtered (not relevant): Tompkins County man accused of pouring gas on woman, 2 children to set them on f
+2026-06-07 14:02:05,557 [DEBUG]   Filtered (not relevant): Mets blank RailRiders behind Clifford’s 14th home run
+2026-06-07 14:02:05,557 [DEBUG]   Filtered (not relevant): Liverpool boys tennis standout runs into ‘a little roadblock’ in state semifinal
+2026-06-07 14:02:05,557 [INFO]   Relevant: 18-year-old wanted on gun charges turns himself in to Syracuse police
+2026-06-07 14:02:05,557 [DEBUG]     → Departments: Syracuse Police Department
+2026-06-07 14:02:05,557 [DEBUG]     → Keywords: syracuse police
+2026-06-07 14:02:08,248 [INFO]     Dedup match: CTX-NEWS-2026-00138 — linking via cluster
+2026-06-07 14:02:08,248 [INFO]     Saved: CTX-NEWS-2026-00140 → CTX-NEWS-2026-00140.json
+2026-06-07 14:02:08,249 [DEBUG]   Filtered (not relevant): Boys lacrosse regional roundup: West Genesee, J-D, Marcellus move on; F-M’s seas
+2026-06-07 14:02:08,249 [DEBUG]   Filtered (not relevant): Multiple people have been shot near a festival in Toledo, Ohio, authorities say
+2026-06-07 14:02:08,249 [DEBUG]   Filtered (not relevant): Fayetteville-Manlius High School 2026 senior ball: See 117 prom photos
+2026-06-07 14:02:08,250 [DEBUG]   Filtered (not relevant): F-M flag football set to take 1st trip to Class B state title game
+2026-06-07 14:02:08,250 [DEBUG]   Filtered (not relevant): $50 Polymarket referral code “CUSE” extended for NHL Stanley Cup Finals in NV an
+2026-06-07 14:02:08,250 [DEBUG]   Filtered (not relevant): Kalshi extends $10 referral code SYRACUSE for Stanley Cup Finals Game 3
+2026-06-07 14:02:08,251 [DEBUG]   Filtered (not relevant): Golden Tempo wins the 158th Belmont Stakes after winning the Kentucky Derby
+2026-06-07 14:02:08,251 [DEBUG]   Filtered (not relevant): Weather alert announced for strong thunderstorms in Hudson Valley Saturday eveni
+2026-06-07 14:02:08,252 [DEBUG]   Filtered (not relevant): Update: Severe thunderstorm warning for Putnam and Westchester counties predicte
+2026-06-07 14:02:08,252 [DEBUG]   Filtered (not relevant): Thunderstorms with damaging winds and quarter-sized hail in Essex County Saturda
+2026-06-07 14:02:08,252 [DEBUG]   Filtered (not relevant): Thunderstorms with marble-sized hail in Essex County Saturday — gusts could peak
+2026-06-07 14:02:08,253 [DEBUG]   Filtered (not relevant): Update: Thunderstorms with damaging winds and penny-sized hail in Rockland and W
+2026-06-07 14:02:08,253 [DEBUG]   Filtered (not relevant): Update: Penny-sized hail foreseen with thunderstorms in Columbia and Dutchess co
+2026-06-07 14:02:08,253 [DEBUG]   Filtered (not relevant): Update: The current severe thunderstorm warning for Dutchess County will be expi
+2026-06-07 14:02:08,254 [DEBUG]   Filtered (not relevant): Where to watch Hurricanes vs. Golden Knights: Stanley Cup free stream
+2026-06-07 14:02:08,254 [DEBUG]   Filtered (not relevant): ‘Love Island Aftersun’ airs tonight: How to watch for free on Peacock
+2026-06-07 14:02:08,254 [DEBUG]   Filtered (not relevant): Where to watch Argentina vs. Honduras: International soccer free stream
+2026-06-07 14:02:08,255 [DEBUG]   Filtered (not relevant): Where to watch Fever vs. Liberty today: WNBA free live stream
+2026-06-07 14:02:08,255 [DEBUG]   Filtered (not relevant): Update: Severe thunderstorm warning for Sullivan County predicted to expire at 5
+2026-06-07 14:02:08,256 [INFO] News Scanner Run — 2026-06-07 14:02
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • 18-year-old wanted on gun charges turns himself in to Syracuse police
+
