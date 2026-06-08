@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2026-00142",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/06/firefighter-injured-8-residents-displaced-by-fire-on-syracuses-south-side.html",
+  "publication_date": "2026-06-08",
+  "capture_date": "2026-06-08T16:00:11Z",
+  "title": "Firefighter injured, 8 residents displaced by fire on Syracuse’s South Side",
+  "summary": "A two-family home fire on Syracuse's South Side early Sunday morning (June 8, 2026) at 801 W. Colvin St. resulted in one firefighter injury and displacement of eight residents. The Syracuse Fire Department responded to the 911 call at 5:44 a.m. This incident highlights emergency response operations and potential community recovery needs.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "fire",
+    "emergency-services",
+    "residents",
+    "public-safety-commission"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Erik Caster",
+      "type": "person",
+      "canonical_id": "PERSON-ERIK-CASTER"
+    },
+    {
+      "name": "Darian Stevenson",
+      "type": "person",
+      "canonical_id": "PERSON-DARIAN-STEVENSON"
+    },
+    {
+      "name": "Onondaga County 911 Center",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-911"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Residential fire incident creating immediate housing displacement need; signals potential demand for emergency services coordination and displaced resident support services.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Address identified: 801 W. Colvin St., Syracuse South Side",
+    "Specific injury details not provided; may require follow-up for severity assessment",
+    "No information on cause, estimated damages, or recovery resources mentioned",
+    "Potential connection to housing/displacement services coordination needs",
+    "CIO relevance: Emergency dispatch system (911), potential data tracking for incident management",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

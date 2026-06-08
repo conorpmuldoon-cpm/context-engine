@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00141",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/06/micron-will-have-3000-construction-workers-on-clay-factory-site-next-year-official-says.html",
+  "publication_date": "2026-06-08",
+  "capture_date": "2026-06-08T16:00:07Z",
+  "title": "Micron will have 3,000 construction workers on Clay factory site next year, official says",
+  "summary": "Micron Technology is scaling construction workforce to 3,000 workers for its Clay chipmaking facility in 2026, representing significant economic development activity and potential workforce/infrastructure implications for the Syracuse region. This signals major capital investment momentum and labor demand that may intersect with city planning, permitting, and workforce development initiatives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "construction-staging",
+    "workforce-development",
+    "hiring",
+    "capital-planning",
+    "state-agency"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Glenn Coin",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Major private sector investment in regional chipmaking infrastructure aligns with state/federal CHIPS Act priorities and economic development goals; 3,000 construction jobs represents significant workforce opportunity and tax base expansion.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on construction phase; no city budget/spending details extracted",
+    "Clay is Town of Clay (outside Syracuse proper) but has regional economic significance",
+    "No dollar amounts mentioned in provided excerpt",
+    "Potential connections to permitting, traffic/road-closure, workforce training programs not detailed in this article",
+    "State agency involvement (economic development) implied but not explicitly stated",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
