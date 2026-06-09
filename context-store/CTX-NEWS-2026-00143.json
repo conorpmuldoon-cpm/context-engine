@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2026-00143",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/us-news/2026/06/spencer-pratt-is-out-as-progressive-nithya-raman-advances-to-la-mayor-runoff.html",
+  "publication_date": "2026-06-09",
+  "capture_date": "2026-06-09T15:13:22Z",
+  "title": "Spencer Pratt is out as progressive Nithya Raman advances to L.A. mayor runoff",
+  "summary": "This article reports on Los Angeles municipal politics and a mayoral runoff election between progressive city council member Nithya Raman and incumbent Mayor Karen Bass. While relevant to understanding peer city governance trends, this content has limited direct applicability to Syracuse municipal operations or CIO functions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "vote",
+    "intergovernmental"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Nithya Raman",
+      "type": "person",
+      "canonical_id": "PERSON-NITHYA-RAMAN"
+    },
+    {
+      "name": "Karen Bass",
+      "type": "person",
+      "canonical_id": "PERSON-KAREN-BASS"
+    },
+    {
+      "name": "Spencer Pratt",
+      "type": "person",
+      "canonical_id": "PERSON-SPENCER-PRATT"
+    },
+    {
+      "name": "City of Los Angeles",
+      "type": "organization",
+      "canonical_id": "ORG-LA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns Los Angeles municipal politics, not Syracuse",
+    "Sourced from syracuse.com but covers out-of-jurisdiction topic",
+    "No direct relevance to Syracuse CIO operations, budgets, or technology initiatives",
+    "Useful only for comparative governance research on peer cities",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
