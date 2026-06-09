@@ -1,0 +1,24 @@
+2026-06-09 15:26:14,113 [INFO] ============================================================
+2026-06-09 15:26:14,113 [INFO] Website Monitor starting
+2026-06-09 15:26:14,765 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-06-09 15:26:14,765 [INFO]   Navigating to https://www.syr.gov/News
+2026-06-09 15:26:19,457 [INFO]   Found 10 article links in News
+2026-06-09 15:26:24,458 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-06-08-Infrastructure-News-1-PM
+2026-06-09 15:26:35,791 [INFO]     Saved: CTX-WEB-2026-00148 → CTX-WEB-2026-00148.json
+2026-06-09 15:26:35,791 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-06-09 15:26:35,791 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-06-09 15:26:39,417 [INFO]   Found 0 article links in Announcements
+2026-06-09 15:26:44,417 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-06-09 15:26:44,417 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-06-09 15:26:47,714 [INFO]   Found 0 article links in Public Notices
+2026-06-09 15:26:52,757 [INFO] Website Monitor Run — 2026-06-09 15:26
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • Mayor Owens Announces Road Reconstruction Project on S Salina St
+
