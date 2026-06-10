@@ -1,0 +1,50 @@
+{
+  "record_id": "CTX-NEWS-2026-00145",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/06/syracuse-firefighters-honored-for-rescues-investigations-other-calls.html",
+  "publication_date": "2026-06-10",
+  "capture_date": "2026-06-10T15:46:00Z",
+  "title": "Syracuse firefighters honored for rescues, investigations, other calls",
+  "summary": "The Syracuse Fire Department held an award ceremony on Monday, June 9, 2026, to honor firefighters and personnel for rescues, investigations, and emergency responses during 2025. This routine recognition event highlights departmental achievements in public safety operations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "fire",
+    "emergency-services",
+    "announcement",
+    "leadership-change"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Finn Lincoln",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Public recognition of emergency services personnel reinforces municipal commitment to public safety and workforce morale within fire department operations.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content is minimal; only headline and dateline provided. Full narrative details about specific rescues, investigations, and awardees are not included in submitted text.",
+    "No budget impacts, capital projects, or policy changes apparent from available content.",
+    "Award ceremony is standard operational recognition activity; no innovation or technology angle detected.",
+    "Recommend full article review if detailed recipient information or departmental priorities are needed for CIO context.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

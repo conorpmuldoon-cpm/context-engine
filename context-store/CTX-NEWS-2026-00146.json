@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-NEWS-2026-00146",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/06/micron-hires-one-of-worlds-largest-construction-firms-to-build-clay-chip-factories.html",
+  "publication_date": "2026-06-10",
+  "capture_date": "2026-06-10T15:46:03Z",
+  "title": "Micron hires one of world’s largest construction firms to build Clay chip factories",
+  "summary": "Micron Technology has engaged a major global construction firm to build its first two semiconductor manufacturing facilities in Clay, NY. This represents significant economic development and infrastructure investment for the region, with potential implications for workforce development, permitting, and local tax revenue.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "infrastructure",
+    "construction-staging",
+    "business-community",
+    "capital-planning",
+    "workforce-development"
+  ],
+  "department_refs": [
+    "Department of Permitting and Inspections",
+    "Department of Economic Development",
+    "Planning Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Town of Clay",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Glenn Coin",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Major corporate investment in semiconductor manufacturing signals alignment with regional economic development priorities and represents significant job creation and tax base expansion opportunity.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is announcement-focused; no budget figures or specific timeline details provided yet",
+    "Construction firm identity not specified in excerpt; full article needed for complete entity extraction",
+    "Clay is separate municipality from Syracuse proper—may require intergovernmental coordination",
+    "Potential downstream CIO interests: broadband/IT infrastructure needs for new facilities, workforce training data systems, permitting system load",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

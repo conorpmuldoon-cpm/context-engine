@@ -1,0 +1,90 @@
+2026-06-10 15:45:49,733 [INFO] ============================================================
+2026-06-10 15:45:49,733 [INFO] News Scanner starting
+2026-06-10 15:45:49,734 [INFO] Fetching: Syracuse.com Politics
+2026-06-10 15:45:50,097 [INFO]   50 new articles from Syracuse.com Politics
+2026-06-10 15:45:50,097 [INFO] Fetching: Syracuse.com Government
+2026-06-10 15:45:50,257 [INFO]   0 new articles from Syracuse.com Government
+2026-06-10 15:45:50,257 [INFO] Fetching: Syracuse.com Local
+2026-06-10 15:45:50,437 [INFO]   0 new articles from Syracuse.com Local
+2026-06-10 15:45:50,437 [INFO] Fetching: Syracuse.com Main
+2026-06-10 15:45:50,622 [INFO]   0 new articles from Syracuse.com Main
+2026-06-10 15:45:50,622 [INFO] Total unique articles across all feeds: 50
+2026-06-10 15:45:50,622 [INFO] New articles (not previously processed): 50
+2026-06-10 15:45:50,673 [DEBUG]   Filtered (not relevant): Onondaga County school district names new superintendent
+2026-06-10 15:45:50,673 [DEBUG]   Filtered (not relevant): Bills minicamp Day 1 observations: Keon Coleman already impressing this spring
+2026-06-10 15:45:50,674 [DEBUG]   Filtered (not relevant): Honda recalling nearly 900,000 vehicles in 24 states for suspension defect
+2026-06-10 15:45:50,674 [DEBUG]   Filtered (not relevant): YETI Daytrip soft cooler drops for members—public release set for June 19
+2026-06-10 15:45:50,675 [DEBUG]   Filtered (not relevant): Miss Manners: Friend insists on inviting herself over to my house; is this the n
+2026-06-10 15:45:50,675 [DEBUG]   Filtered (not relevant): Olympic gymnast hospitalized after major health emergency: ‘Scariest experience’
+2026-06-10 15:45:50,676 [DEBUG]   Filtered (not relevant): See who’s graduating from Brookfield Central School; plus Q&As with 3 top studen
+2026-06-10 15:45:50,676 [DEBUG]   Filtered (not relevant): Miss Manners: Mothers-in-law clash over who’s allowed to say what, about which f
+2026-06-10 15:45:50,676 [DEBUG]   Filtered (not relevant): How to watch ‘All The Queen’s Men’ Season 5 premiere for free on Paramount+ with
+2026-06-10 15:45:50,677 [DEBUG]   Filtered (not relevant): $50 Polymarket invite code “CUSE” upgraded in NY, TX for Knicks, Spurs NBA Final
+2026-06-10 15:45:50,678 [INFO]   Relevant: Credit union inside Syracuse Housing Authority closes as I-81 construction creep
+2026-06-10 15:45:50,678 [DEBUG]     → Entities: Syracuse Housing Authority
+2026-06-10 15:45:54,731 [WARNING]     Tag issue: Unknown tag 'resident-services' not in taxonomy
+2026-06-10 15:45:54,756 [INFO]     Saved: CTX-NEWS-2026-00144 → CTX-NEWS-2026-00144.json
+2026-06-10 15:45:54,757 [DEBUG]   Filtered (not relevant): How to get Phoebe Bridgers tickets during hectic final presale before they sell 
+2026-06-10 15:45:54,757 [INFO]   Relevant: Syracuse firefighters honored for rescues, investigations, other calls
+2026-06-10 15:45:54,757 [DEBUG]     → Departments: Syracuse Fire Department
+2026-06-10 15:45:54,757 [DEBUG]     → Keywords: syracuse fire
+2026-06-10 15:46:00,072 [INFO]     Saved: CTX-NEWS-2026-00145 → CTX-NEWS-2026-00145.json
+2026-06-10 15:46:00,073 [DEBUG]   Filtered (not relevant): Knicks vs. Spurs Game 4 prediction: Polymarket odds, best bet and projected box 
+2026-06-10 15:46:00,073 [INFO]   Relevant: Micron hires one of world’s largest construction firms to build Clay chip factor
+2026-06-10 15:46:00,073 [DEBUG]     → Entities: Micron Technology
+2026-06-10 15:46:03,690 [INFO]     Saved: CTX-NEWS-2026-00146 → CTX-NEWS-2026-00146.json
+2026-06-10 15:46:03,690 [DEBUG]   Filtered (not relevant): At Syracuse’s Greek Festival, the food starts with a lot of dough — and a lot of
+2026-06-10 15:46:03,691 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: You can repair even the worst credit, but you’ll need these
+2026-06-10 15:46:03,691 [DEBUG]   Filtered (not relevant): See who’s graduating from combined Bishop Ludden-Grimes; plus Q&As with 4 top st
+2026-06-10 15:46:03,692 [DEBUG]   Filtered (not relevant): The untold reason your property taxes are so high: NY’s mismanaged pensions (Gue
+2026-06-10 15:46:03,692 [DEBUG]   Filtered (not relevant): Syracuse.com’s All-Central New York girls golf team announced for 2026 season
+2026-06-10 15:46:03,693 [DEBUG]   Filtered (not relevant): Dear Annie: After years of a noisy life, I thought I’d welcome the quiet; instea
+2026-06-10 15:46:03,693 [DEBUG]   Filtered (not relevant): Upstate NY man accused of using foot fetish website to lure, rape women
+2026-06-10 15:46:03,694 [DEBUG]   Filtered (not relevant): Rare bacteria species that causes Lyme disease has mysteriously appeared in one 
+2026-06-10 15:46:03,694 [DEBUG]   Filtered (not relevant): Syracuse.com’s All-Central New York boys golf team announced for 2026 season
+2026-06-10 15:46:03,695 [DEBUG]   Filtered (not relevant): Dear Annie: So-called best friend is soft-launching end of our relationship, and
+2026-06-10 15:46:03,695 [DEBUG]   Filtered (not relevant): NY bars, restaurants allowed to serve alcohol until 4 a.m. during World Cup
+2026-06-10 15:46:03,696 [DEBUG]   Filtered (not relevant): Section III baseball sectional playoff pitching leaders (through June 9)
+2026-06-10 15:46:03,696 [DEBUG]   Filtered (not relevant): Guess who’s back again: Meet the 3 Section III boys lacrosse teams competing in 
+2026-06-10 15:46:03,697 [DEBUG]   Filtered (not relevant): Dear Doctor: I was regular until my colonoscopy; now I’m constipated all the tim
+2026-06-10 15:46:03,697 [DEBUG]   Filtered (not relevant): Section III baseball sectional playoff hitting leaders (through June 9)
+2026-06-10 15:46:03,698 [DEBUG]   Filtered (not relevant): Ryan Moesch, Gavin Doty discuss roles, early Syracuse basketball practices
+2026-06-10 15:46:03,698 [INFO]   Relevant: 2 newcomers take on Syracuse Common Council’s longest-serving member: Meet the c
+2026-06-10 15:46:03,698 [DEBUG]     → Keywords: common council, city council
+2026-06-10 15:46:08,455 [INFO]     Saved: CTX-NEWS-2026-00147 → CTX-NEWS-2026-00147.json
+2026-06-10 15:46:08,456 [DEBUG]   Filtered (not relevant): Section III flag football all-stars announced for 2026
+2026-06-10 15:46:08,456 [DEBUG]   Filtered (not relevant): Asking Eric: Can’t get your spouse to help with chores? Some self-reflection cou
+2026-06-10 15:46:08,457 [DEBUG]   Filtered (not relevant): School district says victims bear some responsibility for hazing (Good Morning C
+2026-06-10 15:46:08,457 [DEBUG]   Filtered (not relevant): Rock star releasing ‘intense’ new album but shhh, it’s a secret
+2026-06-10 15:46:08,458 [DEBUG]   Filtered (not relevant): Mega Millions ticket worth $4 million sold in Upstate NY for Tuesday’s drawing
+2026-06-10 15:46:08,458 [DEBUG]   Filtered (not relevant): Asking Eric: I am hiding cancer diagnosis from my job and my family, and barely 
+2026-06-10 15:46:08,459 [DEBUG]   Filtered (not relevant): Central NY weather: Multiple rounds of severe thunderstorms, oppressive heat in 
+2026-06-10 15:46:08,459 [DEBUG]   Filtered (not relevant): Tyler Childers postpones tour dates, including tonight’s Upstate NY concert
+2026-06-10 15:46:08,459 [DEBUG]   Filtered (not relevant): Tillie’s Touch fundraiser allows you to watch World Cup, eat camel for a cause
+2026-06-10 15:46:08,460 [INFO]   Relevant: Syracuse University’s tax deal with the city is up for renewal: Is SU paying its
+2026-06-10 15:46:08,460 [DEBUG]     → Entities: Syracuse University
+2026-06-10 15:46:08,460 [DEBUG]     → Keywords: city of syracuse
+2026-06-10 15:46:13,793 [ERROR]     Schema error: Schema validation: 'scrutiny' is not one of ['positive', 'neutral', 'critical', 'mixed', 'advocacy', 'procedural']
+2026-06-10 15:46:13,798 [ERROR]     Cannot fix schema errors for Syracuse University’s tax deal with the city is up for renew — skipping
+2026-06-10 15:46:13,800 [DEBUG]   Filtered (not relevant): Dear Abby: I am in love with a married woman, and I don’t think I’ll ever be abl
+2026-06-10 15:46:13,800 [DEBUG]   Filtered (not relevant): Free outdoor concerts return to the Adirondacks this summer
+2026-06-10 15:46:13,801 [DEBUG]   Filtered (not relevant): Trump order asked national park visitors to flag ‘negative’ historical info. The
+2026-06-10 15:46:13,801 [DEBUG]   Filtered (not relevant): Drivers sue NY county over 1.6 billion license plate scans
+2026-06-10 15:46:13,802 [DEBUG]   Filtered (not relevant): Dear Abby: Wife gets ‘cruised’ by lesbians whenever we’re out, and seems to be l
+2026-06-10 15:46:13,802 [DEBUG]   Filtered (not relevant): US, Iran launch airstrikes after Trump blames Tehran for downing Army helicopter
+2026-06-10 15:46:13,803 [DEBUG]   Filtered (not relevant): Experts update Knights vs. Hurricanes Game 5 predictions after Carolina evens th
+2026-06-10 15:46:13,803 [DEBUG]   Filtered (not relevant): Update: Capital Region, Hudson Valley placed under a heat advisory Friday
+2026-06-10 15:46:13,805 [INFO] News Scanner Run — 2026-06-10 15:46
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 4
+Filtered (not relevant): 46
+Errors: 0
+
+New records:
+  • Credit union inside Syracuse Housing Authority closes as I-81 construction creep
+  • Syracuse firefighters honored for rescues, investigations, other calls
+  • Micron hires one of world’s largest construction firms to build Clay chip factor
+  • 2 newcomers take on Syracuse Common Council’s longest-serving member: Meet the c
+

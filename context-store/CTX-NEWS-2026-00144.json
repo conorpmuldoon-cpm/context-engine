@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00144",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/06/credit-union-inside-syracuse-housing-authority-closes-as-i-81-construction-creeps-closer.html",
+  "publication_date": "2026-06-10",
+  "capture_date": "2026-06-10T15:45:54Z",
+  "title": "Credit union inside Syracuse Housing Authority closes as I-81 construction creeps closer",
+  "summary": "A credit union branch serving Syracuse Housing Authority residents closed as Interstate 81 construction activity increases in the area. The closure reflects disruption to financial services access for a vulnerable resident population during major infrastructure work.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "infrastructure",
+    "transportation",
+    "accessibility",
+    "resident-services",
+    "economic-development"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Community Relations",
+    "Department of Infrastructure and Innovation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Housing Authority",
+      "type": "organization",
+      "canonical_id": "ORG-SHA"
+    },
+    {
+      "name": "Interstate 81",
+      "type": "system",
+      "canonical_id": "SYS-I81"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Coverage of service disruption to economically vulnerable residents due to major state infrastructure project; potential equity implications for housing authority population access to financial services",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article addresses intersection of state-level infrastructure project (I-81) and local housing authority services",
+    "No dollar amounts or specific construction timeline provided in excerpt",
+    "Author is local reporter; suggest monitoring for follow-up coverage on resident impacts",
+    "Potential connection to broader I-81 community impact assessment and mitigation planning",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'resident-services' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

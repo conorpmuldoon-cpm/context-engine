@@ -1,0 +1,53 @@
+{
+  "record_id": "CTX-NEWS-2026-00147",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/cny/2026/06/2-newcomers-take-on-syracuse-common-councils-longest-serving-member-meet-the-candidates.html",
+  "publication_date": "2026-06-10",
+  "capture_date": "2026-06-10T15:46:08Z",
+  "title": "2 newcomers take on Syracuse Common Council’s longest-serving member: Meet the candidates",
+  "summary": "Democratic primary race for Syracuse Common Council seat features two political newcomers challenging the city's longest-serving elected official. The article announces candidate competition for an open council position.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "council",
+    "vote",
+    "leadership-change",
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-BOYER"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Electoral competition for Common Council seat with incumbent longest-serving member facing primary challenge from newcomers; signals potential leadership transition.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article lacks specific candidate names, policy positions, or innovation-related initiatives relevant to CIO office",
+    "No department, budget, or programmatic impacts identified",
+    "Future date (2026-06-10) suggests this may be test data or forward-looking content",
+    "Limited relevance to Chief Innovation Officer unless council composition affects innovation initiatives or digital government services",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
