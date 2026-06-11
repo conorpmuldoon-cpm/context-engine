@@ -1,0 +1,79 @@
+2026-06-11 16:09:45,313 [INFO] ============================================================
+2026-06-11 16:09:45,313 [INFO] News Scanner starting
+2026-06-11 16:09:45,314 [INFO] Fetching: Syracuse.com Politics
+2026-06-11 16:09:45,876 [INFO]   50 new articles from Syracuse.com Politics
+2026-06-11 16:09:45,876 [INFO] Fetching: Syracuse.com Government
+2026-06-11 16:09:46,122 [INFO]   0 new articles from Syracuse.com Government
+2026-06-11 16:09:46,123 [INFO] Fetching: Syracuse.com Local
+2026-06-11 16:09:46,344 [INFO]   0 new articles from Syracuse.com Local
+2026-06-11 16:09:46,344 [INFO] Fetching: Syracuse.com Main
+2026-06-11 16:09:46,547 [INFO]   0 new articles from Syracuse.com Main
+2026-06-11 16:09:46,547 [INFO] Total unique articles across all feeds: 50
+2026-06-11 16:09:46,548 [INFO] New articles (not previously processed): 50
+2026-06-11 16:09:46,596 [DEBUG]   Filtered (not relevant): Walmart announces huge summer sale ahead of Prime Day - Here’s what you need to 
+2026-06-11 16:09:46,596 [DEBUG]   Filtered (not relevant): Where to watch Mexico vs. South Africa today: World Cup free stream
+2026-06-11 16:09:46,597 [DEBUG]   Filtered (not relevant): NY lawmakers missed a chance to boost public trust in the courts (Guest Opinion 
+2026-06-11 16:09:46,597 [INFO]   Relevant: What are realistic expectations for SU football and hoops next year?
+2026-06-11 16:09:46,597 [DEBUG]     → Entities: Syracuse University
+2026-06-11 16:09:49,272 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-06-11 16:09:49,299 [INFO]     Saved: CTX-NEWS-2026-00148 → CTX-NEWS-2026-00148.json
+2026-06-11 16:09:49,300 [INFO]   Relevant: Traveling Harriet Tubman statue stops in Syracuse for a week as part of 750-mile
+2026-06-11 16:09:49,300 [DEBUG]     → Keywords: city hall
+2026-06-11 16:09:54,089 [INFO]     Saved: CTX-NEWS-2026-00149 → CTX-NEWS-2026-00149.json
+2026-06-11 16:09:54,090 [DEBUG]   Filtered (not relevant): NYS Fair announces funk festival lineup with two major headliners
+2026-06-11 16:09:54,091 [DEBUG]   Filtered (not relevant): Free admission for Richie Evans Remembered feature at Utica-Rome Sunday
+2026-06-11 16:09:54,091 [DEBUG]   Filtered (not relevant): New York woman wins $1 million from scratch-off ticket bought at neighborhood li
+2026-06-11 16:09:54,091 [DEBUG]   Filtered (not relevant): Group holds fundraiser to save beloved Upstate NY cottage from being eaten by be
+2026-06-11 16:09:54,092 [DEBUG]   Filtered (not relevant): Syracuse amphitheater to offer free kids’ admission for multiple concerts this s
+2026-06-11 16:09:54,093 [DEBUG]   Filtered (not relevant): Target has the Blackstone OTG 22-inch Tabletop Griddle Plate on sale just in tim
+2026-06-11 16:09:54,093 [DEBUG]   Filtered (not relevant): Miss Manners: I share gift purchasing with sister and her husband, but I’m stuck
+2026-06-11 16:09:54,094 [DEBUG]   Filtered (not relevant): How to watch New York boys lacrosse semifinals: Live stream, schedule, tickets f
+2026-06-11 16:09:54,094 [DEBUG]   Filtered (not relevant): Gardner-Johnson intercepts Allen at Bills minicamp finale
+2026-06-11 16:09:54,095 [DEBUG]   Filtered (not relevant): Raising expectations for Down syndrome at GiGi’s Playhouse (Enable: The Disabili
+2026-06-11 16:09:54,095 [DEBUG]   Filtered (not relevant): Syracuse World Cup parties: Where to watch the 2026 FIFA World Cup in CNY (sched
+2026-06-11 16:09:54,095 [DEBUG]   Filtered (not relevant): Section III state semifinalists keep climbing in latest state baseball rankings
+2026-06-11 16:09:54,096 [DEBUG]   Filtered (not relevant): Miss Manners: I went behind a family’s back to edit their mom’s obit; I’m shocke
+2026-06-11 16:09:54,096 [DEBUG]   Filtered (not relevant): Restaurant inspections: 52 pass, 1 corrects previous violations; no failures
+2026-06-11 16:09:54,097 [DEBUG]   Filtered (not relevant): Honey mustard potato salad
+2026-06-11 16:09:54,098 [DEBUG]   Filtered (not relevant): Polymarket launches $50 invite code “CUSE” in NY, MA for World Cup group stage g
+2026-06-11 16:09:54,098 [DEBUG]   Filtered (not relevant): Didn’t get Malcolm Todd ‘Do That Again’ tour tickets? Here’s where you can still
+2026-06-11 16:09:54,099 [DEBUG]   Filtered (not relevant): How to secure ‘Jay-Z 30’ Los Angeles tickets before they sell out in presale
+2026-06-11 16:09:54,099 [DEBUG]   Filtered (not relevant): Syracuse.com’s All-Central New York boys tennis team announced for 2026 season
+2026-06-11 16:09:54,100 [DEBUG]   Filtered (not relevant): Walmart’s $367 outdoor shed is on sale for $210 ahead of Summer Deals Event
+2026-06-11 16:09:54,100 [DEBUG]   Filtered (not relevant): Experts release new Mexico vs. South Africa prediction ahead of World Cup opener
+2026-06-11 16:09:54,101 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: Husband says it costs more to make ice in the freezer than 
+2026-06-11 16:09:54,101 [DEBUG]   Filtered (not relevant): Unusual 5K race in Syracuse lets you run where planes normally land and take off
+2026-06-11 16:09:54,102 [DEBUG]   Filtered (not relevant): Syracuse.com’s All-Central New York flag football team announced for 2026 season
+2026-06-11 16:09:54,102 [DEBUG]   Filtered (not relevant): Well-known Syracuse preschool shut down after state finds repeated safety violat
+2026-06-11 16:09:54,102 [DEBUG]   Filtered (not relevant): Program history in sight: Meet the Section III softball teams playing in this we
+2026-06-11 16:09:54,103 [DEBUG]   Filtered (not relevant): See 8 New York colleges among the 50 most expensive in the U.S.
+2026-06-11 16:09:54,103 [DEBUG]   Filtered (not relevant): Dear Annie: I accidentally killed my neighbor’s fish; She wants me to pay, but I
+2026-06-11 16:09:54,104 [DEBUG]   Filtered (not relevant): Streaking or seasoned: Meet the 4 Section III baseball teams playing in this wee
+2026-06-11 16:09:54,104 [DEBUG]   Filtered (not relevant): See who’s graduating from Oneida High School; plus Q&As with 2 top students
+2026-06-11 16:09:54,104 [DEBUG]   Filtered (not relevant): Section III softball sectional playoff pitching leaders (through June 10)
+2026-06-11 16:09:54,105 [DEBUG]   Filtered (not relevant): Final four and furious: Meet the Section III girls lacrosse team playing in this
+2026-06-11 16:09:54,105 [DEBUG]   Filtered (not relevant): Dear Doctor: Why is whooping cough skyrocketing? I’m pregnant, should I be worri
+2026-06-11 16:09:54,106 [DEBUG]   Filtered (not relevant): Yards Grille is more than just a pretty view (Dining Out Review)
+2026-06-11 16:09:54,106 [DEBUG]   Filtered (not relevant): Section III softball sectional playoff hitting leaders (through June 10)
+2026-06-11 16:09:54,107 [DEBUG]   Filtered (not relevant): Washington high school student dies from lacrosse accident
+2026-06-11 16:09:54,107 [DEBUG]   Filtered (not relevant): Novelis restarts Oswego hot mill hit by two major fires (Good Morning CNY)
+2026-06-11 16:09:54,107 [DEBUG]   Filtered (not relevant): Four years after being robbed of spot, ex-Syracuse star Miles Robinson ready for
+2026-06-11 16:09:54,108 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for June 11
+2026-06-11 16:09:54,108 [DEBUG]   Filtered (not relevant): Asking Eric: Neighbor plops a mango tree right on our property line; do I have t
+2026-06-11 16:09:54,108 [DEBUG]   Filtered (not relevant): Syracuse school board looks to raise board president’s pay 8.6%
+2026-06-11 16:09:54,109 [DEBUG]   Filtered (not relevant): Asking Eric: I plan to write our contemptuous son out of my will; do I owe him a
+2026-06-11 16:09:54,109 [DEBUG]   Filtered (not relevant): Heat advisory issued for Syracuse: Soaring temperatures, severe storms threaten 
+2026-06-11 16:09:54,109 [DEBUG]   Filtered (not relevant): Pop-punk band reactivates MySpace page for 25th anniversary celebration
+2026-06-11 16:09:54,110 [DEBUG]   Filtered (not relevant): CNY Inspirations: Suffering as a part of spiritual practice
+2026-06-11 16:09:54,112 [INFO] News Scanner Run — 2026-06-11 16:09
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • What are realistic expectations for SU football and hoops next year?
+  • Traveling Harriet Tubman statue stops in Syracuse for a week as part of 750-mile
+

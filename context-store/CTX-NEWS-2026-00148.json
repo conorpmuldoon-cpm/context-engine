@@ -1,0 +1,45 @@
+{
+  "record_id": "CTX-NEWS-2026-00148",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangebasketball/2026/06/what-are-realistic-expectations-for-syracuse-football-and-basketball-next-year-podcast.html",
+  "publication_date": "2026-06-11",
+  "capture_date": "2026-06-11T16:09:49Z",
+  "title": "What are realistic expectations for SU football and hoops next year?",
+  "summary": "Sports opinion article about Syracuse University football and basketball expectations for the upcoming season. Not relevant to City of Syracuse municipal operations or Chief Innovation Officer priorities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Brent Axe",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is about collegiate athletics and is not relevant to City of Syracuse municipal governance or innovation initiatives",
+    "No municipal departments, city services, policy issues, or CIO-relevant topics identified",
+    "This appears to be local sports journalism that was included in error or for completeness of local news monitoring",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

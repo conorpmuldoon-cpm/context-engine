@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2026-00149",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/06/traveling-harriet-tubman-statue-stops-in-syracuse-for-a-week-as-part-of-750-mile-walk.html",
+  "publication_date": "2026-06-11",
+  "capture_date": "2026-06-11T16:09:54Z",
+  "title": "Traveling Harriet Tubman statue stops in Syracuse for a week as part of 750-mile walk",
+  "summary": "A traveling 9-foot Harriet Tubman statue depicting her work on the Underground Railroad has stopped at Syracuse City Hall plaza for a week as part of a 750-mile journey. This cultural and historical initiative highlights civic engagement around equity and community heritage.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "historic-preservation",
+    "equity",
+    "parks",
+    "announcement",
+    "initiative-launch"
+  ],
+  "department_refs": [
+    "Parks and Recreation",
+    "Office of the Mayor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Harriet Tubman",
+      "type": "person",
+      "canonical_id": "PERSON-HARRIET-TUBMAN"
+    },
+    {
+      "name": "Syracuse City Hall",
+      "type": "organization",
+      "canonical_id": "FACILITY-SYRACUSE-CITY-HALL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Public display of historical equity narrative at municipal center suggests alignment with values around historic preservation and community narrative celebrating Civil Rights history.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author name extracted: Jeremy Boyer",
+    "No direct CIO/digital services/IT infrastructure implications apparent in article stub",
+    "Likely managed by Parks Department or Office of Cultural Affairs (not listed in canonical departments)",
+    "750-mile journey suggests regional/state coordination; intergovernmental tag considered but not critical",
+    "No budget, procurement, or operational burden data provided",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
