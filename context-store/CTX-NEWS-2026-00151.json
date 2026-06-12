@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2026-00151",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/06/city-lawmakers-urge-mayor-to-fight-for-taxing-syracuse-university-student-center.html",
+  "publication_date": "2026-06-12",
+  "capture_date": "2026-06-12T15:23:37Z",
+  "title": "City lawmakers urge mayor to fight for taxing Syracuse University student center",
+  "summary": "City lawmakers are pressuring Mayor Sharon Owens to appeal a court ruling that prohibits Syracuse from collecting property taxes on part of Syracuse University's main student center. The administration is still deliberating whether to pursue an appeal of the decision, raising questions about tax revenue recovery and the city's relationship with the university.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "tax-revenue",
+    "legislation",
+    "intergovernmental",
+    "mayor",
+    "council",
+    "escalating"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "City council members are advocating for executive action (appeal) on a tax revenue matter involving a major institutional stakeholder, signaling internal pressure on the mayor's administration regarding property tax collection authority and budget priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No specific dollar amounts mentioned in article despite tax-revenue significance",
+    "Court ruling date referenced as 'last week' (relative to 2026-06-12 publication); specific ruling details not provided",
+    "Department responsible for tax assessment/collection not explicitly named; likely Finance or Tax Assessment",
+    "No specific council members identified in excerpt provided; 'lawmakers' used as collective reference",
+    "PROVISIONAL tag consideration: budget-impact potential due to tax-revenue implications",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
