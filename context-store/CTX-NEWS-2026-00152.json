@@ -1,0 +1,51 @@
+{
+  "record_id": "CTX-NEWS-2026-00152",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangefootball/2026/06/2-syracuse-football-recruits-face-charges-for-late-night-assault-in-philadelphia.html",
+  "publication_date": "2026-06-12",
+  "capture_date": "2026-06-13T14:08:04Z",
+  "title": "2 Syracuse football recruits face charges for late-night assault in Philly",
+  "summary": "Two Syracuse University football recruits were charged with assault following a late-night incident in Philadelphia involving a man and woman waiting for rideshare. This story involves reputational risk to a major local institution and potential public safety implications relevant to City leadership awareness.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "crime-data",
+    "trending"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Javon Edmonds",
+      "type": "person",
+      "canonical_id": "PERSON-JAVON-EDMONDS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Criminal charges involving student-athletes from major local university may generate institutional scrutiny and community attention; incident occurred outside city jurisdiction (Philadelphia) but carries reputational implications for Syracuse.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns external jurisdiction (Philadelphia); limited direct City of Syracuse operational impact",
+    "Syracuse University is constituent organization but not City department",
+    "No budget, infrastructure, or City service implications detected",
+    "Date indicates this is historical/archived content (2026 future date suggests test data)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
