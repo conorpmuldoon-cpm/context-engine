@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2026-00153",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/cny/2026/06/former-oswego-mayor-to-take-over-as-top-aide-to-ryan-mcmahon.html",
+  "publication_date": "2026-06-15",
+  "capture_date": "2026-06-15T17:19:42Z",
+  "title": "Former Oswego mayor to take over as top aide to Ryan McMahon",
+  "summary": "Bill Barlow, former mayor of Oswego, has been appointed to a top position in Onondaga County government as a senior aide to County Executive Ryan McMahon, replacing Deputy County Executive Bob Petrovich. This leadership transition at the county level may have implications for city-county coordination on digital services, infrastructure projects, and intergovernmental initiatives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "intergovernmental",
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Bill Barlow",
+      "type": "person",
+      "canonical_id": "PERSON-BILL-BARLOW"
+    },
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Bob Petrovich",
+      "type": "person",
+      "canonical_id": "PERSON-BOB-PETROVICH"
+    },
+    {
+      "name": "Onondaga County Government",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "County executive appointment of experienced local government leader signals continuity in county leadership and potential focus on regional governance coordination.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on county-level personnel change; limited direct relevance to City of Syracuse unless Barlow's role impacts city services or intergovernmental projects",
+    "No department, budget, or policy details provided in article",
+    "Context about Barlow's prior role and qualifications unavailable in article text",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

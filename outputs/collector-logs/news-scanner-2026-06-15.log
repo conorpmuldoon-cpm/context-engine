@@ -1,0 +1,85 @@
+2026-06-15 17:19:36,413 [INFO] ============================================================
+2026-06-15 17:19:36,413 [INFO] News Scanner starting
+2026-06-15 17:19:36,414 [INFO] Fetching: Syracuse.com Politics
+2026-06-15 17:19:37,240 [INFO]   50 new articles from Syracuse.com Politics
+2026-06-15 17:19:37,240 [INFO] Fetching: Syracuse.com Government
+2026-06-15 17:19:37,607 [INFO]   0 new articles from Syracuse.com Government
+2026-06-15 17:19:37,607 [INFO] Fetching: Syracuse.com Local
+2026-06-15 17:19:37,866 [INFO]   0 new articles from Syracuse.com Local
+2026-06-15 17:19:37,866 [INFO] Fetching: Syracuse.com Main
+2026-06-15 17:19:38,125 [INFO]   0 new articles from Syracuse.com Main
+2026-06-15 17:19:38,125 [INFO] Total unique articles across all feeds: 50
+2026-06-15 17:19:38,125 [INFO] New articles (not previously processed): 50
+2026-06-15 17:19:38,175 [INFO]   Relevant: Former Oswego mayor to take over as top aide to Ryan McMahon
+2026-06-15 17:19:38,175 [DEBUG]     → Entities: Ryan McMahon
+2026-06-15 17:19:38,175 [DEBUG]     → Keywords: mayor
+2026-06-15 17:19:42,673 [INFO]     Saved: CTX-NEWS-2026-00153 → CTX-NEWS-2026-00153.json
+2026-06-15 17:19:42,673 [DEBUG]   Filtered (not relevant): Emily Kline promoted to chief people officer at McIntosh Box & Pallet
+2026-06-15 17:19:42,674 [DEBUG]   Filtered (not relevant): Police seek public’s help locating Syracuse man wanted for murder
+2026-06-15 17:19:42,674 [DEBUG]   Filtered (not relevant): North Country man dies when motorcycle slams into back of vehicle
+2026-06-15 17:19:42,675 [DEBUG]   Filtered (not relevant): See who’s graduating from Fabius-Pompey High School; plus Q&As with 2 top studen
+2026-06-15 17:19:42,675 [DEBUG]   Filtered (not relevant): Police identify man killed in Central NY motorcycle crash
+2026-06-15 17:19:42,676 [INFO]   Relevant: Mayor Owens will appeal ruling exempting Syracuse University from taxes on stude
+2026-06-15 17:19:42,676 [DEBUG]     → Entities: Syracuse University
+2026-06-15 17:19:42,676 [DEBUG]     → Departments: Law Department
+2026-06-15 17:19:42,676 [DEBUG]     → Keywords: mayor
+2026-06-15 17:19:45,897 [INFO]     Saved: CTX-NEWS-2026-00154 → CTX-NEWS-2026-00154.json
+2026-06-15 17:19:45,897 [DEBUG]   Filtered (not relevant): UK bans kids under 16 from using social media, including TikTok and YouTube
+2026-06-15 17:19:45,898 [DEBUG]   Filtered (not relevant): Fox to buy streaming pioneer Roku in a $22 billion deal
+2026-06-15 17:19:45,898 [DEBUG]   Filtered (not relevant): Select Garmin watches are on sale at Target this week - Prices start at $189
+2026-06-15 17:19:45,898 [DEBUG]   Filtered (not relevant): Where to watch Belgium vs. Egypt today: World Cup free live stream
+2026-06-15 17:19:45,899 [DEBUG]   Filtered (not relevant): Election 2026: See who’s on primary ballots across Central New York
+2026-06-15 17:19:45,899 [DEBUG]   Filtered (not relevant): HOKA offers fast, last-minute shipping ahead of Father’s Day - Here’s how to get
+2026-06-15 17:19:45,900 [DEBUG]   Filtered (not relevant): See who’s graduating from Fayetteville-Manlius High School; plus Q&As with 2 top
+2026-06-15 17:19:45,900 [DEBUG]   Filtered (not relevant): Carmelo Anthony appears to confirm relationship with CNY native’s widow
+2026-06-15 17:19:45,901 [DEBUG]   Filtered (not relevant): Where to watch Spain vs. Cape Verde today: World Cup free live stream
+2026-06-15 17:19:45,901 [DEBUG]   Filtered (not relevant): $50 Polymarket invite code “CUSE” upgraded in NY, FL, CA for Mets-Reds, Dodgers-
+2026-06-15 17:19:45,902 [DEBUG]   Filtered (not relevant): Alanis Morissette LA residency: How to secure presale tickets before they sell o
+2026-06-15 17:19:45,902 [DEBUG]   Filtered (not relevant): Miss Manners: America is being laughed at abroad, and I’m tired of hearing it on
+2026-06-15 17:19:45,902 [DEBUG]   Filtered (not relevant): No Zamboni needed: A different kind of skating comes to downtown Syracuse next w
+2026-06-15 17:19:45,903 [DEBUG]   Filtered (not relevant): STAR credit checks will start going out soon in NY: How to track yours
+2026-06-15 17:19:45,903 [DEBUG]   Filtered (not relevant): See who’s graduating from Cato-Meridian High School; plus Q&As with 2 top studen
+2026-06-15 17:19:45,904 [DEBUG]   Filtered (not relevant): A bunch of 75-inch TVs are on sale at Walmart - Samsung, VIZIO, Sony, more
+2026-06-15 17:19:45,904 [DEBUG]   Filtered (not relevant): Miss Manners: I would prefer to own my age gracefully, rather than having you ma
+2026-06-15 17:19:45,904 [DEBUG]   Filtered (not relevant): Boeheim’s Army adds former Syracuse Big East player of the year, 10-year NBA vet
+2026-06-15 17:19:45,905 [DEBUG]   Filtered (not relevant): NY sought to shut down Jowonio preschool months before staff left sleeping child
+2026-06-15 17:19:45,905 [DEBUG]   Filtered (not relevant): Beach hazards statement for Monroe and Wayne counties until Monday evening
+2026-06-15 17:19:45,906 [DEBUG]   Filtered (not relevant): Ray Rinaldi, longtime Syracuse boxing icon and advocate for youth, dies at 96
+2026-06-15 17:19:45,906 [DEBUG]   Filtered (not relevant): Mets vs. Reds prediction: Polymarket odds, best bet and hitter projections for M
+2026-06-15 17:19:45,907 [DEBUG]   Filtered (not relevant): Whiskey Myers, fans weather the storm together at a sold-out Beak & Skiff
+2026-06-15 17:19:45,907 [DEBUG]   Filtered (not relevant): Mexico may not win the World Cup, but its fans will compete
+2026-06-15 17:19:45,908 [DEBUG]   Filtered (not relevant): Photos you’ll want to see from Central New York high school spring sports (Week 
+2026-06-15 17:19:45,908 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: Every household cleaner is ‘concentrated,’ and we should be
+2026-06-15 17:19:45,909 [DEBUG]   Filtered (not relevant): Syracuse football earns 2 more verbal commitments in 2027 recruiting class
+2026-06-15 17:19:45,909 [DEBUG]   Filtered (not relevant): Alfredo sauce recalled in 41 states due to potential contamination
+2026-06-15 17:19:45,909 [DEBUG]   Filtered (not relevant): See biggest tax deadbeats in NY: No. 1 owes more than $19 million
+2026-06-15 17:19:45,909 [DEBUG]   Filtered (not relevant): County legislator: The governance fight that matters is over filling vacancies (
+2026-06-15 17:19:45,910 [DEBUG]   Filtered (not relevant): See who’s graduating from Tully High School; plus Q&As with 2 top students
+2026-06-15 17:19:45,911 [INFO]   Relevant: 2 taken into custody after multiple gunshots fired on Syracuse’s South Side
+2026-06-15 17:19:45,911 [DEBUG]     → Departments: Syracuse Police Department
+2026-06-15 17:19:45,911 [DEBUG]     → Keywords: syracuse police
+2026-06-15 17:19:49,492 [INFO]     Saved: CTX-NEWS-2026-00155 → CTX-NEWS-2026-00155.json
+2026-06-15 17:19:49,492 [DEBUG]   Filtered (not relevant): Dear Annie: My wife’s hoarding ruined our marriage; now I wonder if I can sue he
+2026-06-15 17:19:49,493 [DEBUG]   Filtered (not relevant): Van Duyn nursing home gets 2 more worst-of-the-worst violations for resident car
+2026-06-15 17:19:49,493 [DEBUG]   Filtered (not relevant): ‘80s TV star dies at 77, leaves behind a ‘burning hatred for Trump’
+2026-06-15 17:19:49,494 [DEBUG]   Filtered (not relevant): Late pass makes Tim Sears Jr. sixth different Brewerton winner
+2026-06-15 17:19:49,494 [DEBUG]   Filtered (not relevant): Dear Doctor: Is a second $11,000 shot really necessary after the first one?
+2026-06-15 17:19:49,495 [DEBUG]   Filtered (not relevant): Final top 100 Section III boys lacrosse stats leaders for 2026
+2026-06-15 17:19:49,495 [DEBUG]   Filtered (not relevant): See who’s graduating from Living Word Academy; plus Q&As with 2 top students
+2026-06-15 17:19:49,496 [DEBUG]   Filtered (not relevant): Tyra Banks sues Netflix over ‘America’s Next Top Model’ documentary, alleging de
+2026-06-15 17:19:49,496 [DEBUG]   Filtered (not relevant): Culture building, snack bar: See 22 latest business, apartment, land sales ($976
+2026-06-15 17:19:49,497 [DEBUG]   Filtered (not relevant): Asking Eric: Husband refuses to call a handyman he badly needs, but there may be
+2026-06-15 17:19:49,497 [DEBUG]   Filtered (not relevant): Rep. John Mannion rakes in campaign cash as Kailee Buller struggles to attract G
+2026-06-15 17:19:49,499 [INFO] News Scanner Run — 2026-06-15 17:19
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • Former Oswego mayor to take over as top aide to Ryan McMahon
+  • Mayor Owens will appeal ruling exempting Syracuse University from taxes on stude
+  • 2 taken into custody after multiple gunshots fired on Syracuse’s South Side
+

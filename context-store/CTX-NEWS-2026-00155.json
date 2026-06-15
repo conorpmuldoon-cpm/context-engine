@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2026-00155",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/06/2-taken-into-custody-after-multiple-gunshots-fired-on-syracuses-south-side.html",
+  "publication_date": "2026-06-15",
+  "capture_date": "2026-06-15T17:19:49Z",
+  "title": "2 taken into custody after multiple gunshots fired on Syracuse’s South Side",
+  "summary": "Two individuals were taken into custody following multiple gunshots fired on Syracuse's South Side on June 15, 2026. ShotSpotter technology detected several shots in the 100 blocks of Grape Terrace and Danforth Terrace around 8:16 p.m., triggering police response. This incident demonstrates active use of gunshot detection systems in public safety operations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "emergency-services",
+    "public-safety-commission",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Thomas Blake",
+      "type": "person",
+      "canonical_id": "PERSON-THOMAS-BLAKE"
+    },
+    {
+      "name": "ShotSpotter",
+      "type": "system",
+      "canonical_id": "SYS-SHOTSPOTTER"
+    },
+    {
+      "name": "Darian Stevenson",
+      "type": "person",
+      "canonical_id": "PERSON-DARIAN-STEVENSON"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Incident reflects ongoing public safety operations and technology deployment (ShotSpotter) on South Side; potential indicator of community safety priorities and police resource allocation.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No specific innovation or technology policy implications beyond existing ShotSpotter deployment",
+    "Incident location (South Side) may be relevant for neighborhood-level data aggregation",
+    "No budget, staffing, or policy change signals detected",
+    "Article focuses on incident response rather than systemic or strategic CIO concerns",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
