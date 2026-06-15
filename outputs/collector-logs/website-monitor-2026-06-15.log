@@ -1,0 +1,24 @@
+2026-06-15 17:26:46,003 [INFO] ============================================================
+2026-06-15 17:26:46,004 [INFO] Website Monitor starting
+2026-06-15 17:26:49,562 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-06-15 17:26:49,562 [INFO]   Navigating to https://www.syr.gov/News
+2026-06-15 17:26:54,220 [INFO]   Found 10 article links in News
+2026-06-15 17:26:59,220 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-06-15-Mayors-Office-News-1215PM
+2026-06-15 17:27:11,284 [INFO]     Saved: CTX-WEB-2026-00149 → CTX-WEB-2026-00149.json
+2026-06-15 17:27:11,284 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-06-15 17:27:11,284 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-06-15 17:27:14,300 [INFO]   Found 0 article links in Announcements
+2026-06-15 17:27:19,301 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-06-15 17:27:19,301 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-06-15 17:27:22,337 [INFO]   Found 0 article links in Public Notices
+2026-06-15 17:27:27,381 [INFO] Website Monitor Run — 2026-06-15 17:27
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • Mayor Owens and Council Seek Review of Appellate Division Decision
+

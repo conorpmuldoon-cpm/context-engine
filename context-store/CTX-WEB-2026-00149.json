@@ -1,0 +1,72 @@
+{
+  "record_id": "CTX-WEB-2026-00149",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-06-15-Mayors-Office-News-1215PM",
+  "publication_date": "2026-06-15",
+  "capture_date": "2026-06-15T17:27:11Z",
+  "title": "Mayor Owens and Council Seek Review of Appellate Division Decision",
+  "summary": "Mayor Owens and the Syracuse Common Council announced plans to appeal an Appellate Division Fourth Department decision regarding tax-exempt status of the Schine Student Center. The City contends that revenue from public-facing operations at the facility should be subject to taxation, arguing this is necessary to maintain fiscal stability and equitable tax policy while preserving institutional partnerships.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "tax-revenue",
+    "intergovernmental",
+    "business-community",
+    "legislation",
+    "equity",
+    "mayor",
+    "council",
+    "economic-development"
+  ],
+  "department_refs": [
+    "Department of Finance",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Common Council President Paniagua",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Finance Chair Williams",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Schine Student Center",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Appellate Division Fourth Department",
+      "type": "organization",
+      "canonical_id": "ORG-APPELLATE-DIV-4"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "City leadership asserting fiscal necessity and equitable taxation principles while managing relationships with tax-exempt institutional partners. Framed as protecting essential services and community fiscal health.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "First and last names of Council President Paniagua and Finance Chair Williams not fully provided in source; Court appeal details insufficient for full case tracking; Schine Student Center affiliation (likely Syracuse University) not explicitly stated in release",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
