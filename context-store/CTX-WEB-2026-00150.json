@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-WEB-2026-00150",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-06-16-Infrastructure-News-1022-AM",
+  "publication_date": "2026-06-16",
+  "capture_date": "2026-06-16T17:20:25Z",
+  "title": "City Of Syracuse to Close Offices in Observance of Juneteenth Holiday",
+  "summary": "City of Syracuse will close administrative offices on Friday, June 19, 2026, to observe Juneteenth. Trash and recycling collection will continue on regular schedule; metered parking will be free; Department of Public Works yard waste drop-off will be closed; emergency services remain available via 315-448-8360; Cityline service requests can be submitted via app or website.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "recurring",
+    "residents",
+    "service-requests",
+    "facilities"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "City leadership demonstrates commitment to observing Juneteenth as official holiday with full office closure while maintaining essential services and minimizing resident disruption.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Publication date discrepancy: article header shows 2026-06-16 but content states 'Published on June 08, 2026'—June 19 is the actual closure date",
+    "URL categorized under 'Traffic-Infrastructure-News' but content is administrative/holiday-related; may indicate categorization issue in source system",
+    "No budget or financial impact data present",
+    "Author attribution missing from byline",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
