@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00157",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/06/man-who-had-murder-charges-dismissed-twice-sues-syracuse-police-alleging-they-fabricated-evidence.html",
+  "publication_date": "2026-06-16",
+  "capture_date": "2026-06-16T17:02:04Z",
+  "title": "Man who had murder charges dismissed twice sues Syracuse police alleging they fabricated evidence",
+  "summary": "A Syracuse resident filed a lawsuit against Syracuse Police Department and prosecutors alleging evidence fabrication after murder charges were dismissed twice due to insufficient evidence. This case signals potential accountability and transparency issues within law enforcement operations and raises questions about evidence handling procedures and prosecutorial oversight.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "investigation",
+    "complaint",
+    "transparency",
+    "escalating",
+    "litigation"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    },
+    {
+      "name": "Anne Hayes",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Lawsuit alleging evidence fabrication indicates public and legal scrutiny of police conduct and evidentiary practices. May trigger demand for internal affairs review, policy reforms, or training interventions.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article does not name the plaintiff; identified only as 'Syracuse man'",
+    "No financial damages amount specified in excerpt",
+    "Involves both police and prosecutor offices; may require cross-departmental policy review",
+    "PROVISIONAL tag 'litigation' used; not in standard tag list",
+    "Potential connection to evidence handling procedures, chain of custody protocols, and prosecutorial review processes",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'litigation' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

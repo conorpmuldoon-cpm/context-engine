@@ -1,0 +1,84 @@
+2026-06-16 17:01:55,418 [INFO] ============================================================
+2026-06-16 17:01:55,418 [INFO] News Scanner starting
+2026-06-16 17:01:55,420 [INFO] Fetching: Syracuse.com Politics
+2026-06-16 17:01:55,654 [INFO]   50 new articles from Syracuse.com Politics
+2026-06-16 17:01:55,655 [INFO] Fetching: Syracuse.com Government
+2026-06-16 17:01:55,820 [INFO]   0 new articles from Syracuse.com Government
+2026-06-16 17:01:55,821 [INFO] Fetching: Syracuse.com Local
+2026-06-16 17:01:55,985 [INFO]   0 new articles from Syracuse.com Local
+2026-06-16 17:01:55,985 [INFO] Fetching: Syracuse.com Main
+2026-06-16 17:01:56,131 [INFO]   0 new articles from Syracuse.com Main
+2026-06-16 17:01:56,131 [INFO] Total unique articles across all feeds: 50
+2026-06-16 17:01:56,131 [INFO] New articles (not previously processed): 50
+2026-06-16 17:01:56,184 [DEBUG]   Filtered (not relevant): 12 jaw-dropping Upstate NY waterfalls you need to add to your summer bucket list
+2026-06-16 17:01:56,185 [DEBUG]   Filtered (not relevant): Syracuse football loses three-star linebacker commit to UCF following weekend vi
+2026-06-16 17:01:56,185 [DEBUG]   Filtered (not relevant): New York woman wins $10,000 a week for life from lottery scratch-off game, opts 
+2026-06-16 17:01:56,186 [DEBUG]   Filtered (not relevant): School’s reprimand of Palestinian student chills free speech (Your Letters)
+2026-06-16 17:01:56,186 [DEBUG]   Filtered (not relevant): LEGO expected to drop KPop Demon Hunters Derpy Tiger and Sussie Bird set - Here’
+2026-06-16 17:01:56,187 [DEBUG]   Filtered (not relevant): Overheard at syracuse.com’s All-CNY spring 2026 photo shoot: ‘Man, that’s you wi
+2026-06-16 17:01:56,187 [INFO]   Relevant: Syracuse schools to receive $4 million in federal funds for mental health suppor
+2026-06-16 17:01:56,187 [DEBUG]     → Entities: Syracuse City School District
+2026-06-16 17:01:59,962 [INFO]     Saved: CTX-NEWS-2026-00156 → CTX-NEWS-2026-00156.json
+2026-06-16 17:01:59,963 [DEBUG]   Filtered (not relevant): Syracuse.com and Post-Standard lead all newsrooms in NY publishers’ Awards for E
+2026-06-16 17:01:59,963 [DEBUG]   Filtered (not relevant): Upstate NY man wins $5 million from lottery scratch-off ticket he bought at his 
+2026-06-16 17:01:59,964 [DEBUG]   Filtered (not relevant): Free downtown Syracuse concert series returns to Hanover Square
+2026-06-16 17:01:59,964 [DEBUG]   Filtered (not relevant): A sticky mess: Liquid asphalt spills on I-81 South in Syracuse causing traffic d
+2026-06-16 17:01:59,965 [DEBUG]   Filtered (not relevant): Where to watch France vs. Senegal today: FIFA World Cup free stream
+2026-06-16 17:01:59,965 [DEBUG]   Filtered (not relevant): Toy Story Crocs for toddlers drop today in a playful new release inspired by you
+2026-06-16 17:01:59,965 [DEBUG]   Filtered (not relevant): Bills announce 7 open training camp dates at St. John Fisher: Dates, times & tic
+2026-06-16 17:01:59,966 [DEBUG]   Filtered (not relevant): Apple Music is offering one month free right now — here’s how to get it
+2026-06-16 17:01:59,966 [DEBUG]   Filtered (not relevant): Everything you need to know about Target’s Circle Deal Days: Duration, discounts
+2026-06-16 17:01:59,967 [DEBUG]   Filtered (not relevant): See who’s graduating from Solvay High School; plus Q&As with 2 top students
+2026-06-16 17:01:59,967 [DEBUG]   Filtered (not relevant): NYS Fair selling discount tickets starting this week
+2026-06-16 17:01:59,968 [DEBUG]   Filtered (not relevant): Outdoor retail chain files for bankruptcy, will close 2 stores in Upstate NY
+2026-06-16 17:01:59,968 [DEBUG]   Filtered (not relevant): World Cup fever unites border communities despite U.S.-Mexico tensions
+2026-06-16 17:01:59,968 [DEBUG]   Filtered (not relevant): Miss Manners: I just asked for the volume to be turned down, and you threatened 
+2026-06-16 17:01:59,969 [DEBUG]   Filtered (not relevant): Polymarket updates $50 invite code “CUSE” in NY, MA, MO for World Cup matches on
+2026-06-16 17:01:59,970 [DEBUG]   Filtered (not relevant): Fast-growing chain serving bowls and smoothies is opening Onondaga County spot s
+2026-06-16 17:01:59,970 [DEBUG]   Filtered (not relevant): Early voting starts in New York’s primaries: Here’s where and when to vote
+2026-06-16 17:01:59,971 [DEBUG]   Filtered (not relevant): Don’t get the Ninja SLUSHi - this ‘hassle-free’ slushie machine on sale and it’s
+2026-06-16 17:01:59,971 [DEBUG]   Filtered (not relevant): Turning Stone sets opening dates for new hotel, restaurant in $400 million expan
+2026-06-16 17:01:59,971 [DEBUG]   Filtered (not relevant): Company news: Rylee Kirk rejoins syracuse.com | The Post-Standard
+2026-06-16 17:01:59,972 [DEBUG]   Filtered (not relevant): Camillus to pay $495,000 to settle lawsuit against police over hostile workplace
+2026-06-16 17:01:59,972 [DEBUG]   Filtered (not relevant): Argentina vs. Algeria prediction: Polymarket odds, best bet, Messi World Cup pro
+2026-06-16 17:01:59,973 [DEBUG]   Filtered (not relevant): Over 17,000 coffeemakers recalled due to serious burn injury risk
+2026-06-16 17:01:59,973 [DEBUG]   Filtered (not relevant): FBI says it disrupted ‘planned attacks’ at White House UFC event; 5 arrested
+2026-06-16 17:01:59,974 [DEBUG]   Filtered (not relevant): Planet Fitness offers free gym passes for teens all summer
+2026-06-16 17:01:59,974 [INFO]   Relevant: Man who had murder charges dismissed twice sues Syracuse police alleging they fa
+2026-06-16 17:01:59,974 [DEBUG]     → Departments: Syracuse Police Department
+2026-06-16 17:01:59,974 [DEBUG]     → Keywords: syracuse police
+2026-06-16 17:02:04,057 [WARNING]     Tag issue: Unknown tag 'litigation' not in taxonomy
+2026-06-16 17:02:04,068 [INFO]     Saved: CTX-NEWS-2026-00157 → CTX-NEWS-2026-00157.json
+2026-06-16 17:02:04,069 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: The one preventative health habit that’s worth literal mone
+2026-06-16 17:02:04,070 [DEBUG]   Filtered (not relevant): Viral hype is real for Angelo’s Pizza Bar, which is neither a pizza shop nor a b
+2026-06-16 17:02:04,070 [INFO]   Relevant: Where is justice for F-M runners who paid a steep price? (Guest Opinion by Georg
+2026-06-16 17:02:04,070 [DEBUG]     → Entities: Syracuse University
+2026-06-16 17:02:08,398 [WARNING]     Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-06-16 17:02:08,409 [INFO]     Saved: CTX-NEWS-2026-00158 → CTX-NEWS-2026-00158.json
+2026-06-16 17:02:08,410 [DEBUG]   Filtered (not relevant): IKEA set to open second Upstate NY store in 2027
+2026-06-16 17:02:08,410 [DEBUG]   Filtered (not relevant): See who’s graduating from West Genesee High School; plus Q&As with 2 top student
+2026-06-16 17:02:08,411 [DEBUG]   Filtered (not relevant): Dear Annie: Daughter with schizophrenia overheard family talking about her, and 
+2026-06-16 17:02:08,411 [DEBUG]   Filtered (not relevant): Onondaga High School League girls golf all-stars announced for 2026
+2026-06-16 17:02:08,412 [DEBUG]   Filtered (not relevant): How is Syracuse airport performing? See latest data on flight delays
+2026-06-16 17:02:08,412 [DEBUG]   Filtered (not relevant): Developer says proposed 103-room hotel near Micron won’t happen without tax brea
+2026-06-16 17:02:08,412 [DEBUG]   Filtered (not relevant): NY officials float major changes to high school graduation requirements
+2026-06-16 17:02:08,413 [DEBUG]   Filtered (not relevant): NY Mets send pitcher to Syracuse, reactivate Kodai Senga off IL
+2026-06-16 17:02:08,413 [DEBUG]   Filtered (not relevant): Final top 100 Section III girls lacrosse stats leaders for 2026
+2026-06-16 17:02:08,414 [DEBUG]   Filtered (not relevant): Dear Doctor: Daughter refuses to seek professional help during manic psychotic b
+2026-06-16 17:02:08,414 [DEBUG]   Filtered (not relevant): Salt City Athletic Conference Metro softball all-stars announced for 2026
+2026-06-16 17:02:08,414 [DEBUG]   Filtered (not relevant): See who’s graduating from Baldwinsville high school; plus Q&As with 2 top studen
+2026-06-16 17:02:08,415 [DEBUG]   Filtered (not relevant): Some of the 11 skydivers killed in Missouri plane crash were experienced jumpers
+2026-06-16 17:02:08,415 [DEBUG]   Filtered (not relevant): Iran says deal to end war with US requires Israel to withdraw from Lebanon
+2026-06-16 17:02:08,417 [INFO] News Scanner Run — 2026-06-16 17:02
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • Syracuse schools to receive $4 million in federal funds for mental health suppor
+  • Man who had murder charges dismissed twice sues Syracuse police alleging they fa
+  • Where is justice for F-M runners who paid a steep price? (Guest Opinion by Georg
+

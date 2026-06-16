@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-NEWS-2026-00158",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/06/where-is-justice-for-f-m-runners-who-paid-a-steep-price-guest-opinion-by-george-theoharis-kristin-white.html",
+  "publication_date": "2026-06-16",
+  "capture_date": "2026-06-16T17:02:08Z",
+  "title": "Where is justice for F-M runners who paid a steep price? (Guest Opinion by George Theoharis & Kristin White)",
+  "summary": "Guest opinion from Syracuse University professor and Fayetteville-Manlius resident questioning justice and accountability for local runners who experienced negative consequences from an unspecified incident. The article appears to address a community grievance involving student-athletes, though specific details and city department connections are not evident from the provided excerpt.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "residents",
+    "advocacy",
+    "PROVISIONAL:student-athlete-welfare"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "George Theoharis",
+      "type": "person",
+      "canonical_id": "PERSON-GEORGE-THEOHARIS"
+    },
+    {
+      "name": "Kristin White",
+      "type": "person",
+      "canonical_id": "PERSON-KRISTIN-WHITE"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIV"
+    },
+    {
+      "name": "Fayetteville-Manlius",
+      "type": "organization",
+      "canonical_id": "PROVISIONAL:FM-SCHOOL-DISTRICT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Community members raising accountability questions regarding treatment of local runners; potential district/institutional governance concern",
+    "confidence": "low"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content excerpt insufficient to determine specific incident or affected parties",
+    "No Syracuse city government department references detected",
+    "Primarily addresses education/athletics matter rather than municipal operations",
+    "CIO relevance unclear without full article text; may relate to transparency/records if institutional accountability is the underlying issue",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00156",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/schools/2026/06/syracuse-schools-to-receive-4-million-in-federal-funds-for-mental-health-support.html",
+  "publication_date": "2026-06-16",
+  "capture_date": "2026-06-16T17:01:59Z",
+  "title": "Syracuse schools to receive $4 million in federal funds for mental health support",
+  "summary": "Syracuse City School District will receive $4 million in federal funding over four years to expand mental health services by hiring additional school psychologists. This federal grant represents a significant investment in student mental health infrastructure and workforce development within the district.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "federal-programs",
+    "grants",
+    "hiring",
+    "workforce-development",
+    "equity",
+    "initiative-launch"
+  ],
+  "department_refs": [
+    "Syracuse City School District"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse City School District",
+      "type": "organization",
+      "canonical_id": "ORG-SCSD"
+    },
+    {
+      "name": "Emalyn Muzzy",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Federal funding commitment to mental health support signals alignment with national student wellness priorities and demonstrates investment in youth mental health infrastructure.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount validated as $4 million (initial extraction showed only '$4')",
+    "Article date is 2026-06-16; verify if this is future-dated or data entry error",
+    "No direct CIO department involvement detected, but relevant for digital services/data-governance if mental health tracking systems are involved",
+    "School District is separate municipal entity; note for intergovernmental coordination",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
