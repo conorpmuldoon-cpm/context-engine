@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-NEWS-2026-00161",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/06/project-mends-patrick-w-berry-on-leadership-try-to-see-the-good-in-people.html",
+  "publication_date": "2026-06-17",
+  "capture_date": "2026-06-17T15:43:09Z",
+  "title": "Project Mend’s Patrick W. Berry on leadership: Try to see the good in people",
+  "summary": "Article profiles Patrick W. Berry, a Syracuse University writing professor and leader at Project Mend, discussing his leadership philosophy centered on creating inclusive spaces and recognizing human potential. While focused on personal leadership values rather than municipal operations, the piece highlights civic engagement and community-oriented leadership relevant to Syracuse's innovation ecosystem.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "business-community",
+    "workforce-development"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Patrick W. Berry",
+      "type": "person",
+      "canonical_id": "PERSON-PATRICK-BERRY"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIVERSITY"
+    },
+    {
+      "name": "Project Mend",
+      "type": "organization",
+      "canonical_id": "ORG-PROJECT-MEND"
+    },
+    {
+      "name": "Marie Morelli",
+      "type": "person",
+      "canonical_id": "PERSON-MARIE-MORELLI"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Article promotes inclusive leadership and community engagement values aligned with innovation and equity priorities, though primarily a profile piece rather than policy signal.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily a leadership profile rather than municipal governance or CIO-specific content",
+    "No direct budget, policy, or operational implications detected",
+    "Syracuse University partnership/community engagement may be relevant for innovation ecosystem context",
+    "Project Mend organization requires further research to establish municipal connection/relevance",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

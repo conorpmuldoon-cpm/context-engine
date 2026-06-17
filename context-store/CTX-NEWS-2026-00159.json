@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00159",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/06/thousands-under-boil-water-advisory-in-rome-after-filtration-facility-problem.html",
+  "publication_date": "2026-06-17",
+  "capture_date": "2026-06-17T15:43:00Z",
+  "title": "Thousands under boil water advisory in Rome after filtration facility breakdown",
+  "summary": "Rome, NY issued a boil water advisory after a loss of residual chlorine was detected at the city's water filtration facility on June 17, 2026 at 4 p.m. The facility was repaired and fully operational by 4:45 p.m. the same day. This incident highlights critical infrastructure vulnerability in regional water systems that Syracuse CIO should monitor for potential mutual aid coordination and resilience planning.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "infrastructure",
+    "emergency-services",
+    "resolved",
+    "announcement",
+    "intergovernmental"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "City of Rome",
+      "type": "organization",
+      "canonical_id": "ORG-ROME-NY"
+    },
+    {
+      "name": "Kimberly Rogers",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Water infrastructure resilience is a shared municipal priority; Rome's rapid response (45-minute resolution) demonstrates operational competency but also exposes systemic vulnerability in regional water treatment that may warrant Syracuse engagement on SCMTOA or Mohawk Valley coordination initiatives.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is geographically external to Syracuse but operationally relevant to regional infrastructure interdependencies",
+    "No budget, contract, or legislative dimensions detected",
+    "Entity Kimberly Rogers identified as mayor's chief of staff but no canonical ID available in source",
+    "Incident classified as 'resolved' based on same-day remediation timeline",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

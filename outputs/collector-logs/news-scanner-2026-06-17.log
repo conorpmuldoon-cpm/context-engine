@@ -1,0 +1,81 @@
+2026-06-17 15:42:55,424 [INFO] ============================================================
+2026-06-17 15:42:55,424 [INFO] News Scanner starting
+2026-06-17 15:42:55,426 [INFO] Fetching: Syracuse.com Politics
+2026-06-17 15:42:55,798 [INFO]   50 new articles from Syracuse.com Politics
+2026-06-17 15:42:55,798 [INFO] Fetching: Syracuse.com Government
+2026-06-17 15:42:56,031 [INFO]   0 new articles from Syracuse.com Government
+2026-06-17 15:42:56,031 [INFO] Fetching: Syracuse.com Local
+2026-06-17 15:42:56,188 [INFO]   0 new articles from Syracuse.com Local
+2026-06-17 15:42:56,188 [INFO] Fetching: Syracuse.com Main
+2026-06-17 15:42:56,350 [INFO]   0 new articles from Syracuse.com Main
+2026-06-17 15:42:56,351 [INFO] Total unique articles across all feeds: 50
+2026-06-17 15:42:56,351 [INFO] New articles (not previously processed): 50
+2026-06-17 15:42:56,402 [DEBUG]   Filtered (not relevant): NYS DMV unveils new license plate design for America’s 250th birthday
+2026-06-17 15:42:56,402 [DEBUG]   Filtered (not relevant): Asking Eric: A large gift doesn’t always mean ‘love’ to recipient, especially wh
+2026-06-17 15:42:56,403 [DEBUG]   Filtered (not relevant): Wilco delivers a weird, wonderful set at Beak & Skiff with classic fan favorites
+2026-06-17 15:42:56,403 [DEBUG]   Filtered (not relevant): North West announces ‘Kimokawaii Tour’ with Molly Santana: How to get tickets
+2026-06-17 15:42:56,404 [DEBUG]   Filtered (not relevant): Popular bakery proposes third location in Onondaga County
+2026-06-17 15:42:56,404 [DEBUG]   Filtered (not relevant): Syracuse target and NY’s No. 1 running back Elijah Kimble sets date for college 
+2026-06-17 15:42:56,405 [DEBUG]   Filtered (not relevant): Missed the surprise ‘Summer House: The Aftermath’? How to watch it for free righ
+2026-06-17 15:42:56,405 [DEBUG]   Filtered (not relevant): Miss Manners: Restaurant keeps bringing the cocktail with dinner, not before; is
+2026-06-17 15:42:56,406 [INFO]   Relevant: Thousands under boil water advisory in Rome after filtration facility breakdown
+2026-06-17 15:42:56,406 [DEBUG]     → Keywords: mayor
+2026-06-17 15:43:00,923 [INFO]     Saved: CTX-NEWS-2026-00159 → CTX-NEWS-2026-00159.json
+2026-06-17 15:43:00,924 [DEBUG]   Filtered (not relevant): Walmart’s 4.3 star patio gazebo is more than $100 off ahead of July 4 weekend
+2026-06-17 15:43:00,924 [DEBUG]   Filtered (not relevant): Famous rapper, singer to close out NYS Fair free concert series
+2026-06-17 15:43:00,925 [DEBUG]   Filtered (not relevant): See who’s graduating from Westhill High School; plus Q&As with 2 top students
+2026-06-17 15:43:00,925 [DEBUG]   Filtered (not relevant): Miss Manners: One guest at dinner party insists on taking socks off; am I crazy,
+2026-06-17 15:43:00,926 [DEBUG]   Filtered (not relevant): Where to watch Portugal vs. Congo DR today: World Cup free live stream
+2026-06-17 15:43:00,926 [DEBUG]   Filtered (not relevant): Polymarket extends $50 invite code “CUSE” in NY, TX for Wednesday World Cup matc
+2026-06-17 15:43:00,927 [DEBUG]   Filtered (not relevant): Man ‘hunted’ former coworker and killed him in confrontation over a woman, prose
+2026-06-17 15:43:00,927 [DEBUG]   Filtered (not relevant): How to get The Strokes presale tickets for their Queens hometown show before the
+2026-06-17 15:43:00,927 [DEBUG]   Filtered (not relevant): Tri-Valley League girls lacrosse all-stars announced for 2026
+2026-06-17 15:43:00,928 [DEBUG]   Filtered (not relevant): Expert England vs. Croatia prediction: Polymarket odds, best bet and World Cup p
+2026-06-17 15:43:00,928 [DEBUG]   Filtered (not relevant): Onondaga High School League Liberty baseball all-stars announced for 2026
+2026-06-17 15:43:00,929 [DEBUG]   Filtered (not relevant): Syracuse’s little Hanover Square has witnessed a lot in almost 200 years
+2026-06-17 15:43:00,929 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: Here’s how I was saved by my credit card when no one else w
+2026-06-17 15:43:00,930 [DEBUG]   Filtered (not relevant): Special Olympics: Changing lives with sports competition (Enable: The Disability
+2026-06-17 15:43:00,930 [DEBUG]   Filtered (not relevant): Dear Annie: Days after ending our friendship, woman acts like nothing has change
+2026-06-17 15:43:00,931 [DEBUG]   Filtered (not relevant): See who’s graduating from Hannibal High School; plus Q&A with top student
+2026-06-17 15:43:00,931 [DEBUG]   Filtered (not relevant): See NY school districts ranked 1 to 637 based on new ELA Regents
+2026-06-17 15:43:00,932 [DEBUG]   Filtered (not relevant): Dear Annie: One of the worst people I’ve ever known just joined my gym; now I se
+2026-06-17 15:43:00,932 [DEBUG]   Filtered (not relevant): ‘Never Change!’ now streaming: See reviews for American High’s latest movie in S
+2026-06-17 15:43:00,933 [DEBUG]   Filtered (not relevant): Company news: Mark Re to oversee Howard Hanna operations in Capital District, So
+2026-06-17 15:43:00,933 [DEBUG]   Filtered (not relevant): Final top 100 Section III baseball pitching leaders for 2026
+2026-06-17 15:43:00,934 [DEBUG]   Filtered (not relevant): Dear Doctor: I had extremely painful surgery, and doctors refuse to give me enou
+2026-06-17 15:43:00,934 [DEBUG]   Filtered (not relevant): Final top 100 Section III baseball hitting leaders for 2026
+2026-06-17 15:43:00,934 [DEBUG]   Filtered (not relevant): Destiny USA’s crushing debt problem just took another turn. What it could mean f
+2026-06-17 15:43:00,935 [DEBUG]   Filtered (not relevant): Man arrested for drugs, gun possession after Thruway traffic stop in CNY
+2026-06-17 15:43:00,935 [DEBUG]   Filtered (not relevant): See who’s graduating from Southern Cayuga High School; plus Q&As with 2 top stud
+2026-06-17 15:43:00,936 [DEBUG]   Filtered (not relevant): Commission says its investigation of judge was better than grand jury’s (Good Mo
+2026-06-17 15:43:00,936 [DEBUG]   Filtered (not relevant): Great Scots! World Cup visitors shoot an ace on same hole at CNY golf course
+2026-06-17 15:43:00,937 [DEBUG]   Filtered (not relevant): Asking Eric: Don’t get offended for not getting invites after never showing up i
+2026-06-17 15:43:00,937 [DEBUG]   Filtered (not relevant): ‘The Simpsons’ new Disney+ special premieres today: How to watch ‘Extreme Makeov
+2026-06-17 15:43:00,937 [DEBUG]   Filtered (not relevant): ‘I was broken’: Bills HC Brady opens up on the day McDermott was fired (video)
+2026-06-17 15:43:00,938 [DEBUG]   Filtered (not relevant): A powerful storm is expected to hit Central NY with damaging winds and heavy rai
+2026-06-17 15:43:00,938 [DEBUG]   Filtered (not relevant): Asking Eric: Son-in-law makes a bizarre and stingy decision around my Mother’s D
+2026-06-17 15:43:00,939 [DEBUG]   Filtered (not relevant): Algae turns Reflecting Pool green after $14 million renovation
+2026-06-17 15:43:00,939 [DEBUG]   Filtered (not relevant): NY serial killer to be sentenced for Gilgo Beach murders
+2026-06-17 15:43:00,940 [DEBUG]   Filtered (not relevant): Federal government seeks to halt first US reparations program for Black people
+2026-06-17 15:43:00,940 [INFO]   Relevant: Beating by 2 Syracuse football recruits in Philly left victim with concussion, b
+2026-06-17 15:43:00,940 [DEBUG]     → Entities: Syracuse University
+2026-06-17 15:43:05,420 [INFO]     Saved: CTX-NEWS-2026-00160 → CTX-NEWS-2026-00160.json
+2026-06-17 15:43:05,421 [INFO]   Relevant: Project Mend’s Patrick W. Berry on leadership: Try to see the good in people
+2026-06-17 15:43:05,421 [DEBUG]     → Entities: Syracuse University
+2026-06-17 15:43:09,197 [INFO]     Saved: CTX-NEWS-2026-00161 → CTX-NEWS-2026-00161.json
+2026-06-17 15:43:09,198 [DEBUG]   Filtered (not relevant): Dear Abby: Reality of my deadbeat boyfriend starting to sink in after we move in
+2026-06-17 15:43:09,198 [DEBUG]   Filtered (not relevant): ‘Epic’ rock band returning for first tour in 12 years
+2026-06-17 15:43:09,199 [DEBUG]   Filtered (not relevant): Dear Abby: Husband’s shocking death ripped the family apart, and I think they wi
+2026-06-17 15:43:09,201 [INFO] News Scanner Run — 2026-06-17 15:43
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • Thousands under boil water advisory in Rome after filtration facility breakdown
+  • Beating by 2 Syracuse football recruits in Philly left victim with concussion, b
+  • Project Mend’s Patrick W. Berry on leadership: Try to see the good in people
+
