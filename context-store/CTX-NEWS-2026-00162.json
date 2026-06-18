@@ -1,0 +1,53 @@
+{
+  "record_id": "CTX-NEWS-2026-00162",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/06/national-grid-infrastructure-upgrades-power-upstate-ny-business-guest-opinion-by-alberto-bianchetti.html",
+  "publication_date": "2026-06-18",
+  "capture_date": "2026-06-18T15:34:18Z",
+  "title": "National Grid: Infrastructure upgrades are powering Upstate NY business (Guest Opinion by Alberto Bianchetti)",
+  "summary": "National Grid Regional Director Alberto Bianchetti advocates for infrastructure upgrades in Upstate NY, positioning utility investments as critical drivers for regional business competitiveness. This guest opinion signals private-sector perspective on public infrastructure needs relevant to economic development strategy.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "economic-development",
+    "business-community",
+    "intergovernmental"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Alberto Bianchetti",
+      "type": "person",
+      "canonical_id": "PERSON-ALBERTO-BIANCHETTI"
+    },
+    {
+      "name": "National Grid",
+      "type": "organization",
+      "canonical_id": "ORG-NATIONAL-GRID"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Private utility company advocates for infrastructure investment priorities aligned with regional economic development objectives; represents external stakeholder perspective on public infrastructure needs.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Guest opinion piece—external stakeholder perspective rather than city policy/operations",
+    "No internal city departments referenced; content focuses on utility-scale infrastructure",
+    "No budget figures, specific projects, or decision points detected in metadata",
+    "Relevant for CIO's awareness of regional infrastructure partnerships and economic development alignment",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

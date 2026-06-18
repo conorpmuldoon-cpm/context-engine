@@ -1,0 +1,75 @@
+2026-06-18 15:34:13,978 [INFO] ============================================================
+2026-06-18 15:34:13,978 [INFO] News Scanner starting
+2026-06-18 15:34:13,980 [INFO] Fetching: Syracuse.com Politics
+2026-06-18 15:34:14,399 [INFO]   50 new articles from Syracuse.com Politics
+2026-06-18 15:34:14,399 [INFO] Fetching: Syracuse.com Government
+2026-06-18 15:34:14,553 [INFO]   0 new articles from Syracuse.com Government
+2026-06-18 15:34:14,554 [INFO] Fetching: Syracuse.com Local
+2026-06-18 15:34:14,705 [INFO]   0 new articles from Syracuse.com Local
+2026-06-18 15:34:14,705 [INFO] Fetching: Syracuse.com Main
+2026-06-18 15:34:14,860 [INFO]   0 new articles from Syracuse.com Main
+2026-06-18 15:34:14,860 [INFO] Total unique articles across all feeds: 50
+2026-06-18 15:34:14,860 [INFO] New articles (not previously processed): 50
+2026-06-18 15:34:14,912 [DEBUG]   Filtered (not relevant): See who’s graduating from Cicero North Syracuse High School; plus Q&As with 2 to
+2026-06-18 15:34:14,913 [DEBUG]   Filtered (not relevant): Thirsty hiker rescued, rehydrated in Adirondack High Peaks
+2026-06-18 15:34:14,913 [DEBUG]   Filtered (not relevant): Daughter of Oscar-winning director found dead with husband in running car
+2026-06-18 15:34:14,913 [DEBUG]   Filtered (not relevant): Severe thunderstorm warnings issued for Central NY; tornado watch remains in eff
+2026-06-18 15:34:14,914 [DEBUG]   Filtered (not relevant): Syracuse's Tyus Battle on his new job, his goals and SU’s 2026-27 roster
+2026-06-18 15:34:14,915 [DEBUG]   Filtered (not relevant): Update: Tornado warning in place for Cortland and Tompkins counties Thursday mid
+2026-06-18 15:34:14,915 [DEBUG]   Filtered (not relevant): Best Buy offers a ‘trending deal’ on the GE Profile Opal Ice Maker ahead of July
+2026-06-18 15:34:14,916 [DEBUG]   Filtered (not relevant): Syracuse man now charged with attempting to kill 11 police officers during Pione
+2026-06-18 15:34:14,916 [DEBUG]   Filtered (not relevant): Tornado watch issued for Central NY until Thursday afternoon
+2026-06-18 15:34:14,916 [DEBUG]   Filtered (not relevant): What’s it like to be an extra in a movie? Dodging balls as a background actor in
+2026-06-18 15:34:14,917 [DEBUG]   Filtered (not relevant): Update: Thunderstorms with damaging winds in Central NY, Mohawk Valley Thursday 
+2026-06-18 15:34:14,917 [DEBUG]   Filtered (not relevant): Tornado watch affecting Mohawk Valley, Capital Region until Thursday afternoon
+2026-06-18 15:34:14,918 [DEBUG]   Filtered (not relevant): Tornado watch issued for parts of Upstate NY until Thursday afternoon
+2026-06-18 15:34:14,918 [DEBUG]   Filtered (not relevant): Update: Tornado watch for Central NY, North Country until Thursday afternoon
+2026-06-18 15:34:14,918 [DEBUG]   Filtered (not relevant): Tornado watch for North Country until Thursday afternoon
+2026-06-18 15:34:14,919 [DEBUG]   Filtered (not relevant): ‘Slap in the face.’ Trump approval rating on economy at all-time low
+2026-06-18 15:34:14,919 [INFO]   Relevant: National Grid: Infrastructure upgrades are powering Upstate NY business (Guest O
+2026-06-18 15:34:14,919 [DEBUG]     → Entities: National Grid
+2026-06-18 15:34:18,438 [INFO]     Saved: CTX-NEWS-2026-00162 → CTX-NEWS-2026-00162.json
+2026-06-18 15:34:18,439 [DEBUG]   Filtered (not relevant): Miss Manners: Just because I’m 25 doesn’t mean I’m an inexperienced professional
+2026-06-18 15:34:18,439 [DEBUG]   Filtered (not relevant): Restaurant inspections: 5 Taste of Syracuse vendors fail, 39 pass
+2026-06-18 15:34:18,440 [DEBUG]   Filtered (not relevant): Update: Penny-sized hail and damaging winds forecast with thunderstorms to hit C
+2026-06-18 15:34:18,440 [DEBUG]   Filtered (not relevant): Syracuse’s 38th annual Juneteenth celebration returns with parade, 2-day festiva
+2026-06-18 15:34:18,441 [DEBUG]   Filtered (not relevant): Polymarket launches $50 invite code “CUSE” in NY, PA for Mets-Phillies, MLB Thur
+2026-06-18 15:34:18,441 [DEBUG]   Filtered (not relevant): Didn’t get tickets to The Strokes' Queens show? Here’s where you can still buy t
+2026-06-18 15:34:18,442 [DEBUG]   Filtered (not relevant): Syracuse.com’s All-Central New York small school boys track team announced for 2
+2026-06-18 15:34:18,442 [DEBUG]   Filtered (not relevant): Update: Damaging winds expected with thunderstorms to hit Allegany County Thursd
+2026-06-18 15:34:18,443 [DEBUG]   Filtered (not relevant): Walmart slashes the price of its ‘overall pick’ 4-star patio set - get it for $6
+2026-06-18 15:34:18,443 [DEBUG]   Filtered (not relevant): See who’s graduating from Camden High School; plus Q&As with 2 top students
+2026-06-18 15:34:18,444 [DEBUG]   Filtered (not relevant): Museum storage visits: How to see hidden art collections in Central NY
+2026-06-18 15:34:18,444 [DEBUG]   Filtered (not relevant): Man accused of ‘hunting’ former coworker tells jury gun went off during a strugg
+2026-06-18 15:34:18,444 [DEBUG]   Filtered (not relevant): Where to watch Czechia vs. South Africa: World Cup free live stream
+2026-06-18 15:34:18,445 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: Need some paint? Bet you never thought of this trick and mo
+2026-06-18 15:34:18,445 [DEBUG]   Filtered (not relevant): Mets vs. Phillies prediction: Polymarket odds, props, projections and best bet f
+2026-06-18 15:34:18,446 [DEBUG]   Filtered (not relevant): Update: Tornado warning for Cattaraugus County Thursday morning — seek safe shel
+2026-06-18 15:34:18,447 [DEBUG]   Filtered (not relevant): Update: Thunderstorms with damaging winds in Cattaraugus County Thursday — winds
+2026-06-18 15:34:18,447 [DEBUG]   Filtered (not relevant): Syracuse.com’s All-Central New York small school girls track team announced for 
+2026-06-18 15:34:18,447 [DEBUG]   Filtered (not relevant): Revive tradition of celebrating Jerry Rescue Day in Syracuse (Guest Opinion by G
+2026-06-18 15:34:18,448 [DEBUG]   Filtered (not relevant): Dear Annie: Starting to think I was promoted past what I’m capable of, and every
+2026-06-18 15:34:18,449 [DEBUG]   Filtered (not relevant): See who’s graduating from Madison Central School; plus Q&As with 2 top students
+2026-06-18 15:34:18,449 [DEBUG]   Filtered (not relevant): Teaching kids to clean the bathroom is a test of patience, but well worth it (Su
+2026-06-18 15:34:18,450 [DEBUG]   Filtered (not relevant): Dear Annie: Time to trade soul-sucking six-figure job for the risk of chasing my
+2026-06-18 15:34:18,450 [DEBUG]   Filtered (not relevant): Center State Conference baseball all-stars announced for 2026
+2026-06-18 15:34:18,451 [DEBUG]   Filtered (not relevant): Update: Flash flood warning in place for Erie County Thursday morning triggered 
+2026-06-18 15:34:18,451 [DEBUG]   Filtered (not relevant): Weather alert announced for thunderstorms and heavy rain in Niagara and Erie cou
+2026-06-18 15:34:18,452 [DEBUG]   Filtered (not relevant): Final Top 100 Section III softball pitching leaders for 2026
+2026-06-18 15:34:18,452 [DEBUG]   Filtered (not relevant): Intentional cooking and warm service set the tone at The Cider Mill (Dining Out 
+2026-06-18 15:34:18,453 [DEBUG]   Filtered (not relevant): Salt City Athletic Conference Empire softball all-stars announced for 2026
+2026-06-18 15:34:18,453 [DEBUG]   Filtered (not relevant): Dear Doctor: Cancer surgeon and Parkinson’s doctor at odds over best path forwar
+2026-06-18 15:34:18,454 [DEBUG]   Filtered (not relevant): Final Top 100 Section III softball hitting leaders for 2026
+2026-06-18 15:34:18,454 [DEBUG]   Filtered (not relevant): NY Knicks to visit White House; first NBA team to accept Trump invitation
+2026-06-18 15:34:18,454 [DEBUG]   Filtered (not relevant): Asking Eric: Just when I gave up on dating, a single guy wants my attention, but
+2026-06-18 15:34:18,456 [INFO] News Scanner Run — 2026-06-18 15:34
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • National Grid: Infrastructure upgrades are powering Upstate NY business (Guest O
+
