@@ -1,0 +1,65 @@
+{
+  "record_id": "CTX-NEWS-2026-00163",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/06/county-picks-national-contractor-for-building-1-billion-micron-wastewater-plant.html",
+  "publication_date": "2026-06-19",
+  "capture_date": "2026-06-19T15:28:49Z",
+  "title": "County picks national contractor for building $1 billion Micron wastewater plant",
+  "summary": "Onondaga County has selected a national contractor to build a $1 billion wastewater treatment plant to handle Micron Technology's industrial waste. This represents the largest county construction project in history and signals major economic development infrastructure investment tied to the Micron semiconductor facility.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "infrastructure",
+    "contract-award",
+    "sewer",
+    "water",
+    "capital-planning",
+    "intergovernmental"
+  ],
+  "department_refs": [
+    "Department of Utilities",
+    "Department of Economic Development and Planning"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Glenn Coin",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "County-level infrastructure investment supporting major private sector economic development; signals regional prioritization of Micron facility support and manufacturing sector growth.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount in title ($1 billion) is significantly larger than mechanical extraction ($1) — corrected in summary",
+    "Article date is 2026-06-19 (future date); verify publication timeline",
+    "Contractor name not specified in excerpt; full article likely contains identity",
+    "County-level action; note intergovernmental coordination implications for City of Syracuse",
+    "Environmental/water infrastructure with potential City sewer system integration points",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

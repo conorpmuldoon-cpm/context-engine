@@ -1,0 +1,78 @@
+2026-06-19 15:28:44,222 [INFO] ============================================================
+2026-06-19 15:28:44,222 [INFO] News Scanner starting
+2026-06-19 15:28:44,224 [INFO] Fetching: Syracuse.com Politics
+2026-06-19 15:28:44,444 [INFO]   50 new articles from Syracuse.com Politics
+2026-06-19 15:28:44,444 [INFO] Fetching: Syracuse.com Government
+2026-06-19 15:28:44,598 [INFO]   0 new articles from Syracuse.com Government
+2026-06-19 15:28:44,598 [INFO] Fetching: Syracuse.com Local
+2026-06-19 15:28:44,736 [INFO]   0 new articles from Syracuse.com Local
+2026-06-19 15:28:44,736 [INFO] Fetching: Syracuse.com Main
+2026-06-19 15:28:44,871 [INFO]   0 new articles from Syracuse.com Main
+2026-06-19 15:28:44,871 [INFO] Total unique articles across all feeds: 50
+2026-06-19 15:28:44,871 [INFO] New articles (not previously processed): 50
+2026-06-19 15:28:44,921 [DEBUG]   Filtered (not relevant): Mumford & Sons ignite Syracuse with relentless momentum, World Cup fever (review
+2026-06-19 15:28:44,921 [DEBUG]   Filtered (not relevant): We pick, you vote: Who is the Section III athletic program of the year? (poll)
+2026-06-19 15:28:44,922 [DEBUG]   Filtered (not relevant): Miss Manners: ‘Fine dining’ if you say so; $200 for portions this small is wild 
+2026-06-19 15:28:44,922 [DEBUG]   Filtered (not relevant): A New York boy was held in immigration custody for months, even though he was bo
+2026-06-19 15:28:44,922 [DEBUG]   Filtered (not relevant): We pick, you vote: Who is the Section III girls athlete of the year? (poll)
+2026-06-19 15:28:44,923 [DEBUG]   Filtered (not relevant): We pick, you vote: Who is the Section III boys sports team of the year? (poll)
+2026-06-19 15:28:44,923 [DEBUG]   Filtered (not relevant): Syracuse man charged with fatal stabbing; police identify victim
+2026-06-19 15:28:44,924 [DEBUG]   Filtered (not relevant): We pick, you vote: Who is the Section III boys athlete of the year? (poll)
+2026-06-19 15:28:44,924 [DEBUG]   Filtered (not relevant): Miss Manners: It’s fine if you don’t like forwarded jokes, but you don’t have to
+2026-06-19 15:28:44,925 [DEBUG]   Filtered (not relevant): We pick, you vote: Who is the Section III girls sports team of the year? (poll)
+2026-06-19 15:28:44,925 [DEBUG]   Filtered (not relevant): We pick, you vote: Who is the Section III boys coach of the year? (poll)
+2026-06-19 15:28:44,926 [DEBUG]   Filtered (not relevant): Polymarket announces $50 invite code “CUSE” in NY, WA for USA-Australia, World C
+2026-06-19 15:28:44,926 [DEBUG]   Filtered (not relevant): Which jobs sectors are growing in Syracuse? See latest data
+2026-06-19 15:28:44,926 [DEBUG]   Filtered (not relevant): We pick, you vote: Who is the Section III girls coach of the year? (poll)
+2026-06-19 15:28:44,927 [DEBUG]   Filtered (not relevant): USA vs. Australia prediction: Polymarket odds, props and best bet for World Cup 
+2026-06-19 15:28:44,927 [INFO]   Relevant: County picks national contractor for building $1 billion Micron wastewater plant
+2026-06-19 15:28:44,927 [DEBUG]     → Entities: Micron Technology
+2026-06-19 15:28:49,192 [INFO]     Saved: CTX-NEWS-2026-00163 → CTX-NEWS-2026-00163.json
+2026-06-19 15:28:49,192 [DEBUG]   Filtered (not relevant): Countdown to syracuse.com’s All-Central New York Awards Show (see full all-star 
+2026-06-19 15:28:49,193 [DEBUG]   Filtered (not relevant): Dear Annie: Surely asking for the flowers back that you sent to the funeral home
+2026-06-19 15:28:49,194 [DEBUG]   Filtered (not relevant): You may not know these names, but you should: Meet more of the unsung heroes of 
+2026-06-19 15:28:49,194 [DEBUG]   Filtered (not relevant): Syracuse Sandwiches: Noble Cellar’s brunch burger is breakfast, lunch and dinner
+2026-06-19 15:28:49,195 [DEBUG]   Filtered (not relevant): Dear Annie: Pouring myself into a friendship, and just getting 1-word texts in r
+2026-06-19 15:28:49,195 [DEBUG]   Filtered (not relevant): You may not know these names, but you should: Meet the unsung heroes of Section 
+2026-06-19 15:28:49,196 [DEBUG]   Filtered (not relevant): Salt City Athletic Conference Metro baseball all-stars announced for 2026
+2026-06-19 15:28:49,196 [DEBUG]   Filtered (not relevant): Final Section III flag football leaders for 2026
+2026-06-19 15:28:49,196 [DEBUG]   Filtered (not relevant): Dear Doctor: I’m tired of getting epidurals for my rotator cuff while doctor ign
+2026-06-19 15:28:49,197 [DEBUG]   Filtered (not relevant): ‘I didn’t believe I would come back’: Hospital worker detained by ICE for 7 mont
+2026-06-19 15:28:49,197 [DEBUG]   Filtered (not relevant): Jim Carrey in talks to return for sequel of popular Oscar-winning film (report)
+2026-06-19 15:28:49,198 [DEBUG]   Filtered (not relevant): Salt City Athletic Conference Empire baseball all-stars announced for 2026
+2026-06-19 15:28:49,198 [DEBUG]   Filtered (not relevant): State awards $2.2 million for Syracuse Habitat for Humanity’s biggest project ev
+2026-06-19 15:28:49,198 [DEBUG]   Filtered (not relevant): How to get weight-loss drugs through Medicare: CNY pharmacist details new progra
+2026-06-19 15:28:49,199 [DEBUG]   Filtered (not relevant): Asking Eric: Daughter doesn’t have wedding in her future; can we spend the money
+2026-06-19 15:28:49,199 [DEBUG]   Filtered (not relevant): NY State buys Finger Lakes scout camp with 2,800 feet of shoreline for $5.9M
+2026-06-19 15:28:49,199 [DEBUG]   Filtered (not relevant): Local hospital worker detained by ICE on way to World Cup game (Good Morning CNY
+2026-06-19 15:28:49,200 [DEBUG]   Filtered (not relevant): Metal band returns with new lineup, tour, and first new music in 8 years
+2026-06-19 15:28:49,200 [DEBUG]   Filtered (not relevant): Popular TV personality reveals he ‘had bugs living under his skin’ as a kid
+2026-06-19 15:28:49,201 [DEBUG]   Filtered (not relevant): Asking Eric: Dream romance shattered on one cuss-filled October night, and I can
+2026-06-19 15:28:49,201 [DEBUG]   Filtered (not relevant): Strong thunderstorms, gusty winds possible again in Central NY on Friday afterno
+2026-06-19 15:28:49,201 [DEBUG]   Filtered (not relevant): Ray Rinaldi used boxing to change the way kids saw themselves: ‘I owe Ray my lif
+2026-06-19 15:28:49,202 [DEBUG]   Filtered (not relevant): House of the Week: Skaneateles’ Barrow Estate has ‘played a chord in my heart,’ 
+2026-06-19 15:28:49,202 [DEBUG]   Filtered (not relevant): Magnarelli vs. Brown: What’s at stake in Central NY’s most-watched Democratic pr
+2026-06-19 15:28:49,203 [DEBUG]   Filtered (not relevant): Dear Abby: Friend is always so late to church functions, she arrives after they’
+2026-06-19 15:28:49,203 [DEBUG]   Filtered (not relevant): Dear Abby: I appreciate you helping out, but I can’t be left watching your unrul
+2026-06-19 15:28:49,204 [DEBUG]   Filtered (not relevant): Some Trump allies have harsh criticism of Iran deal; president dismisses them as
+2026-06-19 15:28:49,204 [DEBUG]   Filtered (not relevant): Syracuse Mets walk-off win: Back-to-back homers force extras
+2026-06-19 15:28:49,205 [DEBUG]   Filtered (not relevant): New Polymarket invite code “CUSE” extends $50 bonus through USA, Australia World
+2026-06-19 15:28:49,205 [DEBUG]   Filtered (not relevant): SU football lands Florida recruit over Sunshine State ACC rival
+2026-06-19 15:28:49,205 [DEBUG]   Filtered (not relevant): Experts update USA vs. Paraguay predictions after Christian Pulisic injury
+2026-06-19 15:28:49,206 [DEBUG]   Filtered (not relevant): That's a wrap: Prom season ends in Central NY (see 51 prom photos)
+2026-06-19 15:28:49,206 [DEBUG]   Filtered (not relevant): Polymarket referral code “CUSE” extends $50 bonus into NY, PA, GA, and CA for Me
+2026-06-19 15:28:49,207 [INFO]   Relevant: Nearly 9,000 customers without power across Central NY after storms with high wi
+2026-06-19 15:28:49,207 [DEBUG]     → Entities: National Grid
+2026-06-19 15:28:53,182 [INFO]     Saved: CTX-NEWS-2026-00164 → CTX-NEWS-2026-00164.json
+2026-06-19 15:28:53,184 [INFO] News Scanner Run — 2026-06-19 15:28
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • County picks national contractor for building $1 billion Micron wastewater plant
+  • Nearly 9,000 customers without power across Central NY after storms with high wi
+

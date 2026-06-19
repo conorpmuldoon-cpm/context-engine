@@ -1,0 +1,53 @@
+{
+  "record_id": "CTX-NEWS-2026-00164",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/06/nearly-9000-customers-without-power-across-central-ny-after-storms-with-high-winds.html",
+  "publication_date": "2026-06-18",
+  "capture_date": "2026-06-19T15:28:53Z",
+  "title": "Nearly 9,000 customers without power across Central NY after storms with high winds",
+  "summary": "Central New York experienced widespread power outages affecting nearly 9,000 customers following high-wind storms on June 18, 2026. By Saturday morning, National Grid and NYSEG had restored service to most areas, with only 317 customers remaining without power. This incident reflects infrastructure resilience challenges during severe weather events relevant to the CIO's emergency management and utility coordination portfolio.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "emergency-services",
+    "infrastructure",
+    "state-agency",
+    "resolved",
+    "trending"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "National Grid",
+      "type": "organization",
+      "canonical_id": "ORG-NATIONAL-GRID"
+    },
+    {
+      "name": "New York State Electric and Gas",
+      "type": "organization",
+      "canonical_id": "ORG-NYSEG"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Power restoration speed demonstrates state utility coordination effectiveness; minimal ongoing impact suggests adequate emergency response infrastructure.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on utility response rather than municipal government action; no Syracuse city department involvement detected",
+    "High resolution speed (9000→317 customers in <24hrs) suggests established coordination protocols",
+    "Date context: article from June 2026 (future date - validate publication accuracy)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
