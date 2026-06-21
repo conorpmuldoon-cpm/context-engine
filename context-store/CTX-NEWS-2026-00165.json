@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-NEWS-2026-00165",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/06/syracuse-cops-90-hour-weeks-delight-his-bosses-they-should-be-alarmed-editorial-board-opinion.html",
+  "publication_date": "2026-06-21",
+  "capture_date": "2026-06-21T14:19:30Z",
+  "title": "Syracuse cop’s 90-hour weeks delight his bosses. They should be alarmed (Editorial Board Opinion)",
+  "summary": "An editorial criticizes Syracuse Police Department leadership for celebrating a officer's 90+ hour weekly overtime schedule that tripled his base pay in 2025, arguing this indicates systemic workforce management and budget inefficiencies that should concern city innovation leadership. The piece suggests overtime-dependent compensation models may mask underlying staffing, scheduling, or operational design problems requiring structural intervention.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "overtime",
+    "payroll",
+    "labor-relations",
+    "budget",
+    "escalating",
+    "investigation",
+    "transparency"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Editorial board applying critical scrutiny to police leadership's management practices and budget sustainability, framing overtime as symptom of deeper operational/staffing dysfunction rather than performance achievement.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Officer identity not named in excerpt; full article may contain identifying details",
+    "No specific dollar amounts provided in excerpt; '90-hour weeks' and 'tripled base pay' are qualitative indicators",
+    "Structural issue identified: overtime compensation model may obscure need for workforce planning or scheduling optimization—relevant to CIO operational efficiency mandate",
+    "Date 2026-06-21 is future-dated; verify article authenticity",
+    "Consider cross-reference with payroll systems, workforce analytics, and labor relations documentation",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

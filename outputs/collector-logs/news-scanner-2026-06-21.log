@@ -1,0 +1,72 @@
+2026-06-21 14:19:24,567 [INFO] ============================================================
+2026-06-21 14:19:24,567 [INFO] News Scanner starting
+2026-06-21 14:19:24,568 [INFO] Fetching: Syracuse.com Politics
+2026-06-21 14:19:25,004 [INFO]   50 new articles from Syracuse.com Politics
+2026-06-21 14:19:25,004 [INFO] Fetching: Syracuse.com Government
+2026-06-21 14:19:25,218 [INFO]   0 new articles from Syracuse.com Government
+2026-06-21 14:19:25,218 [INFO] Fetching: Syracuse.com Local
+2026-06-21 14:19:25,457 [INFO]   0 new articles from Syracuse.com Local
+2026-06-21 14:19:25,457 [INFO] Fetching: Syracuse.com Main
+2026-06-21 14:19:25,657 [INFO]   0 new articles from Syracuse.com Main
+2026-06-21 14:19:25,657 [INFO] Total unique articles across all feeds: 50
+2026-06-21 14:19:25,657 [INFO] New articles (not previously processed): 43
+2026-06-21 14:19:25,706 [DEBUG]   Filtered (not relevant): Oswego County real estate: See all residential properties sold, June 8-14
+2026-06-21 14:19:25,707 [DEBUG]   Filtered (not relevant): New $50 Polymarket invite code “CUSE” launches for US Open Day 4
+2026-06-21 14:19:25,707 [DEBUG]   Filtered (not relevant): Dear Annie: Neighbor is taking attendance at church, and it feels like a public 
+2026-06-21 14:19:25,708 [DEBUG]   Filtered (not relevant): Van Duyn is running out of chances to improve. It may be time for a sale (Editor
+2026-06-21 14:19:25,708 [DEBUG]   Filtered (not relevant): Where to watch Spain vs. Saudi Arabia: World Cup free live stream
+2026-06-21 14:19:25,709 [DEBUG]   Filtered (not relevant): Asking Eric: Kid not meeting your college expectations? You both need to level w
+2026-06-21 14:19:25,709 [DEBUG]   Filtered (not relevant): Syracuse Mets stage another walk-off win Saturday night vs. Norfolk
+2026-06-21 14:19:25,710 [DEBUG]   Filtered (not relevant): Editorial cartoons for June 21, 2026: Iran peace deal, green Reflecting Pool, tr
+2026-06-21 14:19:25,710 [DEBUG]   Filtered (not relevant): New York Mets vs. Philadelphia Phillies: Prediction, MLB picks, odds for Sunday
+2026-06-21 14:19:25,710 [DEBUG]   Filtered (not relevant): Asking Eric: Daughter thinks she’s ready to start college at the age of 17; I th
+2026-06-21 14:19:25,711 [DEBUG]   Filtered (not relevant): Rock legend, 81, pauses concert to use oxygen tank on stage: ‘Nearly fainted’
+2026-06-21 14:19:25,711 [DEBUG]   Filtered (not relevant): $3.125M for lakeside ranch: Plus 100 more Onondaga County home sales
+2026-06-21 14:19:25,712 [DEBUG]   Filtered (not relevant): CBS spinoff series from the ‘70s returning to TV
+2026-06-21 14:19:25,712 [INFO]   Relevant: Syracuse cop’s 90-hour weeks delight his bosses. They should be alarmed (Editori
+2026-06-21 14:19:25,712 [DEBUG]     → Departments: Syracuse Police Department
+2026-06-21 14:19:25,712 [DEBUG]     → Keywords: syracuse police
+2026-06-21 14:19:30,486 [INFO]     Saved: CTX-NEWS-2026-00165 → CTX-NEWS-2026-00165.json
+2026-06-21 14:19:30,486 [DEBUG]   Filtered (not relevant): Upscale CNY village shocks residents with 76% tax hike (Top stories)
+2026-06-21 14:19:30,487 [DEBUG]   Filtered (not relevant): Central NY about to get soaked as cool system moves through Monday
+2026-06-21 14:19:30,487 [DEBUG]   Filtered (not relevant): Trump blames Reflecting Pool woes on vandalism, without offering substantiation
+2026-06-21 14:19:30,488 [DEBUG]   Filtered (not relevant): Dear Abby: Boyfriend’s family keeps telling him to leave me because I’m much old
+2026-06-21 14:19:30,488 [DEBUG]   Filtered (not relevant): ‘Today’ co-anchor gets slapped by guest while on air
+2026-06-21 14:19:30,489 [DEBUG]   Filtered (not relevant): CNY Inspirations: What Gandalf told Pope Leo XIV
+2026-06-21 14:19:30,489 [DEBUG]   Filtered (not relevant): Dear Abby: Tell me how to feel about boyfriend’s family celebrating his annivers
+2026-06-21 14:19:30,490 [DEBUG]   Filtered (not relevant): Francisco Lindor to play for Syracuse Mets on Sunday on rehab assignment
+2026-06-21 14:19:30,490 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Saturday’s $302 million drawing
+2026-06-21 14:19:30,491 [DEBUG]   Filtered (not relevant): New Polymarket invite code “CUSE” updates $50 bonus for new UFC and Japan-Tunisi
+2026-06-21 14:19:30,491 [DEBUG]   Filtered (not relevant): Experts release final World Cup betting predictions as Japan and Tunisia clash i
+2026-06-21 14:19:30,492 [DEBUG]   Filtered (not relevant): SU football receives commitment from Pennsylvania OL prospect
+2026-06-21 14:19:30,493 [DEBUG]   Filtered (not relevant): Polymarket referral code “CUSE” upgrades $50 bonus in NY, CA, and PA for Saturda
+2026-06-21 14:19:30,493 [DEBUG]   Filtered (not relevant): Most expensive homes sold in four Central NY counties from June 8 to 14
+2026-06-21 14:19:30,493 [DEBUG]   Filtered (not relevant): Oneida County real estate: 10 most expensive homes sold, June 8-14
+2026-06-21 14:19:30,494 [INFO]   Relevant: Juneteenth in Syracuse: Mayor Owens leads the 38th annual victory parade and cel
+2026-06-21 14:19:30,494 [DEBUG]     → Keywords: mayor
+2026-06-21 14:19:33,657 [INFO]     Saved: CTX-NEWS-2026-00166 → CTX-NEWS-2026-00166.json
+2026-06-21 14:19:33,658 [DEBUG]   Filtered (not relevant): Madison County real estate: 10 most expensive homes sold, June 8-14
+2026-06-21 14:19:33,658 [DEBUG]   Filtered (not relevant): Cazenovia school board member now faces federal child pornography charges after 
+2026-06-21 14:19:33,659 [DEBUG]   Filtered (not relevant): Oswego County real estate: 10 most expensive homes sold, June 8-14
+2026-06-21 14:19:33,659 [DEBUG]   Filtered (not relevant): More than 100 guinea pigs suffering from neglect and severe injuries rescued fro
+2026-06-21 14:19:33,660 [DEBUG]   Filtered (not relevant): Where to watch Germany vs. Ivory Coast today: World Cup free stream
+2026-06-21 14:19:33,660 [DEBUG]   Filtered (not relevant): SU football lands commitment from son of former NFL WR
+2026-06-21 14:19:33,661 [DEBUG]   Filtered (not relevant): New $10 Kalshi promo code “SYRACUSE” upgraded for Sweden, Netherlands, and MLB t
+2026-06-21 14:19:33,661 [DEBUG]   Filtered (not relevant): TV sitcom legend dies at 85
+2026-06-21 14:19:33,661 [DEBUG]   Filtered (not relevant): Popular actress, 43, reveals she's pregnant with third child
+2026-06-21 14:19:33,662 [DEBUG]   Filtered (not relevant): Miss Manners: Pressuring someone to have a drink crosses the line of hospitality
+2026-06-21 14:19:33,662 [DEBUG]   Filtered (not relevant): Jelly Roll speaks out about his divorce, cheating rumors at Upstate NY concert: 
+2026-06-21 14:19:33,663 [DEBUG]   Filtered (not relevant): New $50 Polymarket invite code “CUSE” extended for all sports through June
+2026-06-21 14:19:33,663 [DEBUG]   Filtered (not relevant): Miss Manners: After husband dies, old girlfriend crawls out of the woodwork to c
+2026-06-21 14:19:33,665 [INFO] News Scanner Run — 2026-06-21 14:19
+==================================================
+Articles in feeds: 50
+New (not seen before): 43
+Saved as records: 2
+Filtered (not relevant): 41
+Errors: 0
+
+New records:
+  • Syracuse cop’s 90-hour weeks delight his bosses. They should be alarmed (Editori
+  • Juneteenth in Syracuse: Mayor Owens leads the 38th annual victory parade and cel
+

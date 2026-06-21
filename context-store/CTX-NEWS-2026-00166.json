@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-NEWS-2026-00166",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/06/juneteenth-in-syracuse-mayor-owens-leads-the-38th-celebratory-victory-parade.html",
+  "publication_date": "2026-06-20",
+  "capture_date": "2026-06-21T14:19:33Z",
+  "title": "Juneteenth in Syracuse: Mayor Owens leads the 38th annual victory parade and celebration",
+  "summary": "Mayor Owens led Syracuse's 38th annual Juneteenth Victory Parade on Salina Street, culminating in Clinton Square. The celebration featured African drums, drumlines, and marching bands, marking a significant cultural and community event in the city.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "mayor",
+    "residents",
+    "parks"
+  ],
+  "department_refs": [
+    "Parks, Recreation and Youth Services"
+  ],
+  "entity_refs": [
+    {
+      "name": "Mayor Owens",
+      "type": "person",
+      "canonical_id": "PERSON-MAYOR-OWENS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor's direct participation in long-standing community celebration demonstrates alignment with equity, cultural recognition, and resident engagement priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on cultural event rather than innovation/technology initiatives; limited direct CIO relevance",
+    "Potential connection to event coordination systems, crowd management technology, or digital communication if applicable",
+    "No budget, procurement, or infrastructure data present in article excerpt",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
