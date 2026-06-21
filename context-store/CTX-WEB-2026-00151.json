@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-WEB-2026-00151",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-06-20-Mayors-Office-News-12-PM",
+  "publication_date": "2026-06-20",
+  "capture_date": "2026-06-21T14:32:14Z",
+  "title": "Mayor Owens Announces Public Meetings for the Comprehensive Plan",
+  "summary": "Mayor Sharon F. Owens announced five public engagement sessions (one webinar, four in-person meetings) scheduled June 22–July 14, 2026, to gather community input on the Syracuse Comprehensive Plan 2050. The plan will address long-term city priorities including land use, housing, transportation, equity, climate resiliency, and quality of life. The Division of Planning and Sustainability is coordinating engagement across multiple neighborhoods.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "initiative-launch",
+    "capital-planning",
+    "land-use",
+    "housing",
+    "transportation",
+    "equity",
+    "sustainability",
+    "residents",
+    "transparency"
+  ],
+  "department_refs": [
+    "Division of Planning and Sustainability"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor-led initiative signaling administration commitment to inclusive long-range planning and community engagement on strategic priorities (housing, equity, climate, mobility). Positions comprehensive planning as mayoral vision-setting vehicle.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in source metadata; attributed to Mayor's Office based on content and URL structure",
+    "Four of five engagement sessions held at community centers/libraries (equity-conscious venue selection)",
+    "No budget, staffing, or timeline details provided beyond meeting dates",
+    "Related URL (syr.gov/Comprehensive-Plan) not directly validated",
+    "Press contact: press@syr.gov (Office of Communications)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
