@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-NEWS-2026-00168",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/state/2026/06/2-dpw-trucks-reported-stolen-from-central-ny-garage.html",
+  "publication_date": "2026-06-23",
+  "capture_date": "2026-06-23T14:56:54Z",
+  "title": "2 DPW trucks reported stolen from Central NY garage",
+  "summary": "Two DPW pickup trucks were stolen from the Village of Ilion's Department of Public Works garage early Monday morning (June 23, 2026). Both vehicles were marked with Ilion DPW logos. This incident highlights potential security vulnerabilities in municipal fleet management and facility access controls.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "fleet",
+    "crime-data",
+    "investigation",
+    "emergency-services",
+    "PROVISIONAL:fleet-security"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Village of Ilion",
+      "type": "organization",
+      "canonical_id": "ORG-ILION-DPW"
+    },
+    {
+      "name": "Geoff Herbert",
+      "type": "person",
+      "canonical_id": "PERSON-GEOFF-HERBERT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Vehicle theft from municipal facility raises public safety and asset management concerns; potential pressure on DPW leadership regarding security protocols and facility controls.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns Village of Ilion (not City of Syracuse proper), but represents relevant regional infrastructure security issue for CIO awareness",
+    "No perpetrator identified or investigation details provided; source is WKTV local news",
+    "PROVISIONAL tag added for fleet-security as this represents a system vulnerability monitoring opportunity",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,51 @@
+{
+  "record_id": "CTX-NEWS-2026-00167",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangelacrosse/2026/06/syracuse-mens-lacrosse-lands-transfer-midfielder-from-vermont.html",
+  "publication_date": "2026-06-23",
+  "capture_date": "2026-06-23T14:56:51Z",
+  "title": "SU men's lax lands transfer midfielder from Vermont",
+  "summary": "Syracuse University men's lacrosse team recruits a transfer midfielder from the University of Vermont, marking the program's fourth transfer portal addition. This article reports on collegiate athletic recruitment and does not contain city governance, policy, or innovation initiatives relevant to the Chief Innovation Officer.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "University of Vermont",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Brent Axe",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is about collegiate athletics recruitment, not city governance or innovation initiatives",
+    "No relevance to CIO mandate, municipal services, or policy development",
+    "No applicable tags from available City of Syracuse tag taxonomy",
+    "Recommend deprioritize for CIO context library",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

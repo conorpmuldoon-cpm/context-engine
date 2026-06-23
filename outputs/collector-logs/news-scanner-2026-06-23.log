@@ -1,0 +1,80 @@
+2026-06-23 14:56:47,546 [INFO] ============================================================
+2026-06-23 14:56:47,546 [INFO] News Scanner starting
+2026-06-23 14:56:47,548 [INFO] Fetching: Syracuse.com Politics
+2026-06-23 14:56:47,739 [INFO]   50 new articles from Syracuse.com Politics
+2026-06-23 14:56:47,739 [INFO] Fetching: Syracuse.com Government
+2026-06-23 14:56:47,893 [INFO]   0 new articles from Syracuse.com Government
+2026-06-23 14:56:47,893 [INFO] Fetching: Syracuse.com Local
+2026-06-23 14:56:48,036 [INFO]   0 new articles from Syracuse.com Local
+2026-06-23 14:56:48,036 [INFO] Fetching: Syracuse.com Main
+2026-06-23 14:56:48,195 [INFO]   0 new articles from Syracuse.com Main
+2026-06-23 14:56:48,196 [INFO] Total unique articles across all feeds: 50
+2026-06-23 14:56:48,196 [INFO] New articles (not previously processed): 50
+2026-06-23 14:56:48,246 [DEBUG]   Filtered (not relevant): Man charged with starting fire that killed 6 in Upstate NY motel used as shelter
+2026-06-23 14:56:48,247 [DEBUG]   Filtered (not relevant): See who’s graduating from Oswego High School; plus Q&As with 2 top students
+2026-06-23 14:56:48,247 [DEBUG]   Filtered (not relevant): The $150 JBL Flip 7 waterproof speaker is on sale for $95 at Walmart right now
+2026-06-23 14:56:48,248 [DEBUG]   Filtered (not relevant): Miss Manners: Friends with married couple, who complain about each other when th
+2026-06-23 14:56:48,248 [DEBUG]   Filtered (not relevant): Former Disney stars, pop rock duo added to NYS Fair free concert lineup
+2026-06-23 14:56:48,249 [DEBUG]   Filtered (not relevant): Company news: Nikki Kushner promoted by Oswego Health
+2026-06-23 14:56:48,249 [DEBUG]   Filtered (not relevant): Syracuse, UConn discussing exhibition game (report)
+2026-06-23 14:56:48,250 [DEBUG]   Filtered (not relevant): Polymarket upgrades $50 invite code “CUSE” in NY, MA for England-Ghana, World Cu
+2026-06-23 14:56:48,251 [DEBUG]   Filtered (not relevant): Miss Manners: I live near 4th of July fireworks site; there’s a yearly party on 
+2026-06-23 14:56:48,251 [DEBUG]   Filtered (not relevant): Ex-mayors aren’t responsible for huge Skaneateles tax increase (Your Letters)
+2026-06-23 14:56:48,251 [DEBUG]   Filtered (not relevant): A CNY nursery is saying goodbye with advice for gardeners: 'Don't be afraid to f
+2026-06-23 14:56:48,252 [DEBUG]   Filtered (not relevant): Walmart is having a rare online deal on the Nintendo Switch 2 - Cheaper than Pri
+2026-06-23 14:56:48,252 [DEBUG]   Filtered (not relevant): Who’s graduating from East Syracuse Minoa High School; plus Q&A with top student
+2026-06-23 14:56:48,253 [DEBUG]   Filtered (not relevant): England vs. Ghana prediction: Polymarket odds, best bet and Anytime Goal prop
+2026-06-23 14:56:48,254 [DEBUG]   Filtered (not relevant): See who’s graduating from Sandy Creek High School, commencement information
+2026-06-23 14:56:48,254 [DEBUG]   Filtered (not relevant): FIFA is making billions from World Cup 2026, and fans are paying the price in mo
+2026-06-23 14:56:48,255 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: More money is not the answer to all your problems, and here
+2026-06-23 14:56:48,255 [DEBUG]   Filtered (not relevant): Native Americans mark the US 250th with pride, pain and patriotism
+2026-06-23 14:56:48,255 [DEBUG]   Filtered (not relevant): For F-M Coach Bill Aris, trophies were never the goal (Guest Opinion by Nolan Mc
+2026-06-23 14:56:48,256 [DEBUG]   Filtered (not relevant): See highest-paid Syracuse jobs to get with bachelor’s: No. 1 over $216K
+2026-06-23 14:56:48,256 [INFO]   Relevant: SU men's lax lands transfer midfielder from Vermont
+2026-06-23 14:56:48,256 [DEBUG]     → Entities: Syracuse University
+2026-06-23 14:56:51,454 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-06-23 14:56:51,475 [INFO]     Saved: CTX-NEWS-2026-00167 → CTX-NEWS-2026-00167.json
+2026-06-23 14:56:51,476 [DEBUG]   Filtered (not relevant): Dear Annie: Domineering sister has never taken ‘no’ — or any other response — as
+2026-06-23 14:56:51,476 [DEBUG]   Filtered (not relevant): See who’s graduating from Skaneateles High School; Q&As with 2 top students
+2026-06-23 14:56:51,477 [INFO]   Relevant: 2 DPW trucks reported stolen from Central NY garage
+2026-06-23 14:56:51,477 [DEBUG]     → Departments: Department of Public Works
+2026-06-23 14:56:51,477 [DEBUG]     → Keywords: department of public works, dpw
+2026-06-23 14:56:55,008 [INFO]     Saved: CTX-NEWS-2026-00168 → CTX-NEWS-2026-00168.json
+2026-06-23 14:56:55,008 [DEBUG]   Filtered (not relevant): Dear Doctor: None of the usual sleep aids are helping, and I have real concerns 
+2026-06-23 14:56:55,009 [DEBUG]   Filtered (not relevant): Syracuse installs tiles for first roller rink in Clinton Square, opens downtown 
+2026-06-23 14:56:55,009 [DEBUG]   Filtered (not relevant): 5 unique Syracuse spots for Taylor Swift and Travis Kelce’s wedding (if MSG fall
+2026-06-23 14:56:55,010 [DEBUG]   Filtered (not relevant): 2026 All-CNY Awards show preview: One stage, countless stories and a season wort
+2026-06-23 14:56:55,010 [DEBUG]   Filtered (not relevant): Asking Eric: Friend accuses me of using her like ‘emotional punching bag’; I see
+2026-06-23 14:56:55,010 [DEBUG]   Filtered (not relevant): Your guide to today’s primary elections in Central New York (Good Morning CNY)
+2026-06-23 14:56:55,011 [DEBUG]   Filtered (not relevant): Central NY weather: Cooler now, but warmer weather is on the way
+2026-06-23 14:56:55,011 [DEBUG]   Filtered (not relevant): Asking Eric: I can’t tell if married woman is coming on to me, or just extremely
+2026-06-23 14:56:55,012 [DEBUG]   Filtered (not relevant): 2 more suspects arrested in planned attack on Trump’s UFC White House event
+2026-06-23 14:56:55,012 [DEBUG]   Filtered (not relevant): Rock legends’ sons announce first tour with new band
+2026-06-23 14:56:55,013 [DEBUG]   Filtered (not relevant): Videos show questionable tactics Oswego sheriff’s deputies used to aid Trump’s m
+2026-06-23 14:56:55,013 [DEBUG]   Filtered (not relevant): Syracuse QB Steve Angeli says he’s ‘full go’ ahead of training camp: ‘No restric
+2026-06-23 14:56:55,014 [DEBUG]   Filtered (not relevant): Dear Abby: I cheated and confessed; he stayed, but how much time does he really 
+2026-06-23 14:56:55,014 [DEBUG]   Filtered (not relevant): CNY Inspirations: What’s whispered in your ear?
+2026-06-23 14:56:55,015 [DEBUG]   Filtered (not relevant): Pentagon seeks $80 billion from Congress for Iran war
+2026-06-23 14:56:55,015 [DEBUG]   Filtered (not relevant): Messi sets World Cup scoring record as defending champion Argentina advances to 
+2026-06-23 14:56:55,016 [DEBUG]   Filtered (not relevant): Dear Abby: Relationship with work friend has spiraled into nasty, tattling offic
+2026-06-23 14:56:55,017 [DEBUG]   Filtered (not relevant): Update: Flash flood warning issued for Rockland County early Tuesday morning tri
+2026-06-23 14:56:55,017 [DEBUG]   Filtered (not relevant): Update: Hudson Valley under a flood advisory Tuesday morning caused by significa
+2026-06-23 14:56:55,017 [DEBUG]   Filtered (not relevant): Cazenovia school board VP cuddled with child, talked about sex and ‘Magic Bathro
+2026-06-23 14:56:55,018 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Monday’s $312 million drawing
+2026-06-23 14:56:55,019 [DEBUG]   Filtered (not relevant): Former Trump supporter says there’s now ‘no chance’ he’ll support Republican par
+2026-06-23 14:56:55,019 [DEBUG]   Filtered (not relevant): Experts release Astros vs. Blue Jays prediction after Shane Bieber debut confirm
+2026-06-23 14:56:55,020 [DEBUG]   Filtered (not relevant): New $50 Polymarket invite code “CUSE” updated for Jordan vs. Algeria live odds
+2026-06-23 14:56:55,020 [DEBUG]   Filtered (not relevant): Why you need to know about New York state’s primary elections
+2026-06-23 14:56:55,021 [DEBUG]   Filtered (not relevant): Judge blocks use of federal database to check citizenship, says it could wrongly
+2026-06-23 14:56:55,022 [INFO] News Scanner Run — 2026-06-23 14:56
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • SU men's lax lands transfer midfielder from Vermont
+  • 2 DPW trucks reported stolen from Central NY garage
+
