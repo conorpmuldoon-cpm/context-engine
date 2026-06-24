@@ -1,0 +1,52 @@
+{
+  "record_id": "CTX-NEWS-2026-00169",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/state/2026/06/mamdani-endorsed-candidates-win-3-house-primaries-as-nyc-mayor-shows-clout.html",
+  "publication_date": "2026-06-24",
+  "capture_date": "2026-06-24T14:39:30Z",
+  "title": "Mamdani-endorsed candidates win 3 House primaries as NYC mayor shows clout",
+  "summary": "New York City Mayor Zohran Mamdani's endorsements secured victories for three progressive Democratic House primary candidates, defeating establishment-backed opponents and two incumbents. The article documents the political influence of NYC municipal leadership in federal electoral outcomes.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:federal-politics",
+    "PROVISIONAL:democratic-primary",
+    "PROVISIONAL:intergovernmental-relations",
+    "leadership-change"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Zohran Mamdani",
+      "type": "person",
+      "canonical_id": "PERSON-ZOHRAN-MAMDANI"
+    },
+    {
+      "name": "New York City",
+      "type": "organization",
+      "canonical_id": "ORG-NYC"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "NYC mayoral leadership actively campaigned for progressive Democratic candidates in federal primaries, signaling alignment with democratic socialist and progressive policy platforms. Demonstrates municipal-level political influence on federal candidate selection.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily about federal/state politics rather than City of Syracuse governance or operations",
+    "No direct Syracuse impact identified; included for awareness of intergovernmental political dynamics and mayoral political posturing trends",
+    "Consider relevance only if tracking comparative municipal leadership models or political alignment strategies",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

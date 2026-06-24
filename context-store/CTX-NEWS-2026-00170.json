@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-NEWS-2026-00170",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/cny/2026/06/helen-hudson-wins-syracuse-common-council-primary-to-fill-vacancy.html",
+  "publication_date": "2026-06-24",
+  "capture_date": "2026-06-24T14:39:34Z",
+  "title": "Helen Hudson wins Syracuse Common Council primary to fill vacancy",
+  "summary": "Helen Hudson won the Democratic primary for a Syracuse Common Council at-large seat, advancing in the election process to fill a vacancy. This leadership change may affect future city governance and policy priorities under the CIO's purview.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "council",
+    "leadership-change",
+    "vote",
+    "announcement"
+  ],
+  "department_refs": [
+    "Office of the Chief Innovation Officer"
+  ],
+  "entity_refs": [
+    {
+      "name": "Helen Hudson",
+      "type": "person",
+      "canonical_id": "PERSON-HELEN-HUDSON"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Election of new Common Council member may signal shifting priorities or policy directions relevant to CIO initiatives, depending on Hudson's platform and positions on digital services, equity, and innovation.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article contains minimal substantive detail about Hudson's positions or platform relevant to innovation/technology governance",
+    "No direct CIO department reference; tagged for leadership monitoring purposes",
+    "Author is Jeremy Boyer (Syracuse.com politics reporter)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
