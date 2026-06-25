@@ -1,0 +1,51 @@
+{
+  "record_id": "CTX-NEWS-2026-00172",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangebasketball/2026/06/syracuse-center-william-kyle-signs-with-los-angeles-lakers.html",
+  "publication_date": "2026-06-25",
+  "capture_date": "2026-06-25T14:40:15Z",
+  "title": "Syracuse center William Kyle signs with Los Angeles Lakers",
+  "summary": "Syracuse University basketball player William Kyle III signed as an undrafted free agent with the Los Angeles Lakers. This article concerns Syracuse University athletics and has no direct relevance to City of Syracuse municipal operations, innovation initiatives, or departmental functions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "William Kyle III",
+      "type": "person",
+      "canonical_id": "PERSON-WILLIAM-KYLE"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIVERSITY"
+    },
+    {
+      "name": "Los Angeles Lakers",
+      "type": "organization",
+      "canonical_id": "ORG-LA-LAKERS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is about NCAA/NBA athletics and Syracuse University, not City of Syracuse municipal governance",
+    "No relevance to Chief Innovation Officer priorities or city operations",
+    "No applicable tags from municipal context framework",
+    "Consider for potential exclusion from CIO briefing materials unless tracking university partnership initiatives",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

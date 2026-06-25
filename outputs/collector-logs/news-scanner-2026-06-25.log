@@ -1,0 +1,84 @@
+2026-06-25 14:40:07,788 [INFO] ============================================================
+2026-06-25 14:40:07,788 [INFO] News Scanner starting
+2026-06-25 14:40:07,790 [INFO] Fetching: Syracuse.com Politics
+2026-06-25 14:40:08,210 [INFO]   50 new articles from Syracuse.com Politics
+2026-06-25 14:40:08,210 [INFO] Fetching: Syracuse.com Government
+2026-06-25 14:40:08,372 [INFO]   0 new articles from Syracuse.com Government
+2026-06-25 14:40:08,372 [INFO] Fetching: Syracuse.com Local
+2026-06-25 14:40:08,528 [INFO]   0 new articles from Syracuse.com Local
+2026-06-25 14:40:08,528 [INFO] Fetching: Syracuse.com Main
+2026-06-25 14:40:08,704 [INFO]   0 new articles from Syracuse.com Main
+2026-06-25 14:40:08,704 [INFO] Total unique articles across all feeds: 50
+2026-06-25 14:40:08,704 [INFO] New articles (not previously processed): 50
+2026-06-25 14:40:08,757 [DEBUG]   Filtered (not relevant): The Nespresso Vertuo Pop Coffee and Espresso maker is finally $85 in super rare 
+2026-06-25 14:40:08,757 [DEBUG]   Filtered (not relevant): Miss Manners: How do you invite someone to an event where you expect them to pay
+2026-06-25 14:40:08,758 [DEBUG]   Filtered (not relevant): Tony and Matt Hirschman continue to win pavement modified races
+2026-06-25 14:40:08,758 [DEBUG]   Filtered (not relevant): How to secure Turnstile presale tickets today for 2026 ‘Never Enough Tour Pt. 2’
+2026-06-25 14:40:08,759 [DEBUG]   Filtered (not relevant): Polymarket upgrades $50 invite code “CUSE” in NY, CA this Prime Day for USA Worl
+2026-06-25 14:40:08,760 [DEBUG]   Filtered (not relevant): Miss Manners: That gift card amount simply wasn’t good enough, and I’m going to 
+2026-06-25 14:40:08,760 [DEBUG]   Filtered (not relevant): Eric Devendorf is back with Boeheim’s Army. It’s not in a role you might think
+2026-06-25 14:40:08,761 [DEBUG]   Filtered (not relevant): Walmart’s Summer Deals event is taking $190 off this best-selling patio set - No
+2026-06-25 14:40:08,761 [DEBUG]   Filtered (not relevant): How to secure Ella Langley presale tickets today for 2026 ‘The Dandelion Tour’
+2026-06-25 14:40:08,762 [DEBUG]   Filtered (not relevant): USA vs. Türkiye prediction: Polymarket odds, props and best bet for final World 
+2026-06-25 14:40:08,762 [DEBUG]   Filtered (not relevant): One teen dead, another in critical condition after shooting in Syracuse
+2026-06-25 14:40:08,763 [DEBUG]   Filtered (not relevant): Just 1 NY metro saw mortgage lending increase in Q1
+2026-06-25 14:40:08,763 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: Here’s a secret, the truest path to wealth is investing in 
+2026-06-25 14:40:08,764 [DEBUG]   Filtered (not relevant): Indigenous inmates at Cedar Creek find healing through totem pole art
+2026-06-25 14:40:08,764 [DEBUG]   Filtered (not relevant): DiNapoli won the primary. Fine. Now give New Yorkers back their $20 billion (Gue
+2026-06-25 14:40:08,765 [DEBUG]   Filtered (not relevant): All-Central New York Awards 2026: Moments that made this season unforgettable (h
+2026-06-25 14:40:08,765 [DEBUG]   Filtered (not relevant): Syracuse Jazz Fest turns 40: Here are the most unforgettable moments (photos)
+2026-06-25 14:40:08,765 [DEBUG]   Filtered (not relevant): Dear Annie: Husband makes me feel worthless for not having a job; refuses to hel
+2026-06-25 14:40:08,766 [DEBUG]   Filtered (not relevant): Death of 6 family members in Upstate NY is a criminal investigation; grandmother
+2026-06-25 14:40:08,766 [INFO]   Relevant: Man found stabbed multiple times in the back in Syracuse, police say
+2026-06-25 14:40:08,766 [DEBUG]     → Departments: Syracuse Police Department
+2026-06-25 14:40:08,766 [DEBUG]     → Keywords: syracuse police
+2026-06-25 14:40:12,678 [INFO]     Saved: CTX-NEWS-2026-00171 → CTX-NEWS-2026-00171.json
+2026-06-25 14:40:12,679 [DEBUG]   Filtered (not relevant): Dear Doctor: Friend’s simple pacemaker replacement procedure spiraled into advan
+2026-06-25 14:40:12,680 [DEBUG]   Filtered (not relevant): Is Better Burger in Liverpool indeed the best? We find out
+2026-06-25 14:40:12,680 [DEBUG]   Filtered (not relevant): Trump spoke to Live Nation CEO before antitrust case was settled, court filing r
+2026-06-25 14:40:12,681 [DEBUG]   Filtered (not relevant): Powerful earthquakes hit Venezuela; hundreds dead, injured
+2026-06-25 14:40:12,681 [DEBUG]   Filtered (not relevant): Trump kicks off America 250 celebrations with campaign-style rally on National M
+2026-06-25 14:40:12,682 [DEBUG]   Filtered (not relevant): Federal agents demand Syracuse woman remove Instagram post about ICE (Good Morni
+2026-06-25 14:40:12,682 [DEBUG]   Filtered (not relevant): Asking Eric: I am the sole surviving step-grandparent of the groom, and I wasn’t
+2026-06-25 14:40:12,683 [DEBUG]   Filtered (not relevant): Ever wonder how syracuse.com selects its All-CNY all-star teams? Here’s how we d
+2026-06-25 14:40:12,683 [DEBUG]   Filtered (not relevant): Onondaga County legislators spar over term limit bills in ‘power struggle’
+2026-06-25 14:40:12,684 [DEBUG]   Filtered (not relevant): Central NY weather: Storms possible on Thursday; 90-degree heat arrives next wee
+2026-06-25 14:40:12,684 [DEBUG]   Filtered (not relevant): Asking Eric: Daughter-in-law clearly favors her side of the family, but does our
+2026-06-25 14:40:12,685 [INFO]   Relevant: Syracuse center William Kyle signs with Los Angeles Lakers
+2026-06-25 14:40:12,685 [DEBUG]     → Entities: Syracuse University
+2026-06-25 14:40:15,661 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-06-25 14:40:15,672 [INFO]     Saved: CTX-NEWS-2026-00172 → CTX-NEWS-2026-00172.json
+2026-06-25 14:40:15,672 [DEBUG]   Filtered (not relevant): Country star gets 23 stitches after injury: ‘I’m just glad to be here’
+2026-06-25 14:40:15,673 [DEBUG]   Filtered (not relevant): How Syracuse landed a big recruiting win and filled a desperate need: ‘We need y
+2026-06-25 14:40:15,673 [DEBUG]   Filtered (not relevant): Novelis reveals billion-dollar costs of Oswego fires as plant production heats b
+2026-06-25 14:40:15,674 [DEBUG]   Filtered (not relevant): CNY Inspirations: What does AFGO mean?
+2026-06-25 14:40:15,674 [DEBUG]   Filtered (not relevant): Dear Abby: Is being a bit overweight really why I can’t get a man interested in 
+2026-06-25 14:40:15,674 [DEBUG]   Filtered (not relevant): ‘The Wire’ actor’s cause of death revealed after fire at family barn
+2026-06-25 14:40:15,675 [DEBUG]   Filtered (not relevant): Dear Abby: Most insufferable co-worker also claims to be best buds with boss; is
+2026-06-25 14:40:15,676 [DEBUG]   Filtered (not relevant): Experts release new USA vs. Turkey predictions after Christian Pulisic injury up
+2026-06-25 14:40:15,676 [INFO]   Relevant: Former Syracuse guard Quadir Copeland signs free agent deal with Houston Rockets
+2026-06-25 14:40:15,676 [DEBUG]     → Entities: Syracuse University
+2026-06-25 14:40:18,501 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-06-25 14:40:18,512 [INFO]     Saved: CTX-NEWS-2026-00173 → CTX-NEWS-2026-00173.json
+2026-06-25 14:40:18,512 [DEBUG]   Filtered (not relevant): Former Syracuse player Chris Bell signs with New Orleans Pelicans
+2026-06-25 14:40:18,513 [DEBUG]   Filtered (not relevant): Canada plays South Africa this Sunday: Here’s the start time (in every time zone
+2026-06-25 14:40:18,514 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Wednesday’s $327 million drawing
+2026-06-25 14:40:18,514 [DEBUG]   Filtered (not relevant): Pistons trade Upstate NY native Isaiah Stewart during NBA draft to clear cap spa
+2026-06-25 14:40:18,514 [DEBUG]   Filtered (not relevant): Two people shot at house on Lincoln Avenue in Syracuse, police say
+2026-06-25 14:40:18,515 [DEBUG]   Filtered (not relevant): Syracuse Mets rally past Lehigh Valley IronPigs 5-4
+2026-06-25 14:40:18,515 [DEBUG]   Filtered (not relevant): Who is the top returning player in 8-man New York high school football? Your vot
+2026-06-25 14:40:18,516 [DEBUG]   Filtered (not relevant): New $50 Polymarket invite code “CUSE” upgraded; Group A World Cup odds update
+2026-06-25 14:40:18,516 [DEBUG]   Filtered (not relevant): San Antonio Spurs select former Syracuse center Maliq Brown in NBA draft
+2026-06-25 14:40:18,518 [INFO] News Scanner Run — 2026-06-25 14:40
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • Man found stabbed multiple times in the back in Syracuse, police say
+  • Syracuse center William Kyle signs with Los Angeles Lakers
+  • Former Syracuse guard Quadir Copeland signs free agent deal with Houston Rockets
+

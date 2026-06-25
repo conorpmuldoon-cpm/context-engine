@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-NEWS-2026-00171",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/06/man-found-stabbed-multiple-times-in-the-back-in-syracuse-police-say.html",
+  "publication_date": "2026-06-25",
+  "capture_date": "2026-06-25T14:40:12Z",
+  "title": "Man found stabbed multiple times in the back in Syracuse, police say",
+  "summary": "A 30-year-old man was found stabbed multiple times in the back in Syracuse's Salt Springs neighborhood on June 25, 2026 at approximately 7:52 p.m. on the 100 block of Croly Street. This incident represents an active crime event requiring police investigation and response.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "emergency-services",
+    "public-safety-commission"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    },
+    {
+      "name": "Salt Springs neighborhood",
+      "type": "system",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Violent crime incident in residential neighborhood may draw public safety scrutiny and constituent pressure for enhanced police presence and neighborhood safety measures.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Victim age (30) and specific location (100 block of Croly Street, Salt Springs) extracted; no suspect information provided in article",
+    "No connected city services or innovation initiatives identified in this report",
+    "CIO relevance limited unless crime data integration, predictive analytics, or neighborhood safety technology initiatives are active",
+    "Article date is future-dated (2026); flagged as test/hypothetical content",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
