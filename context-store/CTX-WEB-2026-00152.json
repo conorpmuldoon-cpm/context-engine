@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-WEB-2026-00152",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-06-25-Mayors-Office-News-830AM",
+  "publication_date": "2026-06-25",
+  "capture_date": "2026-06-25T15:11:40Z",
+  "title": "Mayor Owens to Present Proclamation for Rick Brunson Appreciation Day",
+  "summary": "Mayor Sharon F. Owens will present a proclamation honoring Rick Brunson, Syracuse native and Assistant Coach of the New York Knicks, on June 26, 2026 at City Hall to celebrate the Knicks' 2026 NBA Championship victory. The event includes street closures, media briefing, and public attendance; regular City Hall operations continue.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "mayor",
+    "leadership-change",
+    "intergovernmental",
+    "residents"
+  ],
+  "department_refs": [
+    "Office of the Mayor",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Rick Brunson",
+      "type": "person",
+      "canonical_id": "PERSON-RICK-BRUNSON"
+    },
+    {
+      "name": "New York Knicks",
+      "type": "organization",
+      "canonical_id": "ORG-NYK"
+    },
+    {
+      "name": "City Hall",
+      "type": "system",
+      "canonical_id": "SYS-CITYHALL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor leveraging local sports achievement and native son narrative to strengthen community identity and civic engagement; demonstrates investment in celebrating constituent accomplishments and economic/cultural development messaging.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No budget or departmental operational impact detected",
+    "Street closure coordination suggests facilities/public-safety involvement not explicitly mentioned",
+    "Media relations protocols documented indicate communications workflow maturity",
+    "Event date is June 26, 2026 at 3:00 PM",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

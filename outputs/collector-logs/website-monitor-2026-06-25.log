@@ -1,0 +1,24 @@
+2026-06-25 15:11:16,004 [INFO] ============================================================
+2026-06-25 15:11:16,004 [INFO] Website Monitor starting
+2026-06-25 15:11:17,928 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-06-25 15:11:17,928 [INFO]   Navigating to https://www.syr.gov/News
+2026-06-25 15:11:22,581 [INFO]   Found 10 article links in News
+2026-06-25 15:11:27,582 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-06-25-Mayors-Office-News-830AM
+2026-06-25 15:11:40,107 [INFO]     Saved: CTX-WEB-2026-00152 → CTX-WEB-2026-00152.json
+2026-06-25 15:11:40,107 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-06-25 15:11:40,107 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-06-25 15:11:43,755 [INFO]   Found 0 article links in Announcements
+2026-06-25 15:11:48,755 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-06-25 15:11:48,756 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-06-25 15:11:52,134 [INFO]   Found 0 article links in Public Notices
+2026-06-25 15:11:57,180 [INFO] Website Monitor Run — 2026-06-25 15:11
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • Mayor Owens to Present Proclamation for Rick Brunson Appreciation Day
+
