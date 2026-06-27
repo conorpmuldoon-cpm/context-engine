@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2026-00175",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/sports/2026/06/syracuses-westside-to-nba-history-rick-brunsons-local-roots-honored-by-his-home-city.html",
+  "publication_date": "2026-06-26",
+  "capture_date": "2026-06-27T13:51:06Z",
+  "title": "Syracuse’s Westside to NBA history: Rick Brunson’s local roots honored by his home city",
+  "summary": "Rick Brunson, a Syracuse native from the Westside, is being honored by his home city following an NBA championship. The article documents a ceremonial moment at City Hall celebrating his professional achievement and local roots, representing a positive community recognition event.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "residents",
+    "leadership-change",
+    "positive"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Rick Brunson",
+      "type": "person",
+      "canonical_id": "PERSON-RICK-BRUNSON"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE"
+    },
+    {
+      "name": "Ryan Storie",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-STORIE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Community celebration of local sports achievement and Westside neighborhood recognition aligns with mayoral/CIO priorities around civic pride, neighborhood visibility, and talent development.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily human-interest/sports coverage with civic celebration elements; limited direct CIO operational relevance",
+    "Potential relevance to workforce-development and economic-development narratives around growing local talent and community pride",
+    "Future angle: consider if citywide recognition programs or neighborhood development initiatives connect to this story",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'positive' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

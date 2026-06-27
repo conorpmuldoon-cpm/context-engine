@@ -1,0 +1,81 @@
+2026-06-27 13:50:58,454 [INFO] ============================================================
+2026-06-27 13:50:58,454 [INFO] News Scanner starting
+2026-06-27 13:50:58,455 [INFO] Fetching: Syracuse.com Politics
+2026-06-27 13:50:58,716 [INFO]   50 new articles from Syracuse.com Politics
+2026-06-27 13:50:58,716 [INFO] Fetching: Syracuse.com Government
+2026-06-27 13:50:58,966 [INFO]   0 new articles from Syracuse.com Government
+2026-06-27 13:50:58,966 [INFO] Fetching: Syracuse.com Local
+2026-06-27 13:50:59,105 [INFO]   0 new articles from Syracuse.com Local
+2026-06-27 13:50:59,105 [INFO] Fetching: Syracuse.com Main
+2026-06-27 13:50:59,237 [INFO]   0 new articles from Syracuse.com Main
+2026-06-27 13:50:59,237 [INFO] Total unique articles across all feeds: 50
+2026-06-27 13:50:59,238 [INFO] New articles (not previously processed): 50
+2026-06-27 13:50:59,291 [DEBUG]   Filtered (not relevant): Polymarket launches $50 invite code “CUSE” in NY, FL for World Cup group stage m
+2026-06-27 13:50:59,292 [DEBUG]   Filtered (not relevant): Holes-in-one for Central New York golfers (as of June 26)
+2026-06-27 13:50:59,292 [DEBUG]   Filtered (not relevant): Dear Annie: Young, irresponsible driver took my husband’s life and got away with
+2026-06-27 13:50:59,293 [DEBUG]   Filtered (not relevant): Argentina vs. Jordan prediction, Polymarket odds and World Cup preview
+2026-06-27 13:50:59,293 [DEBUG]   Filtered (not relevant): Central NY farm in business for more than 80 years faces costly rebuild after fi
+2026-06-27 13:50:59,294 [DEBUG]   Filtered (not relevant): Key Social Security change for 3.6 million beneficiaries starts this month
+2026-06-27 13:50:59,294 [INFO]   Relevant: 35-year-old woman stabbed in Syracuse, police say
+2026-06-27 13:50:59,294 [DEBUG]     → Departments: Syracuse Police Department
+2026-06-27 13:50:59,294 [DEBUG]     → Keywords: syracuse police
+2026-06-27 13:51:02,512 [INFO]     Dedup match: CTX-NEWS-2026-00171 — linking via cluster
+2026-06-27 13:51:02,512 [INFO]     Saved: CTX-NEWS-2026-00174 → CTX-NEWS-2026-00174.json
+2026-06-27 13:51:02,513 [DEBUG]   Filtered (not relevant): Asking Eric: Aging mom needs to be given agency, but she can’t hold caregiving d
+2026-06-27 13:51:02,514 [DEBUG]   Filtered (not relevant): Seneca County real estate: 8 most expensive homes sold, June 8-21
+2026-06-27 13:51:02,514 [DEBUG]   Filtered (not relevant): Fireworks shows in CNY for Fourth of July 2026
+2026-06-27 13:51:02,515 [DEBUG]   Filtered (not relevant): Asking Eric: I’m not Christian anymore, and I can’t so easily agree to ‘pray for
+2026-06-27 13:51:02,515 [DEBUG]   Filtered (not relevant): Tiny Upstate NY city named one of the best small towns in the Northeast
+2026-06-27 13:51:02,515 [DEBUG]   Filtered (not relevant): Man humorously reviews coffee from Stewart’s Shops: ‘Be in or on your way to the
+2026-06-27 13:51:02,516 [DEBUG]   Filtered (not relevant): Dear Abby: Husband insists we be friends — as a couple — with two people I canno
+2026-06-27 13:51:02,516 [DEBUG]   Filtered (not relevant): After a quiet weekend, a heat wave with possible triple-digit heat indexes is he
+2026-06-27 13:51:02,517 [DEBUG]   Filtered (not relevant): Man wins $1 million in special NY Lottery drawing honoring the Erie Canal’s 200t
+2026-06-27 13:51:02,517 [DEBUG]   Filtered (not relevant): Dear Abby: Mom gets back together with dad who physically abused me; dares to sa
+2026-06-27 13:51:02,518 [DEBUG]   Filtered (not relevant): Mega Millions numbers: Are you the lucky winner of Friday’s $489 million jackpot
+2026-06-27 13:51:02,518 [DEBUG]   Filtered (not relevant): Syracuse Mets beat Lehigh Valley IronPigs 4-3 in 10 innings
+2026-06-27 13:51:02,519 [DEBUG]   Filtered (not relevant): New Polymarket invite code “CUSE” updates $50 Prime Day bonus
+2026-06-27 13:51:02,519 [DEBUG]   Filtered (not relevant): See who’s graduating from Mexico High School, commencement information
+2026-06-27 13:51:02,520 [DEBUG]   Filtered (not relevant): See who’s graduating from PSLA@Fowler High School; plus Q&As with 2 top students
+2026-06-27 13:51:02,520 [DEBUG]   Filtered (not relevant): Experts release new Portugal vs. Colombia predictions after Luis Suarez injury u
+2026-06-27 13:51:02,521 [DEBUG]   Filtered (not relevant): $50 Polymarket referral code “CUSE” updated for Friday’s World Cup games in FL, 
+2026-06-27 13:51:02,521 [DEBUG]   Filtered (not relevant): Kalshi extends $10 referral code SYRACUSE for Panama vs. England, World Cup matc
+2026-06-27 13:51:02,522 [DEBUG]   Filtered (not relevant): New ‘Love Island USA’ Season 8, Episode 21 airs tonight and you can watch for fr
+2026-06-27 13:51:02,522 [INFO]   Relevant: Syracuse’s Westside to NBA history: Rick Brunson’s local roots honored by his ho
+2026-06-27 13:51:02,522 [DEBUG]     → Keywords: city hall
+2026-06-27 13:51:06,950 [WARNING]     Tag issue: Unknown tag 'positive' not in taxonomy
+2026-06-27 13:51:06,962 [INFO]     Saved: CTX-NEWS-2026-00175 → CTX-NEWS-2026-00175.json
+2026-06-27 13:51:06,962 [DEBUG]   Filtered (not relevant): Event wraps up a spectacular year of high school sports (Letter from the Editor)
+2026-06-27 13:51:06,962 [DEBUG]   Filtered (not relevant): Where to watch Cape Verde vs. Saudi Arabia: World Cup free stream
+2026-06-27 13:51:06,963 [DEBUG]   Filtered (not relevant): Where to watch Uruguay vs. Spain today: World Cup free live stream
+2026-06-27 13:51:06,963 [DEBUG]   Filtered (not relevant): Man found guilty in fatal stabbing at Parkside Commons in Syracuse
+2026-06-27 13:51:06,964 [DEBUG]   Filtered (not relevant): Firefighters rescue dog from house fire in Syracuse
+2026-06-27 13:51:06,964 [DEBUG]   Filtered (not relevant): Who is the top returning player in Class D New York high school football? Your v
+2026-06-27 13:51:06,965 [DEBUG]   Filtered (not relevant): Country legend steps out for first time since canceling residency due to health 
+2026-06-27 13:51:06,965 [DEBUG]   Filtered (not relevant): Update: Penny-sized hail foreseen with thunderstorms to hit Washington County Fr
+2026-06-27 13:51:06,966 [DEBUG]   Filtered (not relevant): Expect strong thunderstorms in Columbia County Friday afternoon — winds gusting 
+2026-06-27 13:51:06,966 [DEBUG]   Filtered (not relevant): Mannion: Why did ICE threaten Syracuse woman about her social media post?
+2026-06-27 13:51:06,967 [DEBUG]   Filtered (not relevant): New $10 Kalshi Promo Code SYRACUSE updated for France vs. Norway, MLB Friday
+2026-06-27 13:51:06,967 [DEBUG]   Filtered (not relevant): Nation’s two oldest nuclear plants, both in Upstate NY, apply for 20-year licens
+2026-06-27 13:51:06,968 [DEBUG]   Filtered (not relevant): The leader in killing of Sam Nordquist faces life in prison, but the death penal
+2026-06-27 13:51:06,968 [DEBUG]   Filtered (not relevant): B’ville attorney tried to flee to Qatar after being charged with a felony, troop
+2026-06-27 13:51:06,969 [DEBUG]   Filtered (not relevant): How to watch ‘Power Book III: Raising Kanan’ Season 5, Episode 3 for free tonigh
+2026-06-27 13:51:06,969 [DEBUG]   Filtered (not relevant): Where to watch Norway vs. France today: World Cup free stream
+2026-06-27 13:51:06,970 [DEBUG]   Filtered (not relevant): See who’s graduating from Henninger High School; plus Q&As with 2 top students
+2026-06-27 13:51:06,970 [DEBUG]   Filtered (not relevant): Classic danish dough
+2026-06-27 13:51:06,971 [DEBUG]   Filtered (not relevant): Blueberry danish tart
+2026-06-27 13:51:06,971 [DEBUG]   Filtered (not relevant): Peaches and cream Victoria sandwich
+2026-06-27 13:51:06,972 [DEBUG]   Filtered (not relevant): Smoke alarms alert two people, who escaped fire in Preble, fire chief says
+2026-06-27 13:51:06,972 [DEBUG]   Filtered (not relevant): NY state shouts out Albany in pride month post: ‘Yeah, I’m gay’
+2026-06-27 13:51:06,973 [DEBUG]   Filtered (not relevant): Tractor-trailer rollover at Thruway service area injures driver, dumps garbage i
+2026-06-27 13:51:06,974 [INFO] News Scanner Run — 2026-06-27 13:51
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • 35-year-old woman stabbed in Syracuse, police say
+  • Syracuse’s Westside to NBA history: Rick Brunson’s local roots honored by his ho
+
