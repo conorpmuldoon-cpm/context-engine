@@ -1,0 +1,79 @@
+2026-06-29 15:53:20,693 [INFO] ============================================================
+2026-06-29 15:53:20,693 [INFO] News Scanner starting
+2026-06-29 15:53:20,694 [INFO] Fetching: Syracuse.com Politics
+2026-06-29 15:53:21,093 [INFO]   50 new articles from Syracuse.com Politics
+2026-06-29 15:53:21,093 [INFO] Fetching: Syracuse.com Government
+2026-06-29 15:53:21,225 [INFO]   0 new articles from Syracuse.com Government
+2026-06-29 15:53:21,225 [INFO] Fetching: Syracuse.com Local
+2026-06-29 15:53:21,350 [INFO]   0 new articles from Syracuse.com Local
+2026-06-29 15:53:21,350 [INFO] Fetching: Syracuse.com Main
+2026-06-29 15:53:21,479 [INFO]   0 new articles from Syracuse.com Main
+2026-06-29 15:53:21,479 [INFO] Total unique articles across all feeds: 50
+2026-06-29 15:53:21,479 [INFO] New articles (not previously processed): 50
+2026-06-29 15:53:21,528 [DEBUG]   Filtered (not relevant): Thunder Island amusement park announces it won’t open this year
+2026-06-29 15:53:21,529 [DEBUG]   Filtered (not relevant): Where to watch Brazil vs. Japan today if you don’t have FOX
+2026-06-29 15:53:21,529 [DEBUG]   Filtered (not relevant): Weird Al’s secret? He’s just a normal guy who loves fun (interview, Syracuse con
+2026-06-29 15:53:21,530 [DEBUG]   Filtered (not relevant): Target’s ‘perfect’ fire pit is 30% off ahead of July 4th weekend
+2026-06-29 15:53:21,530 [DEBUG]   Filtered (not relevant): Where to watch Novak Djokovic vs. Wu Yibing: Wimbledon free stream
+2026-06-29 15:53:21,531 [DEBUG]   Filtered (not relevant): Central NY man who died when motorcycle collided with pickup identified
+2026-06-29 15:53:21,531 [DEBUG]   Filtered (not relevant): Upstate NY could see record-breaking heat, oppressive humidity this week
+2026-06-29 15:53:21,531 [INFO]   Relevant: Syracuse athletic department ranks 59th nationally in all-around competition
+2026-06-29 15:53:21,532 [DEBUG]     → Entities: Syracuse University
+2026-06-29 15:53:24,473 [INFO]     Saved: CTX-NEWS-2026-00176 → CTX-NEWS-2026-00176.json
+2026-06-29 15:53:24,474 [DEBUG]   Filtered (not relevant): Air quality alert issued for Rockland and Westchester counties Monday
+2026-06-29 15:53:24,474 [DEBUG]   Filtered (not relevant): Miss Manners: What is the correct way to deal with being stood up for social pla
+2026-06-29 15:53:24,475 [DEBUG]   Filtered (not relevant): America at 250: ‘Democracy is not self-sustaining; it depends on you and me’ (Yo
+2026-06-29 15:53:24,475 [DEBUG]   Filtered (not relevant): Armory Square bar permanently closes just over 2 years after opening
+2026-06-29 15:53:24,476 [DEBUG]   Filtered (not relevant): Polymarket updates $50 invite code “CUSE” in NY, MA for Monday’s World Cup Round
+2026-06-29 15:53:24,476 [INFO]   Relevant: Walmart’s $300 portable air conditioner is $166 ahead of this week’s heat wave
+2026-06-29 15:53:24,476 [DEBUG]     → Entities: Axon
+2026-06-29 15:53:27,519 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-06-29 15:53:27,528 [INFO]     Saved: CTX-NEWS-2026-00177 → CTX-NEWS-2026-00177.json
+2026-06-29 15:53:27,529 [DEBUG]   Filtered (not relevant): Germany vs. Paraguay predictions: Polymarket odds, props and best bet for Round 
+2026-06-29 15:53:27,530 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: Baking in the summer heat? This 10-minute reset will cool d
+2026-06-29 15:53:27,530 [DEBUG]   Filtered (not relevant): NYCLU: Syracuse must revive police oversight board (Guest Opinion by Lizmarie Mo
+2026-06-29 15:53:27,530 [DEBUG]   Filtered (not relevant): Emo band announces 20th anniversary tour with apparent lineup change
+2026-06-29 15:53:27,531 [DEBUG]   Filtered (not relevant): 1 Upstate NY airport was in top 10 in US for fare increase in Q1
+2026-06-29 15:53:27,531 [DEBUG]   Filtered (not relevant): 2026 ESS-CNY Speed Week starts Tuesday at Weedsport
+2026-06-29 15:53:27,532 [DEBUG]   Filtered (not relevant): Dear Annie: I thought co-worker was my best friend for life; then I got promoted
+2026-06-29 15:53:27,533 [DEBUG]   Filtered (not relevant): Woman, 96, says she’s facing eviction for throwing too many parties at nursing h
+2026-06-29 15:53:27,533 [DEBUG]   Filtered (not relevant): Dear Doctor: I noticed some mysterious new gut symptoms; is it just because I’m 
+2026-06-29 15:53:27,534 [DEBUG]   Filtered (not relevant): 2 Central NY Dems went out on a limb for Mo Brown. Here’s their message for poli
+2026-06-29 15:53:27,534 [DEBUG]   Filtered (not relevant): Benevolent, manufacturing facilities: See 20 latest business, apartment, land sa
+2026-06-29 15:53:27,535 [DEBUG]   Filtered (not relevant): Asking Eric: I’m ready to leave my boyfriend because of his rambling, narcissist
+2026-06-29 15:53:27,535 [DEBUG]   Filtered (not relevant): ICE tracks critic from Upstate NY while on vacation (Good Morning CNY)
+2026-06-29 15:53:27,535 [DEBUG]   Filtered (not relevant): Popular singer asks fans not to poop on floor at concerts
+2026-06-29 15:53:27,536 [DEBUG]   Filtered (not relevant): Update: Look for dense fog in Putnam and Westchester counties Monday morning
+2026-06-29 15:53:27,536 [DEBUG]   Filtered (not relevant): Asking Eric: I was so anxious to confront neighbors, I lived with their rude noi
+2026-06-29 15:53:27,537 [DEBUG]   Filtered (not relevant): Godsmack, ‘9 to 5 the Musical,’ lavender festival: 25 things to do this week in 
+2026-06-29 15:53:27,537 [DEBUG]   Filtered (not relevant): A pro soccer stadium at the Syracuse Inner Harbor? ‘Preliminary’ talks are under
+2026-06-29 15:53:27,537 [DEBUG]   Filtered (not relevant): Meet Abdramane Siby, Syracuse basketball’s 7-foot freshman: ‘He is improving eve
+2026-06-29 15:53:27,538 [DEBUG]   Filtered (not relevant): Dear Abby: I’m physically fine, but I’m stuck in a rut in life that’s mentally b
+2026-06-29 15:53:27,538 [DEBUG]   Filtered (not relevant): Baby oil recall: Thousands of bottles have child poisoning risk
+2026-06-29 15:53:27,539 [DEBUG]   Filtered (not relevant): Dear Abby: Raging nephew pushed his own grandmother to the ground, but she wants
+2026-06-29 15:53:27,539 [DEBUG]   Filtered (not relevant): ‘80s singer blames promoter after tornado destroys equipment: ‘Total disaster’
+2026-06-29 15:53:27,540 [DEBUG]   Filtered (not relevant): Capital Region placed under an extreme heat watch from Wednesday to Friday
+2026-06-29 15:53:27,540 [DEBUG]   Filtered (not relevant): New $50 Polymarket invite code “CUSE” extended into July
+2026-06-29 15:53:27,541 [DEBUG]   Filtered (not relevant): No one injured as grill fire spreads to Lysander home
+2026-06-29 15:53:27,541 [DEBUG]   Filtered (not relevant): $50 Polymarket referral code “CUSE” upgraded for Round of 32
+2026-06-29 15:53:27,542 [DEBUG]   Filtered (not relevant): Experts release new Wimbledon predictions after Sinner and Sabalenka dominate tr
+2026-06-29 15:53:27,542 [DEBUG]   Filtered (not relevant): How to watch ‘Rick and Morty’ Season 9, Episode 6 for free on Adult Swim tonight
+2026-06-29 15:53:27,543 [DEBUG]   Filtered (not relevant): Kalshi raises $10 referral code SYRACUSE for World Cup knockout round matches th
+2026-06-29 15:53:27,543 [DEBUG]   Filtered (not relevant): ‘House of the Dragon’ Season 3, Episode 2 airs tonight and you can watch for fre
+2026-06-29 15:53:27,543 [DEBUG]   Filtered (not relevant): The 2026 BET Awards air tonight: How to watch for free without cable
+2026-06-29 15:53:27,544 [DEBUG]   Filtered (not relevant): ‘The Real Housewives of RI’ reunion part 2 airs tonight: How to watch for free w
+2026-06-29 15:53:27,544 [DEBUG]   Filtered (not relevant): Where to watch Yankees vs. Red Sox: MLB free live stream
+2026-06-29 15:53:27,544 [DEBUG]   Filtered (not relevant): Syracuse Mets beat Lehigh Valley IronPigs 5-4
+2026-06-29 15:53:27,545 [DEBUG]   Filtered (not relevant): ‘Horrific scene’: At least 117 dead dogs found at California ‘no-kill’ shelter
+2026-06-29 15:53:27,547 [INFO] News Scanner Run — 2026-06-29 15:53
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Syracuse athletic department ranks 59th nationally in all-around competition
+  • Walmart’s $300 portable air conditioner is $166 ahead of this week’s heat wave
+

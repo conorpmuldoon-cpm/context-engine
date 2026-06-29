@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00177",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/shopping/2026/06/walmarts-300-portable-air-conditioner-is-166-ahead-of-this-weeks-heat-wave.html",
+  "publication_date": "2026-06-29",
+  "capture_date": "2026-06-29T15:53:27Z",
+  "title": "Walmart’s $300 portable air conditioner is $166 ahead of this week’s heat wave",
+  "summary": "Consumer product news article about a Walmart portable air conditioner promotion during summer heat. Not directly relevant to City of Syracuse operations, policy, or CIO infrastructure initiatives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Walmart",
+      "type": "organization",
+      "canonical_id": "ORG-WALMART"
+    },
+    {
+      "name": "Ktaxon",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is consumer shopping content with no connection to city government, policy, infrastructure, or innovation initiatives",
+    "Mechanical extraction flagged 'Axon' as entity—likely OCR error for 'Ktaxon' (product brand); no relevance to city systems",
+    "Dollar amounts ($300, $166) are retail pricing, not municipal budget or procurement data",
+    "No tags from available taxonomy apply; recommend filtering out retail/shopping articles in future ingestion",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,47 @@
+{
+  "record_id": "CTX-NEWS-2026-00176",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangesports/2026/06/syracuse-athletic-department-ranks-59th-nationally-in-all-around-competition.html",
+  "publication_date": "2026-06-29",
+  "capture_date": "2026-06-29T15:53:24Z",
+  "title": "Syracuse athletic department ranks 59th nationally in all-around competition",
+  "summary": "Syracuse University's athletic department ranked 59th nationally in all-around competition for 2025-26. This rankings announcement has limited direct relevance to City of Syracuse municipal operations or the Chief Innovation Officer's purview.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRUNI"
+    },
+    {
+      "name": "Chris Carlson",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns university athletics, not city government operations",
+    "No city department involvement detected",
+    "No municipal budget, policy, or infrastructure implications",
+    "Source is Syracuse.com sports section, not municipal news",
+    "Consider whether university partnerships or economic development context warrant retention",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
