@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-NEWS-2026-00178",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/06/demolition-of-derelict-syracuse-parking-garage-stalled-by-dispute-with-adjacent-law-firms.html",
+  "publication_date": "2026-06-30",
+  "capture_date": "2026-06-30T14:26:33Z",
+  "title": "Plan to raze an unsafe Syracuse parking garage runs into a neighbor problem",
+  "summary": "The City of Syracuse is pursuing litigation against two law firms to proceed with demolition of a structurally unsafe 550-car parking garage. The dispute involves neighboring property owners and is delaying a critical facilities/infrastructure project. This suggests potential need for expedited legal/permitting processes or policy review for future demolition projects.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "facilities",
+    "infrastructure",
+    "escalating",
+    "investigation",
+    "land-use",
+    "permitting",
+    "code-enforcement",
+    "neighborhood-services"
+  ],
+  "department_refs": [
+    "Law Department",
+    "Department of Permitting and Compliance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Rick Moriarty",
+      "type": "person",
+      "canonical_id": "PERSON-RICK-MORIARTY"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    },
+    {
+      "name": "Two adjacent law firms",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public reporting on litigation delay of deteriorating public asset suggests governance process friction and potential constituent concern about property-adjacent business interests blocking necessary infrastructure maintenance.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Specific law firm names not identified in excerpt; recommend full article review for entity disambiguation",
+    "No dollar amounts provided; recommend cost estimate data from facilities/infrastructure teams",
+    "Article suggests potential permit/zoning policy gaps in demolition process; flag for CIO innovation/process improvement opportunities",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

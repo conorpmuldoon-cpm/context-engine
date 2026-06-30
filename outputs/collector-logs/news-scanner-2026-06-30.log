@@ -1,0 +1,76 @@
+2026-06-30 14:26:27,371 [INFO] ============================================================
+2026-06-30 14:26:27,371 [INFO] News Scanner starting
+2026-06-30 14:26:27,373 [INFO] Fetching: Syracuse.com Politics
+2026-06-30 14:26:27,863 [INFO]   50 new articles from Syracuse.com Politics
+2026-06-30 14:26:27,863 [INFO] Fetching: Syracuse.com Government
+2026-06-30 14:26:28,050 [INFO]   0 new articles from Syracuse.com Government
+2026-06-30 14:26:28,050 [INFO] Fetching: Syracuse.com Local
+2026-06-30 14:26:28,213 [INFO]   0 new articles from Syracuse.com Local
+2026-06-30 14:26:28,214 [INFO] Fetching: Syracuse.com Main
+2026-06-30 14:26:28,383 [INFO]   0 new articles from Syracuse.com Main
+2026-06-30 14:26:28,383 [INFO] Total unique articles across all feeds: 50
+2026-06-30 14:26:28,383 [INFO] New articles (not previously processed): 50
+2026-06-30 14:26:28,442 [DEBUG]   Filtered (not relevant): Conflict among team of contractors remaking I-81 spills into courts
+2026-06-30 14:26:28,442 [DEBUG]   Filtered (not relevant): Where to watch Ivory Coast vs. Norway: World Cup free live stream
+2026-06-30 14:26:28,443 [DEBUG]   Filtered (not relevant): Miss Manners: A flying lobster, a brown pants stain, and a husband who found it 
+2026-06-30 14:26:28,443 [DEBUG]   Filtered (not relevant): Is pro wrestling real? Why social media believes RFK Jr. might think it is
+2026-06-30 14:26:28,444 [DEBUG]   Filtered (not relevant): How to secure beabadoobee presale tickets before they sell out
+2026-06-30 14:26:28,445 [DEBUG]   Filtered (not relevant): Polymarket upgrades $50 invite code “CUSE” in NY, TX for World Cup Round of 32 m
+2026-06-30 14:26:28,445 [DEBUG]   Filtered (not relevant): The Nintendo Switch 2 is more than $100 at this online location - Here’s how to 
+2026-06-30 14:26:28,446 [DEBUG]   Filtered (not relevant): Where to watch Serena Williams vs. Maya Joint: Wimbledon free stream
+2026-06-30 14:26:28,446 [DEBUG]   Filtered (not relevant): Big Ten running back charged with battery after altercation with pregnant girlfr
+2026-06-30 14:26:28,447 [DEBUG]   Filtered (not relevant): France vs. Sweden prediction: Odds, Mbappé props and Polymarket prices for Round
+2026-06-30 14:26:28,447 [DEBUG]   Filtered (not relevant): Halloumi, peach and cucumber spoon salad
+2026-06-30 14:26:28,448 [DEBUG]   Filtered (not relevant): Business is good at the Camillus Costco. It asks town for OK to make a move
+2026-06-30 14:26:28,448 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: 6 genius money-saving tips from readers that will change ho
+2026-06-30 14:26:28,449 [DEBUG]   Filtered (not relevant): 5 teens arrested after stealing from Central NY car dealership, grocery store, p
+2026-06-30 14:26:28,449 [DEBUG]   Filtered (not relevant): Make East Adams Street safer for students walking to school (Guest Opinion by Ap
+2026-06-30 14:26:28,450 [DEBUG]   Filtered (not relevant): See who graduated from Corcoran High School; plus Q&As with 2 top students
+2026-06-30 14:26:28,450 [DEBUG]   Filtered (not relevant): Dear Annie: I miss the magic of family Christmases; now, adult kids treat me lik
+2026-06-30 14:26:28,450 [DEBUG]   Filtered (not relevant): Country star held at Canada border after Upstate NY concert: ‘I was freaking out
+2026-06-30 14:26:28,451 [DEBUG]   Filtered (not relevant): Dear Doctor: Please help me understand Munchausen syndrome, and how to deal with
+2026-06-30 14:26:28,451 [DEBUG]   Filtered (not relevant): Newborn baby found dead at music festival; police searching for mother
+2026-06-30 14:26:28,452 [DEBUG]   Filtered (not relevant): Police blotter: See 175 new arrests added, including murder charge
+2026-06-30 14:26:28,452 [DEBUG]   Filtered (not relevant): Where to watch Zverev vs. Blockx today: Wimbledon free stream
+2026-06-30 14:26:28,452 [DEBUG]   Filtered (not relevant): Asking Eric: Friend sends money, sells home and is ready to walk out on boyfrien
+2026-06-30 14:26:28,453 [DEBUG]   Filtered (not relevant): Pop star reschedules 3 tour dates due to safety concerns
+2026-06-30 14:26:28,453 [DEBUG]   Filtered (not relevant): Clay passes battery storage law, halts data centers (Good Morning CNY)
+2026-06-30 14:26:28,453 [DEBUG]   Filtered (not relevant): Asking Eric: Heartbroken mom watches her daughter’s open relationship fall apart
+2026-06-30 14:26:28,454 [DEBUG]   Filtered (not relevant): Metal band plays banned 1960s song at stadium concert
+2026-06-30 14:26:28,454 [DEBUG]   Filtered (not relevant): CNY Inspirations: The lifelong journey of learning
+2026-06-30 14:26:28,455 [DEBUG]   Filtered (not relevant): Dear Abby: I fell in love with my best friend, but he’s as unavailable, and the 
+2026-06-30 14:26:28,455 [INFO]   Relevant: Plan to raze an unsafe Syracuse parking garage runs into a neighbor problem
+2026-06-30 14:26:28,455 [DEBUG]     → Departments: Law Department
+2026-06-30 14:26:28,455 [DEBUG]     → Keywords: city of syracuse
+2026-06-30 14:26:33,100 [INFO]     Saved: CTX-NEWS-2026-00178 → CTX-NEWS-2026-00178.json
+2026-06-30 14:26:33,101 [DEBUG]   Filtered (not relevant): Dear Abby: I don’t care for my son’s girlfriend; what can I do to convince him t
+2026-06-30 14:26:33,101 [DEBUG]   Filtered (not relevant): Update: Extreme heat warning issued for Hudson Valley for Wednesday
+2026-06-30 14:26:33,102 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Monday’s $360 million drawing
+2026-06-30 14:26:33,102 [DEBUG]   Filtered (not relevant): I-481 North closed in DeWitt after fatal crash reported
+2026-06-30 14:26:33,103 [DEBUG]   Filtered (not relevant): New Polymarket invite code “CUSE” extends $50 sports bonus to politics
+2026-06-30 14:26:33,104 [DEBUG]   Filtered (not relevant): Supreme Court upholds Trump’s firing of federal agency heads ― except for one
+2026-06-30 14:26:33,104 [DEBUG]   Filtered (not relevant): Clay passes battery storage law and halts data centers for one year
+2026-06-30 14:26:33,104 [DEBUG]   Filtered (not relevant): Experts release new France vs. Sweden predictions after William Saliba, Marcus T
+2026-06-30 14:26:33,105 [DEBUG]   Filtered (not relevant): Polls: Pride in US history and democracy drops, fewer are proud to be American
+2026-06-30 14:26:33,105 [DEBUG]   Filtered (not relevant): Record-setting former NFL running back diagnosed with ALS
+2026-06-30 14:26:33,106 [DEBUG]   Filtered (not relevant): See who graduated from OnTECH Charter High School; plus Q&As with 2 top students
+2026-06-30 14:26:33,107 [DEBUG]   Filtered (not relevant): $50 Polymarket referral code “CUSE” upgraded for MLB in NY, PA, and IL
+2026-06-30 14:26:33,107 [DEBUG]   Filtered (not relevant): Kalshi upgrades $10 referral code SYRACUSE for Netherlands vs. Morocco tonight
+2026-06-30 14:26:33,108 [DEBUG]   Filtered (not relevant): Where to watch Netherlands vs. Morocco today: World Cup free stream
+2026-06-30 14:26:33,108 [DEBUG]   Filtered (not relevant): One of Syracuse’s most influential restaurants is closing after 18 years
+2026-06-30 14:26:33,109 [DEBUG]   Filtered (not relevant): Stanley drops limited edition fireworks-inspired tumblers for July 4th
+2026-06-30 14:26:33,109 [DEBUG]   Filtered (not relevant): Boil water advisory issued in city of Oneida
+2026-06-30 14:26:33,109 [DEBUG]   Filtered (not relevant): Former Syracuse star Jerami Grant part of NBA blockbuster trade involving Ja Mor
+2026-06-30 14:26:33,110 [DEBUG]   Filtered (not relevant): Golf star’s ex-wife breaks silence after accusations against Phil Mickelson
+2026-06-30 14:26:33,110 [DEBUG]   Filtered (not relevant): Traffic alert: Crash closes I-690 West in Syracuse causing large backups
+2026-06-30 14:26:33,112 [INFO] News Scanner Run — 2026-06-30 14:26
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Plan to raze an unsafe Syracuse parking garage runs into a neighbor problem
+
