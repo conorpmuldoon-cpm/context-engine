@@ -1,0 +1,81 @@
+2026-07-02 14:10:16,245 [INFO] ============================================================
+2026-07-02 14:10:16,246 [INFO] News Scanner starting
+2026-07-02 14:10:16,247 [INFO] Fetching: Syracuse.com Politics
+2026-07-02 14:10:16,457 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-02 14:10:16,457 [INFO] Fetching: Syracuse.com Government
+2026-07-02 14:10:16,602 [INFO]   0 new articles from Syracuse.com Government
+2026-07-02 14:10:16,602 [INFO] Fetching: Syracuse.com Local
+2026-07-02 14:10:16,743 [INFO]   0 new articles from Syracuse.com Local
+2026-07-02 14:10:16,743 [INFO] Fetching: Syracuse.com Main
+2026-07-02 14:10:16,875 [INFO]   0 new articles from Syracuse.com Main
+2026-07-02 14:10:16,875 [INFO] Total unique articles across all feeds: 50
+2026-07-02 14:10:16,875 [INFO] New articles (not previously processed): 50
+2026-07-02 14:10:16,928 [DEBUG]   Filtered (not relevant): Miss Manners: Did husband’s ex really manipulate my wedding guests, or am I gett
+2026-07-02 14:10:16,928 [DEBUG]   Filtered (not relevant): See 5 Onondaga County towns with average home prices up 10%
+2026-07-02 14:10:16,929 [DEBUG]   Filtered (not relevant): Sitcom star announces divorce from ‘baby momma’ after 10 years in now-deleted po
+2026-07-02 14:10:16,930 [DEBUG]   Filtered (not relevant): Polymarket extends $50 invite code “CUSE” in NY, CA for Round of 32 World Cup ma
+2026-07-02 14:10:16,930 [DEBUG]   Filtered (not relevant): Dead body found in chimney at NY school: ‘Deeply upsetting’
+2026-07-02 14:10:16,930 [DEBUG]   Filtered (not relevant): After North Syracuse success, Zaman Coffee House opens Camillus café
+2026-07-02 14:10:16,931 [DEBUG]   Filtered (not relevant): When will N.J. serial killer face justice? Trial inches closer for young predato
+2026-07-02 14:10:16,932 [DEBUG]   Filtered (not relevant): Spain vs. Austria: Polymarket prices, props and best bet for World Cup knockout 
+2026-07-02 14:10:16,932 [DEBUG]   Filtered (not relevant): Murder charge against Syracuse man dropped after hung jury
+2026-07-02 14:10:16,932 [DEBUG]   Filtered (not relevant): Eggs are down 51%, but 1 grocery staple keeps surging (Price tracker)
+2026-07-02 14:10:16,933 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: 25 ways to save $1,000 on your monthly expenses
+2026-07-02 14:10:16,933 [DEBUG]   Filtered (not relevant): Thieves cut down copper phone and internet lines in Cazenovia five times to rese
+2026-07-02 14:10:16,934 [DEBUG]   Filtered (not relevant): Dear Annie: Brother’s health takes a fast food nose dive, and I think he’s heade
+2026-07-02 14:10:16,935 [DEBUG]   Filtered (not relevant): America at 250: A birthday letter to my refugee students (Guest Opinion by Adam 
+2026-07-02 14:10:16,935 [DEBUG]   Filtered (not relevant): Jack Johnson brings good vibes to sold-out CMAC concert (review, setlist)
+2026-07-02 14:10:16,935 [DEBUG]   Filtered (not relevant): Jaylen Brown recently had harsh words for new teammate Joel Embiid
+2026-07-02 14:10:16,936 [DEBUG]   Filtered (not relevant): Car plunges into sinkhole after hydrant line bursts in Syracuse
+2026-07-02 14:10:16,936 [DEBUG]   Filtered (not relevant): Dear Annie: Husband insists on having the TV on all day; I don’t want to nag, bu
+2026-07-02 14:10:16,936 [DEBUG]   Filtered (not relevant): Canceled CBS drama to make epic return this fall on new network
+2026-07-02 14:10:16,937 [DEBUG]   Filtered (not relevant): Dear Doctor: In the final stages of excruciating osteonecrosis, and terrified of
+2026-07-02 14:10:16,937 [DEBUG]   Filtered (not relevant): Camillus’ Bulfinch Taphouse & Bistro delivers a whole lot of ‘Ehhhhhh’ (Dining O
+2026-07-02 14:10:16,938 [INFO]   Relevant: Candace Campbell Jackson transitions from SU chief of staff
+2026-07-02 14:10:16,938 [DEBUG]     → Entities: Syracuse University
+2026-07-02 14:10:19,972 [INFO]     Saved: CTX-NEWS-2026-00179 → CTX-NEWS-2026-00179.json
+2026-07-02 14:10:19,973 [DEBUG]   Filtered (not relevant): Mary Nelson’s summer food program continues without state’s help (Good Morning C
+2026-07-02 14:10:19,973 [DEBUG]   Filtered (not relevant): Weather keeping Land of Legends Speedway stuck in low gear
+2026-07-02 14:10:19,974 [DEBUG]   Filtered (not relevant): Kool-Aid popsicles? Syracuse’s zoo gets creative to keep its big animals cool
+2026-07-02 14:10:19,974 [DEBUG]   Filtered (not relevant): Asking Eric: Her friend shared a disturbing secret about a dead man; she couldn’
+2026-07-02 14:10:19,975 [DEBUG]   Filtered (not relevant): Which Section III football teams have the most challenging paths this fall?
+2026-07-02 14:10:19,975 [DEBUG]   Filtered (not relevant): Where to watch Alexander Zverev vs. Valentin Royer: Wimbledon stream
+2026-07-02 14:10:19,975 [INFO]   Relevant: Jeff Stoecker named Syracuse University chief of staff
+2026-07-02 14:10:19,976 [DEBUG]     → Entities: Syracuse University
+2026-07-02 14:10:23,501 [INFO]     Saved: CTX-NEWS-2026-00180 → CTX-NEWS-2026-00180.json
+2026-07-02 14:10:23,502 [DEBUG]   Filtered (not relevant): Rock singer on Trump friendship: ‘A front-row seat to the greatest s--- show’
+2026-07-02 14:10:23,502 [DEBUG]   Filtered (not relevant): Traffic alert: Water main break closes I-690 West ramp to Geddes St.
+2026-07-02 14:10:23,503 [DEBUG]   Filtered (not relevant): Asking Eric: So-called ‘religious’ sister-in-law leaves butt-dialed voicemail th
+2026-07-02 14:10:23,503 [DEBUG]   Filtered (not relevant): Syracuse breaks 95-year-old heat record; more sweltering weather ahead
+2026-07-02 14:10:23,504 [DEBUG]   Filtered (not relevant): CNY Inspirations: Strength in flexibility
+2026-07-02 14:10:23,504 [DEBUG]   Filtered (not relevant): See schedules of former SU basketball players in NBA Summer League
+2026-07-02 14:10:23,504 [INFO]   Relevant: Here are 88 jobs at Bechtel, the company building Micron’s Central NY plant
+2026-07-02 14:10:23,504 [DEBUG]     → Entities: Micron Technology
+2026-07-02 14:10:27,041 [INFO]     Saved: CTX-NEWS-2026-00181 → CTX-NEWS-2026-00181.json
+2026-07-02 14:10:27,041 [DEBUG]   Filtered (not relevant): Dear Abby: I cooked all this, and you have the gall to say ‘let’s go get some KF
+2026-07-02 14:10:27,042 [DEBUG]   Filtered (not relevant): Dear Abby: I crave an intimate relationship, but my wife has refused to have sex
+2026-07-02 14:10:27,042 [DEBUG]   Filtered (not relevant): Former TLC star claims his mother wrote disturbing diary entry about abusing him
+2026-07-02 14:10:27,043 [DEBUG]   Filtered (not relevant): Nation’s No. 1 high school football player, NFL legend’s son, commits to college
+2026-07-02 14:10:27,043 [DEBUG]   Filtered (not relevant): Penny-sized hail and damaging winds predicted with thunderstorms in Dutchess and
+2026-07-02 14:10:27,044 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Wednesday’s $375 million drawing
+2026-07-02 14:10:27,044 [DEBUG]   Filtered (not relevant): Update: Thunderstorms with walnut-sized hail and damaging winds in Sullivan Coun
+2026-07-02 14:10:27,044 [DEBUG]   Filtered (not relevant): Syracuse Mets lose 6-5 after rain delay in ninth inning
+2026-07-02 14:10:27,045 [DEBUG]   Filtered (not relevant): Damaging winds and penny-sized hail forecast with thunderstorms to hit Warren an
+2026-07-02 14:10:27,046 [DEBUG]   Filtered (not relevant): New $50 Polymarket invite code “CUSE” upgraded for USA vs. Bosnia-Herzegovina li
+2026-07-02 14:10:27,046 [DEBUG]   Filtered (not relevant): Madison County Sheriff’s Office lifts Lincoln shelter-in-place
+2026-07-02 14:10:27,047 [DEBUG]   Filtered (not relevant): Experts release new Spain vs. Austria predictions after Nico Williams and Yeremy
+2026-07-02 14:10:27,047 [DEBUG]   Filtered (not relevant): Videos: Couple scales Empire State Building antenna for apparent marriage propos
+2026-07-02 14:10:27,048 [DEBUG]   Filtered (not relevant): Flash flood warning active for Herkimer County until Wednesday night triggered b
+2026-07-02 14:10:27,050 [INFO] News Scanner Run — 2026-07-02 14:10
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • Candace Campbell Jackson transitions from SU chief of staff
+  • Jeff Stoecker named Syracuse University chief of staff
+  • Here are 88 jobs at Bechtel, the company building Micron’s Central NY plant
+

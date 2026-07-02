@@ -1,0 +1,53 @@
+{
+  "record_id": "CTX-NEWS-2026-00179",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/07/company-news-candace-campbell-jackson-changes-leadership-role-at-syracuse-university.html",
+  "publication_date": "2026-07-02",
+  "capture_date": "2026-07-02T14:10:19Z",
+  "title": "Candace Campbell Jackson transitions from SU chief of staff",
+  "summary": "Candace Campbell Jackson is transitioning from her 11-year tenure as senior vice president and chief of staff at Syracuse University to a new role as senior advisor to Chancellor J. Michael Haynie. This leadership change at a major regional institution may have implications for Syracuse's business community and university-city partnerships.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "business-community",
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Candace Campbell Jackson",
+      "type": "person",
+      "canonical_id": "PERSON-CANDACE-CAMPBELL-JACKSON"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "J. Michael Haynie",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-HAYNIE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns Syracuse University leadership, not City of Syracuse government operations",
+    "No direct municipal government impact identified",
+    "Relevant to CIO as business-community stakeholder mapping only",
+    "No budget, procurement, or policy implications for city detected",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

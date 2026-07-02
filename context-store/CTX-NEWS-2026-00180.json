@@ -1,0 +1,47 @@
+{
+  "record_id": "CTX-NEWS-2026-00180",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/07/company-news-jeff-stoecker-named-syracuse-university-chief-of-staff.html",
+  "publication_date": "2026-07-02",
+  "capture_date": "2026-07-02T14:10:23Z",
+  "title": "Jeff Stoecker named Syracuse University chief of staff",
+  "summary": "Syracuse University has appointed Jeff Stoecker to an expanded leadership role combining senior vice president, chief of staff to the chancellor, and chief communications and marketing officer positions, effective July 1, 2026. This represents a significant organizational consolidation at the university's executive level.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Jeff Stoecker",
+      "type": "person",
+      "canonical_id": "PERSON-JEFF-STOECKER"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIVERSITY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns higher education institution, not City of Syracuse municipal government",
+    "No direct municipal policy, budget, or service delivery implications detected",
+    "May be relevant for business-community intelligence or economic-development context only",
+    "No CIO-specific systems, IT infrastructure, or digital services implications identified",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

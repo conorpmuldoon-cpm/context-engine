@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2026-00181",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/07/here-are-88-jobs-at-bechtel-the-company-building-microns-central-ny-plant.html",
+  "publication_date": "2026-07-02",
+  "capture_date": "2026-07-02T14:10:27Z",
+  "title": "Here are 88 jobs at Bechtel, the company building Micron’s Central NY plant",
+  "summary": "Bechtel, the construction contractor for Micron Technology's chipmaking facility in Clay, NY, is actively hiring 88 jobs as construction accelerates. This represents significant workforce development activity tied to the major semiconductor manufacturing investment in Central New York.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "hiring",
+    "workforce-development",
+    "construction-staging",
+    "state-agency"
+  ],
+  "department_refs": [
+    "Office of the Chief Innovation Officer"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Bechtel",
+      "type": "organization",
+      "canonical_id": "ORG-BECHTEL"
+    },
+    {
+      "name": "Glenn Coin",
+      "type": "person",
+      "canonical_id": "PERSON-GLENN-COIN"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Active hiring and accelerated construction on the Micron chipmaking facility signals strong progress on a major economic development initiative with regional significance.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on contractor hiring (Bechtel) rather than direct City of Syracuse employment",
+    "No dollar amounts or budget data provided in article excerpt",
+    "Town of Clay is jurisdiction for facility; monitor for Syracuse-area workforce development and supply chain opportunities",
+    "Recommend cross-reference with state agency announcements (SUNY, Empire State Development) for complementary workforce initiatives",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
