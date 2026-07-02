@@ -1,0 +1,71 @@
+{
+  "record_id": "CTX-WEB-2026-00157",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-07-01-Mayors-Office-News-430PM-1",
+  "publication_date": "2026-07-01",
+  "capture_date": "2026-07-02T14:28:15Z",
+  "title": "Brianca Hill Appointed to Deputy Commissioner of Business Development",
+  "summary": "Mayor Sharon F. Owens appointed Brianca Hill as Deputy Commissioner of Business Development, effective July 1, 2026. Hill will oversee day-to-day operations and strategic initiatives within the Business Development and Community Investment teams of the Department of Neighborhood and Business Development, leveraging her track record in economic development, business engagement, and interdepartmental coordination.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "hiring",
+    "leadership-change",
+    "economic-development",
+    "department-head",
+    "announcement"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Brianca Hill",
+      "type": "person",
+      "canonical_id": "PERSON-BRIANCA-HILL"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "SIDA",
+      "type": "organization",
+      "canonical_id": "ORG-SIDA"
+    },
+    {
+      "name": "SEDCO",
+      "type": "organization",
+      "canonical_id": "ORG-SEDCO"
+    },
+    {
+      "name": "Crouse-Marshall Business Improvement District",
+      "type": "organization",
+      "canonical_id": "ORG-CMBID"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayoral appointment signals continued priority on economic development and business community engagement within city administration.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Mechanical extraction incorrectly listed 'Department of Human Resources' and 'Department of Permits and Development'—corrected to 'Department of Neighborhood and Business Development' per article content",
+    "No dollar amounts or budget impacts mentioned",
+    "Hill's prior private-sector experience (BNY Mellon) included for context on operational management background",
+    "Press contact: press@syr.gov for follow-up inquiries",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

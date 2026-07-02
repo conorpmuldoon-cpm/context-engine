@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-WEB-2026-00155",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-07-02-Mayors-Office-News-900AM",
+  "publication_date": "2026-07-02",
+  "capture_date": "2026-07-02T14:27:51Z",
+  "title": "City Announces Speed Camera Locations for Summer School Enforcement",
+  "summary": "Syracuse announces 19 school locations where speed enforcement cameras will operate during summer 2026 school sessions (7am-6pm weekdays). The School Zone Traffic Enforcement program has demonstrated significant impact: daily violations declined 55% (1,275 to 575 per camera) and dangerous speeding (31+ mph over limit) decreased 46% from November-April. Mayor Owens emphasizes camera effectiveness for student safety.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "vision-zero",
+    "public-safety-commission",
+    "code-enforcement",
+    "transportation",
+    "initiative-launch",
+    "police",
+    "data-governance"
+  ],
+  "department_refs": [
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYR"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor-led announcement of ongoing safety initiative with quantified performance data demonstrates executive commitment to Vision Zero and data-driven public safety decision-making. Emphasis on student protection aligns with constituent welfare priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00153"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown; press release from Mayor's Office based on content and URL structure",
+    "No budget or procurement data provided; this is an operational announcement for existing program",
+    "19 school locations listed; some cameras serve multiple schools in proximity",
+    "Strong data attribution (Nov-Apr metrics) supports evidence-based policy communication",
+    "Contact: press@syr.gov for media inquiries; program info: syr.gov/SZTE",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00153 — linked for review"
+  ],
+  "last_relevance_update": null
+}

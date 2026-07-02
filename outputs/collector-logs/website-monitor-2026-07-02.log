@@ -1,0 +1,31 @@
+2026-07-02 14:27:28,680 [INFO] ============================================================
+2026-07-02 14:27:28,681 [INFO] Website Monitor starting
+2026-07-02 14:27:29,217 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-07-02 14:27:29,217 [INFO]   Navigating to https://www.syr.gov/News
+2026-07-02 14:27:33,887 [INFO]   Found 10 article links in News
+2026-07-02 14:27:38,887 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-07-02-Mayors-Office-News-900AM
+2026-07-02 14:27:51,688 [INFO]     Dedup match: CTX-WEB-2026-00153 — linking via cluster
+2026-07-02 14:27:51,689 [INFO]     Saved: CTX-WEB-2026-00155 → CTX-WEB-2026-00155.json
+2026-07-02 14:27:51,689 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-07-01-Mayors-Office-News-430PM
+2026-07-02 14:28:03,587 [INFO]     Saved: CTX-WEB-2026-00156 → CTX-WEB-2026-00156.json
+2026-07-02 14:28:03,587 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-07-01-Mayors-Office-News-430PM-1
+2026-07-02 14:28:15,637 [INFO]     Saved: CTX-WEB-2026-00157 → CTX-WEB-2026-00157.json
+2026-07-02 14:28:15,637 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-07-02 14:28:15,637 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-07-02 14:28:18,610 [INFO]   Found 0 article links in Announcements
+2026-07-02 14:28:23,610 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-07-02 14:28:23,610 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-07-02 14:28:26,970 [INFO]   Found 0 article links in Public Notices
+2026-07-02 14:28:32,006 [INFO] Website Monitor Run — 2026-07-02 14:28
+==================================================
+Sections scanned: 3
+New pages found: 3
+Saved as records: 3
+Already processed: 7
+Errors: 0
+
+New records:
+  • City Announces Speed Camera Locations for Summer School Enforcement
+  • Kelly Haggerty Appointed to Deputy Commissioner of Water
+  • Brianca Hill Appointed to Deputy Commissioner of Business Development
+
