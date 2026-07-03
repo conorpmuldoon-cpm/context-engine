@@ -1,0 +1,26 @@
+2026-07-03 14:31:11,627 [INFO] ============================================================
+2026-07-03 14:31:11,628 [INFO] Website Monitor starting
+2026-07-03 14:31:13,694 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-07-03 14:31:13,694 [INFO]   Navigating to https://www.syr.gov/News
+2026-07-03 14:31:18,382 [INFO]   Found 10 article links in News
+2026-07-03 14:31:23,382 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-07-02-Mayors-Office-News-1230PM
+2026-07-03 14:31:36,024 [WARNING]     Tag issue: Unknown tag 'community-engagement' not in taxonomy
+2026-07-03 14:31:36,035 [INFO]     Dedup match: CTX-WEB-2026-00154 — linking via cluster
+2026-07-03 14:31:36,036 [INFO]     Saved: CTX-WEB-2026-00158 → CTX-WEB-2026-00158.json
+2026-07-03 14:31:36,036 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-07-03 14:31:36,036 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-07-03 14:31:39,072 [INFO]   Found 0 article links in Announcements
+2026-07-03 14:31:44,072 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-07-03 14:31:44,072 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-07-03 14:31:47,513 [INFO]   Found 0 article links in Public Notices
+2026-07-03 14:31:52,559 [INFO] Website Monitor Run — 2026-07-03 14:31
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • Mayor Owens Announces the Launch of America 250 Time Capsule Project
+
