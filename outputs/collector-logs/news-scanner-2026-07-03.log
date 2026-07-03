@@ -1,0 +1,78 @@
+2026-07-03 14:16:01,767 [INFO] ============================================================
+2026-07-03 14:16:01,767 [INFO] News Scanner starting
+2026-07-03 14:16:01,768 [INFO] Fetching: Syracuse.com Politics
+2026-07-03 14:16:02,178 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-03 14:16:02,178 [INFO] Fetching: Syracuse.com Government
+2026-07-03 14:16:02,328 [INFO]   0 new articles from Syracuse.com Government
+2026-07-03 14:16:02,328 [INFO] Fetching: Syracuse.com Local
+2026-07-03 14:16:02,457 [INFO]   0 new articles from Syracuse.com Local
+2026-07-03 14:16:02,457 [INFO] Fetching: Syracuse.com Main
+2026-07-03 14:16:02,593 [INFO]   0 new articles from Syracuse.com Main
+2026-07-03 14:16:02,593 [INFO] Total unique articles across all feeds: 50
+2026-07-03 14:16:02,594 [INFO] New articles (not previously processed): 50
+2026-07-03 14:16:02,636 [DEBUG]   Filtered (not relevant): Syracuse proves, again, it’s among the world’s best at cutting the cheese
+2026-07-03 14:16:02,637 [DEBUG]   Filtered (not relevant): Miss Manners: Was ‘extremely stressful’ dinner party a cultural thing, or just d
+2026-07-03 14:16:02,638 [DEBUG]   Filtered (not relevant): Polymarket announces $50 invite code “CUSE” in NY, PA and TX for Independence Da
+2026-07-03 14:16:02,638 [DEBUG]   Filtered (not relevant): Argentina vs. Cabo Verde prediction: Polymarket prices, Messi props and best bet
+2026-07-03 14:16:02,638 [DEBUG]   Filtered (not relevant): Early morning blaze in Tompkins County home kills two people
+2026-07-03 14:16:02,639 [DEBUG]   Filtered (not relevant): Lee Cronin’s ‘The Mummy’ starts streaming on HBO Max today, and you can watch it
+2026-07-03 14:16:02,639 [DEBUG]   Filtered (not relevant): Is Oneida Lake’s smallmouth bass population going to crash?
+2026-07-03 14:16:02,639 [DEBUG]   Filtered (not relevant): Disabled Venezuelans left behind in earthquake chaos
+2026-07-03 14:16:02,640 [INFO]   Relevant: 145 drivers mistakenly ticketed by Syracuse school-zone camera on Juneteenth
+2026-07-03 14:16:02,640 [DEBUG]     → Keywords: city officials
+2026-07-03 14:16:07,307 [INFO]     Saved: CTX-NEWS-2026-00182 → CTX-NEWS-2026-00182.json
+2026-07-03 14:16:07,307 [DEBUG]   Filtered (not relevant): Syracuse Sandwiches: Sweet, smoky and spicy meet in Vince’s signature turkey sub
+2026-07-03 14:16:07,308 [DEBUG]   Filtered (not relevant): ‘Silo’ Season 3 drops on Apple TV today: How to watch premiere for free
+2026-07-03 14:16:07,308 [DEBUG]   Filtered (not relevant): Dear Annie: She invited an old friend into her life at 66 — then his drinking tu
+2026-07-03 14:16:07,309 [DEBUG]   Filtered (not relevant): $5,000 reward offered for July 4 coin issued for America’s 250th birthday
+2026-07-03 14:16:07,309 [DEBUG]   Filtered (not relevant): Dear Annie: Boyfriend’s promise of proposal feels emptier every time, and my clo
+2026-07-03 14:16:07,309 [DEBUG]   Filtered (not relevant): Popular actor swears like a sailor during segment, not realizing it was live: ‘W
+2026-07-03 14:16:07,310 [DEBUG]   Filtered (not relevant): You can watch ‘Dutton Ranch’ finale for free on Paramount+ today — here’s how
+2026-07-03 14:16:07,310 [DEBUG]   Filtered (not relevant): Dear Doctor: Heavy sensation in legs started at same time as new medication; wha
+2026-07-03 14:16:07,311 [DEBUG]   Filtered (not relevant): Popular ‘90s sitcom star cut off his co-stars after 25 years of friendship
+2026-07-03 14:16:07,311 [DEBUG]   Filtered (not relevant): What happened to our patriotism? Here's how Syracuse celebrated its 1976 bicente
+2026-07-03 14:16:07,311 [DEBUG]   Filtered (not relevant): Where to watch Jannik Sinner vs. Jenson Brooksby: Wimbledon free stream
+2026-07-03 14:16:07,311 [DEBUG]   Filtered (not relevant): Mo Brown’s win has Republicans fired up: Could the GOP steal a safe Dem seat in 
+2026-07-03 14:16:07,312 [DEBUG]   Filtered (not relevant): Asking Eric: The secret to finding fulfillment? Gratitude, and counting your ble
+2026-07-03 14:16:07,312 [DEBUG]   Filtered (not relevant): 11 Section III girls lacrosse players, 1 coach earn USA Lacrosse honors
+2026-07-03 14:16:07,312 [DEBUG]   Filtered (not relevant): How to watch live stream for 4-star Elijah Kimble as he makes college decision
+2026-07-03 14:16:07,313 [DEBUG]   Filtered (not relevant): Asking Eric: She did everything right, and her husband still won’t take responsi
+2026-07-03 14:16:07,313 [DEBUG]   Filtered (not relevant): Elijah Kimble has a nickname made for showtime. Will 'The Ticket' play in Syracu
+2026-07-03 14:16:07,314 [DEBUG]   Filtered (not relevant): Dear Abby: Why should I keep sending monetary gifts to nieces who have never onc
+2026-07-03 14:16:07,314 [DEBUG]   Filtered (not relevant): A visit to Cazenovia’s Fernwood Farm is like ‘stepping back in time’
+2026-07-03 14:16:07,314 [DEBUG]   Filtered (not relevant): Inseparable: Damarion and Jonah shared everything until the unbearable end
+2026-07-03 14:16:07,315 [DEBUG]   Filtered (not relevant): Dear Abby: Stepsons expected me to move in next to their mom and act like ‘one b
+2026-07-03 14:16:07,315 [DEBUG]   Filtered (not relevant): Syracuse Mets lose 7-5 to Worcester after late rally
+2026-07-03 14:16:07,315 [DEBUG]   Filtered (not relevant): Update: Heat advisory for Finger Lakes, Central NY until Friday evening
+2026-07-03 14:16:07,316 [DEBUG]   Filtered (not relevant): Heat advisory affecting Capital Region, Hudson Valley Saturday
+2026-07-03 14:16:07,316 [INFO]   Relevant: Power surge, loud noises reported in Oswego came from steam station
+2026-07-03 14:16:07,316 [DEBUG]     → Keywords: city officials
+2026-07-03 14:16:10,984 [INFO]     Saved: CTX-NEWS-2026-00183 → CTX-NEWS-2026-00183.json
+2026-07-03 14:16:10,984 [DEBUG]   Filtered (not relevant): Health officials warn beachgoers of flesh-eating bacteria ahead of July 4; What 
+2026-07-03 14:16:10,985 [DEBUG]   Filtered (not relevant): CDC warns of explosive diarrhea parasite on rise in US. Here are symptoms and ho
+2026-07-03 14:16:10,985 [DEBUG]   Filtered (not relevant): New $50 Polymarket invite code “CUSE” extended; World Cup odds update
+2026-07-03 14:16:10,986 [DEBUG]   Filtered (not relevant): Update: Thunderstorms with damaging winds and quarter-sized hail in Columbia Cou
+2026-07-03 14:16:10,986 [DEBUG]   Filtered (not relevant): Experts release new Colombia vs. Ghana predictions after Antoine Semenyo injury 
+2026-07-03 14:16:10,986 [DEBUG]   Filtered (not relevant): Tornado touches down in North Country, NWS confirms
+2026-07-03 14:16:10,987 [DEBUG]   Filtered (not relevant): Temperatures didn’t reach 100 degrees in Syracuse but did in other Northeast cit
+2026-07-03 14:16:10,987 [DEBUG]   Filtered (not relevant): Be prepared for strong thunderstorms in Schoharie County Thursday night — winds 
+2026-07-03 14:16:10,987 [DEBUG]   Filtered (not relevant): Supreme Court rules on former Fox News reporter being fined for not disclosing s
+2026-07-03 14:16:10,988 [DEBUG]   Filtered (not relevant): Thunderstorms with pea-sized hail in Otsego County Thursday — gusts may reach 40
+2026-07-03 14:16:10,988 [DEBUG]   Filtered (not relevant): Kalshi elevates $10 referral code SYRACUSE for Friday’s World Cup Round of 32 in
+2026-07-03 14:16:10,989 [DEBUG]   Filtered (not relevant): $50 Polymarket referral code “CUSE” launches for all sports in NY, CA, FL, and T
+2026-07-03 14:16:10,989 [DEBUG]   Filtered (not relevant): Where to watch Switzerland vs. Algeria World Cup Round of 32 match
+2026-07-03 14:16:10,989 [DEBUG]   Filtered (not relevant): Best heat wave memes: This July 4, laugh until you cry, it will mix with your sw
+2026-07-03 14:16:10,990 [DEBUG]   Filtered (not relevant): Be prepared for strong thunderstorms in Herkimer and Hamilton counties Thursday 
+2026-07-03 14:16:10,990 [DEBUG]   Filtered (not relevant): How to watch ‘Power Book III: Raising Kanan’ Season 5, Episode 4 for free withou
+2026-07-03 14:16:10,992 [INFO] News Scanner Run — 2026-07-03 14:16
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • 145 drivers mistakenly ticketed by Syracuse school-zone camera on Juneteenth
+  • Power surge, loud noises reported in Oswego came from steam station
+

@@ -1,0 +1,51 @@
+{
+  "record_id": "CTX-NEWS-2026-00183",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/07/power-surge-loud-noises-reported-in-oswego-after-steam-station-safety-feature-activates.html",
+  "publication_date": "2026-07-03",
+  "capture_date": "2026-07-03T14:16:10Z",
+  "title": "Power surge, loud noises reported in Oswego came from steam station",
+  "summary": "A power surge and loud noises reported in Oswego on July 3, 2026 were caused by a safety feature activation at the Oswego Harbor Power steam station (formerly Niagara Mohawk Oswego Steam Station). City officials confirmed the incident was mechanical in nature and not a public safety threat. This is relevant to CIO infrastructure monitoring if Syracuse systems share interdependencies with regional power infrastructure.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "emergency-services",
+    "facilities",
+    "infrastructure",
+    "announcement",
+    "resolved"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Oswego Harbor Power steam station",
+      "type": "system",
+      "canonical_id": "SYS-OSWEGO-HARBOR-POWER"
+    },
+    {
+      "name": "Greta Stuckey",
+      "type": "person",
+      "canonical_id": "PERSON-GRETA-STUCKEY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on Oswego (external municipality), not directly Syracuse operations",
+    "No Syracuse department involvement or IT infrastructure impact mentioned",
+    "Incident appears resolved; safety feature functioned as designed",
+    "Relevant only if CIO tracks regional infrastructure interdependencies or critical systems",
+    "No budget, policy, or organizational change implications detected",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

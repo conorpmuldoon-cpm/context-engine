@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2026-00182",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/07/145-drivers-mistakenly-ticketed-by-syracuse-school-zone-camera-on-juneteenth.html",
+  "publication_date": "2026-07-03",
+  "capture_date": "2026-07-03T14:16:07Z",
+  "title": "145 drivers mistakenly ticketed by Syracuse school-zone camera on Juneteenth",
+  "summary": "Syracuse's school zone traffic camera program malfunctioned on Juneteenth (June 19, 2026), issuing 145 erroneous tickets to drivers. This operational failure in the automated enforcement system raises questions about system reliability, testing protocols, and potential liability exposure for the city.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:automated-enforcement",
+    "complaint",
+    "investigation",
+    "IT-infrastructure",
+    "software-systems",
+    "policy-change",
+    "transparency",
+    "one-time",
+    "escalating"
+  ],
+  "department_refs": [
+    "Department of Transportation",
+    "Department of Innovation and Technology"
+  ],
+  "entity_refs": [
+    {
+      "name": "Greta Stuckey",
+      "type": "person",
+      "canonical_id": "PERSON-GRETA-STUCKEY"
+    },
+    {
+      "name": "Syracuse School Zone Traffic Camera Program",
+      "type": "system",
+      "canonical_id": "SYS-SCHOOL-ZONE-CAMERA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Systematic operational failure in new automated enforcement technology suggesting inadequate testing, calibration, or holiday/weekend handling. Likely to trigger constituent complaints and may prompt council oversight of technology procurement and deployment practices.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No specific dollar amount of ticket revenue or refund liability mentioned in excerpt",
+    "Juneteenth (June 19) is federal holiday—suggests system may not have recognized holiday status for school zone closure",
+    "Requires follow-up on: root cause analysis, refund process, system improvements, and testing protocols before camera program expansion",
+    "Potential alignment with vision-zero safety goals but undermined by implementation failure",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
