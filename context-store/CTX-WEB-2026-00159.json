@@ -1,0 +1,71 @@
+{
+  "record_id": "CTX-WEB-2026-00159",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-07-03-Infrastructure-News-1145-AM",
+  "publication_date": "2026-07-03",
+  "capture_date": "2026-07-04T13:56:57Z",
+  "title": "City to Host Public Meeting for James Street Improvement Project",
+  "summary": "The City of Syracuse Department of Engineering will host a public meeting on July 8, 2026, to present preliminary designs for the James Street improvement project (State Street to Grant Boulevard) and gather community feedback. The $-undisclosed project will resurface roadway, replace aging infrastructure, and implement the City's 'Dig Once' approach with sidewalks, curb ramps, shared-use paths, traffic signals, water/lead service line replacements, drainage improvements, and tree plantings. Public comment period extends through July 17, 2026.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "roads-bridges",
+    "capital-planning",
+    "public-safety-commission",
+    "accessibility",
+    "residents",
+    "water",
+    "lead-remediation",
+    "sustainability",
+    "announcement",
+    "transparency"
+  ],
+  "department_refs": [
+    "Department of Engineering"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Lincoln Middle School",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Office of Communications",
+      "type": "organization",
+      "canonical_id": "ORG-COMMS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Public meeting demonstrates commitment to transparency, community engagement, and integrated infrastructure modernization aligned with sustainability and equity goals (lead service line replacement, accessibility improvements, multimodal transportation).",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00156"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in source metadata",
+    "No budget amount disclosed in press release",
+    "Project explicitly references 'Dig Once' coordination strategy—potential CIO relevance for systems integration and data governance",
+    "Lead service line replacement suggests coordination with public health/environmental equity initiatives",
+    "Digital engagement channel (syr.gov/James-Street) suggests online feedback system in use",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00156 — linked for review"
+  ],
+  "last_relevance_update": null
+}
