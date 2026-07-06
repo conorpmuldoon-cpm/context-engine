@@ -1,0 +1,48 @@
+{
+  "record_id": "CTX-NEWS-2026-00184",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/07/small-planes-unexpected-landing-sparks-emergency-response-in-new-york-city.html",
+  "publication_date": "2026-07-06",
+  "capture_date": "2026-07-06T15:40:47Z",
+  "title": "Small plane’s unexpected landing sparks emergency response in New York City",
+  "summary": "A seaplane with eight passengers made an emergency landing in Manhattan's East River on July 6, 2026, triggering a coordinated emergency response. All occupants were rescued with only minor injuries reported. The incident demonstrates emergency services coordination but is geographically outside Syracuse municipal jurisdiction.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "emergency-services",
+    "trending"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Chris Pugh",
+      "type": "person",
+      "canonical_id": "PERSON-CHRIS-PUGH"
+    },
+    {
+      "name": "New York City Emergency Services",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is NYC-centric with no direct Syracuse municipal relevance or policy implications",
+    "Published by syracuse.com but covers external incident",
+    "No Syracuse departments, budget impacts, or local policy angles detected",
+    "Possible relevance only if CIO tracks emergency response technology/intergovernmental coordination models",
+    "Recommend filtering for local-jurisdiction incidents only unless comparative emergency management analysis is requested",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

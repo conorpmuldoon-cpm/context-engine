@@ -1,0 +1,75 @@
+2026-07-06 15:40:42,079 [INFO] ============================================================
+2026-07-06 15:40:42,079 [INFO] News Scanner starting
+2026-07-06 15:40:42,081 [INFO] Fetching: Syracuse.com Politics
+2026-07-06 15:40:42,344 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-06 15:40:42,344 [INFO] Fetching: Syracuse.com Government
+2026-07-06 15:40:42,554 [INFO]   0 new articles from Syracuse.com Government
+2026-07-06 15:40:42,555 [INFO] Fetching: Syracuse.com Local
+2026-07-06 15:40:42,926 [INFO]   0 new articles from Syracuse.com Local
+2026-07-06 15:40:42,926 [INFO] Fetching: Syracuse.com Main
+2026-07-06 15:40:43,144 [INFO]   0 new articles from Syracuse.com Main
+2026-07-06 15:40:43,144 [INFO] Total unique articles across all feeds: 50
+2026-07-06 15:40:43,145 [INFO] New articles (not previously processed): 50
+2026-07-06 15:40:43,198 [DEBUG]   Filtered (not relevant): Skaneateles man killed in electric scooter crash in Oswego County identified
+2026-07-06 15:40:43,199 [DEBUG]   Filtered (not relevant): You’re most likely to win Mega Millions jackpot if you live in these 10 states, 
+2026-07-06 15:40:43,199 [DEBUG]   Filtered (not relevant): Jesse Smith promoted to project manager at Appel Osborne
+2026-07-06 15:40:43,199 [DEBUG]   Filtered (not relevant): ICE critic sues U.S. government over free speech after federal agents track him 
+2026-07-06 15:40:43,200 [DEBUG]   Filtered (not relevant): Actress charged with smuggling over $200 million worth of meth into Australia
+2026-07-06 15:40:43,200 [DEBUG]   Filtered (not relevant): More heavy storms, flash flooding expected today across parts of US
+2026-07-06 15:40:43,201 [DEBUG]   Filtered (not relevant): Conservative voices pile on Democratic senator over Team Mexico World Cup jersey
+2026-07-06 15:40:43,201 [DEBUG]   Filtered (not relevant): Why more communities are saying no to data centers
+2026-07-06 15:40:43,202 [DEBUG]   Filtered (not relevant): Rock star touring while battling terminal cancer: ‘Gonna party like a (expletive
+2026-07-06 15:40:43,202 [INFO]   Relevant: Small plane’s unexpected landing sparks emergency response in New York City
+2026-07-06 15:40:43,202 [DEBUG]     → Keywords: city officials
+2026-07-06 15:40:47,233 [INFO]     Saved: CTX-NEWS-2026-00184 → CTX-NEWS-2026-00184.json
+2026-07-06 15:40:47,233 [DEBUG]   Filtered (not relevant): ‘Organic Dog Meat farm’ faces death threats over a big misunderstanding
+2026-07-06 15:40:47,233 [DEBUG]   Filtered (not relevant): Missing 24-year-old found dead in follow-up search near Chittenango state park
+2026-07-06 15:40:47,234 [DEBUG]   Filtered (not relevant): England star to miss rest of World Cup after getting injured celebrating win ove
+2026-07-06 15:40:47,234 [DEBUG]   Filtered (not relevant): Miss Manners: Are compliments about my looks as I pass 80 years old patronizing 
+2026-07-06 15:40:47,235 [DEBUG]   Filtered (not relevant): US Postal Service alert: Make these changes to your mailbox now
+2026-07-06 15:40:47,235 [DEBUG]   Filtered (not relevant): Polymarket upgrades $50 invite code “CUSE” in NY, TX and WA for USA-Belgium, Spa
+2026-07-06 15:40:47,236 [DEBUG]   Filtered (not relevant): Don’t make this costly mistake after a power outage
+2026-07-06 15:40:47,236 [DEBUG]   Filtered (not relevant): Couple killed in fatal house fire in Dryden identified
+2026-07-06 15:40:47,237 [DEBUG]   Filtered (not relevant): Trump faces birthright hypocrisy claims after reportedly helping US soccer star
+2026-07-06 15:40:47,237 [DEBUG]   Filtered (not relevant): Newest Krispy Kreme flavors deemed ‘truly diabolical,’ in a good way
+2026-07-06 15:40:47,238 [DEBUG]   Filtered (not relevant): Experts release new USA vs. Belgium prediction after key Folarin Balogun update
+2026-07-06 15:40:47,239 [DEBUG]   Filtered (not relevant): Man’s hidden life in national forest ends with shocking discovery
+2026-07-06 15:40:47,239 [DEBUG]   Filtered (not relevant): Puyallup Tribe and First Nations in Canada hope World Cup partnerships raise cul
+2026-07-06 15:40:47,240 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: 12 things worth stocking up on in July, from fireworks to f
+2026-07-06 15:40:47,240 [DEBUG]   Filtered (not relevant): ‘She crushed it’: CNY woman smashes record rowing alone from California to Hawai
+2026-07-06 15:40:47,240 [DEBUG]   Filtered (not relevant): What’s the maximum Social Security benefit you can get each month?
+2026-07-06 15:40:47,241 [DEBUG]   Filtered (not relevant): Dear Annie: I drop everything for my family every time; when I need them, I’m ca
+2026-07-06 15:40:47,241 [DEBUG]   Filtered (not relevant): Waterlogged ESS Speed Week struggles to the checkered flag
+2026-07-06 15:40:47,242 [DEBUG]   Filtered (not relevant): Dear Doctor: Gallstone removal spirals into infections, liver drains; time for a
+2026-07-06 15:40:47,242 [DEBUG]   Filtered (not relevant): From printing presses to downtown living: See new apartments at former Syracuse 
+2026-07-06 15:40:47,243 [DEBUG]   Filtered (not relevant): ‘A big bang’: Plane hit by firework during landing in Chicago on 4th of July
+2026-07-06 15:40:47,243 [DEBUG]   Filtered (not relevant): Church, orchard, farmland: See 25 latest business, apartment, land sales ($4.4K 
+2026-07-06 15:40:47,243 [DEBUG]   Filtered (not relevant): Asking Eric: Hoarding tendencies and career at landfill are a bad match, and its
+2026-07-06 15:40:47,244 [DEBUG]   Filtered (not relevant): The I-81 project just got even more expensive (Good Morning CNY)
+2026-07-06 15:40:47,244 [DEBUG]   Filtered (not relevant): At least 25 deaths nationwide blamed on record heat in U.S.
+2026-07-06 15:40:47,244 [DEBUG]   Filtered (not relevant): Central NY weather: Rain Monday, then hot weather returns
+2026-07-06 15:40:47,245 [DEBUG]   Filtered (not relevant): Asking Eric: Mom and dad stayed married after dad came out; should his lover be 
+2026-07-06 15:40:47,245 [DEBUG]   Filtered (not relevant): NY man dies when firework explodes in his face at 4th of July party
+2026-07-06 15:40:47,246 [DEBUG]   Filtered (not relevant): How a NY drag queen’s child porn arrest shattered a small town’s trust
+2026-07-06 15:40:47,246 [DEBUG]   Filtered (not relevant): Dear Abby: I am the bad neighbor and friend who only calls when I need something
+2026-07-06 15:40:47,247 [DEBUG]   Filtered (not relevant): Syracuse Jazz Fest, Weird Al, Vince Gill: 20 things to do this week in Central N
+2026-07-06 15:40:47,247 [DEBUG]   Filtered (not relevant): Dear Abby: I thought weight loss surgery would boost wife’s sex drive; now it’s 
+2026-07-06 15:40:47,248 [DEBUG]   Filtered (not relevant): Pop music legend dead at 81: ‘Heaven won’t know what’s hit it!’
+2026-07-06 15:40:47,248 [DEBUG]   Filtered (not relevant): Norway vs. England: Global kickoff times for Saturday’s World Cup 2026 clash — f
+2026-07-06 15:40:47,249 [DEBUG]   Filtered (not relevant): Worcester defeats Syracuse Mets in series finale
+2026-07-06 15:40:47,249 [DEBUG]   Filtered (not relevant): Update: Flash flood warning in place for Sullivan County early Monday morning tr
+2026-07-06 15:40:47,250 [DEBUG]   Filtered (not relevant): 2 taken to the hospital after Camillus fire
+2026-07-06 15:40:47,250 [DEBUG]   Filtered (not relevant): New $50 Polymarket invite code “CUSE” updated for Mexico vs. England live odds
+2026-07-06 15:40:47,251 [DEBUG]   Filtered (not relevant): Weather alert for strong thunderstorms in Dutchess County Sunday night — gusts u
+2026-07-06 15:40:47,252 [DEBUG]   Filtered (not relevant): Analysts update World Cup predictions for USA vs Belgium Round of 16 as Folarin 
+2026-07-06 15:40:47,254 [INFO] News Scanner Run — 2026-07-06 15:40
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Small plane’s unexpected landing sparks emergency response in New York City
+
