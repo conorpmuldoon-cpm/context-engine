@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2026-00185",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/07/5-story-apartment-building-could-replace-vacant-syracuse-walgreens.html",
+  "publication_date": "2026-07-07",
+  "capture_date": "2026-07-07T14:44:53Z",
+  "title": "5-story apartment building could replace vacant Syracuse Walgreens",
+  "summary": "A developer proposes a 246-unit, 5-story apartment building on Syracuse's East Side near Syracuse University, potentially converting a vacant Walgreens property. This residential development signals private sector investment in neighborhood revitalization and may impact local zoning, permitting, and economic development priorities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "economic-development",
+    "land-use",
+    "zoning",
+    "permitting",
+    "neighborhood-services"
+  ],
+  "department_refs": [
+    "Department of Permitting and Planning",
+    "Community Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Rick Moriarty",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Development proposal aligns with city housing goals and neighborhood revitalization on East Side; demonstrates private market confidence in Syracuse residential market near institutional anchor (SU).",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No specific developer name provided in excerpt; full article likely contains identity",
+    "No dollar amounts or timeline specified in provided content",
+    "Proximity to Syracuse University is significant context for market analysis",
+    "Vacant Walgreens represents land reuse/brownfield consideration—may trigger environmental or remediation review",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

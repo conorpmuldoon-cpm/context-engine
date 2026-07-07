@@ -1,0 +1,75 @@
+2026-07-07 14:44:47,256 [INFO] ============================================================
+2026-07-07 14:44:47,257 [INFO] News Scanner starting
+2026-07-07 14:44:47,258 [INFO] Fetching: Syracuse.com Politics
+2026-07-07 14:44:48,261 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-07 14:44:48,261 [INFO] Fetching: Syracuse.com Government
+2026-07-07 14:44:48,425 [INFO]   0 new articles from Syracuse.com Government
+2026-07-07 14:44:48,425 [INFO] Fetching: Syracuse.com Local
+2026-07-07 14:44:48,573 [INFO]   0 new articles from Syracuse.com Local
+2026-07-07 14:44:48,573 [INFO] Fetching: Syracuse.com Main
+2026-07-07 14:44:48,729 [INFO]   0 new articles from Syracuse.com Main
+2026-07-07 14:44:48,729 [INFO] Total unique articles across all feeds: 50
+2026-07-07 14:44:48,729 [INFO] New articles (not previously processed): 50
+2026-07-07 14:44:48,782 [DEBUG]   Filtered (not relevant): Clear Path for Veterans announces new executive VP
+2026-07-07 14:44:48,782 [DEBUG]   Filtered (not relevant): Upstate NY graduate who planned to join Air Force killed in motorcycle crash day
+2026-07-07 14:44:48,783 [DEBUG]   Filtered (not relevant): Miss Manners: I can’t afford to send thank you notes by mail; is an email suffic
+2026-07-07 14:44:48,783 [DEBUG]   Filtered (not relevant): What July 4 means to an immigrant fighting to stay (Your Letters)
+2026-07-07 14:44:48,784 [DEBUG]   Filtered (not relevant): Daring museum break-in leaves investigators chasing a multimillion-dollar myster
+2026-07-07 14:44:48,784 [DEBUG]   Filtered (not relevant): Oswego Health adds nurse practitioner to gastroenterology center
+2026-07-07 14:44:48,785 [DEBUG]   Filtered (not relevant): I found the cheapest Jack White tickets for his sold-out Brooklyn Paramount show
+2026-07-07 14:44:48,785 [DEBUG]   Filtered (not relevant): Significado del 4 de julio para un inmigrante que lucha por quedarse (Sus Cartes
+2026-07-07 14:44:48,785 [DEBUG]   Filtered (not relevant): Miss Manners: Who gets the leftover birthday cake, the baker, or the birthday bo
+2026-07-07 14:44:48,786 [DEBUG]   Filtered (not relevant): FIFA, Donald Trump, U.S. trolled by Belgium after World Cup win: ‘Overturn this’
+2026-07-07 14:44:48,786 [DEBUG]   Filtered (not relevant): Polymarket extends $50 invite code “CUSE” in NY, FL for all MLB games after Inde
+2026-07-07 14:44:48,787 [DEBUG]   Filtered (not relevant): A father’s determination to find son in New Mexico led to an incredible breakthr
+2026-07-07 14:44:48,787 [DEBUG]   Filtered (not relevant): First Look: Apizza Alimentari spent two years bringing Italy to Fayetteville
+2026-07-07 14:44:48,788 [DEBUG]   Filtered (not relevant): CIA expert says this one habit reveals you’re American
+2026-07-07 14:44:48,788 [DEBUG]   Filtered (not relevant): Reality TV star blasts Trump legacy: He’s made us ‘less moral’ and ‘dumber’
+2026-07-07 14:44:48,789 [DEBUG]   Filtered (not relevant): Texas woman vanished for days before an unbelievable rescue
+2026-07-07 14:44:48,789 [DEBUG]   Filtered (not relevant): Owner of Schneider Packaging names new chief operating officer
+2026-07-07 14:44:48,790 [DEBUG]   Filtered (not relevant): Argentina vs. Egypt prediction: Odds and Polymarket prices, Messi props for Worl
+2026-07-07 14:44:48,790 [DEBUG]   Filtered (not relevant): You can still get Jay-Z tickets for sold-out Yankee Stadium shows — here’s how
+2026-07-07 14:44:48,790 [DEBUG]   Filtered (not relevant): New York to ban smart glasses from all courthouses
+2026-07-07 14:44:48,791 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: The only correct ways to store dry, fresh and cooked pasta
+2026-07-07 14:44:48,792 [DEBUG]   Filtered (not relevant): Special access to Melo and the Bills: Some big prizes will be auctioned at Syrac
+2026-07-07 14:44:48,792 [DEBUG]   Filtered (not relevant): Tribes hope Farm Bill can feed more people and preserve Indigenous culture
+2026-07-07 14:44:48,793 [DEBUG]   Filtered (not relevant): Where to watch Argentina vs. Egypt for free: FIFA World Cup Round of 16
+2026-07-07 14:44:48,793 [DEBUG]   Filtered (not relevant): Missing a horse? Troopers found one and are looking for the owner
+2026-07-07 14:44:48,793 [DEBUG]   Filtered (not relevant): ‘Everything... Trump touches’: USMNT World Cup loss revives ‘Trump curse’ on soc
+2026-07-07 14:44:48,794 [DEBUG]   Filtered (not relevant): Tyler Robinson preliminary hearing: What to expect Day 2 in Charlie Kirk case
+2026-07-07 14:44:48,794 [DEBUG]   Filtered (not relevant): NY’s workforce crisis is really a housing crisis (Guest Opinion by Christine R. 
+2026-07-07 14:44:48,795 [INFO]   Relevant: 5-story apartment building could replace vacant Syracuse Walgreens
+2026-07-07 14:44:48,795 [DEBUG]     → Entities: Syracuse University
+2026-07-07 14:44:53,878 [INFO]     Saved: CTX-NEWS-2026-00185 → CTX-NEWS-2026-00185.json
+2026-07-07 14:44:53,879 [DEBUG]   Filtered (not relevant): Where to watch Naomi Osaka vs. Karolina Muchova: Wimbledon free stream
+2026-07-07 14:44:53,879 [DEBUG]   Filtered (not relevant): Buffalo Bills honor Fayetteville-Manlius flag football coach as best in Central 
+2026-07-07 14:44:53,879 [DEBUG]   Filtered (not relevant): Dear Annie: I am jealous of my best friend’s success, while my life falls to pie
+2026-07-07 14:44:53,880 [DEBUG]   Filtered (not relevant): Ex-NFL star breaks silence following recent arrest
+2026-07-07 14:44:53,880 [DEBUG]   Filtered (not relevant): 10 injured, including children, among 12 in California SUV rollover crash
+2026-07-07 14:44:53,881 [DEBUG]   Filtered (not relevant): Dear Doctor: Is it true pharmaceutical companies are suppressing peptides becaus
+2026-07-07 14:44:53,881 [DEBUG]   Filtered (not relevant): Boy, 11, loses hand in alligator attack on fishing trip in Florida
+2026-07-07 14:44:53,881 [DEBUG]   Filtered (not relevant): Hate crime assault 1 of 188 new arrests added to syracuse.com police blotter
+2026-07-07 14:44:53,882 [DEBUG]   Filtered (not relevant): Syracuse lawmakers mull parks projects, including $3M to finally fix that stairc
+2026-07-07 14:44:53,882 [DEBUG]   Filtered (not relevant): New era for Skaneateles football as former gold medalist steps into head coachin
+2026-07-07 14:44:53,883 [DEBUG]   Filtered (not relevant): Asking Eric: Son spits venom, tells us to stay away from wedding; then we got an
+2026-07-07 14:44:53,883 [DEBUG]   Filtered (not relevant): Where to watch Novak Djokovic quarterfinal: Wimbledon free live stream
+2026-07-07 14:44:53,884 [DEBUG]   Filtered (not relevant): Upstate NY ICE critic sues government (Good Morning CNY)
+2026-07-07 14:44:53,884 [DEBUG]   Filtered (not relevant): ‘Explosive’ diarrhea parasite cases spike in 3 states
+2026-07-07 14:44:53,884 [DEBUG]   Filtered (not relevant): Central NY weather: Dry conditions, warmer temperatures on the way
+2026-07-07 14:44:53,885 [DEBUG]   Filtered (not relevant): Roof collapses at NJ store; 2 people briefly trapped (videos)
+2026-07-07 14:44:53,885 [DEBUG]   Filtered (not relevant): Asking Eric: Her friend has never met her family, but keeps predicting what they
+2026-07-07 14:44:53,886 [DEBUG]   Filtered (not relevant): Where to watch Sinner vs. Struff: Wimbledon free stream
+2026-07-07 14:44:53,886 [DEBUG]   Filtered (not relevant): Projecting the Bills’ 53-man roster before training camp: Battles, trade candida
+2026-07-07 14:44:53,887 [DEBUG]   Filtered (not relevant): Drew Bezek takes over as Syracuse men’s lacrosse defensive coordinator ‘It’s pre
+2026-07-07 14:44:53,887 [DEBUG]   Filtered (not relevant): Dear Abby: I have been engaged for 19 years to a man who keeps saying the propos
+2026-07-07 14:44:53,889 [INFO] News Scanner Run — 2026-07-07 14:44
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • 5-story apartment building could replace vacant Syracuse Walgreens
+
