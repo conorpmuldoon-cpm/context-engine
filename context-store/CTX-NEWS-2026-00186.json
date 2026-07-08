@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-NEWS-2026-00186",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/07/syracuse-firefighters-prevent-early-morning-garage-fire-from-spreading-into-home.html",
+  "publication_date": "2026-07-08",
+  "capture_date": "2026-07-08T14:23:06Z",
+  "title": "Syracuse firefighters prevent early morning garage fire from spreading into home",
+  "summary": "Syracuse Fire Department successfully prevented a garage fire at 453 Durston Ave. on the North Side from spreading into an adjacent residential structure during an early morning response on July 8, 2026. The incident demonstrates operational effectiveness in emergency response and property protection.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "fire",
+    "emergency-services",
+    "resolved"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Vince Gasparini",
+      "type": "person",
+      "canonical_id": "PERSON-VINCE-GASPARINI"
+    },
+    {
+      "name": "Syracuse Fire Department",
+      "type": "organization",
+      "canonical_id": "ORG-SFD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Positive coverage of emergency services effectiveness aligns with public safety priorities and demonstrates departmental operational capability.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is incident report, not policy-relevant to CIO operations",
+    "No digital services, IT infrastructure, or innovation angle detected",
+    "Incident location (453 Durston Ave.) could be cross-referenced with GIS for neighborhood context if needed",
+    "Author attribution included but not critical to administrative review",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

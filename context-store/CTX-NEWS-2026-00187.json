@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-NEWS-2026-00187",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/07/ny-should-build-a-data-center-framework-not-a-moratorium-guest-opinion-by-robert-m-simpson.html",
+  "publication_date": "2026-07-08",
+  "capture_date": "2026-07-08T14:23:10Z",
+  "title": "Don’t ban data centers — make them pay their way (Guest Opinion by Robert M. Simpson)",
+  "summary": "Robert M. Simpson, CEO of CenterState CEO, argues against implementing a moratorium on data centers in New York State, advocating instead for a regulatory framework that ensures data centers contribute fairly to local economies. The opinion piece addresses tax policy and economic development considerations relevant to Syracuse's technology infrastructure landscape.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "IT-infrastructure",
+    "policy-change",
+    "advocacy",
+    "business-community"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Robert M. Simpson",
+      "type": "person",
+      "canonical_id": "PERSON-ROBERT-SIMPSON"
+    },
+    {
+      "name": "CenterState CEO",
+      "type": "organization",
+      "canonical_id": "ORG-CENTERSTATE-CEO"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Active advocacy for pro-data-center policy framework rather than moratorium; positions economic development and tax contribution as aligned priorities",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is guest opinion/op-ed format; represents viewpoint of prominent Central NY business leader rather than news reporting",
+    "No dollar amounts, specific legislation, or department actions mentioned in provided excerpt",
+    "Data center policy could intersect with: zoning, permitting, tax-revenue, infrastructure capacity, and sustainability",
+    "CenterState CEO's advocacy may signal broader Central NY business community position on state-level data center policy",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,84 @@
+2026-07-08 14:23:01,907 [INFO] ============================================================
+2026-07-08 14:23:01,907 [INFO] News Scanner starting
+2026-07-08 14:23:01,908 [INFO] Fetching: Syracuse.com Politics
+2026-07-08 14:23:02,300 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-08 14:23:02,300 [INFO] Fetching: Syracuse.com Government
+2026-07-08 14:23:02,475 [INFO]   0 new articles from Syracuse.com Government
+2026-07-08 14:23:02,476 [INFO] Fetching: Syracuse.com Local
+2026-07-08 14:23:02,677 [INFO]   0 new articles from Syracuse.com Local
+2026-07-08 14:23:02,677 [INFO] Fetching: Syracuse.com Main
+2026-07-08 14:23:02,852 [INFO]   0 new articles from Syracuse.com Main
+2026-07-08 14:23:02,852 [INFO] Total unique articles across all feeds: 50
+2026-07-08 14:23:02,853 [INFO] New articles (not previously processed): 50
+2026-07-08 14:23:02,906 [DEBUG]   Filtered (not relevant): The Guess Who takes us back to the 1970s (Syracuse concert review)
+2026-07-08 14:23:02,906 [DEBUG]   Filtered (not relevant): 2 simple steps can keep kids safe in the water this summer (Your Letters)
+2026-07-08 14:23:02,907 [DEBUG]   Filtered (not relevant): How to secure Dolly Parton Broadway presale tickets today for ‘Dolly: A True Ori
+2026-07-08 14:23:02,907 [DEBUG]   Filtered (not relevant): Miss Manners: I am estranged from my son; how do I respond when people ask ‘how 
+2026-07-08 14:23:02,908 [DEBUG]   Filtered (not relevant): Federal government expanding ICE facility in Upstate NY
+2026-07-08 14:23:02,908 [DEBUG]   Filtered (not relevant): Boeing 737 plane vanishes in Pakistan, search continues
+2026-07-08 14:23:02,909 [DEBUG]   Filtered (not relevant): Polymarket launches $50 invite code “CUSE” in NY, FL and MO for Yankees-Rays, Me
+2026-07-08 14:23:02,910 [DEBUG]   Filtered (not relevant): These fan-favorite TV shows won’t be eligible for 2026 Emmy nominations
+2026-07-08 14:23:02,910 [DEBUG]   Filtered (not relevant): How to secure Danny Elfman presale tickets today for 2026 fall tour
+2026-07-08 14:23:02,910 [DEBUG]   Filtered (not relevant): Arizona toddler declared dead after pool accident, found alive in hospital morgu
+2026-07-08 14:23:02,911 [DEBUG]   Filtered (not relevant): NY clerk accused of throwing out ballots to help DJ win school board election
+2026-07-08 14:23:02,911 [DEBUG]   Filtered (not relevant): Stephen A. Smith shuts down Fox News host: ‘Don’t sit here and act innocent’
+2026-07-08 14:23:02,912 [DEBUG]   Filtered (not relevant): LeBron James Next Team: Polymarket prices, NBA futures odds
+2026-07-08 14:23:02,912 [DEBUG]   Filtered (not relevant): New Central NY business will bring a dog treadmill to your home
+2026-07-08 14:23:02,913 [INFO]   Relevant: Syracuse firefighters prevent early morning garage fire from spreading into home
+2026-07-08 14:23:02,913 [DEBUG]     → Departments: Syracuse Fire Department
+2026-07-08 14:23:02,913 [DEBUG]     → Keywords: syracuse fire
+2026-07-08 14:23:06,162 [INFO]     Saved: CTX-NEWS-2026-00186 → CTX-NEWS-2026-00186.json
+2026-07-08 14:23:06,163 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: Dreaming of an organized garage? Here’s exactly what you ne
+2026-07-08 14:23:06,163 [DEBUG]   Filtered (not relevant): How to get Jonas Brothers MSG presale tickets today for ‘Burning Up Tour All Ove
+2026-07-08 14:23:06,163 [DEBUG]   Filtered (not relevant): CNY Ronald McDonald House announces 4 staff changes
+2026-07-08 14:23:06,164 [DEBUG]   Filtered (not relevant): Florida toddler dead after being hit by car in family’s driveway: ’Immense grief
+2026-07-08 14:23:06,164 [INFO]   Relevant: Don’t ban data centers — make them pay their way (Guest Opinion by Robert M. Sim
+2026-07-08 14:23:06,164 [DEBUG]     → Entities: CenterState CEO
+2026-07-08 14:23:10,083 [WARNING]     Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-07-08 14:23:10,094 [INFO]     Saved: CTX-NEWS-2026-00187 → CTX-NEWS-2026-00187.json
+2026-07-08 14:23:10,095 [DEBUG]   Filtered (not relevant): Son arrested for stabbing retired New York corrections officer mom to death over
+2026-07-08 14:23:10,095 [DEBUG]   Filtered (not relevant): SUNY Oswego names Kate Pechenkina provost
+2026-07-08 14:23:10,096 [DEBUG]   Filtered (not relevant): MLB team allows Little League home run: ‘Worst defensive sequence in baseball hi
+2026-07-08 14:23:10,096 [DEBUG]   Filtered (not relevant): Dear Annie: I am losing my daughter to a screen; she claims I’m ruining her life
+2026-07-08 14:23:10,096 [DEBUG]   Filtered (not relevant): See top-paid school employees in counties around Syracuse: Search all
+2026-07-08 14:23:10,097 [DEBUG]   Filtered (not relevant): UK principal changes school calendar to go on vacation cruise
+2026-07-08 14:23:10,097 [DEBUG]   Filtered (not relevant): Oswego Health adds orthopedic surgeon Bradley Raphael
+2026-07-08 14:23:10,097 [DEBUG]   Filtered (not relevant): Argentina diving instructor charged after tourist, 23, found dead after disappea
+2026-07-08 14:23:10,098 [DEBUG]   Filtered (not relevant): Bridget Tonn joins Bousquet Holstein to help LGBTQ+ clients
+2026-07-08 14:23:10,098 [DEBUG]   Filtered (not relevant): Where to watch Flavio Cobolli vs. Arthur Fery: Wimbledon free stream
+2026-07-08 14:23:10,099 [DEBUG]   Filtered (not relevant): Dear Doctor: Doctor switched my meds, and suddenly I’m breaking out in warts and
+2026-07-08 14:23:10,099 [DEBUG]   Filtered (not relevant): 4 massively popular TV shows are returning next month — now’s your chance to bin
+2026-07-08 14:23:10,100 [DEBUG]   Filtered (not relevant): Asking Eric: Early intervention is essential for grandparents raising young chil
+2026-07-08 14:23:10,100 [DEBUG]   Filtered (not relevant): Clay OKs $30M ‘windfall’ from Micron project (Good Morning CNY)
+2026-07-08 14:23:10,100 [DEBUG]   Filtered (not relevant): Oil prices jump after Trump says ceasefire is over; US, Iran trade strikes
+2026-07-08 14:23:10,101 [DEBUG]   Filtered (not relevant): Central NY weather: 1 more beautiful day before heat, humidity and storms arrive
+2026-07-08 14:23:10,101 [DEBUG]   Filtered (not relevant): Asking Eric: I moved in with my mother to survive, but now I feel like a failure
+2026-07-08 14:23:10,102 [DEBUG]   Filtered (not relevant): Where to watch Linda Noskova vs. Elise Mertens: Wimbledon free stream
+2026-07-08 14:23:10,102 [DEBUG]   Filtered (not relevant): Where to watch Marta Kostyuk vs. Jasmine Paolini: Wimbledon free stream
+2026-07-08 14:23:10,102 [DEBUG]   Filtered (not relevant): Italy ranked the 50 best pizzerias in America and Western NY claimed two coveted
+2026-07-08 14:23:10,103 [DEBUG]   Filtered (not relevant): Kiyan Anthony on testing the transfer waters: ‘A lot of schools wanted me to com
+2026-07-08 14:23:10,103 [DEBUG]   Filtered (not relevant): Dear Abby: Husband throws a raging fit over the tiniest things; is something els
+2026-07-08 14:23:10,104 [DEBUG]   Filtered (not relevant): Only 25 songs have done this and a young country star just joined the list.
+2026-07-08 14:23:10,104 [DEBUG]   Filtered (not relevant): Former All-Central New York baseball standout ready for 2nd HBCU Swingman Classi
+2026-07-08 14:23:10,105 [INFO]   Relevant: Top-ranked woman in Syracuse police department alleges discrimination by chief, 
+2026-07-08 14:23:10,105 [DEBUG]     → Departments: Syracuse Police Department
+2026-07-08 14:23:10,105 [DEBUG]     → Keywords: syracuse police
+2026-07-08 14:23:15,693 [INFO]     Saved: CTX-NEWS-2026-00188 → CTX-NEWS-2026-00188.json
+2026-07-08 14:23:15,693 [DEBUG]   Filtered (not relevant): Where to watch Fritz vs. Zverev today: Wimbledon quarterfinal
+2026-07-08 14:23:15,694 [DEBUG]   Filtered (not relevant): Dear Abby: Wife toyed around with another man right before our wedding; did she 
+2026-07-08 14:23:15,695 [DEBUG]   Filtered (not relevant): Prepare for dense fog in Capital Region Wednesday morning
+2026-07-08 14:23:15,695 [DEBUG]   Filtered (not relevant): Upstate NY man allegedly pulled off $1.3M fraud scheme using fake identities, hu
+2026-07-08 14:23:15,696 [DEBUG]   Filtered (not relevant): Mega Millions numbers: Are you the lucky winner of Tuesday’s $576 million jackpo
+2026-07-08 14:23:15,698 [INFO] News Scanner Run — 2026-07-08 14:23
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • Syracuse firefighters prevent early morning garage fire from spreading into home
+  • Don’t ban data centers — make them pay their way (Guest Opinion by Robert M. Sim
+  • Top-ranked woman in Syracuse police department alleges discrimination by chief, 
+

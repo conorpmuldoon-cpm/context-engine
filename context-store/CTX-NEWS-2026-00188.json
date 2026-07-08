@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2026-00188",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/07/top-ranked-woman-in-syracuse-police-department-alleges-discrimination-by-chief-others.html",
+  "publication_date": "2026-07-08",
+  "capture_date": "2026-07-08T14:23:15Z",
+  "title": "Top-ranked woman in Syracuse police department alleges discrimination by chief, others",
+  "summary": "A Syracuse deputy police chief has filed allegations of gender discrimination, humiliation, and mistreatment by the department's male leadership. This complaint raises organizational culture and equity concerns within the Syracuse Police Department that may require HR/personnel review and potential policy interventions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "complaint",
+    "equity",
+    "labor-relations",
+    "investigation",
+    "escalating"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Police Department Chief",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Deputy Police Chief (Complainant)",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Internal personnel complaint alleging systemic discrimination within police leadership; signals organizational governance and cultural issues requiring oversight attention",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Specific individuals not named in excerpt; full article review needed to identify complainant and accused parties",
+    "No dollar amounts or budget implications mentioned",
+    "Complaint status (filed, under investigation, resolved) unclear from excerpt",
+    "Related to workforce equity and potential civil service/union implications",
+    "May connect to broader police reform/accountability initiatives",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
