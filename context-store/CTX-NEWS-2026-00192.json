@@ -1,0 +1,42 @@
+{
+  "record_id": "CTX-NEWS-2026-00192",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/advice/2026/07/dear-doctor-an-extremely-expensive-treatment-could-fend-off-ms-progress-do-i-risk-it.html",
+  "publication_date": "2026-07-09",
+  "capture_date": "2026-07-09T15:18:01Z",
+  "title": "Dear Doctor: An extremely expensive treatment could fend off MS progress; do I risk it?",
+  "summary": "This is a medical advice column from Dr. Keith Roach addressing a patient's question about expensive MS treatment options. The article discusses relapsing-remitting multiple sclerosis management and treatment decisions, not Syracuse city governance or operations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Dr. Keith Roach",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is medical advice content with no relevance to City of Syracuse operations, policy, budget, or governance",
+    "No city departments, infrastructure, services, or municipal issues discussed",
+    "No actionable intelligence for Chief Innovation Officer",
+    "Appears to be incorrectly submitted to municipal context engine - suitable for healthcare/medical topic classification only",
+    "Should be filtered out in production workflow",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,88 @@
+2026-07-09 15:17:46,089 [INFO] ============================================================
+2026-07-09 15:17:46,089 [INFO] News Scanner starting
+2026-07-09 15:17:46,091 [INFO] Fetching: Syracuse.com Politics
+2026-07-09 15:17:46,306 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-09 15:17:46,306 [INFO] Fetching: Syracuse.com Government
+2026-07-09 15:17:46,442 [INFO]   0 new articles from Syracuse.com Government
+2026-07-09 15:17:46,442 [INFO] Fetching: Syracuse.com Local
+2026-07-09 15:17:46,584 [INFO]   0 new articles from Syracuse.com Local
+2026-07-09 15:17:46,584 [INFO] Fetching: Syracuse.com Main
+2026-07-09 15:17:46,721 [INFO]   0 new articles from Syracuse.com Main
+2026-07-09 15:17:46,721 [INFO] Total unique articles across all feeds: 50
+2026-07-09 15:17:46,721 [INFO] New articles (not previously processed): 50
+2026-07-09 15:17:46,772 [INFO]   Relevant: Brianca Hill named deputy commissioner in Syracuse
+2026-07-09 15:17:46,772 [DEBUG]     → Entities: Sharon F. Owens
+2026-07-09 15:17:46,772 [DEBUG]     → Departments: Department of Permits and Development
+2026-07-09 15:17:46,772 [DEBUG]     → Keywords: mayor, syracuse mayor, city employee
+2026-07-09 15:17:50,401 [INFO]     Saved: CTX-NEWS-2026-00189 → CTX-NEWS-2026-00189.json
+2026-07-09 15:17:50,402 [DEBUG]   Filtered (not relevant): Today’s obituary: Jacqueline ‘Happy’ Levy, 94, founded Fayetteville’s Coughlin’s
+2026-07-09 15:17:50,402 [DEBUG]   Filtered (not relevant): Squirrel causes chaos in Meta office, injures employee
+2026-07-09 15:17:50,403 [DEBUG]   Filtered (not relevant): Dannible & McKee promotes 2 CPAs to tax partners
+2026-07-09 15:17:50,403 [DEBUG]   Filtered (not relevant): What firefighters found beneath a storm drain surprised everyone
+2026-07-09 15:17:50,403 [DEBUG]   Filtered (not relevant): Reality TV star, 67, mentioned ‘Facebook bullying’ in apparent suicide note
+2026-07-09 15:17:50,404 [DEBUG]   Filtered (not relevant): Helen Keller is a deaf-blind hero, but also ‘just like all of us’ (Enable: The D
+2026-07-09 15:17:50,405 [DEBUG]   Filtered (not relevant): Miss Manners: I made a pathway on state-owned land; now I’m mad someone else is 
+2026-07-09 15:17:50,405 [DEBUG]   Filtered (not relevant): Questions mount after second deadly Memphis task force shooting
+2026-07-09 15:17:50,405 [DEBUG]   Filtered (not relevant): ‘Today’ co-anchor misses second day in a row after fans criticized producers for
+2026-07-09 15:17:50,406 [INFO]   Relevant: Micron milestone: First concrete to flow at giant computer chip factory site in 
+2026-07-09 15:17:50,406 [DEBUG]     → Entities: Micron Technology
+2026-07-09 15:17:54,858 [INFO]     Saved: CTX-NEWS-2026-00190 → CTX-NEWS-2026-00190.json
+2026-07-09 15:17:54,858 [DEBUG]   Filtered (not relevant): Boy, 1, suffers brain injury after viral video shows daycare worker throwing him
+2026-07-09 15:17:54,859 [DEBUG]   Filtered (not relevant): St. Louis woman says her traumatizing fall ‘can happen to anyone’
+2026-07-09 15:17:54,859 [DEBUG]   Filtered (not relevant): US and Iran exchange intensifying fire across the Mideast
+2026-07-09 15:17:54,859 [DEBUG]   Filtered (not relevant): Auburn’s The REV Theatre Company unveils 2027 season
+2026-07-09 15:17:54,860 [DEBUG]   Filtered (not relevant): Oil prices and stock markets worldwide hold steadier
+2026-07-09 15:17:54,860 [DEBUG]   Filtered (not relevant): Miss Manners: Is it acceptable to overbook a wedding on the assumption that some
+2026-07-09 15:17:54,861 [DEBUG]   Filtered (not relevant): Beloved 80’s icon & ‘Total Eclipse of the Heart’ singer dies at 75
+2026-07-09 15:17:54,861 [DEBUG]   Filtered (not relevant): Trump weighs in on Graham Platner scandal: Do you ‘believe the woman?’
+2026-07-09 15:17:54,861 [DEBUG]   Filtered (not relevant): Popular sandwich chain adds 2 new melts to its lineup
+2026-07-09 15:17:54,862 [DEBUG]   Filtered (not relevant): Woman married 14 men in Las Vegas to fund $300,000 gambling habit, police say
+2026-07-09 15:17:54,862 [DEBUG]   Filtered (not relevant): Powerball results for 07/08/26: $1 million winner sold in Southern state
+2026-07-09 15:17:54,863 [DEBUG]   Filtered (not relevant): France vs. Morocco prediction: Polymarket prices, Mbappé props
+2026-07-09 15:17:54,863 [DEBUG]   Filtered (not relevant): Polymarket updates $50 invite code “CUSE” in NY, MA for France-Morocco, World Cu
+2026-07-09 15:17:54,864 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: Your FoodSaver Vacuum Sealer isn’t just for meals; here’s w
+2026-07-09 15:17:54,864 [DEBUG]   Filtered (not relevant): 30 beluga whales from shuttered Niagara Falls theme park will be relocated
+2026-07-09 15:17:54,865 [DEBUG]   Filtered (not relevant): New Upstate chair of cell and developmental biology named
+2026-07-09 15:17:54,865 [DEBUG]   Filtered (not relevant): Trump ally says president ‘f---ed it up’ by going to war with Iran
+2026-07-09 15:17:54,866 [DEBUG]   Filtered (not relevant): Young racers heading for victory lane at many tracks
+2026-07-09 15:17:54,866 [DEBUG]   Filtered (not relevant): Upstate NY priest, on leave since 2019, arrested on federal child pornography ch
+2026-07-09 15:17:54,866 [DEBUG]   Filtered (not relevant): Solvay Bank adds 2 to its leadership team
+2026-07-09 15:17:54,867 [DEBUG]   Filtered (not relevant): Boy who lost hand in alligator attack is now ‘afraid of Florida,’ dad says
+2026-07-09 15:17:54,867 [DEBUG]   Filtered (not relevant): Madison County real estate: 10 most expensive homes sold, June 1-30
+2026-07-09 15:17:54,868 [DEBUG]   Filtered (not relevant): Dear Annie: We tried so hard to support our ‘black sheep’ daughter, but this was
+2026-07-09 15:17:54,868 [DEBUG]   Filtered (not relevant): Sign up for a sunset paddle on Onondaga Lake in August
+2026-07-09 15:17:54,869 [INFO]   Relevant: Kelly Haggerty named Syracuse deputy water commissioner
+2026-07-09 15:17:54,869 [DEBUG]     → Entities: Sharon F. Owens
+2026-07-09 15:17:54,869 [DEBUG]     → Keywords: mayor, municipal, syracuse mayor
+2026-07-09 15:17:58,327 [INFO]     Saved: CTX-NEWS-2026-00191 → CTX-NEWS-2026-00191.json
+2026-07-09 15:17:58,328 [DEBUG]   Filtered (not relevant): Best man, 39, dead after legs amputated while attending brother’s wedding
+2026-07-09 15:17:58,328 [DEBUG]   Filtered (not relevant): Rare bacteria in water traced to AI data center construction in Wyoming
+2026-07-09 15:17:58,329 [DEBUG]   Filtered (not relevant): Charles Barkley: 76ers ‘got away with murder’ landing Jaylen Brown from Celtics
+2026-07-09 15:17:58,329 [DEBUG]   Filtered (not relevant): Dining Out Review: Is Joey's without Joey still Joey's?
+2026-07-09 15:17:58,330 [INFO]   Relevant: Dear Doctor: An extremely expensive treatment could fend off MS progress; do I r
+2026-07-09 15:17:58,330 [DEBUG]     → Entities: Axon
+2026-07-09 15:18:01,317 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-07-09 15:18:01,326 [INFO]     Saved: CTX-NEWS-2026-00192 → CTX-NEWS-2026-00192.json
+2026-07-09 15:18:01,327 [DEBUG]   Filtered (not relevant): Micron provides update on when first buildings will rise in Clay (Good Morning C
+2026-07-09 15:18:01,328 [DEBUG]   Filtered (not relevant): Onondaga County DA investigating fraud allegations in Democratic primary
+2026-07-09 15:18:01,328 [DEBUG]   Filtered (not relevant): Where to watch Marta Kostyuk vs. Linda Noskova: Wimbledon free stream
+2026-07-09 15:18:01,328 [DEBUG]   Filtered (not relevant): Boeheim’s Army adds another TBT rookie to 2026 roster
+2026-07-09 15:18:01,329 [DEBUG]   Filtered (not relevant): Asking Eric: Mom is aging, and I’m afraid of having divide her things between 7 
+2026-07-09 15:18:01,329 [DEBUG]   Filtered (not relevant): Indiana man faces 12 years, accused of cutting off genitals, using them to start
+2026-07-09 15:18:01,329 [DEBUG]   Filtered (not relevant): Upstate doctor named to NY Rare Diseases Advisory Council
+2026-07-09 15:18:01,330 [DEBUG]   Filtered (not relevant): Asking Eric: Grandpa refuses to accept child’s new identity, but still wants to 
+2026-07-09 15:18:01,331 [DEBUG]   Filtered (not relevant): Central NY weather: Thunderstorms possible Thursday as temperatures soar into lo
+2026-07-09 15:18:01,332 [INFO] News Scanner Run — 2026-07-09 15:18
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 4
+Filtered (not relevant): 46
+Errors: 0
+
+New records:
+  • Brianca Hill named deputy commissioner in Syracuse
+  • Micron milestone: First concrete to flow at giant computer chip factory site in 
+  • Kelly Haggerty named Syracuse deputy water commissioner
+  • Dear Doctor: An extremely expensive treatment could fend off MS progress; do I r
+

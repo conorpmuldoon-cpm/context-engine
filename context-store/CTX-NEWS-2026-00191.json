@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00191",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/07/company-news-kelly-haggerty-named-syracuse-deputy-water-commissioner.html",
+  "publication_date": "2026-07-09",
+  "capture_date": "2026-07-09T15:17:58Z",
+  "title": "Kelly Haggerty named Syracuse deputy water commissioner",
+  "summary": "Mayor Sharon F. Owens appointed Kelly Haggerty as Deputy Commissioner of Water. Haggerty is a Syracuse native with nearly two decades of municipal experience who will help lead the city's water department. This leadership appointment represents organizational change within the water utility.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "leadership-change",
+    "hiring",
+    "department-head",
+    "announcement",
+    "mayor"
+  ],
+  "department_refs": [
+    "Water Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Kelly Haggerty",
+      "type": "person",
+      "canonical_id": "PERSON-KELLY-HAGGERTY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayoral appointment of experienced municipal professional to deputy commissioner role signals commitment to water department leadership and operations.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is appointment announcement with minimal operational detail",
+    "No budget, contract, or policy implications detailed",
+    "Haggerty's specific background/previous role not specified in excerpt",
+    "May warrant tracking for future infrastructure or service initiatives under new leadership",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

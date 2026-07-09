@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00189",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/07/company-news-brianca-hill-named-deputy-commissioner-for-city-of-syracuse.html",
+  "publication_date": "2026-07-09",
+  "capture_date": "2026-07-09T15:17:50Z",
+  "title": "Brianca Hill named deputy commissioner in Syracuse",
+  "summary": "Syracuse Mayor Sharon F. Owens appointed Brianca Hill as Deputy Commissioner of Business Development. Hill is an internal promotion from the Department of Neighborhood and Business Development, indicating leadership continuity in economic development functions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "department-head",
+    "hiring",
+    "economic-development",
+    "announcement"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Brianca Hill",
+      "type": "person",
+      "canonical_id": "PERSON-BRIANCA-HILL"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Internal promotion signals mayoral confidence in continuity of business development initiatives and workforce retention strategy.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Mechanical extraction identified 'Department of Permits and Development' but article text references 'Department of Neighborhood and Business Development'—corrected to article source",
+    "No dollar amounts or budget implications mentioned",
+    "Limited biographical detail on Hill provided; recommend cross-reference with HR records for full service history",
+    "Article date is future-dated (2026-07-09); verify against actual publication records",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

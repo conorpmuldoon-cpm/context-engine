@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-NEWS-2026-00190",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/07/micron-milestone-first-concrete-to-flow-at-giant-computer-chip-factory-site-in-ny.html",
+  "publication_date": "2026-07-09",
+  "capture_date": "2026-07-09T15:17:54Z",
+  "title": "Micron milestone: First concrete to flow at giant computer chip factory site in NY",
+  "summary": "Micron Technology has begun concrete pouring for its first semiconductor manufacturing facility in Clay, NY, marking a major milestone in what the company describes as the nation's largest chip factory project. This represents significant economic development and infrastructure investment for the region.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "infrastructure",
+    "capital-planning",
+    "intergovernmental",
+    "federal-programs",
+    "business-community"
+  ],
+  "department_refs": [
+    "Office of the Chief Innovation Officer"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Renee Fox",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Rick Moriarty",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Major private sector capital investment and manufacturing facility development aligns with regional economic development priorities and workforce opportunities",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No budget figures provided in headline/excerpt",
+    "No specific city departments referenced; intergovernmental coordination likely with county/state",
+    "Location: Clay, NY (Onondaga County)",
+    "Federal programs tag inferred due to semiconductor manufacturing CHIPS Act alignment",
+    "Workforce development implications anticipated but not detailed in provided content",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
