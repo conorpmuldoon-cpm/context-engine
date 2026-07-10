@@ -1,0 +1,24 @@
+2026-07-10 14:50:11,955 [INFO] ============================================================
+2026-07-10 14:50:11,955 [INFO] Website Monitor starting
+2026-07-10 14:50:12,395 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-07-10 14:50:12,395 [INFO]   Navigating to https://www.syr.gov/News
+2026-07-10 14:50:16,704 [INFO]   Found 10 article links in News
+2026-07-10 14:50:21,704 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-07-09-Mayors-Office-News-830AM
+2026-07-10 14:50:34,644 [INFO]     Saved: CTX-WEB-2026-00160 → CTX-WEB-2026-00160.json
+2026-07-10 14:50:34,644 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-07-10 14:50:34,644 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-07-10 14:50:37,840 [INFO]   Found 0 article links in Announcements
+2026-07-10 14:50:42,841 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-07-10 14:50:42,841 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-07-10 14:50:46,350 [INFO]   Found 0 article links in Public Notices
+2026-07-10 14:50:51,385 [INFO] Website Monitor Run — 2026-07-10 14:50
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • City of Syracuse and NAACP Respond to Ruling on Consent Decree
+
