@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-NEWS-2026-00193",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/07/county-executive-ryan-mcmahon-to-hold-public-hearing-on-term-limit-bill.html",
+  "publication_date": "2026-07-10",
+  "capture_date": "2026-07-10T14:35:53Z",
+  "title": "County Executive Ryan McMahon to hold public hearing on term limit bill",
+  "summary": "County Executive Ryan McMahon will conduct a public hearing on proposed legislation to establish term limits for the County Executive position and County Comptroller role. This governance matter relates to executive branch structure and legislative process at the county level.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "legislation",
+    "vote",
+    "transparency",
+    "leadership-change",
+    "intergovernmental"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public hearing on term limit legislation for executive positions suggests governance review and potential constraints on executive power.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on county-level governance, not directly City of Syracuse operations",
+    "Onondaga County Executive is county-level position; relevance to City CIO dependent on intergovernmental coordination context",
+    "No specific IT, innovation, or digital services content detected in article snippet",
+    "Date is future-dated (2026); appears to be test/sample data",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

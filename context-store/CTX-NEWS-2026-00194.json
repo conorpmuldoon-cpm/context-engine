@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00194",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/2026/07/dave-portnoy-doubles-down-id-run-for-office-to-get-zohran-mamdani-the-f-out.html",
+  "publication_date": "2026-07-10",
+  "capture_date": "2026-07-10T14:35:58Z",
+  "title": "Dave Portnoy doubles down: I’d run for office to ‘get (Zohran Mamdani) the f--- out’",
+  "summary": "Celebrity Dave Portnoy publicly states he would run for office to remove NYC Mayor Zohran Mamdani, doubling down on previous critical comments about New York leadership. This represents external political opposition to city administration but has limited direct operational relevance to Syracuse city services or CIO functions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:external-political-commentary",
+    "mayor",
+    "leadership-change"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Dave Portnoy",
+      "type": "person",
+      "canonical_id": "PERSON-DAVE-PORTNOY"
+    },
+    {
+      "name": "Zohran Mamdani",
+      "type": "person",
+      "canonical_id": "PERSON-ZOHRAN-MAMDANI"
+    },
+    {
+      "name": "Syracuse.com",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-COM"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Public political opposition to NYC Mayor Zohran Mamdani by external figure, with threat of electoral challenge.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns NYC politics, not Syracuse city government operations",
+    "No direct relevance to CIO mandate, city services, or digital infrastructure initiatives",
+    "Recommend routing to Mayor's office for political awareness only",
+    "No constituent service, budget, or operational implications detected",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

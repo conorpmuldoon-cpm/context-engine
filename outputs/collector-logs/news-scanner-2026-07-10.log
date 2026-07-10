@@ -1,0 +1,79 @@
+2026-07-10 14:35:48,611 [INFO] ============================================================
+2026-07-10 14:35:48,612 [INFO] News Scanner starting
+2026-07-10 14:35:48,613 [INFO] Fetching: Syracuse.com Politics
+2026-07-10 14:35:49,143 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-10 14:35:49,143 [INFO] Fetching: Syracuse.com Government
+2026-07-10 14:35:49,356 [INFO]   0 new articles from Syracuse.com Government
+2026-07-10 14:35:49,356 [INFO] Fetching: Syracuse.com Local
+2026-07-10 14:35:49,561 [INFO]   0 new articles from Syracuse.com Local
+2026-07-10 14:35:49,561 [INFO] Fetching: Syracuse.com Main
+2026-07-10 14:35:49,769 [INFO]   0 new articles from Syracuse.com Main
+2026-07-10 14:35:49,769 [INFO] Total unique articles across all feeds: 50
+2026-07-10 14:35:49,770 [INFO] New articles (not previously processed): 50
+2026-07-10 14:35:49,822 [DEBUG]   Filtered (not relevant): Man on flight to Germany almost sucked out of plane shortly after takeoff
+2026-07-10 14:35:49,822 [DEBUG]   Filtered (not relevant): Former Long Island nurse faces major penalty in fake COVID vaccine card scheme
+2026-07-10 14:35:49,823 [DEBUG]   Filtered (not relevant): Miss Manners: So annoyed by public text message dictation, I’ve started correcti
+2026-07-10 14:35:49,823 [DEBUG]   Filtered (not relevant): Texas Democrat blasts Ken Paxton over ‘sweetheart deal’ for convicted child abus
+2026-07-10 14:35:49,823 [DEBUG]   Filtered (not relevant): Popular fast-food chain launches sweet-and-spicy Hot Orange Chicken
+2026-07-10 14:35:49,824 [DEBUG]   Filtered (not relevant): The Slurpee just turned 60 and its new anniversary flavor is truly something els
+2026-07-10 14:35:49,824 [DEBUG]   Filtered (not relevant): Syracuse's Andrew Lunetta named CNN Hero for tiny homes work
+2026-07-10 14:35:49,825 [DEBUG]   Filtered (not relevant): Yes, the post office is charging $50 for mislabeled packages. But it’s not what 
+2026-07-10 14:35:49,825 [DEBUG]   Filtered (not relevant): Chase on Upstate NY interstate ends with suspect firing multiple shots at driver
+2026-07-10 14:35:49,826 [DEBUG]   Filtered (not relevant): ‘Real Housewives’ star says her son helped start California wildfire
+2026-07-10 14:35:49,826 [DEBUG]   Filtered (not relevant): Mystery behind hundreds of hidden speakers on California hillside finally explai
+2026-07-10 14:35:49,827 [DEBUG]   Filtered (not relevant): Minivan owners receive recall notices for issue that’s generated over 1,600 warr
+2026-07-10 14:35:49,827 [DEBUG]   Filtered (not relevant): Miss Manners: How many videos will I sit through before you take the hint; I’m n
+2026-07-10 14:35:49,828 [DEBUG]   Filtered (not relevant): MLB star recorded video for gambling addict on behalf of FanDuel
+2026-07-10 14:35:49,828 [DEBUG]   Filtered (not relevant): World Naked Bike Ride returns to Upstate NY city next month
+2026-07-10 14:35:49,829 [DEBUG]   Filtered (not relevant): Polymarket upgrades $50 invite code “CUSE” in NY, CA for Spain-Belgium, World Cu
+2026-07-10 14:35:49,829 [DEBUG]   Filtered (not relevant): How to reduce your risk of West Nile virus during mosquito season
+2026-07-10 14:35:49,830 [DEBUG]   Filtered (not relevant): Spain vs. Belgium predictions: Polymarket prices, props and best bet for World C
+2026-07-10 14:35:49,830 [DEBUG]   Filtered (not relevant): Viral Starbucks collectible cup gets a new spin in the year’s most popular color
+2026-07-10 14:35:49,831 [INFO]   Relevant: County Executive Ryan McMahon to hold public hearing on term limit bill
+2026-07-10 14:35:49,831 [DEBUG]     → Entities: Ryan McMahon
+2026-07-10 14:35:49,831 [DEBUG]     → Keywords: public hearing
+2026-07-10 14:35:53,319 [INFO]     Saved: CTX-NEWS-2026-00193 → CTX-NEWS-2026-00193.json
+2026-07-10 14:35:53,320 [DEBUG]   Filtered (not relevant): Kids set sail on Onondaga Lake at youth sailing camp (photos)
+2026-07-10 14:35:53,320 [DEBUG]   Filtered (not relevant): Fisher and marten trapping seasons expanded in Upstate NY
+2026-07-10 14:35:53,321 [DEBUG]   Filtered (not relevant): DEC issues swimming advisory after aggressive beaver attacks 2 swimmers on Upsta
+2026-07-10 14:35:53,321 [DEBUG]   Filtered (not relevant): West Nile Virus: Virus found in Atlanta, number of human cases highest in 20-plu
+2026-07-10 14:35:53,322 [INFO]   Relevant: Dave Portnoy doubles down: I’d run for office to ‘get (Zohran Mamdani) the f--- 
+2026-07-10 14:35:53,322 [DEBUG]     → Keywords: mayor
+2026-07-10 14:35:58,814 [INFO]     Saved: CTX-NEWS-2026-00194 → CTX-NEWS-2026-00194.json
+2026-07-10 14:35:58,815 [DEBUG]   Filtered (not relevant): Syracuse Sandwiches: Darwin revives a beloved Blue Tusk classic
+2026-07-10 14:35:58,816 [DEBUG]   Filtered (not relevant): Dear Annie: I’m 29, all my friends are coupled up, and I’m tired of being the th
+2026-07-10 14:35:58,816 [DEBUG]   Filtered (not relevant): Dear Annie: Married for 10 years, and sister-in-law still treats me like an outs
+2026-07-10 14:35:58,817 [DEBUG]   Filtered (not relevant): IRS COVID tax refund deadline is today: What you need to know to file for your m
+2026-07-10 14:35:58,817 [DEBUG]   Filtered (not relevant): Syracuse football to host camp for athletes with disabilities: ‘They feel like p
+2026-07-10 14:35:58,817 [DEBUG]   Filtered (not relevant): Are pro fundraisers getting your donation to NY charities? Search data
+2026-07-10 14:35:58,818 [DEBUG]   Filtered (not relevant): California college student accused of raping girl, 12, in dorm, then ordering Pl
+2026-07-10 14:35:58,818 [DEBUG]   Filtered (not relevant): Dear Doctor: Mom’s body is failing her; is there anything I can do to help her g
+2026-07-10 14:35:58,819 [DEBUG]   Filtered (not relevant): M&T Bank announces 2 Central New York promotions
+2026-07-10 14:35:58,819 [DEBUG]   Filtered (not relevant): 11-year-old boy dies day after being found unresponsive at a country club swimmi
+2026-07-10 14:35:58,820 [DEBUG]   Filtered (not relevant): 23andMe owes customers more money: See if you’re eligible for $47M settlement
+2026-07-10 14:35:58,820 [DEBUG]   Filtered (not relevant): Onondaga Lake ranks second in New York for bass fishing tournaments
+2026-07-10 14:35:58,821 [DEBUG]   Filtered (not relevant): Asking Eric: My injury is none of your business, but if you ask, I’ll hit you wi
+2026-07-10 14:35:58,821 [DEBUG]   Filtered (not relevant): Where to watch Jannik Sinner vs. Novak Djokovic: Wimbledon free stream
+2026-07-10 14:35:58,821 [DEBUG]   Filtered (not relevant): Mexican man killed by ICE in Houston not target of operation: ‘We’ve got to do s
+2026-07-10 14:35:58,822 [DEBUG]   Filtered (not relevant): Micron’s mega-factory takes shape in Clay (Good Morning CNY)
+2026-07-10 14:35:58,822 [DEBUG]   Filtered (not relevant): 11 dead, 19 missing in Spain wildfire amid heat wave: ‘The consequences have bee
+2026-07-10 14:35:58,823 [DEBUG]   Filtered (not relevant): Asking Eric: Brother shows disturbing pattern of taking advantage of aging relat
+2026-07-10 14:35:58,823 [DEBUG]   Filtered (not relevant): Central NY weather: A pleasant summer weekend before the return of oppressive he
+2026-07-10 14:35:58,824 [DEBUG]   Filtered (not relevant): Jelly Roll received a life-changing present from this rapper when he was struggl
+2026-07-10 14:35:58,824 [DEBUG]   Filtered (not relevant): Where to watch Arthur Fery vs. Alexander Zverev: Wimbledon free stream
+2026-07-10 14:35:58,824 [DEBUG]   Filtered (not relevant): Here’s how Kiyan Anthony said goodbye to Adrian Autry
+2026-07-10 14:35:58,825 [DEBUG]   Filtered (not relevant): A reluctant town supervisor agonizes over ideology vs. reality: Can he really fi
+2026-07-10 14:35:58,825 [DEBUG]   Filtered (not relevant): Dear Abby: Simple request from fellow shopper looks like a red flag scam, the mo
+2026-07-10 14:35:58,826 [DEBUG]   Filtered (not relevant): Updated Syracuse ranch at 109 Bradford Parkway lists for $525,000
+2026-07-10 14:35:58,828 [INFO] News Scanner Run — 2026-07-10 14:35
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • County Executive Ryan McMahon to hold public hearing on term limit bill
+  • Dave Portnoy doubles down: I’d run for office to ‘get (Zohran Mamdani) the f--- 
+
