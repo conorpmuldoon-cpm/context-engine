@@ -1,0 +1,73 @@
+2026-07-11 13:27:09,688 [INFO] ============================================================
+2026-07-11 13:27:09,689 [INFO] News Scanner starting
+2026-07-11 13:27:09,690 [INFO] Fetching: Syracuse.com Politics
+2026-07-11 13:27:10,119 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-11 13:27:10,119 [INFO] Fetching: Syracuse.com Government
+2026-07-11 13:27:10,381 [INFO]   0 new articles from Syracuse.com Government
+2026-07-11 13:27:10,381 [INFO] Fetching: Syracuse.com Local
+2026-07-11 13:27:10,557 [INFO]   0 new articles from Syracuse.com Local
+2026-07-11 13:27:10,558 [INFO] Fetching: Syracuse.com Main
+2026-07-11 13:27:10,755 [INFO]   0 new articles from Syracuse.com Main
+2026-07-11 13:27:10,755 [INFO] Total unique articles across all feeds: 50
+2026-07-11 13:27:10,755 [INFO] New articles (not previously processed): 50
+2026-07-11 13:27:10,810 [DEBUG]   Filtered (not relevant): Jamesville Beach to reopen after algae blooms found Monday
+2026-07-11 13:27:10,811 [DEBUG]   Filtered (not relevant): Experts update England vs. Norway prediction after latest Polymarket prices, Haa
+2026-07-11 13:27:10,811 [DEBUG]   Filtered (not relevant): Mega Millions numbers for 07/10/26: Did anyone win the $604 million jackpot?
+2026-07-11 13:27:10,812 [DEBUG]   Filtered (not relevant): Editorial cartoons for July 12, 2026: Mitch McConnell’s health, Trump red card, 
+2026-07-11 13:27:10,812 [DEBUG]   Filtered (not relevant): If you live here, you might be paying the most for health insurance
+2026-07-11 13:27:10,813 [DEBUG]   Filtered (not relevant): Travel Advisory: Visitors to popular Southeast Asian spot urged to ‘exercise inc
+2026-07-11 13:27:10,813 [DEBUG]   Filtered (not relevant): Upstate NY refugee facing deportation gets 1978 conviction erased by Michigan go
+2026-07-11 13:27:10,813 [DEBUG]   Filtered (not relevant): Asking Eric: Did friend cross a line criticizing my grandson, or is she spot on 
+2026-07-11 13:27:10,814 [DEBUG]   Filtered (not relevant): Where to watch Karolina Muchova vs. Linda Noskova: Wimbledon free stream
+2026-07-11 13:27:10,814 [DEBUG]   Filtered (not relevant): Syracuse Jazz Fest begins new era at Beak & Skiff with funk, Power (photos, revi
+2026-07-11 13:27:10,815 [DEBUG]   Filtered (not relevant): Asking Eric: I always come on strong, then realize I need to back off; it’s hard
+2026-07-11 13:27:10,815 [DEBUG]   Filtered (not relevant): Does Nick Robinson from ‘Voicemails for Isabelle’ have a girlfriend?
+2026-07-11 13:27:10,816 [DEBUG]   Filtered (not relevant): Music legend, 76, reveals ‘music is not part of his life anymore’ amid health st
+2026-07-11 13:27:10,816 [DEBUG]   Filtered (not relevant): 2 iconic silver dollars released by U.S. Mint for 250th anniversary
+2026-07-11 13:27:10,817 [DEBUG]   Filtered (not relevant): Upstate student who died in crash remembered for compassion: ‘She radiated kindn
+2026-07-11 13:27:10,817 [DEBUG]   Filtered (not relevant): Where to rent vs. buy across the U.S. in 2026
+2026-07-11 13:27:10,817 [DEBUG]   Filtered (not relevant): Need stamps? You better buy them ASAP
+2026-07-11 13:27:10,817 [DEBUG]   Filtered (not relevant): Popular actress issues statement about separation from musician husband
+2026-07-11 13:27:10,818 [DEBUG]   Filtered (not relevant): Exclusive Upstate NY social club agrees to pay back over $1M in pandemic relief 
+2026-07-11 13:27:10,819 [DEBUG]   Filtered (not relevant): A dangerous, but short-lived, heat wave will hit Central NY early next week
+2026-07-11 13:27:10,819 [DEBUG]   Filtered (not relevant): Dear Abby: How can I convince my co-worker to take things from casual to ‘boyfri
+2026-07-11 13:27:10,820 [DEBUG]   Filtered (not relevant): Upstate New York man who pointed green laser at passenger plane headed to federa
+2026-07-11 13:27:10,820 [DEBUG]   Filtered (not relevant): Will Smith and Jada Pinkett Smith’s relationship enters surprising new chapter
+2026-07-11 13:27:10,821 [INFO]   Relevant: Here’s how much Taylor Swift, Travis Kelce paid to New York City for security at
+2026-07-11 13:27:10,821 [DEBUG]     → Keywords: mayor
+2026-07-11 13:27:14,826 [ERROR]     Schema error: Schema validation: 'transparency' is not one of ['championship', 'opposition', 'scrutiny', 'constituent_pressure', 'priority_alignment', 'budget_commitment']
+2026-07-11 13:27:14,831 [ERROR]     Cannot fix schema errors for Here’s how much Taylor Swift, Travis Kelce paid to New York  — skipping
+2026-07-11 13:27:14,832 [DEBUG]   Filtered (not relevant): Daylight saving time: Here’s when clocks ‘fall back’ in 2026
+2026-07-11 13:27:14,832 [DEBUG]   Filtered (not relevant): National pizza chain to close up to 50 underperforming locations
+2026-07-11 13:27:14,833 [DEBUG]   Filtered (not relevant): MAGA country music star joins Trump administration: ‘Let’s get to work’
+2026-07-11 13:27:14,833 [DEBUG]   Filtered (not relevant): Dear Abby: I got married young; now, I’m starting to believe I missed out on bei
+2026-07-11 13:27:14,834 [DEBUG]   Filtered (not relevant): Syracuse Mets defeat Tides 3-2 after nearly three-hour rain delay
+2026-07-11 13:27:14,834 [DEBUG]   Filtered (not relevant): Country music star on removing Satanic group from his tour: ‘Hail Satan? Not me 
+2026-07-11 13:27:14,834 [DEBUG]   Filtered (not relevant): Family displaced after fire at North Side apartment building
+2026-07-11 13:27:14,835 [DEBUG]   Filtered (not relevant): Mega Millions numbers: Are you the lucky winner of Friday’s $604 million jackpot
+2026-07-11 13:27:14,835 [DEBUG]   Filtered (not relevant): Elaine Chao, Mitch McConnell’s wife, on why she didn’t return from China for hus
+2026-07-11 13:27:14,836 [DEBUG]   Filtered (not relevant): Polymarket upgrades $50 invite code “CUSE” through World Cup Quarterfinals
+2026-07-11 13:27:14,836 [DEBUG]   Filtered (not relevant): ‘Police Academy’ star, ‘80s and ‘90s comedic mainstay, dead at 75
+2026-07-11 13:27:14,837 [DEBUG]   Filtered (not relevant): Experts update England vs. Norway predictions after Marc Guehi, Declan Rice and 
+2026-07-11 13:27:14,837 [DEBUG]   Filtered (not relevant): 1970s NBC action show star dead at 80: He ‘kept getting thinner and thinner’
+2026-07-11 13:27:14,838 [DEBUG]   Filtered (not relevant): $50 Polymarket referral code “CUSE” detailed for Norway vs. England World Cup ma
+2026-07-11 13:27:14,838 [DEBUG]   Filtered (not relevant): Kalshi promotes $10 referral code SYRACUSE for Norway vs. England World Cup matc
+2026-07-11 13:27:14,838 [DEBUG]   Filtered (not relevant): Woman dies after industrial accident in Oneida County
+2026-07-11 13:27:14,839 [DEBUG]   Filtered (not relevant): Her life was tied to a 1940s machine that kept her breathing for decades
+2026-07-11 13:27:14,839 [DEBUG]   Filtered (not relevant): NBA superstar sells home for $32M, down from original $40M asking price
+2026-07-11 13:27:14,840 [DEBUG]   Filtered (not relevant): You can watch tonight’s ‘Love Island USA’ double dumping for free on Peacock — h
+2026-07-11 13:27:14,840 [DEBUG]   Filtered (not relevant): Philly court moves forward with charges against 2 Syracuse football recruits
+2026-07-11 13:27:14,841 [DEBUG]   Filtered (not relevant): Top quarterbacks in New York high school football entering 2026 season
+2026-07-11 13:27:14,841 [DEBUG]   Filtered (not relevant): Investigators revisit final moments before Michigan woman vanished in Bahamas
+2026-07-11 13:27:14,842 [DEBUG]   Filtered (not relevant): Where to watch Celtics-Raptors tonight: NBA Summer League free stream
+2026-07-11 13:27:14,842 [DEBUG]   Filtered (not relevant): NYup.com writers’ summer travel picks for Upstate NY (Letter from the Editor)
+2026-07-11 13:27:14,842 [DEBUG]   Filtered (not relevant): More than a dozen restaurant chains team together to offer free items on July 14
+2026-07-11 13:27:14,843 [DEBUG]   Filtered (not relevant): Teen killer’s emotional request denied by judge who hands down life sentence
+2026-07-11 13:27:14,845 [INFO] News Scanner Run — 2026-07-11 13:27
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 0
+Filtered (not relevant): 50
+Errors: 0
+
