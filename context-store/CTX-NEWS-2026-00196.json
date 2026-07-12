@@ -1,0 +1,50 @@
+{
+  "record_id": "CTX-NEWS-2026-00196",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/07/microns-stake-in-cny-kids-runs-deeper-than-concrete-and-computer-chips-editorial-board-opinion.html",
+  "publication_date": "2026-07-12",
+  "capture_date": "2026-07-12T13:34:59Z",
+  "title": "Micron’s stake in CNY kids runs deeper than concrete and computer chips (Editorial Board Opinion)",
+  "summary": "Editorial board opinion piece discussing Micron Technology's broader civic engagement strategy in Central New York beyond its semiconductor manufacturing facility under construction in Clay. The article suggests Micron's involvement extends into community and youth-focused initiatives, signaling corporate commitment to regional development and workforce pipeline.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "business-community",
+    "workforce-development",
+    "initiative-launch"
+  ],
+  "department_refs": [
+    "Office of Innovation and Performance"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Editorial endorsement of Micron's civic engagement strategy, positioning corporate investment as aligned with regional workforce development and community benefit goals.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is opinion/editorial format rather than news reporting; headline references youth/education initiatives but content excerpt does not detail specific programs",
+    "Construction site reference (Clay location) confirmed as Micron semiconductor facility",
+    "No specific dollar amounts, departments, or policy implications stated in provided excerpt",
+    "Recommend full article review to extract specific youth/education initiatives for CIO context on workforce pipeline and education sector engagement",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

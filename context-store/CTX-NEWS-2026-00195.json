@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-NEWS-2026-00195",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/realestate-news/2026/07/former-su-coachs-house-for-135m-plus-90-more-onondaga-county-home-sales.html",
+  "publication_date": "2026-07-12",
+  "capture_date": "2026-07-12T13:34:55Z",
+  "title": "Former SU coach’s house in DeWitt sells for $1.35 million; plus 90 other home sales",
+  "summary": "Real estate market report covering 91 Onondaga County home sales for the week of June 28–July 4, 2026, with the highest sale price of $1.35 million for a DeWitt property formerly owned by former Syracuse University basketball coach Adrian Autry. This market data may inform economic development and housing trend analysis for the region.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "economic-development",
+    "trending"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Adrian Autry",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Onondaga County Clerk's Office",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is a real estate market report with limited direct municipal governance relevance",
+    "No City of Syracuse departments or policies referenced",
+    "Adrian Autry affiliation with SU is contextual but not operationally significant to CIO",
+    "Data source is county-level clerk records, not city systems",
+    "Could be tangentially relevant to housing/economic development trend monitoring",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

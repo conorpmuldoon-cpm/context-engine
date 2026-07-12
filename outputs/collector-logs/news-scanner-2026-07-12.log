@@ -1,0 +1,78 @@
+2026-07-12 13:34:51,167 [INFO] ============================================================
+2026-07-12 13:34:51,168 [INFO] News Scanner starting
+2026-07-12 13:34:51,169 [INFO] Fetching: Syracuse.com Politics
+2026-07-12 13:34:51,451 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-12 13:34:51,452 [INFO] Fetching: Syracuse.com Government
+2026-07-12 13:34:51,599 [INFO]   0 new articles from Syracuse.com Government
+2026-07-12 13:34:51,599 [INFO] Fetching: Syracuse.com Local
+2026-07-12 13:34:51,776 [INFO]   0 new articles from Syracuse.com Local
+2026-07-12 13:34:51,776 [INFO] Fetching: Syracuse.com Main
+2026-07-12 13:34:51,920 [INFO]   0 new articles from Syracuse.com Main
+2026-07-12 13:34:51,920 [INFO] Total unique articles across all feeds: 50
+2026-07-12 13:34:51,921 [INFO] New articles (not previously processed): 50
+2026-07-12 13:34:51,976 [DEBUG]   Filtered (not relevant): Dear Annie: Wife’s volunteering has spiraled into an obsession with brining home
+2026-07-12 13:34:51,977 [DEBUG]   Filtered (not relevant): Powerball numbers for 07/11/26: $1 million winner sold in New Jersey
+2026-07-12 13:34:51,977 [DEBUG]   Filtered (not relevant): Three wildly different acts turn Syracuse Jazz Fest into one unforgettable show 
+2026-07-12 13:34:51,977 [DEBUG]   Filtered (not relevant): Where to watch the MLB All-Star Futures game for free today
+2026-07-12 13:34:51,978 [DEBUG]   Filtered (not relevant): The 3 best places to rent in America in 2026 are all in this southwestern state,
+2026-07-12 13:34:51,979 [DEBUG]   Filtered (not relevant): Experts update World Cup semifinal odds after latest Messi development
+2026-07-12 13:34:51,979 [DEBUG]   Filtered (not relevant): Asking Eric: How can I convince my adult children to call me more often? I reall
+2026-07-12 13:34:51,979 [DEBUG]   Filtered (not relevant): ‘Married at First Sight’ Season 20 premieres today, and you can watch for free o
+2026-07-12 13:34:51,980 [DEBUG]   Filtered (not relevant): Where to watch Jannik Sinner vs. Alexander Zverev: Wimbledon stream
+2026-07-12 13:34:51,980 [DEBUG]   Filtered (not relevant): See top-paid jobs you can get in Syracuse with a master’s: 1 over $200K
+2026-07-12 13:34:51,981 [DEBUG]   Filtered (not relevant): Top 5 states for business scored high in infrastructure, costs
+2026-07-12 13:34:51,981 [DEBUG]   Filtered (not relevant): Asking Eric: My 35 year friendship is being tested by a woman who never pays her
+2026-07-12 13:34:51,981 [DEBUG]   Filtered (not relevant): ’60s pop music hitmaker dead at 80: ‘Poured his heart into every performance’
+2026-07-12 13:34:51,982 [INFO]   Relevant: Former SU coach’s house in DeWitt sells for $1.35 million; plus 90 other home sa
+2026-07-12 13:34:51,982 [DEBUG]     → Entities: Syracuse University
+2026-07-12 13:34:55,288 [INFO]     Saved: CTX-NEWS-2026-00195 → CTX-NEWS-2026-00195.json
+2026-07-12 13:34:55,288 [INFO]   Relevant: Micron’s stake in CNY kids runs deeper than concrete and computer chips (Editori
+2026-07-12 13:34:55,288 [DEBUG]     → Entities: Micron Technology
+2026-07-12 13:34:59,115 [INFO]     Saved: CTX-NEWS-2026-00196 → CTX-NEWS-2026-00196.json
+2026-07-12 13:34:59,116 [DEBUG]   Filtered (not relevant): Syracuse bishop warns Society of Saint Pius X followers of possible excommunicat
+2026-07-12 13:34:59,116 [DEBUG]   Filtered (not relevant): A town supervisor agonizes: Can he really fight ICE? (Top stories)
+2026-07-12 13:34:59,116 [DEBUG]   Filtered (not relevant): 3 major automakers just recalled more than 850,000 vehicles — here’s what you ne
+2026-07-12 13:34:59,117 [DEBUG]   Filtered (not relevant): ‘American Ninja Warrior’ ratings plummet as fans slam ‘dumb changes’
+2026-07-12 13:34:59,117 [DEBUG]   Filtered (not relevant): Dear Abby: Brother refuses to let me have some of my parents ashes, just because
+2026-07-12 13:34:59,118 [DEBUG]   Filtered (not relevant): CNY Inspirations: The art of noticing
+2026-07-12 13:34:59,118 [DEBUG]   Filtered (not relevant): Top 5 highest-paying jobs you don’t need a college degree for
+2026-07-12 13:34:59,118 [DEBUG]   Filtered (not relevant): Central NY weather: Oppressive heat is headed this way, and Tuesday could break 
+2026-07-12 13:34:59,119 [DEBUG]   Filtered (not relevant): Dear Abby: Will adult daughter just ‘figure it out’ if I force her to leave? I’v
+2026-07-12 13:34:59,119 [DEBUG]   Filtered (not relevant): Syracuse Mets fall to Norfolk 3-2 after ninth-inning rally
+2026-07-12 13:34:59,120 [DEBUG]   Filtered (not relevant): TV icon who helped change sitcoms dies at 87
+2026-07-12 13:34:59,120 [DEBUG]   Filtered (not relevant): US Senator Lindsey Graham has died after a brief and unexpected illness, his off
+2026-07-12 13:34:59,120 [DEBUG]   Filtered (not relevant): Conor McGregor breaks silence after devastating UFC 329 injury: ‘I’m beyond dark
+2026-07-12 13:34:59,121 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Saturday’s $457 million drawing
+2026-07-12 13:34:59,121 [DEBUG]   Filtered (not relevant): ‘Star Trek’ and ‘Twilight Zone’ actress dead at 93
+2026-07-12 13:34:59,122 [DEBUG]   Filtered (not relevant): Polymarket updates $50 invite code “CUSE” for Argentina vs. Switzerland live odd
+2026-07-12 13:34:59,122 [DEBUG]   Filtered (not relevant): Early World Cup betting preview: Experts release new Spain vs. France semifinal 
+2026-07-12 13:34:59,123 [DEBUG]   Filtered (not relevant): Ex-Bills lineman Gable Steveson dominates in UFC debut knockout
+2026-07-12 13:34:59,123 [DEBUG]   Filtered (not relevant): $50 Polymarket referral code “CUSE” released for Argentina vs. Switzerland World
+2026-07-12 13:34:59,123 [DEBUG]   Filtered (not relevant): Kalshi drops $10 referral code SYRACUSE for Argentina vs. Switzerland World Cup 
+2026-07-12 13:34:59,124 [DEBUG]   Filtered (not relevant): Alert bank teller thwarts fraud attempt in Manlius, police say; 3 charged
+2026-07-12 13:34:59,124 [DEBUG]   Filtered (not relevant): American LGBTQ+ cruise blocked by Egypt from docking after Turkey barred it: ‘No
+2026-07-12 13:34:59,125 [DEBUG]   Filtered (not relevant): Where to watch Argentina vs. Switzerland today: World Cup free stream
+2026-07-12 13:34:59,125 [DEBUG]   Filtered (not relevant): Hallmark’s ‘O Little Christmas Market’ premieres tonight: How to watch for free
+2026-07-12 13:34:59,125 [DEBUG]   Filtered (not relevant): Syracuse native just 1 back of former U.S. Open champion at Genesis Scottish Ope
+2026-07-12 13:34:59,126 [DEBUG]   Filtered (not relevant): Where to watch O’Reilly Auto Parts Series at EchoPark: Free stream
+2026-07-12 13:34:59,126 [DEBUG]   Filtered (not relevant): Where to watch Knicks vs. Spurs today: Summer League free stream
+2026-07-12 13:34:59,127 [DEBUG]   Filtered (not relevant): Conor McGregor returns at UFC 329; how to watch the fight for free
+2026-07-12 13:34:59,127 [DEBUG]   Filtered (not relevant): Where to watch Red Sox vs. Mets today: MLB free live stream
+2026-07-12 13:34:59,127 [DEBUG]   Filtered (not relevant): Where to watch Norway vs. England today: World Cup free stream
+2026-07-12 13:34:59,128 [DEBUG]   Filtered (not relevant): ‘Jekyll and Hyde,’ dripping with thrills and chills, skulks into CNY Playhouse (
+2026-07-12 13:34:59,129 [DEBUG]   Filtered (not relevant): New $10 Kalshi Promo Code SYRACUSE launched for England vs. Norway, UFC Saturday
+2026-07-12 13:34:59,129 [DEBUG]   Filtered (not relevant): The Great Green Wall: Billions of trees seem to be growing faster than average
+2026-07-12 13:34:59,130 [DEBUG]   Filtered (not relevant): Miss Manners: Friend was so concerned about getting credit for gift, we ended up
+2026-07-12 13:34:59,130 [DEBUG]   Filtered (not relevant): Miss Manners: Is my excuse good enough to allow me to put my bare feet up on you
+2026-07-12 13:34:59,132 [INFO] News Scanner Run — 2026-07-12 13:34
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Former SU coach’s house in DeWitt sells for $1.35 million; plus 90 other home sa
+  • Micron’s stake in CNY kids runs deeper than concrete and computer chips (Editori
+
