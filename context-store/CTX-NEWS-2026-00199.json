@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00199",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/cny/2026/07/ny-legislator-considers-run-to-lead-onondaga-county-democrats-shes-got-some-ideas-for-change.html",
+  "publication_date": "2026-07-13",
+  "capture_date": "2026-07-13T14:42:47Z",
+  "title": "NY legislator considers run to lead Onondaga County Democrats. She’s got some ideas for change",
+  "summary": "State Senator Rachel May is considering a run to chair the Onondaga County Democratic Committee, positioning herself as a change candidate aligned with Democratic voter priorities. This represents potential leadership transition within the county party structure and signals internal Democratic realignment.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "intergovernmental",
+    "policy-change"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Rachel May",
+      "type": "person",
+      "canonical_id": "PERSON-RACHEL-MAY"
+    },
+    {
+      "name": "Onondaga County Democratic Committee",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-DEMS"
+    },
+    {
+      "name": "New York State Senate",
+      "type": "organization",
+      "canonical_id": "ORG-NY-SENATE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "State legislator positioning for county party leadership role with stated intent to redirect party strategy and align with voter preferences",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on county-level Democratic party politics rather than City of Syracuse municipal governance",
+    "Limited direct relevance to CIO priorities unless connected to future city-county coordination or policy initiatives",
+    "No budget, technology systems, or city department implications detected in current content",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

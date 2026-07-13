@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00197",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/07/a-second-registered-sex-offender-worked-at-syracuses-department-of-public-works.html",
+  "publication_date": "2026-07-13",
+  "capture_date": "2026-07-13T14:42:40Z",
+  "title": "A second registered sex offender worked at Syracuse’s Department of Public Works",
+  "summary": "A second registered sex offender was discovered working in Syracuse's Department of Public Works, according to reporting by syracuse.com. This represents a significant public safety and hiring practice concern requiring immediate investigation and potential policy review by city leadership.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "hiring",
+    "investigation",
+    "public-safety-commission",
+    "civil-service",
+    "crime-data",
+    "escalating",
+    "transparency",
+    "complaint"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Finn Lincoln",
+      "type": "person",
+      "canonical_id": "PERSON-FINN-LINCOLN"
+    },
+    {
+      "name": "syracuse.com | The Post-Standard",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-COM"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Media reporting of second sex offender hiring in municipal department indicates systemic hiring/vetting process failures requiring urgent CIO/leadership attention for background check systems and HR procedures",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article indicates 'second' offender, suggesting prior incident — may require cross-referencing with earlier coverage",
+    "No specific individuals named in provided excerpt; full article likely contains names for entity extraction",
+    "Potential data governance gap: background check systems/civil service vetting procedures warrant CIO review",
+    "HR/payroll systems may need audit for hiring controls",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,83 @@
+2026-07-13 14:42:34,718 [INFO] ============================================================
+2026-07-13 14:42:34,718 [INFO] News Scanner starting
+2026-07-13 14:42:34,719 [INFO] Fetching: Syracuse.com Politics
+2026-07-13 14:42:35,204 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-13 14:42:35,204 [INFO] Fetching: Syracuse.com Government
+2026-07-13 14:42:35,430 [INFO]   0 new articles from Syracuse.com Government
+2026-07-13 14:42:35,430 [INFO] Fetching: Syracuse.com Local
+2026-07-13 14:42:35,626 [INFO]   0 new articles from Syracuse.com Local
+2026-07-13 14:42:35,626 [INFO] Fetching: Syracuse.com Main
+2026-07-13 14:42:35,842 [INFO]   0 new articles from Syracuse.com Main
+2026-07-13 14:42:35,842 [INFO] Total unique articles across all feeds: 50
+2026-07-13 14:42:35,842 [INFO] New articles (not previously processed): 50
+2026-07-13 14:42:35,897 [DEBUG]   Filtered (not relevant): Airline argues window seat doesn’t mean seat next to window
+2026-07-13 14:42:35,897 [DEBUG]   Filtered (not relevant): Miss Manners: We just couldn’t keep up with the Joneses lavish dinner parties; n
+2026-07-13 14:42:35,898 [DEBUG]   Filtered (not relevant): Country superstar sets another attendance record, this time overseas
+2026-07-13 14:42:35,898 [DEBUG]   Filtered (not relevant): A mysterious symbol is showing up across Las Vegas and everyone has the same gue
+2026-07-13 14:42:35,899 [DEBUG]   Filtered (not relevant): Firefighting pilot dies in Colorado plane crash while battling wildfire
+2026-07-13 14:42:35,899 [DEBUG]   Filtered (not relevant): Former Kansas basketball star arrested, charged with attempted murder
+2026-07-13 14:42:35,899 [DEBUG]   Filtered (not relevant): Miss Manners: Couple turns to IVF only to find themselves resented by friends tr
+2026-07-13 14:42:35,900 [DEBUG]   Filtered (not relevant): Trump remembers Lindsey Graham by revisiting his ‘one bad moment’
+2026-07-13 14:42:35,900 [DEBUG]   Filtered (not relevant): Polymarket launches $50 invite code “CUSE” in NY, PA for MLB Home Run Derby
+2026-07-13 14:42:35,901 [DEBUG]   Filtered (not relevant): Man fatally shot after returning to Upstate NY bar, confronting security
+2026-07-13 14:42:35,901 [DEBUG]   Filtered (not relevant): Old Farmer’s Almanac fall 2026 forecast: What you can expect where you live
+2026-07-13 14:42:35,902 [DEBUG]   Filtered (not relevant): Wedding celebration ends in tragedy after deadly Indonesia highway collision
+2026-07-13 14:42:35,903 [DEBUG]   Filtered (not relevant): MLB Home Run Derby betting preview: Polymarket prices, prediction and best bet
+2026-07-13 14:42:35,903 [DEBUG]   Filtered (not relevant): Dead body left in aisle of L.A. grocery store while customers shopped
+2026-07-13 14:42:35,904 [DEBUG]   Filtered (not relevant): Upstate NY man facing felony charges after allegedly shooting and killing his do
+2026-07-13 14:42:35,904 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: Simple DIY cooling tips for the summer that won’t break the
+2026-07-13 14:42:35,905 [DEBUG]   Filtered (not relevant): A major car dealer plans to switch brands and double its dealership in Clay
+2026-07-13 14:42:35,905 [DEBUG]   Filtered (not relevant): Miss Manners: My pregnant friend was told she shouldn’t have come to event ‘with
+2026-07-13 14:42:35,906 [DEBUG]   Filtered (not relevant): Dear Annie: How do you deal with a boss who is never around - expects everyone e
+2026-07-13 14:42:35,906 [DEBUG]   Filtered (not relevant): Former NFL kicker vows to ‘stand with President Trump’ after getting political e
+2026-07-13 14:42:35,906 [INFO]   Relevant: A second registered sex offender worked at Syracuse’s Department of Public Works
+2026-07-13 14:42:35,906 [DEBUG]     → Departments: Department of Public Works
+2026-07-13 14:42:35,906 [DEBUG]     → Keywords: department of public works
+2026-07-13 14:42:40,049 [INFO]     Saved: CTX-NEWS-2026-00197 → CTX-NEWS-2026-00197.json
+2026-07-13 14:42:40,049 [INFO]   Relevant: Supreme Court ruling cements authoritarian government (Guest Opinion by David M.
+2026-07-13 14:42:40,050 [DEBUG]     → Entities: Syracuse University
+2026-07-13 14:42:40,050 [DEBUG]     → Departments: Law Department
+2026-07-13 14:42:43,949 [INFO]     Saved: CTX-NEWS-2026-00198 → CTX-NEWS-2026-00198.json
+2026-07-13 14:42:43,950 [DEBUG]   Filtered (not relevant): Former Michigan star quarterback, NFL player dies at 89
+2026-07-13 14:42:43,950 [DEBUG]   Filtered (not relevant): 30 beluga whales stuck at closed theme park finally rescued after 2 years
+2026-07-13 14:42:43,951 [DEBUG]   Filtered (not relevant): Dear Annie: Absent boss is phoning it in, but still blames ‘the team’ for droppi
+2026-07-13 14:42:43,951 [DEBUG]   Filtered (not relevant): Amy Holland Buff becomes ninth different big-block modified winner at Brewerton
+2026-07-13 14:42:43,952 [DEBUG]   Filtered (not relevant): $1 million lottery prize unclaimed in New York with deadline approaching
+2026-07-13 14:42:43,952 [DEBUG]   Filtered (not relevant): 27 dead, 25 injured after fire engulfs bar in Bangkok
+2026-07-13 14:42:43,953 [DEBUG]   Filtered (not relevant): Dear Doctor: Same test, same condition, but one checks a different score, and it
+2026-07-13 14:42:43,953 [INFO]   Relevant: NY legislator considers run to lead Onondaga County Democrats. She’s got some id
+2026-07-13 14:42:43,954 [DEBUG]     → Entities: Rachel May
+2026-07-13 14:42:47,187 [INFO]     Saved: CTX-NEWS-2026-00199 → CTX-NEWS-2026-00199.json
+2026-07-13 14:42:47,188 [DEBUG]   Filtered (not relevant): Upstate NY woman arrested for slapping man at drive-thru for taking too long: Po
+2026-07-13 14:42:47,188 [DEBUG]   Filtered (not relevant): Gas station, apartments: See 15 latest business, land sales ($1,969 to $1,844,59
+2026-07-13 14:42:47,188 [DEBUG]   Filtered (not relevant): Sheriff’s deputy charged with rape of 14-year-old (Good Morning CNY)
+2026-07-13 14:42:47,189 [DEBUG]   Filtered (not relevant): Asking Eric: Friend always invites others whenever I invite her out; am I crazy 
+2026-07-13 14:42:47,189 [DEBUG]   Filtered (not relevant): ‘Jurassic Park’ star dead at 78: ‘The loss was sudden and unexpected’
+2026-07-13 14:42:47,189 [DEBUG]   Filtered (not relevant): Former talk show host’s appearance worries fans in new video: ‘Did something hap
+2026-07-13 14:42:47,190 [DEBUG]   Filtered (not relevant): Heat advisory issued for Central NY for Tuesday; heat index values could reach l
+2026-07-13 14:42:47,190 [DEBUG]   Filtered (not relevant): Asking Eric: Niece won’t invite my boyfriend to her wedding, no matter how I ple
+2026-07-13 14:42:47,191 [DEBUG]   Filtered (not relevant): Syracuse Nationals, World Cup Finals: 19 things to do this week in Central NY
+2026-07-13 14:42:47,191 [DEBUG]   Filtered (not relevant): What Kiyan Anthony has to say about summer practices: ‘We preach that every day’
+2026-07-13 14:42:47,192 [DEBUG]   Filtered (not relevant): A top Syracuse school official resigns amid investigation and a mystery: Did she
+2026-07-13 14:42:47,192 [DEBUG]   Filtered (not relevant): Dear Abby: I told fiance several times I didn’t want a dog. He got one anyway
+2026-07-13 14:42:47,193 [DEBUG]   Filtered (not relevant): Dear Abby: Fiance got us a dog against my express wishes, straining our wallets 
+2026-07-13 14:42:47,193 [DEBUG]   Filtered (not relevant): Settlement alert: 5 important claims deadlines ahead, Apple, Land’s End, Lemonad
+2026-07-13 14:42:47,194 [DEBUG]   Filtered (not relevant): Asking Eric: My niece says there’s no room at her wedding for the man I love
+2026-07-13 14:42:47,194 [DEBUG]   Filtered (not relevant): Heat advisory affecting Hudson Valley Tuesday and Wednesday
+2026-07-13 14:42:47,195 [DEBUG]   Filtered (not relevant): Heat advisory for North Country for Tuesday
+2026-07-13 14:42:47,195 [DEBUG]   Filtered (not relevant): Heat advisory in place for Mohawk Valley, Capital Region for Tuesday
+2026-07-13 14:42:47,196 [DEBUG]   Filtered (not relevant): Heat advisory in place for Ulster and Dutchess counties for Tuesday and Wednesda
+2026-07-13 14:42:47,196 [DEBUG]   Filtered (not relevant): Update: Coastal flood statement for Westchester County until 1 a.m. Tuesday
+2026-07-13 14:42:47,198 [INFO] News Scanner Run — 2026-07-13 14:42
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • A second registered sex offender worked at Syracuse’s Department of Public Works
+  • Supreme Court ruling cements authoritarian government (Guest Opinion by David M.
+  • NY legislator considers run to lead Onondaga County Democrats. She’s got some id
+
