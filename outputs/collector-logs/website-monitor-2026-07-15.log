@@ -1,0 +1,24 @@
+2026-07-15 14:07:58,885 [INFO] ============================================================
+2026-07-15 14:07:58,885 [INFO] Website Monitor starting
+2026-07-15 14:08:00,902 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-07-15 14:08:00,902 [INFO]   Navigating to https://www.syr.gov/News
+2026-07-15 14:08:06,078 [INFO]   Found 10 article links in News
+2026-07-15 14:08:11,079 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-07-14-Mayors-Office-News-1130AM
+2026-07-15 14:08:25,520 [INFO]     Saved: CTX-WEB-2026-00161 → CTX-WEB-2026-00161.json
+2026-07-15 14:08:25,520 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-07-15 14:08:25,520 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-07-15 14:08:28,868 [INFO]   Found 0 article links in Announcements
+2026-07-15 14:08:33,868 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-07-15 14:08:33,868 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-07-15 14:08:37,888 [INFO]   Found 0 article links in Public Notices
+2026-07-15 14:08:42,931 [INFO] Website Monitor Run — 2026-07-15 14:08
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • Mayor Owens Announces Adoption of Inaugural Climate Action Plan
+

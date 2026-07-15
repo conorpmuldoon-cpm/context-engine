@@ -1,0 +1,89 @@
+{
+  "record_id": "CTX-WEB-2026-00161",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-07-14-Mayors-Office-News-1130AM",
+  "publication_date": "2026-07-14",
+  "capture_date": "2026-07-15T14:08:25Z",
+  "title": "Mayor Owens Announces Adoption of Inaugural Climate Action Plan",
+  "summary": "Mayor Sharon F. Owens announced adoption of Syracuse's inaugural Climate Action Plan (CAP), a comprehensive strategy addressing energy, transportation, climate adaptation, and natural environment resilience. The plan includes emission reduction targets aligned with New York State climate policy and is supported by three interactive vulnerability maps developed through community partnership and state grant funding.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "initiative-launch",
+    "sustainability",
+    "policy-change",
+    "intergovernmental",
+    "state-agency",
+    "grants",
+    "GIS",
+    "equity",
+    "infrastructure"
+  ],
+  "department_refs": [
+    "Office of Communications",
+    "Mayor's Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Sustainable Syracuse Initiative",
+      "type": "system",
+      "canonical_id": "SYS-SUSTAINABLE-SYRACUSE"
+    },
+    {
+      "name": "New York State Department of Environmental Conservation",
+      "type": "organization",
+      "canonical_id": "ORG-NYSDEC"
+    },
+    {
+      "name": "C&S Companies",
+      "type": "organization",
+      "canonical_id": "ORG-CS-COMPANIES"
+    },
+    {
+      "name": "Prospect Hill",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Environmental Design & Research",
+      "type": "organization",
+      "canonical_id": "ORG-EDR"
+    },
+    {
+      "name": "Syracuse Community Geography program",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor Owens champions climate resiliency as core city priority; positions CAP as foundational governance roadmap; demonstrates state-local partnership alignment on environmental protection mandates.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field listed as 'Unknown' in source metadata; press contact is press@syr.gov",
+    "No budget figures or dollar amounts disclosed in announcement",
+    "Funding sourced from NY State Climate Smart Communities Grant Program (Environmental Protection Fund, Title 15)",
+    "Three interactive mapping tools represent significant GIS/digital services infrastructure output",
+    "Community Geography program participation suggests academic partnership and constituent engagement",
+    "No department head attribution detected; announcement framed from Mayor's Office directly",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
