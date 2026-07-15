@@ -1,0 +1,60 @@
+{
+  "record_id": "CTX-NEWS-2026-00200",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/07/micron-asks-court-to-toss-lawsuit-over-massive-chip-plant-project-in-new-york.html",
+  "publication_date": "2026-07-15",
+  "capture_date": "2026-07-15T13:50:11Z",
+  "title": "Micron asks court to toss lawsuit over massive chip plant project in New York",
+  "summary": "Micron Technology is seeking dismissal of a lawsuit challenging environmental approvals for its major semiconductor manufacturing facility under construction in Clay, NY. This represents ongoing litigation affecting a significant regional economic development project with potential implications for Syracuse's tech sector growth and state-level industrial policy.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "land-use",
+    "permitting",
+    "state-agency",
+    "investigation",
+    "intergovernmental"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Rick Moriarty",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Clay, NY",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Environmental groups mounting legal challenge to major state-supported manufacturing project; litigation signals ongoing stakeholder opposition despite project approval and construction commencement.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article location is Clay (adjacent municipality), not Syracuse proper, but project has regional economic significance",
+    "No dollar amounts mentioned in excerpt; full article may contain investment figures relevant to economic-development tracking",
+    "Environmental opposition suggests equity/sustainability concerns warrant CIO attention for community engagement strategies",
+    "Court filing suggests state-level intergovernmental coordination needed; recommend monitoring litigation status",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

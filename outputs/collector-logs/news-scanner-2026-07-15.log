@@ -1,0 +1,75 @@
+2026-07-15 13:50:06,348 [INFO] ============================================================
+2026-07-15 13:50:06,348 [INFO] News Scanner starting
+2026-07-15 13:50:06,350 [INFO] Fetching: Syracuse.com Politics
+2026-07-15 13:50:06,697 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-15 13:50:06,697 [INFO] Fetching: Syracuse.com Government
+2026-07-15 13:50:06,865 [INFO]   0 new articles from Syracuse.com Government
+2026-07-15 13:50:06,866 [INFO] Fetching: Syracuse.com Local
+2026-07-15 13:50:07,032 [INFO]   0 new articles from Syracuse.com Local
+2026-07-15 13:50:07,032 [INFO] Fetching: Syracuse.com Main
+2026-07-15 13:50:07,213 [INFO]   0 new articles from Syracuse.com Main
+2026-07-15 13:50:07,213 [INFO] Total unique articles across all feeds: 50
+2026-07-15 13:50:07,213 [INFO] New articles (not previously processed): 50
+2026-07-15 13:50:07,267 [DEBUG]   Filtered (not relevant): Air quality alert issued for North Country until early Thursday
+2026-07-15 13:50:07,268 [DEBUG]   Filtered (not relevant): Air quality alert active for Hudson Valley until early Thursday
+2026-07-15 13:50:07,269 [DEBUG]   Filtered (not relevant): Dyson’s most-loved vacuums are seeing a major discount at Walmart this week
+2026-07-15 13:50:07,269 [DEBUG]   Filtered (not relevant): TSA can’t search the contents of your phone at security: Here’s why
+2026-07-15 13:50:07,270 [DEBUG]   Filtered (not relevant): Sons of country music star and NFL great will face off to start high school foot
+2026-07-15 13:50:07,270 [DEBUG]   Filtered (not relevant): England vs. Argentina prediction: Polymarkets prices, plus Bellingham, Kane, Mes
+2026-07-15 13:50:07,271 [DEBUG]   Filtered (not relevant): Mega Millions results for 07/14/26: Did anyone win the $637 million jackpot?
+2026-07-15 13:50:07,271 [DEBUG]   Filtered (not relevant): Dear Annie: My husband is a good man, but I feel painfully alone in our 18-year 
+2026-07-15 13:50:07,272 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: These are the 7 biggest clutter problems; how many are clog
+2026-07-15 13:50:07,272 [DEBUG]   Filtered (not relevant): 49ers wide receiver retires from NFL after 7 seasons
+2026-07-15 13:50:07,272 [DEBUG]   Filtered (not relevant): The mediocrity of Todd Blanche (Guest Opinion by Joseph Fahey)
+2026-07-15 13:50:07,273 [INFO]   Relevant: Micron asks court to toss lawsuit over massive chip plant project in New York
+2026-07-15 13:50:07,273 [DEBUG]     → Entities: Micron Technology
+2026-07-15 13:50:11,512 [INFO]     Saved: CTX-NEWS-2026-00200 → CTX-NEWS-2026-00200.json
+2026-07-15 13:50:11,513 [DEBUG]   Filtered (not relevant): Ex-squeeze me? Florida woman goes ‘ballistic’ over new license plate message
+2026-07-15 13:50:11,514 [DEBUG]   Filtered (not relevant): See 10 NY colleges among top 50 in U.S. for financial aid
+2026-07-15 13:50:11,514 [DEBUG]   Filtered (not relevant): Dear Annie: This is the painful truth about loving someone who was raised withou
+2026-07-15 13:50:11,515 [DEBUG]   Filtered (not relevant): Syracuse’s new downtown fountain is already turned off. When will water flow aga
+2026-07-15 13:50:11,515 [DEBUG]   Filtered (not relevant): Dear Doctor: Doctor recommended red yeast rice to reduce cholesterol; is this a 
+2026-07-15 13:50:11,516 [DEBUG]   Filtered (not relevant): Man hit by truck, killed while fleeing ICE agents during Florida stop
+2026-07-15 13:50:11,516 [DEBUG]   Filtered (not relevant): AmeriCU names Christiana Carruthers small business manager
+2026-07-15 13:50:11,516 [DEBUG]   Filtered (not relevant): NY hits pause on data center boom (Good Morning CNY)
+2026-07-15 13:50:11,517 [DEBUG]   Filtered (not relevant): First Look: CNY didn’t need another pizza-and-wing shop. Then CrisPi opened
+2026-07-15 13:50:11,517 [DEBUG]   Filtered (not relevant): Popular actress, singer causes quite a racket at sporting event with humongous h
+2026-07-15 13:50:11,518 [DEBUG]   Filtered (not relevant): Miss Manners: I was mortified by manners my traveling companion showed in a fore
+2026-07-15 13:50:11,518 [DEBUG]   Filtered (not relevant): New York woman wins $3 million from scratch-off ticket bought at newsstand
+2026-07-15 13:50:11,519 [DEBUG]   Filtered (not relevant): Chicago kitten killer released from prison after 1 day; neighbors warn pet owner
+2026-07-15 13:50:11,519 [DEBUG]   Filtered (not relevant): ‘Jeopardy!’ celebrates 98th birthday of the show’s longest working employee
+2026-07-15 13:50:11,519 [DEBUG]   Filtered (not relevant): Founding member of beloved ’80s band collapses and dies suddenly: ‘Utterly shock
+2026-07-15 13:50:11,520 [DEBUG]   Filtered (not relevant): Country music star shares health revelation at 37: ‘Good news is, I’m autistic’
+2026-07-15 13:50:11,520 [DEBUG]   Filtered (not relevant): Asking Eric: I lived independently with autism for 36 years — but my neighbors m
+2026-07-15 13:50:11,521 [DEBUG]   Filtered (not relevant): Upstate NY could be blanketed by thick smoke for days
+2026-07-15 13:50:11,521 [DEBUG]   Filtered (not relevant): Ambitious plans to remake Syracuse’s public housing keep growing. See the update
+2026-07-15 13:50:11,522 [DEBUG]   Filtered (not relevant): Erin’s Angels founder Sheila Dion on leadership: ‘Love is the most powerful thin
+2026-07-15 13:50:11,522 [DEBUG]   Filtered (not relevant): Cheaper smartphones might become less available soon
+2026-07-15 13:50:11,522 [DEBUG]   Filtered (not relevant): Country music and rock icon dead at 91: ‘Invented a sound’
+2026-07-15 13:50:11,523 [DEBUG]   Filtered (not relevant): Le Moyne is eligible to play in March Madness. Can it afford to compete?
+2026-07-15 13:50:11,523 [DEBUG]   Filtered (not relevant): Is Hulu going away? Here’s what you need to know
+2026-07-15 13:50:11,523 [DEBUG]   Filtered (not relevant): Country music star files for divorce after 10 years: ‘Has not been an easy decis
+2026-07-15 13:50:11,524 [DEBUG]   Filtered (not relevant): Dear Abby: Husband has been cheating on me our entire marriage; does he even lov
+2026-07-15 13:50:11,524 [DEBUG]   Filtered (not relevant): Dear Abby: After 40+ years of marriage, my gut says my husband has been cheating
+2026-07-15 13:50:11,525 [DEBUG]   Filtered (not relevant): Asking Eric: Will cutting 2 relatives out of my will cause a family rift?
+2026-07-15 13:50:11,526 [DEBUG]   Filtered (not relevant): Thunderstorms with pea-sized hail in Essex County Wednesday — gusts up to 40 mph
+2026-07-15 13:50:11,526 [DEBUG]   Filtered (not relevant): Update: Penny-sized hail anticipated with thunderstorms to hit Northern Warren a
+2026-07-15 13:50:11,526 [DEBUG]   Filtered (not relevant): Nickel-sized hail predicted with thunderstorms in Hamilton County Wednesday — wi
+2026-07-15 13:50:11,527 [DEBUG]   Filtered (not relevant): Update: Damaging winds and quarter-sized hail expected with thunderstorms in Was
+2026-07-15 13:50:11,527 [DEBUG]   Filtered (not relevant): Update: Warren and Washington counties under a severe thunderstorm watch until W
+2026-07-15 13:50:11,528 [DEBUG]   Filtered (not relevant): Update: Thunderstorms with damaging winds and quarter-sized hail in Essex County
+2026-07-15 13:50:11,528 [DEBUG]   Filtered (not relevant): Mega Millions numbers: Are you the lucky winner of Tuesday’s $637 million jackpo
+2026-07-15 13:50:11,529 [DEBUG]   Filtered (not relevant): 1 dead, 2 missing after boat sinks near Alcatraz: ‘Right now we are in full resc
+2026-07-15 13:50:11,529 [DEBUG]   Filtered (not relevant): Extended Polymarket invite code “CUSE” updates $50 bonus for the All-Star Game
+2026-07-15 13:50:11,530 [DEBUG]   Filtered (not relevant): Live Mega Millions results for 07/14/26: Jackpot worth $637 million
+2026-07-15 13:50:11,532 [INFO] News Scanner Run — 2026-07-15 13:50
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Micron asks court to toss lawsuit over massive chip plant project in New York
+
