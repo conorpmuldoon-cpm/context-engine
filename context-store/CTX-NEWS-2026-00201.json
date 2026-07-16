@@ -1,0 +1,65 @@
+{
+  "record_id": "CTX-NEWS-2026-00201",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/07/trumps-war-on-dissent-takes-an-ominous-turn-in-syracuse-guest-opinion-by-roy-s-gutterman.html",
+  "publication_date": "2026-07-16",
+  "capture_date": "2026-07-16T14:01:34Z",
+  "title": "Trump’s war on dissent takes an ominous turn in Syracuse (Guest Opinion by Roy S. Gutterman)",
+  "summary": "Opinion piece by Syracuse University professor Roy Gutterman, director of the Tully Center for Free Speech, critiques federal actions against dissent with implications for local civic institutions. The article addresses free speech and civil liberties issues relevant to Syracuse's democratic institutions and community discourse.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:free-speech",
+    "PROVISIONAL:civil-liberties",
+    "advocacy",
+    "transparency"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Roy S. Gutterman",
+      "type": "person",
+      "canonical_id": "PERSON-ROY-GUTTERMAN"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Tully Center for Free Speech",
+      "type": "organization",
+      "canonical_id": "ORG-TULLY-CENTER"
+    },
+    {
+      "name": "Newhouse School",
+      "type": "organization",
+      "canonical_id": "ORG-NEWHOUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Guest opinion criticizing federal policies affecting free speech and dissent; raises civil liberties concerns in Syracuse context.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is opinion/editorial content, not City of Syracuse government news",
+    "Primary relevance is to civic health, institutional relationships, and community discourse rather than direct CIO operational issues",
+    "Author is academic expert in free speech, not municipal official",
+    "No budget, procurement, or IT infrastructure implications detected",
+    "May be relevant for CIO awareness of broader institutional stakeholder communications",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

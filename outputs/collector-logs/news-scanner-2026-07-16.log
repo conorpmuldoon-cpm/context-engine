@@ -1,0 +1,81 @@
+2026-07-16 14:01:28,524 [INFO] ============================================================
+2026-07-16 14:01:28,524 [INFO] News Scanner starting
+2026-07-16 14:01:28,526 [INFO] Fetching: Syracuse.com Politics
+2026-07-16 14:01:29,836 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-16 14:01:29,836 [INFO] Fetching: Syracuse.com Government
+2026-07-16 14:01:30,067 [INFO]   0 new articles from Syracuse.com Government
+2026-07-16 14:01:30,067 [INFO] Fetching: Syracuse.com Local
+2026-07-16 14:01:30,280 [INFO]   0 new articles from Syracuse.com Local
+2026-07-16 14:01:30,280 [INFO] Fetching: Syracuse.com Main
+2026-07-16 14:01:30,525 [INFO]   0 new articles from Syracuse.com Main
+2026-07-16 14:01:30,525 [INFO] Total unique articles across all feeds: 50
+2026-07-16 14:01:30,525 [INFO] New articles (not previously processed): 50
+2026-07-16 14:01:30,582 [DEBUG]   Filtered (not relevant): Miss Manners: Is it bad etiquette to host an outdoor party and ban people from c
+2026-07-16 14:01:30,583 [DEBUG]   Filtered (not relevant): Polymarket extends $50 invite code “CUSE” in NY, PA and TX for MLB, WNBA games o
+2026-07-16 14:01:30,584 [DEBUG]   Filtered (not relevant): Former Dallas Cowboys QB retires at 31, could be headed for NFL coaching positio
+2026-07-16 14:01:30,584 [DEBUG]   Filtered (not relevant): Liberty vs. Wings prediction: Polymarket prices, props for WNBA clash starring B
+2026-07-16 14:01:30,584 [DEBUG]   Filtered (not relevant): Chiefs’ Patrick Mahomes shares health update ahead of 2026 NFL season
+2026-07-16 14:01:30,585 [DEBUG]   Filtered (not relevant): College football player lost scholarship after stepping away from team to deal w
+2026-07-16 14:01:30,585 [DEBUG]   Filtered (not relevant): Lipe Art Park unveils new murals celebrating Syracuse’s heritage on West Side
+2026-07-16 14:01:30,586 [DEBUG]   Filtered (not relevant): Beloved rock frontman killed in crash at 27: ‘World lost a beautiful soul’
+2026-07-16 14:01:30,586 [DEBUG]   Filtered (not relevant): Poker player says masked intruders stole his tournament winnings after Las Vegas
+2026-07-16 14:01:30,587 [DEBUG]   Filtered (not relevant): Dear Annie: It feels like after her divorce, my daughter stopped visiting me. Bu
+2026-07-16 14:01:30,587 [DEBUG]   Filtered (not relevant): Royal Caribbean cancels cruise stops to tropical port through 2027
+2026-07-16 14:01:30,588 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: ‘Money is like manure’ is a saying I live by; hear me out
+2026-07-16 14:01:30,588 [DEBUG]   Filtered (not relevant): Commuter warning: I-481 South in DeWitt to close at 6 p.m. today
+2026-07-16 14:01:30,588 [DEBUG]   Filtered (not relevant): ACC chases corporate sponsors to cut into huge revenue gap between Big Ten and S
+2026-07-16 14:01:30,589 [DEBUG]   Filtered (not relevant): Samsung’s 65-inch Mini LED TV is seeing a rare discount at Walmart this week
+2026-07-16 14:01:30,590 [DEBUG]   Filtered (not relevant): A New York bus company owner orchestrated a check-kiting scheme that stole over 
+2026-07-16 14:01:30,590 [DEBUG]   Filtered (not relevant): Federal prison guard in Upstate NY accused of sexually abusing inmate
+2026-07-16 14:01:30,591 [DEBUG]   Filtered (not relevant): Man stuck under port-a-potty seat rescued from stinky situation
+2026-07-16 14:01:30,591 [DEBUG]   Filtered (not relevant): Dear Annie: Our dads met for the first time, and blew up at each other; now it’s
+2026-07-16 14:01:30,592 [INFO]   Relevant: Trump’s war on dissent takes an ominous turn in Syracuse (Guest Opinion by Roy S
+2026-07-16 14:01:30,592 [DEBUG]     → Entities: Syracuse University
+2026-07-16 14:01:34,917 [WARNING]     Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-07-16 14:01:34,944 [INFO]     Saved: CTX-NEWS-2026-00201 → CTX-NEWS-2026-00201.json
+2026-07-16 14:01:34,945 [DEBUG]   Filtered (not relevant): Company news: Caitlin Wynn appointed to UnitiEast Executive Committee
+2026-07-16 14:01:34,945 [DEBUG]   Filtered (not relevant): Syracuse boat company gets funding to take 600 people on free Erie Canal cruises
+2026-07-16 14:01:34,946 [DEBUG]   Filtered (not relevant): Dear Annie: After painful divorce, daughter casts aside her whole family, and I 
+2026-07-16 14:01:34,946 [DEBUG]   Filtered (not relevant): Powerball results for 07/15/26: $2 million winner sold
+2026-07-16 14:01:34,946 [DEBUG]   Filtered (not relevant): Smoky summer skies could be ‘new normal’ in Upstate NY due to climate change
+2026-07-16 14:01:34,947 [DEBUG]   Filtered (not relevant): Dear Doctor: Brother drank detox solution to deworm his body; now I’m worried I 
+2026-07-16 14:01:34,948 [DEBUG]   Filtered (not relevant): Dining Out Review: Cocktails shine at Jamesville’s Neat Whiskey Bar
+2026-07-16 14:01:34,948 [DEBUG]   Filtered (not relevant): Firefighters rescue pigeon with tiny oxygen mask (see heartwarming video)
+2026-07-16 14:01:34,949 [INFO]   Relevant: Ryan McMahon accidentally signs term limits into law (Good Morning CNY)
+2026-07-16 14:01:34,949 [DEBUG]     → Entities: Ryan McMahon
+2026-07-16 14:01:34,949 [DEBUG]     → Departments: Law Department
+2026-07-16 14:01:39,176 [WARNING]     Tag issue: Unknown tag 'governance' not in taxonomy
+2026-07-16 14:01:39,188 [INFO]     Saved: CTX-NEWS-2026-00202 → CTX-NEWS-2026-00202.json
+2026-07-16 14:01:39,188 [DEBUG]   Filtered (not relevant): Walmart recalls: Return these 3 products ASAP
+2026-07-16 14:01:39,189 [DEBUG]   Filtered (not relevant): Utica-Rome Speedway honors Dale Planck with 77-lap race
+2026-07-16 14:01:39,189 [DEBUG]   Filtered (not relevant): Avoid these foods as explosive diarrhea parasite spreads
+2026-07-16 14:01:39,190 [DEBUG]   Filtered (not relevant): Drunk driver was served 9 drinks before wrong-way crash that killed MA trooper (
+2026-07-16 14:01:39,191 [DEBUG]   Filtered (not relevant): Punk rock group cancels 5 shows as singer 'can’t really talk, walk, play, or sin
+2026-07-16 14:01:39,191 [DEBUG]   Filtered (not relevant): Asking Eric: 70, happily married, and suddenly finding myself crushing on a musi
+2026-07-16 14:01:39,192 [DEBUG]   Filtered (not relevant): Wildfire smoke will blanket Upstate NY again Thursday, but relief is in sight
+2026-07-16 14:01:39,192 [DEBUG]   Filtered (not relevant): CNY Inspirations: The beauty of World Cup fans enjoying America
+2026-07-16 14:01:39,192 [DEBUG]   Filtered (not relevant): Lavish Upstate NY estate of Destiny USA founder sells after $53 million price dr
+2026-07-16 14:01:39,193 [DEBUG]   Filtered (not relevant): Do EV car batteries last long? When to expect to replace them
+2026-07-16 14:01:39,193 [DEBUG]   Filtered (not relevant): 2 in critical condition after shooting in Texas grocery store; gunman arrested
+2026-07-16 14:01:39,194 [DEBUG]   Filtered (not relevant): Popular reality TV show casts expelled congressman George Santos
+2026-07-16 14:01:39,194 [DEBUG]   Filtered (not relevant): Dear Abby: My wife is losing weight and getting more attractive — and developing
+2026-07-16 14:01:39,195 [DEBUG]   Filtered (not relevant): Miss Manners: She wants outdoor party guests inside only to use rest room. Her i
+2026-07-16 14:01:39,195 [DEBUG]   Filtered (not relevant): Dear Abby: Should I have corrected grandson’s friends for running wild at birthd
+2026-07-16 14:01:39,196 [DEBUG]   Filtered (not relevant): Asking Eric: Traveler looking for peace and quiet at the airport ends up finding
+2026-07-16 14:01:39,196 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Wednesday’s $498 million drawing
+2026-07-16 14:01:39,197 [DEBUG]   Filtered (not relevant): Truck hits bridge in Syracuse, peeling roof off trailer
+2026-07-16 14:01:39,197 [DEBUG]   Filtered (not relevant): New $50 Polymarket invite code “CUSE” now available for British Open
+2026-07-16 14:01:39,198 [DEBUG]   Filtered (not relevant): Experts update Mets vs. Phillies predictions after Bo Bichette, Luis Robert, and
+2026-07-16 14:01:39,198 [DEBUG]   Filtered (not relevant): Kalshi primes $10 referral code SYRACUSE for UFC Fight Night on Saturday in CA, 
+2026-07-16 14:01:39,200 [INFO] News Scanner Run — 2026-07-16 14:01
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Trump’s war on dissent takes an ominous turn in Syracuse (Guest Opinion by Roy S
+  • Ryan McMahon accidentally signs term limits into law (Good Morning CNY)
+
