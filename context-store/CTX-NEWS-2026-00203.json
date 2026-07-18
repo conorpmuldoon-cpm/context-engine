@@ -1,0 +1,52 @@
+{
+  "record_id": "CTX-NEWS-2026-00203",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/us-news/2026/07/historic-powerball-winner-linked-to-arkansas-mayor.html",
+  "publication_date": "2026-07-18",
+  "capture_date": "2026-07-18T13:23:37Z",
+  "title": "Why the winner of America’s second-largest Powerball jackpot was forced into the spotlight",
+  "summary": "A $1.82 billion Powerball jackpot winner was publicly identified as Tracy Hartwick following Arkansas's mandatory six-month confidentiality period. The story has minimal direct relevance to Syracuse city operations but reflects broader public interest in transparency laws and identity disclosure policies.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "transparency",
+    "PROVISIONAL:privacy-law"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Tracy Hartwick",
+      "type": "person",
+      "canonical_id": "PERSON-TRACY-HARTWICK"
+    },
+    {
+      "name": "Terry Hartwick",
+      "type": "person",
+      "canonical_id": "PERSON-TERRY-HARTWICK"
+    },
+    {
+      "name": "North Little Rock",
+      "type": "organization",
+      "canonical_id": "ORG-NLR-AR"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is geographically out-of-scope (Arkansas, not Syracuse)",
+    "No Syracuse city departments, services, or operations referenced",
+    "Minimal relevance to CIO portfolio unless flagged for privacy/transparency policy benchmarking",
+    "Extracted dollar amount ($1.82B) refers to lottery jackpot, not municipal budget or revenue",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

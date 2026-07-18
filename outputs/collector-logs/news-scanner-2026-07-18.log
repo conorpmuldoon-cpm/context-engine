@@ -1,0 +1,79 @@
+2026-07-18 13:23:31,645 [INFO] ============================================================
+2026-07-18 13:23:31,645 [INFO] News Scanner starting
+2026-07-18 13:23:31,646 [INFO] Fetching: Syracuse.com Politics
+2026-07-18 13:23:32,721 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-18 13:23:32,722 [INFO] Fetching: Syracuse.com Government
+2026-07-18 13:23:33,063 [INFO]   0 new articles from Syracuse.com Government
+2026-07-18 13:23:33,063 [INFO] Fetching: Syracuse.com Local
+2026-07-18 13:23:33,299 [INFO]   0 new articles from Syracuse.com Local
+2026-07-18 13:23:33,299 [INFO] Fetching: Syracuse.com Main
+2026-07-18 13:23:33,696 [INFO]   0 new articles from Syracuse.com Main
+2026-07-18 13:23:33,696 [INFO] Total unique articles across all feeds: 50
+2026-07-18 13:23:33,697 [INFO] New articles (not previously processed): 50
+2026-07-18 13:23:33,753 [DEBUG]   Filtered (not relevant): France vs. England odds & props: Full Proline+ breakdown for Saturday’s World Cu
+2026-07-18 13:23:33,754 [DEBUG]   Filtered (not relevant): Is ‘Sullivan’s Crossing’ getting a season 5 after cast changes?
+2026-07-18 13:23:33,754 [DEBUG]   Filtered (not relevant): Where to watch NASCAR at North Wilkesboro today: Free live stream
+2026-07-18 13:23:33,754 [DEBUG]   Filtered (not relevant): Dear Annie: Depressed woman considers moving closer to family, but her husband i
+2026-07-18 13:23:33,755 [DEBUG]   Filtered (not relevant): Where to watch The Ville vs. La Familia: TBT basketball free stream
+2026-07-18 13:23:33,755 [INFO]   Relevant: Why the winner of America’s second-largest Powerball jackpot was forced into the
+2026-07-18 13:23:33,756 [DEBUG]     → Departments: Law Department
+2026-07-18 13:23:33,756 [DEBUG]     → Keywords: mayor
+2026-07-18 13:23:37,189 [INFO]     Saved: CTX-NEWS-2026-00203 → CTX-NEWS-2026-00203.json
+2026-07-18 13:23:37,190 [INFO]   Relevant: A key intersection near Micron project is getting urgent upgrades
+2026-07-18 13:23:37,190 [DEBUG]     → Entities: Micron Technology
+2026-07-18 13:23:41,002 [INFO]     Saved: CTX-NEWS-2026-00204 → CTX-NEWS-2026-00204.json
+2026-07-18 13:23:41,003 [DEBUG]   Filtered (not relevant): What travelers need to know about TSA facial recognition
+2026-07-18 13:23:41,003 [DEBUG]   Filtered (not relevant): Asking Eric: Struggling single mom takes in a relative to save her home — then h
+2026-07-18 13:23:41,004 [DEBUG]   Filtered (not relevant): Rock icon planning to retire at end of 2026: ‘I wanna go out with a bang’
+2026-07-18 13:23:41,004 [DEBUG]   Filtered (not relevant): Trump warns Canada of new tariffs as wildfire smoke continues drifting into the 
+2026-07-18 13:23:41,005 [DEBUG]   Filtered (not relevant): Owner of cupcake vending machine targeted in bombing: ‘It was literally unbeliev
+2026-07-18 13:23:41,005 [DEBUG]   Filtered (not relevant): Pioneering rock star dead at 69 after cancer relapse. Here’s what we know
+2026-07-18 13:23:41,006 [DEBUG]   Filtered (not relevant): Rapper, reality star arrested at World Cup match
+2026-07-18 13:23:41,006 [DEBUG]   Filtered (not relevant): Young musician dead at 23: His body was just discovered a year after he went mis
+2026-07-18 13:23:41,007 [DEBUG]   Filtered (not relevant): Severe storms, wildfire smoke likely in Upstate NY today
+2026-07-18 13:23:41,007 [DEBUG]   Filtered (not relevant): Reality star reportedly feels more betrayed by longtime friend than estranged hu
+2026-07-18 13:23:41,007 [DEBUG]   Filtered (not relevant): ’80s pop band reveals founding member died suddenly at 63: ‘Shocked and saddened
+2026-07-18 13:23:41,008 [DEBUG]   Filtered (not relevant): Daylight saving time: Here’s why it might change
+2026-07-18 13:23:41,008 [DEBUG]   Filtered (not relevant): Dear Abby: I was secretly excluded from my father’s burial, and I think my mothe
+2026-07-18 13:23:41,009 [DEBUG]   Filtered (not relevant): Country music and rock world mourn after legend dies at 91: ‘Invented a sound’
+2026-07-18 13:23:41,009 [DEBUG]   Filtered (not relevant): Dear Abby: I turned down a bridal shower; now I feel forgotten by my closest fri
+2026-07-18 13:23:41,010 [DEBUG]   Filtered (not relevant): Beloved rock frontman dead at 27 after motorcycle crash: ‘Lost a beautiful soul’
+2026-07-18 13:23:41,010 [DEBUG]   Filtered (not relevant): Dear Abby: I lent my friend an expensive sweater. She ruined it. Who’s at fault?
+2026-07-18 13:23:41,011 [DEBUG]   Filtered (not relevant): Miss Manners: Is there such a thing as office doughnut etiquette? Hmmm, doughnut
+2026-07-18 13:23:41,011 [DEBUG]   Filtered (not relevant): Asking Eric: Cousin’s creepy prediction about my health sours our current living
+2026-07-18 13:23:41,012 [DEBUG]   Filtered (not relevant): Beach hazards statement for Erie and Chautauqua counties until Saturday night
+2026-07-18 13:23:41,012 [DEBUG]   Filtered (not relevant): Mega Millions numbers: Are you the lucky winner of Friday’s $672 million jackpot
+2026-07-18 13:23:41,013 [DEBUG]   Filtered (not relevant): Family, friends hold vigil for 17-year-old fatally stabbed in Washington Square 
+2026-07-18 13:23:41,013 [DEBUG]   Filtered (not relevant): New $50 Polymarket invite code upgrades referral bonus for Mets, Phillies MLB to
+2026-07-18 13:23:41,014 [DEBUG]   Filtered (not relevant): Experts update France vs. England predictions after William Saliba injury news
+2026-07-18 13:23:41,014 [DEBUG]   Filtered (not relevant): Air quality alert issued for Mohawk Valley, Capital Region until early Saturday
+2026-07-18 13:23:41,015 [DEBUG]   Filtered (not relevant): Tom Brady slaps WWE star at Fanatics Fest after heated argument: ‘I tried Americ
+2026-07-18 13:23:41,015 [DEBUG]   Filtered (not relevant): Live Mega Millions results for 07/17/26: $672 million jackpot on the line
+2026-07-18 13:23:41,016 [DEBUG]   Filtered (not relevant): Kalshi Drops $10 Referral Code SYRACUSE Ahead of Spain vs. Argentina World Cup F
+2026-07-18 13:23:41,016 [DEBUG]   Filtered (not relevant): $50 Polymarket referral code “CUSE” updated for MLB games, Dodgers-Yankees serie
+2026-07-18 13:23:41,016 [DEBUG]   Filtered (not relevant): Army establishes new psychological warfare unit named after African bird
+2026-07-18 13:23:41,017 [DEBUG]   Filtered (not relevant): Jerry Rice heard one shout, then walked straight toward the crowd
+2026-07-18 13:23:41,018 [DEBUG]   Filtered (not relevant): Al Roker speaks out after Today show intruder targeted NBC studio
+2026-07-18 13:23:41,018 [DEBUG]   Filtered (not relevant): Yes, they thawed that bird in Syracuse today. Yes, it was weird
+2026-07-18 13:23:41,019 [DEBUG]   Filtered (not relevant): Kansas City firefighters rescue man trapped inside porta-potty after bizarre ord
+2026-07-18 13:23:41,019 [DEBUG]   Filtered (not relevant): NBC ‘Dateline’ revisits Caneiro family murders tonight: How to watch ‘Slow Burn’
+2026-07-18 13:23:41,020 [DEBUG]   Filtered (not relevant): Relatives say ICE officer in fatal Maine shooting had history of violence
+2026-07-18 13:23:41,020 [DEBUG]   Filtered (not relevant): Taylor Farms pulls lettuce after cyclospora outbreak
+2026-07-18 13:23:41,021 [DEBUG]   Filtered (not relevant): Ohio customer files lawsuit after Taco Bell meals during parasite outbreak
+2026-07-18 13:23:41,021 [DEBUG]   Filtered (not relevant): 8 dead, 34 missing in China landslide
+2026-07-18 13:23:41,022 [DEBUG]   Filtered (not relevant): Where to watch WWE SmackDown! before Saturday Night’s Main Event
+2026-07-18 13:23:41,022 [DEBUG]   Filtered (not relevant): Where to watch Nashville vs. Atlanta United today: MLS free live stream
+2026-07-18 13:23:41,023 [DEBUG]   Filtered (not relevant): Mexico, Central American countries rattled by powerful earthquake
+2026-07-18 13:23:41,023 [DEBUG]   Filtered (not relevant): 3 main defense firms secure $140 million aircraft contracts from Pentagon
+2026-07-18 13:23:41,025 [INFO] News Scanner Run — 2026-07-18 13:23
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Why the winner of America’s second-largest Powerball jackpot was forced into the
+  • A key intersection near Micron project is getting urgent upgrades
+
