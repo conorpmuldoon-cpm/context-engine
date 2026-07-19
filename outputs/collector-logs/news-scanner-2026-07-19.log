@@ -1,0 +1,81 @@
+2026-07-19 13:25:06,983 [INFO] ============================================================
+2026-07-19 13:25:06,983 [INFO] News Scanner starting
+2026-07-19 13:25:06,985 [INFO] Fetching: Syracuse.com Politics
+2026-07-19 13:25:07,470 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-19 13:25:07,470 [INFO] Fetching: Syracuse.com Government
+2026-07-19 13:25:07,616 [INFO]   0 new articles from Syracuse.com Government
+2026-07-19 13:25:07,617 [INFO] Fetching: Syracuse.com Local
+2026-07-19 13:25:07,764 [INFO]   0 new articles from Syracuse.com Local
+2026-07-19 13:25:07,764 [INFO] Fetching: Syracuse.com Main
+2026-07-19 13:25:07,901 [INFO]   0 new articles from Syracuse.com Main
+2026-07-19 13:25:07,901 [INFO] Total unique articles across all feeds: 50
+2026-07-19 13:25:07,901 [INFO] New articles (not previously processed): 50
+2026-07-19 13:25:07,959 [DEBUG]   Filtered (not relevant): Experts adjust Argentina vs. Spain prediction after crucial Messi and Yamal Worl
+2026-07-19 13:25:07,960 [DEBUG]   Filtered (not relevant): Experts release World Cup Final predictions: Lamine Yamal leads favorites Spain 
+2026-07-19 13:25:07,960 [INFO]   Relevant: Columbus reviews officer’s Flock license plate searches tied to ‘ICE’ entry
+2026-07-19 13:25:07,961 [DEBUG]     → Keywords: city officials
+2026-07-19 13:25:11,951 [INFO]     Saved: CTX-NEWS-2026-00205 → CTX-NEWS-2026-00205.json
+2026-07-19 13:25:11,952 [DEBUG]   Filtered (not relevant): CNY youth participate in inaugural fire and EMS training weekend
+2026-07-19 13:25:11,952 [DEBUG]   Filtered (not relevant): Powerball results for 07/18/26: $1 million winners sold in 2 states
+2026-07-19 13:25:11,952 [DEBUG]   Filtered (not relevant): World Cup 2026: Here’s how much the second-place team will make
+2026-07-19 13:25:11,953 [DEBUG]   Filtered (not relevant): Arizona couple’s emergency delivery in casino parking lot ends with healthy baby
+2026-07-19 13:25:11,954 [DEBUG]   Filtered (not relevant): Police search for suspects after four people shot outside Newark Waffle House
+2026-07-19 13:25:11,954 [DEBUG]   Filtered (not relevant): Cayuga County real estate: See all residential properties sold, July 6-12
+2026-07-19 13:25:11,955 [DEBUG]   Filtered (not relevant): How much do teams make for winning the World Cup? The payout will surprise you
+2026-07-19 13:25:11,955 [DEBUG]   Filtered (not relevant): Beloved musician dies at 17 in Nashville, police investigating
+2026-07-19 13:25:11,955 [DEBUG]   Filtered (not relevant): Editorial cartoons for July 19, 2026: Iran war restarts, ICE fatal shootings, Tr
+2026-07-19 13:25:11,956 [DEBUG]   Filtered (not relevant): What time does World Cup final start?
+2026-07-19 13:25:11,956 [DEBUG]   Filtered (not relevant): What TV channel is the World Cup on today?
+2026-07-19 13:25:11,956 [DEBUG]   Filtered (not relevant): World Cup: List of halftime show, closing ceremony performers
+2026-07-19 13:25:11,957 [INFO]   Relevant: New SU basketball coach buys former AD’s house: Plus 130 more Onondaga County ho
+2026-07-19 13:25:11,957 [DEBUG]     → Entities: Syracuse University
+2026-07-19 13:25:15,578 [INFO]     Saved: CTX-NEWS-2026-00206 → CTX-NEWS-2026-00206.json
+2026-07-19 13:25:15,579 [INFO]   Relevant: Was Syracuse school official living in Maryland? Wouldn’t we all like to know (E
+2026-07-19 13:25:15,579 [DEBUG]     → Entities: Syracuse City School District
+2026-07-19 13:25:19,133 [INFO]     Saved: CTX-NEWS-2026-00207 → CTX-NEWS-2026-00207.json
+2026-07-19 13:25:19,134 [DEBUG]   Filtered (not relevant): Top Syracuse school official resigns amid investigation (Top stories)
+2026-07-19 13:25:19,134 [DEBUG]   Filtered (not relevant): Rock star dies just days after aggressive brain cancer news, leaving fans devast
+2026-07-19 13:25:19,134 [DEBUG]   Filtered (not relevant): Dear Annie: How do I cope with the loss of trees I’ve loved for years?
+2026-07-19 13:25:19,135 [DEBUG]   Filtered (not relevant): Central NY weather: Cooler temperatures on Sunday; wind will push smoke out of r
+2026-07-19 13:25:19,135 [DEBUG]   Filtered (not relevant): World Cup 2026: When is last time team won back-to-back titles?
+2026-07-19 13:25:19,136 [DEBUG]   Filtered (not relevant): Asking Eric: What to say when your friend just lost a baby and you’re newly preg
+2026-07-19 13:25:19,136 [DEBUG]   Filtered (not relevant): CNY Inspirations: There will be splinters
+2026-07-19 13:25:19,137 [DEBUG]   Filtered (not relevant): Where to watch F1 Belgium Grand Prix today: Free live stream
+2026-07-19 13:25:19,137 [DEBUG]   Filtered (not relevant): Disney’s $50M settlement pays out to YouTubeTV, DirecTV subscribers
+2026-07-19 13:25:19,137 [DEBUG]   Filtered (not relevant): Hollywood lost some of its most beloved stars this week. Here’s who fans said go
+2026-07-19 13:25:19,138 [DEBUG]   Filtered (not relevant): As the U.S. moves closer to permanent daylight saving time, experts call for sta
+2026-07-19 13:25:19,138 [DEBUG]   Filtered (not relevant): What the ‘Language Access for All Act’ means for non-English speakers
+2026-07-19 13:25:19,138 [DEBUG]   Filtered (not relevant): Nearly 20 Apple products are set to become obsolete soon
+2026-07-19 13:25:19,139 [DEBUG]   Filtered (not relevant): Rock frontman and wife divorce weeks after he comes out as gay
+2026-07-19 13:25:19,139 [DEBUG]   Filtered (not relevant): Country and rock music star plans to retire in 2 years: ‘Been really looking at 
+2026-07-19 13:25:19,139 [DEBUG]   Filtered (not relevant): Country music world rocked after Nashville legend dies following performance at 
+2026-07-19 13:25:19,140 [DEBUG]   Filtered (not relevant): Dear Abby: I asked my wife if she wants a divorce, but she just says ‘I don’t kn
+2026-07-19 13:25:19,140 [DEBUG]   Filtered (not relevant): Syracuse Mets score season-high 15 runs in victory over Buffalo
+2026-07-19 13:25:19,141 [DEBUG]   Filtered (not relevant): Asking Eric: Friend treads lightly when sharing baby news with couple who recent
+2026-07-19 13:25:19,141 [DEBUG]   Filtered (not relevant): Air quality alert issued for Herkimer County until early Monday
+2026-07-19 13:25:19,141 [DEBUG]   Filtered (not relevant): Rock star dies at 59 days after revealing aggressive brain cancer: ‘We are devas
+2026-07-19 13:25:19,142 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Saturday’s $526 million drawing
+2026-07-19 13:25:19,142 [DEBUG]   Filtered (not relevant): Latest on gulf disturbance Invest 91 developing
+2026-07-19 13:25:19,143 [DEBUG]   Filtered (not relevant): GOP candidate for governor Blakeman says data centers are the future, criticizes
+2026-07-19 13:25:19,143 [DEBUG]   Filtered (not relevant): $50 Polymarket referral code “CUSE” increased for World Cup: Golden Boot Winner 
+2026-07-19 13:25:19,144 [DEBUG]   Filtered (not relevant): Fast-food restaurant adds 2 breakfast items to the menu
+2026-07-19 13:25:19,144 [DEBUG]   Filtered (not relevant): Update: Flash flood warning affecting Westchester County until Saturday night tr
+2026-07-19 13:25:19,146 [DEBUG]   Filtered (not relevant): Air quality alert in place for North Country until early Sunday
+2026-07-19 13:25:19,146 [DEBUG]   Filtered (not relevant): $50 Polymarket referral code “CUSE” prepped for Spain vs. Argentina World Cup Fi
+2026-07-19 13:25:19,146 [DEBUG]   Filtered (not relevant): What TV channel will the 2026 World Cup final be on?
+2026-07-19 13:25:19,147 [DEBUG]   Filtered (not relevant): Update: Severe thunderstorm warning for Ulster County likely to expire at 8 p.m.
+2026-07-19 13:25:19,147 [DEBUG]   Filtered (not relevant): Update: Tornado warning for Delaware and Sullivan counties forecast to expire at
+2026-07-19 13:25:19,148 [DEBUG]   Filtered (not relevant): How to watch Dodgers vs. Yankees today: MLB free live stream
+2026-07-19 13:25:19,149 [INFO] News Scanner Run — 2026-07-19 13:25
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • Columbus reviews officer’s Flock license plate searches tied to ‘ICE’ entry
+  • New SU basketball coach buys former AD’s house: Plus 130 more Onondaga County ho
+  • Was Syracuse school official living in Maryland? Wouldn’t we all like to know (E
+

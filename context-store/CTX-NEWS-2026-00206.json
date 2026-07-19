@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00206",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/realestate-news/2026/07/new-su-basketball-coach-buys-former-ads-house-plus-130-more-onondaga-county-home-sales.html",
+  "publication_date": "2026-07-19",
+  "capture_date": "2026-07-19T13:25:15Z",
+  "title": "New SU basketball coach buys former AD’s house: Plus 130 more Onondaga County home sales",
+  "summary": "Real estate transaction report covering 131 Onondaga County home sales (July 5-11, 2026). Notable sale: incoming Syracuse University basketball coach Gerry McNamara purchased a Jamesville home from former SU Athletic Director John Wildhack. Limited relevance to city innovation operations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "business-community",
+    "one-time"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Gerry McNamara",
+      "type": "person",
+      "canonical_id": "PERSON-GERRY-MCNAMARA"
+    },
+    {
+      "name": "John Wildhack",
+      "type": "person",
+      "canonical_id": "PERSON-JOHN-WILDHACK"
+    },
+    {
+      "name": "Onondaga County Clerk's Office",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY-CLERK"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily real estate market reporting with minimal civic innovation relevance",
+    "No budget, procurement, or policy implications identified",
+    "SU is local anchor institution but this transaction is private real estate activity",
+    "No dollar amount specified in article content",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

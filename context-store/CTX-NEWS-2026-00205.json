@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-NEWS-2026-00205",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/us-news/2026/07/ohio-audit-flags-unusual-police-database-searches.html",
+  "publication_date": "2026-07-19",
+  "capture_date": "2026-07-19T13:25:11Z",
+  "title": "Columbus reviews officer’s Flock license plate searches tied to ‘ICE’ entry",
+  "summary": "Columbus Police Department is under internal review for officer conduct involving Flock Safety license plate reader searches marked as 'ICE' enforcement in February 2025. An audit flagged unusual search patterns, prompting examination of compliance with department policies and the city's restrictions on assisting with civil immigration enforcement.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "audit",
+    "investigation",
+    "data-governance",
+    "policy-change",
+    "transparency",
+    "cybersecurity"
+  ],
+  "department_refs": [
+    "Columbus Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Flock Safety",
+      "type": "system",
+      "canonical_id": "SYS-FLOCK-SAFETY"
+    },
+    {
+      "name": "Columbus Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-CPD"
+    },
+    {
+      "name": "Chris Pugh",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Audit findings regarding potential policy violations in use of surveillance technology and immigration enforcement restrictions indicate administrative oversight and accountability mechanisms are active.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is Ohio-based (Columbus), not Syracuse-specific; included for CIO awareness of technology governance patterns and audit findings relevant to similar license plate reader systems",
+    "Highlights potential risks in database access control and audit trails for surveillance systems",
+    "No financial impact or budget implications mentioned",
+    "Investigation status ongoing; outcome pending internal review",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,53 @@
+{
+  "record_id": "CTX-NEWS-2026-00207",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/07/was-syracuse-school-official-living-in-maryland-wouldnt-we-all-like-to-know-editorial-board-opinion.html",
+  "publication_date": "2026-07-19",
+  "capture_date": "2026-07-19T13:25:19Z",
+  "title": "Was Syracuse school official living in Maryland? Wouldn’t we all like to know (Editorial Board Opinion)",
+  "summary": "Editorial opinion piece criticizing Syracuse City School District for hiring an under-qualified, highly-paid administrator lacking proper credentials who may have resided out-of-state while employed. The piece raises accountability concerns regarding hiring practices and fiscal responsibility to parents and taxpayers.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "investigation",
+    "hiring",
+    "leadership-change",
+    "transparency",
+    "escalating",
+    "complaint"
+  ],
+  "department_refs": [
+    "Syracuse City School District"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse City School District",
+      "type": "organization",
+      "canonical_id": "ORG-SCSD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Editorial board applying public pressure on school district regarding hiring practices, qualifications verification, and residency compliance. Signals demand for transparency and accountability in personnel decisions.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is opinion/editorial rather than news report—reflects institutional editorial stance",
+    "No specific administrator name mentioned in excerpt provided",
+    "No dollar amounts specified despite reference to 'highly paid'",
+    "Residency compliance issue may intersect with civil-service rules or employment contracts",
+    "School district is outside direct CIO purview but relevant to broader city governance accountability",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
