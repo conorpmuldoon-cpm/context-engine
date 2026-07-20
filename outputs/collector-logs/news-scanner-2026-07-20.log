@@ -1,0 +1,78 @@
+2026-07-20 14:13:47,763 [INFO] ============================================================
+2026-07-20 14:13:47,763 [INFO] News Scanner starting
+2026-07-20 14:13:47,765 [INFO] Fetching: Syracuse.com Politics
+2026-07-20 14:13:48,109 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-20 14:13:48,109 [INFO] Fetching: Syracuse.com Government
+2026-07-20 14:13:48,311 [INFO]   0 new articles from Syracuse.com Government
+2026-07-20 14:13:48,311 [INFO] Fetching: Syracuse.com Local
+2026-07-20 14:13:48,465 [INFO]   0 new articles from Syracuse.com Local
+2026-07-20 14:13:48,465 [INFO] Fetching: Syracuse.com Main
+2026-07-20 14:13:48,638 [INFO]   0 new articles from Syracuse.com Main
+2026-07-20 14:13:48,639 [INFO] Total unique articles across all feeds: 50
+2026-07-20 14:13:48,639 [INFO] New articles (not previously processed): 50
+2026-07-20 14:13:48,692 [DEBUG]   Filtered (not relevant): Miss Manners: I am an American, and you other countries should take me as I am a
+2026-07-20 14:13:48,693 [DEBUG]   Filtered (not relevant): What’s the average Social Security benefit at every age?
+2026-07-20 14:13:48,693 [DEBUG]   Filtered (not relevant): Gas prices hit $4 again and drivers across America are feeling the painful squee
+2026-07-20 14:13:48,694 [DEBUG]   Filtered (not relevant): A deadly Ebola crisis is accelerating — and health workers face mounting obstacl
+2026-07-20 14:13:48,694 [DEBUG]   Filtered (not relevant): Florida woman, 28, claims HOA is forcing her out of inherited home in 55+ commun
+2026-07-20 14:13:48,695 [DEBUG]   Filtered (not relevant): Polymarket launches $50 invite code “CUSE” in NY, WI and PA for Mets-Brewers, Ya
+2026-07-20 14:13:48,696 [DEBUG]   Filtered (not relevant): The host of Syracuse’s epic Bird Thaw gets a ticket and a memory
+2026-07-20 14:13:48,696 [DEBUG]   Filtered (not relevant): Walmart is having a major discount on the Dyson V8 Absolute Vacuum - Now $300
+2026-07-20 14:13:48,697 [DEBUG]   Filtered (not relevant): Newman & Lickstein hires R. Christopher Corona in Syracuse
+2026-07-20 14:13:48,697 [DEBUG]   Filtered (not relevant): Mets vs. Brewers prediction: Polymarket prices, the Miz props and best bet for M
+2026-07-20 14:13:48,698 [DEBUG]   Filtered (not relevant): Fran Brown isn’t sure tampering can be reined in: ‘There’s still crime in Americ
+2026-07-20 14:13:48,698 [DEBUG]   Filtered (not relevant): Blue Jays 2-time World Series champ dies at 62
+2026-07-20 14:13:48,698 [DEBUG]   Filtered (not relevant): New PM Andy Burnham: Britain must ‘regain our stability’
+2026-07-20 14:13:48,699 [DEBUG]   Filtered (not relevant): Meet syracuse.com’s 2026 All-CNY large school boys lacrosse team
+2026-07-20 14:13:48,699 [DEBUG]   Filtered (not relevant): Everyday Cheapskate: Lower your cooling costs this summer without touching the t
+2026-07-20 14:13:48,699 [INFO]   Relevant: Centro delays major bus route overhauls, will address concerns raised by riders
+2026-07-20 14:13:48,699 [DEBUG]     → Entities: Centro
+2026-07-20 14:13:53,283 [INFO]     Saved: CTX-NEWS-2026-00208 → CTX-NEWS-2026-00208.json
+2026-07-20 14:13:53,284 [DEBUG]   Filtered (not relevant): Edwin Hoefler, Jessica Farley join FustCharles in Syracuse
+2026-07-20 14:13:53,284 [DEBUG]   Filtered (not relevant): Costco brings back meal that tastes like ‘an expensive Italian restaurant’
+2026-07-20 14:13:53,284 [DEBUG]   Filtered (not relevant): ‘King of the Hill’ Season 15 premieres today: How to watch for free
+2026-07-20 14:13:53,285 [DEBUG]   Filtered (not relevant): Two displaced by early morning fire in Van Buren
+2026-07-20 14:13:53,285 [DEBUG]   Filtered (not relevant): Average home sale price in Syracuse passes $200,000 for first time
+2026-07-20 14:13:53,285 [DEBUG]   Filtered (not relevant): R&B and soul music icon dies at 79: ‘A legendary voice’
+2026-07-20 14:13:53,286 [DEBUG]   Filtered (not relevant): Dear Annie: I cook nonstop and barely get a thank-you; sister shows up late and 
+2026-07-20 14:13:53,286 [INFO]   Relevant: Le Moyne College agrees to pay students for online instruction during spring 202
+2026-07-20 14:13:53,286 [DEBUG]     → Entities: Le Moyne College
+2026-07-20 14:13:57,594 [INFO]     Saved: CTX-NEWS-2026-00209 → CTX-NEWS-2026-00209.json
+2026-07-20 14:13:57,595 [DEBUG]   Filtered (not relevant): After nearly 100 years in business, an Upstate NY menswear store is closing its 
+2026-07-20 14:13:57,595 [DEBUG]   Filtered (not relevant): Daughter only survivor after family of 5 dead in Utah flash flood
+2026-07-20 14:13:57,596 [DEBUG]   Filtered (not relevant): Tipster charged with murder after making anonymous call for 1993 death in Alaska
+2026-07-20 14:13:57,596 [DEBUG]   Filtered (not relevant): One inmate is dead, another injured after multi-person fight at Upstate NY priso
+2026-07-20 14:13:57,597 [DEBUG]   Filtered (not relevant): Dear Doctor: Can nicotine patches really help treat memory loss with age?
+2026-07-20 14:13:57,597 [DEBUG]   Filtered (not relevant): Search continues for swimmer who went missing in Canandaigua Lake after jumping 
+2026-07-20 14:13:57,598 [DEBUG]   Filtered (not relevant): Friesen and Williamson win Utica-Rome feature races
+2026-07-20 14:13:57,598 [DEBUG]   Filtered (not relevant): Boy, 13, dead in Spain after World Cup celebration
+2026-07-20 14:13:57,598 [DEBUG]   Filtered (not relevant): Mining, water treatment, vacant industrial: See 37 latest business, apartment, l
+2026-07-20 14:13:57,599 [DEBUG]   Filtered (not relevant): Some Social Security recipients won’t get a payment in August
+2026-07-20 14:13:57,599 [DEBUG]   Filtered (not relevant): Dear Annie: How do I stop being family’s ‘reliable one’ without looking selfish?
+2026-07-20 14:13:57,600 [DEBUG]   Filtered (not relevant): Man accused of destroying Flock cameras goes viral: ‘Couldn’t be him’
+2026-07-20 14:13:57,600 [DEBUG]   Filtered (not relevant): The unexpected aftermath of a vending machine bombing (Good Morning CNY)
+2026-07-20 14:13:57,601 [DEBUG]   Filtered (not relevant): Wrestling star rips fan’s Charlie Kirk joke: ‘What the (expletive) is wrong with
+2026-07-20 14:13:57,601 [DEBUG]   Filtered (not relevant): Central NY weather: A pleasant Monday before possible severe thunderstorms on Tu
+2026-07-20 14:13:57,601 [DEBUG]   Filtered (not relevant): Syracuse Arts & Crafts Festival, Ukrainian Festival, Harborfest: 28 things to do
+2026-07-20 14:13:57,602 [DEBUG]   Filtered (not relevant): WWE star Roman Reigns opens up about retirement plans: ‘We’ll see’
+2026-07-20 14:13:57,602 [DEBUG]   Filtered (not relevant): DEC police rescue bald eagle, fawn, and six baby opossums
+2026-07-20 14:13:57,603 [DEBUG]   Filtered (not relevant): Is $262 million enough to convince these two Central NY school districts to merg
+2026-07-20 14:13:57,603 [DEBUG]   Filtered (not relevant): Miss Manners: What’s the proper way to celebrate my boyfriend’s performance?
+2026-07-20 14:13:57,603 [DEBUG]   Filtered (not relevant): Dear Abby: Why is my husband badgering me to visit grandkids that aren’t mine?
+2026-07-20 14:13:57,604 [DEBUG]   Filtered (not relevant): People mostly want cheaper streaming services, research shows
+2026-07-20 14:13:57,604 [DEBUG]   Filtered (not relevant): Asking Eric: My mom refuses assisted living, but our history keeps me from givin
+2026-07-20 14:13:57,604 [DEBUG]   Filtered (not relevant): Cyclospora finding for Taylor Farms lettuce was false positive, agency says: ‘FD
+2026-07-20 14:13:57,605 [DEBUG]   Filtered (not relevant): New $10 Kalshi referral code “SYRACUSE” extended in CA and NY for Yankees vs. Do
+2026-07-20 14:13:57,606 [DEBUG]   Filtered (not relevant): Polymarket invite code “CUSE” extends $50 bonus to Sunday Night Baseball from Wo
+2026-07-20 14:13:57,608 [INFO] News Scanner Run — 2026-07-20 14:13
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Centro delays major bus route overhauls, will address concerns raised by riders
+  • Le Moyne College agrees to pay students for online instruction during spring 202
+

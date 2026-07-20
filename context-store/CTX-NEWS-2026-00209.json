@@ -1,0 +1,47 @@
+{
+  "record_id": "CTX-NEWS-2026-00209",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/schools/2026/07/le-moyne-college-agrees-to-pay-students-for-online-instruction-during-spring-2020.html",
+  "publication_date": "2026-07-20",
+  "capture_date": "2026-07-20T14:13:57Z",
+  "title": "Le Moyne College agrees to pay students for online instruction during spring 2020",
+  "summary": "Le Moyne College, a private higher education institution in Syracuse, has agreed to provide financial compensation to students who experienced disrupted campus life due to spring 2020 COVID-19 pandemic closures and transition to online instruction. This settlement may have implications for local workforce development and community-business relations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "business-community",
+    "equity",
+    "one-time"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Le Moyne College",
+      "type": "organization",
+      "canonical_id": "ORG-LEMOYNE-COLLEGE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Institutional response to student equity concerns regarding pandemic service disruptions reflects alignment with broader civic equity and constituent support priorities.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date (2026-07-20) is inconsistent with spring 2020 event reference; likely data entry error in source",
+    "No dollar amount specified in provided excerpt despite financial settlement being primary news element",
+    "No direct City of Syracuse government involvement detected; relevance is community/economic development context only",
+    "Article authored by Emalyn Muzzy via syracuse.com (local news source)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-NEWS-2026-00208",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/07/centro-delays-major-bus-route-overhauls-will-address-concerns-raised-by-riders.html",
+  "publication_date": "2026-07-20",
+  "capture_date": "2026-07-20T14:13:53Z",
+  "title": "Centro delays major bus route overhauls, will address concerns raised by riders",
+  "summary": "Centro transit authority has delayed major bus route overhauls originally scheduled for early 2027, citing a need to address concerns raised by riders. The delay represents a shift in implementation timeline for what was announced as a significant service redesign.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "transportation",
+    "announcement",
+    "policy-change",
+    "constituent-complaints",
+    "PROVISIONAL:public-transit"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Centro",
+      "type": "organization",
+      "canonical_id": "ORG-CENTRO"
+    },
+    {
+      "name": "Vince Gasparini",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Rider concerns have prompted Centro to delay implementation of major service changes, suggesting effective constituent engagement or potential public opposition to the proposed route modifications.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content truncated; full analysis limited by incomplete article text",
+    "Centro is a regional transit authority, not a City of Syracuse department; included for transportation infrastructure relevance to CIO",
+    "No specific digital transformation, IT systems, or innovation initiatives mentioned in available excerpt",
+    "Date is future-dated (2026-07-20); verify article currency",
+    "Recommend full article review for service change details that may impact city digital/data infrastructure",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
