@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2026-00210",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/07/share-your-ideas-about-east-adams-redevelopment-at-upcoming-syracuse-planning-meeting.html",
+  "publication_date": "2026-07-21",
+  "capture_date": "2026-07-21T14:01:03Z",
+  "title": "Share your ideas about East Adams redevelopment at upcoming Syracuse planning meeting",
+  "summary": "The Syracuse Planning Commission is hosting a public meeting on Monday at 6 p.m. to gather community input on the East Adams neighborhood redevelopment project. This represents a transparent community engagement opportunity for a significant land-use initiative in the city.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "land-use",
+    "neighborhood-services",
+    "residents",
+    "zoning",
+    "economic-development",
+    "transparency"
+  ],
+  "department_refs": [
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Planning Commission",
+      "type": "organization",
+      "canonical_id": "ORG-SPC"
+    },
+    {
+      "name": "East Adams",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Public meeting announcement signals openness to community input on neighborhood redevelopment, indicating responsive governance and stakeholder engagement on land-use decisions.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is announcement-focused with limited substantive detail about redevelopment scope, timeline, or budget",
+    "No specific dollar amounts, contractors, or project phases mentioned",
+    "Future date (2026-07-21) suggests forward planning notification",
+    "East Adams appears to be a neighborhood designation; recommend cross-reference with GIS and zoning datasets",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

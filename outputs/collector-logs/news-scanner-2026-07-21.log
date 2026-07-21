@@ -1,0 +1,76 @@
+2026-07-21 14:00:57,610 [INFO] ============================================================
+2026-07-21 14:00:57,610 [INFO] News Scanner starting
+2026-07-21 14:00:57,612 [INFO] Fetching: Syracuse.com Politics
+2026-07-21 14:00:58,089 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-21 14:00:58,089 [INFO] Fetching: Syracuse.com Government
+2026-07-21 14:00:58,318 [INFO]   0 new articles from Syracuse.com Government
+2026-07-21 14:00:58,318 [INFO] Fetching: Syracuse.com Local
+2026-07-21 14:00:58,535 [INFO]   0 new articles from Syracuse.com Local
+2026-07-21 14:00:58,535 [INFO] Fetching: Syracuse.com Main
+2026-07-21 14:00:58,760 [INFO]   0 new articles from Syracuse.com Main
+2026-07-21 14:00:58,760 [INFO] Total unique articles across all feeds: 50
+2026-07-21 14:00:58,761 [INFO] New articles (not previously processed): 50
+2026-07-21 14:00:58,816 [DEBUG]   Filtered (not relevant): Trump hit with ‘racist’ label after latest attack on ‘Dumocrat’ states
+2026-07-21 14:00:58,817 [DEBUG]   Filtered (not relevant): Mom, 38, dies after marshmallow roasting accident in front of her kids
+2026-07-21 14:00:58,818 [DEBUG]   Filtered (not relevant): Polymarket updates $50 invite code “CUSE” in NY, PA and WI for MLB Tuesday, Yank
+2026-07-21 14:00:58,818 [DEBUG]   Filtered (not relevant): Former Arkansas national champ, NFL champion Jim Lindsey dies at 81
+2026-07-21 14:00:58,818 [DEBUG]   Filtered (not relevant): School choice will create competition for NY’s lagging public schools (Your Lett
+2026-07-21 14:00:58,819 [DEBUG]   Filtered (not relevant): Walmart’s 4-star $1,099 E-bike is on sale for $600 in limited time deal
+2026-07-21 14:00:58,820 [DEBUG]   Filtered (not relevant): Family says beloved dog protected 6-year-old after black bear charged into drive
+2026-07-21 14:00:58,820 [DEBUG]   Filtered (not relevant): Syracuse’s Southwest Community Center fires director amid financial crisis
+2026-07-21 14:00:58,821 [DEBUG]   Filtered (not relevant): 90-year-old woman dies 1 week after being raped in her Upstate NY home; a 29-yea
+2026-07-21 14:00:58,821 [DEBUG]   Filtered (not relevant): Update: Quarter-sized hail and damaging winds predicted with thunderstorms to hi
+2026-07-21 14:00:58,821 [DEBUG]   Filtered (not relevant): Powerball results for 07/20/26: $1 million winners sold in Michigan, Colorado
+2026-07-21 14:00:58,822 [DEBUG]   Filtered (not relevant): Yankees vs. Pirates prediction: Polymarket prices, props and best bet for Tuesda
+2026-07-21 14:00:58,822 [DEBUG]   Filtered (not relevant): Legendary ESPN broadcaster laid off after 30-plus years with network
+2026-07-21 14:00:58,823 [DEBUG]   Filtered (not relevant): World Naked Bike Ride in Buffalo canceled after death threats, ‘overwhelming dis
+2026-07-21 14:00:58,823 [DEBUG]   Filtered (not relevant): Oswego Harborfest starts Thursday with new life, leadership
+2026-07-21 14:00:58,823 [DEBUG]   Filtered (not relevant): Watch Texas officer pull driver from burning vehicle
+2026-07-21 14:00:58,824 [DEBUG]   Filtered (not relevant): Anticipate strong thunderstorms in Orange and Rockland counties Tuesday morning 
+2026-07-21 14:00:58,824 [DEBUG]   Filtered (not relevant): Starbucks is bringing back its viral color-changing drink but only for one weeke
+2026-07-21 14:00:58,825 [INFO]   Relevant: Share your ideas about East Adams redevelopment at upcoming Syracuse planning me
+2026-07-21 14:00:58,825 [DEBUG]     → Departments: Department of Permits and Development
+2026-07-21 14:00:58,825 [DEBUG]     → Keywords: planning commission
+2026-07-21 14:01:03,702 [INFO]     Saved: CTX-NEWS-2026-00210 → CTX-NEWS-2026-00210.json
+2026-07-21 14:01:03,702 [DEBUG]   Filtered (not relevant): Delivery giant laying off workers across Upstate NY, including Syracuse area
+2026-07-21 14:01:03,703 [DEBUG]   Filtered (not relevant): Arguing Central NY couple set fire to home with their 5 kids inside, police say
+2026-07-21 14:01:03,703 [DEBUG]   Filtered (not relevant): Puerto Rican Festival returns to Syracuse with flower festival theme
+2026-07-21 14:01:03,704 [DEBUG]   Filtered (not relevant): Student called ‘hot’ by BOE member at Tenn. school board meeting pushes for chan
+2026-07-21 14:01:03,704 [DEBUG]   Filtered (not relevant): The 5 most anticipated TV releases for August 2026
+2026-07-21 14:01:03,705 [DEBUG]   Filtered (not relevant): 10 killed, 17 missing in India tunnel disaster
+2026-07-21 14:01:03,705 [DEBUG]   Filtered (not relevant): Ryan Clark was in the middle of a show when ESPN laid him off. Here’s the last t
+2026-07-21 14:01:03,706 [DEBUG]   Filtered (not relevant): State Police warn businesses after thieves siphon used cooking oil from Upstate 
+2026-07-21 14:01:03,706 [DEBUG]   Filtered (not relevant): Rape, murder, sex abuse: See 263 new arrests added to police blotter
+2026-07-21 14:01:03,706 [DEBUG]   Filtered (not relevant): 5 dead in attempt to save struggling swimmer in Ohio river
+2026-07-21 14:01:03,707 [DEBUG]   Filtered (not relevant): Steve Angeli on return to football after Achilles injury: ‘It’s going to be emot
+2026-07-21 14:01:03,708 [DEBUG]   Filtered (not relevant): Dear Annie: Summer loses its sweetness when family spends it traveling for kids’
+2026-07-21 14:01:03,708 [DEBUG]   Filtered (not relevant): Popular celebrity shares ‘disturbing’ photo of teen son kissing his girlfriend
+2026-07-21 14:01:03,708 [DEBUG]   Filtered (not relevant): Country music star making comeback after stepping away from stage for family
+2026-07-21 14:01:03,709 [DEBUG]   Filtered (not relevant): Morgan Wallen fans ask him to boycott one state after disturbing incident at sho
+2026-07-21 14:01:03,709 [DEBUG]   Filtered (not relevant): Manlius pediatrician offered plea deal (Good Morning CNY)
+2026-07-21 14:01:03,709 [DEBUG]   Filtered (not relevant): Beluga whales head to new homes after being stuck 2 years at closed theme park
+2026-07-21 14:01:03,710 [DEBUG]   Filtered (not relevant): Severe thunderstorms with damaging winds possible in Central NY on Tuesday
+2026-07-21 14:01:03,710 [DEBUG]   Filtered (not relevant): Upstate NY man sentenced for setting a costly fire at a veterans hospital
+2026-07-21 14:01:03,710 [DEBUG]   Filtered (not relevant): Paying with certain credit cards might cost more thanks to settlement
+2026-07-21 14:01:03,711 [DEBUG]   Filtered (not relevant): Syracuse’s airport is buried in baggage headaches. NY lawmakers punted on a fix
+2026-07-21 14:01:03,711 [DEBUG]   Filtered (not relevant): Boeheim’s Army plays Hall In in TBT: What to know
+2026-07-21 14:01:03,712 [DEBUG]   Filtered (not relevant): Popular actress defends giving up full custody of her daughter: ‘Most gut-wrench
+2026-07-21 14:01:03,712 [DEBUG]   Filtered (not relevant): Miss Manners: I’m going to a fondue restaurant, what are the fon-don’ts?
+2026-07-21 14:01:03,712 [DEBUG]   Filtered (not relevant): ’Rare’ weather event might impact hurricane season
+2026-07-21 14:01:03,713 [DEBUG]   Filtered (not relevant): CNY Inspirations: Love drudgery? Join us!
+2026-07-21 14:01:03,713 [DEBUG]   Filtered (not relevant): Prison staff discovers man dead inside his cell after extinguishing a fire at Up
+2026-07-21 14:01:03,713 [DEBUG]   Filtered (not relevant): Country music star married in secretive ceremony months after abruptly cancellin
+2026-07-21 14:01:03,714 [DEBUG]   Filtered (not relevant): Dear Abby: We can’t make our rude nephew’s wedding. Do we owe him a gift nonethe
+2026-07-21 14:01:03,714 [DEBUG]   Filtered (not relevant): Morgan Wallen concert ruined for family, 8-year-old girl, after man urinates on 
+2026-07-21 14:01:03,715 [DEBUG]   Filtered (not relevant): 15-year-old drowns after disappearing beneath waterfall at Upstate NY swimming h
+2026-07-21 14:01:03,716 [INFO] News Scanner Run — 2026-07-21 14:01
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Share your ideas about East Adams redevelopment at upcoming Syracuse planning me
+
