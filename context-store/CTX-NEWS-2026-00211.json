@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00211",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/07/a-syracuse-lawmaker-urges-police-watchdog-to-fight-mayor-can-she-convince-the-rest.html",
+  "publication_date": "2026-07-22",
+  "capture_date": "2026-07-22T14:03:52Z",
+  "title": "A Syracuse lawmaker urges police watchdog to fight mayor. Can she convince the rest?",
+  "summary": "A Syracuse city lawmaker is urging the police oversight board to challenge Mayor Sharon Owens, possibly through legal action, regarding the board's recent loss of authority. The article discusses potential conflict between the legislative branch and mayor's office over police accountability governance.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "public-safety-commission",
+    "mayor",
+    "council",
+    "investigation",
+    "transparency",
+    "escalating",
+    "leadership-change"
+  ],
+  "department_refs": [
+    "Office of the Mayor",
+    "Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-BOYER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "City council member(s) challenging mayor's authority over police oversight mechanism; signals internal governance conflict and potential erosion of accountability structures",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Specific lawmaker identity not extracted from headline; full article review needed to identify council member",
+    "Nature of board 'de-fanging' and specific legal challenge basis unclear from headline alone",
+    "Potential CIO relevance: governance systems, transparency mechanisms, or data/reporting infrastructure for oversight board may be implicated",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

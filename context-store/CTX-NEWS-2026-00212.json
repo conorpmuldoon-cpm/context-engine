@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00212",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/07/on-ramps-carlene-lacey-on-leadership-where-were-supposed-to-be-is-in-us-already.html",
+  "publication_date": "2026-07-22",
+  "capture_date": "2026-07-22T14:03:56Z",
+  "title": "ON-RAMP’s Carlene Lacey on leadership: ‘Where we’re supposed to be is in us already’",
+  "summary": "Carlene Lacey, Ph.D., became the first CEO of ON-RAMP Syracuse, a state-funded workforce training hub preparing Central New Yorkers for jobs at Micron Technology. The initiative represents a strategic economic development partnership between New York State and the region to build advanced manufacturing talent pipelines.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "workforce-development",
+    "economic-development",
+    "training",
+    "leadership-change",
+    "federal-programs"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Carlene Lacey",
+      "type": "person",
+      "canonical_id": "PERSON-CARLENE-LACEY"
+    },
+    {
+      "name": "ON-RAMP Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-ON-RAMP-SYRACUSE"
+    },
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON-TECHNOLOGY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "State-funded workforce development initiative aligned with regional advanced manufacturing sector growth and Micron Technology expansion. Leadership appointment suggests sustained commitment to Central NY economic development strategy.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily a profile/interview piece rather than announcement of policy or CIO-relevant infrastructure decision",
+    "ON-RAMP described as state-funded but article does not detail municipal/city role or CIO involvement",
+    "Consider cross-referencing with Micron Technology partnership details and state agency coordination structures",
+    "Leadership quote suggests organizational culture/vision focus; not infrastructure or systems-related",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

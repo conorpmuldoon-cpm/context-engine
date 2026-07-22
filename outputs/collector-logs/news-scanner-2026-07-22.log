@@ -1,0 +1,78 @@
+2026-07-22 14:03:45,059 [INFO] ============================================================
+2026-07-22 14:03:45,059 [INFO] News Scanner starting
+2026-07-22 14:03:45,061 [INFO] Fetching: Syracuse.com Politics
+2026-07-22 14:03:46,056 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-22 14:03:46,057 [INFO] Fetching: Syracuse.com Government
+2026-07-22 14:03:46,730 [INFO]   0 new articles from Syracuse.com Government
+2026-07-22 14:03:46,730 [INFO] Fetching: Syracuse.com Local
+2026-07-22 14:03:47,657 [INFO]   0 new articles from Syracuse.com Local
+2026-07-22 14:03:47,657 [INFO] Fetching: Syracuse.com Main
+2026-07-22 14:03:48,052 [INFO]   0 new articles from Syracuse.com Main
+2026-07-22 14:03:48,052 [INFO] Total unique articles across all feeds: 50
+2026-07-22 14:03:48,052 [INFO] New articles (not previously processed): 50
+2026-07-22 14:03:48,107 [DEBUG]   Filtered (not relevant): Boeheim’s Army TBT tickets are available under $50; where to buy
+2026-07-22 14:03:48,108 [DEBUG]   Filtered (not relevant): New details released in crash that killed young movie star, 18
+2026-07-22 14:03:48,108 [DEBUG]   Filtered (not relevant): Thousands forced to re-take driver’s test after cheating allegations in Californ
+2026-07-22 14:03:48,109 [DEBUG]   Filtered (not relevant): How to watch Pirates-Yankees doubleheader today: MLB free live stream
+2026-07-22 14:03:48,109 [DEBUG]   Filtered (not relevant): How to secure Rebecca Black presale tickets today for 2026 ‘Exhibitionism on Tou
+2026-07-22 14:03:48,110 [DEBUG]   Filtered (not relevant): Walmart’s best-selling Ningmei Gaming PC is on sale for $730 off in Flash Deal
+2026-07-22 14:03:48,111 [DEBUG]   Filtered (not relevant): Liberty vs. Sky prediction: Polymarket prices, props and best bet in New York
+2026-07-22 14:03:48,111 [DEBUG]   Filtered (not relevant): Mega Millions results for 07/21/26: Did anyone win the $707 million jackpot?
+2026-07-22 14:03:48,111 [DEBUG]   Filtered (not relevant): Syracuse Arts & Crafts Festival celebrates 55 years this weekend with 140 artist
+2026-07-22 14:03:48,112 [DEBUG]   Filtered (not relevant): A’s rookie undergoes surgery for ruptured testicle caused by foul ball
+2026-07-22 14:03:48,112 [DEBUG]   Filtered (not relevant): Meet syracuse.com’s 2026 All-CNY small school girls lacrosse team
+2026-07-22 14:03:48,113 [DEBUG]   Filtered (not relevant): Popular rock band cancels tour after beloved member dies: ‘We must grieve our br
+2026-07-22 14:03:48,113 [DEBUG]   Filtered (not relevant): Child retirement accounts another way for entrepreneurs to support employees (Gu
+2026-07-22 14:03:48,114 [DEBUG]   Filtered (not relevant): Pa. cop accused of secretly taking photos of naked prisoners to ‘humiliate’ them
+2026-07-22 14:03:48,114 [DEBUG]   Filtered (not relevant): Former college football coach dies following battle with cancer: ‘Lost a giant’
+2026-07-22 14:03:48,114 [DEBUG]   Filtered (not relevant): 4 more fired by major automotive brand over snacks
+2026-07-22 14:03:48,115 [DEBUG]   Filtered (not relevant): Where is the ‘Big Bang Theory’ cast now?
+2026-07-22 14:03:48,115 [DEBUG]   Filtered (not relevant): Cortland’s standout lineman chooses Cornell, a program ‘building a bright future
+2026-07-22 14:03:48,115 [DEBUG]   Filtered (not relevant): Carmelo Anthony ready for Syracuse’s second annual Summer Slam: ‘Melo is one of 
+2026-07-22 14:03:48,116 [DEBUG]   Filtered (not relevant): See NY school districts ranked 1 to 427 based on Algebra II Regents
+2026-07-22 14:03:48,116 [DEBUG]   Filtered (not relevant): Demcratic U.S. Rep. won’t seek reelection to redrawn district
+2026-07-22 14:03:48,116 [DEBUG]   Filtered (not relevant): Swimming with Phish: 18,000 fans dance at rainy Syracuse concert (review, photos
+2026-07-22 14:03:48,117 [DEBUG]   Filtered (not relevant): Rock and pop star from 1970s dead at 80: ‘Mercifully now at peace’
+2026-07-22 14:03:48,117 [DEBUG]   Filtered (not relevant): Rock icon stops song to call out fans: ‘Just said (expletive) off to the second 
+2026-07-22 14:03:48,118 [INFO]   Relevant: A Syracuse lawmaker urges police watchdog to fight mayor. Can she convince the r
+2026-07-22 14:03:48,118 [DEBUG]     → Keywords: mayor
+2026-07-22 14:03:52,639 [INFO]     Saved: CTX-NEWS-2026-00211 → CTX-NEWS-2026-00211.json
+2026-07-22 14:03:52,640 [DEBUG]   Filtered (not relevant): Rock star who banned Trump supporters from shows postpones tour due to ‘war econ
+2026-07-22 14:03:52,640 [DEBUG]   Filtered (not relevant): Upstate NY driver revved engine at construction flagger, then deliberately struc
+2026-07-22 14:03:52,641 [DEBUG]   Filtered (not relevant): Drunk driver crosses into oncoming traffic, crashes head-on into ambulance carry
+2026-07-22 14:03:52,641 [DEBUG]   Filtered (not relevant): College basketball player dies at 20: ‘Impact will never be forgotten’
+2026-07-22 14:03:52,642 [DEBUG]   Filtered (not relevant): I-690 east in Syracuse to close for 2 years (Good Morning CNY)
+2026-07-22 14:03:52,642 [DEBUG]   Filtered (not relevant): ‘Seinfeld’ star apologizes for actions with underage actress: ‘I truly regret it
+2026-07-22 14:03:52,643 [DEBUG]   Filtered (not relevant): Cole Swider: ‘I wanted to right the ship on my Syracuse career’
+2026-07-22 14:03:52,643 [INFO]   Relevant: ON-RAMP’s Carlene Lacey on leadership: ‘Where we’re supposed to be is in us alre
+2026-07-22 14:03:52,643 [DEBUG]     → Entities: Micron Technology
+2026-07-22 14:03:56,876 [INFO]     Saved: CTX-NEWS-2026-00212 → CTX-NEWS-2026-00212.json
+2026-07-22 14:03:56,876 [DEBUG]   Filtered (not relevant): Photos: Take one last look inside Great Northern Mall. Demolition has started
+2026-07-22 14:03:56,876 [DEBUG]   Filtered (not relevant): United Airlines worker caught on video threatening to call ICE on U.S. citizen
+2026-07-22 14:03:56,877 [DEBUG]   Filtered (not relevant): Miss Manners: Tour guides keep making America a punchline on our vacations
+2026-07-22 14:03:56,877 [DEBUG]   Filtered (not relevant): Swipe fees driving up school supply costs: ‘Undermines affordability’
+2026-07-22 14:03:56,878 [DEBUG]   Filtered (not relevant): Central NY weather: Cold front brings cooler temperatures, showers on Wednesday
+2026-07-22 14:03:56,878 [DEBUG]   Filtered (not relevant): Country music and rockabilly pioneer dead at 88: ‘Rock on friend ... rock on’
+2026-07-22 14:03:56,878 [DEBUG]   Filtered (not relevant): Syracuse Mets commit 6 errors in 13-5 loss to RailRiders
+2026-07-22 14:03:56,879 [DEBUG]   Filtered (not relevant): Dear Abby: We’re tired of hearing about mom’s 20-year, on-and-off-again affair
+2026-07-22 14:03:56,879 [DEBUG]   Filtered (not relevant): ‘Seinfeld’ star ripped for acting inappropriately with young girl: ‘I was a mino
+2026-07-22 14:03:56,880 [DEBUG]   Filtered (not relevant): Asking Eric: Friend keeps asking insensitive questions about my dying husband
+2026-07-22 14:03:56,880 [DEBUG]   Filtered (not relevant): Hegseth estimates Iran war cost at fiery hearing as he defends funding request
+2026-07-22 14:03:56,881 [DEBUG]   Filtered (not relevant): Bus with nearly two dozen passengers rolls over on Thruway in Upstate NY
+2026-07-22 14:03:56,881 [DEBUG]   Filtered (not relevant): Mega Millions numbers: Are you the lucky winner of Tuesday’s $707 million jackpo
+2026-07-22 14:03:56,882 [DEBUG]   Filtered (not relevant): New $50 Polymarket invite code “CUSE” extended to “Lebron James next team” live 
+2026-07-22 14:03:56,882 [DEBUG]   Filtered (not relevant): Thunderstorms with damaging winds in Orange County Tuesday — gusts up to 60 mph
+2026-07-22 14:03:56,883 [DEBUG]   Filtered (not relevant): Boeheim’s Army vs. Hall In in the TBT: Game 1 box score
+2026-07-22 14:03:56,883 [DEBUG]   Filtered (not relevant): Experts update Yankees vs. Pirates predictions after Aaron Judge injury update
+2026-07-22 14:03:56,885 [INFO] News Scanner Run — 2026-07-22 14:03
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • A Syracuse lawmaker urges police watchdog to fight mayor. Can she convince the r
+  • ON-RAMP’s Carlene Lacey on leadership: ‘Where we’re supposed to be is in us alre
+
