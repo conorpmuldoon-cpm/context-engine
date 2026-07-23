@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-NEWS-2026-00215",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/07/latest-micron-timeline-see-whats-next-in-upstate-ny-as-concrete-work-continues.html",
+  "publication_date": "2026-07-23",
+  "capture_date": "2026-07-23T14:09:42Z",
+  "title": "Latest Micron timeline: See what’s next in Upstate NY as concrete work continues",
+  "summary": "Micron Technology's chipmaking complex in Clay, NY is advancing into active construction phase following three+ years of planning and study. This major economic development project represents significant infrastructure investment and workforce opportunity for the region.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "infrastructure",
+    "construction-staging",
+    "intergovernmental",
+    "state-agency"
+  ],
+  "department_refs": [
+    "Office of the Chief Innovation Officer"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Glenn Coin",
+      "type": "person",
+      "canonical_id": "PERSON-GLENN-COIN"
+    },
+    {
+      "name": "Town of Clay",
+      "type": "organization",
+      "canonical_id": "ORG-CLAY-NY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Major regional economic development project moving into active construction demonstrates state-local priority alignment on semiconductor manufacturing and workforce development in Upstate NY.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content incomplete in provided excerpt; full timeline and next milestones not extractable",
+    "No specific dollar amounts or budget figures provided in excerpt",
+    "Date 2026-07-23 suggests this is future-dated or speculative content",
+    "Recommend cross-reference with NY State economic development agencies and Town of Clay planning documentation",
+    "Potential connections to workforce-development and federal-programs if federal CHIPS Act funding involved",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

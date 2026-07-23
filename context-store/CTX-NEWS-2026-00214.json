@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-NEWS-2026-00214",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/07/syracuse-councilor-pushes-police-watchdog-to-sue-mayor-good-morning-cny-for-july-23.html",
+  "publication_date": "2026-07-23",
+  "capture_date": "2026-07-23T14:09:38Z",
+  "title": "Syracuse councilor pushes police watchdog to sue mayor (Good Morning CNY)",
+  "summary": "A Syracuse city councilor is advocating for the police watchdog agency to initiate legal action against the mayor. This suggests potential governance tension between the municipal executive and oversight mechanisms, with implications for police accountability infrastructure and inter-departmental authority dynamics.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "mayor",
+    "council",
+    "public-safety-commission",
+    "investigation",
+    "escalating",
+    "transparency",
+    "advocacy"
+  ],
+  "department_refs": [
+    "Police Department",
+    "Mayor's Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse City Council",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-COUNCIL"
+    },
+    {
+      "name": "Syracuse Police Watchdog",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Mayor of Syracuse",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Council member applying pressure on police oversight body to pursue legal recourse against executive leadership, indicating dispute over police accountability or governance authority",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content not provided beyond headline/metadata—full text analysis unavailable",
+    "Specific councilor name not extracted from available text",
+    "Nature of dispute between council/watchdog and mayor requires full article review",
+    "May indicate governance friction requiring CIO attention if related to data transparency, systems access, or accountability records management",
+    "PROVISIONAL tag 'public-safety-commission' used pending confirmation of which oversight body is referenced",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

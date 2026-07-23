@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00213",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/us-news/2026/07/mayors-credit-card-perks-revoked-after-alleged-unauthorized-spending.html",
+  "publication_date": "2026-07-23",
+  "capture_date": "2026-07-23T14:09:34Z",
+  "title": "Mayor’s credit card revoked after alleged ‘unauthorized’ spending",
+  "summary": "A Georgia mayor had administrative privileges, credit cards, and keys revoked during an independent investigation into alleged unauthorized spending. This incident underscores governance risks around financial controls, accountability mechanisms, and the need for robust oversight frameworks that the City of Syracuse should evaluate for its own executive spending policies.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "mayor",
+    "investigation",
+    "audit",
+    "transparency",
+    "escalating",
+    "leadership-change",
+    "PROVISIONAL:financial-controls",
+    "PROVISIONAL:executive-oversight"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Georgia Mayor (unnamed)",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "City of Georgia",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Investigation into executive financial misconduct signals accountability mechanisms and governance controls being exercised; relevant to Syracuse leadership governance structures.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references Georgia mayor, not Syracuse—flagged as potentially external reference for comparative governance analysis",
+    "No specific dollar amounts or department names provided in source material",
+    "Author is Mark Heim (Syracuse.com), suggesting local news coverage of external governance issue—may indicate Syracuse community interest in executive accountability frameworks",
+    "Recommend cross-reference with Syracuse executive spending policies and financial oversight procedures",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

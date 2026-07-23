@@ -1,0 +1,60 @@
+{
+  "record_id": "CTX-NEWS-2026-00216",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/state/2026/07/nyc-mayor-zohran-mamdani-calls-on-us-government-to-arrest-foreign-leader.html",
+  "publication_date": "2026-07-23",
+  "capture_date": "2026-07-23T14:09:46Z",
+  "title": "NYC Mayor Zohran Mamdani calls on U.S. government to arrest foreign leader",
+  "summary": "NYC Mayor Zohran Mamdani stated the city cannot execute an arrest warrant from the International Criminal Court for Benjamin Netanyahu but called on the federal government to do so. This represents a significant intergovernmental policy statement on international law enforcement.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "mayor",
+    "intergovernmental",
+    "policy-change",
+    "advocacy",
+    "leadership-change"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Zohran Mamdani",
+      "type": "person",
+      "canonical_id": "PERSON-ZOHRAN-MAMDANI"
+    },
+    {
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "International Criminal Court",
+      "type": "organization",
+      "canonical_id": "ORG-ICC"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Mayor publicly calls on federal government to arrest foreign leader based on ICC warrant, signaling opposition to Netanyahu's conduct and advocating for international law enforcement.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns federal/international matters outside typical City of Syracuse CIO scope",
+    "Relevant primarily as mayoral leadership statement; limited operational/innovation systems implications",
+    "Date shows 2026 (future date) - verify article authenticity",
+    "No local Syracuse operations, budget, or technology infrastructure references detected",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

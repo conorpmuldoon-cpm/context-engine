@@ -1,0 +1,86 @@
+2026-07-23 14:09:29,727 [INFO] ============================================================
+2026-07-23 14:09:29,727 [INFO] News Scanner starting
+2026-07-23 14:09:29,729 [INFO] Fetching: Syracuse.com Politics
+2026-07-23 14:09:30,000 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-23 14:09:30,000 [INFO] Fetching: Syracuse.com Government
+2026-07-23 14:09:30,146 [INFO]   0 new articles from Syracuse.com Government
+2026-07-23 14:09:30,146 [INFO] Fetching: Syracuse.com Local
+2026-07-23 14:09:30,272 [INFO]   0 new articles from Syracuse.com Local
+2026-07-23 14:09:30,272 [INFO] Fetching: Syracuse.com Main
+2026-07-23 14:09:30,396 [INFO]   0 new articles from Syracuse.com Main
+2026-07-23 14:09:30,397 [INFO] Total unique articles across all feeds: 50
+2026-07-23 14:09:30,397 [INFO] New articles (not previously processed): 50
+2026-07-23 14:09:30,449 [DEBUG]   Filtered (not relevant): $20 Polymarket referral code “CUSE” updated in NY, MN for 3M Open, PGA Tour
+2026-07-23 14:09:30,450 [DEBUG]   Filtered (not relevant): Cardinals lineman arrested on weapons charges in Canada
+2026-07-23 14:09:30,450 [DEBUG]   Filtered (not relevant): Blackstone’s Adventure Ready Griddle is less than $190 in limited-time deal
+2026-07-23 14:09:30,451 [DEBUG]   Filtered (not relevant): 3M Open predictions: PGA Polymarket prices, Scheffler props
+2026-07-23 14:09:30,451 [DEBUG]   Filtered (not relevant): The Costco ‘Star of Death’ hack can tell you how long your fave items will be in
+2026-07-23 14:09:30,452 [DEBUG]   Filtered (not relevant): Woman sentenced for stealing $1.7 million in FEMA funds
+2026-07-23 14:09:30,452 [DEBUG]   Filtered (not relevant): Rock singer’s career spiral continues with tour cancellation: ‘I’m broke and sic
+2026-07-23 14:09:30,452 [DEBUG]   Filtered (not relevant): NC cookie shop employees caught styling hair in kitchen: ‘Unacceptable’
+2026-07-23 14:09:30,453 [DEBUG]   Filtered (not relevant): Learn how to swim: YMCA of Central New York is offering free lessons for kids
+2026-07-23 14:09:30,453 [DEBUG]   Filtered (not relevant): Keep showing up for downtown during I-81 construction (Guest Opinion by Danny Li
+2026-07-23 14:09:30,453 [DEBUG]   Filtered (not relevant): Inside New York’s mission to inventory hundreds of remote Adirondack trout ponds
+2026-07-23 14:09:30,454 [DEBUG]   Filtered (not relevant): Country singer says fans walked out of show over song about America: ‘Clearly pu
+2026-07-23 14:09:30,454 [DEBUG]   Filtered (not relevant): Adam Schefter reveals where he was told LeBron James is going
+2026-07-23 14:09:30,454 [DEBUG]   Filtered (not relevant): Amazon ‘teacher of the year’ charged with child rape
+2026-07-23 14:09:30,455 [DEBUG]   Filtered (not relevant): Beloved R&B singer battling cancer at 44: ‘Put a lot of things in perspective’
+2026-07-23 14:09:30,455 [DEBUG]   Filtered (not relevant): Dining Out: Tokyo Fusion's conveyor belt makes sushi both fun and delicious
+2026-07-23 14:09:30,456 [DEBUG]   Filtered (not relevant): Search continues for teen who went missing while fishing in Upstate NY river gor
+2026-07-23 14:09:30,456 [INFO]   Relevant: Mayor’s credit card revoked after alleged ‘unauthorized’ spending
+2026-07-23 14:09:30,456 [DEBUG]     → Keywords: mayor
+2026-07-23 14:09:34,337 [INFO]     Saved: CTX-NEWS-2026-00213 → CTX-NEWS-2026-00213.json
+2026-07-23 14:09:34,338 [DEBUG]   Filtered (not relevant): 93-year-old Upstate NY man dies after being ejected from UTV on private driveway
+2026-07-23 14:09:34,339 [DEBUG]   Filtered (not relevant): Syracuse's Pavone's building history included furniture giants, toy wonderlands 
+2026-07-23 14:09:34,339 [DEBUG]   Filtered (not relevant): Dear Annie: Boyfriend’s expensive tastes have her squirming about the costs
+2026-07-23 14:09:34,340 [DEBUG]   Filtered (not relevant): Rock music world mourns as guitar legend dies at 85: ‘A visionary’
+2026-07-23 14:09:34,340 [DEBUG]   Filtered (not relevant): La. pastor steals $340K from churches for gambling, personal expenses
+2026-07-23 14:09:34,341 [INFO]   Relevant: Syracuse councilor pushes police watchdog to sue mayor (Good Morning CNY)
+2026-07-23 14:09:34,341 [DEBUG]     → Keywords: mayor
+2026-07-23 14:09:38,729 [WARNING]     Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-07-23 14:09:38,740 [INFO]     Saved: CTX-NEWS-2026-00214 → CTX-NEWS-2026-00214.json
+2026-07-23 14:09:38,741 [DEBUG]   Filtered (not relevant): Indiana girl, 14, dies after being found unresponsive in hot tub
+2026-07-23 14:09:38,741 [DEBUG]   Filtered (not relevant): 6 Emmy-nominated shows to binge watch this weekend
+2026-07-23 14:09:38,741 [DEBUG]   Filtered (not relevant): Syracuse Mets rally past RailRiders 5-4 on Wagaman’s 8th-inning hit
+2026-07-23 14:09:38,742 [DEBUG]   Filtered (not relevant): Country music star battling rare cancer at 35 returns to road: ‘Bad luck at my h
+2026-07-23 14:09:38,742 [DEBUG]   Filtered (not relevant): Central NY weather: Sunny, pleasant through Saturday until storms arrive Sunday
+2026-07-23 14:09:38,742 [INFO]   Relevant: Latest Micron timeline: See what’s next in Upstate NY as concrete work continues
+2026-07-23 14:09:38,742 [DEBUG]     → Entities: Micron Technology
+2026-07-23 14:09:42,789 [INFO]     Saved: CTX-NEWS-2026-00215 → CTX-NEWS-2026-00215.json
+2026-07-23 14:09:42,790 [DEBUG]   Filtered (not relevant): Bills defensive line faces major changes under Jim Leonhard
+2026-07-23 14:09:42,790 [DEBUG]   Filtered (not relevant): Mississippi mom admits to killing her son and hiding his body — it’s not her fir
+2026-07-23 14:09:42,791 [DEBUG]   Filtered (not relevant): CNY Inspirations: Long days, short years
+2026-07-23 14:09:42,791 [DEBUG]   Filtered (not relevant): Miss Manners: I know he’s trying, but these gifts are missing the mark
+2026-07-23 14:09:42,792 [DEBUG]   Filtered (not relevant): Onondaga County has a plan to finally finish the trail looping Onondaga Lake
+2026-07-23 14:09:42,792 [DEBUG]   Filtered (not relevant): ‘American Pickers’ Mike Wolfe’s tragic post has fans praying: ‘My heart is shatt
+2026-07-23 14:09:42,793 [DEBUG]   Filtered (not relevant): Dear Abby: Would it be a big mistake to have a baby for boyfriend who can’t deci
+2026-07-23 14:09:42,793 [DEBUG]   Filtered (not relevant): Asking Eric: I’m draining my savings as my son refuses to move himself and his f
+2026-07-23 14:09:42,794 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Wednesday’s $567 million drawing
+2026-07-23 14:09:42,795 [DEBUG]   Filtered (not relevant): New $20 Polymarket invite code “CUSE” launches for Caitlin Clark, WNBA odds
+2026-07-23 14:09:42,795 [DEBUG]   Filtered (not relevant): Major AI company says its model went rogue, hacked into another AI firm’s server
+2026-07-23 14:09:42,796 [INFO]   Relevant: NYC Mayor Zohran Mamdani calls on U.S. government to arrest foreign leader
+2026-07-23 14:09:42,796 [DEBUG]     → Keywords: mayor
+2026-07-23 14:09:46,430 [WARNING]     Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-07-23 14:09:46,443 [INFO]     Saved: CTX-NEWS-2026-00216 → CTX-NEWS-2026-00216.json
+2026-07-23 14:09:46,444 [DEBUG]   Filtered (not relevant): Experts update LeBron James next team odds after potential social media mistake
+2026-07-23 14:09:46,445 [DEBUG]   Filtered (not relevant): Terrorism trial opens in stabbing of famed author in Upstate NY
+2026-07-23 14:09:46,445 [DEBUG]   Filtered (not relevant): California brush fire results in evacuation orders as structures threatened
+2026-07-23 14:09:46,445 [DEBUG]   Filtered (not relevant): Chick-fil-A customers in 10 states, D.C. are victims of June data breach
+2026-07-23 14:09:46,446 [DEBUG]   Filtered (not relevant): U.S. Secret Service: Threat environment ‘highest we’ve ever seen’
+2026-07-23 14:09:46,446 [DEBUG]   Filtered (not relevant): UGG releases elevated version of popular Lowmel sneaker - Here’s how to get the 
+2026-07-23 14:09:46,447 [DEBUG]   Filtered (not relevant): Women describe similar disturbing encounters inside Dollar Tree stores, investig
+2026-07-23 14:09:46,447 [DEBUG]   Filtered (not relevant): Mack truck crosses median on Route 481 after tire suddenly fails in Clay
+2026-07-23 14:09:46,449 [INFO] News Scanner Run — 2026-07-23 14:09
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 4
+Filtered (not relevant): 46
+Errors: 0
+
+New records:
+  • Mayor’s credit card revoked after alleged ‘unauthorized’ spending
+  • Syracuse councilor pushes police watchdog to sue mayor (Good Morning CNY)
+  • Latest Micron timeline: See what’s next in Upstate NY as concrete work continues
+  • NYC Mayor Zohran Mamdani calls on U.S. government to arrest foreign leader
+
