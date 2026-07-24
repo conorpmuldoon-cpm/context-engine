@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-NEWS-2026-00218",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/07/ryan-mcmahon-blames-attorney-for-term-limit-screwup-good-morning-cny-for-july-24.html",
+  "publication_date": "2026-07-24",
+  "capture_date": "2026-07-24T13:52:05Z",
+  "title": "Ryan McMahon blames attorney for term-limit screwup (Good Morning CNY)",
+  "summary": "County Executive Ryan McMahon attributed a term-limit compliance error to his attorney rather than accepting direct responsibility. The incident involves a procedural or legal mistake related to term limit regulations, potentially affecting McMahon's eligibility or tenure. This reflects governance and accountability concerns within the executive office.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "mayor",
+    "leadership-change",
+    "PROVISIONAL:accountability",
+    "PROVISIONAL:legal-compliance",
+    "transparency",
+    "escalating"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Syracuse.com | The Post-Standard",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-COM"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public attribution of administrative error to legal counsel suggests potential governance lapses or accountability deflection, attracting media scrutiny of executive office operations.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Limited content provided; full article text needed for deeper analysis of term-limit specifics and institutional implications",
+    "No specific city department mentioned; relates to County Executive office operations",
+    "Date is future-dated (2026); verify accuracy",
+    "Headline suggests blame-shifting narrative; recommend monitoring for follow-up reporting and constituent response",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

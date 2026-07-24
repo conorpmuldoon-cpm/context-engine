@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-NEWS-2026-00217",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/us-news/2026/07/la-city-council-bans-these-2-controversial-words-groups-threaten-freedom-of-speech-lawsuit.html",
+  "publication_date": "2026-07-24",
+  "capture_date": "2026-07-24T13:52:01Z",
+  "title": "LA city council bans these 2 controversial words",
+  "summary": "Los Angeles city council enacted a rule prohibiting public use of two offensive slurs during council addresses, prompting free speech advocacy groups to threaten legal action. This case presents potential implications for municipal governance policies balancing civility standards with First Amendment protections.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:free-speech-policy",
+    "policy-change",
+    "legislation",
+    "council",
+    "escalating"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Los Angeles City Council",
+      "type": "organization",
+      "canonical_id": "ORG-LA-CITY-COUNCIL"
+    },
+    {
+      "name": "Mark Heim",
+      "type": "person",
+      "canonical_id": "PERSON-MARK-HEIM"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Free speech advocacy groups are mobilizing legal challenge against municipal speech restrictions, signaling organized opposition to civility-based conduct policies.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article covers Los Angeles jurisdiction, not Syracuse—included for CIO awareness of emerging municipal governance trends regarding public participation policies",
+    "No direct Syracuse department or budget implications detected",
+    "PROVISIONAL tag created for free-speech-policy as no exact match in available taxonomy",
+    "Potential relevance to Syracuse if similar policies under consideration locally",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

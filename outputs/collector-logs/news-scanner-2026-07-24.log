@@ -1,0 +1,78 @@
+2026-07-24 13:51:56,741 [INFO] ============================================================
+2026-07-24 13:51:56,741 [INFO] News Scanner starting
+2026-07-24 13:51:56,742 [INFO] Fetching: Syracuse.com Politics
+2026-07-24 13:51:57,054 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-24 13:51:57,054 [INFO] Fetching: Syracuse.com Government
+2026-07-24 13:51:57,211 [INFO]   0 new articles from Syracuse.com Government
+2026-07-24 13:51:57,211 [INFO] Fetching: Syracuse.com Local
+2026-07-24 13:51:57,364 [INFO]   0 new articles from Syracuse.com Local
+2026-07-24 13:51:57,364 [INFO] Fetching: Syracuse.com Main
+2026-07-24 13:51:57,523 [INFO]   0 new articles from Syracuse.com Main
+2026-07-24 13:51:57,523 [INFO] Total unique articles across all feeds: 50
+2026-07-24 13:51:57,523 [INFO] New articles (not previously processed): 50
+2026-07-24 13:51:57,577 [DEBUG]   Filtered (not relevant): Costco’s first standalone gas station is open and the company is planning more
+2026-07-24 13:51:57,577 [DEBUG]   Filtered (not relevant): Everyone thought she was drinking — until they learned the truth
+2026-07-24 13:51:57,578 [DEBUG]   Filtered (not relevant): $20 Polymarket referral code “CUSE” upgraded in NY, PA and CA for MLB Friday
+2026-07-24 13:51:57,578 [DEBUG]   Filtered (not relevant): How fast was Syracuse firefighter going when he hit pedestrian? Cops hope truck’
+2026-07-24 13:51:57,579 [DEBUG]   Filtered (not relevant): Mike Greenberg opens up about his former co-host Mike Golic returning to ESPN
+2026-07-24 13:51:57,579 [DEBUG]   Filtered (not relevant): Walmart’s ‘Overall Pick’ electric scooter is less than $150 in limited-time deal
+2026-07-24 13:51:57,580 [DEBUG]   Filtered (not relevant): If you miss Williams Sonoma, this new store at Destiny USA could be for you
+2026-07-24 13:51:57,580 [DEBUG]   Filtered (not relevant): Mets vs. Dodgers predictions: Polymarket prices, parlays and Ohtani props
+2026-07-24 13:51:57,581 [DEBUG]   Filtered (not relevant): She spent years rescuing animals. Then authorities saw what was inside her home.
+2026-07-24 13:51:57,581 [DEBUG]   Filtered (not relevant): Where to watch Rosenborg vs. Manchester United: Soccer free stream
+2026-07-24 13:51:57,582 [DEBUG]   Filtered (not relevant): ChatGPT led woman to her death, family says in OpenAI lawsuit
+2026-07-24 13:51:57,582 [DEBUG]   Filtered (not relevant): Syracuse Sandwiches: Fair Deli adds the one ingredient I never expected on a tur
+2026-07-24 13:51:57,582 [DEBUG]   Filtered (not relevant): Blackhawks legend Patrick Kane rejoins Chicago for 20th NHL season
+2026-07-24 13:51:57,583 [INFO]   Relevant: LA city council bans these 2 controversial words
+2026-07-24 13:51:57,583 [DEBUG]     → Keywords: city council
+2026-07-24 13:52:01,442 [INFO]     Saved: CTX-NEWS-2026-00217 → CTX-NEWS-2026-00217.json
+2026-07-24 13:52:01,443 [DEBUG]   Filtered (not relevant): JJ Watt addresses ESPN layoffs with Pat McAfee: ‘Is everybody fired to pay you?’
+2026-07-24 13:52:01,443 [DEBUG]   Filtered (not relevant): A bold bear has forced several Adirondacks campsites to close temporarily
+2026-07-24 13:52:01,444 [DEBUG]   Filtered (not relevant): Where to watch the NFL Flag Championships for free today
+2026-07-24 13:52:01,444 [DEBUG]   Filtered (not relevant): Air quality alerts issued for multiple states as wildfire smoke returns
+2026-07-24 13:52:01,444 [DEBUG]   Filtered (not relevant): Costco will anchor redevelopment of former Upstate NY mall site
+2026-07-24 13:52:01,445 [DEBUG]   Filtered (not relevant): National fast food chain opening first locations in Upstate NY later this year
+2026-07-24 13:52:01,445 [DEBUG]   Filtered (not relevant): Christian Pulisic rumored to be dating country music star following Nashville si
+2026-07-24 13:52:01,446 [DEBUG]   Filtered (not relevant): She was walking home when the unimaginable happened
+2026-07-24 13:52:01,446 [DEBUG]   Filtered (not relevant): Syracuse guard Garwey Dual recovering from injury
+2026-07-24 13:52:01,447 [DEBUG]   Filtered (not relevant): Woman sentenced to life for killing son, hiding body in fake wall
+2026-07-24 13:52:01,447 [DEBUG]   Filtered (not relevant): Ailing elderly hiker hoisted off Adirondack trail by helicopter
+2026-07-24 13:52:01,447 [DEBUG]   Filtered (not relevant): Dear Annie: I’ve applied for countless writer jobs. No one is offering
+2026-07-24 13:52:01,448 [DEBUG]   Filtered (not relevant): 2 shot dead on University of Chicago campus, police say
+2026-07-24 13:52:01,448 [INFO]   Relevant: Ryan McMahon blames attorney for term-limit screwup (Good Morning CNY)
+2026-07-24 13:52:01,448 [DEBUG]     → Entities: Ryan McMahon
+2026-07-24 13:52:05,420 [INFO]     Saved: CTX-NEWS-2026-00218 → CTX-NEWS-2026-00218.json
+2026-07-24 13:52:05,421 [DEBUG]   Filtered (not relevant): Jon Bon Jovi suddenly stopped the show. Here's why.
+2026-07-24 13:52:05,421 [DEBUG]   Filtered (not relevant): Former NBA star speaks out following arrest: ‘Being black in America is tough’
+2026-07-24 13:52:05,422 [DEBUG]   Filtered (not relevant): He changed careers, went back to school and graduated at 64
+2026-07-24 13:52:05,422 [DEBUG]   Filtered (not relevant): Central NY weather: Gorgeous conditions continue until rain, thunderstorms retur
+2026-07-24 13:52:05,422 [DEBUG]   Filtered (not relevant): This lazy river float in the stunning Adirondacks was just named among the best 
+2026-07-24 13:52:05,423 [DEBUG]   Filtered (not relevant): An iconic Syracuse building once rang chimes every 15 minutes. Now it’s becoming
+2026-07-24 13:52:05,423 [DEBUG]   Filtered (not relevant): ‘Today’ show makes major change following intruder attack
+2026-07-24 13:52:05,424 [DEBUG]   Filtered (not relevant): Buddy Boeheim made shots when his team needed him: ‘GMac kept yelling at me to s
+2026-07-24 13:52:05,424 [DEBUG]   Filtered (not relevant): Bills training camp quarterback preview: Josh Allen’s new QB coach expected to g
+2026-07-24 13:52:05,424 [DEBUG]   Filtered (not relevant): House of the Week: Mother-daughter team used ‘love and hard work’ to restore thi
+2026-07-24 13:52:05,425 [DEBUG]   Filtered (not relevant): Miss Manners: It’s my dream ring, but he can afford it and has reason to use it
+2026-07-24 13:52:05,425 [DEBUG]   Filtered (not relevant): Syracuse Mets shut out by RailRiders 2-0 despite strong bullpen
+2026-07-24 13:52:05,425 [DEBUG]   Filtered (not relevant): Fans heartbroken after beloved singer dies from cancer: ‘Our loss is Heaven’s ga
+2026-07-24 13:52:05,426 [DEBUG]   Filtered (not relevant): ‘Seinfeld’ star pays up after accusation of inappropriate actions with underage 
+2026-07-24 13:52:05,426 [DEBUG]   Filtered (not relevant): Young country singer’s fans praying as he battles serious health issues: ‘We lov
+2026-07-24 13:52:05,426 [DEBUG]   Filtered (not relevant): Rock legend went from stage into surgery: ‘The pain became intense’
+2026-07-24 13:52:05,427 [DEBUG]   Filtered (not relevant): Famed author testifies at terrorism trial of man convicted of stabbing him in Up
+2026-07-24 13:52:05,427 [DEBUG]   Filtered (not relevant): Dear Abby: My husband’s depression has him apathetic about his personal hygiene
+2026-07-24 13:52:05,428 [DEBUG]   Filtered (not relevant): Asking Eric: I don’t want to be a part of family, friends casually uploading per
+2026-07-24 13:52:05,428 [DEBUG]   Filtered (not relevant): Set designer for popular TV shows and husband found dead in possible murder-suic
+2026-07-24 13:52:05,429 [DEBUG]   Filtered (not relevant): Boeheim’s Army vs. Hall In in the TBT: Game 2 box score
+2026-07-24 13:52:05,429 [DEBUG]   Filtered (not relevant): Boeheim’s Army gets past Hall In in front of big TBT crowd at War Memorial (Donn
+2026-07-24 13:52:05,431 [INFO] News Scanner Run — 2026-07-24 13:52
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • LA city council bans these 2 controversial words
+  • Ryan McMahon blames attorney for term-limit screwup (Good Morning CNY)
+
