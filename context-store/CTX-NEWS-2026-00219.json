@@ -1,0 +1,50 @@
+{
+  "record_id": "CTX-NEWS-2026-00219",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangebasketball/2026/07/carmelo-anthony-on-syracuses-coaching-search-and-his-role-in-it-to-pick-gerry-was-easy.html",
+  "publication_date": "2026-07-27",
+  "capture_date": "2026-07-27T14:44:07Z",
+  "title": "Melo on Syracuse’s coaching search and his role in it: ‘To pick Gerry was easy’",
+  "summary": "This article covers Carmelo Anthony's involvement in Syracuse University's basketball coaching search and his support for Gerry McNamara's selection. The content is primarily sports-focused and does not address City of Syracuse municipal governance, services, or policy matters relevant to the Chief Innovation Officer.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIVERSITY"
+    },
+    {
+      "name": "Carmelo Anthony",
+      "type": "person",
+      "canonical_id": "PERSON-CARMELO-ANTHONY"
+    },
+    {
+      "name": "Gerry McNamara",
+      "type": "person",
+      "canonical_id": "PERSON-GERRY-MCNAMARA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is out of scope: covers Syracuse University athletics, not City of Syracuse municipal operations or services",
+    "No city government departments, budgets, infrastructure, or policy implications detected",
+    "Recommend exclusion from CIO context library unless institutional partnerships with SUNY system are relevant to strategic priorities",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

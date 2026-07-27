@@ -1,0 +1,76 @@
+2026-07-27 14:44:02,367 [INFO] ============================================================
+2026-07-27 14:44:02,367 [INFO] News Scanner starting
+2026-07-27 14:44:02,368 [INFO] Fetching: Syracuse.com Politics
+2026-07-27 14:44:02,841 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-27 14:44:02,841 [INFO] Fetching: Syracuse.com Government
+2026-07-27 14:44:03,027 [INFO]   0 new articles from Syracuse.com Government
+2026-07-27 14:44:03,027 [INFO] Fetching: Syracuse.com Local
+2026-07-27 14:44:03,170 [INFO]   0 new articles from Syracuse.com Local
+2026-07-27 14:44:03,171 [INFO] Fetching: Syracuse.com Main
+2026-07-27 14:44:03,323 [INFO]   0 new articles from Syracuse.com Main
+2026-07-27 14:44:03,323 [INFO] Total unique articles across all feeds: 50
+2026-07-27 14:44:03,323 [INFO] New articles (not previously processed): 50
+2026-07-27 14:44:03,381 [DEBUG]   Filtered (not relevant): Florida man’s raps about crimes lead police to find ‘witchcraft,’ goat sacrifice
+2026-07-27 14:44:03,382 [DEBUG]   Filtered (not relevant): ‘I tried my best’: Westcott café closes after nearly 6 years
+2026-07-27 14:44:03,382 [DEBUG]   Filtered (not relevant): See all homes sold in Onondaga County by school district in June 2026
+2026-07-27 14:44:03,383 [DEBUG]   Filtered (not relevant): Shoppers are sprinting to Target to score 43% off the Beats Studio Pro Bluetooth
+2026-07-27 14:44:03,383 [DEBUG]   Filtered (not relevant): North Carolina football GM placed on administrative leave
+2026-07-27 14:44:03,384 [DEBUG]   Filtered (not relevant): What investigators know after eight family members were found dead in Michigan h
+2026-07-27 14:44:03,384 [DEBUG]   Filtered (not relevant): NFL assistant coach fired days before start of training camp
+2026-07-27 14:44:03,384 [DEBUG]   Filtered (not relevant): Trump press secretary makes major admission on the economy but plays the blame g
+2026-07-27 14:44:03,385 [DEBUG]   Filtered (not relevant): Music legend reveals heartbreaking diagnosis
+2026-07-27 14:44:03,385 [DEBUG]   Filtered (not relevant): Americans changing eating habits due to ‘explosive diarrhea’ outbreak: Report
+2026-07-27 14:44:03,386 [DEBUG]   Filtered (not relevant): Two bodies found days apart at North Carolina park lead to murder charges
+2026-07-27 14:44:03,386 [DEBUG]   Filtered (not relevant): Immigration agents have been stalking workers at a tomato plant near Rochester
+2026-07-27 14:44:03,387 [DEBUG]   Filtered (not relevant): Walmart slashes the price of the Blackstone Outdoor Griddle to less than $300 in
+2026-07-27 14:44:03,387 [DEBUG]   Filtered (not relevant): Jacoby Brissett gets $10.6 million raise in new Cardinals deal
+2026-07-27 14:44:03,388 [DEBUG]   Filtered (not relevant): $20 Polymarket referral code “CUSE” presented in NY for Mets, Yankees, MLB Monda
+2026-07-27 14:44:03,389 [DEBUG]   Filtered (not relevant): Mets vs. Braves prediction: Polymarket prices, parlays and best bet for Monday
+2026-07-27 14:44:03,389 [DEBUG]   Filtered (not relevant): Miss Manners: ‘Hey you guys!’ annoys reader who isn’t keen on its widespread use
+2026-07-27 14:44:03,390 [DEBUG]   Filtered (not relevant): Miss Manners: Why are we using ‘guys’ to refer to mixed groups of people?
+2026-07-27 14:44:03,390 [DEBUG]   Filtered (not relevant): Dear Doctor: When standard RA medications aren’t an option,  exploring biologica
+2026-07-27 14:44:03,391 [DEBUG]   Filtered (not relevant): Former NFL linebacker deported by ICE
+2026-07-27 14:44:03,391 [DEBUG]   Filtered (not relevant): Remains found in Florida canal identified as Upstate NY woman missing for 41 yea
+2026-07-27 14:44:03,392 [DEBUG]   Filtered (not relevant): Sheldon Haudenschild and David Gravel win Outlaw features at Weedsport
+2026-07-27 14:44:03,392 [DEBUG]   Filtered (not relevant): Byrne Dairy proposes building another store and gas station in this Syracuse sub
+2026-07-27 14:44:03,393 [DEBUG]   Filtered (not relevant): 2-year-old boy overdosed on cocaine, NJ police say; man arrested
+2026-07-27 14:44:03,393 [DEBUG]   Filtered (not relevant): Billboard, diner, church: See 48 latest business, apartment, vacant land sales (
+2026-07-27 14:44:03,394 [DEBUG]   Filtered (not relevant): Do you have great old New York State Fair stuff or souvenirs?
+2026-07-27 14:44:03,394 [DEBUG]   Filtered (not relevant): NY AG warns CNY sheriff to stop cooperating with ICE (Good Morning CNY)
+2026-07-27 14:44:03,394 [DEBUG]   Filtered (not relevant): Usher and Chris Brown, Tim McGraw, Macedonian Festival: 15 things to do in Centr
+2026-07-27 14:44:03,394 [DEBUG]   Filtered (not relevant): 15 of the most common last names in the U.S.
+2026-07-27 14:44:03,395 [DEBUG]   Filtered (not relevant): How much will Social Security benefits go up next year? Here’s when you’ll know
+2026-07-27 14:44:03,395 [DEBUG]   Filtered (not relevant): Permanent daylight saving time: 19 states ready to end time change if Congress g
+2026-07-27 14:44:03,396 [DEBUG]   Filtered (not relevant): Dear Annie: I asked family to come for a visit, not to convert my Catholic neigh
+2026-07-27 14:44:03,396 [DEBUG]   Filtered (not relevant): SU football: Which position are you most concerned about?
+2026-07-27 14:44:03,396 [DEBUG]   Filtered (not relevant): 3 dead in shooting at Seattle food festival: ‘I heard a ‘pop, pop, pop’
+2026-07-27 14:44:03,397 [DEBUG]   Filtered (not relevant): Central NY bracing for several days of rain, flooding threat
+2026-07-27 14:44:03,397 [INFO]   Relevant: Melo on Syracuse’s coaching search and his role in it: ‘To pick Gerry was easy’
+2026-07-27 14:44:03,397 [DEBUG]     → Entities: Syracuse University
+2026-07-27 14:44:07,183 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-07-27 14:44:07,202 [INFO]     Saved: CTX-NEWS-2026-00219 → CTX-NEWS-2026-00219.json
+2026-07-27 14:44:07,203 [DEBUG]   Filtered (not relevant): Best Buy is building out solar across 5 states — and its newest projects are in 
+2026-07-27 14:44:07,203 [DEBUG]   Filtered (not relevant): Why a country music legend retired at 60: ‘It’s a young man’s game’
+2026-07-27 14:44:07,204 [DEBUG]   Filtered (not relevant): Best Buy just locked up exclusive rights to the TVs it's calling the biggest upg
+2026-07-27 14:44:07,204 [DEBUG]   Filtered (not relevant): Rock star battling cancer shares emotional post after singer’s death: ‘Breaks my
+2026-07-27 14:44:07,205 [DEBUG]   Filtered (not relevant): Dear Abby: I have a hunch my brother-in-law is planning to exploit my aging in-l
+2026-07-27 14:44:07,205 [DEBUG]   Filtered (not relevant): Larry the Cable Guy addresses fans after hospitalization: ‘Had major stomach pai
+2026-07-27 14:44:07,205 [DEBUG]   Filtered (not relevant): Equifax lawsuit victims could get up to $600
+2026-07-27 14:44:07,206 [DEBUG]   Filtered (not relevant): Legendary singer had disturbing symptom before terminal cancer diagnosis: ‘Super
+2026-07-27 14:44:07,206 [DEBUG]   Filtered (not relevant): Asking Eric: Illness canceled grad dinner. Did we get uninvited because make up 
+2026-07-27 14:44:07,206 [DEBUG]   Filtered (not relevant): Multiple people shot as gunfire erupts near Seattle’s iconic Space Needle, polic
+2026-07-27 14:44:07,207 [DEBUG]   Filtered (not relevant): Upgraded $20 Polymarket invite code “CUSE” launches for MLB this month
+2026-07-27 14:44:07,208 [DEBUG]   Filtered (not relevant): Atlanta Braves vs. New York Mets: Prediction, MLB picks, odds for 7/27/2026
+2026-07-27 14:44:07,208 [DEBUG]   Filtered (not relevant): Claim $20 Polymarket referral code “CUSE” for Liberty-Sparks, WNBA games on Tues
+2026-07-27 14:44:07,208 [DEBUG]   Filtered (not relevant): Update: Pea-sized hail predicted with thunderstorms to hit Cortland and Chenango
+2026-07-27 14:44:07,210 [INFO] News Scanner Run — 2026-07-27 14:44
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Melo on Syracuse’s coaching search and his role in it: ‘To pick Gerry was easy’
+
