@@ -1,0 +1,25 @@
+2026-07-28 14:35:08,606 [INFO] ============================================================
+2026-07-28 14:35:08,606 [INFO] Website Monitor starting
+2026-07-28 14:35:09,967 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-07-28 14:35:09,967 [INFO]   Navigating to https://www.syr.gov/News
+2026-07-28 14:35:14,971 [INFO]   Found 10 article links in News
+2026-07-28 14:35:19,972 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-07-27-Mayors-Office-News-1200-PM
+2026-07-28 14:35:32,534 [WARNING]     Tag issue: Unknown tag 'public-safety' not in taxonomy
+2026-07-28 14:35:32,547 [INFO]     Saved: CTX-WEB-2026-00163 → CTX-WEB-2026-00163.json
+2026-07-28 14:35:32,547 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-07-28 14:35:32,547 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-07-28 14:35:36,284 [INFO]   Found 0 article links in Announcements
+2026-07-28 14:35:41,284 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-07-28 14:35:41,284 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-07-28 14:35:44,960 [INFO]   Found 0 article links in Public Notices
+2026-07-28 14:35:50,005 [INFO] Website Monitor Run — 2026-07-28 14:35
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • SPD and U.S. Marshals Announce Completion of Operation Orange
+

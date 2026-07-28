@@ -1,0 +1,71 @@
+{
+  "record_id": "CTX-WEB-2026-00163",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-07-27-Mayors-Office-News-1200-PM",
+  "publication_date": "2026-07-27",
+  "capture_date": "2026-07-28T14:35:32Z",
+  "title": "SPD and U.S. Marshals Announce Completion of Operation Orange",
+  "summary": "Syracuse Police Department and U.S. Marshals Service completed Operation Orange (May 11–July 10, 2026), a sex offender registry compliance enforcement initiative that conducted 100+ residential compliance checks, identified 85 noncompliant individuals, and issued arrest warrants. The operation improved registry accuracy and demonstrated federal-local law enforcement collaboration on public safety.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "public-safety",
+    "investigation",
+    "federal-programs",
+    "intergovernmental",
+    "initiative-launch",
+    "resolved",
+    "crime-data"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Mark Rusin",
+      "type": "person",
+      "canonical_id": "PERSON-MARK-RUSIN"
+    },
+    {
+      "name": "Christopher J. Amoia",
+      "type": "person",
+      "canonical_id": "PERSON-CHRISTOPHER-AMOIA"
+    },
+    {
+      "name": "United States Marshals Service",
+      "type": "organization",
+      "canonical_id": "ORG-USMS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor and Police Chief jointly champion public safety initiative; emphasis on federal-local collaboration and registry accuracy as community protection measure.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown; press release sourced from official syr.gov domain",
+    "No budget or resource allocation figures provided",
+    "Operation dates span 2 months; described as completed/resolved",
+    "U.S. Marshals Service is federal partner; appropriate intergovernmental tag applied",
+    "Sex offender registry compliance is regulatory/mandated function; not discretionary initiative",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'public-safety' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}
