@@ -1,0 +1,60 @@
+{
+  "record_id": "CTX-NEWS-2026-00220",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/07/micron-update-hiring-continues-stocks-soar-and-heavy-truck-traffic-begins-in-upstate-ny-aerial-photos.html",
+  "publication_date": "2026-07-28",
+  "capture_date": "2026-07-28T14:16:57Z",
+  "title": "Micron update: Hiring continues, profits soar and heavy truck traffic begins in Upstate NY",
+  "summary": "Micron Technology's semiconductor manufacturing complex in Clay, NY is progressing through construction with ongoing hiring and increased heavy vehicle traffic. The project represents significant economic development for the region after three years of planning.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "hiring",
+    "infrastructure",
+    "construction-staging",
+    "workforce-development",
+    "intergovernmental",
+    "transportation"
+  ],
+  "department_refs": [
+    "Department of Economic Development",
+    "Department of Transportation",
+    "Department of Planning"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Glenn Coin",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Major corporate investment project demonstrating regional economic development momentum and job creation, aligning with municipal growth and workforce development priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on project status update rather than specific city policy impact; limited actionable intelligence for CIO absent IT infrastructure or digital services angles",
+    "No dollar amounts or budget figures provided in excerpt",
+    "Heavy truck traffic mentioned but no specific traffic management, permitting, or infrastructure details available in excerpt",
+    "Location: Town of Clay (adjacent to Syracuse but outside city limits—verify jurisdictional relevance)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,75 @@
+2026-07-28 14:16:52,428 [INFO] ============================================================
+2026-07-28 14:16:52,428 [INFO] News Scanner starting
+2026-07-28 14:16:52,429 [INFO] Fetching: Syracuse.com Politics
+2026-07-28 14:16:52,956 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-28 14:16:52,956 [INFO] Fetching: Syracuse.com Government
+2026-07-28 14:16:53,060 [INFO]   0 new articles from Syracuse.com Government
+2026-07-28 14:16:53,060 [INFO] Fetching: Syracuse.com Local
+2026-07-28 14:16:53,264 [INFO]   0 new articles from Syracuse.com Local
+2026-07-28 14:16:53,265 [INFO] Fetching: Syracuse.com Main
+2026-07-28 14:16:53,393 [INFO]   0 new articles from Syracuse.com Main
+2026-07-28 14:16:53,393 [INFO] Total unique articles across all feeds: 50
+2026-07-28 14:16:53,393 [INFO] New articles (not previously processed): 50
+2026-07-28 14:16:53,425 [DEBUG]   Filtered (not relevant): Engineer dies after heavy machinery falls on him at Heathrow Airport
+2026-07-28 14:16:53,425 [DEBUG]   Filtered (not relevant): A judge just made a major decision in the case over the crash that killed four c
+2026-07-28 14:16:53,426 [DEBUG]   Filtered (not relevant): $20 Polymarket referral code “CUSE” updated in NY, PA, CA for MLB Tuesday
+2026-07-28 14:16:53,426 [DEBUG]   Filtered (not relevant): Parents say school discipline of autistic first grader raises bigger concerns
+2026-07-28 14:16:53,426 [DEBUG]   Filtered (not relevant): Sitcom legend, 71, could end up on the ballot in the future
+2026-07-28 14:16:53,427 [DEBUG]   Filtered (not relevant): Here’s why US walked out on France at UN meeting
+2026-07-28 14:16:53,427 [DEBUG]   Filtered (not relevant): The Apple AirPods 4 are just $99 with free shipping at Walmart this week
+2026-07-28 14:16:53,427 [DEBUG]   Filtered (not relevant): How to secure Orville Peck presale tickets today for 2026 ‘Man Turned Mule Tour’
+2026-07-28 14:16:53,428 [DEBUG]   Filtered (not relevant): 2-time NBA champion JR Smith makes APGA Tour debut
+2026-07-28 14:16:53,428 [DEBUG]   Filtered (not relevant): Liberty vs. Sparks WNBA: Polymarket prices, Plum and Ionescu props
+2026-07-28 14:16:53,428 [DEBUG]   Filtered (not relevant): Bryan Kohberger to withdraw guilty plea in Idaho murders case
+2026-07-28 14:16:53,428 [DEBUG]   Filtered (not relevant): Serious two-car crash sends vehicle into Syracuse home
+2026-07-28 14:16:53,429 [DEBUG]   Filtered (not relevant): Is your car at risk of being stolen? 2 million vehicles vulnerable to Bluetooth 
+2026-07-28 14:16:53,429 [DEBUG]   Filtered (not relevant): 5 basketball players and their coach arrested after incident at 7-Eleven
+2026-07-28 14:16:53,429 [DEBUG]   Filtered (not relevant): Local coach creates All4Love Showcase to give girls basketball players a time to
+2026-07-28 14:16:53,429 [DEBUG]   Filtered (not relevant): Dear Doctor: There seems to be protein added to everything from pasta to soda - 
+2026-07-28 14:16:53,430 [DEBUG]   Filtered (not relevant): Community control of Kaua’i fishery in Hawaii is showing ‘remarkable’ results
+2026-07-28 14:16:53,430 [DEBUG]   Filtered (not relevant): Miss Manners: Will my guests understand they’re to drink the cold soup, not spoo
+2026-07-28 14:16:53,430 [DEBUG]   Filtered (not relevant): Why you won’t find these popular items at Costco
+2026-07-28 14:16:53,431 [DEBUG]   Filtered (not relevant): Powerball results for 07/27/26: Jackpot worth $637 million
+2026-07-28 14:16:53,431 [DEBUG]   Filtered (not relevant): Permanent daylight saving time: What the change would mean for every state
+2026-07-28 14:16:53,431 [DEBUG]   Filtered (not relevant): Syracuse-area medical technology business is laying off workers, moving manufact
+2026-07-28 14:16:53,431 [DEBUG]   Filtered (not relevant): Magnitude 6.8 earthquake hits Japan; no tsunami detected
+2026-07-28 14:16:53,431 [DEBUG]   Filtered (not relevant): Assault, sex abuse, weapons charges: See 259 new arrests added to police blotter
+2026-07-28 14:16:53,432 [DEBUG]   Filtered (not relevant): Police ID 85 sex offenders in violation of registry (Good Morning CNY)
+2026-07-28 14:16:53,432 [DEBUG]   Filtered (not relevant): Dear Annie: My sister uses her psychology training to justify being a huge bully
+2026-07-28 14:16:53,432 [DEBUG]   Filtered (not relevant): How do you compare? What’s the average credit score by age?
+2026-07-28 14:16:53,432 [DEBUG]   Filtered (not relevant): Madison County sheriff will defy NY AG’s warning: ‘I’m still going to work with 
+2026-07-28 14:16:53,432 [DEBUG]   Filtered (not relevant): SU football: Which position are you least concerned about? | Axe
+2026-07-28 14:16:53,433 [DEBUG]   Filtered (not relevant): Flash flooding possible as multiple states face heavy rain, thunderstorms
+2026-07-28 14:16:53,433 [DEBUG]   Filtered (not relevant): Flood watch issued for parts of Central NY: Heavy rain expected Tuesday, Wednesd
+2026-07-28 14:16:53,433 [DEBUG]   Filtered (not relevant): CNY Inspirations: Sand, sunburns and staying human
+2026-07-28 14:16:53,434 [DEBUG]   Filtered (not relevant): Inside the Emotional First Day of the Lindsay Clancy Murder Trial
+2026-07-28 14:16:53,434 [DEBUG]   Filtered (not relevant): Nationwide recall issued for cancer medication after steel found in IV drug
+2026-07-28 14:16:53,434 [DEBUG]   Filtered (not relevant): Apple’s latest lawsuit involves bogus Bitcoin wallet
+2026-07-28 14:16:53,434 [DEBUG]   Filtered (not relevant): Here’s what Carmelo Anthony meant by his edgy comment last season: ‘I stand on i
+2026-07-28 14:16:53,434 [DEBUG]   Filtered (not relevant): 15-year-old Kentucky boy shot, killed months after saving young girl’s life
+2026-07-28 14:16:53,435 [INFO]   Relevant: Micron update: Hiring continues, profits soar and heavy truck traffic begins in 
+2026-07-28 14:16:53,435 [DEBUG]     → Entities: Micron Technology
+2026-07-28 14:16:57,499 [INFO]     Saved: CTX-NEWS-2026-00220 → CTX-NEWS-2026-00220.json
+2026-07-28 14:16:57,500 [DEBUG]   Filtered (not relevant): Hundreds of Howard Students Lose Enrollment Weeks Before Fall Semester Begins
+2026-07-28 14:16:57,500 [DEBUG]   Filtered (not relevant): These are the luckiest and unluckiest Mega Millions numbers drawn since April 20
+2026-07-28 14:16:57,500 [DEBUG]   Filtered (not relevant): Dear Abby: Is the only way I’ll have a good road trip if I sneak out and don’t t
+2026-07-28 14:16:57,501 [DEBUG]   Filtered (not relevant): Beach hazards statement in place for Finger Lakes, Central NY until Thursday aft
+2026-07-28 14:16:57,501 [DEBUG]   Filtered (not relevant): Beach hazards statement for Niagara and Orleans counties until Wednesday evening
+2026-07-28 14:16:57,501 [DEBUG]   Filtered (not relevant): Beach hazards statement for Chautauqua County until Wednesday afternoon
+2026-07-28 14:16:57,501 [DEBUG]   Filtered (not relevant): Asking Eric: We need to choose which son to live with. How do we avoid hurting o
+2026-07-28 14:16:57,502 [DEBUG]   Filtered (not relevant): Update: The current flash flood warning for Niagara County will be expiring at 6
+2026-07-28 14:16:57,502 [DEBUG]   Filtered (not relevant): Update: Flash flood warning affecting Allegany and Cattaraugus counties until Tu
+2026-07-28 14:16:57,502 [DEBUG]   Filtered (not relevant): Update: Flood watch issued for Southern Tier, Hudson Valley until Wednesday even
+2026-07-28 14:16:57,503 [DEBUG]   Filtered (not relevant): Flood watch in place for Delaware County until Wednesday evening caused by subst
+2026-07-28 14:16:57,503 [DEBUG]   Filtered (not relevant): Update: Thunderstorms with damaging winds and penny-sized hail in Allegany and C
+2026-07-28 14:16:57,504 [INFO] News Scanner Run — 2026-07-28 14:16
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Micron update: Hiring continues, profits soar and heavy truck traffic begins in 
+
