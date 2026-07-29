@@ -1,0 +1,78 @@
+2026-07-29 14:18:29,095 [INFO] ============================================================
+2026-07-29 14:18:29,095 [INFO] News Scanner starting
+2026-07-29 14:18:29,097 [INFO] Fetching: Syracuse.com Politics
+2026-07-29 14:18:29,585 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-29 14:18:29,585 [INFO] Fetching: Syracuse.com Government
+2026-07-29 14:18:29,807 [INFO]   0 new articles from Syracuse.com Government
+2026-07-29 14:18:29,807 [INFO] Fetching: Syracuse.com Local
+2026-07-29 14:18:30,066 [INFO]   0 new articles from Syracuse.com Local
+2026-07-29 14:18:30,066 [INFO] Fetching: Syracuse.com Main
+2026-07-29 14:18:30,343 [INFO]   0 new articles from Syracuse.com Main
+2026-07-29 14:18:30,343 [INFO] Total unique articles across all feeds: 50
+2026-07-29 14:18:30,343 [INFO] New articles (not previously processed): 50
+2026-07-29 14:18:30,400 [DEBUG]   Filtered (not relevant): Jessica Harris earns SUNY Chancellor’s Award for teaching
+2026-07-29 14:18:30,400 [INFO]   Relevant: Carmelo Anthony on whether Syracuse basketball has the money it needs to win
+2026-07-29 14:18:30,400 [DEBUG]     → Entities: Syracuse University
+2026-07-29 14:18:35,425 [INFO]     Saved: CTX-NEWS-2026-00221 → CTX-NEWS-2026-00221.json
+2026-07-29 14:18:35,426 [DEBUG]   Filtered (not relevant): How to get presale tickets for Jon Stewart, Pete Davidson’s 9/11 comedy benefit 
+2026-07-29 14:18:35,427 [DEBUG]   Filtered (not relevant): Syracuse.com goes to court to unseal documents in suspicious immigration arrest
+2026-07-29 14:18:35,427 [DEBUG]   Filtered (not relevant): $20 Polymarket referral code “CUSE” upgraded in NY, GA and IL for MLB Mets-Brave
+2026-07-29 14:18:35,428 [DEBUG]   Filtered (not relevant): The Dyson V8 Absolute Vacuum is $290 off at Walmart for a limited time
+2026-07-29 14:18:35,428 [DEBUG]   Filtered (not relevant): How to watch Braves-Mets doubleheader today: MLB free live stream
+2026-07-29 14:18:35,429 [DEBUG]   Filtered (not relevant): How to secure Audrey Hobert presale tickets today before they sell out
+2026-07-29 14:18:35,430 [DEBUG]   Filtered (not relevant): Fauci declines to testify after subpoena as Senate revisits COVID response
+2026-07-29 14:18:35,430 [DEBUG]   Filtered (not relevant): Longtime Dallas Cowboys quarterback signs with Atlanta Falcons
+2026-07-29 14:18:35,430 [DEBUG]   Filtered (not relevant): How to secure Tyla presale tickets today for 2026 ‘A*POP World Tour’
+2026-07-29 14:18:35,431 [DEBUG]   Filtered (not relevant): Yankees vs. White Sox prediction: Polymarket prices, parlays and Schlittler prop
+2026-07-29 14:18:35,431 [DEBUG]   Filtered (not relevant): Christina Dickerson named Upstate community relations manager
+2026-07-29 14:18:35,432 [DEBUG]   Filtered (not relevant): Giants outfielder Harrison Bader injured in scooter crash
+2026-07-29 14:18:35,432 [DEBUG]   Filtered (not relevant): Miss Manners: I planned a lovely garden party for guests but 1 bee showed up and
+2026-07-29 14:18:35,433 [DEBUG]   Filtered (not relevant): Dozens sickened in fourth cruise ship gastrointestinal illness outbreak in less 
+2026-07-29 14:18:35,433 [DEBUG]   Filtered (not relevant): Costco adds new menu item at food court: ‘Best I’ve ever had’
+2026-07-29 14:18:35,434 [DEBUG]   Filtered (not relevant): Earthquake in Florida blamed on mystery ‘explosion’ (reports)
+2026-07-29 14:18:35,434 [DEBUG]   Filtered (not relevant): See CNY schools ranked 1 to 67 based on latest Algebra II Regents
+2026-07-29 14:18:35,434 [DEBUG]   Filtered (not relevant): Why cannabis education belongs at the New York State Fair (Guest Opinion by Joe 
+2026-07-29 14:18:35,435 [DEBUG]   Filtered (not relevant): ‘The Proud Family: Louder and Prouder’ final season premieres today — watch for 
+2026-07-29 14:18:35,435 [DEBUG]   Filtered (not relevant): Arc of Onondaga appoints Alisha Lorenzo, Faith Wade
+2026-07-29 14:18:35,436 [DEBUG]   Filtered (not relevant): 7 million Trump Accounts opened: How to start yours and get $1,000
+2026-07-29 14:18:35,436 [DEBUG]   Filtered (not relevant): Tuesday’s Mega Millions drawing: Florida lottery ticket wins $800M; Upstate NY p
+2026-07-29 14:18:35,437 [DEBUG]   Filtered (not relevant): This Finger Lake supplies nearly half of CNY’s drinking water, but it’s aging at
+2026-07-29 14:18:35,437 [INFO]   Relevant: Syracuse University is going all-in on influencers. Meet the man leading the eff
+2026-07-29 14:18:35,437 [DEBUG]     → Entities: Syracuse University
+2026-07-29 14:18:39,405 [INFO]     Saved: CTX-NEWS-2026-00222 → CTX-NEWS-2026-00222.json
+2026-07-29 14:18:39,405 [DEBUG]   Filtered (not relevant): Dear Annie: Adult daughter doesn’t pay rent, doesn’t help around the house. Can 
+2026-07-29 14:18:39,406 [DEBUG]   Filtered (not relevant): SU football: Which new coach has to make the most immediate impact? | Axe
+2026-07-29 14:18:39,406 [DEBUG]   Filtered (not relevant): CNY sheriff says he’ll keep working with ICE (Good Morning CNY)
+2026-07-29 14:18:39,407 [DEBUG]   Filtered (not relevant): Powerball winner arrested for 4th time since $167 million jackpot
+2026-07-29 14:18:39,407 [DEBUG]   Filtered (not relevant): Central NY weather: Soggy stretch will continue through Thursday
+2026-07-29 14:18:39,407 [DEBUG]   Filtered (not relevant): Major airline resumes flights after nationwide halt
+2026-07-29 14:18:39,408 [DEBUG]   Filtered (not relevant): Aldi fans, take note: it didn't win the grocery price war this time
+2026-07-29 14:18:39,408 [DEBUG]   Filtered (not relevant): Maryland man allegedly told girlfriend he’d force her to eat dead son’s ashes be
+2026-07-29 14:18:39,408 [DEBUG]   Filtered (not relevant): Netflix reverses decision on popular show’s renewal
+2026-07-29 14:18:39,409 [DEBUG]   Filtered (not relevant): A strange odor forced this American Airlines flight to land in another country
+2026-07-29 14:18:39,410 [DEBUG]   Filtered (not relevant): Carmelo Anthony thinks Kiyan is primed for sophomore year: ‘I know he’ll have a 
+2026-07-29 14:18:39,410 [DEBUG]   Filtered (not relevant): Mastercard offers new scam protections to combat fraud
+2026-07-29 14:18:39,411 [DEBUG]   Filtered (not relevant): Dear Doctor: Is weight loss drug safe for senior with Type 1 diabetes?
+2026-07-29 14:18:39,411 [DEBUG]   Filtered (not relevant): Longtime Onondaga County DA who said he wouldn’t run again leans toward another 
+2026-07-29 14:18:39,412 [DEBUG]   Filtered (not relevant): Dear Abby: Is my daughter’s ‘great’ boyfriend actually a dead end?
+2026-07-29 14:18:39,413 [DEBUG]   Filtered (not relevant): Asking Eric: Grandma feels pushed aside as more adults crowd her grandkids’ live
+2026-07-29 14:18:39,413 [DEBUG]   Filtered (not relevant): Update: Flood warning issued for Greene and Schoharie counties until Wednesday n
+2026-07-29 14:18:39,414 [DEBUG]   Filtered (not relevant): Update: Flood warning for Capital Region, Hudson Valley until early Wednesday ev
+2026-07-29 14:18:39,414 [DEBUG]   Filtered (not relevant): Flash flood warning in place for Dutchess County until Wednesday morning caused 
+2026-07-29 14:18:39,415 [DEBUG]   Filtered (not relevant): Flood watch affecting Capital Region until Wednesday evening due to substantial 
+2026-07-29 14:18:39,416 [DEBUG]   Filtered (not relevant): Update: Flash flood warning for Mohawk Valley, Capital Region until Wednesday af
+2026-07-29 14:18:39,416 [DEBUG]   Filtered (not relevant): $800 million Mega Millions jackpot won by lone player in July 28 drawing
+2026-07-29 14:18:39,417 [DEBUG]   Filtered (not relevant): Mega Millions numbers: Are you the lucky winner of Tuesday’s $800 million jackpo
+2026-07-29 14:18:39,417 [DEBUG]   Filtered (not relevant): Man charged with murder in shooting death of Syracuse woman
+2026-07-29 14:18:39,419 [INFO] News Scanner Run — 2026-07-29 14:18
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Carmelo Anthony on whether Syracuse basketball has the money it needs to win
+  • Syracuse University is going all-in on influencers. Meet the man leading the eff
+

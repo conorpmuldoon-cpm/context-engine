@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-NEWS-2026-00222",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/syracuse-university/2026/07/syracuse-university-is-going-all-in-on-influencers-meet-the-man-leading-the-effort.html",
+  "publication_date": "2026-07-29",
+  "capture_date": "2026-07-29T14:18:39Z",
+  "title": "Syracuse University is going all-in on influencers. Meet the man leading the effort",
+  "summary": "Syracuse University is expanding its programs related to the content creator and influencer industry, with leadership backing the strategic initiative. This represents a potential economic development and workforce opportunity for the Syracuse region, though details on specific programs, budget, and community partnerships remain limited in this announcement.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "workforce-development",
+    "business-community",
+    "initiative-launch",
+    "trending"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIV"
+    },
+    {
+      "name": "Jon Moss",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "University investment in content creator economy signals alignment with regional economic diversification and emerging workforce skills development priorities.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is announcement-stage with limited operational detail; no budget figures, specific departments, or implementation timeline provided",
+    "Source is local media rather than official city/university communication",
+    "Future article updates likely to contain more actionable CIO intelligence regarding digital infrastructure, training programs, or public-private partnership models",
+    "Consider monitoring for related initiatives in digital-services, software-systems, or IT-infrastructure domains",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

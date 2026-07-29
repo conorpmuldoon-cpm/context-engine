@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00221",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangebasketball/2026/07/carmelo-anthony-on-whether-syracuse-basketball-has-the-money-it-needs-to-win.html",
+  "publication_date": "2026-07-29",
+  "capture_date": "2026-07-29T14:18:35Z",
+  "title": "Carmelo Anthony on whether Syracuse basketball has the money it needs to win",
+  "summary": "Article discusses Syracuse University men's basketball program's financial competitiveness in the modern athlete compensation era. Features commentary from alumnus Carmelo Anthony on whether the university has adequate resources to remain competitive. Relevant to city economic development and institutional partnership considerations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:higher-education",
+    "PROVISIONAL:athletics",
+    "PROVISIONAL:compensation-policy",
+    "economic-development",
+    "business-community"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIV"
+    },
+    {
+      "name": "Carmelo Anthony",
+      "type": "person",
+      "canonical_id": "PERSON-CARMELO-ANTHONY"
+    },
+    {
+      "name": "Mike Waters",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Article raises questions about Syracuse University's resource allocation and competitive positioning in college athletics, potentially signaling broader institutional funding priorities and competitiveness concerns.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on higher education athletics, outside typical municipal CIO domain",
+    "No direct city government operations, IT systems, or digital services mentioned",
+    "No dollar amounts specified in content provided",
+    "Potential relevance as major institutional stakeholder in Syracuse economic ecosystem",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
