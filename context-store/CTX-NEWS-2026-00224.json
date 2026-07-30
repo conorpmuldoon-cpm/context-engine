@@ -1,0 +1,47 @@
+{
+  "record_id": "CTX-NEWS-2026-00224",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/us-news/2026/07/former-ohio-mayor-makes-last-minute-move-before-criminal-trial.html",
+  "publication_date": "2026-07-30",
+  "capture_date": "2026-07-30T14:10:11Z",
+  "title": "Former Ohio mayor’s criminal case takes unexpected turn before trial",
+  "summary": "A former Ohio village mayor withdrew his jury trial request days before proceedings began, electing to have his voyeurism case decided by a judge instead. This is a criminal justice matter in a different state and does not directly impact Syracuse city operations or policy.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:criminal-justice",
+    "state-agency"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Mansfield, Ohio",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Chris Pugh",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns Ohio state criminal matter with no direct relevance to Syracuse municipal operations",
+    "No Syracuse departments, budgets, or local policy implications identified",
+    "Classified as out-of-jurisdiction news; low priority for CIO context unless part of comparative legal/governance research",
+    "Recommend excluding from routine CIO briefings unless linked to Syracuse-specific initiative",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

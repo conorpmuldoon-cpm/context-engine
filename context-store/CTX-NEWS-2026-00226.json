@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00226",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangefootball/2026/07/syracuse-football-lands-single-player-on-preseason-all-acc-team.html",
+  "publication_date": "2026-07-30",
+  "capture_date": "2026-07-30T14:10:18Z",
+  "title": "SU football lands one player on preseason All-ACC team",
+  "summary": "Syracuse University football team secured one player on the 2026 All-ACC Preseason Team. This article reports on athletic program recognition and does not contain information relevant to City of Syracuse municipal operations or the Chief Innovation Officer's portfolio.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Brent Axe",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article pertains to Syracuse University athletics, not City of Syracuse municipal government",
+    "No city services, infrastructure, budget, policy, or innovation-related content detected",
+    "Article is outside the scope of CIO municipal innovation portfolio",
+    "Recommend filtering or deprioritizing institutional sports coverage in future article submissions",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

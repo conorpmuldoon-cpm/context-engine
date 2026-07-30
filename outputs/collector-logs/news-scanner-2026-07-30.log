@@ -1,0 +1,86 @@
+2026-07-30 14:10:03,019 [INFO] ============================================================
+2026-07-30 14:10:03,019 [INFO] News Scanner starting
+2026-07-30 14:10:03,021 [INFO] Fetching: Syracuse.com Politics
+2026-07-30 14:10:03,301 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-30 14:10:03,301 [INFO] Fetching: Syracuse.com Government
+2026-07-30 14:10:03,472 [INFO]   0 new articles from Syracuse.com Government
+2026-07-30 14:10:03,472 [INFO] Fetching: Syracuse.com Local
+2026-07-30 14:10:03,660 [INFO]   0 new articles from Syracuse.com Local
+2026-07-30 14:10:03,660 [INFO] Fetching: Syracuse.com Main
+2026-07-30 14:10:03,820 [INFO]   0 new articles from Syracuse.com Main
+2026-07-30 14:10:03,821 [INFO] Total unique articles across all feeds: 50
+2026-07-30 14:10:03,821 [INFO] New articles (not previously processed): 50
+2026-07-30 14:10:03,878 [DEBUG]   Filtered (not relevant): Investigators say newly discovered digital evidence expanded the case against a 
+2026-07-30 14:10:03,879 [INFO]   Relevant: Schumer wades into Apple vs. Micron fight as tech giants spar over Chinese chips
+2026-07-30 14:10:03,879 [DEBUG]     → Entities: Micron Technology
+2026-07-30 14:10:03,879 [DEBUG]     → Departments: Department of Information Technology
+2026-07-30 14:10:07,818 [INFO]     Saved: CTX-NEWS-2026-00223 → CTX-NEWS-2026-00223.json
+2026-07-30 14:10:07,819 [DEBUG]   Filtered (not relevant): $20 Polymarket referral code “CUSE” extended in NY, NV for WNBA Thursday, Libert
+2026-07-30 14:10:07,819 [DEBUG]   Filtered (not relevant): Walmart’s best-selling 7-piece outdoor dining set is having a major markdown rig
+2026-07-30 14:10:07,820 [DEBUG]   Filtered (not relevant): Syracuse non-profit veterinary office manager charged with stealing $187k, prose
+2026-07-30 14:10:07,820 [DEBUG]   Filtered (not relevant): Popular discount chain adds 26 new stores: See the list
+2026-07-30 14:10:07,821 [DEBUG]   Filtered (not relevant): A routine family dispute led to a discovery that stunned investigators in southe
+2026-07-30 14:10:07,821 [DEBUG]   Filtered (not relevant): Former Syracuse DB becomes third Orange to join Tampa Bay Bucs
+2026-07-30 14:10:07,822 [DEBUG]   Filtered (not relevant): Meet syracuse.com’s 2026 All-CNY girls golf team
+2026-07-30 14:10:07,822 [DEBUG]   Filtered (not relevant): Weather keeping local tracks from hitting top speed
+2026-07-30 14:10:07,822 [DEBUG]   Filtered (not relevant): Lenape Nation to launch 3-week Delaware River canoe journey in August
+2026-07-30 14:10:07,823 [DEBUG]   Filtered (not relevant): Liberty vs. Aces prediction: Polymarket prices, props and best bet for marquee W
+2026-07-30 14:10:07,823 [DEBUG]   Filtered (not relevant): Powerball results for 07/29/26: $1 million winner sold as jackpot hits $707 mill
+2026-07-30 14:10:07,824 [DEBUG]   Filtered (not relevant): Beloved college football coach dies at 81: ‘Legacy will never be forgotten’
+2026-07-30 14:10:07,824 [DEBUG]   Filtered (not relevant): Miss Manners: I missed entire outdoor holiday party sitting inside with guest wh
+2026-07-30 14:10:07,825 [DEBUG]   Filtered (not relevant): A 14-year-old’s rodeo skills became the key to an incredible Yellowstone River r
+2026-07-30 14:10:07,825 [INFO]   Relevant: Former Ohio mayor’s criminal case takes unexpected turn before trial
+2026-07-30 14:10:07,826 [DEBUG]     → Keywords: mayor
+2026-07-30 14:10:11,747 [INFO]     Saved: CTX-NEWS-2026-00224 → CTX-NEWS-2026-00224.json
+2026-07-30 14:10:11,748 [DEBUG]   Filtered (not relevant): Former Chargers Team MVP, No. 5 pick in NFL Draft dies at 64
+2026-07-30 14:10:11,749 [DEBUG]   Filtered (not relevant): Historic Medicaid cuts are a body blow to vulnerable Americans (Guest Opinion by
+2026-07-30 14:10:11,749 [DEBUG]   Filtered (not relevant): ‘One of a kind’: Bob Miron saw the future of television. Then spent decades buil
+2026-07-30 14:10:11,749 [DEBUG]   Filtered (not relevant): Pope declares man's birth miracle, now he's been arrested
+2026-07-30 14:10:11,750 [DEBUG]   Filtered (not relevant): ‘Cyclospora skinny?’ Here’s why new weight-loss trend is dangerous
+2026-07-30 14:10:11,750 [INFO]   Relevant: More than a place to walk your dog, Syracuse park receives international recogni
+2026-07-30 14:10:11,750 [DEBUG]     → Keywords: city of syracuse
+2026-07-30 14:10:15,527 [INFO]     Saved: CTX-NEWS-2026-00225 → CTX-NEWS-2026-00225.json
+2026-07-30 14:10:15,528 [INFO]   Relevant: SU football lands one player on preseason All-ACC team
+2026-07-30 14:10:15,528 [DEBUG]     → Entities: Syracuse University
+2026-07-30 14:10:18,201 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-07-30 14:10:18,213 [INFO]     Saved: CTX-NEWS-2026-00226 → CTX-NEWS-2026-00226.json
+2026-07-30 14:10:18,213 [DEBUG]   Filtered (not relevant): Florida school bans girls from wearing leggings
+2026-07-30 14:10:18,213 [DEBUG]   Filtered (not relevant): Instacart partnership expands $125 grocery benefit to more military families
+2026-07-30 14:10:18,214 [DEBUG]   Filtered (not relevant): Dining Out Review: Downtown’s Isla Caribbean Cuisine rewards adventurous diners
+2026-07-30 14:10:18,214 [DEBUG]   Filtered (not relevant): Red flags everywhere for Trump as president hits all-time low in new poll
+2026-07-30 14:10:18,215 [DEBUG]   Filtered (not relevant): See who is giving campaign cash to Mannion, Buller in Central NY race for Congre
+2026-07-30 14:10:18,215 [DEBUG]   Filtered (not relevant): SU football: Which transfer has to make the most immediate impact? | Axe
+2026-07-30 14:10:18,215 [DEBUG]   Filtered (not relevant): Walmart recalls: Return these 4 products ASAP
+2026-07-30 14:10:18,216 [DEBUG]   Filtered (not relevant): Dear Annie: Pre-birthday meltdown about women problems may have lost me my best 
+2026-07-30 14:10:18,216 [DEBUG]   Filtered (not relevant): F-M legend removed after investigation into coaching practices (Good Morning CNY
+2026-07-30 14:10:18,216 [DEBUG]   Filtered (not relevant): Rare disease spreads in Florida; doctors think one animal is to blame
+2026-07-30 14:10:18,217 [DEBUG]   Filtered (not relevant): Central NY weather: Rain moves out Thursday, then 2 beautiful days expected
+2026-07-30 14:10:18,217 [DEBUG]   Filtered (not relevant): Country singer in tears as she cancels concert after 3 songs: ‘My worst nightmar
+2026-07-30 14:10:18,218 [DEBUG]   Filtered (not relevant): This Adirondacks gem was just named one of America’s most beautiful lake towns
+2026-07-30 14:10:18,218 [DEBUG]   Filtered (not relevant): Water pressure problem temporarily shuts restrooms, restaurants at Disneyland
+2026-07-30 14:10:18,218 [DEBUG]   Filtered (not relevant): Ben Lee: He’s 29. He’s got 5,263 contacts on his phone. He never stops working
+2026-07-30 14:10:18,219 [DEBUG]   Filtered (not relevant): Anti-Trump country star goes after pro-Trump singer: ‘Shut the (expletive) up’
+2026-07-30 14:10:18,220 [DEBUG]   Filtered (not relevant): Dear Doctor: Vertigo strikes weekly: Do I really have to live with this?
+2026-07-30 14:10:18,220 [DEBUG]   Filtered (not relevant): CNY Inspirations: Wrong shoes, right mountain
+2026-07-30 14:10:18,221 [DEBUG]   Filtered (not relevant): Inside Byrne Dairy’s big bet on high-protein milk: ‘Everybody wants it’
+2026-07-30 14:10:18,221 [DEBUG]   Filtered (not relevant): Rock star responds to reports he has brain cancer: ‘I’m inspired to tell people’
+2026-07-30 14:10:18,221 [DEBUG]   Filtered (not relevant): Country music star starts crying, calls off show after 3 songs: ‘Just can’t play
+2026-07-30 14:10:18,222 [DEBUG]   Filtered (not relevant): Dear Abby: Is college freshman’s 1 weird habit going to get him ridiculed?
+2026-07-30 14:10:18,222 [DEBUG]   Filtered (not relevant): Pop singer, star NFL quarterback announcement engagement: ‘Meet my fiancé’
+2026-07-30 14:10:18,223 [DEBUG]   Filtered (not relevant): Rock icon pauses tour after being rushed into surgery: ‘High risk of intense pai
+2026-07-30 14:10:18,223 [DEBUG]   Filtered (not relevant): Asking Eric: As friend downsizes I feel a bit left out as nothing comes my way
+2026-07-30 14:10:18,224 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Wednesday’s $663 million drawing
+2026-07-30 14:10:18,226 [INFO] News Scanner Run — 2026-07-30 14:10
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 4
+Filtered (not relevant): 46
+Errors: 0
+
+New records:
+  • Schumer wades into Apple vs. Micron fight as tech giants spar over Chinese chips
+  • Former Ohio mayor’s criminal case takes unexpected turn before trial
+  • More than a place to walk your dog, Syracuse park receives international recogni
+  • SU football lands one player on preseason All-ACC team
+

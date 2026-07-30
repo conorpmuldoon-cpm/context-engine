@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2026-00223",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/07/schumer-wades-into-apple-vs-micron-fight-as-tech-giants-spar-over-chinese-chips.html",
+  "publication_date": "2026-07-30",
+  "capture_date": "2026-07-30T14:10:07Z",
+  "title": "Schumer wades into Apple vs. Micron fight as tech giants spar over Chinese chips",
+  "summary": "U.S. Senator Schumer is intervening in a dispute between Apple and Micron Technology regarding semiconductor sourcing and Chinese chip competition. Micron is constructing a major semiconductor manufacturing facility in Central New York, making this federal-level tech policy dispute relevant to regional economic development and potential municipal IT infrastructure implications.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "business-community",
+    "federal-programs",
+    "intergovernmental",
+    "PROVISIONAL:semiconductor-manufacturing",
+    "PROVISIONAL:supply-chain-policy"
+  ],
+  "department_refs": [
+    "Department of Information Technology"
+  ],
+  "entity_refs": [
+    {
+      "name": "Charles Schumer",
+      "type": "person",
+      "canonical_id": "PERSON-CHARLES-SCHUMER"
+    },
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Apple",
+      "type": "organization",
+      "canonical_id": "ORG-APPLE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Federal legislative attention to semiconductor manufacturing in Central New York suggests alignment with regional economic development priorities and potential support for Micron's facility expansion.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on federal policy dispute; direct municipal impact unclear but relevant to regional economic development strategy",
+    "Micron facility is characterized as 'nation's largest semiconductor plant in Central New York' - major regional asset",
+    "No direct municipal budget or IT systems implications detected in article excerpt provided",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

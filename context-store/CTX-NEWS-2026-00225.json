@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-NEWS-2026-00225",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/outdoors/2026/07/more-than-a-place-to-walk-your-dog-syracuse-park-receives-international-recognition.html",
+  "publication_date": "2026-07-30",
+  "capture_date": "2026-07-30T14:10:15Z",
+  "title": "More than a place to walk your dog, Syracuse park receives international recognition",
+  "summary": "The James Pass Arboretum in Tipperary Hill has received international recognition under Chief Arborist Stephen Harris's leadership since 2010, transforming the nearly 100-year-old park from underutilized space into a destination asset. This reflects the city's investment in parks infrastructure and neighborhood revitalization with potential economic-development spillover effects.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "parks",
+    "historic-preservation",
+    "neighborhood-services",
+    "initiative-launch",
+    "economic-development",
+    "sustainability",
+    "announcement"
+  ],
+  "department_refs": [
+    "Parks and Recreation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Stephen Harris",
+      "type": "person",
+      "canonical_id": "PERSON-STEPHEN-HARRIS"
+    },
+    {
+      "name": "James Pass Arboretum",
+      "type": "organization",
+      "canonical_id": "ORG-JAMES-PASS-ARBORETUM"
+    },
+    {
+      "name": "Tipperary Hill",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "International recognition of city park signals successful long-term neighborhood investment and quality-of-life improvement initiative alignment with city priorities",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content truncated; full text not provided for deeper analysis",
+    "No budget figures or specific capital investment amounts mentioned in excerpt",
+    "International recognition achievement suggests completed initiative; recommend linking to grants/federal-programs if any supported the transformation",
+    "Tipperary Hill neighborhood context may connect to broader neighborhood revitalization efforts",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
