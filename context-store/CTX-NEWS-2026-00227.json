@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00227",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/07/syracuse-housing-authority-is-paying-274000-to-buy-out-former-directors-contract-heres-why.html",
+  "publication_date": "2026-07-31",
+  "capture_date": "2026-07-31T14:16:40Z",
+  "title": "Syracuse Housing Authority is paying $274,000 to buy out former director’s contract. Here’s why",
+  "summary": "The Syracuse Housing Authority finalized a $274,000 separation agreement with former Executive Director Bill Simmons, comprising approximately $100,000 plus one year's salary for early retirement. This personnel transaction represents a significant unplanned expenditure from the housing authority and may signal internal governance or performance issues requiring CIO attention regarding organizational oversight.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "labor-relations",
+    "budget",
+    "one-time",
+    "housing",
+    "transparency"
+  ],
+  "department_refs": [
+    "Syracuse Housing Authority"
+  ],
+  "entity_refs": [
+    {
+      "name": "Bill Simmons",
+      "type": "person",
+      "canonical_id": "PERSON-BILL-SIMMONS"
+    },
+    {
+      "name": "Syracuse Housing Authority",
+      "type": "organization",
+      "canonical_id": "ORG-SHA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Early executive departure with substantial buyout suggests potential performance, governance, or conflict issues requiring institutional oversight and transparency review.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article headline promises explanation ('Here's why') but content excerpt does not provide stated reasons for buyout—full article review recommended for complete context",
+    "Discrepancy noted: title mentions $274,000 total; body states '$100,000 plus one year's salary'—math and breakdown requires verification",
+    "No connected CIO systems, IT governance, or digital services implications apparent from excerpt; monitor for potential records management or FOIA implications",
+    "Housing Authority is state agency affiliate—may have separate governance oversight requirements",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

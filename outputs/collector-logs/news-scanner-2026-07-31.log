@@ -1,0 +1,75 @@
+2026-07-31 14:16:34,937 [INFO] ============================================================
+2026-07-31 14:16:34,937 [INFO] News Scanner starting
+2026-07-31 14:16:34,939 [INFO] Fetching: Syracuse.com Politics
+2026-07-31 14:16:35,255 [INFO]   50 new articles from Syracuse.com Politics
+2026-07-31 14:16:35,255 [INFO] Fetching: Syracuse.com Government
+2026-07-31 14:16:35,413 [INFO]   0 new articles from Syracuse.com Government
+2026-07-31 14:16:35,413 [INFO] Fetching: Syracuse.com Local
+2026-07-31 14:16:35,576 [INFO]   0 new articles from Syracuse.com Local
+2026-07-31 14:16:35,576 [INFO] Fetching: Syracuse.com Main
+2026-07-31 14:16:35,742 [INFO]   0 new articles from Syracuse.com Main
+2026-07-31 14:16:35,742 [INFO] Total unique articles across all feeds: 50
+2026-07-31 14:16:35,742 [INFO] New articles (not previously processed): 50
+2026-07-31 14:16:35,797 [DEBUG]   Filtered (not relevant): Over 1,191 flights delayed, 108 canceled as travel disruptions impact U.S. airpo
+2026-07-31 14:16:35,798 [DEBUG]   Filtered (not relevant): ‘Glee’ star condemns fans calling beloved TV show cursed after deaths of 3 actor
+2026-07-31 14:16:35,798 [DEBUG]   Filtered (not relevant): 50 Cent’s ‘Fightland’ premieres tonight: How to watch for free on Starz
+2026-07-31 14:16:35,799 [DEBUG]   Filtered (not relevant): See 2 Onondaga County towns where average home prices are up 30%
+2026-07-31 14:16:35,799 [DEBUG]   Filtered (not relevant): These 2 retail giants can use AI to flag fraud in ‘made in the USA’ claims. But 
+2026-07-31 14:16:35,800 [DEBUG]   Filtered (not relevant): Former ESPN broadcaster still calling games for network after being laid off
+2026-07-31 14:16:35,800 [DEBUG]   Filtered (not relevant): Didn’t get Tyla tickets? Here’s where you can still buy them
+2026-07-31 14:16:35,801 [DEBUG]   Filtered (not relevant): $20 Polymarket referral code “CUSE” available in NY, FL and IL for Mets-Marlins,
+2026-07-31 14:16:35,801 [DEBUG]   Filtered (not relevant): Country star says he’s ‘chasing the clock’ after devastating diagnosis
+2026-07-31 14:16:35,801 [DEBUG]   Filtered (not relevant): Nationwide water system warning: Local systems could be targeted, feds say
+2026-07-31 14:16:35,802 [DEBUG]   Filtered (not relevant): Florida LLC claims $1 million Powerball prize from ticket bought at NY pharmacy
+2026-07-31 14:16:35,802 [DEBUG]   Filtered (not relevant): Rare, potentially fatal virus confirmed in NY for first time
+2026-07-31 14:16:35,803 [DEBUG]   Filtered (not relevant): Mets vs. Marlins prediction: Polymarket prices, props and parlays, plus Lindor t
+2026-07-31 14:16:35,803 [DEBUG]   Filtered (not relevant): Colorado woman, Tori McMechan, fights viral Zillow listing for home she still li
+2026-07-31 14:16:35,804 [DEBUG]   Filtered (not relevant): Miss Manners: Babysitting shouldn’t come with having to clean son-in-law’s hair 
+2026-07-31 14:16:35,804 [DEBUG]   Filtered (not relevant): Judge in Syracuse hears challenge to landmark NY law to charge fossil fuel compa
+2026-07-31 14:16:35,805 [DEBUG]   Filtered (not relevant): Fulton’s Gavin Doty to host youth basketball camp in hometown
+2026-07-31 14:16:35,805 [DEBUG]   Filtered (not relevant): ESPN2 to air high school football season opener between sons of NFL great and co
+2026-07-31 14:16:35,806 [DEBUG]   Filtered (not relevant): Syracuse Sandwiches: New CNY restaurant sells out repeatedly
+2026-07-31 14:16:35,806 [DEBUG]   Filtered (not relevant): Tornado confirmed in Upstate NY during strong storm; no injuries reported
+2026-07-31 14:16:35,806 [DEBUG]   Filtered (not relevant): Nancy Guthrie latest: Man detained to sue for $2.5 million
+2026-07-31 14:16:35,807 [DEBUG]   Filtered (not relevant): Kim Davis accused of hiding money to avoid paying gay couple $565,000
+2026-07-31 14:16:35,807 [DEBUG]   Filtered (not relevant): Upstate NY LCC claims $10 million lottery prize on scratch-off ticket sold at Pr
+2026-07-31 14:16:35,808 [DEBUG]   Filtered (not relevant): Onondaga County’s term limit mess keeps getting messier (Good Morning CNY)
+2026-07-31 14:16:35,808 [DEBUG]   Filtered (not relevant): LEGO to drop the Hubble Space Telescope set for $140 on August 1
+2026-07-31 14:16:35,809 [DEBUG]   Filtered (not relevant): Syracuse football: What will this season tell us about Fran Brown as a head coac
+2026-07-31 14:16:35,809 [DEBUG]   Filtered (not relevant): Travel Advisory: U.S. warns travelers to ‘exercise increased caution’ to this po
+2026-07-31 14:16:35,809 [DEBUG]   Filtered (not relevant): Dear Annie: How do I escape a mom who threatens that she’s having people watch m
+2026-07-31 14:16:35,810 [DEBUG]   Filtered (not relevant): Georgia woman said good morning to a stranger. He tried to run her over 3 times
+2026-07-31 14:16:35,810 [DEBUG]   Filtered (not relevant): Parents’ fate decided after toddler declared dead, found alive
+2026-07-31 14:16:35,810 [DEBUG]   Filtered (not relevant): Overdue book returned to library 150 years late: How much is the fine?
+2026-07-31 14:16:35,811 [DEBUG]   Filtered (not relevant): Central NY weather: A great start to the weekend before heavy rain arrives Sunda
+2026-07-31 14:16:35,811 [DEBUG]   Filtered (not relevant): Chiefs legend, 2-time AFL champion dies at 85
+2026-07-31 14:16:35,812 [DEBUG]   Filtered (not relevant): Deadly Wildfires Continue Across Southern Europe
+2026-07-31 14:16:35,812 [DEBUG]   Filtered (not relevant): Think Your Passwords Are Safe? Here’s How to Check for a Data Breach
+2026-07-31 14:16:35,813 [INFO]   Relevant: Syracuse Housing Authority is paying $274,000 to buy out former director’s contr
+2026-07-31 14:16:35,813 [DEBUG]     → Entities: Bill Simmons, Syracuse Housing Authority
+2026-07-31 14:16:40,394 [INFO]     Saved: CTX-NEWS-2026-00227 → CTX-NEWS-2026-00227.json
+2026-07-31 14:16:40,395 [DEBUG]   Filtered (not relevant): Rock star after Fauci hearing: ‘Biggest regret during COVID was getting the shot
+2026-07-31 14:16:40,395 [DEBUG]   Filtered (not relevant): Dear Doctor: Should I risk testosterone therapy after prostate cancer?
+2026-07-31 14:16:40,396 [DEBUG]   Filtered (not relevant): House of the Week: Couple have ‘thoroughly enjoyed’ their 30 years at this Onond
+2026-07-31 14:16:40,396 [DEBUG]   Filtered (not relevant): Syracuse Mets split doubleheader with Rochester Red Wings
+2026-07-31 14:16:40,397 [DEBUG]   Filtered (not relevant): 3-year-old girl dies after SUV hits tree in Syracuse
+2026-07-31 14:16:40,397 [DEBUG]   Filtered (not relevant): ‘The Howard Stern Show’ host leaves show after nearly 20 years: ‘Opening a new c
+2026-07-31 14:16:40,397 [DEBUG]   Filtered (not relevant): Country music star reveals why he abandoned California: ‘It’s disheartening’
+2026-07-31 14:16:40,397 [DEBUG]   Filtered (not relevant): Dear Abby: I write and perform music as a hobby, but my wife shows little intere
+2026-07-31 14:16:40,398 [DEBUG]   Filtered (not relevant): Country music star reveals crash caused him to relapse: ‘Broke my arm in half’
+2026-07-31 14:16:40,398 [DEBUG]   Filtered (not relevant): Young country music star arrested in Georgia: ‘Reeked of alcohol’
+2026-07-31 14:16:40,398 [DEBUG]   Filtered (not relevant): Country star cancels multiple shows one month after arrest warrant was dropped
+2026-07-31 14:16:40,399 [DEBUG]   Filtered (not relevant): Weather alert for fog in Mohawk Valley, Capital Region until Friday morning
+2026-07-31 14:16:40,400 [DEBUG]   Filtered (not relevant): Asking Eric: Should we take a chance and move to our second home to be closer to
+2026-07-31 14:16:40,400 [DEBUG]   Filtered (not relevant): As Bench fire rages, Warm Springs Indian Reservation residents hope and endure
+2026-07-31 14:16:40,402 [INFO] News Scanner Run — 2026-07-31 14:16
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Syracuse Housing Authority is paying $274,000 to buy out former director’s contr
+
