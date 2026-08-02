@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-NEWS-2026-00228",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/08/man-shot-multiple-times-near-corner-store-on-syracuses-south-side.html",
+  "publication_date": "2026-08-02",
+  "capture_date": "2026-08-02T13:35:45Z",
+  "title": "Man shot multiple times near corner store on Syracuse’s South Side",
+  "summary": "A man was shot multiple times in the back early Sunday, August 2, 2026, on Syracuse's South Side near the 500 block of Oakwood Avenue. Syracuse Police responded to a ShotSpotter alert detecting multiple gunshots shortly after 1 a.m. This incident represents an ongoing public safety concern in the South Side neighborhood.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "emergency-services",
+    "public-safety-commission",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    },
+    {
+      "name": "Thomas Blake",
+      "type": "person",
+      "canonical_id": "PERSON-THOMAS-BLAKE"
+    },
+    {
+      "name": "ShotSpotter",
+      "type": "system",
+      "canonical_id": "SYS-SHOTSPOTTER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Incident reflects ongoing violent crime concerns on South Side that may attract CIO attention regarding crime data systems, gunshot detection technology effectiveness, and emergency response coordination.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Victim identity not disclosed in article",
+    "No suspect information provided",
+    "ShotSpotter system performed detection function — relevant for emergency-services technology infrastructure review",
+    "Location-specific data (South Side, Oakwood Avenue) may support GIS mapping for public safety analysis",
+    "Article focuses on incident reporting; no policy, budget, or innovation angles explicitly present",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

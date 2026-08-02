@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-NEWS-2026-00229",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/08/lawsuit-challenges-microns-air-wastewater-permits-granted-by-ny.html",
+  "publication_date": "2026-08-01",
+  "capture_date": "2026-08-02T13:35:49Z",
+  "title": "Lawsuit challenges Micron’s air, wastewater permits granted by NY",
+  "summary": "A lawsuit challenges air and wastewater permits issued by New York State to Micron Technology for its chipmaking complex in Clay, alleging the permits will allow pollution of air and water with toxic chemicals. This raises environmental compliance and permitting oversight issues relevant to regional development and sustainability monitoring.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "permitting",
+    "water",
+    "sustainability",
+    "investigation",
+    "state-agency",
+    "PROVISIONAL:environmental-compliance",
+    "PROVISIONAL:toxic-pollution"
+  ],
+  "department_refs": [
+    "Department of Permitting and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "New York State Department of Environmental Conservation",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Town of Clay",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Glenn Coin",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Legal challenge to state-issued permits indicates environmental and public health scrutiny of major regional development project with potential impact on Syracuse-area water and air quality.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Lawsuit details not fully available in excerpt; recommend tracking case docket for technical permit specifications",
+    "Micron complex is significant economic development project for region; environmental permits have sustainability and equity implications",
+    "State agency (DEC) issued permits; local CIO should monitor intergovernmental coordination on environmental data and monitoring systems",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

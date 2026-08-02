@@ -1,0 +1,80 @@
+2026-08-02 13:35:40,584 [INFO] ============================================================
+2026-08-02 13:35:40,584 [INFO] News Scanner starting
+2026-08-02 13:35:40,585 [INFO] Fetching: Syracuse.com Politics
+2026-08-02 13:35:40,996 [INFO]   50 new articles from Syracuse.com Politics
+2026-08-02 13:35:40,996 [INFO] Fetching: Syracuse.com Government
+2026-08-02 13:35:41,239 [INFO]   0 new articles from Syracuse.com Government
+2026-08-02 13:35:41,239 [INFO] Fetching: Syracuse.com Local
+2026-08-02 13:35:41,465 [INFO]   0 new articles from Syracuse.com Local
+2026-08-02 13:35:41,465 [INFO] Fetching: Syracuse.com Main
+2026-08-02 13:35:41,681 [INFO]   0 new articles from Syracuse.com Main
+2026-08-02 13:35:41,681 [INFO] Total unique articles across all feeds: 50
+2026-08-02 13:35:41,681 [INFO] New articles (not previously processed): 50
+2026-08-02 13:35:41,736 [DEBUG]   Filtered (not relevant): Powerball results for 08/01/26: Did anyone win the $719 million jackpot?
+2026-08-02 13:35:41,737 [INFO]   Relevant: Man shot multiple times near corner store on Syracuse’s South Side
+2026-08-02 13:35:41,737 [DEBUG]     → Departments: Syracuse Police Department
+2026-08-02 13:35:41,737 [DEBUG]     → Keywords: syracuse police
+2026-08-02 13:35:45,654 [INFO]     Saved: CTX-NEWS-2026-00228 → CTX-NEWS-2026-00228.json
+2026-08-02 13:35:45,654 [DEBUG]   Filtered (not relevant): Star NFL QB, popular singer are engaged: ‘Meet my fiancé’
+2026-08-02 13:35:45,654 [DEBUG]   Filtered (not relevant): Central NY deputy pulls man from burning vehicle after crash
+2026-08-02 13:35:45,655 [DEBUG]   Filtered (not relevant): Usher, Chris Brown seduce Syracuse with sexy R&B, showmanship (concert review)
+2026-08-02 13:35:45,655 [DEBUG]   Filtered (not relevant): Oneida County real estate: See all residential properties sold, July 20-26
+2026-08-02 13:35:45,656 [DEBUG]   Filtered (not relevant): Editorial cartoons for Aug. 2, 2026: Trump’s Red Scare, wider Iran war, Fauci di
+2026-08-02 13:35:45,656 [DEBUG]   Filtered (not relevant): $1.16M for village house: Plus 123 more Onondaga County home sales
+2026-08-02 13:35:45,657 [DEBUG]   Filtered (not relevant): Clothes cost people the most in these 5 U.S. cities, study finds
+2026-08-02 13:35:45,657 [DEBUG]   Filtered (not relevant): Country music star, 23, arrested in Georgia. Here’s what we know
+2026-08-02 13:35:45,658 [DEBUG]   Filtered (not relevant): Was justice done in immigrant’s case? Let the public see the whole court record 
+2026-08-02 13:35:45,658 [DEBUG]   Filtered (not relevant): Dear Annie: How can couple bridge deep divide when they can’t agree on how to sp
+2026-08-02 13:35:45,659 [DEBUG]   Filtered (not relevant): Would permanent daylight saving time save Americans money?
+2026-08-02 13:35:45,659 [DEBUG]   Filtered (not relevant): Netflix sued for $105M after Nicolas Cage film stolen
+2026-08-02 13:35:45,659 [DEBUG]   Filtered (not relevant): Syracuse.com goes to court to unseal documents (Top stories)
+2026-08-02 13:35:45,660 [DEBUG]   Filtered (not relevant): Great Northern Mall’s end: Drone video of crews tearing down Central NY shopping
+2026-08-02 13:35:45,660 [DEBUG]   Filtered (not relevant): Central NY weather: After a soggy Sunday, warm and humid conditions arrive by mi
+2026-08-02 13:35:45,660 [DEBUG]   Filtered (not relevant): Hollywood stars, musicians and TV icons we lost in July
+2026-08-02 13:35:45,661 [DEBUG]   Filtered (not relevant): TV personality says she’s always been a country artist
+2026-08-02 13:35:45,661 [DEBUG]   Filtered (not relevant): The 5 worst states for healthcare got low marks in cost, access
+2026-08-02 13:35:45,662 [DEBUG]   Filtered (not relevant): CNY Inspirations: The Blue in the dust
+2026-08-02 13:35:45,662 [DEBUG]   Filtered (not relevant): Microwave Mistakes That Could Damage Your Appliance
+2026-08-02 13:35:45,663 [DEBUG]   Filtered (not relevant): Country music’s 5 most shocking deaths of 2026: A freak accident, a crash, and m
+2026-08-02 13:35:45,663 [DEBUG]   Filtered (not relevant): Dear Abby: My ex turned his whole family against me. Do they expect me at his fu
+2026-08-02 13:35:45,664 [DEBUG]   Filtered (not relevant): Asking Eric: Should I mention charitable donation in a card I bring to the event
+2026-08-02 13:35:45,664 [DEBUG]   Filtered (not relevant): Flood watch issued for parts of Upstate NY until 2 a.m. Monday triggered by exce
+2026-08-02 13:35:45,665 [DEBUG]   Filtered (not relevant): Usher, Chris Brown pack sold-out Syracuse concert with hits (photos, setlist)
+2026-08-02 13:35:45,665 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Saturday’s $707 million drawing
+2026-08-02 13:35:45,666 [DEBUG]   Filtered (not relevant): Syracuse Mets fall to Rochester 3-1 in Jonathan Santucci debut
+2026-08-02 13:35:45,666 [DEBUG]   Filtered (not relevant): New $20 Polymarket invite code “CUSE” upgraded for UFC Fight live odds
+2026-08-02 13:35:45,667 [DEBUG]   Filtered (not relevant): 3 dead, 7 injured after shooting at In-N-Out fast food restaurant in southern Id
+2026-08-02 13:35:45,667 [DEBUG]   Filtered (not relevant): What is Bourbon Virus? Confirmed case in New York
+2026-08-02 13:35:45,667 [DEBUG]   Filtered (not relevant): Bills avoid worst case scenario with safety C.J. Gardner-Johnson injury
+2026-08-02 13:35:45,668 [DEBUG]   Filtered (not relevant): Live Powerball results for 08/01/26: $707 million jackpot on the line
+2026-08-02 13:35:45,668 [DEBUG]   Filtered (not relevant): ‘The Sopranos’ star dead at 80: ‘He will be greatly missed'
+2026-08-02 13:35:45,669 [DEBUG]   Filtered (not relevant): $20 Polymarket referral code “CUSE” established for Yankees-Cubs tonight
+2026-08-02 13:35:45,669 [DEBUG]   Filtered (not relevant): How many ‘Big Brother’ couples are still together?
+2026-08-02 13:35:45,669 [DEBUG]   Filtered (not relevant): Former Syracuse lineman Matthew Bergeron signs new contract with big guaranteed 
+2026-08-02 13:35:45,670 [DEBUG]   Filtered (not relevant): Bills Camp Day 3: Bradley Chubb looks like the difference-maker Buffalo has been
+2026-08-02 13:35:45,670 [DEBUG]   Filtered (not relevant): ‘Tiger King’ Joe Exotic is selling his music catalog. You can probably afford to
+2026-08-02 13:35:45,671 [DEBUG]   Filtered (not relevant): In Covey Theater's "Dear Evan Hansen," a star is born
+2026-08-02 13:35:45,672 [DEBUG]   Filtered (not relevant): New potential $500 Kalshi Promo Code SYRACUSE updated for MLB Saturday, includin
+2026-08-02 13:35:45,672 [DEBUG]   Filtered (not relevant): Where to watch Liberty vs. Mercury today: WNBA free live stream
+2026-08-02 13:35:45,673 [DEBUG]   Filtered (not relevant): Horror film icon speaks out after home raided by police
+2026-08-02 13:35:45,673 [INFO]   Relevant: Lawsuit challenges Micron’s air, wastewater permits granted by NY
+2026-08-02 13:35:45,673 [DEBUG]     → Entities: Micron Technology
+2026-08-02 13:35:45,673 [DEBUG]     → Departments: Department of Permits and Development
+2026-08-02 13:35:49,746 [INFO]     Saved: CTX-NEWS-2026-00229 → CTX-NEWS-2026-00229.json
+2026-08-02 13:35:49,747 [DEBUG]   Filtered (not relevant): NFL All-Pro receiver hired as college football coach
+2026-08-02 13:35:49,747 [DEBUG]   Filtered (not relevant): Savannah Guthrie begs for answers in latest post
+2026-08-02 13:35:49,748 [DEBUG]   Filtered (not relevant): Mega Millions results for 07/31/26: Jackpot worth $50 million
+2026-08-02 13:35:49,748 [DEBUG]   Filtered (not relevant): PBA Tour champion bowler dies unexpectedly at 32
+2026-08-02 13:35:49,748 [DEBUG]   Filtered (not relevant): In Syracuse, Tim McGraw ain’t done with growing up just yet (review)
+2026-08-02 13:35:49,750 [INFO] News Scanner Run — 2026-08-02 13:35
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Man shot multiple times near corner store on Syracuse’s South Side
+  • Lawsuit challenges Micron’s air, wastewater permits granted by NY
+
