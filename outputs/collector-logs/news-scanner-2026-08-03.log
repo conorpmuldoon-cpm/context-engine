@@ -1,0 +1,91 @@
+2026-08-03 14:46:50,625 [INFO] ============================================================
+2026-08-03 14:46:50,625 [INFO] News Scanner starting
+2026-08-03 14:46:50,626 [INFO] Fetching: Syracuse.com Politics
+2026-08-03 14:46:50,859 [INFO]   50 new articles from Syracuse.com Politics
+2026-08-03 14:46:50,859 [INFO] Fetching: Syracuse.com Government
+2026-08-03 14:46:51,036 [INFO]   0 new articles from Syracuse.com Government
+2026-08-03 14:46:51,036 [INFO] Fetching: Syracuse.com Local
+2026-08-03 14:46:51,220 [INFO]   0 new articles from Syracuse.com Local
+2026-08-03 14:46:51,220 [INFO] Fetching: Syracuse.com Main
+2026-08-03 14:46:51,516 [INFO]   0 new articles from Syracuse.com Main
+2026-08-03 14:46:51,516 [INFO] Total unique articles across all feeds: 50
+2026-08-03 14:46:51,516 [INFO] New articles (not previously processed): 50
+2026-08-03 14:46:51,572 [DEBUG]   Filtered (not relevant): Controversial ‘The View’ co-host to return for Season 30
+2026-08-03 14:46:51,572 [DEBUG]   Filtered (not relevant): A family lost their little girl. Now they’re asking what happened before the cra
+2026-08-03 14:46:51,573 [DEBUG]   Filtered (not relevant): Fans wait all year for this gooey treat to return to store shelves: ‘Absolutely 
+2026-08-03 14:46:51,573 [INFO]   Relevant: Nephew of former Syracuse basketball guard commits to Le Moyne College
+2026-08-03 14:46:51,573 [DEBUG]     → Entities: Le Moyne College
+2026-08-03 14:46:55,764 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-08-03 14:46:55,782 [INFO]     Saved: CTX-NEWS-2026-00230 → CTX-NEWS-2026-00230.json
+2026-08-03 14:46:55,782 [DEBUG]   Filtered (not relevant): Syracuse musicians gather for Glen Hansard tribute at Coleman’s on Tipp Hill
+2026-08-03 14:46:55,783 [INFO]   Relevant: Immigrant artists gather in Queens to heal and resist through art
+2026-08-03 14:46:55,783 [DEBUG]     → Entities: Veo
+2026-08-03 14:46:59,911 [WARNING]     Tag issue: Unknown tag 'community-engagement' not in taxonomy
+2026-08-03 14:46:59,922 [INFO]     Saved: CTX-NEWS-2026-00231 → CTX-NEWS-2026-00231.json
+2026-08-03 14:46:59,923 [DEBUG]   Filtered (not relevant): She survived cancer twice. A violent attack changed everything just before retir
+2026-08-03 14:46:59,923 [DEBUG]   Filtered (not relevant): Ariana Grande’s rep cites ‘endless public scrutiny’ as singer plans break
+2026-08-03 14:46:59,924 [DEBUG]   Filtered (not relevant): Check your home: Nationwide recall issued for 5 products sold on Amazon, Walmart
+2026-08-03 14:46:59,924 [DEBUG]   Filtered (not relevant): A frightening backyard discovery has parents double-checking their yards before 
+2026-08-03 14:46:59,925 [DEBUG]   Filtered (not relevant): $20 Polymarket referral code “CUSE” updated for MLB trade deadline, MLB Monday
+2026-08-03 14:46:59,925 [DEBUG]   Filtered (not relevant): A Trader Joe's employee just spilled the store's best flower secrets
+2026-08-03 14:46:59,926 [DEBUG]   Filtered (not relevant): 3-time NFL Pro Bowler retires after 11 seasons
+2026-08-03 14:46:59,926 [DEBUG]   Filtered (not relevant): 14-year-old girl killed when gunfire erupted into crowd of hundreds after Roches
+2026-08-03 14:46:59,927 [DEBUG]   Filtered (not relevant): Burglary charge could send man linked to Navajo elder’s disappearance back to fe
+2026-08-03 14:46:59,927 [DEBUG]   Filtered (not relevant): NFL receiver, former second-round pick retires at 24
+2026-08-03 14:46:59,928 [DEBUG]   Filtered (not relevant): Yankees vs. Cardinals predictions: Polymarket prices, Schlittler props and best 
+2026-08-03 14:46:59,928 [DEBUG]   Filtered (not relevant): 3 probable cases of rare ‘rabbit fever’ disease reported in NY
+2026-08-03 14:46:59,928 [DEBUG]   Filtered (not relevant): 5 dead, many still missing after Indonesian ferry fire
+2026-08-03 14:46:59,929 [DEBUG]   Filtered (not relevant): Mat Williamson outruns brother-in-law for Ransomville win
+2026-08-03 14:46:59,929 [DEBUG]   Filtered (not relevant): These 20 jobs are growing fastest in US: Here’s their pay in Syracuse
+2026-08-03 14:46:59,930 [DEBUG]   Filtered (not relevant): Westminster steps, Oakwood Cemetery gate fail preservation test (Your Letters)
+2026-08-03 14:46:59,930 [DEBUG]   Filtered (not relevant): New York launches second summer speeding crackdown this week
+2026-08-03 14:46:59,931 [INFO]   Relevant: Dozens pepper NY officials with questions about highway plans for Micron growth 
+2026-08-03 14:46:59,931 [DEBUG]     → Entities: Micron Technology
+2026-08-03 14:47:08,590 [INFO]     Saved: CTX-NEWS-2026-00232 → CTX-NEWS-2026-00232.json
+2026-08-03 14:47:08,591 [DEBUG]   Filtered (not relevant): There’s a new proposal to save Social Security before $500 monthly cuts hit
+2026-08-03 14:47:08,591 [DEBUG]   Filtered (not relevant): Upstate NY motorcyclist dies after collision with deer
+2026-08-03 14:47:08,592 [INFO]   Relevant: Woman and man hospitalized after 2 stabbings minutes apart in Syracuse
+2026-08-03 14:47:08,592 [DEBUG]     → Departments: Syracuse Police Department
+2026-08-03 14:47:08,592 [DEBUG]     → Keywords: syracuse police
+2026-08-03 14:47:12,897 [INFO]     Dedup match: CTX-NEWS-2026-00228 — linking via cluster
+2026-08-03 14:47:12,897 [INFO]     Saved: CTX-NEWS-2026-00233 → CTX-NEWS-2026-00233.json
+2026-08-03 14:47:12,898 [DEBUG]   Filtered (not relevant): Dad charged with murder after using leaf blower on infant son for laughs: Police
+2026-08-03 14:47:12,898 [DEBUG]   Filtered (not relevant): She started preaching during a flight delay. What happened next is going viral.
+2026-08-03 14:47:12,899 [DEBUG]   Filtered (not relevant): Thousands of Zac Brown fans left Fenway with more than concert memories after hi
+2026-08-03 14:47:12,899 [DEBUG]   Filtered (not relevant): World’s third-smallest country changes its name
+2026-08-03 14:47:12,900 [DEBUG]   Filtered (not relevant): ‘Who else is going to go against Marv?’ Why Kevin Abrams is on College Football 
+2026-08-03 14:47:12,900 [DEBUG]   Filtered (not relevant): Rehab center, office buildings: See 19 latest business, apartment, land sales ($
+2026-08-03 14:47:12,900 [DEBUG]   Filtered (not relevant): Oneida Lake angler catches rare golden walleye
+2026-08-03 14:47:12,901 [INFO]   Relevant: Syracuse schools pay $225K to avoid lawsuit after child accused teaching assista
+2026-08-03 14:47:12,901 [DEBUG]     → Entities: Syracuse City School District
+2026-08-03 14:47:17,302 [INFO]     Saved: CTX-NEWS-2026-00234 → CTX-NEWS-2026-00234.json
+2026-08-03 14:47:17,302 [DEBUG]   Filtered (not relevant): Laptop prices are double the average consumer budget, report finds
+2026-08-03 14:47:17,303 [DEBUG]   Filtered (not relevant): Dear Annie: Why do I have to be responsible while my sister gets away with every
+2026-08-03 14:47:17,303 [DEBUG]   Filtered (not relevant): SU football: Who is an under-the-radar star ready to emerge? | Axe
+2026-08-03 14:47:17,304 [DEBUG]   Filtered (not relevant): Popular social media platform making comeback?
+2026-08-03 14:47:17,304 [DEBUG]   Filtered (not relevant): Details emerge in death of child killed in crash (Good Morning CNY)
+2026-08-03 14:47:17,304 [DEBUG]   Filtered (not relevant): ‘Ted Lasso’ cast changes: See who isn’t coming back for season 4
+2026-08-03 14:47:17,305 [DEBUG]   Filtered (not relevant): Central NY weather: From rainy and cool to hot and muggy this week
+2026-08-03 14:47:17,305 [DEBUG]   Filtered (not relevant): Cortland County real estate: 10 most expensive homes sold, July 1-31
+2026-08-03 14:47:17,306 [DEBUG]   Filtered (not relevant): Cayuga County real estate: 10 most expensive homes sold, July 1-31
+2026-08-03 14:47:17,306 [DEBUG]   Filtered (not relevant): Fetty Wap in Syracuse, Tori Amos, Scottish Games: 20 things to do in CNY this we
+2026-08-03 14:47:17,306 [DEBUG]   Filtered (not relevant): Former college football player dead at 23 following car crash
+2026-08-03 14:47:17,307 [DEBUG]   Filtered (not relevant): The huge price of New York’s I-81 project has doubled. Here’s why
+2026-08-03 14:47:17,307 [DEBUG]   Filtered (not relevant): Miss Manners: How to handle nice men with childish table manners?
+2026-08-03 14:47:17,308 [DEBUG]   Filtered (not relevant): Dear Doctor: The only treatment for my infection is a drug that might not be saf
+2026-08-03 14:47:17,308 [DEBUG]   Filtered (not relevant): Be ready for strong thunderstorms in Putnam and Westchester counties Monday morn
+2026-08-03 14:47:17,310 [INFO] News Scanner Run — 2026-08-03 14:47
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 5
+Filtered (not relevant): 45
+Errors: 0
+
+New records:
+  • Nephew of former Syracuse basketball guard commits to Le Moyne College
+  • Immigrant artists gather in Queens to heal and resist through art
+  • Dozens pepper NY officials with questions about highway plans for Micron growth 
+  • Woman and man hospitalized after 2 stabbings minutes apart in Syracuse
+  • Syracuse schools pay $225K to avoid lawsuit after child accused teaching assista
+

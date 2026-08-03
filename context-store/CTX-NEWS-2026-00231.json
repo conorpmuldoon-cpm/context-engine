@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00231",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/palabra/2026/08/immigrant-artists-gather-in-queens-to-heal-and-resist-through-art.html",
+  "publication_date": "2026-08-03",
+  "capture_date": "2026-08-03T14:46:59Z",
+  "title": "Immigrant artists gather in Queens to heal and resist through art",
+  "summary": "Article describes immigrant artists in Queens using art as a medium for healing and resistance, featuring traditional jaranas (guitars) and Spanish-language serenade. Content focuses on cultural expression and community resilience rather than Syracuse municipal governance or innovation policy.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:cultural-arts",
+    "equity",
+    "community-engagement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Ángel Melgoza",
+      "type": "person",
+      "canonical_id": "PERSON-ANGEL-MELGOZA"
+    },
+    {
+      "name": "Palabra",
+      "type": "organization",
+      "canonical_id": "ORG-PALABRA"
+    },
+    {
+      "name": "NAHJ",
+      "type": "organization",
+      "canonical_id": "ORG-NAHJ"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Article aligns with equity and immigrant community engagement priorities; demonstrates grassroots cultural organizing around immigrant representation.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article location is Queens, NY—outside Syracuse jurisdiction",
+    "Content is primarily cultural/artistic narrative with minimal policy or governance relevance to Syracuse CIO",
+    "Mechanical extraction of 'Veo' appears to be erroneous (Spanish lyric fragment, not an entity)",
+    "No direct connection to Syracuse innovation, digital services, or municipal operations detected",
+    "Limited contextual value for Chief Innovation Officer unless framing community arts/cultural tech initiatives",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'community-engagement' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

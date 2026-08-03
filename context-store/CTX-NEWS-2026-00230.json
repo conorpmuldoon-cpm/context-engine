@@ -1,0 +1,51 @@
+{
+  "record_id": "CTX-NEWS-2026-00230",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangebasketball/2026/08/nephew-of-former-syracuse-basketball-guard-commits-to-le-moyne-college.html",
+  "publication_date": "2026-08-03",
+  "capture_date": "2026-08-03T14:46:55Z",
+  "title": "Nephew of former Syracuse basketball guard commits to Le Moyne College",
+  "summary": "Local news article about London Collins committing to Le Moyne College basketball. Limited relevance to municipal operations; primarily sports/community interest content with no direct CIO policy, infrastructure, or digital services implications.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Le Moyne College",
+      "type": "organization",
+      "canonical_id": "ORG-LEMOYNE"
+    },
+    {
+      "name": "London Collins",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Scoop Jardine",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily sports/community news with no municipal governance, policy, or CIO-relevant content",
+    "No city services, infrastructure, digital systems, or departmental operations referenced",
+    "No dollar amounts, contracts, procurement, or budget implications identified",
+    "Recommended for filtering from CIO briefing materials unless broader community engagement strategy includes local sports achievements",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00233",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/08/woman-and-man-hospitalized-after-2-stabbings-minutes-apart-in-syracuse.html",
+  "publication_date": "2026-08-03",
+  "capture_date": "2026-08-03T14:47:12Z",
+  "title": "Woman and man hospitalized after 2 stabbings minutes apart in Syracuse",
+  "summary": "Two stabbing incidents occurred within 30 minutes in Syracuse early Monday morning (August 3, 2026), resulting in critical injury to a man and hospitalization of a woman. The first incident was reported at 1 a.m. in the 500 block of East Willow Street. This public safety incident involves Syracuse Police Department response.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "emergency-services",
+    "public-safety-commission",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sgt. Thomas Blake",
+      "type": "person",
+      "canonical_id": "PERSON-THOMAS-BLAKE"
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Multiple violent crime incidents in rapid succession may trigger public safety scrutiny and demand for increased police presence or community safety initiatives",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2026-00228"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is crime incident reporting; limited innovation/CIO operational relevance unless connected to crime analytics, emergency dispatch systems, or public safety data infrastructure",
+    "Geographic location (East Willow Street, Syracuse) available for GIS correlation if needed",
+    "Victim identities and suspect information not disclosed in excerpt provided",
+    "Follow-up investigation status unknown from this report",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-NEWS-2026-00228 — linked for review"
+  ],
+  "last_relevance_update": null
+}

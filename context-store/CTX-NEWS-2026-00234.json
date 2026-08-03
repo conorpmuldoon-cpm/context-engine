@@ -1,0 +1,51 @@
+{
+  "record_id": "CTX-NEWS-2026-00234",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/schools/2026/08/syracuse-schools-pay-225k-to-avoid-lawsuit-after-child-accused-teaching-assistant-of-abuse.html",
+  "publication_date": "2026-08-03",
+  "capture_date": "2026-08-03T14:47:17Z",
+  "title": "Syracuse schools pay $225K to avoid lawsuit after child accused teaching assistant of abuse",
+  "summary": "The Syracuse City School District settled a child abuse allegation against a former teaching assistant for $225,000 to avoid litigation. This settlement raises potential concerns about institutional oversight, staff vetting procedures, and risk management within school operations that may intersect with the CIO's purview regarding records systems, background check processes, and data governance.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "complaint",
+    "investigation",
+    "resolved",
+    "escalating",
+    "equity"
+  ],
+  "department_refs": [
+    "Syracuse City School District"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse City School District",
+      "type": "organization",
+      "canonical_id": "ORG-SCSD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Settlement signals potential institutional failures in child safety oversight and staff management; likely to draw public and political scrutiny regarding district accountability and governance practices.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on K-12 education sector, outside typical city government purview but relevant to broader municipal governance and public trust",
+    "Dollar amount ($225K) notable for budget implications if district seeks city support or if patterns emerge requiring system improvements",
+    "No technology systems, infrastructure, or digital services explicitly mentioned; relevance to CIO depends on whether investigation involves records management, data retention, or HR system oversight",
+    "Consider flagging for coordination if district background check/vetting systems are city-managed or auditable",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

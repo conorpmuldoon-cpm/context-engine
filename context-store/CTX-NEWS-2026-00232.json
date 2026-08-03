@@ -1,0 +1,66 @@
+{
+  "record_id": "CTX-NEWS-2026-00232",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/08/dozens-pepper-ny-officials-with-questions-about-highway-plans-for-micron-growth-in-clay.html",
+  "publication_date": "2026-08-03",
+  "capture_date": "2026-08-03T14:47:08Z",
+  "title": "Dozens pepper NY officials with questions about highway plans for Micron growth in Clay",
+  "summary": "Over 200 Clay residents attended a town hall to discuss highway infrastructure improvements needed to support Micron Technology's regional expansion. The meeting focused on transportation planning and capital infrastructure requirements driven by major economic development, signaling constituent engagement on infrastructure-related growth impacts.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "infrastructure",
+    "roads-bridges",
+    "capital-planning",
+    "intergovernmental",
+    "residents",
+    "transportation",
+    "land-use"
+  ],
+  "department_refs": [
+    "Department of Transportation",
+    "Department of Planning and Innovation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Glenn Coin",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Clay Town Hall",
+      "type": "organization",
+      "canonical_id": "ORG-CLAY-TOWN"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Large resident turnout (200+) at town hall indicates significant community engagement and concern regarding infrastructure capacity planning tied to major employer expansion; suggests need for transparency and stakeholder communication on highway/transportation impact mitigation.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date is 2026-08-03 (future date); verify if this is a test/archival scenario",
+    "No dollar amounts or specific departmental approvals mentioned",
+    "State agency involvement implied but not explicitly named (NY officials referenced)",
+    "Focus is on constituent input rather than formal decision/vote",
+    "Micron growth context relevant to CIO planning for future IT infrastructure and smart transportation systems",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
