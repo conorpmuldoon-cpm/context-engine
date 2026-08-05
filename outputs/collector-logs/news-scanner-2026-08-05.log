@@ -1,0 +1,82 @@
+2026-08-05 14:17:21,918 [INFO] ============================================================
+2026-08-05 14:17:21,918 [INFO] News Scanner starting
+2026-08-05 14:17:21,919 [INFO] Fetching: Syracuse.com Politics
+2026-08-05 14:17:22,242 [INFO]   50 new articles from Syracuse.com Politics
+2026-08-05 14:17:22,243 [INFO] Fetching: Syracuse.com Government
+2026-08-05 14:17:22,422 [INFO]   1 new articles from Syracuse.com Government
+2026-08-05 14:17:22,422 [INFO] Fetching: Syracuse.com Local
+2026-08-05 14:17:22,601 [INFO]   0 new articles from Syracuse.com Local
+2026-08-05 14:17:22,601 [INFO] Fetching: Syracuse.com Main
+2026-08-05 14:17:22,782 [INFO]   0 new articles from Syracuse.com Main
+2026-08-05 14:17:22,782 [INFO] Total unique articles across all feeds: 51
+2026-08-05 14:17:22,782 [INFO] New articles (not previously processed): 51
+2026-08-05 14:17:22,837 [DEBUG]   Filtered (not relevant): A dream honeymoon took an unexpected turn before UK couple ever reached paradise
+2026-08-05 14:17:22,838 [DEBUG]   Filtered (not relevant): Mega Millions results for 08/04/26: Jackpot worth $60 million
+2026-08-05 14:17:22,838 [DEBUG]   Filtered (not relevant): $20 Polymarket referral code “CUSE” available for Liberty-Storm, WNBA Wednesday
+2026-08-05 14:17:22,839 [DEBUG]   Filtered (not relevant): Best Buy slashes the price of best-selling mirrorless cameras from your favorite
+2026-08-05 14:17:22,839 [DEBUG]   Filtered (not relevant): UFC fighter dies at 34 from ‘apparent heart attack’
+2026-08-05 14:17:22,840 [DEBUG]   Filtered (not relevant): The best and worst days to shop for groceries at Walmart
+2026-08-05 14:17:22,840 [DEBUG]   Filtered (not relevant): NASA says the next trip to the moon is about much more than landing astronauts a
+2026-08-05 14:17:22,841 [DEBUG]   Filtered (not relevant): Liberty vs. Storm predictions: Polymarket prices, WNBA player props and best bet
+2026-08-05 14:17:22,841 [INFO]   Relevant: Woman charged with stabbing man multiple times in Syracuse
+2026-08-05 14:17:22,842 [DEBUG]     → Departments: Syracuse Police Department
+2026-08-05 14:17:22,842 [DEBUG]     → Keywords: syracuse police
+2026-08-05 14:17:26,755 [INFO]     Dedup match: CTX-NEWS-2026-00233 — linking via cluster
+2026-08-05 14:17:26,756 [INFO]     Saved: CTX-NEWS-2026-00235 → CTX-NEWS-2026-00235.json
+2026-08-05 14:17:26,756 [DEBUG]   Filtered (not relevant): 14 hurt in NY subway train fire: ‘A lot of heavy smoke’
+2026-08-05 14:17:26,757 [DEBUG]   Filtered (not relevant): How much does Walmart pay? Salaries for store managers, pharmacists, team leader
+2026-08-05 14:17:26,757 [DEBUG]   Filtered (not relevant): NY’s 2nd-largest winery has a buyer.  The new owner plans a $47 million restorat
+2026-08-05 14:17:26,758 [DEBUG]   Filtered (not relevant): Rock legend’s fans praying after heart surgery news: ‘You can beat this’
+2026-08-05 14:17:26,758 [DEBUG]   Filtered (not relevant): 7-time NBA All-Star marries Grammy winner
+2026-08-05 14:17:26,758 [DEBUG]   Filtered (not relevant): CNY swimmer breaks record, takes first in U.S. junior national meet in Californi
+2026-08-05 14:17:26,759 [DEBUG]   Filtered (not relevant): CNY’s language barrier is an infrastructure problem we know how to solve (Guest 
+2026-08-05 14:17:26,759 [DEBUG]   Filtered (not relevant): Dr. Scott Albert returns to St. Joseph’s Health cancer program
+2026-08-05 14:17:26,760 [DEBUG]   Filtered (not relevant): Oneida County real estate: 10 most expensive homes sold, July 1-31
+2026-08-05 14:17:26,760 [DEBUG]   Filtered (not relevant): See NY districts ranked 1 to 635 by latest global history Regents
+2026-08-05 14:17:26,761 [DEBUG]   Filtered (not relevant): Restaurateur is bringing back a new version of a Syracuse cafe with a special re
+2026-08-05 14:17:26,761 [DEBUG]   Filtered (not relevant): Rock star’s death at 63 leaves fans heartbroken: ‘Gutted by the news’
+2026-08-05 14:17:26,761 [DEBUG]   Filtered (not relevant): After 2027 recruit Jack Donohue’s commitment to Syracuse, who’s next for the Ora
+2026-08-05 14:17:26,762 [DEBUG]   Filtered (not relevant): 7 Indiana students charged in college hazing incident
+2026-08-05 14:17:26,762 [DEBUG]   Filtered (not relevant): Ex-NFL tight end, Georgia national champion dies at 65
+2026-08-05 14:17:26,763 [DEBUG]   Filtered (not relevant): Dear Annie: Daughter’s new camp buddy has worryingly strong influence on her
+2026-08-05 14:17:26,763 [DEBUG]   Filtered (not relevant): SU football: What is your boldest prediction for the 2026 season? | Axe
+2026-08-05 14:17:26,763 [DEBUG]   Filtered (not relevant): United Way of Central NY slashes funding to dozens of agencies after million-dol
+2026-08-05 14:17:26,764 [DEBUG]   Filtered (not relevant): Cyclospora update: ‘Explosive diarrhea’ now in 47 states; nearly 23,000 cases
+2026-08-05 14:17:26,764 [DEBUG]   Filtered (not relevant): ‘Landman’ star shares season 3 update amid production delay
+2026-08-05 14:17:26,764 [DEBUG]   Filtered (not relevant): Central NY faces wet, stormy weather pattern through weekend
+2026-08-05 14:17:26,765 [DEBUG]   Filtered (not relevant): WWE Hall of Famer dead at 85. Here’s what we know
+2026-08-05 14:17:26,765 [DEBUG]   Filtered (not relevant): County ballot fraud case takes unexpected turn (Good Morning CNY)
+2026-08-05 14:17:26,765 [DEBUG]   Filtered (not relevant): You can visit two of America’s best-ranked sculpture parks in one Upstate NY day
+2026-08-05 14:17:26,766 [DEBUG]   Filtered (not relevant): Zac Brown says there was one heartfelt reason behind his massive Fenway surprise
+2026-08-05 14:17:26,766 [DEBUG]   Filtered (not relevant): ACR Health’s Lisa Dunn Alford on leadership: Let the work you do speak for you
+2026-08-05 14:17:26,767 [DEBUG]   Filtered (not relevant): Scientists say the world’s most dangerous heat may still be ahead as 2026 temper
+2026-08-05 14:17:26,767 [DEBUG]   Filtered (not relevant): Country hitmaker opens up about ‘very violent’ childhood home: ‘Definitely got s
+2026-08-05 14:17:26,768 [INFO]   Relevant: Syracuse schools paid out-of-town administrator at least $59k on her way out
+2026-08-05 14:17:26,768 [DEBUG]     → Entities: Syracuse City School District
+2026-08-05 14:17:31,028 [WARNING]     Tag issue: Unknown tag 'settlement' not in taxonomy
+2026-08-05 14:17:31,039 [INFO]     Saved: CTX-NEWS-2026-00236 → CTX-NEWS-2026-00236.json
+2026-08-05 14:17:31,040 [DEBUG]   Filtered (not relevant): Dear Doctor: Please share the dangers of this nasal medication
+2026-08-05 14:17:31,040 [DEBUG]   Filtered (not relevant): Fran Brown sees one big difference from last year, besides Steve Angeli’s health
+2026-08-05 14:17:31,041 [DEBUG]   Filtered (not relevant): Stimulus checks 2026: Are people getting $2K anytime soon?
+2026-08-05 14:17:31,041 [DEBUG]   Filtered (not relevant): Miss Manners: How does religion keep coming up at unnecessary times?
+2026-08-05 14:17:31,041 [DEBUG]   Filtered (not relevant): Former Raiders linebacker, Texas A&M star dead at 85
+2026-08-05 14:17:31,042 [DEBUG]   Filtered (not relevant): Dear Abby: I worry my brother with mild autism will end up alone
+2026-08-05 14:17:31,042 [DEBUG]   Filtered (not relevant): Dr. Fauci’s lawyer responds to Aaron Rodgers: ‘Stick to football’
+2026-08-05 14:17:31,042 [DEBUG]   Filtered (not relevant): Rock legend retires from touring and will undergo heart surgery: ‘I have no opti
+2026-08-05 14:17:31,043 [DEBUG]   Filtered (not relevant): Where to watch Chelsea vs. Juventus today: Soccer free live stream
+2026-08-05 14:17:31,044 [DEBUG]   Filtered (not relevant): Asking Eric: Husband tires of dealing with wife’s long forgotten wet laundry
+2026-08-05 14:17:31,044 [DEBUG]   Filtered (not relevant): Mega Millions numbers: Are you the lucky winner of Tuesday’s $60 million jackpot
+2026-08-05 14:17:31,045 [DEBUG]   Filtered (not relevant): Box truck strikes Onondaga Lake Parkway Bridge
+2026-08-05 14:17:31,045 [DEBUG]   Filtered (not relevant): Music legend cancels concert just 45 minutes before showtime
+2026-08-05 14:17:31,047 [INFO] News Scanner Run — 2026-08-05 14:17
+==================================================
+Articles in feeds: 51
+New (not seen before): 51
+Saved as records: 2
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Woman charged with stabbing man multiple times in Syracuse
+  • Syracuse schools paid out-of-town administrator at least $59k on her way out
+

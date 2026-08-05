@@ -1,0 +1,60 @@
+{
+  "record_id": "CTX-NEWS-2026-00236",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/schools/2026/08/syracuse-schools-paid-out-of-town-administrator-at-least-59k-on-her-way-out.html",
+  "publication_date": "2026-08-05",
+  "capture_date": "2026-08-05T14:17:31Z",
+  "title": "Syracuse schools paid out-of-town administrator at least $59k on her way out",
+  "summary": "Syracuse City School District paid a former chief academic officer at least $59,900 as a severance settlement, with a non-disclosure agreement preventing public discussion of the separation. This represents a significant one-time personnel expenditure that raises questions about district spending practices and transparency in executive separations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "payroll",
+    "labor-relations",
+    "transparency",
+    "budget",
+    "leadership-change",
+    "settlement",
+    "PROVISIONAL:severance"
+  ],
+  "department_refs": [
+    "Syracuse City School District"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse City School District",
+      "type": "organization",
+      "canonical_id": "ORG-SCSD"
+    },
+    {
+      "name": "Emalyn Muzzy",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "News investigation into non-transparent personnel spending and confidentiality agreements limiting public accountability for taxpayer-funded separation payments",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on school district, not City of Syracuse municipal government—note potential scope boundary",
+    "NDA terms suggest intentional opacity; transparency tag applied due to investigative disclosure",
+    "Chief Academic Officer role suggests education/curriculum mandate alignment",
+    "Dollar amount stated as 'at least $59,900' indicating potential additional undisclosed payments",
+    "No canonical ID available for former administrator (name not provided in excerpt)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'settlement' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

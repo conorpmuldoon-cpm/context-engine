@@ -1,0 +1,60 @@
+{
+  "record_id": "CTX-NEWS-2026-00235",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/08/woman-charged-with-stabbing-man-multiple-times-in-syracuse.html",
+  "publication_date": "2026-08-05",
+  "capture_date": "2026-08-05T14:17:26Z",
+  "title": "Woman charged with stabbing man multiple times in Syracuse",
+  "summary": "A 38-year-old man was stabbed multiple times by a woman in Syracuse early Wednesday morning (August 5, 2026) on Lakeview Avenue and hospitalized. Syracuse Police Department responded to the incident at 2:35 a.m. and the woman was charged in connection with the stabbing.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "emergency-services",
+    "public-safety-commission"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sgt. Tom Blake",
+      "type": "person",
+      "canonical_id": "PERSON-TOM-BLAKE"
+    },
+    {
+      "name": "Finn Lincoln",
+      "type": "person",
+      "canonical_id": "PERSON-FINN-LINCOLN"
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2026-00233"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is a factual crime report with minimal operational or policy implications for CIO office",
+    "Victim and suspect identities not fully named in article",
+    "No technology systems, infrastructure, or innovation initiatives mentioned",
+    "Potential relevance for crime-data analytics if part of broader public safety trend analysis",
+    "No budget, procurement, or departmental resource implications evident",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-NEWS-2026-00233 — linked for review"
+  ],
+  "last_relevance_update": null
+}
