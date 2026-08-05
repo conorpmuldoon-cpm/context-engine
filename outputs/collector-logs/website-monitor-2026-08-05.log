@@ -1,0 +1,28 @@
+2026-08-05 14:30:42,134 [INFO] ============================================================
+2026-08-05 14:30:42,134 [INFO] Website Monitor starting
+2026-08-05 14:30:44,003 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-08-05 14:30:44,003 [INFO]   Navigating to https://www.syr.gov/News
+2026-08-05 14:30:48,516 [INFO]   Found 10 article links in News
+2026-08-05 14:30:53,516 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-08-05-Mayors-Office-News-930AM
+2026-08-05 14:31:06,177 [INFO]     Saved: CTX-WEB-2026-00165 → CTX-WEB-2026-00165.json
+2026-08-05 14:31:06,177 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-08-04-Mayors-Office-News-10-AM
+2026-08-05 14:31:18,455 [WARNING]     Tag issue: Unknown tag 'community-engagement' not in taxonomy
+2026-08-05 14:31:18,466 [INFO]     Saved: CTX-WEB-2026-00166 → CTX-WEB-2026-00166.json
+2026-08-05 14:31:18,466 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-08-05 14:31:18,466 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-08-05 14:31:21,447 [INFO]   Found 0 article links in Announcements
+2026-08-05 14:31:26,447 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-08-05 14:31:26,447 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-08-05 14:31:29,440 [INFO]   Found 0 article links in Public Notices
+2026-08-05 14:31:34,482 [INFO] Website Monitor Run — 2026-08-05 14:31
+==================================================
+Sections scanned: 3
+New pages found: 2
+Saved as records: 2
+Already processed: 8
+Errors: 0
+
+New records:
+  • City Reminds Residents to Renew Senior Property Tax Exemption Status
+  • Downtown Committee Opens Applications for Cultural Festivals Fund
+

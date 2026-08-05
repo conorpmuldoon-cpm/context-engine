@@ -1,0 +1,75 @@
+{
+  "record_id": "CTX-WEB-2026-00166",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-08-04-Mayors-Office-News-10-AM",
+  "publication_date": "2026-08-04",
+  "capture_date": "2026-08-05T14:31:18Z",
+  "title": "Downtown Committee Opens Applications for Cultural Festivals Fund",
+  "summary": "The City of Syracuse Downtown Committee is opening applications for the Cultural Festivals Fund, offering up to $180,000 in grants ($3,000-$10,000 per festival) to support free, public cultural events held between October 2026 and September 2027. The fund aims to celebrate Syracuse's cultural diversity and activate public spaces, with the first application deadline on August 20, 2026, administered by the Downtown Syracuse Foundation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "grants",
+    "economic-development",
+    "initiative-launch",
+    "announcement",
+    "community-engagement",
+    "PROVISIONAL:cultural-programming",
+    "PROVISIONAL:public-events"
+  ],
+  "department_refs": [
+    "Office of Communications",
+    "Downtown Syracuse Foundation, Inc."
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Jimmy Monto",
+      "type": "person",
+      "canonical_id": "PERSON-JIMMY-MONTO"
+    },
+    {
+      "name": "Councilor Caldwell",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Downtown Syracuse Foundation",
+      "type": "organization",
+      "canonical_id": "ORG-DSF"
+    },
+    {
+      "name": "Syracuse Cultural Festivals Fund",
+      "type": "system",
+      "canonical_id": "SYS-SCFF"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor and Common Council leadership explicitly champion cultural diversity and community revitalization as strategic priorities; framing small public investments as high-impact economic/social development.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in source metadata; release issued by Downtown Committee per byline.",
+    "Caldwell (co-sponsor) not fully identified in release; may require supplemental lookup for canonical ID.",
+    "Fund described as pandemic-originated but now permanent/recurring; marks transition from emergency to ongoing program.",
+    "Downtown Syracuse Foundation is 501(c)(3) non-profit partner; clarify if this constitutes formal city department or external vendor relationship for CIO infrastructure mapping.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'community-engagement' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}
