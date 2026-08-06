@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2026-00237",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/08/former-syracuse-basketball-star-owes-city-500k-for-violations-at-downtown-building.html",
+  "publication_date": "2026-08-06",
+  "capture_date": "2026-08-06T14:20:34Z",
+  "title": "Former Syracuse basketball star owes city $500K for violations at downtown building",
+  "summary": "A former Syracuse University basketball player (2003 national championship captain) faces a $500,000 judgment from the City of Syracuse for code violations at a downtown building purchased five years ago. This represents a code enforcement action with potential implications for downtown property accountability and building standards compliance.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "code-enforcement",
+    "investigation",
+    "housing",
+    "land-use",
+    "zoning",
+    "complaint"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development",
+    "Code Enforcement"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-COE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "High-profile individual enforcement action suggests consistent code enforcement application regardless of subject prominence; signals accountability in downtown revitalization efforts",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Subject identity inferred but not explicitly named in provided excerpt; full name would clarify person entity",
+    "Downtown location suggests potential overlap with economic-development or capital-planning initiatives",
+    "Five-year timeline indicates long enforcement process; suggests systemic compliance monitoring",
+    "Dollar amount and judgment status indicate resolved or escalating enforcement action",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

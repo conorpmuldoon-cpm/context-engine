@@ -1,0 +1,75 @@
+2026-08-06 14:20:28,986 [INFO] ============================================================
+2026-08-06 14:20:28,986 [INFO] News Scanner starting
+2026-08-06 14:20:28,988 [INFO] Fetching: Syracuse.com Politics
+2026-08-06 14:20:29,278 [INFO]   50 new articles from Syracuse.com Politics
+2026-08-06 14:20:29,278 [INFO] Fetching: Syracuse.com Government
+2026-08-06 14:20:29,457 [INFO]   0 new articles from Syracuse.com Government
+2026-08-06 14:20:29,457 [INFO] Fetching: Syracuse.com Local
+2026-08-06 14:20:29,857 [INFO]   0 new articles from Syracuse.com Local
+2026-08-06 14:20:29,857 [INFO] Fetching: Syracuse.com Main
+2026-08-06 14:20:30,018 [INFO]   0 new articles from Syracuse.com Main
+2026-08-06 14:20:30,018 [INFO] Total unique articles across all feeds: 50
+2026-08-06 14:20:30,019 [INFO] New articles (not previously processed): 50
+2026-08-06 14:20:30,075 [DEBUG]   Filtered (not relevant): Germantown crash: 7 minors in stolen car kill Virginia man
+2026-08-06 14:20:30,075 [DEBUG]   Filtered (not relevant): Former Syracuse basketball player signs with pro team in Israel
+2026-08-06 14:20:30,075 [DEBUG]   Filtered (not relevant): Florida teen arrested in murder of military cadet and his childhood friend
+2026-08-06 14:20:30,076 [DEBUG]   Filtered (not relevant): How to watch US Gymnastics Championships 2026 for free this week
+2026-08-06 14:20:30,076 [DEBUG]   Filtered (not relevant): Legendary band cites ‘insurmountable obstacles’ in abrupt concert cancellation
+2026-08-06 14:20:30,077 [DEBUG]   Filtered (not relevant): Is Travis Kelce recording a country album? Here’s what we know
+2026-08-06 14:20:30,077 [DEBUG]   Filtered (not relevant): Iran and US say Strait of Hormuz deal is close
+2026-08-06 14:20:30,078 [DEBUG]   Filtered (not relevant): Investigators probe plane that took off as Trump helicopter approached
+2026-08-06 14:20:30,078 [DEBUG]   Filtered (not relevant): $20 Polymarket referral code “CUSE” updated for Mets-Guardians, MLB Thursday
+2026-08-06 14:20:30,079 [DEBUG]   Filtered (not relevant): A federal officer fired a Taser at a man pumping gas and the horrifying footage 
+2026-08-06 14:20:30,079 [DEBUG]   Filtered (not relevant): Former Syracuse car dealership damaged by overnight fire
+2026-08-06 14:20:30,080 [DEBUG]   Filtered (not relevant): Human augmentation, bionic art, & how AI can help with disabilities (Enable: The
+2026-08-06 14:20:30,081 [DEBUG]   Filtered (not relevant): Walmart’s ‘overall pick’ electric scooter is seeing a major discount under $200 
+2026-08-06 14:20:30,081 [DEBUG]   Filtered (not relevant): Mets vs. Guardians prediction: Polymarket prices and parlays, plus projections a
+2026-08-06 14:20:30,082 [DEBUG]   Filtered (not relevant): Powerball numbers for 08/05/26: $1 million winner sold in Midwest state
+2026-08-06 14:20:30,082 [DEBUG]   Filtered (not relevant): Sheriff: Family shooting leaves 3 dead, 1 injured in rural North Carolina
+2026-08-06 14:20:30,083 [DEBUG]   Filtered (not relevant): Upstate Community General is replacing its crumbling parking garage. See when it
+2026-08-06 14:20:30,083 [DEBUG]   Filtered (not relevant): Billie Eilish’s ‘Hit Me Hard and Soft’ concert film streams free on Paramount+
+2026-08-06 14:20:30,083 [DEBUG]   Filtered (not relevant): Celebrate Jerry Rescue Day to advance the ‘second abolition’: ending racism (You
+2026-08-06 14:20:30,084 [DEBUG]   Filtered (not relevant): Mets rookie goes viral for high-flying celebration after first MLB strikeout (vi
+2026-08-06 14:20:30,084 [DEBUG]   Filtered (not relevant): Health alert issued for popular theme park after infected visitor spent 11 hours
+2026-08-06 14:20:30,084 [DEBUG]   Filtered (not relevant): New independent bookstore ‘All My Friends’ opens in Skaneateles
+2026-08-06 14:20:30,085 [DEBUG]   Filtered (not relevant): Central NY’s Parade of Homes gets a major makeover; what it says about our housi
+2026-08-06 14:20:30,085 [DEBUG]   Filtered (not relevant): Jamesville-DeWitt athletics becomes big kid on the block by rejoining old league
+2026-08-06 14:20:30,085 [DEBUG]   Filtered (not relevant): Banks will shut down for a whole day in September: Here’s why
+2026-08-06 14:20:30,086 [DEBUG]   Filtered (not relevant): Man dies when motorcycle becomes airborne, hits concrete support on highway in B
+2026-08-06 14:20:30,087 [DEBUG]   Filtered (not relevant): Lyle DeVore honored at Albany-Saratoga Speedway
+2026-08-06 14:20:30,087 [DEBUG]   Filtered (not relevant): Costco food court review: What's worth ordering in 2026
+2026-08-06 14:20:30,087 [INFO]   Relevant: Former Syracuse basketball star owes city $500K for violations at downtown build
+2026-08-06 14:20:30,088 [DEBUG]     → Entities: Syracuse University
+2026-08-06 14:20:34,763 [INFO]     Saved: CTX-NEWS-2026-00237 → CTX-NEWS-2026-00237.json
+2026-08-06 14:20:34,763 [DEBUG]   Filtered (not relevant): Dear Annie: My bestie’s lavish birthday gifts make my presents feel lame
+2026-08-06 14:20:34,764 [DEBUG]   Filtered (not relevant): SU football: Which opposing player should SU be most concerned about? | Axe
+2026-08-06 14:20:34,764 [DEBUG]   Filtered (not relevant): Walmart recalls: Return these 4 products ASAP
+2026-08-06 14:20:34,764 [DEBUG]   Filtered (not relevant): Unsolicited telemarketing calls banned in France
+2026-08-06 14:20:34,765 [DEBUG]   Filtered (not relevant): Local United Way slashes grants to agencies (Good Morning CNY)
+2026-08-06 14:20:34,765 [DEBUG]   Filtered (not relevant): Missouri mom, teen shot dead by 73-year-old neighbor over noise complaint (repor
+2026-08-06 14:20:34,765 [DEBUG]   Filtered (not relevant): Bulls legend’s cause of death revealed
+2026-08-06 14:20:34,766 [DEBUG]   Filtered (not relevant): Central NY weather: Flash flooding, storms, heat index in the 90s for Thursday a
+2026-08-06 14:20:34,766 [DEBUG]   Filtered (not relevant): Country artist’s net worth falls to -$10 million after losing lawsuit to teen’s 
+2026-08-06 14:20:34,766 [DEBUG]   Filtered (not relevant): CNY Inspirations: Ongwehoñweh reaches beyond citizenship
+2026-08-06 14:20:34,767 [DEBUG]   Filtered (not relevant): Major sportsbooks phasing out credit card use: Here’s why
+2026-08-06 14:20:34,767 [DEBUG]   Filtered (not relevant): Popular talkshow host won’t be returning to air until next month
+2026-08-06 14:20:34,768 [DEBUG]   Filtered (not relevant): Micron’s free money for Syracuse-area kids: What parents need to know now
+2026-08-06 14:20:34,768 [DEBUG]   Filtered (not relevant): Dear Doctor: My mom is always mad at my dad and me, cause she thinks he’s an imp
+2026-08-06 14:20:34,768 [DEBUG]   Filtered (not relevant): Apple customers can now lease products with monthly payments
+2026-08-06 14:20:34,769 [DEBUG]   Filtered (not relevant): ‘The Voice’ curse: Singer killed by a cobra leads list of bizarre deaths tied to
+2026-08-06 14:20:34,769 [DEBUG]   Filtered (not relevant): Miss Manners: How do you get a vulgar visitor to keep quiet?
+2026-08-06 14:20:34,770 [DEBUG]   Filtered (not relevant): Country music legend said he was bleeding out from the inside: ‘I knew I was dyi
+2026-08-06 14:20:34,770 [DEBUG]   Filtered (not relevant): Beloved rock frontman dead at 69 after bladder cancer battle: ‘Boston music lege
+2026-08-06 14:20:34,770 [DEBUG]   Filtered (not relevant): Country music star teasing retirement after 3 decades: ‘Don’t have another 30 in
+2026-08-06 14:20:34,771 [DEBUG]   Filtered (not relevant): Dear Abby: Our cleaning lady’s constant chatter is wearing thin. What do we do?
+2026-08-06 14:20:34,773 [INFO] News Scanner Run — 2026-08-06 14:20
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Former Syracuse basketball star owes city $500K for violations at downtown build
+
