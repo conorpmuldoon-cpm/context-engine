@@ -1,0 +1,60 @@
+{
+  "record_id": "CTX-NEWS-2026-00238",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/08/hush-agreements-hide-bad-decisions-undermine-accountability-editorial-board-opinion.html",
+  "publication_date": "2026-08-09",
+  "capture_date": "2026-08-09T12:57:11Z",
+  "title": "‘Hush agreements’ hide bad decisions, undermine accountability (Editorial Board Opinion)",
+  "summary": "Editorial Board opinion piece criticizes Syracuse City School District's use of a confidentiality agreement in the separation of former top administrator Britt Britton, which included a $59,000 severance payment. The article argues that such 'hush agreements' obstruct public accountability and transparency regarding the circumstances of her termination.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "transparency",
+    "labor-relations",
+    "leadership-change",
+    "investigation",
+    "PROVISIONAL:confidentiality-agreements"
+  ],
+  "department_refs": [
+    "Syracuse City School District"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse City School District",
+      "type": "organization",
+      "canonical_id": "ORG-SCSD"
+    },
+    {
+      "name": "Britt Britton",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Editorial Board",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Editorial board applying public pressure on SCSD regarding lack of transparency in administrative separation and use of confidentiality clauses to shield decision-making from public view.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Britt Britton's residency status ('may have lived out of town') mentioned as contextual issue but not fully detailed in article excerpt",
+    "No direct connection to City of Syracuse municipal government, though SCSD is a public entity; primarily school district governance issue",
+    "Potential governance/accountability implications for public sector practices city-wide",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

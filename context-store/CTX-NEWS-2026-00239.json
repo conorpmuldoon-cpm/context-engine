@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2026-00239",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/08/ridiculous-term-limit-fight-will-cost-onondaga-county-taxpayers-plenty-editorial-board-opinion.html",
+  "publication_date": "2026-08-09",
+  "capture_date": "2026-08-09T12:57:14Z",
+  "title": "Ridiculous term limit fight will cost Onondaga County taxpayers plenty (Editorial Board Opinion)",
+  "summary": "Editorial board criticizes Onondaga County Legislature Democrats for initiating a lawsuit over term limits legislation despite pledging good governance. The opinion emphasizes potential costs to taxpayers in the hundreds of thousands of dollars, questioning the fiscal prudence of the legal action.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "legislation",
+    "policy-change",
+    "budget",
+    "intergovernmental",
+    "criticism",
+    "PROVISIONAL:term-limits"
+  ],
+  "department_refs": [
+    "Onondaga County Legislature"
+  ],
+  "entity_refs": [
+    {
+      "name": "Onondaga County Legislature Democrats",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY-LEGISLATURE"
+    },
+    {
+      "name": "Editorial Board",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-COM-EDITORIAL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Editorial board scrutinizes Democratic-controlled legislature for contradicting stated good governance commitment through expensive litigation over term limits policy",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is editorial opinion, not news reporting—reflects Editorial Board stance",
+    "No specific dollar amount provided; 'hundreds of thousands' is rhetorical estimate",
+    "County-level entity (Onondaga) rather than City of Syracuse, but relevant to regional governance context",
+    "Term limits as policy issue is emerging/PROVISIONAL tag—not in standard tag list",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'criticism' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}
