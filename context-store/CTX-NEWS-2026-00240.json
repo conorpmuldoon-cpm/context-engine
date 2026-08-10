@@ -1,0 +1,49 @@
+{
+  "record_id": "CTX-NEWS-2026-00240",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/08/ridiculous-term-limits-situation-is-ryan-mcmahons-fault-your-letters.html",
+  "publication_date": "2026-08-10",
+  "capture_date": "2026-08-10T13:16:06Z",
+  "title": "‘Ridiculous’ term limits situation is Ryan McMahon’s fault (Your Letters)",
+  "summary": "Opinion letter criticizing Mayor Ryan McMahon regarding term limits governance. The letter characterizes the current term limits situation as 'ridiculous' and attributes responsibility to the mayor. Relevant for CIO tracking of mayoral leadership narratives and governance policy discussions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "mayor",
+    "leadership-change",
+    "policy-change",
+    "vote",
+    "legislation"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Constituent criticism of mayor's handling of term limits policy, framed as accountability failure",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is opinion/letters-to-editor format; represents constituent viewpoint rather than news reporting",
+    "Full letter content not provided in excerpt; analysis based on title and header only",
+    "No departmental operations, budget, or CIO-specific systems mentioned",
+    "Term limits issue may relate to municipal governance policy but no specific legislation or executive action details provided",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

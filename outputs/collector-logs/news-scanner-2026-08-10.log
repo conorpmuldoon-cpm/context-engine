@@ -1,0 +1,75 @@
+2026-08-10 13:16:01,393 [INFO] ============================================================
+2026-08-10 13:16:01,393 [INFO] News Scanner starting
+2026-08-10 13:16:01,394 [INFO] Fetching: Syracuse.com Politics
+2026-08-10 13:16:02,085 [INFO]   50 new articles from Syracuse.com Politics
+2026-08-10 13:16:02,086 [INFO] Fetching: Syracuse.com Government
+2026-08-10 13:16:02,271 [INFO]   0 new articles from Syracuse.com Government
+2026-08-10 13:16:02,271 [INFO] Fetching: Syracuse.com Local
+2026-08-10 13:16:02,467 [INFO]   0 new articles from Syracuse.com Local
+2026-08-10 13:16:02,468 [INFO] Fetching: Syracuse.com Main
+2026-08-10 13:16:02,637 [INFO]   0 new articles from Syracuse.com Main
+2026-08-10 13:16:02,637 [INFO] Total unique articles across all feeds: 50
+2026-08-10 13:16:02,638 [INFO] New articles (not previously processed): 50
+2026-08-10 13:16:02,699 [DEBUG]   Filtered (not relevant): Mets vs. Braves prediction: Polymarket prices, props and projections for tonight
+2026-08-10 13:16:02,700 [DEBUG]   Filtered (not relevant): California law student's death linked to weight loss drug
+2026-08-10 13:16:02,700 [DEBUG]   Filtered (not relevant): Syracuse man gets maximum sentence for fatally stabbing man over a bottle of alc
+2026-08-10 13:16:02,701 [DEBUG]   Filtered (not relevant): Watchdog for $46 billion tribal gambling industry can’t enforce the law without 
+2026-08-10 13:16:02,701 [DEBUG]   Filtered (not relevant): WWE legend to have serious surgery this week: ‘I’m getting a shunt put in my bra
+2026-08-10 13:16:02,702 [DEBUG]   Filtered (not relevant): From drill sergeant to head coach: New leader steps in for Mount Markham footbal
+2026-08-10 13:16:02,702 [INFO]   Relevant: ‘Ridiculous’ term limits situation is Ryan McMahon’s fault (Your Letters)
+2026-08-10 13:16:02,702 [DEBUG]     → Entities: Ryan McMahon
+2026-08-10 13:16:06,164 [INFO]     Saved: CTX-NEWS-2026-00240 → CTX-NEWS-2026-00240.json
+2026-08-10 13:16:06,165 [DEBUG]   Filtered (not relevant): Guitarist’s death leaves country and rock fans gutted: ‘One of the finest musici
+2026-08-10 13:16:06,165 [DEBUG]   Filtered (not relevant): SEC coach on why team schedules differently than Indiana
+2026-08-10 13:16:06,166 [DEBUG]   Filtered (not relevant): Amazon issues nationwide recall for 12K bed rails citing entrapment hazards: Ret
+2026-08-10 13:16:06,166 [DEBUG]   Filtered (not relevant): Classic rock band to release first new album in 10 years: ‘Really happy’
+2026-08-10 13:16:06,166 [DEBUG]   Filtered (not relevant): Rock musician, studio owner killed in crash with tractor. Here’s what we know
+2026-08-10 13:16:06,167 [DEBUG]   Filtered (not relevant): CNY students spend a week plugged into construction jobs at Micron camp: ‘Kids a
+2026-08-10 13:16:06,167 [DEBUG]   Filtered (not relevant): Photos: See 50 priciest homes sold in Onondaga County in 2026 first half
+2026-08-10 13:16:06,168 [DEBUG]   Filtered (not relevant): Battle wins first supermodified race in stunning upset at Oswego
+2026-08-10 13:16:06,168 [DEBUG]   Filtered (not relevant): Check your nursery: Crib mattresses sold nationwide on Amazon recalled for entra
+2026-08-10 13:16:06,168 [DEBUG]   Filtered (not relevant): Who are the top returning football rushing leaders ranked by 2025 stats
+2026-08-10 13:16:06,169 [DEBUG]   Filtered (not relevant): Man who killed parents posted bail days earlier (Good Morning CNY)
+2026-08-10 13:16:06,169 [DEBUG]   Filtered (not relevant): Auto body, retail, farmland: See 16 latest business, apartment, land sales ($976
+2026-08-10 13:16:06,170 [DEBUG]   Filtered (not relevant): Syracuse’s pass rush was poor last year. So, who is going to sack the quarterbac
+2026-08-10 13:16:06,170 [DEBUG]   Filtered (not relevant): Social Security takes new step to address major complaints
+2026-08-10 13:16:06,170 [DEBUG]   Filtered (not relevant): Pardoned Jan. 6 rioter arrested on felony gun charges in Upstate NY
+2026-08-10 13:16:06,171 [DEBUG]   Filtered (not relevant): Central NY weather: Severe thunderstorms with damaging winds, localized flash fl
+2026-08-10 13:16:06,171 [DEBUG]   Filtered (not relevant): Country star rages after being hit by object mid-song: ‘What the (expletive) man
+2026-08-10 13:16:06,171 [DEBUG]   Filtered (not relevant): NFL rookie ‘essentially guaranteed’ a shot at joining WWE as a wrestler
+2026-08-10 13:16:06,172 [DEBUG]   Filtered (not relevant): Syracuse Latino Festival, Chance the Rapper: 39 things to do this week in CNY
+2026-08-10 13:16:06,172 [DEBUG]   Filtered (not relevant): Amanda Knox’s new show sparks debate nearly 20 years after Meredith Kercher case
+2026-08-10 13:16:06,173 [DEBUG]   Filtered (not relevant): This trial is forcing a difficult conversation far beyond the courtroom
+2026-08-10 13:16:06,173 [DEBUG]   Filtered (not relevant): 450,000 NYers just lost their health insurance: How one Syracuse caregiver is co
+2026-08-10 13:16:06,174 [DEBUG]   Filtered (not relevant): A maid of honor saved one voice memo for years, then played it at the wedding
+2026-08-10 13:16:06,174 [DEBUG]   Filtered (not relevant): A routine delivery uncovered a situation that authorities say could have turned 
+2026-08-10 13:16:06,175 [DEBUG]   Filtered (not relevant): Families flee advancing wildfires while thousands wait to learn what remains
+2026-08-10 13:16:06,175 [DEBUG]   Filtered (not relevant): A stolen parrot disappeared in 2017. Nobody expected what happened next.
+2026-08-10 13:16:06,176 [DEBUG]   Filtered (not relevant): Dear Doctor: A 77-year-old prediabetic was told to avoid pasta but not candy. He
+2026-08-10 13:16:06,177 [DEBUG]   Filtered (not relevant): What would Syracuse get in Quinnipiac transfer Amarri Monroe? ‘He’s a Swiss Army
+2026-08-10 13:16:06,177 [DEBUG]   Filtered (not relevant): Ex-PGA tour golfer ‘unexpectedly’ dies at 45. Here’s the latest
+2026-08-10 13:16:06,177 [DEBUG]   Filtered (not relevant): Miss Manners: I don’t want to host guests when I need sleep and a shower
+2026-08-10 13:16:06,178 [DEBUG]   Filtered (not relevant): Beloved country and rock musician dead at 76: ‘He was the best of us’
+2026-08-10 13:16:06,178 [DEBUG]   Filtered (not relevant): Popular rock singer dead after cancer battle: ‘Father, musician, music industry 
+2026-08-10 13:16:06,179 [DEBUG]   Filtered (not relevant): Country music’s ‘oldest living legend’ dead at 109: ‘A self-made star’
+2026-08-10 13:16:06,179 [DEBUG]   Filtered (not relevant): NBA vet rips player trying to enter WNBA: ‘Love slapping people with women’s nam
+2026-08-10 13:16:06,180 [DEBUG]   Filtered (not relevant): Dear Abby: Should I tell mourning stepson he shouldn’t bring tacky plastic flowe
+2026-08-10 13:16:06,180 [DEBUG]   Filtered (not relevant): ’90s actor fighting for life in hospital: ‘May be no light at the end of the tun
+2026-08-10 13:16:06,180 [DEBUG]   Filtered (not relevant): Asking Eric: I told my parents off when they announced their move to Florida. No
+2026-08-10 13:16:06,181 [DEBUG]   Filtered (not relevant): New $20 Polymarket invite code “CUSE” updated for MLB and the Fed decision live 
+2026-08-10 13:16:06,182 [DEBUG]   Filtered (not relevant): 2 die in boating accident on Mohawk Valley lake
+2026-08-10 13:16:06,182 [DEBUG]   Filtered (not relevant): Person drowned at state park in Oswego County
+2026-08-10 13:16:06,183 [DEBUG]   Filtered (not relevant): Officers seized Central NY man’s firearms, but he still got gun and killed paren
+2026-08-10 13:16:06,183 [DEBUG]   Filtered (not relevant): Fire breaks out in vacant Syracuse building
+2026-08-10 13:16:06,183 [DEBUG]   Filtered (not relevant): ‘Dukes of Hazzard’ star turned politician dead at 84
+2026-08-10 13:16:06,185 [INFO] News Scanner Run — 2026-08-10 13:16
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • ‘Ridiculous’ term limits situation is Ryan McMahon’s fault (Your Letters)
+
