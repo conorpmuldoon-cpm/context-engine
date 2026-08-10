@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-WEB-2026-00167",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-08-10-Mayors-Office-News-930AM",
+  "publication_date": "2026-08-10",
+  "capture_date": "2026-08-10T13:42:26Z",
+  "title": "City Sees Improvements in Employee Safety Through Various Initiatives",
+  "summary": "Syracuse has achieved significant workplace safety improvements through data-driven, proactive initiatives rather than reactive protocols. Key successes include elimination of shoulder injuries in waste collection (41% to 0%) following 2023 cart automation, mandatory OSHA training reducing new claims 73%, and a stay-at-work program cutting overall claim costs 50.3% in 2025. The city has invested in Slip, Trip, and Fall simulator training and structured recovery programs across multiple departments.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "initiative-launch",
+    "labor-relations",
+    "policy-change",
+    "training",
+    "workforce-development",
+    "safety-culture",
+    "data-governance"
+  ],
+  "department_refs": [
+    "Department of Sanitation",
+    "Department of Public Works",
+    "Department of Water",
+    "Department of Parks and Recreation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Lisa Schmidt",
+      "type": "person",
+      "canonical_id": "PERSON-LISA-SCHMIDT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor emphasizes worker safety as administration priority; demonstrates fiscal and social ROI of proactive systems-based safety investments",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Department of Sanitation extracted from 'Waste Collection Bureau' context",
+    "Three-year timeline (2023-2026) shows sustained commitment to safety initiatives",
+    "Strong quantitative evidence provided ($950K in slip/trip/fall claims 2023-2025; $147K shoulder injury claims eliminated)",
+    "Risk and Safety Manager Lisa Schmidt quoted validates institutional cultural shift",
+    "Potential CIO relevance: systems-first safety culture and data-driven decision-making may intersect with digital infrastructure/analytics initiatives",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'safety-culture' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}
