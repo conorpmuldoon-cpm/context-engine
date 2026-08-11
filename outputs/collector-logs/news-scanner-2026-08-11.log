@@ -1,0 +1,79 @@
+2026-08-11 13:13:05,212 [INFO] ============================================================
+2026-08-11 13:13:05,212 [INFO] News Scanner starting
+2026-08-11 13:13:05,213 [INFO] Fetching: Syracuse.com Politics
+2026-08-11 13:13:05,491 [INFO]   50 new articles from Syracuse.com Politics
+2026-08-11 13:13:05,491 [INFO] Fetching: Syracuse.com Government
+2026-08-11 13:13:05,687 [INFO]   0 new articles from Syracuse.com Government
+2026-08-11 13:13:05,688 [INFO] Fetching: Syracuse.com Local
+2026-08-11 13:13:05,934 [INFO]   0 new articles from Syracuse.com Local
+2026-08-11 13:13:05,934 [INFO] Fetching: Syracuse.com Main
+2026-08-11 13:13:06,163 [INFO]   0 new articles from Syracuse.com Main
+2026-08-11 13:13:06,164 [INFO] Total unique articles across all feeds: 50
+2026-08-11 13:13:06,164 [INFO] New articles (not previously processed): 50
+2026-08-11 13:13:06,222 [DEBUG]   Filtered (not relevant): New zip code takes top spot as most expensive in country
+2026-08-11 13:13:06,222 [DEBUG]   Filtered (not relevant): Syracuse cites new Eastwood bakery for code violations, owners push back
+2026-08-11 13:13:06,223 [DEBUG]   Filtered (not relevant): Ex-NFL center who won 2 Super Bowls as Giants assistant coach dies at 82
+2026-08-11 13:13:06,223 [DEBUG]   Filtered (not relevant): Large World War II-era artillery shell found in basement of Central NY home
+2026-08-11 13:13:06,223 [DEBUG]   Filtered (not relevant): Powerball results for 08/10/26: Three players win at least $1 million
+2026-08-11 13:13:06,224 [DEBUG]   Filtered (not relevant): Florida woman pretends to have cancer, scams more than 200 people out of $40K
+2026-08-11 13:13:06,224 [DEBUG]   Filtered (not relevant): 17-year-old boy dies after pickup hits trees and crashes in ditch in Oneida Coun
+2026-08-11 13:13:06,225 [DEBUG]   Filtered (not relevant): Legendary punk band reveals origin of iconic logo: ‘A lot of the times I was hig
+2026-08-11 13:13:06,225 [DEBUG]   Filtered (not relevant): Little League team reinstated by judge's order
+2026-08-11 13:13:06,225 [DEBUG]   Filtered (not relevant): Skaneateles winery is still for sale. Because of music festival, owner is seekin
+2026-08-11 13:13:06,226 [DEBUG]   Filtered (not relevant): Check your home: 7 products sold on Amazon, Home Depot recalled for serious inju
+2026-08-11 13:13:06,226 [DEBUG]   Filtered (not relevant): Texas gun range sued after stray bullets found in new middle school
+2026-08-11 13:13:06,227 [DEBUG]   Filtered (not relevant): Who are the top returning football passing leaders ranked by 2025 stats
+2026-08-11 13:13:06,227 [DEBUG]   Filtered (not relevant): Dad found guilty of drowning 9-year-old daughter, hiding body in Upstate NY
+2026-08-11 13:13:06,227 [DEBUG]   Filtered (not relevant): Daylight saving time ends at the earliest possible time this year
+2026-08-11 13:13:06,228 [DEBUG]   Filtered (not relevant): 10 states where Social Security benefits go furthest
+2026-08-11 13:13:06,228 [DEBUG]   Filtered (not relevant): New operator takes over Fair’s $1 potato booth (Good Morning CNY)
+2026-08-11 13:13:06,228 [DEBUG]   Filtered (not relevant): ‘The Challenge’ star’s girlfriend reacts to him flirting with costar, downplayin
+2026-08-11 13:13:06,229 [DEBUG]   Filtered (not relevant): Classic rock band selling new $1,000 VIP tickets for a seat on stage
+2026-08-11 13:13:06,229 [INFO]   Relevant: National Grid shutoffs across Upstate NY hit 10-year high
+2026-08-11 13:13:06,229 [DEBUG]     → Entities: National Grid
+2026-08-11 13:13:10,715 [INFO]     Saved: CTX-NEWS-2026-00241 → CTX-NEWS-2026-00241.json
+2026-08-11 13:13:10,715 [DEBUG]   Filtered (not relevant): Inside the first public event at Highmark Stadium: Beloved artwork, obstructed v
+2026-08-11 13:13:10,716 [DEBUG]   Filtered (not relevant): Popular accessory sold at gas stations nationwide recalled for battery-ingestion
+2026-08-11 13:13:10,716 [DEBUG]   Filtered (not relevant): Inside Syracuse football: 9 observations from the first week of practice
+2026-08-11 13:13:10,716 [DEBUG]   Filtered (not relevant): Police blotter: See 230 new arrests added
+2026-08-11 13:13:10,717 [INFO]   Relevant: Can a city require a permit for prayer at home? Supreme Court will decide
+2026-08-11 13:13:10,717 [DEBUG]     → Departments: Law Department
+2026-08-11 13:13:10,717 [DEBUG]     → Keywords: city officials
+2026-08-11 13:13:14,524 [INFO]     Saved: CTX-NEWS-2026-00242 → CTX-NEWS-2026-00242.json
+2026-08-11 13:13:14,524 [DEBUG]   Filtered (not relevant): Yankees legend says goodbye as he battles health issues: ‘Thank you & God Bless’
+2026-08-11 13:13:14,525 [DEBUG]   Filtered (not relevant): Gas prices are climbing in Ohio. Here’s why some officials want more EVs and hyb
+2026-08-11 13:13:14,526 [DEBUG]   Filtered (not relevant): Dear Doctor: My dermatologist prescribed a diabetes drug for my skin rash — is t
+2026-08-11 13:13:14,527 [DEBUG]   Filtered (not relevant): Miss Manners: I’m afraid of being rude trying to get a stranger’s attention
+2026-08-11 13:13:14,527 [DEBUG]   Filtered (not relevant): CNY Inspirations: Transformation
+2026-08-11 13:13:14,527 [DEBUG]   Filtered (not relevant): Iconic pop singer dead at 54: ‘Another great talent lost’
+2026-08-11 13:13:14,528 [DEBUG]   Filtered (not relevant): Joe Budden launches 'Crime in America' true-crime podcast series
+2026-08-11 13:13:14,528 [DEBUG]   Filtered (not relevant): Trader Joe's new lime-green bag is flying off shelves — here's what you need to 
+2026-08-11 13:13:14,528 [DEBUG]   Filtered (not relevant): Beloved rock frontman dead at 46 after cancer battle: ‘Made a huge impact’
+2026-08-11 13:13:14,529 [DEBUG]   Filtered (not relevant): Country music rocked by 3 deaths in 3 days. Here’s what we know
+2026-08-11 13:13:14,529 [DEBUG]   Filtered (not relevant): Dear Abby: Spanish teacher’s singing hits a sour note. Would she take free singi
+2026-08-11 13:13:14,530 [DEBUG]   Filtered (not relevant): Asking Eric: I’m keeping an open mind about half-siblings. My sister is digging 
+2026-08-11 13:13:14,531 [DEBUG]   Filtered (not relevant): Coastal flood statement affecting Westchester County until early Wednesday
+2026-08-11 13:13:14,531 [DEBUG]   Filtered (not relevant): Update: Prepare for strong thunderstorms in Clinton and Essex counties until ear
+2026-08-11 13:13:14,531 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Monday’s $905 million drawing
+2026-08-11 13:13:14,532 [DEBUG]   Filtered (not relevant): Polymarket updates $20 MLB invite code “CUSE” for new “Elon Musk Tweet Count” ma
+2026-08-11 13:13:14,533 [DEBUG]   Filtered (not relevant): Experts release Yankees vs. Seattle prediction as Weathers and Woo square off in
+2026-08-11 13:13:14,533 [DEBUG]   Filtered (not relevant): Bills respond to backlash over sightline concerns at new $2.1 billion stadium
+2026-08-11 13:13:14,534 [DEBUG]   Filtered (not relevant): Update: Franklin and St. Lawrence counties severe thunderstorm warning set to ex
+2026-08-11 13:13:14,534 [DEBUG]   Filtered (not relevant): Update: The severe thunderstorm warning for Essex County is likely to expire at 
+2026-08-11 13:13:14,535 [DEBUG]   Filtered (not relevant): Live Powerball numbers  for 08/10/26: Did you win the $905 million jackpot?
+2026-08-11 13:13:14,535 [DEBUG]   Filtered (not relevant): Former SEC quarterback hits milestone in cancer battle
+2026-08-11 13:13:14,536 [DEBUG]   Filtered (not relevant): Top receivers in Section 2 New York high school football
+2026-08-11 13:13:14,536 [DEBUG]   Filtered (not relevant): Sark talks Coleman's viral catch, reminds him of former Tide WR
+2026-08-11 13:13:14,536 [DEBUG]   Filtered (not relevant): Update: Marble-sized hail forecast with thunderstorms to hit St. Lawrence County
+2026-08-11 13:13:14,538 [INFO] News Scanner Run — 2026-08-11 13:13
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • National Grid shutoffs across Upstate NY hit 10-year high
+  • Can a city require a permit for prayer at home? Supreme Court will decide
+

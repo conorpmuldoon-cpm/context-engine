@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2026-00242",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/us-news/2026/08/what-started-in-an-ohio-rec-room-could-change-religious-rights-nationwide.html",
+  "publication_date": "2026-08-11",
+  "capture_date": "2026-08-11T13:13:14Z",
+  "title": "Can a city require a permit for prayer at home? Supreme Court will decide",
+  "summary": "A U.S. Supreme Court case originating from a Cleveland suburb dispute over home prayer gathering permits is set to reshape how religious organizations challenge local zoning laws and permitting requirements nationwide. The case involves resident Daniel Grand's years-long legal battle with University Heights city officials regarding permission to host religious gatherings in his home. This decision could have significant implications for how municipalities enforce zoning and permitting regulations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "zoning",
+    "permitting",
+    "intergovernmental",
+    "legislation",
+    "PROVISIONAL:religious-liberty",
+    "PROVISIONAL:supreme-court"
+  ],
+  "department_refs": [
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Daniel Grand",
+      "type": "person",
+      "canonical_id": "PERSON-DANIEL-GRAND"
+    },
+    {
+      "name": "University Heights",
+      "type": "organization",
+      "canonical_id": "ORG-UNIVERSITY-HEIGHTS-OH"
+    },
+    {
+      "name": "U.S. Supreme Court",
+      "type": "organization",
+      "canonical_id": "ORG-US-SUPREME-COURT"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Supreme Court review of municipal permitting and zoning authority relative to religious exercise may constrain local government discretion; potential precedent affecting Syracuse's ability to enforce zoning and permitting requirements.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is national scope but relevant to Syracuse due to potential precedent affecting municipal zoning/permitting authority",
+    "No direct Syracuse references or local impacts mentioned",
+    "Consider monitoring for follow-up coverage specific to local religious assembly permitting practices",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

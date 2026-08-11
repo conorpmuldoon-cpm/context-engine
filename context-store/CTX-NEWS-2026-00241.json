@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00241",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/08/national-grid-shutoffs-across-upstate-ny-hit-10-year-high.html",
+  "publication_date": "2026-08-11",
+  "capture_date": "2026-08-11T13:13:10Z",
+  "title": "National Grid shutoffs across Upstate NY hit 10-year high",
+  "summary": "National Grid utility shutoffs across Upstate NY reached a 10-year high this spring, with the most homes disconnected in a single month since 2016. This trend signals potential infrastructure resilience and customer service issues that may intersect with city emergency response, equity concerns, and constituent complaints handled through 311 systems.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "state-agency",
+    "infrastructure",
+    "escalating",
+    "constituent-complaints",
+    "equity",
+    "emergency-services",
+    "trending"
+  ],
+  "department_refs": [
+    "Office of the Chief Innovation Officer"
+  ],
+  "entity_refs": [
+    {
+      "name": "National Grid",
+      "type": "organization",
+      "canonical_id": "ORG-NATIONAL-GRID"
+    },
+    {
+      "name": "Renee Fox",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Rising utility shutoffs may generate constituent complaints and 311 requests; reflects state utility regulation scrutiny and potential equity impacts on vulnerable populations.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article covers state-regulated utility (National Grid), not direct city operations, but has cross-cutting implications for 311 complaint volume, emergency services, and equity initiatives.",
+    "No direct budget or departmental impact detected in article excerpt; recommend monitoring for connection to city infrastructure interdependencies and vulnerable population support programs.",
+    "Consider potential PROVISIONAL tag: 'utility-regulation' if expanded tracking of state agency impacts is desired.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
