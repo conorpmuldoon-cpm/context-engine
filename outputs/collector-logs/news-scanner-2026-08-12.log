@@ -1,0 +1,75 @@
+2026-08-12 13:17:00,312 [INFO] ============================================================
+2026-08-12 13:17:00,312 [INFO] News Scanner starting
+2026-08-12 13:17:00,313 [INFO] Fetching: Syracuse.com Politics
+2026-08-12 13:17:00,933 [INFO]   50 new articles from Syracuse.com Politics
+2026-08-12 13:17:00,933 [INFO] Fetching: Syracuse.com Government
+2026-08-12 13:17:01,081 [INFO]   0 new articles from Syracuse.com Government
+2026-08-12 13:17:01,081 [INFO] Fetching: Syracuse.com Local
+2026-08-12 13:17:01,205 [INFO]   0 new articles from Syracuse.com Local
+2026-08-12 13:17:01,205 [INFO] Fetching: Syracuse.com Main
+2026-08-12 13:17:01,323 [INFO]   0 new articles from Syracuse.com Main
+2026-08-12 13:17:01,323 [INFO] Total unique articles across all feeds: 50
+2026-08-12 13:17:01,323 [INFO] New articles (not previously processed): 50
+2026-08-12 13:17:01,365 [DEBUG]   Filtered (not relevant): Say goodbye: Beloved restaurant chain abruptly closes all locations, files bankr
+2026-08-12 13:17:01,366 [DEBUG]   Filtered (not relevant): Central NY martial arts instructor who taught kids found with child porn, prosec
+2026-08-12 13:17:01,366 [DEBUG]   Filtered (not relevant): Redhouse director announces retirement, leaves a marquee legacy at Syracuse thea
+2026-08-12 13:17:01,367 [DEBUG]   Filtered (not relevant): 25 area codes that receive the most robocalls: Did your number make the list?
+2026-08-12 13:17:01,367 [DEBUG]   Filtered (not relevant): College basketball head coach was ‘seriously injured’ in a crash. Here’s the lat
+2026-08-12 13:17:01,367 [DEBUG]   Filtered (not relevant): Salvation Army launches ‘emergency fundraising’ campaign after $350K cut
+2026-08-12 13:17:01,368 [DEBUG]   Filtered (not relevant): CNY schools ranked 1 to 69 based on latest global history Regents
+2026-08-12 13:17:01,368 [DEBUG]   Filtered (not relevant): Ex-Chinese Premier Zhu Rongji dead at 97
+2026-08-12 13:17:01,368 [DEBUG]   Filtered (not relevant): Before he killed his parents, Justin Sislo terrorized his girlfriend: ‘I felt li
+2026-08-12 13:17:01,368 [DEBUG]   Filtered (not relevant): Who are the top returning football receiving leaders ranked by 2025 stats
+2026-08-12 13:17:01,369 [DEBUG]   Filtered (not relevant): Little League team remains disqualified, loses court fight: 'We empathize with t
+2026-08-12 13:17:01,369 [DEBUG]   Filtered (not relevant): CNY native Mike Washington Jr. turning heads at Raiders camp ahead of preseason 
+2026-08-12 13:17:01,369 [DEBUG]   Filtered (not relevant): Travel scam losses cost U.S. residents $297M, survey says
+2026-08-12 13:17:01,370 [INFO]   Relevant: Syracuse schools may add more screen-time to kids’ days. Teachers aren’t sold.
+2026-08-12 13:17:01,370 [DEBUG]     → Entities: Syracuse City School District
+2026-08-12 13:17:05,598 [INFO]     Saved: CTX-NEWS-2026-00243 → CTX-NEWS-2026-00243.json
+2026-08-12 13:17:05,598 [DEBUG]   Filtered (not relevant): 18-year-old won’t be charged in fatal stabbing (Good Morning CNY)
+2026-08-12 13:17:05,599 [DEBUG]   Filtered (not relevant): Syracuse Mets beat Jacksonville 6-3 with four home runs
+2026-08-12 13:17:05,599 [DEBUG]   Filtered (not relevant): Country music legend fulfills a cancer patient’s lifelong wish
+2026-08-12 13:17:05,599 [DEBUG]   Filtered (not relevant): Westhill golfer continues dominant stretch with 3rd win this summer
+2026-08-12 13:17:05,600 [DEBUG]   Filtered (not relevant): What Trump’s latest vaccine rollback means for New York’s schoolkids
+2026-08-12 13:17:05,600 [DEBUG]   Filtered (not relevant): Apple cuts back on certain shipments ahead of iPhone 18 release
+2026-08-12 13:17:05,600 [DEBUG]   Filtered (not relevant): Paul Olszewski on leadership: ‘Hire the right people and then they make your lif
+2026-08-12 13:17:05,600 [DEBUG]   Filtered (not relevant): Why Georgia’s data center boom is running into growing resistance
+2026-08-12 13:17:05,601 [DEBUG]   Filtered (not relevant): Dear Doctor: Several medical errors turned my chest pain scare into a traumatic 
+2026-08-12 13:17:05,602 [DEBUG]   Filtered (not relevant): Many Americans think they know what they’re paying for. The numbers tell a diffe
+2026-08-12 13:17:05,602 [DEBUG]   Filtered (not relevant): A major change is coming to Michigan politics. Here’s what former lawmakers won’
+2026-08-12 13:17:05,602 [DEBUG]   Filtered (not relevant): Miss Manners: Why should I bring a gift and pay for the birthday dinner?
+2026-08-12 13:17:05,603 [DEBUG]   Filtered (not relevant): Macy's Hotel Collection comforter sets are up to 80% off — here are 15 worth buy
+2026-08-12 13:17:05,603 [DEBUG]   Filtered (not relevant): Hochul’s lead over Blakeman narrows in NY governor’s race, Siena poll finds
+2026-08-12 13:17:05,603 [DEBUG]   Filtered (not relevant): Fans heartbroken by ‘The Office’ star’s stage 4 cancer diagnosis: ‘Gutted’
+2026-08-12 13:17:05,604 [DEBUG]   Filtered (not relevant): Dear Abby: How can I stop retired parents from supporting wealthy 31-year-old br
+2026-08-12 13:17:05,604 [DEBUG]   Filtered (not relevant): Pregnant actress shuts down claims that her baby bump is fake
+2026-08-12 13:17:05,604 [DEBUG]   Filtered (not relevant): Major college to drop grades, citing mental health concerns
+2026-08-12 13:17:05,605 [DEBUG]   Filtered (not relevant): Asking Eric: Ungrateful relatives will find themselves cut out of uncle’s will
+2026-08-12 13:17:05,605 [DEBUG]   Filtered (not relevant): Coastal flood statement in place for Westchester County until 1 a.m. Thursday
+2026-08-12 13:17:05,606 [DEBUG]   Filtered (not relevant): Mega Millions numbers: Are you the lucky winner of Tuesday’s $80 million jackpot
+2026-08-12 13:17:05,606 [DEBUG]   Filtered (not relevant): Best Buy hosts major TV sale ahead of football season - Samsung, Insignia, more 
+2026-08-12 13:17:05,606 [DEBUG]   Filtered (not relevant): New $20 Polymarket invite code “CUSE” upgraded for Mets vs. Braves live odds
+2026-08-12 13:17:05,607 [DEBUG]   Filtered (not relevant): ESPN personality meets Trump for Patriot Games
+2026-08-12 13:17:05,607 [DEBUG]   Filtered (not relevant): Kiffin didn’t stay at Ole Miss because of 'lower expectation’
+2026-08-12 13:17:05,607 [DEBUG]   Filtered (not relevant): Trump administration again barred by judge from implementing order to limit mail
+2026-08-12 13:17:05,608 [DEBUG]   Filtered (not relevant): $20 Polymarket referral code “CUSE” upgraded for Liberty vs. Fever in NY, CA, FL
+2026-08-12 13:17:05,608 [DEBUG]   Filtered (not relevant): Is Oprah Winfrey married? No, but she and her partner have been going strong for
+2026-08-12 13:17:05,608 [DEBUG]   Filtered (not relevant): Vegas club promoter admits to hitting toddler, mother with his vehicle while dru
+2026-08-12 13:17:05,609 [DEBUG]   Filtered (not relevant): How to watch ‘Hard Knocks’ Seattle Seahawks Episode 2 free tonight
+2026-08-12 13:17:05,609 [DEBUG]   Filtered (not relevant): ‘AGT’ Season 21 ‘Judges’ Callbacks 2′ airs tonight: How to watch for free
+2026-08-12 13:17:05,610 [DEBUG]   Filtered (not relevant): L.L.Bean’s iconic Bean Boots are on sale just in time for fall - but sizes are s
+2026-08-12 13:17:05,610 [DEBUG]   Filtered (not relevant): Legendary rock star to perform at SEC school's opener
+2026-08-12 13:17:05,610 [DEBUG]   Filtered (not relevant): Orange and Rockland counties placed under a flood advisory Tuesday evening trigg
+2026-08-12 13:17:05,611 [DEBUG]   Filtered (not relevant): Update: Thunderstorms with marble-sized hail in Orange County Tuesday — wind gus
+2026-08-12 13:17:05,611 [DEBUG]   Filtered (not relevant): 15 dead, 27 missing after ferry capsizes in Zimbabwe
+2026-08-12 13:17:05,612 [INFO] News Scanner Run — 2026-08-12 13:17
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Syracuse schools may add more screen-time to kids’ days. Teachers aren’t sold.
+

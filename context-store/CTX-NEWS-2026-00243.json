@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-NEWS-2026-00243",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/schools/2026/08/syracuse-schools-may-add-more-screen-time-to-kids-days-teachers-arent-sold.html",
+  "publication_date": "2026-08-12",
+  "capture_date": "2026-08-12T13:17:05Z",
+  "title": "Syracuse schools may add more screen-time to kids’ days. Teachers aren’t sold.",
+  "summary": "Syracuse City School District is planning to adopt i-Ready, an online educational platform, despite teacher concerns about increased student screen time. This procurement decision involves a significant digital-services initiative that will impact instructional practices and student technology exposure across the district.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "procurement",
+    "software-systems",
+    "digital-services",
+    "initiative-launch",
+    "equity",
+    "PROVISIONAL:education-technology",
+    "PROVISIONAL:student-wellness"
+  ],
+  "department_refs": [
+    "Syracuse City School District"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse City School District",
+      "type": "organization",
+      "canonical_id": "ORG-SCSD"
+    },
+    {
+      "name": "i-Ready",
+      "type": "system",
+      "canonical_id": "SYS-I-READY"
+    },
+    {
+      "name": "Emalyn Muzzy",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Teacher resistance to platform adoption signals implementation risk and potential workforce concerns about instructional methodology and student outcomes; suggests need for change management and stakeholder alignment before rollout.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No dollar amounts or contract details provided in article excerpt",
+    "Teacher opposition is a key stakeholder concern for implementation planning",
+    "Health/wellness dimension (screen time) may intersect with equity considerations",
+    "Date is future-dated (2026); verify currency and actual implementation timeline",
+    "Consider cross-reference with potential state-mandates or federal-programs related to educational technology",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
