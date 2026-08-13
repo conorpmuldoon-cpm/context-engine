@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00244",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/08/with-election-15-months-away-ryan-mcmahon-buys-campaign-ad-to-drown-out-some-of-the-noise.html",
+  "publication_date": "2026-08-13",
+  "capture_date": "2026-08-13T13:19:12Z",
+  "title": "With election 15 months away, Ryan McMahon buys campaign ad to ‘drown out some of the noise’",
+  "summary": "Onondaga County Executive Ryan McMahon is launching campaign advertisements 15 months before the next election to promote his accomplishments and counter negative media coverage regarding a signature-related controversy. This article reflects local political positioning rather than municipal innovation or service delivery matters.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "vote",
+    "leadership-change",
+    "trending"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Onondaga County Executive Office",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY-EXEC"
+    },
+    {
+      "name": "Tim Knauss",
+      "type": "person",
+      "canonical_id": "null"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "County Executive using campaign advertising to counter negative publicity and manage political narrative ahead of election cycle.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on county-level politics rather than city of Syracuse innovation initiatives",
+    "No direct relevance to CIO mandate unless campaign uses digital/technology infrastructure",
+    "Reference to 'misplaced signature' suggests potential administrative or compliance issue worth monitoring for broader organizational implications",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,80 @@
+2026-08-13 13:19:07,073 [INFO] ============================================================
+2026-08-13 13:19:07,074 [INFO] News Scanner starting
+2026-08-13 13:19:07,075 [INFO] Fetching: Syracuse.com Politics
+2026-08-13 13:19:07,576 [INFO]   50 new articles from Syracuse.com Politics
+2026-08-13 13:19:07,577 [INFO] Fetching: Syracuse.com Government
+2026-08-13 13:19:07,776 [INFO]   0 new articles from Syracuse.com Government
+2026-08-13 13:19:07,776 [INFO] Fetching: Syracuse.com Local
+2026-08-13 13:19:08,227 [INFO]   0 new articles from Syracuse.com Local
+2026-08-13 13:19:08,227 [INFO] Fetching: Syracuse.com Main
+2026-08-13 13:19:08,465 [INFO]   0 new articles from Syracuse.com Main
+2026-08-13 13:19:08,465 [INFO] Total unique articles across all feeds: 50
+2026-08-13 13:19:08,466 [INFO] New articles (not previously processed): 50
+2026-08-13 13:19:08,521 [DEBUG]   Filtered (not relevant): Jets vs. Bucs prediction: Polymarket prices, props for NFL preseason Week 1
+2026-08-13 13:19:08,521 [DEBUG]   Filtered (not relevant): Costco, known for its 93-inch plush teddy, is launching a new bear
+2026-08-13 13:19:08,522 [DEBUG]   Filtered (not relevant): How much will Social Security benefits go up next year? ‘It’s infuriating’
+2026-08-13 13:19:08,522 [DEBUG]   Filtered (not relevant): Tesla recalls 20,349 vehicles because headlights may reduce visibility for other
+2026-08-13 13:19:08,523 [DEBUG]   Filtered (not relevant): Trump administration was right to cancel ‘astronomical’ HVAC project (Your Lette
+2026-08-13 13:19:08,523 [DEBUG]   Filtered (not relevant): NFL QB sends cease and desist to college team over NIL
+2026-08-13 13:19:08,523 [DEBUG]   Filtered (not relevant): Country music’s oldest living legend dead at 109. Here’s what we know
+2026-08-13 13:19:08,524 [DEBUG]   Filtered (not relevant): Former Liverpool field hockey star goalie now leads Legends’ varsity squad: ‘It’
+2026-08-13 13:19:08,524 [DEBUG]   Filtered (not relevant): 4 NFL QBs aiming for bounce-back seasons in 2026
+2026-08-13 13:19:08,524 [DEBUG]   Filtered (not relevant): Who are the top returning football tackling  leaders ranked by 2025 stats
+2026-08-13 13:19:08,525 [DEBUG]   Filtered (not relevant): Dining Out: We went straight for the riggies at Brick House Billiards
+2026-08-13 13:19:08,525 [DEBUG]   Filtered (not relevant): ‘The Howard Stern Show’ host leaving after nearly 20 years. Here’s what we know
+2026-08-13 13:19:08,526 [DEBUG]   Filtered (not relevant): Powerball results for 08/12/26: $1 billion jackpot won, 5 other players win at l
+2026-08-13 13:19:08,526 [DEBUG]   Filtered (not relevant): How to watch ACC Network Extra for free in 2026
+2026-08-13 13:19:08,526 [DEBUG]   Filtered (not relevant): Walmart recalls: Return these 3 products ASAP
+2026-08-13 13:19:08,527 [INFO]   Relevant: With election 15 months away, Ryan McMahon buys campaign ad to ‘drown out some o
+2026-08-13 13:19:08,527 [DEBUG]     → Entities: Ryan McMahon
+2026-08-13 13:19:12,127 [INFO]     Saved: CTX-NEWS-2026-00244 → CTX-NEWS-2026-00244.json
+2026-08-13 13:19:12,128 [DEBUG]   Filtered (not relevant): Is Al Roker retiring? What the ‘Today’ show star said about his future
+2026-08-13 13:19:12,128 [INFO]   Relevant: Syracuse police watchdog to resume investigations (Good Morning CNY)
+2026-08-13 13:19:12,128 [DEBUG]     → Departments: Syracuse Police Department
+2026-08-13 13:19:12,128 [DEBUG]     → Keywords: syracuse police
+2026-08-13 13:19:16,346 [WARNING]     Tag issue: Unknown tag 'procedural' not in taxonomy
+2026-08-13 13:19:16,356 [INFO]     Saved: CTX-NEWS-2026-00245 → CTX-NEWS-2026-00245.json
+2026-08-13 13:19:16,357 [DEBUG]   Filtered (not relevant): Micron trucks, dust, blasting: A few Clay neighbors bear the brunt of constructi
+2026-08-13 13:19:16,357 [DEBUG]   Filtered (not relevant): Who is standing out in Syracuse football practice? Jersey colors tell us who to 
+2026-08-13 13:19:16,357 [DEBUG]   Filtered (not relevant): WWE reportedly has contract waiting for NFL rookie
+2026-08-13 13:19:16,358 [DEBUG]   Filtered (not relevant): CNY Inspiration: United in Hope
+2026-08-13 13:19:16,359 [DEBUG]   Filtered (not relevant): Dear Doctor: My echocardiogram results are scary, but do I really need to stop e
+2026-08-13 13:19:16,359 [DEBUG]   Filtered (not relevant): Miss Manners: A sharp black suit is a proper outfit in all formal settings
+2026-08-13 13:19:16,360 [DEBUG]   Filtered (not relevant): Man arrested after allegedly urinating on family at Morgan Wallen concert
+2026-08-13 13:19:16,360 [DEBUG]   Filtered (not relevant): WWE Hall of Famer undergoes brain surgery. Here’s what we know
+2026-08-13 13:19:16,360 [DEBUG]   Filtered (not relevant): Beloved country and rock guitarist dead at 76: ‘A remarkable life’
+2026-08-13 13:19:16,361 [DEBUG]   Filtered (not relevant): 3 country music groups fans might not see again after 2026
+2026-08-13 13:19:16,361 [DEBUG]   Filtered (not relevant): Country music star injured in tour bus crash. Here’s what we know
+2026-08-13 13:19:16,361 [DEBUG]   Filtered (not relevant): Country music star says sister booted him from Grammy-winning band: ‘I was termi
+2026-08-13 13:19:16,362 [DEBUG]   Filtered (not relevant): Country singer who was nearly killed in crash returns to stage: ‘Back to what I 
+2026-08-13 13:19:16,362 [DEBUG]   Filtered (not relevant): Was a former NFL player the victim of a serial killer? Here’s what we know
+2026-08-13 13:19:16,362 [DEBUG]   Filtered (not relevant): ‘My friend, my brother’: Darius Rucker reacts to heartbreaking death at 66
+2026-08-13 13:19:16,363 [DEBUG]   Filtered (not relevant): Dear Abby: My daughter’s controlling wife dictates her relationship with our fam
+2026-08-13 13:19:16,364 [DEBUG]   Filtered (not relevant): Asking Eric: Reader offers a different approach to dividing belongings after a d
+2026-08-13 13:19:16,364 [DEBUG]   Filtered (not relevant): Syracuse Mets rally past Jacksonville with back-to-back homers
+2026-08-13 13:19:16,365 [DEBUG]   Filtered (not relevant): Update: The current severe thunderstorm warning for Hudson Valley will be expiri
+2026-08-13 13:19:16,365 [DEBUG]   Filtered (not relevant): Update: Westchester County placed under a flood advisory until early Thursday mo
+2026-08-13 13:19:16,366 [DEBUG]   Filtered (not relevant): Thunderstorms with pea-sized hail in Putnam and Westchester counties Thursday — 
+2026-08-13 13:19:16,366 [DEBUG]   Filtered (not relevant): Brace for pea-sized hail with thunderstorms in Sullivan County Wednesday — gusts
+2026-08-13 13:19:16,367 [DEBUG]   Filtered (not relevant): Pea-sized hail predicted with thunderstorms to hit Orange County Wednesday — gus
+2026-08-13 13:19:16,367 [DEBUG]   Filtered (not relevant): Update: Thunderstorms with penny-sized hail in Dutchess County Thursday — gusts 
+2026-08-13 13:19:16,368 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Wednesday’s $1 billion drawing; one ticket
+2026-08-13 13:19:16,368 [DEBUG]   Filtered (not relevant): Polymarket invite code “CUSE” extends $20 referral bonus through FedEx PGA Champ
+2026-08-13 13:19:16,369 [DEBUG]   Filtered (not relevant): Eleven people displaced by house fire on West Side of Syracuse
+2026-08-13 13:19:16,369 [DEBUG]   Filtered (not relevant): NFL team mocked for posting viral video of QB’s interception
+2026-08-13 13:19:16,369 [DEBUG]   Filtered (not relevant): Update: Brace for pea-sized hail with thunderstorms in Broome and Delaware count
+2026-08-13 13:19:16,370 [DEBUG]   Filtered (not relevant): Experts release new Los Angeles Sparks vs. New York Liberty predictions for WNBA
+2026-08-13 13:19:16,370 [DEBUG]   Filtered (not relevant): Congo’s Ebola outbreak on track to be deadliest in history
+2026-08-13 13:19:16,371 [DEBUG]   Filtered (not relevant): $20 Polymarket referral code “CUSE” launched for Liberty-Sparks in NY and CA
+2026-08-13 13:19:16,373 [INFO] News Scanner Run — 2026-08-13 13:19
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • With election 15 months away, Ryan McMahon buys campaign ad to ‘drown out some o
+  • Syracuse police watchdog to resume investigations (Good Morning CNY)
+

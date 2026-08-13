@@ -1,0 +1,47 @@
+{
+  "record_id": "CTX-NEWS-2026-00245",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/08/syracuse-police-watchdog-to-resume-investigations-good-morning-cny-for-aug-13.html",
+  "publication_date": "2026-08-13",
+  "capture_date": "2026-08-13T13:19:16Z",
+  "title": "Syracuse police watchdog to resume investigations (Good Morning CNY)",
+  "summary": "Syracuse's police watchdog organization is resuming investigations after a period of suspension. This development signals renewed oversight capacity for the Syracuse Police Department and may indicate resolution of prior operational constraints affecting the accountability function.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "investigation",
+    "transparency",
+    "public-safety-commission",
+    "procedural"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Resume of police watchdog investigations indicates ongoing governmental oversight and accountability mechanisms for law enforcement operations.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content is limited (newsletter header material only); full investigative details not provided in submitted text",
+    "Specific watchdog entity/commission name not explicitly stated in excerpt",
+    "Date stamp is future-dated (2026-08-13), suggesting test or archival data",
+    "No budget, personnel, or specific case information available for deeper impact analysis",
+    "PROVISIONAL tag consideration: 'government-accountability' would enhance specificity but not in approved tag list",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'procedural' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}
