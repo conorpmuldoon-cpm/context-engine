@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-NEWS-2026-00246",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/08/man-stabbed-in-chest-at-parkside-commons-in-syracuse.html",
+  "publication_date": "2026-08-15",
+  "capture_date": "2026-08-15T12:43:10Z",
+  "title": "Man stabbed in chest at Parkside Commons in Syracuse",
+  "summary": "A man was stabbed in the chest at Parkside Commons apartment complex (1813 East Fayette Street) on Friday evening around 6 p.m. Syracuse Police responded to the incident. This crime incident may inform public safety data collection and neighborhood safety assessments for the East Fayette Street area.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "crime-data",
+    "police",
+    "emergency-services",
+    "residents",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Parkside Commons",
+      "type": "organization",
+      "canonical_id": "ORG-PARKSIDE-COMMONS"
+    },
+    {
+      "name": "Thomas Blake",
+      "type": "person",
+      "canonical_id": "PERSON-THOMAS-BLAKE"
+    },
+    {
+      "name": "Vince Gasparini",
+      "type": "person",
+      "canonical_id": "PERSON-VINCE-GASPARINI"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Crime incident in residential area may elevate public safety concerns and demand for police presence/prevention initiatives in the Parkside Commons neighborhood",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Victim identity not disclosed in article",
+    "Suspect information not provided",
+    "No injury severity details available",
+    "Article lacks resolution status (ongoing investigation vs. resolved)",
+    "Location (1813 East Fayette Street) can be cross-referenced with GIS for neighborhood context and service-area analysis",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
