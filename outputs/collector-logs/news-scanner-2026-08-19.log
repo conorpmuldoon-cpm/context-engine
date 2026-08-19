@@ -1,0 +1,75 @@
+2026-08-19 12:53:42,555 [INFO] ============================================================
+2026-08-19 12:53:42,555 [INFO] News Scanner starting
+2026-08-19 12:53:42,556 [INFO] Fetching: Syracuse.com Politics
+2026-08-19 12:53:42,947 [INFO]   50 new articles from Syracuse.com Politics
+2026-08-19 12:53:42,947 [INFO] Fetching: Syracuse.com Government
+2026-08-19 12:53:43,126 [INFO]   0 new articles from Syracuse.com Government
+2026-08-19 12:53:43,126 [INFO] Fetching: Syracuse.com Local
+2026-08-19 12:53:43,276 [INFO]   0 new articles from Syracuse.com Local
+2026-08-19 12:53:43,276 [INFO] Fetching: Syracuse.com Main
+2026-08-19 12:53:43,486 [INFO]   0 new articles from Syracuse.com Main
+2026-08-19 12:53:43,486 [INFO] Total unique articles across all feeds: 50
+2026-08-19 12:53:43,486 [INFO] New articles (not previously processed): 50
+2026-08-19 12:53:43,516 [DEBUG]   Filtered (not relevant): Progressive sponsors Georgia football; Internet’s got jokes
+2026-08-19 12:53:43,516 [DEBUG]   Filtered (not relevant): Spay and Neuter Syracuse announces new clinic director
+2026-08-19 12:53:43,516 [DEBUG]   Filtered (not relevant): Scholars and Champs vintage clothing store moves from downtown Syracuse to SU hi
+2026-08-19 12:53:43,517 [DEBUG]   Filtered (not relevant): Dallas Cowboys, New Orleans Saints joint practice included punches thrown, helme
+2026-08-19 12:53:43,517 [DEBUG]   Filtered (not relevant): See how much every town in CNY paid to every school district in 2025
+2026-08-19 12:53:43,517 [DEBUG]   Filtered (not relevant): ‘Crazy Train,’ Lady Gaga and the 80s: What shows are Section III marching bands 
+2026-08-19 12:53:43,518 [DEBUG]   Filtered (not relevant): 19 storefronts on Syracuse’s North Side are getting a face lift
+2026-08-19 12:53:43,518 [DEBUG]   Filtered (not relevant): Former Syracuse basketball player JJ Starling enters NCAA transfer portal
+2026-08-19 12:53:43,518 [DEBUG]   Filtered (not relevant): Every ‘Big Bang Theory’ alum who’s appeared in the spinoff ‘Stuart Fails to Save
+2026-08-19 12:53:43,518 [DEBUG]   Filtered (not relevant): Who are the top returning boys cross country runners ranked by 2025 overall spee
+2026-08-19 12:53:43,519 [DEBUG]   Filtered (not relevant): South Carolina man dead after 1st day on garbage truck dad was driving
+2026-08-19 12:53:43,519 [DEBUG]   Filtered (not relevant): From Keebler to Froot Loops: Nutella quietly bought half your pantry on a $7B+ s
+2026-08-19 12:53:43,519 [DEBUG]   Filtered (not relevant): Dear Annie: Being well-rounded leaves this 27-year-old going in circles
+2026-08-19 12:53:43,519 [DEBUG]   Filtered (not relevant): Matthew Bergeron came to Syracuse with little fanfare. Back home in Canada, he’s
+2026-08-19 12:53:43,520 [DEBUG]   Filtered (not relevant): Travel advisory issued for popular South American destination: ‘Exercise increas
+2026-08-19 12:53:43,520 [INFO]   Relevant: Sharon Owens is close to hiring Syracuse’s first ‘night mayor’
+2026-08-19 12:53:43,520 [DEBUG]     → Keywords: mayor
+2026-08-19 12:53:48,541 [INFO]     Saved: CTX-NEWS-2026-00247 → CTX-NEWS-2026-00247.json
+2026-08-19 12:53:48,541 [DEBUG]   Filtered (not relevant): California school trustee won’t resign after falsely accusing son’s coach of usi
+2026-08-19 12:53:48,542 [DEBUG]   Filtered (not relevant): 2 dead after car crashes into tree in DeWitt neighborhood
+2026-08-19 12:53:48,542 [DEBUG]   Filtered (not relevant): CNY town cracks down on short-term rentals (Good Morning CNY)
+2026-08-19 12:53:48,542 [DEBUG]   Filtered (not relevant): 19 hurt after bus, fire truck collide in NY
+2026-08-19 12:53:48,542 [DEBUG]   Filtered (not relevant): Former Syracuse star Donte Greene’s Big3 experience: Family, NBA alums and Ice C
+2026-08-19 12:53:48,543 [DEBUG]   Filtered (not relevant): The surprising factor tied to driving confidence years later
+2026-08-19 12:53:48,543 [DEBUG]   Filtered (not relevant): Ohio BMV policy change sparks concern
+2026-08-19 12:53:48,544 [DEBUG]   Filtered (not relevant): Ohio’s cannabis boom shows the challenges that follow legalization
+2026-08-19 12:53:48,544 [DEBUG]   Filtered (not relevant): Three worker deaths leave Stellantis facing new safety questions
+2026-08-19 12:53:48,544 [DEBUG]   Filtered (not relevant): Ohio prosecutor pushes new death penalty debate
+2026-08-19 12:53:48,545 [DEBUG]   Filtered (not relevant): Dear Doctor: My doctor blamed grief for my brain fog, nausea, and tinnitus
+2026-08-19 12:53:48,545 [DEBUG]   Filtered (not relevant): Chobani’s designs for billion-dollar yogurt plant in Upstate NY is giving Apple 
+2026-08-19 12:53:48,545 [DEBUG]   Filtered (not relevant): What drew a massive overnight visitor into a Kentucky kitchen?
+2026-08-19 12:53:48,546 [DEBUG]   Filtered (not relevant): These are the top 5 best community colleges for 2026, report says
+2026-08-19 12:53:48,546 [DEBUG]   Filtered (not relevant): Miss Manners: New friends have different expectations about who pays when
+2026-08-19 12:53:48,546 [DEBUG]   Filtered (not relevant): Syracuse Mets score 5-1 win over the Worcester Red Sox
+2026-08-19 12:53:48,546 [DEBUG]   Filtered (not relevant): Dear Abby: Mysterious stalker claims to have explicit videos of me. Should I wor
+2026-08-19 12:53:48,547 [DEBUG]   Filtered (not relevant): Dunkin’ 2026 fall menu: Pumpkin spice is back and it’s not alone. Here’s what’s 
+2026-08-19 12:53:48,547 [DEBUG]   Filtered (not relevant): Trader Joe's just dropped several fall items — here are the ones worth adding to
+2026-08-19 12:53:48,547 [DEBUG]   Filtered (not relevant): Asking Eric: Every haircut turns into a religious discussion. Can’t we talk abou
+2026-08-19 12:53:48,548 [DEBUG]   Filtered (not relevant): Mega Millions numbers: Are you the lucky winner of Tuesday’s $100 million jackpo
+2026-08-19 12:53:48,548 [DEBUG]   Filtered (not relevant): Taco Bell brings back 4 menu items that helped make 2016
+2026-08-19 12:53:48,548 [DEBUG]   Filtered (not relevant): New $20 Polymarket referral code “CUSE” updated for MLB, NFL, and Wisconsin Gove
+2026-08-19 12:53:48,548 [DEBUG]   Filtered (not relevant): Fire damages old Sears building on the South Side of Syracuse
+2026-08-19 12:53:48,549 [DEBUG]   Filtered (not relevant): Motorcyclist dies after hitting truck, then crashing into tree in Upstate NY
+2026-08-19 12:53:48,549 [DEBUG]   Filtered (not relevant): NFL odds update: Where does Josh Allen rank amongst preseason MVP favorites?
+2026-08-19 12:53:48,549 [DEBUG]   Filtered (not relevant): Minnesota AG general sues Texas governor to compel extradition of ICE agent for 
+2026-08-19 12:53:48,550 [DEBUG]   Filtered (not relevant): $20 Polymarket referral code “CUSE” prepared for Liberty-Sky WNBA showdown on Tu
+2026-08-19 12:53:48,550 [DEBUG]   Filtered (not relevant): Don’t have Paramount+? Here’s how to watch ‘The Challenge’ Season 42, Episode 4 
+2026-08-19 12:53:48,550 [DEBUG]   Filtered (not relevant): Police blotter: See 242 new arrests added
+2026-08-19 12:53:48,551 [DEBUG]   Filtered (not relevant): Don’t have HBO Max? Here’s how to watch ‘Hard Knocks’ Seattle Seahawks Episode 3
+2026-08-19 12:53:48,551 [DEBUG]   Filtered (not relevant): How to watch ‘Baylen Out Loud’ Season 3 finale part 1 for free tonight: Baylen a
+2026-08-19 12:53:48,551 [DEBUG]   Filtered (not relevant): Buffalo adds veteran DT, Patriots tryout 2 former Bills defenders
+2026-08-19 12:53:48,552 [DEBUG]   Filtered (not relevant): Overheard at Day 2 of syracuse.com’s 2026 fall sports media day: ‘I’ve drowned t
+2026-08-19 12:53:48,553 [INFO] News Scanner Run — 2026-08-19 12:53
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Sharon Owens is close to hiring Syracuse’s first ‘night mayor’
+

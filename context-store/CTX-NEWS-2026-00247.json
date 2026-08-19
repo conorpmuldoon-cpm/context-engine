@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00247",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/08/it-took-months-but-sharon-owens-is-close-to-hiring-syracuses-first-night-mayor.html",
+  "publication_date": "2026-08-19",
+  "capture_date": "2026-08-19T12:53:48Z",
+  "title": "Sharon Owens is close to hiring Syracuse’s first ‘night mayor’",
+  "summary": "Syracuse is close to hiring its first 'night mayor' position under leadership by Sharon Owens. This initiative signals the city's interest in economic development and urban vitality through entertainment/nightlife district management, a role popularized in other cities to coordinate after-hours activities and business community engagement.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "hiring",
+    "economic-development",
+    "business-community",
+    "initiative-launch",
+    "leadership-change"
+  ],
+  "department_refs": [
+    "Office of the Chief Innovation Officer"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Night mayor initiative reflects CIO/mayoral priority to drive urban innovation and economic development through nightlife/entertainment sector engagement, positioned as forward-thinking city management.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content not fully provided; summary based on title and header only",
+    "Position title 'night mayor' is colloquial; recommend tracking formal job classification",
+    "No budget, department, or specific entities extracted from available text",
+    "Suggest tracking hiring outcome and role scope as part of CIO innovation initiatives",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
