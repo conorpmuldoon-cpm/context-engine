@@ -1,0 +1,81 @@
+{
+  "record_id": "CTX-WEB-2026-00168",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-08-20-Infrastructure-News-3-PM",
+  "publication_date": "2026-08-20",
+  "capture_date": "2026-08-21T13:09:46Z",
+  "title": "Syracuse Meets EPA Lead Standard for the 4th Consecutive Period",
+  "summary": "Syracuse Department of Water achieved EPA lead drinking water standards for the fourth consecutive reporting period (H1 2026), with 90th percentile results at 6 ppb versus 15 ppb action level. The department launched a Lead Pipe Construction Dashboard providing real-time public transparency on service line replacement work citywide, demonstrating infrastructure modernization and data-driven compliance monitoring.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "lead-remediation",
+    "infrastructure",
+    "federal-programs",
+    "transparency",
+    "initiative-launch",
+    "residents",
+    "announcement"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Robert Brandt",
+      "type": "person",
+      "canonical_id": "PERSON-ROBERT-BRANDT"
+    },
+    {
+      "name": "U.S. Environmental Protection Agency",
+      "type": "organization",
+      "canonical_id": "ORG-EPA"
+    },
+    {
+      "name": "New York State Department of Health",
+      "type": "organization",
+      "canonical_id": "ORG-NYS-DOH"
+    },
+    {
+      "name": "Onondaga County Health Department",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-HEALTH"
+    },
+    {
+      "name": "Lead Pipe Construction Dashboard",
+      "type": "system",
+      "canonical_id": "SYS-LEAD-DASHBOARD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Public demonstration of sustained EPA compliance achievement (4th consecutive period) and proactive infrastructure modernization via public-facing transparency tool signals administrative commitment to environmental health and public accountability.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field marked 'Unknown' in source; byline attributed to Department of Water via Commissioner Brandt quote",
+    "No budget allocation or dollar amounts disclosed in press release",
+    "URL structure suggests categorization under Traffic & Infrastructure but content is exclusively water/lead remediation",
+    "Dashboard URL referenced (syr.gov/construction-dashboard) is a potential IT-infrastructure dependency for CIO",
+    "Third-party contractor and independent laboratory used for sampling/analysis—procurement chain not detailed",
+    "Orthophosphate treatment protocol mentioned as FDA-approved corrosion control measure",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
