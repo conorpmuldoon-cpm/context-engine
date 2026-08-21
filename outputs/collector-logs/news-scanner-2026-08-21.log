@@ -1,0 +1,75 @@
+2026-08-21 12:54:11,407 [INFO] ============================================================
+2026-08-21 12:54:11,407 [INFO] News Scanner starting
+2026-08-21 12:54:11,409 [INFO] Fetching: Syracuse.com Politics
+2026-08-21 12:54:11,875 [INFO]   50 new articles from Syracuse.com Politics
+2026-08-21 12:54:11,875 [INFO] Fetching: Syracuse.com Government
+2026-08-21 12:54:12,031 [INFO]   0 new articles from Syracuse.com Government
+2026-08-21 12:54:12,031 [INFO] Fetching: Syracuse.com Local
+2026-08-21 12:54:12,165 [INFO]   0 new articles from Syracuse.com Local
+2026-08-21 12:54:12,165 [INFO] Fetching: Syracuse.com Main
+2026-08-21 12:54:12,301 [INFO]   0 new articles from Syracuse.com Main
+2026-08-21 12:54:12,301 [INFO] Total unique articles across all feeds: 50
+2026-08-21 12:54:12,301 [INFO] New articles (not previously processed): 50
+2026-08-21 12:54:12,343 [DEBUG]   Filtered (not relevant): How many over $200K? See top-paid Syracuse jobs that require doctorate
+2026-08-21 12:54:12,343 [DEBUG]   Filtered (not relevant): Former MLB stolen bases leader retires
+2026-08-21 12:54:12,343 [DEBUG]   Filtered (not relevant): Syracuse Sandwiches: Phoebe’s celebrates 50 years with a burger built for summer
+2026-08-21 12:54:12,344 [DEBUG]   Filtered (not relevant): 8 dead after plane crash in Alaska, US military says
+2026-08-21 12:54:12,344 [DEBUG]   Filtered (not relevant): Who are the 8 players Syracuse football is considering to return kicks this year
+2026-08-21 12:54:12,345 [DEBUG]   Filtered (not relevant): Syracuse basketball alum will play for USA in World Cup qualifier
+2026-08-21 12:54:12,345 [DEBUG]   Filtered (not relevant): Who are the top returning gymnastics leaders ranked by 2025 scores
+2026-08-21 12:54:12,345 [DEBUG]   Filtered (not relevant): Fall foliage 2026: When do leaves start changing colors?
+2026-08-21 12:54:12,346 [DEBUG]   Filtered (not relevant): Teen nets bruiser of a walleye and lake trout on Skaneateles Lake
+2026-08-21 12:54:12,346 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 fall media day band director polls: Most competitive? Fixer 
+2026-08-21 12:54:12,346 [DEBUG]   Filtered (not relevant): Dear Annie: Reader says freeway sign helped drivers navigate a tricky merge situ
+2026-08-21 12:54:12,347 [DEBUG]   Filtered (not relevant): Westcott businesses left without air conditioning after thieves wreck rooftop un
+2026-08-21 12:54:12,347 [DEBUG]   Filtered (not relevant): Prepare for dense fog in Cayuga and Oswego counties Friday morning
+2026-08-21 12:54:12,347 [DEBUG]   Filtered (not relevant): Syracuse Mets shut out Worcester 5-0 with five-pitcher effort
+2026-08-21 12:54:12,348 [DEBUG]   Filtered (not relevant): High school football team cancels season opener following player’s death
+2026-08-21 12:54:12,348 [INFO]   Relevant: A ‘granny flat,’ old trees and National Grid: Inside a Syracuse neighborhood dra
+2026-08-21 12:54:12,348 [DEBUG]     → Entities: National Grid
+2026-08-21 12:54:16,767 [INFO]     Saved: CTX-NEWS-2026-00248 → CTX-NEWS-2026-00248.json
+2026-08-21 12:54:16,768 [DEBUG]   Filtered (not relevant): House of the Week: Every day is like being on vacation at this turnkey Tully ran
+2026-08-21 12:54:16,768 [DEBUG]   Filtered (not relevant): Miss Manners: My husband doesn’t care whether his family says ‘thank you’
+2026-08-21 12:54:16,768 [DEBUG]   Filtered (not relevant): These are the top 3 ‘beer-loving’ states in America: report
+2026-08-21 12:54:16,769 [DEBUG]   Filtered (not relevant): Today’s horoscope: Sagittarius - Take advantage of your skills (Aug. 21, 2026)
+2026-08-21 12:54:16,769 [DEBUG]   Filtered (not relevant): Dear Doctor: You can get diarrhea by using water instead of wiper fluid
+2026-08-21 12:54:16,770 [DEBUG]   Filtered (not relevant): Dear Abby: Mom says I took her personal papers, and it’s tearing our relationshi
+2026-08-21 12:54:16,770 [DEBUG]   Filtered (not relevant): Iconic rock group suddenly retires from touring after 6 decades due to health is
+2026-08-21 12:54:16,770 [DEBUG]   Filtered (not relevant): Cowboys Super Bowl champ, All-Pro dies at 82
+2026-08-21 12:54:16,771 [DEBUG]   Filtered (not relevant): Update: Weather alert for dense fog in parts of Upstate NY Friday morning
+2026-08-21 12:54:16,771 [DEBUG]   Filtered (not relevant): Asking Eric: Siblings' lack of enthusiasm casts a cloud over mom's 100th birthda
+2026-08-21 12:54:16,772 [DEBUG]   Filtered (not relevant): Prepare for dense fog in Mohawk Valley, Capital Region until Friday morning
+2026-08-21 12:54:16,772 [DEBUG]   Filtered (not relevant): Cayuga County placed under a dense fog advisory until Friday morning — visibilit
+2026-08-21 12:54:16,773 [DEBUG]   Filtered (not relevant): Update: Dense fog advisory in place for Southern Tier, Central NY until Friday m
+2026-08-21 12:54:16,773 [DEBUG]   Filtered (not relevant): Onondaga County reports first human case of West Nile virus in 2026
+2026-08-21 12:54:16,774 [DEBUG]   Filtered (not relevant): Upstate NY man airlifted to hospital after motorcycle collides with pickup truck
+2026-08-21 12:54:16,774 [DEBUG]   Filtered (not relevant): Trump embraces data centers even as they become toxic in midterms
+2026-08-21 12:54:16,775 [DEBUG]   Filtered (not relevant): Trump appears on radio show of former ally turned enemy
+2026-08-21 12:54:16,775 [DEBUG]   Filtered (not relevant): Experts update Jets vs. Steelers NFL preseason Week 2 predictions after Breece H
+2026-08-21 12:54:16,776 [DEBUG]   Filtered (not relevant): $20 Polymarket referral code “CUSE” extended for Jets-Steelers NFL preseason on 
+2026-08-21 12:54:16,776 [DEBUG]   Filtered (not relevant): Dalton Kincaid shreds Browns as Bills power up pass game in joint practice (Obse
+2026-08-21 12:54:16,776 [DEBUG]   Filtered (not relevant): A24’s ‘Mother Mary’ is now streaming on HBO Max, and you can watch for free
+2026-08-21 12:54:16,777 [DEBUG]   Filtered (not relevant): How to watch 49ers vs. Chargers NFL Preseason for free today
+2026-08-21 12:54:16,777 [DEBUG]   Filtered (not relevant): FedEx, UPS, Polar Air secure $5.7 billion in delivery contracts
+2026-08-21 12:54:16,777 [DEBUG]   Filtered (not relevant): Our Place hosts major sale with the steepest kitchen discounts for a limited tim
+2026-08-21 12:54:16,778 [DEBUG]   Filtered (not relevant): Update: The current flood advisory for Westchester County will expire at 7:30 p.
+2026-08-21 12:54:16,778 [DEBUG]   Filtered (not relevant): Woman found dead after fire destroys Chenango County home
+2026-08-21 12:54:16,779 [DEBUG]   Filtered (not relevant): Where to watch Raiders vs. Texans NFL Preseason game for free tonight
+2026-08-21 12:54:16,779 [DEBUG]   Filtered (not relevant): Be prepared for strong thunderstorms in Rockland County early Thursday evening —
+2026-08-21 12:54:16,779 [DEBUG]   Filtered (not relevant): Middle Eastern country to buy defense aircraft for $4.5 billion
+2026-08-21 12:54:16,780 [DEBUG]   Filtered (not relevant): Hollywood heartthrob celebrates 63rd birthday with nude photo
+2026-08-21 12:54:16,780 [DEBUG]   Filtered (not relevant): He spent hours in a locked Macy's trying on clothes and eating store food
+2026-08-21 12:54:16,780 [DEBUG]   Filtered (not relevant): Strada Mia closes after 11 years; another Syracuse Italian restaurant is moving 
+2026-08-21 12:54:16,781 [DEBUG]   Filtered (not relevant): America’s #1 beer maker is pouring millions into CNY brewery to serve up more ca
+2026-08-21 12:54:16,781 [DEBUG]   Filtered (not relevant): The remarkable rats saving lives by detecting landmines with their noses just ar
+2026-08-21 12:54:16,782 [INFO] News Scanner Run — 2026-08-21 12:54
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • A ‘granny flat,’ old trees and National Grid: Inside a Syracuse neighborhood dra
+

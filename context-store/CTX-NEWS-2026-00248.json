@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-NEWS-2026-00248",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/08/a-granny-flat-old-trees-and-national-grid-inside-a-syracuse-neighborhood-drama.html",
+  "publication_date": "2026-08-21",
+  "capture_date": "2026-08-21T12:54:16Z",
+  "title": "A ‘granny flat,’ old trees and National Grid: Inside a Syracuse neighborhood drama",
+  "summary": "Article examines a neighborhood conflict in Syracuse involving a residential property, utility infrastructure decisions by National Grid, and tree removal activities. The story highlights tensions between utility company actions, property owner rights, and neighborhood impacts, suggesting potential permitting, land-use, or infrastructure coordination issues.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "residents",
+    "complaint",
+    "infrastructure",
+    "state-agency",
+    "land-use",
+    "neighborhood-services",
+    "escalating"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Services",
+    "Permits and Inspections"
+  ],
+  "entity_refs": [
+    {
+      "name": "National Grid",
+      "type": "organization",
+      "canonical_id": "ORG-NATIONALGRID"
+    },
+    {
+      "name": "Kathleen Boudreau",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Local media coverage of resident complaint against state utility company, potentially involving property rights and service delivery conflicts that may require municipal coordination or intervention.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content truncated in source; full narrative context unavailable to assess complete scope of conflict",
+    "References to 'granny flat' suggest potential zoning or housing code elements",
+    "National Grid involvement indicates state-level regulatory intersection",
+    "Tree removal and property context may implicate historic preservation, permitting, or environmental review processes",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
