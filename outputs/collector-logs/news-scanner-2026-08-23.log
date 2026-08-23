@@ -1,0 +1,80 @@
+2026-08-23 12:46:25,087 [INFO] ============================================================
+2026-08-23 12:46:25,087 [INFO] News Scanner starting
+2026-08-23 12:46:25,088 [INFO] Fetching: Syracuse.com Politics
+2026-08-23 12:46:25,421 [INFO]   50 new articles from Syracuse.com Politics
+2026-08-23 12:46:25,421 [INFO] Fetching: Syracuse.com Government
+2026-08-23 12:46:25,818 [INFO]   0 new articles from Syracuse.com Government
+2026-08-23 12:46:25,818 [INFO] Fetching: Syracuse.com Local
+2026-08-23 12:46:26,246 [INFO]   0 new articles from Syracuse.com Local
+2026-08-23 12:46:26,246 [INFO] Fetching: Syracuse.com Main
+2026-08-23 12:46:26,509 [INFO]   0 new articles from Syracuse.com Main
+2026-08-23 12:46:26,510 [INFO] Total unique articles across all feeds: 50
+2026-08-23 12:46:26,510 [INFO] New articles (not previously processed): 50
+2026-08-23 12:46:26,555 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 fall media day football coaches poll: Whose growth is key to
+2026-08-23 12:46:26,556 [DEBUG]   Filtered (not relevant): Popular 2000s rock band to release first album with new lead singer
+2026-08-23 12:46:26,556 [DEBUG]   Filtered (not relevant): $1.38 million for lakeside living, plus more Onondaga County home sales
+2026-08-23 12:46:26,557 [DEBUG]   Filtered (not relevant): Madison County real estate: See all residential properties sold, Aug. 10-16
+2026-08-23 12:46:26,557 [DEBUG]   Filtered (not relevant): Editorial cartoons for Aug. 23, 2026: Debt, ICE and Navy troubles
+2026-08-23 12:46:26,558 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 football coaches poll: Which player does the dirty work that
+2026-08-23 12:46:26,558 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 football player poll: Which teammate would make the best coa
+2026-08-23 12:46:26,559 [DEBUG]   Filtered (not relevant): Update: Flash flood warning affecting Westchester County Sunday morning caused b
+2026-08-23 12:46:26,559 [DEBUG]   Filtered (not relevant): Flash flood warning active for Chautauqua County until Sunday midday triggered b
+2026-08-23 12:46:26,559 [DEBUG]   Filtered (not relevant): Legendary rock band stuns fans by retiring due to health reasons. Here’s what we
+2026-08-23 12:46:26,560 [DEBUG]   Filtered (not relevant): DA: Cops took keys before drunk driver crashed, killed child (Top stories)
+2026-08-23 12:46:26,560 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 football player poll: Which game is circled on your schedule
+2026-08-23 12:46:26,561 [DEBUG]   Filtered (not relevant): Update: Flood advisory for Putnam and Westchester counties Sunday morning caused
+2026-08-23 12:46:26,561 [DEBUG]   Filtered (not relevant): Here’s why ‘High Potential’ and 6 other popular shows aren’t returning this fall
+2026-08-23 12:46:26,561 [DEBUG]   Filtered (not relevant): The biggest question facing Amazon’s drone delivery expansion
+2026-08-23 12:46:26,562 [DEBUG]   Filtered (not relevant): CNY Inspirations: Life is just a number
+2026-08-23 12:46:26,562 [DEBUG]   Filtered (not relevant): A country music icon with a $150 million fortune just retired. Here’s why
+2026-08-23 12:46:26,562 [DEBUG]   Filtered (not relevant): Major career shakeups hit stars of ‘Bridgerton,’ ‘Oppenheimer’ and Slipknot
+2026-08-23 12:46:26,563 [DEBUG]   Filtered (not relevant): Today’s horoscope: Pisces - Keeps your secrets to yourself until you are sure (A
+2026-08-23 12:46:26,563 [DEBUG]   Filtered (not relevant): Thousands fill streets to say goodbye to beloved singer who died at 75
+2026-08-23 12:46:26,563 [DEBUG]   Filtered (not relevant): Rookie pro golfer dies at 18 while preparing for tournament in Thailand
+2026-08-23 12:46:26,564 [DEBUG]   Filtered (not relevant): Rock music world rocked by string of deaths: List of those lost in 2026 surges p
+2026-08-23 12:46:26,564 [DEBUG]   Filtered (not relevant): Legendary pro wrestling champion dead at 77: ‘RIP sweet man’
+2026-08-23 12:46:26,564 [DEBUG]   Filtered (not relevant): Pro soccer star collapses during match and dies at 25: ‘Far more than a player’
+2026-08-23 12:46:26,564 [DEBUG]   Filtered (not relevant): Asking Eric: Am I being disrespectful if I show up wearing sneakers with scuff m
+2026-08-23 12:46:26,565 [INFO]   Relevant: Man fatally shot outside Parkside Commons, police say
+2026-08-23 12:46:26,565 [DEBUG]     → Departments: Syracuse Police Department
+2026-08-23 12:46:26,565 [DEBUG]     → Keywords: syracuse police
+2026-08-23 12:46:30,215 [INFO]     Saved: CTX-NEWS-2026-00249 → CTX-NEWS-2026-00249.json
+2026-08-23 12:46:30,215 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Saturday’s $68 million drawing
+2026-08-23 12:46:30,216 [DEBUG]   Filtered (not relevant): Dolly Parton shares health update, while latest plans
+2026-08-23 12:46:30,216 [DEBUG]   Filtered (not relevant): Where to watch Cowboys vs. Cardinals preseason for free today
+2026-08-23 12:46:30,216 [DEBUG]   Filtered (not relevant): Country star reacts to son's win over NFL pro’s high school squad
+2026-08-23 12:46:30,217 [DEBUG]   Filtered (not relevant): Josh Allen angry with how Ed Oliver’s son’s death became public
+2026-08-23 12:46:30,217 [DEBUG]   Filtered (not relevant): Body found in Skaneateles Creek; no foul play suspected, deputies say
+2026-08-23 12:46:30,218 [DEBUG]   Filtered (not relevant): Another tropical threat puts Hawaii back on alert
+2026-08-23 12:46:30,218 [DEBUG]   Filtered (not relevant): $20 Polymarket referral code “CUSE” scheduled for Liberty-Fever tonight
+2026-08-23 12:46:30,218 [DEBUG]   Filtered (not relevant): Bills fans groaned when they signed him, but Kyle Allen delivered a statement vs
+2026-08-23 12:46:30,218 [DEBUG]   Filtered (not relevant): 5.9 earthquake shakes eastern Japan; Here’s what we know
+2026-08-23 12:46:30,219 [DEBUG]   Filtered (not relevant): 2 dead, 12 missing after boat capsizes off Tunisian coast
+2026-08-23 12:46:30,219 [DEBUG]   Filtered (not relevant): Where to watch Mets vs. White Sox free MLB live stream today
+2026-08-23 12:46:30,219 [DEBUG]   Filtered (not relevant): Update: Beach hazards statement affecting Erie and Chautauqua counties until 2 a
+2026-08-23 12:46:30,220 [DEBUG]   Filtered (not relevant): Update: Beach hazards statement affecting parts of Upstate NY until Tuesday even
+2026-08-23 12:46:30,220 [DEBUG]   Filtered (not relevant): Where to watch Eagles vs. Patriots preseason free live stream
+2026-08-23 12:46:30,221 [DEBUG]   Filtered (not relevant): Rock legend pulled off of tour by doctors, paramedics: ‘Slow recovery ahead’
+2026-08-23 12:46:30,221 [DEBUG]   Filtered (not relevant): NFL receiver, former first-round pick arrested for battery
+2026-08-23 12:46:30,221 [DEBUG]   Filtered (not relevant): Severe thunderstorm watch issued for Western NY, Finger Lakes until Saturday nig
+2026-08-23 12:46:30,221 [INFO]   Relevant: Westcott Theater’s permitting troubles continue: Syracuse police shut down anoth
+2026-08-23 12:46:30,221 [DEBUG]     → Departments: Syracuse Police Department, Department of Permits and Development
+2026-08-23 12:46:30,222 [DEBUG]     → Keywords: syracuse police
+2026-08-23 12:46:34,301 [INFO]     Saved: CTX-NEWS-2026-00250 → CTX-NEWS-2026-00250.json
+2026-08-23 12:46:34,302 [DEBUG]   Filtered (not relevant): CNY Playhouse’s snappy ‘Deathtrap’ is a comedy-thriller, community-theater treat
+2026-08-23 12:46:34,302 [DEBUG]   Filtered (not relevant): Bills’ Ed Oliver dealing with the death of his son
+2026-08-23 12:46:34,303 [DEBUG]   Filtered (not relevant): How to watch Giants vs. Dolphins on NFL Network for free today
+2026-08-23 12:46:34,303 [DEBUG]   Filtered (not relevant): Oneida County man run over by bulldozer at landfill gets airlifted to Syracuse h
+2026-08-23 12:46:34,304 [DEBUG]   Filtered (not relevant): $500 Kalshi promo code “SYRACUSE” now live in NY, CA, and FL for NFL Preseason g
+2026-08-23 12:46:34,305 [INFO] News Scanner Run — 2026-08-23 12:46
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Man fatally shot outside Parkside Commons, police say
+  • Westcott Theater’s permitting troubles continue: Syracuse police shut down anoth
+

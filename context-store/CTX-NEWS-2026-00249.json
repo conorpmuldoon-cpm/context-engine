@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00249",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/08/man-fatally-shot-outside-parkside-commons-police-say.html",
+  "publication_date": "2026-08-23",
+  "capture_date": "2026-08-23T12:46:30Z",
+  "title": "Man fatally shot outside Parkside Commons, police say",
+  "summary": "A fatal shooting occurred outside Parkside Commons in Syracuse on Saturday night, August 23, 2026. Syracuse Police Department is investigating. This incident represents a public safety event requiring potential departmental coordination and community impact assessment.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "emergency-services",
+    "public-safety-commission",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Parkside Commons",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Fatal shooting incident may trigger public safety performance review, community pressure for violence prevention initiatives, and departmental resource allocation discussions.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Victim identity not disclosed in article; limited incident details available",
+    "Article does not reference any systemic city response, coordination, or innovation initiatives",
+    "Location (Parkside Commons) may warrant GIS analysis for pattern recognition if part of broader violence data set",
+    "No budget, policy, or departmental decision implications evident from article text alone",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

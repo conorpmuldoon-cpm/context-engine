@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00250",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/08/westcott-theaters-permitting-troubles-continue-syracuse-police-shut-down-another-event.html",
+  "publication_date": "2026-08-22",
+  "capture_date": "2026-08-23T12:46:34Z",
+  "title": "Westcott Theater’s permitting troubles continue: Syracuse police shut down another event",
+  "summary": "The Westcott Theater experienced another police shutdown of an event on August 22, 2026, due to missing required permits, with the venue manager cited. This recurring permitting failure suggests systemic issues with the Department of Permits and Development's oversight or the venue's compliance processes that warrant investigation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "permitting",
+    "code-enforcement",
+    "police",
+    "escalating",
+    "complaint"
+  ],
+  "department_refs": [
+    "Syracuse Police Department",
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Westcott Theater",
+      "type": "organization",
+      "canonical_id": "ORG-WESTCOTT-THEATER"
+    },
+    {
+      "name": "Greta Stuckey",
+      "type": "person",
+      "canonical_id": "PERSON-GRETA-STUCKEY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Recurring permitting violations at a cultural venue indicate potential weakness in permitting enforcement mechanisms or venue management. The word 'continued' signals an ongoing pattern requiring CIO attention to process improvement, digital permitting systems, or interagency coordination.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Event manager name not extracted from article excerpt; full text review recommended",
+    "No specific permit type identified; recommend cross-reference with Permits and Development records",
+    "Article uses 'continue/continued' language indicating pattern; recommend historical analysis of venue violations",
+    "Potential digital services angle: permitting system usability or notification processes may need review",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
