@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-NEWS-2026-00251",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/08/first-hearing-in-micron-lawsuit-will-be-streamed-online-today-from-albany.html",
+  "publication_date": "2026-08-25",
+  "capture_date": "2026-08-25T12:52:59Z",
+  "title": "First hearing in Micron lawsuit will be streamed online today from Albany",
+  "summary": "A court hearing regarding a lawsuit against Micron Technology's chipmaking project in Central New York is being streamed online from Albany. This litigation represents potential risk to a major economic development initiative in the region. The CIO should monitor for any digital infrastructure or transparency requirements that may emerge from ongoing proceedings.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "transparency",
+    "intergovernmental",
+    "investigation",
+    "trending"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Glenn Coin",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Litigation against major economic development project (Micron chipmaking facility) suggests potential community or stakeholder opposition; public streaming indicates transparency and public interest in outcomes.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on procedural court access rather than substance of lawsuit",
+    "No specific technology infrastructure or CIO operational impact mentioned",
+    "Micron project is significant regional economic development initiative; outcomes may affect municipal planning/development strategy",
+    "Date stamp (2026-08-25) indicates future publication; verify currency",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

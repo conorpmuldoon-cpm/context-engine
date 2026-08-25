@@ -1,0 +1,75 @@
+2026-08-25 12:52:53,599 [INFO] ============================================================
+2026-08-25 12:52:53,599 [INFO] News Scanner starting
+2026-08-25 12:52:53,601 [INFO] Fetching: Syracuse.com Politics
+2026-08-25 12:52:54,021 [INFO]   50 new articles from Syracuse.com Politics
+2026-08-25 12:52:54,021 [INFO] Fetching: Syracuse.com Government
+2026-08-25 12:52:54,172 [INFO]   0 new articles from Syracuse.com Government
+2026-08-25 12:52:54,172 [INFO] Fetching: Syracuse.com Local
+2026-08-25 12:52:54,349 [INFO]   0 new articles from Syracuse.com Local
+2026-08-25 12:52:54,349 [INFO] Fetching: Syracuse.com Main
+2026-08-25 12:52:54,488 [INFO]   0 new articles from Syracuse.com Main
+2026-08-25 12:52:54,488 [INFO] Total unique articles across all feeds: 50
+2026-08-25 12:52:54,489 [INFO] New articles (not previously processed): 50
+2026-08-25 12:52:54,544 [DEBUG]   Filtered (not relevant): The new Disney X NFL t-shirts are instantly iconic, and selling out
+2026-08-25 12:52:54,545 [DEBUG]   Filtered (not relevant): Trump floats renaming Lake Ontario as ‘Lake America’ as trade war with Canada es
+2026-08-25 12:52:54,545 [DEBUG]   Filtered (not relevant): NYS Fair butter sculpture revealed today: Here’s how to watch
+2026-08-25 12:52:54,545 [DEBUG]   Filtered (not relevant): Pediatric specialist: Medicaid changes put children at risk (Your Letters)
+2026-08-25 12:52:54,546 [DEBUG]   Filtered (not relevant): Central New York girls soccer players take over syracuse.com’s 2026 fall media d
+2026-08-25 12:52:54,546 [DEBUG]   Filtered (not relevant): 39 injured as tornado tears through village in France
+2026-08-25 12:52:54,547 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 fall media day girls soccer roll call (65 photos)
+2026-08-25 12:52:54,547 [DEBUG]   Filtered (not relevant): What’s the maximum amount of Social Security benefits you can get in a month?
+2026-08-25 12:52:54,548 [DEBUG]   Filtered (not relevant): 22 still missing after cargo ship sinks in Bay of Bengal
+2026-08-25 12:52:54,548 [DEBUG]   Filtered (not relevant): Longtime punk rock band to release first new album since name change
+2026-08-25 12:52:54,548 [DEBUG]   Filtered (not relevant): Who are the top returning girls swimming and diving leaders ranked by 2025 stats
+2026-08-25 12:52:54,549 [INFO]   Relevant: First hearing in Micron lawsuit will be streamed online today from Albany
+2026-08-25 12:52:54,549 [DEBUG]     → Entities: Micron Technology
+2026-08-25 12:52:59,207 [INFO]     Saved: CTX-NEWS-2026-00251 → CTX-NEWS-2026-00251.json
+2026-08-25 12:52:59,207 [DEBUG]   Filtered (not relevant): States vow to fight Trump after Supreme Court ruling on mail-in voting restricti
+2026-08-25 12:52:59,208 [DEBUG]   Filtered (not relevant): Catskills man ticketed for keeping rattlesnake in bucket outside his apartment
+2026-08-25 12:52:59,208 [DEBUG]   Filtered (not relevant): Target pulls ‘offensive’ Halloween costume after backlash
+2026-08-25 12:52:59,209 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 fall media day field hockey roll call (26 photos)
+2026-08-25 12:52:59,209 [DEBUG]   Filtered (not relevant): SUNY ESF just raised $43M from boosters. It’s a huge help for a school in financ
+2026-08-25 12:52:59,209 [DEBUG]   Filtered (not relevant): ‘Big Brother’ star says this season 28 player ‘lies unnecessarily’
+2026-08-25 12:52:59,210 [DEBUG]   Filtered (not relevant): Say 'goodbye' to Teen Nick, other beloved channels: They could very well go away
+2026-08-25 12:52:59,210 [DEBUG]   Filtered (not relevant): NY energy rebate checks start going out soon: How much will you get?
+2026-08-25 12:52:59,210 [DEBUG]   Filtered (not relevant): Latest observations from Syracuse football practice: Who’s ahead in battle for Q
+2026-08-25 12:52:59,211 [DEBUG]   Filtered (not relevant): Today’s horoscope: Capricorn -  Dig in and get your paperwork in order (Aug. 25,
+2026-08-25 12:52:59,211 [DEBUG]   Filtered (not relevant): CNY Inspiration: My friend Mark
+2026-08-25 12:52:59,212 [DEBUG]   Filtered (not relevant): Dear Abby: Don’t wait until your children are grown to fight for your relationsh
+2026-08-25 12:52:59,212 [DEBUG]   Filtered (not relevant): Dear Doctor: For two years, I’ve lived with a constant head bob. What’s causing 
+2026-08-25 12:52:59,213 [DEBUG]   Filtered (not relevant): Asking Eric: Is daughter’s unresolved grief building a wall in our strained rela
+2026-08-25 12:52:59,213 [DEBUG]   Filtered (not relevant): Beloved country musician, who was battling cancer, has died: ‘A genuinely good s
+2026-08-25 12:52:59,214 [DEBUG]   Filtered (not relevant): More SNAP recipients are getting chip-enabled EBT cards: Here's where, and why
+2026-08-25 12:52:59,214 [DEBUG]   Filtered (not relevant): ‘Stone Cold’ Steve Austin involved in crash during race: ‘Made a mistake on the 
+2026-08-25 12:52:59,214 [DEBUG]   Filtered (not relevant): The Trader Joe's fall cake that breaks the internet every year just returned to 
+2026-08-25 12:52:59,215 [DEBUG]   Filtered (not relevant): MAGA rips country music star for mid-show comment on migrant kids: ‘Ended her ca
+2026-08-25 12:52:59,215 [DEBUG]   Filtered (not relevant): How to secure Noah Kahan presale tickets for 2027 ‘The Last Of The Bugs World To
+2026-08-25 12:52:59,215 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Monday’s $81 million drawing
+2026-08-25 12:52:59,216 [DEBUG]   Filtered (not relevant): Polymarket Code CUSE: $20 referral bonus extended for MLB and PGA Championship; 
+2026-08-25 12:52:59,216 [DEBUG]   Filtered (not relevant): Experts update Yankees vs. Astros predictions after unfortunate Giancarlo Stanto
+2026-08-25 12:52:59,217 [DEBUG]   Filtered (not relevant): SEC reacts to NFL players committing to NCAA rosters
+2026-08-25 12:52:59,217 [DEBUG]   Filtered (not relevant): Canada to announce retaliatory tariffs on U.S.; Trump tells leaders to ‘fall in 
+2026-08-25 12:52:59,218 [DEBUG]   Filtered (not relevant): Supreme Court sides with Trump administration on mail voting restrictions
+2026-08-25 12:52:59,218 [DEBUG]   Filtered (not relevant): Texas police release results of investigation into death of Buffalo Bills player
+2026-08-25 12:52:59,219 [DEBUG]   Filtered (not relevant): Some veterans lose their entire disability check: A Senate bill would end that
+2026-08-25 12:52:59,219 [DEBUG]   Filtered (not relevant): NY AG opens investigation into death of Elbridge man shot by sheriff’s deputy
+2026-08-25 12:52:59,220 [DEBUG]   Filtered (not relevant): How to watch ‘DWTS: The Next Pro’ semi-finals with Kym Johnson Episode 7 for fre
+2026-08-25 12:52:59,220 [DEBUG]   Filtered (not relevant): Brooks slashes the price of the Hyperion Max 3 during its Labor Day sale - Get 2
+2026-08-25 12:52:59,221 [DEBUG]   Filtered (not relevant): Host of beloved TV show breaks silence after psychiatric hold, says doctors ‘sav
+2026-08-25 12:52:59,221 [DEBUG]   Filtered (not relevant): ‘90s boyband member accused of abuse by daughter: ‘Just want the world to know w
+2026-08-25 12:52:59,221 [DEBUG]   Filtered (not relevant): Golding explains FBI sweeping for bugs after Kiffin's departure
+2026-08-25 12:52:59,222 [DEBUG]   Filtered (not relevant): Former NFL player Secdrick Cooper denied bond following arrest for sex crimes
+2026-08-25 12:52:59,222 [DEBUG]   Filtered (not relevant): Where to watch Valkyries vs. Lynx today: WNBA free live stream
+2026-08-25 12:52:59,222 [DEBUG]   Filtered (not relevant): Almost the entire moon will disappear this week: Here’s when to look up
+2026-08-25 12:52:59,223 [DEBUG]   Filtered (not relevant): French tourist dies in Death Valley after getting stranded in 116-degree heat
+2026-08-25 12:52:59,225 [INFO] News Scanner Run — 2026-08-25 12:52
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • First hearing in Micron lawsuit will be streamed online today from Albany
+
