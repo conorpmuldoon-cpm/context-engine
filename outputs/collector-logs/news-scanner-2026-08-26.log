@@ -1,0 +1,78 @@
+2026-08-26 12:58:15,292 [INFO] ============================================================
+2026-08-26 12:58:15,292 [INFO] News Scanner starting
+2026-08-26 12:58:15,293 [INFO] Fetching: Syracuse.com Politics
+2026-08-26 12:58:15,625 [INFO]   50 new articles from Syracuse.com Politics
+2026-08-26 12:58:15,625 [INFO] Fetching: Syracuse.com Government
+2026-08-26 12:58:15,800 [INFO]   0 new articles from Syracuse.com Government
+2026-08-26 12:58:15,800 [INFO] Fetching: Syracuse.com Local
+2026-08-26 12:58:15,974 [INFO]   0 new articles from Syracuse.com Local
+2026-08-26 12:58:15,974 [INFO] Fetching: Syracuse.com Main
+2026-08-26 12:58:16,144 [INFO]   0 new articles from Syracuse.com Main
+2026-08-26 12:58:16,145 [INFO] Total unique articles across all feeds: 50
+2026-08-26 12:58:16,145 [INFO] New articles (not previously processed): 50
+2026-08-26 12:58:16,201 [DEBUG]   Filtered (not relevant): Police blotter: See 233 new arrests added
+2026-08-26 12:58:16,202 [DEBUG]   Filtered (not relevant): Mega Millions results for 08/25/26: $2 million winner sold
+2026-08-26 12:58:16,203 [DEBUG]   Filtered (not relevant): NY sheriffs - including 2 from Central NY - sue to overturn new law that bans wo
+2026-08-26 12:58:16,203 [DEBUG]   Filtered (not relevant): NYS Fair souvenir stories: Couple found Cheeseburger, their ‘best bunny friend’ 
+2026-08-26 12:58:16,203 [INFO]   Relevant: Nuclear innovation is advancing NY’s energy transition (Guest Opinion by Doreen 
+2026-08-26 12:58:16,203 [DEBUG]     → Departments: Department of Permits and Development, Office of Analytics, Performance & Innovation
+2026-08-26 12:58:21,045 [INFO]     Saved: CTX-NEWS-2026-00252 → CTX-NEWS-2026-00252.json
+2026-08-26 12:58:21,045 [DEBUG]   Filtered (not relevant): See NY school districts ranked by latest geometry Regents exams
+2026-08-26 12:58:21,046 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 boys golfer poll: Outlooks? Avoiding hazards? Snapping a bad
+2026-08-26 12:58:21,046 [DEBUG]   Filtered (not relevant): Central New York girls cross country runners take over syracuse.com’s 2026 fall 
+2026-08-26 12:58:21,047 [INFO]   Relevant: Lawyers debate before NY judge whether Micron environmental report was good enou
+2026-08-26 12:58:21,047 [DEBUG]     → Entities: Micron Technology
+2026-08-26 12:58:25,143 [INFO]     Saved: CTX-NEWS-2026-00253 → CTX-NEWS-2026-00253.json
+2026-08-26 12:58:25,143 [DEBUG]   Filtered (not relevant): Lane Kiffin takes issue with SEC, Big Ten statements
+2026-08-26 12:58:25,144 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 boys golf coaches’ poll: Outlooks? Fairway-and-green machine
+2026-08-26 12:58:25,144 [DEBUG]   Filtered (not relevant): List of country music stars to die in 2026 closes in on 30 after Dolly Parton’s 
+2026-08-26 12:58:25,144 [DEBUG]   Filtered (not relevant): Central New York boys cross country runners take over syracuse.com’s 2026 fall m
+2026-08-26 12:58:25,145 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 preseason high school football rankings: All eyes on Section
+2026-08-26 12:58:25,145 [DEBUG]   Filtered (not relevant): Video: Syracuse OL coach Juan Castillo gets emotional about perception he may ge
+2026-08-26 12:58:25,146 [DEBUG]   Filtered (not relevant): A 4 a.m. breakfast, two red scooters and a race to be first in line at the NYS F
+2026-08-26 12:58:25,146 [DEBUG]   Filtered (not relevant): Who are the top returning boys fall volleyball scoring leaders ranked by 2025 st
+2026-08-26 12:58:25,146 [DEBUG]   Filtered (not relevant): Central NY pedestrian dies after being hit by vehicle involved in two-car crash
+2026-08-26 12:58:25,147 [DEBUG]   Filtered (not relevant): 2026 NYS Fair tickets, midway rides, parking: Everything you need to know before
+2026-08-26 12:58:25,147 [DEBUG]   Filtered (not relevant): Why are flags at half-staff today?
+2026-08-26 12:58:25,148 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 fall media day boys cross country roll call (36 photos)
+2026-08-26 12:58:25,148 [DEBUG]   Filtered (not relevant): Travelers to popular Caribbean destination are in luck with latest advisory: Her
+2026-08-26 12:58:25,148 [DEBUG]   Filtered (not relevant): Dolly Parton’s Broadway musical still a go, per her wishes
+2026-08-26 12:58:25,149 [DEBUG]   Filtered (not relevant): ‘90s rock band reuniting for NFL halftime show with new lead singer
+2026-08-26 12:58:25,149 [DEBUG]   Filtered (not relevant): Dolly Parton revealed song she wanted sung at funeral
+2026-08-26 12:58:25,149 [DEBUG]   Filtered (not relevant): Actress held late husband’s body for ‘four hours’ after ‘brutal’ accident
+2026-08-26 12:58:25,150 [DEBUG]   Filtered (not relevant): Publicist reveals Dolly Parton’s cause of death
+2026-08-26 12:58:25,150 [DEBUG]   Filtered (not relevant): Day 1 at NYS Fair: Today’s handpicked menu starts healthy, then the espresso mar
+2026-08-26 12:58:25,151 [DEBUG]   Filtered (not relevant): Experts release Yankees vs. Astros prediction as Ben Rice, Yordan Alvarez headli
+2026-08-26 12:58:25,151 [DEBUG]   Filtered (not relevant): In pro-Trump Oswego, Republicans aren’t sold on renaming Lake Ontario
+2026-08-26 12:58:25,152 [DEBUG]   Filtered (not relevant): LSU center from Ukraine leaves program after Kim Mulkey signs Russian player
+2026-08-26 12:58:25,152 [DEBUG]   Filtered (not relevant): Dear Abby: Korean student is afraid friends will mock him if he reveals he's gay
+2026-08-26 12:58:25,153 [DEBUG]   Filtered (not relevant): Today’s horoscope: Capricorn - Get any changes in writing (Aug. 26, 2026)
+2026-08-26 12:58:25,153 [DEBUG]   Filtered (not relevant): Thousands of heating, cooling devices recalled after 11 fire reports causing $2.
+2026-08-26 12:58:25,153 [DEBUG]   Filtered (not relevant): Syracuse Mets fall 2-1 to Lehigh Valley IronPigs
+2026-08-26 12:58:25,153 [DEBUG]   Filtered (not relevant): Google Assistant settlement class members are running out of time to file claims
+2026-08-26 12:58:25,154 [DEBUG]   Filtered (not relevant): Dolly Parton’s death has conspiracy theorists, fans battling on X: ‘Sick in the 
+2026-08-26 12:58:25,154 [DEBUG]   Filtered (not relevant): Asking Eric: Should I wear my reading glasses full-time because my husband finds
+2026-08-26 12:58:25,155 [DEBUG]   Filtered (not relevant): Dear Doctor: I worked in the garden all afternoon. Then I couldn’t get the words
+2026-08-26 12:58:25,155 [DEBUG]   Filtered (not relevant): DoorDash adds 3 huge retail names and half a million new products ahead of back-
+2026-08-26 12:58:25,156 [DEBUG]   Filtered (not relevant): Dolly Parton’s death was third to rock country music in five days. Here’s who we
+2026-08-26 12:58:25,156 [DEBUG]   Filtered (not relevant): St. John’s basketball legend Wayne McKoy dies at 68
+2026-08-26 12:58:25,156 [DEBUG]   Filtered (not relevant): Mega Millions numbers: Are you the lucky winner of Tuesday’s $130 million jackpo
+2026-08-26 12:58:25,157 [DEBUG]   Filtered (not relevant): New $20 Polymarket code “CUSE” updates referral promo for MLB, PGA, and South Ca
+2026-08-26 12:58:25,158 [DEBUG]   Filtered (not relevant): One dead after car hits utility pole, flips over multiple times in Cicero
+2026-08-26 12:58:25,158 [DEBUG]   Filtered (not relevant): Pennsylvania reports first 2 measles deaths in US this year; both victims unvacc
+2026-08-26 12:58:25,158 [DEBUG]   Filtered (not relevant): Experts update Cincinnati Bengals future odds after Ja’Marr Chase injury update
+2026-08-26 12:58:25,159 [DEBUG]   Filtered (not relevant): Dolly Parton has unreleased song intended to be her last
+2026-08-26 12:58:25,159 [DEBUG]   Filtered (not relevant): DOJ argues that without Trump’s name, Kennedy Center would face ‘financial ruin’
+2026-08-26 12:58:25,160 [DEBUG]   Filtered (not relevant): For families of Pan Am Flight 103 victims, another trial delay prolongs long wai
+2026-08-26 12:58:25,161 [INFO] News Scanner Run — 2026-08-26 12:58
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Nuclear innovation is advancing NY’s energy transition (Guest Opinion by Doreen 
+  • Lawyers debate before NY judge whether Micron environmental report was good enou
+

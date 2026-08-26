@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00253",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/08/lawyers-debate-before-ny-judge-whether-micron-environmental-report-was-good-enough.html",
+  "publication_date": "2026-08-26",
+  "capture_date": "2026-08-26T12:58:25Z",
+  "title": "Lawyers debate before NY judge whether Micron environmental report was good enough",
+  "summary": "A New York court hearing examined whether Micron Technology's 20,000-page environmental report for its chipmaking project near Syracuse met regulatory standards. The proceeding involved legal arguments about environmental assessment adequacy, relevant to Syracuse's economic development and state-level permitting processes.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "state-agency",
+    "permitting",
+    "investigation",
+    "intergovernmental"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "New York State Judiciary",
+      "type": "organization",
+      "canonical_id": "ORG-NY-JUDICIARY"
+    },
+    {
+      "name": "Glenn Coin",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Judicial review of environmental compliance for major economic development project signals regulatory oversight of Micron investment near Syracuse",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article location is Albany (state court), not Syracuse municipal action, but impacts Syracuse-area economic development priority",
+    "No dollar amounts or specific city departments identified; this is state-level environmental/permitting scrutiny",
+    "Date is 2026 (future); verify if this is a test article or placeholder",
+    "PROVISIONAL tag 'environmental-review' could augment 'permitting' if environmental assessments warrant dedicated tracking",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

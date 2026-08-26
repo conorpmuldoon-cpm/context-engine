@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-NEWS-2026-00252",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/08/nuclear-innovation-is-advancing-nys-energy-transition-guest-opinion-by-doreen-m-harris.html",
+  "publication_date": "2026-08-26",
+  "capture_date": "2026-08-26T12:58:21Z",
+  "title": "Nuclear innovation is advancing NY’s energy transition (Guest Opinion by Doreen M. Harris)",
+  "summary": "NYSERDA President Doreen M. Harris advocates for nuclear innovation as a key strategy in New York State's energy transition. The opinion piece promotes advanced nuclear technologies as solutions for achieving climate and energy goals, relevant to Syracuse's sustainability and economic development priorities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "sustainability",
+    "state-agency",
+    "initiative-launch",
+    "PROVISIONAL:clean-energy",
+    "PROVISIONAL:climate-transition"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Doreen M. Harris",
+      "type": "person",
+      "canonical_id": "PERSON-DOREEN-HARRIS"
+    },
+    {
+      "name": "New York State Energy Research and Development Authority",
+      "type": "organization",
+      "canonical_id": "ORG-NYSERDA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "State leadership positioning nuclear innovation as central to NY energy transition strategy; indicates potential funding and policy support flowing to municipalities and innovation initiatives aligned with clean energy goals.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author is state-level agency head, not City of Syracuse official; article is opinion/advocacy piece rather than news about direct City action",
+    "No direct budget amounts, department actions, or local permits mentioned",
+    "High relevance to CIO for economic development and sustainability initiative alignment with state strategy",
+    "Consider for monitoring emerging state funding programs or technology partnerships",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
