@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00254",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/08/syracuse-common-council-to-hold-public-hearing-on-westcott-theaters-future.html",
+  "publication_date": "2026-08-27",
+  "capture_date": "2026-08-27T22:00:40Z",
+  "title": "Syracuse Common Council to hold public hearing on Westcott Theater’s future",
+  "summary": "The Syracuse Common Council will hold a public hearing in September 2026 to address the future of the Westcott Theater, a decision point that may involve city land-use, historic preservation, and community stakeholder input. This signals potential policy or capital planning implications for a notable cultural/historic asset.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "council",
+    "land-use",
+    "historic-preservation",
+    "vote",
+    "zoning",
+    "PROVISIONAL:cultural-assets"
+  ],
+  "department_refs": [
+    "Syracuse Common Council"
+  ],
+  "entity_refs": [
+    {
+      "name": "Westcott Theater",
+      "type": "organization",
+      "canonical_id": "ORG-WESTCOTT-THEATER"
+    },
+    {
+      "name": "Syracuse Common Council",
+      "type": "organization",
+      "canonical_id": "ORG-COMMON-COUNCIL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public hearing indicates Council scrutiny of Westcott Theater disposition; outcome unclear but framing suggests decision point on asset's future use, preservation, or disposition.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is announcement-focused with limited detail on specific proposals or CIO-relevant technology/digital service components",
+    "No budget amounts, procurement details, or IT systems mentioned",
+    "May warrant follow-up after hearing to determine if digitalization, permitting systems, or GIS/asset management tools are relevant to implementation",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,75 @@
+2026-08-27 22:00:34,456 [INFO] ============================================================
+2026-08-27 22:00:34,456 [INFO] News Scanner starting
+2026-08-27 22:00:34,457 [INFO] Fetching: Syracuse.com Politics
+2026-08-27 22:00:34,931 [INFO]   50 new articles from Syracuse.com Politics
+2026-08-27 22:00:34,931 [INFO] Fetching: Syracuse.com Government
+2026-08-27 22:00:35,191 [INFO]   0 new articles from Syracuse.com Government
+2026-08-27 22:00:35,191 [INFO] Fetching: Syracuse.com Local
+2026-08-27 22:00:35,652 [INFO]   0 new articles from Syracuse.com Local
+2026-08-27 22:00:35,652 [INFO] Fetching: Syracuse.com Main
+2026-08-27 22:00:35,922 [INFO]   0 new articles from Syracuse.com Main
+2026-08-27 22:00:35,922 [INFO] Total unique articles across all feeds: 50
+2026-08-27 22:00:35,922 [INFO] New articles (not previously processed): 50
+2026-08-27 22:00:35,981 [DEBUG]   Filtered (not relevant): Thunderstorms with damaging winds and quarter-sized hail in Ulster County Thursd
+2026-08-27 22:00:35,981 [DEBUG]   Filtered (not relevant): Quarter-sized hail and damaging winds expected with thunderstorms in Delaware an
+2026-08-27 22:00:35,982 [DEBUG]   Filtered (not relevant): Tornado warning for Saratoga County Thursday evening — move to nearest shelter
+2026-08-27 22:00:35,983 [DEBUG]   Filtered (not relevant): Navy offering select SEALs up to $100,000 in retention bonuses
+2026-08-27 22:00:35,983 [DEBUG]   Filtered (not relevant): Thunderstorms with penny-sized hail in Delaware and Sullivan counties Thursday
+2026-08-27 22:00:35,983 [DEBUG]   Filtered (not relevant): Update: Thunderstorms with damaging winds in Saratoga and Warren counties Thursd
+2026-08-27 22:00:35,984 [DEBUG]   Filtered (not relevant): Netflix faces criticism over AI Gene Wilder voice in 'Wonka'-themed show
+2026-08-27 22:00:35,984 [DEBUG]   Filtered (not relevant): NFL star running back facing multiple charges after incident at his house
+2026-08-27 22:00:35,984 [DEBUG]   Filtered (not relevant): High School Sports Scoreboard for Aug. 27
+2026-08-27 22:00:35,985 [DEBUG]   Filtered (not relevant): Deputies ID Central NY pedestrian who died after being hit by vehicle involved i
+2026-08-27 22:00:35,986 [DEBUG]   Filtered (not relevant): 2 dead after SUV crosses into opposite lane, crashes into tractor-trailer in One
+2026-08-27 22:00:35,986 [DEBUG]   Filtered (not relevant): An everyday household product is about to get more expensive: Here's why
+2026-08-27 22:00:35,986 [DEBUG]   Filtered (not relevant): These 3 award-winning vehicles can be bought for under $15K and are less than 5 
+2026-08-27 22:00:35,987 [DEBUG]   Filtered (not relevant): Two legends and an outlaw: Country music world rocked by 3 deaths in less than a
+2026-08-27 22:00:35,987 [DEBUG]   Filtered (not relevant): ‘Unknown substance’ that caused evacuation of Central NY elections office identi
+2026-08-27 22:00:35,988 [DEBUG]   Filtered (not relevant): Update: The tornado warning for Hamilton County is predicted to expire at 4:45 p
+2026-08-27 22:00:35,988 [DEBUG]   Filtered (not relevant): TSA officers found this alarming item in a passenger’s checked bag
+2026-08-27 22:00:35,988 [DEBUG]   Filtered (not relevant): Major news network covering Dolly Parton’s death accidentally used photo of Vega
+2026-08-27 22:00:35,989 [DEBUG]   Filtered (not relevant): Taco Bell tabs Olivia Rodrigo for newest collab
+2026-08-27 22:00:35,989 [DEBUG]   Filtered (not relevant): New pill provides a meaningful step forward for those fighting a rare and debili
+2026-08-27 22:00:35,990 [DEBUG]   Filtered (not relevant): How to watch Steelers vs. Bills NFL Preseason for free today
+2026-08-27 22:00:35,990 [DEBUG]   Filtered (not relevant): Be ready for strong thunderstorms in Ulster and Dutchess counties early Thursday
+2026-08-27 22:00:35,990 [DEBUG]   Filtered (not relevant): CEO of off-price retailer says using tariff refunds to lower prices ‘right thing
+2026-08-27 22:00:35,991 [DEBUG]   Filtered (not relevant): Update: Thunderstorms with walnut-sized hail and damaging winds in Hamilton Coun
+2026-08-27 22:00:35,991 [DEBUG]   Filtered (not relevant): The keto ice cream you've seen at Walmart just filed for bankruptcy — here's why
+2026-08-27 22:00:35,992 [INFO]   Relevant: Syracuse Common Council to hold public hearing on Westcott Theater’s future
+2026-08-27 22:00:35,992 [DEBUG]     → Keywords: common council, public hearing
+2026-08-27 22:00:40,793 [INFO]     Saved: CTX-NEWS-2026-00254 → CTX-NEWS-2026-00254.json
+2026-08-27 22:00:40,794 [DEBUG]   Filtered (not relevant): Be prepared for strong thunderstorms in Herkimer County early Thursday evening —
+2026-08-27 22:00:40,794 [DEBUG]   Filtered (not relevant): ‘Friends’ stars reunite for dinner with Jennifer Aniston and boyfriend
+2026-08-27 22:00:40,794 [DEBUG]   Filtered (not relevant): Be prepared for strong thunderstorms in Mohawk Valley early Thursday evening — g
+2026-08-27 22:00:40,795 [DEBUG]   Filtered (not relevant): Update: NYS Fair lifts shelter-in-place order issued due to thunderstorms
+2026-08-27 22:00:40,795 [DEBUG]   Filtered (not relevant): ESPN making major change to college football broadcasts
+2026-08-27 22:00:40,795 [DEBUG]   Filtered (not relevant): ‘Good Morning America’ host quietly welcomes baby girl at 54
+2026-08-27 22:00:40,796 [DEBUG]   Filtered (not relevant): How to watch Syracuse women’s soccer vs. Niagara today: Free stream
+2026-08-27 22:00:40,796 [DEBUG]   Filtered (not relevant): Here are the top 5 things people still shop for in person
+2026-08-27 22:00:40,797 [DEBUG]   Filtered (not relevant): Plan ahead: Most Alabama stores do not sell liquor on Labor Day
+2026-08-27 22:00:40,797 [DEBUG]   Filtered (not relevant): Another plane problem at O’Hare leaves investigators searching for answers
+2026-08-27 22:00:40,797 [DEBUG]   Filtered (not relevant): Important IRS notice: Deadline nearing for millions of taxpayers
+2026-08-27 22:00:40,798 [DEBUG]   Filtered (not relevant): Iconic ‘Winnie the Pooh’ voice actor dies at 85
+2026-08-27 22:00:40,798 [DEBUG]   Filtered (not relevant): Update: Thunderstorms with damaging winds and half-dollar-sized hail in Oswego C
+2026-08-27 22:00:40,799 [DEBUG]   Filtered (not relevant): FDA approves breakthrough cancer drug months ahead of schedule: ‘Unprecedented r
+2026-08-27 22:00:40,799 [DEBUG]   Filtered (not relevant): ESPN announces new doc on legendary college football coach
+2026-08-27 22:00:40,800 [DEBUG]   Filtered (not relevant): Dolly Parton made medical decision to save others before last breath, sister rev
+2026-08-27 22:00:40,800 [DEBUG]   Filtered (not relevant): Severe thunderstorm alerts issued for Central NY on NYS Fair’s second day
+2026-08-27 22:00:40,800 [DEBUG]   Filtered (not relevant): Central NY motorcyclist succumbs to injuries sustained in crash last week
+2026-08-27 22:00:40,801 [DEBUG]   Filtered (not relevant): Buc-ee’s to focus expansion on ‘conservative, business-friendly’ states, founder
+2026-08-27 22:00:40,801 [DEBUG]   Filtered (not relevant): Regina Farrell joins St. Joseph’s Health OB laborist team
+2026-08-27 22:00:40,802 [DEBUG]   Filtered (not relevant): Viral football coach defies in latest ‘Fansville’ spot
+2026-08-27 22:00:40,802 [DEBUG]   Filtered (not relevant): NY man goes missing while camping in the Adirondacks; Police seek public’s help
+2026-08-27 22:00:40,803 [DEBUG]   Filtered (not relevant): Gas prices expected to set record as most expensive August ever
+2026-08-27 22:00:40,803 [DEBUG]   Filtered (not relevant): Severe thunderstorm watch active for Mohawk Valley, Capital Region until Thursda
+2026-08-27 22:00:40,805 [INFO] News Scanner Run — 2026-08-27 22:00
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Syracuse Common Council to hold public hearing on Westcott Theater’s future
+
