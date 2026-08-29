@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-NEWS-2026-00255",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/us-news/2026/08/whats-happening-behind-the-doors-of-retirement-communities.html",
+  "publication_date": "2026-08-29",
+  "capture_date": "2026-08-29T16:27:38Z",
+  "title": "How marijuana legalization is changing retirement communities across America",
+  "summary": "National trend article reporting on marijuana legalization's impact on retirement communities and senior living facilities. Highlights growing cannabis use among older adults for medical and recreational purposes, creating new operational, legal, and health challenges for retirement communities. Relevant to Syracuse municipal planning regarding aging populations, public health policy, and potential regulatory needs for age-restricted communities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:senior-living",
+    "PROVISIONAL:cannabis-policy",
+    "policy-change",
+    "residents",
+    "equity",
+    "trending"
+  ],
+  "department_refs": [
+    "Law Department",
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Chris Pugh",
+      "type": "person",
+      "canonical_id": "PERSON-CHRIS-PUGH"
+    },
+    {
+      "name": "Advance Local Express Desk",
+      "type": "organization",
+      "canonical_id": "ORG-ADVANCE-LOCAL"
+    },
+    {
+      "name": "The Wall Street Journal",
+      "type": "organization",
+      "canonical_id": "ORG-WSJ"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Article examines regulatory and operational challenges emerging from marijuana legalization in retirement settings, suggesting need for municipal policy review and potential oversight of age-restricted communities.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is national trend reporting, not Syracuse-specific; relevance is anticipatory/preparatory for local policy",
+    "No budget, contract, or specific City of Syracuse action items detected",
+    "May warrant CIO attention if retirement community digital governance or data systems are in scope",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
