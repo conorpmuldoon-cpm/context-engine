@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00256",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/entertainment/2026/08/a-mississippi-mayors-decision-about-dolly-parton-is-dividing-people-across-the-country.html",
+  "publication_date": "2026-08-30",
+  "capture_date": "2026-08-30T16:20:40Z",
+  "title": "Why one Mississippi mayor refused to lower flags for Dolly Parton",
+  "summary": "A Mississippi mayor publicly opposed lowering American flags to honor deceased country music icon Dolly Parton, arguing such gestures should be reserved for military heroes, presidents, and first responders. The decision has generated national criticism and public division. This article is geographically and jurisdictionally outside Syracuse's scope but may inform discussion of ceremonial protocols and constituent sentiment around public honors.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:ceremonial-protocols",
+    "PROVISIONAL:public-honors",
+    "trending"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Dolly Parton",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Mississippi Mayor",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Fox News",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "National public backlash against municipal official's restrictive interpretation of flag-lowering honors; reflects broader debate about civic recognition standards and cultural figures.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is geographically outside Syracuse jurisdiction (Mississippi)",
+    "No direct Syracuse government relevance but may inform policy discussions on ceremonial protocols",
+    "Mayor name not provided in excerpt; entity identification incomplete",
+    "Trending topic with national attention suggests potential constituent inquiry volume for Syracuse government",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
