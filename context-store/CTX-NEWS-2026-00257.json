@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00257",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/syracuse-university/2026/09/syracuse-university-responds-to-wall-street-journal-article-su-is-far-from-a-crisis.html",
+  "publication_date": "2026-09-01",
+  "capture_date": "2026-09-01T16:19:07Z",
+  "title": "Syracuse University responds to Wall Street Journal article: SU ‘is far from a crisis’",
+  "summary": "Syracuse University's Chancellor issued a public statement responding to Wall Street Journal reporting on student enrollment challenges, asserting the institution remains fiscally sound. This represents institutional crisis management and reputational defense in response to media scrutiny.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "business-community",
+    "transparency"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Michael Haynie",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-HAYNIE"
+    },
+    {
+      "name": "Wall Street Journal",
+      "type": "organization",
+      "canonical_id": "ORG-WSJ"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Media scrutiny of major regional institution's financial health and enrollment viability; institutional leadership responding defensively to third-party reporting",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on higher education sector, not municipal/city operations—tangential relevance to City CIO role",
+    "No direct City of Syracuse departmental involvement detected",
+    "No budget, infrastructure, or digital services elements relevant to municipal innovation priorities",
+    "Chancellor's statement is reactive/defensive positioning rather than proactive initiative",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

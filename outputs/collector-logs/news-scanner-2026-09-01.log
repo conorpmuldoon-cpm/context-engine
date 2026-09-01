@@ -1,0 +1,75 @@
+2026-09-01 16:19:02,505 [INFO] ============================================================
+2026-09-01 16:19:02,505 [INFO] News Scanner starting
+2026-09-01 16:19:02,507 [INFO] Fetching: Syracuse.com Politics
+2026-09-01 16:19:02,787 [INFO]   50 new articles from Syracuse.com Politics
+2026-09-01 16:19:02,787 [INFO] Fetching: Syracuse.com Government
+2026-09-01 16:19:02,935 [INFO]   0 new articles from Syracuse.com Government
+2026-09-01 16:19:02,935 [INFO] Fetching: Syracuse.com Local
+2026-09-01 16:19:03,097 [INFO]   0 new articles from Syracuse.com Local
+2026-09-01 16:19:03,097 [INFO] Fetching: Syracuse.com Main
+2026-09-01 16:19:03,239 [INFO]   0 new articles from Syracuse.com Main
+2026-09-01 16:19:03,239 [INFO] Total unique articles across all feeds: 50
+2026-09-01 16:19:03,240 [INFO] New articles (not previously processed): 50
+2026-09-01 16:19:03,297 [DEBUG]   Filtered (not relevant): Amazon, Walmart, Target: 6 products recalled for serious safety risks
+2026-09-01 16:19:03,297 [DEBUG]   Filtered (not relevant): Latino Village will expand to all 13 days at 2027 NYS Fair — here’s what to see 
+2026-09-01 16:19:03,298 [DEBUG]   Filtered (not relevant): Brooks Running Labor Day sale has finally arrived - Here are the best deals we’r
+2026-09-01 16:19:03,298 [INFO]   Relevant: Syracuse University responds to Wall Street Journal article: SU ‘is far from a c
+2026-09-01 16:19:03,298 [DEBUG]     → Entities: Syracuse University
+2026-09-01 16:19:07,793 [INFO]     Saved: CTX-NEWS-2026-00257 → CTX-NEWS-2026-00257.json
+2026-09-01 16:19:07,794 [DEBUG]   Filtered (not relevant): Judge says Amarri Monroe can practice for now, sets hearing date in NCAA eligibi
+2026-09-01 16:19:07,794 [DEBUG]   Filtered (not relevant): Amazon ran ‘a secret ad surcharge scheme,’ lawsuit claims
+2026-09-01 16:19:07,795 [DEBUG]   Filtered (not relevant): What’s next if Lindsay Clancy jury can’t come to agreement?
+2026-09-01 16:19:07,795 [DEBUG]   Filtered (not relevant): Stanley 1913 x Caitlin Clark collab is live — act fast
+2026-09-01 16:19:07,795 [DEBUG]   Filtered (not relevant): Say goodbye to City Furniture — the Florida retailer just rebranded in a major w
+2026-09-01 16:19:07,796 [DEBUG]   Filtered (not relevant): Popular singer gives health update after she was seen limping on stage
+2026-09-01 16:19:07,796 [DEBUG]   Filtered (not relevant): Cancer patients’ records exposed during cyberattack
+2026-09-01 16:19:07,796 [DEBUG]   Filtered (not relevant): Today’s obituary: Susan Edwards Harvith, 80, taught the history of film at SU
+2026-09-01 16:19:07,797 [DEBUG]   Filtered (not relevant): Dear Annie: Will our most long-winded friend talk his way off the guest list?
+2026-09-01 16:19:07,797 [DEBUG]   Filtered (not relevant): Ashanti gets candid about Nelly, fame and her future with 19,000 fans at NYS Fai
+2026-09-01 16:19:07,798 [DEBUG]   Filtered (not relevant): Jury struggles to reach decision in Lindsay Clancy trial
+2026-09-01 16:19:07,798 [DEBUG]   Filtered (not relevant): Social Security latest update: 2 types of payments arriving this week
+2026-09-01 16:19:07,798 [DEBUG]   Filtered (not relevant): Over 896 flights delayed, 200 canceled amid widespread U.S. travel disruptions
+2026-09-01 16:19:07,799 [DEBUG]   Filtered (not relevant): I-81 crash in Upstate NY sends Kia rolling, 3 people to hospital
+2026-09-01 16:19:07,799 [DEBUG]   Filtered (not relevant): ‘Last Chance U’ star Buddy Stephens fired by EMCC. Here’s what we know
+2026-09-01 16:19:07,799 [DEBUG]   Filtered (not relevant): Someone in this Hudson Valley town just became a millionaire with Powerball
+2026-09-01 16:19:07,800 [DEBUG]   Filtered (not relevant): The Must-See 33: Section III high school football All-CNY watchlist for 2026 sea
+2026-09-01 16:19:07,800 [DEBUG]   Filtered (not relevant): Florida funeral attendees dispute deputies’ account after five arrests
+2026-09-01 16:19:07,801 [DEBUG]   Filtered (not relevant): Two NY Powerball players, including one in Upstate NY, are $50K richer
+2026-09-01 16:19:07,801 [DEBUG]   Filtered (not relevant): Walmart issues urgent safety warning after recalled products sold to consumers p
+2026-09-01 16:19:07,801 [DEBUG]   Filtered (not relevant): ESPN star claims unusual post-sex technique is why his wife had 4 sons
+2026-09-01 16:19:07,802 [DEBUG]   Filtered (not relevant): How to secure Rush presale tickets today for four new ‘Fifty Something’ tour dat
+2026-09-01 16:19:07,802 [DEBUG]   Filtered (not relevant): Beloved Mexican restaurant chain to debut first-ever sweet dip, queso fundido
+2026-09-01 16:19:07,802 [DEBUG]   Filtered (not relevant): Powerball results for 08/31/26: First 1 million pound winner sold in the UK
+2026-09-01 16:19:07,803 [DEBUG]   Filtered (not relevant): TV actress escorted from hotel after guest complaints
+2026-09-01 16:19:07,803 [DEBUG]   Filtered (not relevant): Section III football 2026: Team previews, must-watch games for 8-man
+2026-09-01 16:19:07,804 [DEBUG]   Filtered (not relevant): Target, Amazon issue nationwide recall of teething toys due to choking hazard: R
+2026-09-01 16:19:07,804 [DEBUG]   Filtered (not relevant): Kansas City bride’s dream wedding day came with a summons she never expected
+2026-09-01 16:19:07,804 [DEBUG]   Filtered (not relevant): One section of Upstate NY is in the bull’s-eye for potentially flooding rainfall
+2026-09-01 16:19:07,805 [DEBUG]   Filtered (not relevant): Polymarket promo code “CUSE” updated for Tuesday’s MLB games: $50 bonus now live
+2026-09-01 16:19:07,805 [DEBUG]   Filtered (not relevant): Section III football 2026: Team previews, must-watch games for Class AA, A
+2026-09-01 16:19:07,806 [DEBUG]   Filtered (not relevant): Le Creuset brings back its iconic Pumpkin collection, but it’s selling fast
+2026-09-01 16:19:07,807 [DEBUG]   Filtered (not relevant): Experts release Yankees vs. Angels prediction after latest Bet365 odds, parlays 
+2026-09-01 16:19:07,807 [DEBUG]   Filtered (not relevant): Syracuse woman’s 2024 homicide remains unsolved
+2026-09-01 16:19:07,808 [DEBUG]   Filtered (not relevant): NYS Fair crowds are beefier this year, but why and will it last?
+2026-09-01 16:19:07,808 [DEBUG]   Filtered (not relevant): Miss Manners: Why do people need to comment on strangers being ‘fat’?
+2026-09-01 16:19:07,808 [DEBUG]   Filtered (not relevant): Section III football 2026: Team previews, must-watch games for Class B, C, D
+2026-09-01 16:19:07,809 [DEBUG]   Filtered (not relevant): Seneca Nation calls for reversal of Trump’s ‘Lake America’ executive order
+2026-09-01 16:19:07,810 [DEBUG]   Filtered (not relevant): Murder charge and 222 more arrests added to syracuse.com police blotter
+2026-09-01 16:19:07,810 [DEBUG]   Filtered (not relevant): Shopping malls hitting consumers with parking charges
+2026-09-01 16:19:07,810 [DEBUG]   Filtered (not relevant): Behold the 800-pound butter sculpture and think about your life (NYS Fair commen
+2026-09-01 16:19:07,811 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 boys volleyball player polls: Most emotional? Best game sens
+2026-09-01 16:19:07,811 [DEBUG]   Filtered (not relevant): Country music world rocked by 4 deaths in just more than a week. Here’s what we 
+2026-09-01 16:19:07,811 [DEBUG]   Filtered (not relevant): Be prepared for strong thunderstorms in Southern Tier Tuesday morning — gusts co
+2026-09-01 16:19:07,812 [DEBUG]   Filtered (not relevant): Madison County real estate: 10 most expensive homes sold August 2026
+2026-09-01 16:19:07,812 [DEBUG]   Filtered (not relevant): Dolly Parton gave blessing to metal band’s cover before her death, manager says
+2026-09-01 16:19:07,814 [INFO] News Scanner Run — 2026-09-01 16:19
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Syracuse University responds to Wall Street Journal article: SU ‘is far from a c
+
