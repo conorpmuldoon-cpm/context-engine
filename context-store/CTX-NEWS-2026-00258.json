@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00258",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/shopping/2026/09/the-insignia-300-50-inch-smart-tv-is-160-during-best-buys-labor-day-sale.html",
+  "publication_date": "2026-09-02",
+  "capture_date": "2026-09-02T16:15:15Z",
+  "title": "The Insignia $300 50-inch Smart TV is $160 during Best Buy’s Labor Day sale",
+  "summary": "This article is a retail shopping promotion for a Best Buy Labor Day sale featuring an Insignia smart TV. It has no relevance to City of Syracuse municipal operations, governance, innovation initiatives, or Chief Innovation Officer priorities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Best Buy",
+      "type": "organization",
+      "canonical_id": "ORG-BESTBUY"
+    },
+    {
+      "name": "Insignia",
+      "type": "organization",
+      "canonical_id": "ORG-INSIGNIA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "MECHANICAL EXTRACTION ERROR: 'Syracuse Fire Department' incorrectly flagged as department reference. Article mentions 'Fire TV' (Amazon product line), not fire services.",
+    "MECHANICAL EXTRACTION ERROR: Dollar amounts ($300, $160) are retail prices, not municipal budget items.",
+    "Article is consumer retail content with no municipal context. Recommend filtering shopping/commerce articles from CIO corpus unless explicitly tagged as business-community economic development analysis.",
+    "Syracuse.com domain indicates local news source, but content is nationally syndicated retail promotion.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

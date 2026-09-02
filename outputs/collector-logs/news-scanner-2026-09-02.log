@@ -1,0 +1,77 @@
+2026-09-02 16:15:09,895 [INFO] ============================================================
+2026-09-02 16:15:09,895 [INFO] News Scanner starting
+2026-09-02 16:15:09,897 [INFO] Fetching: Syracuse.com Politics
+2026-09-02 16:15:10,202 [INFO]   50 new articles from Syracuse.com Politics
+2026-09-02 16:15:10,202 [INFO] Fetching: Syracuse.com Government
+2026-09-02 16:15:10,463 [INFO]   0 new articles from Syracuse.com Government
+2026-09-02 16:15:10,463 [INFO] Fetching: Syracuse.com Local
+2026-09-02 16:15:10,626 [INFO]   0 new articles from Syracuse.com Local
+2026-09-02 16:15:10,626 [INFO] Fetching: Syracuse.com Main
+2026-09-02 16:15:11,035 [INFO]   0 new articles from Syracuse.com Main
+2026-09-02 16:15:11,035 [INFO] Total unique articles across all feeds: 50
+2026-09-02 16:15:11,035 [INFO] New articles (not previously processed): 50
+2026-09-02 16:15:11,093 [DEBUG]   Filtered (not relevant): ‘Dancing With the Stars’ announces 2026 cast: Where you’ve seen each celeb befor
+2026-09-02 16:15:11,093 [DEBUG]   Filtered (not relevant): Plan ahead: All US Postal Service locations to close next week, mail deliveries 
+2026-09-02 16:15:11,094 [DEBUG]   Filtered (not relevant): AI-generated signs are all over the NYS Fair, stirring debate
+2026-09-02 16:15:11,094 [DEBUG]   Filtered (not relevant): Popular global pizza chain officially sold for $2.7 billion
+2026-09-02 16:15:11,095 [DEBUG]   Filtered (not relevant): UGG’s Labor Day sale is packed with your fan-favorite styles: Mini, Tasman, Disq
+2026-09-02 16:15:11,095 [DEBUG]   Filtered (not relevant): Heavy rains flood roads, knock power out as storm hits Onondaga County
+2026-09-02 16:15:11,095 [DEBUG]   Filtered (not relevant): Uber implementing biggest staff cuts since COVID
+2026-09-02 16:15:11,096 [DEBUG]   Filtered (not relevant): Heavy metal band storms off stage during first song, abandons show: ‘Thank you a
+2026-09-02 16:15:11,096 [DEBUG]   Filtered (not relevant): New York State Fair temporarily closes due to flooding and heavy rains
+2026-09-02 16:15:11,096 [DEBUG]   Filtered (not relevant): You can still get into Ye (Kanye West)’s Chicago shows at Soldier Field, but it’
+2026-09-02 16:15:11,097 [DEBUG]   Filtered (not relevant): SNAP soda and candy ban: More states enforcing restrictions this month
+2026-09-02 16:15:11,097 [DEBUG]   Filtered (not relevant): Sports world praying for ESPN's Holly Rowe following heartbreaking news
+2026-09-02 16:15:11,097 [DEBUG]   Filtered (not relevant): Park officials identify 2 hikers killed in Grand Canyon flooding
+2026-09-02 16:15:11,098 [DEBUG]   Filtered (not relevant): Rapper ColdheartedAC charged in alleged $8.1 million Treasury check scheme
+2026-09-02 16:15:11,099 [DEBUG]   Filtered (not relevant): Update: Flash flood warning active for Onondaga County Wednesday afternoon cause
+2026-09-02 16:15:11,099 [DEBUG]   Filtered (not relevant): PenFed Pathfinder Rewards Visa Signature Cardholders must now pay $95 a year
+2026-09-02 16:15:11,099 [DEBUG]   Filtered (not relevant): Dear Annie: I miss my adult children. Is there a way to get more time without gu
+2026-09-02 16:15:11,100 [DEBUG]   Filtered (not relevant): Heavy rains flood part of New York State Fair
+2026-09-02 16:15:11,100 [DEBUG]   Filtered (not relevant): Over 899 flights delayed, 126 canceled amid widespread U.S. travel disruptions
+2026-09-02 16:15:11,100 [DEBUG]   Filtered (not relevant): Heisman runner-up, former NFL All-Pro dies at 85
+2026-09-02 16:15:11,101 [DEBUG]   Filtered (not relevant): The Michael Kors Outlet slashes the price on its $400 Mirella Tote bag to $119
+2026-09-02 16:15:11,101 [DEBUG]   Filtered (not relevant): Iconic fast-food chain goes ‘Super Saiyan’ with Dragon Ball-inspired menu
+2026-09-02 16:15:11,102 [DEBUG]   Filtered (not relevant): Can Philo replace cable? My honest review after a week of streaming with the $25
+2026-09-02 16:15:11,102 [DEBUG]   Filtered (not relevant): Alanis Morissette files lawsuit accusing former tour manager of blackmail
+2026-09-02 16:15:11,103 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 girls volleyball coach poll: Who digs the team out?
+2026-09-02 16:15:11,103 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 girls volleyball coach poll: Who’s poised to bump up their g
+2026-09-02 16:15:11,104 [DEBUG]   Filtered (not relevant): Last of 3 teens admits to killing friend, 15, in failed drive-by shooting in Syr
+2026-09-02 16:15:11,104 [DEBUG]   Filtered (not relevant): Polymarket promo code “CUSE” upgraded $50 bonus live with $10 deposit for MLB We
+2026-09-02 16:15:11,105 [DEBUG]   Filtered (not relevant): The remarkable legacy Ray Reinhardt leaves behind
+2026-09-02 16:15:11,105 [DEBUG]   Filtered (not relevant): SAVE Plan is ending. Here’s how to choose a new plan and when
+2026-09-02 16:15:11,106 [DEBUG]   Filtered (not relevant): Fair officials warn visitors to take shelter as storm moves in
+2026-09-02 16:15:11,106 [DEBUG]   Filtered (not relevant): Mega Millions results for 09/01/26: Jackpot jumps to $177 million
+2026-09-02 16:15:11,107 [DEBUG]   Filtered (not relevant): Update: Thunderstorms with pea-sized hail in Central NY Wednesday — wind gusts u
+2026-09-02 16:15:11,107 [INFO]   Relevant: The Insignia $300 50-inch Smart TV is $160 during Best Buy’s Labor Day sale
+2026-09-02 16:15:11,108 [DEBUG]     → Departments: Syracuse Fire Department
+2026-09-02 16:15:11,108 [DEBUG]     → Keywords: resolution
+2026-09-02 16:15:15,809 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-09-02 16:15:15,843 [INFO]     Saved: CTX-NEWS-2026-00258 → CTX-NEWS-2026-00258.json
+2026-09-02 16:15:15,844 [DEBUG]   Filtered (not relevant): Tiger Woods accepts plea deal after Florida crash, receives lengthy suspension
+2026-09-02 16:15:15,845 [DEBUG]   Filtered (not relevant): Yankees vs. Angels prediction: Polymarket prices, Schlittler Cy Young and strike
+2026-09-02 16:15:15,845 [DEBUG]   Filtered (not relevant): Update: The current severe thunderstorm warning for Finger Lakes, Southern Tier 
+2026-09-02 16:15:15,846 [DEBUG]   Filtered (not relevant): Company news: Michele Sardinia named chair of Father Champlin’s Guardian Angel S
+2026-09-02 16:15:15,846 [DEBUG]   Filtered (not relevant): Miss Manners: My coworker lied about allergies and I caught her
+2026-09-02 16:15:15,847 [DEBUG]   Filtered (not relevant): Labor Day reminds us that working people deserve more than survival (Guest Opini
+2026-09-02 16:15:15,847 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 girls cross country poll: Outlooks? Funniest teammate? Pace-
+2026-09-02 16:15:15,847 [DEBUG]   Filtered (not relevant): Heavy metal band confirms hiatus: ‘It’s too tiresome’
+2026-09-02 16:15:15,848 [DEBUG]   Filtered (not relevant): Oneida County real estate: 10 most expensive homes sold August 2026
+2026-09-02 16:15:15,848 [DEBUG]   Filtered (not relevant): New arts and crafts thrift store ReC’use-It opens in Camillus
+2026-09-02 16:15:15,848 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 boys cross country coach poll: Outlooks? Improved runners? D
+2026-09-02 16:15:15,849 [DEBUG]   Filtered (not relevant): Permanent daylight saving time: Bad news if you thought the time change was goin
+2026-09-02 16:15:15,849 [DEBUG]   Filtered (not relevant): Country singer’s fans send love as he steps away at 34: ‘Take care of yourself’
+2026-09-02 16:15:15,849 [DEBUG]   Filtered (not relevant): College football head coach suspended after first game at school
+2026-09-02 16:15:15,850 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for Sept. 2
+2026-09-02 16:15:15,850 [DEBUG]   Filtered (not relevant): Update: Thunderstorms with penny-sized hail and damaging winds in Cayuga and Osw
+2026-09-02 16:15:15,852 [INFO] News Scanner Run — 2026-09-02 16:15
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • The Insignia $300 50-inch Smart TV is $160 during Best Buy’s Labor Day sale
+
