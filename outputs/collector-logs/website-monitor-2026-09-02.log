@@ -1,0 +1,29 @@
+2026-09-02 16:33:19,963 [INFO] ============================================================
+2026-09-02 16:33:19,964 [INFO] Website Monitor starting
+2026-09-02 16:33:21,744 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-09-02 16:33:21,744 [INFO]   Navigating to https://www.syr.gov/News
+2026-09-02 16:33:26,345 [INFO]   Found 10 article links in News
+2026-09-02 16:33:31,345 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-09-02-Mayors-Office-News-1030-AM
+2026-09-02 16:33:44,517 [WARNING]     Tag issue: Unknown tag 'fraud-alert' not in taxonomy
+2026-09-02 16:33:44,529 [INFO]     Saved: CTX-WEB-2026-00169 → CTX-WEB-2026-00169.json
+2026-09-02 16:33:44,529 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-09-01-Infrastructure-News-1255-PM
+2026-09-02 16:33:54,409 [INFO]     Dedup match: CTX-WEB-2026-00169 — linking via cluster
+2026-09-02 16:33:54,409 [INFO]     Saved: CTX-WEB-2026-00170 → CTX-WEB-2026-00170.json
+2026-09-02 16:33:54,409 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-09-02 16:33:54,410 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-09-02 16:33:57,564 [INFO]   Found 0 article links in Announcements
+2026-09-02 16:34:02,564 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-09-02 16:34:02,564 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-09-02 16:34:05,766 [INFO]   Found 0 article links in Public Notices
+2026-09-02 16:34:10,812 [INFO] Website Monitor Run — 2026-09-02 16:34
+==================================================
+Sections scanned: 3
+New pages found: 2
+Saved as records: 2
+Already processed: 8
+Errors: 0
+
+New records:
+  • City of Syracuse Issues Alert on Nationwide Zoning and Planning Scam
+  • City Of Syracuse to Close Offices in Observance of Labor Day
+

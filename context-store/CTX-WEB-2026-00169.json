@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-WEB-2026-00169",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-09-02-Mayors-Office-News-1030-AM",
+  "publication_date": "2026-09-02",
+  "capture_date": "2026-09-02T16:33:44Z",
+  "title": "City of Syracuse Issues Alert on Nationwide Zoning and Planning Scam",
+  "summary": "The City of Syracuse has issued a public alert regarding a nationwide zoning and planning scam targeting residents and businesses with fraudulent notices demanding immediate payments and threatening fines. Mayor Owens clarified that the City's Zoning Administration will never demand immediate payment without proper verification, and directed the public to verify communications directly with the Zoning office or report suspicious activity to the FBI's IC3.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "cybersecurity",
+    "complaint",
+    "zoning",
+    "permitting",
+    "fraud-alert",
+    "PROVISIONAL:scam-warning",
+    "residents",
+    "business-community"
+  ],
+  "department_refs": [
+    "Zoning Administration",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    },
+    {
+      "name": "FBI Internet Crime Complaint Center",
+      "type": "organization",
+      "canonical_id": "ORG-FBI-IC3"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Public safety and consumer protection messaging; positioning city government as transparent and protective of constituents against fraud schemes.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' — likely published by Mayor's Office or Communications on behalf of administration",
+    "No dollar amounts or specific case data provided",
+    "Press release includes direct contact methods for verification (zoning@syr.gov, 315-448-8640) and resource link (syr.gov/Zoning-Scam-Warning)",
+    "Coordinated with federal authorities (FBI) — intergovernmental coordination evident",
+    "Tag 'complaint' used in sense of public complaint/alert mechanism rather than formal complaint intake",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'fraud-alert' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}
