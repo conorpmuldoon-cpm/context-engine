@@ -1,0 +1,24 @@
+2026-09-04 16:20:01,475 [INFO] ============================================================
+2026-09-04 16:20:01,475 [INFO] Website Monitor starting
+2026-09-04 16:20:02,601 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-09-04 16:20:02,602 [INFO]   Navigating to https://www.syr.gov/News
+2026-09-04 16:20:08,450 [INFO]   Found 10 article links in News
+2026-09-04 16:20:13,450 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-09-03-Mayors-Office-News-145-PM
+2026-09-04 16:20:27,854 [INFO]     Saved: CTX-WEB-2026-00171 → CTX-WEB-2026-00171.json
+2026-09-04 16:20:27,854 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-09-04 16:20:27,855 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-09-04 16:20:31,808 [INFO]   Found 0 article links in Announcements
+2026-09-04 16:20:36,808 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-09-04 16:20:36,809 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-09-04 16:20:40,097 [INFO]   Found 0 article links in Public Notices
+2026-09-04 16:20:45,139 [INFO] Website Monitor Run — 2026-09-04 16:20
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • Mayor Owens Announces Changes in the SHA Board
+

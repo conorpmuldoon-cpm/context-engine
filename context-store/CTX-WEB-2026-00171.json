@@ -1,0 +1,78 @@
+{
+  "record_id": "CTX-WEB-2026-00171",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-09-03-Mayors-Office-News-145-PM",
+  "publication_date": "2026-09-03",
+  "capture_date": "2026-09-04T16:20:27Z",
+  "title": "Mayor Owens Announces Changes in the SHA Board",
+  "summary": "Mayor Sharon F. Owens announced the resignation of Ryan Benz from the Syracuse Housing Authority (SHA) Board of Commissioners and appointed Bethaida 'Bea' González, a civic leader with 40+ years of experience in governance and community engagement, to replace him. González brings expertise in intergovernmental collaboration, housing policy, and equitable access initiatives relevant to SHA's expanded development agenda.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "leadership-change",
+    "housing",
+    "equity",
+    "intergovernmental",
+    "residents"
+  ],
+  "department_refs": [
+    "Syracuse Housing Authority"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Ryan Benz",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-BENZ"
+    },
+    {
+      "name": "Bethaida González",
+      "type": "person",
+      "canonical_id": "PERSON-BETHAIDA-GONZALEZ"
+    },
+    {
+      "name": "Syracuse Housing Authority",
+      "type": "organization",
+      "canonical_id": "ORG-SHA"
+    },
+    {
+      "name": "Maxwell School of Citizenship and Public Affairs",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Binghamton University",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor actively prioritizing housing authority governance and succession planning; appointment of González signals commitment to equity-focused housing development and intergovernmental collaboration.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in source metadata",
+    "Content truncated in original; full González biography appears incomplete",
+    "East Adams neighborhood mentioned as focus area for SHA impact",
+    "No direct CIO/IT systems relevance detected; primarily governance/organizational announcement",
+    "PROVISIONAL tag 'intergovernmental' used to capture collaboration emphasis",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
