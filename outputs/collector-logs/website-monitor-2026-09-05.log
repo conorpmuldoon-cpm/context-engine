@@ -1,0 +1,25 @@
+2026-09-05 15:11:40,116 [INFO] ============================================================
+2026-09-05 15:11:40,116 [INFO] Website Monitor starting
+2026-09-05 15:11:40,720 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-09-05 15:11:40,720 [INFO]   Navigating to https://www.syr.gov/News
+2026-09-05 15:11:45,398 [INFO]   Found 10 article links in News
+2026-09-05 15:11:50,398 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-09-04-Mayors-Office-News-1215-PM
+2026-09-05 15:12:02,304 [INFO]     Dedup match: CTX-WEB-2026-00169 — linking via cluster
+2026-09-05 15:12:02,304 [INFO]     Saved: CTX-WEB-2026-00172 → CTX-WEB-2026-00172.json
+2026-09-05 15:12:02,304 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-09-05 15:12:02,304 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-09-05 15:12:05,403 [INFO]   Found 0 article links in Announcements
+2026-09-05 15:12:10,403 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-09-05 15:12:10,404 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-09-05 15:12:13,702 [INFO]   Found 0 article links in Public Notices
+2026-09-05 15:12:18,736 [INFO] Website Monitor Run — 2026-09-05 15:12
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • Friendly Wager Set Between Mayor Owens and Town of Durham Admin. Selig
+

@@ -1,0 +1,78 @@
+{
+  "record_id": "CTX-WEB-2026-00172",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-09-04-Mayors-Office-News-1215-PM",
+  "publication_date": "2026-09-04",
+  "capture_date": "2026-09-05T15:12:02Z",
+  "title": "Friendly Wager Set Between Mayor Owens and Town of Durham Admin. Selig",
+  "summary": "Mayor Sharon F. Owens and Town of Durham Administrator Todd Selig established a friendly wager tied to the Syracuse University vs. University of New Hampshire football game, with the loser's community providing a local specialty (maple syrup or Dinosaur Bar-B-Que). The gesture highlights inter-community engagement and local pride, with both leaders sharing SU alumni credentials.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "intergovernmental",
+    "business-community",
+    "one-time"
+  ],
+  "department_refs": [
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Todd Selig",
+      "type": "person",
+      "canonical_id": "PERSON-TODD-SELIG"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "University of New Hampshire",
+      "type": "organization",
+      "canonical_id": "ORG-UNH"
+    },
+    {
+      "name": "Town of Durham",
+      "type": "organization",
+      "canonical_id": "ORG-DURHAM-NH"
+    },
+    {
+      "name": "Dinosaur Bar-B-Que",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Demonstrates mayoral engagement in community-building and inter-jurisdictional relationship strengthening through informal diplomatic gestures tied to shared institutional pride.",
+    "confidence": "medium"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00169"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown; published via official City press release channel",
+    "Both Mayor Owens and Administrator Selig are Syracuse University alumni, adding personal credibility to engagement",
+    "No budget impact, operational risk, or policy implications detected",
+    "Dinosaur Bar-B-Que is a private business; no city subsidy or procurement involvement indicated",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00169 — linked for review"
+  ],
+  "last_relevance_update": null
+}
