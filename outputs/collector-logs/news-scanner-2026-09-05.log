@@ -1,0 +1,70 @@
+2026-09-05 14:51:24,385 [INFO] ============================================================
+2026-09-05 14:51:24,385 [INFO] News Scanner starting
+2026-09-05 14:51:24,386 [INFO] Fetching: Syracuse.com Politics
+2026-09-05 14:51:25,011 [INFO]   50 new articles from Syracuse.com Politics
+2026-09-05 14:51:25,011 [INFO] Fetching: Syracuse.com Government
+2026-09-05 14:51:25,237 [INFO]   0 new articles from Syracuse.com Government
+2026-09-05 14:51:25,237 [INFO] Fetching: Syracuse.com Local
+2026-09-05 14:51:25,465 [INFO]   0 new articles from Syracuse.com Local
+2026-09-05 14:51:25,465 [INFO] Fetching: Syracuse.com Main
+2026-09-05 14:51:25,667 [INFO]   0 new articles from Syracuse.com Main
+2026-09-05 14:51:25,667 [INFO] Total unique articles across all feeds: 50
+2026-09-05 14:51:25,667 [INFO] New articles (not previously processed): 50
+2026-09-05 14:51:25,729 [DEBUG]   Filtered (not relevant): Dolly Parton highlights college football team’s hype video
+2026-09-05 14:51:25,729 [DEBUG]   Filtered (not relevant): Millions of Social Security payments arrive this week: What’s the average benefi
+2026-09-05 14:51:25,730 [DEBUG]   Filtered (not relevant): USDA approves genetically modified American chestnut tree developed at SUNY ESF
+2026-09-05 14:51:25,730 [DEBUG]   Filtered (not relevant): Cignetti adds 2 players, doesn't really know if team is good
+2026-09-05 14:51:25,730 [DEBUG]   Filtered (not relevant): Live scoreboard, recaps for Saturday’s high school football games (Week 1)
+2026-09-05 14:51:25,731 [DEBUG]   Filtered (not relevant): Finebaum rips Kiffin a child, says LSU ‘has left stain on’ SEC
+2026-09-05 14:51:25,731 [DEBUG]   Filtered (not relevant): Section III field hockey 2026: Team previews, must-watch games for Classes C, D
+2026-09-05 14:51:25,732 [DEBUG]   Filtered (not relevant): Ask Mayo Clinic: Not every episode of bleeding, pelvic pain, bloating means canc
+2026-09-05 14:51:25,732 [DEBUG]   Filtered (not relevant): Why was ESPN’s ‘GameDay’ off air, now looks different?
+2026-09-05 14:51:25,733 [DEBUG]   Filtered (not relevant): Polymarket promo code “CUSE” $50 bonus after $10 deposit upgraded for Top-25 CFB
+2026-09-05 14:51:25,733 [DEBUG]   Filtered (not relevant): Where to watch Ball State vs. Ohio State free live stream today
+2026-09-05 14:51:25,734 [DEBUG]   Filtered (not relevant): What’s next for Lane Kiffin, LSU after roster decision
+2026-09-05 14:51:25,734 [DEBUG]   Filtered (not relevant): Why the NYS Fair Horticulture Building looks and feels different from years past
+2026-09-05 14:51:25,734 [DEBUG]   Filtered (not relevant): Where to watch East Carolina vs. Alabama college football for free
+2026-09-05 14:51:25,735 [DEBUG]   Filtered (not relevant): Holes-in-one for Central New York golfers (as of Sept. 4)
+2026-09-05 14:51:25,735 [DEBUG]   Filtered (not relevant): How to watch North Texas vs. Indiana college football free live stream
+2026-09-05 14:51:25,735 [DEBUG]   Filtered (not relevant): Better Than Ezra are better than ‘Good’ at the NYS Fair (concert review, photos)
+2026-09-05 14:51:25,736 [DEBUG]   Filtered (not relevant): Where to watch Oregon State vs. Houston college football for free
+2026-09-05 14:51:25,736 [DEBUG]   Filtered (not relevant): ‘Blue Bloods’ actor had weird symptom before being diagnosed with terminal cance
+2026-09-05 14:51:25,736 [DEBUG]   Filtered (not relevant): Section III field hockey 2026: Team previews, must-watch games for Classes A, B
+2026-09-05 14:51:25,737 [DEBUG]   Filtered (not relevant): Miss Manners: The couple has it all, so I think our gift should be money
+2026-09-05 14:51:25,737 [DEBUG]   Filtered (not relevant): After ambitious revivals, 2 Syracuse-area restaurants are closing
+2026-09-05 14:51:25,738 [DEBUG]   Filtered (not relevant): Otto Sitterly wins pole position for Sunday’s Oswego Classic 200
+2026-09-05 14:51:25,739 [DEBUG]   Filtered (not relevant): Wrong-way driver crash on Thruway kills 1, injures 1 in Genesee County
+2026-09-05 14:51:25,739 [DEBUG]   Filtered (not relevant): R&B star is battling cancer at 44. Here’s what we know
+2026-09-05 14:51:25,739 [DEBUG]   Filtered (not relevant): Rock band cancels concert after tour bus accident kills worker in Virginia
+2026-09-05 14:51:25,740 [DEBUG]   Filtered (not relevant): Social Security’s full retirement age hits 67 in 2027: That’s an important age t
+2026-09-05 14:51:25,740 [DEBUG]   Filtered (not relevant): The Must-See 13: Section III high school field hockey All-CNY watchlist for 2026
+2026-09-05 14:51:25,741 [DEBUG]   Filtered (not relevant): How to watch Syracuse football vs. New Hampshire today: Free stream
+2026-09-05 14:51:25,741 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for Sept. 5
+2026-09-05 14:51:25,741 [DEBUG]   Filtered (not relevant): Star college QB under fire for appearing with Donald Trump. Here’s what to know
+2026-09-05 14:51:25,742 [DEBUG]   Filtered (not relevant): The Must-See 33: Section III high school girls soccer All-CNY watchlist for 2026
+2026-09-05 14:51:25,742 [DEBUG]   Filtered (not relevant): Son of one of rock’s biggest legends welcomes first child with partner: ‘We made
+2026-09-05 14:51:25,742 [DEBUG]   Filtered (not relevant): Country music singer battling cancer at 35 shares update: ‘Death sitting like a 
+2026-09-05 14:51:25,743 [DEBUG]   Filtered (not relevant): Country music star teases retirement after 30 years onstage:  ‘Can’t promise any
+2026-09-05 14:51:25,743 [DEBUG]   Filtered (not relevant): Day 11 at the NYS Fair: Today’s menu includes the fair classics that don’t need 
+2026-09-05 14:51:25,743 [DEBUG]   Filtered (not relevant): Beloved rock frontman dead at 45: ‘Has left this mortal coil’
+2026-09-05 14:51:25,744 [DEBUG]   Filtered (not relevant): The U.S.’s ‘worst budgeters’ live in these states: report
+2026-09-05 14:51:25,744 [DEBUG]   Filtered (not relevant): Influential rock star dead at 74: ‘Changed the whole conversation about music’
+2026-09-05 14:51:25,745 [DEBUG]   Filtered (not relevant): Country music star’s fans praying after horrific wreck leaves him blinded in one
+2026-09-05 14:51:25,745 [DEBUG]   Filtered (not relevant): 7 recently renewed TV shows to binge watch right now
+2026-09-05 14:51:25,745 [DEBUG]   Filtered (not relevant): Beloved young singer killed in wreck at 21. Here’s what we know
+2026-09-05 14:51:25,746 [DEBUG]   Filtered (not relevant): Where to watch Man City vs. Coventry today: Premier League free stream
+2026-09-05 14:51:25,746 [DEBUG]   Filtered (not relevant): Country music star under fire from MAGA: ‘Just officially ended her career’
+2026-09-05 14:51:25,746 [DEBUG]   Filtered (not relevant): Hayden Senger walk-off homer gives Syracuse Mets doubleheader split
+2026-09-05 14:51:25,747 [DEBUG]   Filtered (not relevant): Legendary rock band could retire at end of 2026: ‘I think this will probably be 
+2026-09-05 14:51:25,747 [DEBUG]   Filtered (not relevant): Georgia donkey case draws national attention
+2026-09-05 14:51:25,748 [DEBUG]   Filtered (not relevant): Thousands of air conditioners recalled for serious fire, safety hazards
+2026-09-05 14:51:25,748 [DEBUG]   Filtered (not relevant): NYS Fair forecast for Day 11: Sunny skies and mild temperatures
+2026-09-05 14:51:25,748 [DEBUG]   Filtered (not relevant): Reality TV star can no longer speak amid serious health battle
+2026-09-05 14:51:25,750 [INFO] News Scanner Run — 2026-09-05 14:51
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 0
+Filtered (not relevant): 50
+Errors: 0
+
