@@ -1,0 +1,65 @@
+{
+  "record_id": "CTX-NEWS-2026-00260",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/09/su-chancellor-haynie-we-will-author-our-own-future.html",
+  "publication_date": "2026-09-06",
+  "capture_date": "2026-09-06T15:11:13Z",
+  "title": "Syracuse University Chancellor Haynie: ‘We will author our own future’",
+  "summary": "Syracuse University Chancellor J. Michael Haynie responds to Wall Street Journal reporting on enrollment and financial challenges facing the institution, citing national higher education headwinds including international student restrictions. The opinion piece represents institutional leadership defense against external criticism regarding tuition costs, academic standing, and geographic location disadvantages.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:higher-education",
+    "PROVISIONAL:enrollment-crisis",
+    "PROVISIONAL:institutional-response",
+    "leadership-change",
+    "federal-programs"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "J. Michael Haynie",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-HAYNIE"
+    },
+    {
+      "name": "Wall Street Journal",
+      "type": "organization",
+      "canonical_id": "ORG-WSJ"
+    },
+    {
+      "name": "Trump Administration",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Institutional leadership directly countering external media criticism; response framed as defending university's autonomy and future trajectory against negative narrative about enrollment and financial viability",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is opinion/letter format rather than news reporting—represents institutional messaging",
+    "Limited relevance to City of Syracuse CIO operations; primarily higher education sector content",
+    "Context mentions federal policy impact (international student restrictions) with potential downstream effects on regional economy",
+    "No direct references to city services, municipal infrastructure, or innovation initiatives",
+    "PROVISIONAL tags created due to higher education focus outside standard municipal taxonomy",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

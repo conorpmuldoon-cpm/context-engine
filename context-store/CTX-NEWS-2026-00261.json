@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2026-00261",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/09/syracuse-university-will-weather-this-storm-too-guest-opinion-by-grant-reeher.html",
+  "publication_date": "2026-09-06",
+  "capture_date": "2026-09-06T15:11:18Z",
+  "title": "Syracuse University will weather this storm, too (Guest Opinion by Grant Reeher)",
+  "summary": "Opinion piece by Syracuse University political science professor Grant Reeher argues that Syracuse University will successfully navigate current challenges. The article addresses institutional resilience at a major regional economic and educational anchor, relevant to city innovation and economic development strategy.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "business-community",
+    "leadership-change"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Grant Reeher",
+      "type": "person",
+      "canonical_id": "PERSON-GRANT-REEHER"
+    },
+    {
+      "name": "Maxwell School of Citizenship and Public Affairs",
+      "type": "organization",
+      "canonical_id": "ORG-MAXWELL-SCHOOL"
+    },
+    {
+      "name": "Campbell Public Affairs Institute",
+      "type": "organization",
+      "canonical_id": "ORG-CAMPBELL-INSTITUTE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Academic leader publicly affirms institutional confidence in Syracuse University's ability to overcome unspecified current difficulties, signaling stabilizing messaging around major regional institution.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article content not fully provided—only metadata header extracted; actual opinion argument unavailable for deeper thematic analysis",
+    "No dollar amounts, specific departments, or policy initiatives mentioned in available excerpt",
+    "PROVISIONAL tag 'business-community' applied due to SU's regional economic significance",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,83 @@
+2026-09-06 15:11:01,736 [INFO] ============================================================
+2026-09-06 15:11:01,736 [INFO] News Scanner starting
+2026-09-06 15:11:01,737 [INFO] Fetching: Syracuse.com Politics
+2026-09-06 15:11:03,356 [INFO]   50 new articles from Syracuse.com Politics
+2026-09-06 15:11:03,357 [INFO] Fetching: Syracuse.com Government
+2026-09-06 15:11:03,518 [INFO]   0 new articles from Syracuse.com Government
+2026-09-06 15:11:03,518 [INFO] Fetching: Syracuse.com Local
+2026-09-06 15:11:03,680 [INFO]   0 new articles from Syracuse.com Local
+2026-09-06 15:11:03,680 [INFO] Fetching: Syracuse.com Main
+2026-09-06 15:11:03,851 [INFO]   0 new articles from Syracuse.com Main
+2026-09-06 15:11:03,851 [INFO] Total unique articles across all feeds: 50
+2026-09-06 15:11:03,851 [INFO] New articles (not previously processed): 50
+2026-09-06 15:11:03,908 [DEBUG]   Filtered (not relevant): Finebaum calls out Big Ten crew after Michigan Hail Mary
+2026-09-06 15:11:03,909 [DEBUG]   Filtered (not relevant): Dear Annie: When is flying first class really worth the extra money?
+2026-09-06 15:11:03,909 [INFO]   Relevant: Two hospitalized after stabbing in Syracuse; both expected to survive
+2026-09-06 15:11:03,910 [DEBUG]     → Departments: Syracuse Police Department
+2026-09-06 15:11:03,910 [DEBUG]     → Keywords: syracuse police
+2026-09-06 15:11:08,125 [INFO]     Saved: CTX-NEWS-2026-00259 → CTX-NEWS-2026-00259.json
+2026-09-06 15:11:08,125 [DEBUG]   Filtered (not relevant): Ask Mayo Clinic: How to spot a concussion in your student-athlete before it's to
+2026-09-06 15:11:08,126 [DEBUG]   Filtered (not relevant): New Polymarket promo code “CUSE” launches $50 referral bonus for Labor Day Sunda
+2026-09-06 15:11:08,127 [DEBUG]   Filtered (not relevant): Buffalo Bills fantasy preview: Dalton Kincaid’s draft value vs. prediction marke
+2026-09-06 15:11:08,127 [DEBUG]   Filtered (not relevant): Shavane Anderson delivers ACC’s best debut in 20 years (PFF grades, snap counts)
+2026-09-06 15:11:08,127 [DEBUG]   Filtered (not relevant): How to watch Arsenal vs. Chelsea Premier League soccer for free today
+2026-09-06 15:11:08,128 [DEBUG]   Filtered (not relevant): Cortland County real estate: See all residential properties sold, Aug. 24-30
+2026-09-06 15:11:08,128 [DEBUG]   Filtered (not relevant): Patrick Emerling eyes Whelen modified title after Oswego victory Saturday
+2026-09-06 15:11:08,129 [DEBUG]   Filtered (not relevant): What’s new at Syracuse football games? Opener gives us a peek at Bryan Blair’s v
+2026-09-06 15:11:08,129 [DEBUG]   Filtered (not relevant): Things you may have overlooked in Syracuse football’s opening win over New Hamps
+2026-09-06 15:11:08,130 [DEBUG]   Filtered (not relevant): Country music star was shocked by her own diagnosis: ‘I didn’t even know’
+2026-09-06 15:11:08,130 [DEBUG]   Filtered (not relevant): Editorial cartoons for Sept. 6, 2026: Mail-in ballots, Trump's renovations, Hegs
+2026-09-06 15:11:08,130 [DEBUG]   Filtered (not relevant): Here’s your guide to the new Prime Video shows premiering this fall
+2026-09-06 15:11:08,131 [INFO]   Relevant: Syracuse University Chancellor Haynie: ‘We will author our own future’
+2026-09-06 15:11:08,131 [DEBUG]     → Entities: Syracuse University
+2026-09-06 15:11:08,131 [DEBUG]     → Departments: Department of Finance
+2026-09-06 15:11:13,582 [INFO]     Saved: CTX-NEWS-2026-00260 → CTX-NEWS-2026-00260.json
+2026-09-06 15:11:13,582 [DEBUG]   Filtered (not relevant): Former WWE star pleads guilty in stabbing. Here’s what we know
+2026-09-06 15:11:13,582 [DEBUG]   Filtered (not relevant): Rap and hip-hop pioneer dead at 64: ‘RIP my brother’
+2026-09-06 15:11:13,583 [INFO]   Relevant: Syracuse University will weather this storm, too (Guest Opinion by Grant Reeher)
+2026-09-06 15:11:13,583 [DEBUG]     → Entities: Syracuse University
+2026-09-06 15:11:18,370 [INFO]     Saved: CTX-NEWS-2026-00261 → CTX-NEWS-2026-00261.json
+2026-09-06 15:11:18,371 [DEBUG]   Filtered (not relevant): $1.3 million for Manlius home: Plus 138 more Onondaga County home sales
+2026-09-06 15:11:18,371 [DEBUG]   Filtered (not relevant): Syracuse Mets fall to Rochester Red Wings 14-9
+2026-09-06 15:11:18,372 [DEBUG]   Filtered (not relevant): Day 12 at the NYS Fair: Today’s menu includes a notorious fair food back from th
+2026-09-06 15:11:18,372 [DEBUG]   Filtered (not relevant): Term limit compromise beats hashing it out in court (Editorial Board Opinion)
+2026-09-06 15:11:18,373 [DEBUG]   Filtered (not relevant): Country music singer claims he is risking his life by speaking out against Donal
+2026-09-06 15:11:18,373 [DEBUG]   Filtered (not relevant): Walmart shoppers can get their fave Dunkin’ drinks and treats delivered
+2026-09-06 15:11:18,373 [DEBUG]   Filtered (not relevant): What are the real takeaways from SU football's win over New Hampshire? (podcast)
+2026-09-06 15:11:18,374 [DEBUG]   Filtered (not relevant): Syracuse leaders pump brakes on idea to close street for ER (Top stories)
+2026-09-06 15:11:18,374 [DEBUG]   Filtered (not relevant): Country icon’s kids are going after his estate: ‘Holding him accountable’
+2026-09-06 15:11:18,374 [DEBUG]   Filtered (not relevant): Legendary rock band cancels remainder of 2026 shows. Here’s what we know
+2026-09-06 15:11:18,375 [DEBUG]   Filtered (not relevant): NYS Fair forecast for Day 12: Sunshine and mid-70s on Sunday
+2026-09-06 15:11:18,375 [DEBUG]   Filtered (not relevant): Rock and Roll Hall of Famer retiring due to heart condition: ‘Really have no opt
+2026-09-06 15:11:18,376 [DEBUG]   Filtered (not relevant): Dear Abby: Will walking my granddaughter down the aisle destroy my relationship 
+2026-09-06 15:11:18,376 [DEBUG]   Filtered (not relevant): 4 major automakers combine to recall nearly 500,000 vehicles — here’s what you n
+2026-09-06 15:11:18,377 [DEBUG]   Filtered (not relevant): Why Labor Day travel is more expensive than ever
+2026-09-06 15:11:18,377 [DEBUG]   Filtered (not relevant): Today’s horoscope: Is today your birthday? What you give you will get back twofo
+2026-09-06 15:11:18,378 [DEBUG]   Filtered (not relevant): How to watch Formula 1 Pirelli Gran Premio D’Italia 2026 for free today
+2026-09-06 15:11:18,378 [DEBUG]   Filtered (not relevant): Nearly half of Americans don’t expect to retire comfortably
+2026-09-06 15:11:18,378 [DEBUG]   Filtered (not relevant): R&B singer facing first-degree murder charge after 4-year-old nephew’s death
+2026-09-06 15:11:18,379 [DEBUG]   Filtered (not relevant): CNY Inspirations: The head of the year
+2026-09-06 15:11:18,379 [DEBUG]   Filtered (not relevant): FBI alert: Changing your password won’t stop criminals from getting into your em
+2026-09-06 15:11:18,380 [DEBUG]   Filtered (not relevant): Stevie Nicks’ fans sending prayers after heartbreaking announcement. Here’s what
+2026-09-06 15:11:18,380 [DEBUG]   Filtered (not relevant): Asking Eric: Host feels she's competing with guest's iPad, and losing badly
+2026-09-06 15:11:18,380 [DEBUG]   Filtered (not relevant): Country music singer died after being rushed to hospital: ‘I didn’t want to come
+2026-09-06 15:11:18,381 [DEBUG]   Filtered (not relevant): Did you shop at Kohl's online? You may want to check your bank statement
+2026-09-06 15:11:18,381 [DEBUG]   Filtered (not relevant): Country music star continues touring at 57 despite incurable disease: ‘Won the b
+2026-09-06 15:11:18,381 [DEBUG]   Filtered (not relevant): Mic catches Kiffin’s ‘imagine if we had pro players’ comment
+2026-09-06 15:11:18,382 [DEBUG]   Filtered (not relevant): Nearly 98,000 attend Day 11 of New York State Fair
+2026-09-06 15:11:18,382 [DEBUG]   Filtered (not relevant): Powerball: See the winning numbers in Saturday’s $173 million drawing
+2026-09-06 15:11:18,383 [DEBUG]   Filtered (not relevant): New $50 Polymarket promo code “CUSE” extended to UFC Fight Night live odds
+2026-09-06 15:11:18,383 [DEBUG]   Filtered (not relevant): Polymarket updates $50 code “CUSE” for USC vs. Fresno State live odds
+2026-09-06 15:11:18,385 [INFO] News Scanner Run — 2026-09-06 15:11
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • Two hospitalized after stabbing in Syracuse; both expected to survive
+  • Syracuse University Chancellor Haynie: ‘We will author our own future’
+  • Syracuse University will weather this storm, too (Guest Opinion by Grant Reeher)
+

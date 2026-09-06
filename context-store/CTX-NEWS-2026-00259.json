@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00259",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/09/two-hospitalized-after-stabbing-in-syracuse-both-expected-to-survive.html",
+  "publication_date": "2026-09-06",
+  "capture_date": "2026-09-06T15:11:08Z",
+  "title": "Two hospitalized after stabbing in Syracuse; both expected to survive",
+  "summary": "Two individuals (a 15-year-old boy and 41-year-old man) were stabbed on Tioga Street in Syracuse on September 6, 2026 at approximately 8:27 p.m. Both victims are hospitalized and expected to survive. This incident represents a violent crime requiring police response and potential follow-up investigation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "emergency-services",
+    "public-safety-commission"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Matthew Malinowski",
+      "type": "person",
+      "canonical_id": "PERSON-MATTHEW-MALINOWSKI"
+    },
+    {
+      "name": "Darian Stevenson",
+      "type": "person",
+      "canonical_id": "PERSON-DARIAN-STEVENSON"
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is incident reporting with minimal innovation/policy implications for CIO",
+    "No victims or suspects identified by name in article",
+    "Location (300 block of Tioga Street) could be cross-referenced with GIS systems for crime pattern analysis",
+    "Consider flagging if part of trending violent crime pattern in specific neighborhoods",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
