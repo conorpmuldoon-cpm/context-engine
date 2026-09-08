@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-NEWS-2026-00262",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/09/housing-proposal-in-clay-would-add-450-plus-apartments-along-with-offices-and-retail-near-micron.html",
+  "publication_date": "2026-09-08",
+  "capture_date": "2026-09-08T16:19:03Z",
+  "title": "Housing proposal in Clay would add 450-plus apartments, along with offices and retail, near Micron",
+  "summary": "A mixed-use development proposal near Micron Technology in Clay, NY would introduce 450+ apartments along with office and retail space. This represents significant housing and economic development activity in the region that may impact Syracuse's broader housing and workforce strategies, particularly given Micron's role as a major regional employer and anchor tenant.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "economic-development",
+    "land-use",
+    "business-community",
+    "announcement"
+  ],
+  "department_refs": [
+    "Planning & Development",
+    "Economic Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Clay, NY",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Elizabeth Doran",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Housing development near major regional employer (Micron) signals alignment with regional economic development and housing supply goals; may indicate coordinated growth strategy in broader Syracuse metro area.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article location is Clay (town), not Syracuse proper—relevant for intergovernmental coordination",
+    "No direct Syracuse city involvement mentioned; CIO relevance is indirect via regional economic context and potential digital infrastructure/smart development considerations",
+    "No budget, permits, or implementation timeline details provided in excerpt",
+    "Micron's presence suggests potential workforce development and digital infrastructure implications worth monitoring",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
