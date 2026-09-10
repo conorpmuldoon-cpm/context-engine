@@ -1,0 +1,79 @@
+2026-09-10 16:05:15,491 [INFO] ============================================================
+2026-09-10 16:05:15,491 [INFO] News Scanner starting
+2026-09-10 16:05:15,493 [INFO] Fetching: Syracuse.com Politics
+2026-09-10 16:05:15,998 [INFO]   50 new articles from Syracuse.com Politics
+2026-09-10 16:05:15,998 [INFO] Fetching: Syracuse.com Government
+2026-09-10 16:05:16,414 [INFO]   0 new articles from Syracuse.com Government
+2026-09-10 16:05:16,414 [INFO] Fetching: Syracuse.com Local
+2026-09-10 16:05:16,700 [INFO]   0 new articles from Syracuse.com Local
+2026-09-10 16:05:16,701 [INFO] Fetching: Syracuse.com Main
+2026-09-10 16:05:17,018 [INFO]   0 new articles from Syracuse.com Main
+2026-09-10 16:05:17,018 [INFO] Total unique articles across all feeds: 50
+2026-09-10 16:05:17,018 [INFO] New articles (not previously processed): 50
+2026-09-10 16:05:17,080 [DEBUG]   Filtered (not relevant): Savannah Guthrie makes rare comment about missing mom during live broadcast
+2026-09-10 16:05:17,080 [DEBUG]   Filtered (not relevant): Bills’ Spencer Brown on facing Texans again: ‘For me personally, it can’t get mu
+2026-09-10 16:05:17,081 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 media day boys volleyball wrap-up: Season outlooks, photos a
+2026-09-10 16:05:17,081 [DEBUG]   Filtered (not relevant): SNAP waivers rescinded in 5 states after court ruling, sparks reform for other s
+2026-09-10 16:05:17,081 [DEBUG]   Filtered (not relevant): Popular sports bar chain plots major expansion after bankruptcy split
+2026-09-10 16:05:17,082 [DEBUG]   Filtered (not relevant): Star NFL rookie Fernando Mendoza says he uses AI for meal planning
+2026-09-10 16:05:17,082 [DEBUG]   Filtered (not relevant): Where to get Mets-Yankees Subway Series tickets as low as $53
+2026-09-10 16:05:17,083 [DEBUG]   Filtered (not relevant): State governor loses primary for first time in nearly a decade
+2026-09-10 16:05:17,083 [INFO]   Relevant: Today’s obituary: Terrence Hammill, 85, was a two-term mayor of Oswego
+2026-09-10 16:05:17,083 [DEBUG]     → Keywords: mayor
+2026-09-10 16:05:21,291 [INFO]     Saved: CTX-NEWS-2026-00263 → CTX-NEWS-2026-00263.json
+2026-09-10 16:05:21,291 [DEBUG]   Filtered (not relevant): Stephen A. on Drake Maye: ‘All of it was on him last night’
+2026-09-10 16:05:21,292 [DEBUG]   Filtered (not relevant): Denny’s closes 5 spots in Minnesota, Wisconsin
+2026-09-10 16:05:21,292 [DEBUG]   Filtered (not relevant): $500 Obamacare refunds coming to 1 million Americans in 30 states: What you need
+2026-09-10 16:05:21,293 [DEBUG]   Filtered (not relevant): Former Eagles star QB, ESPN analyst announces major career news
+2026-09-10 16:05:21,293 [DEBUG]   Filtered (not relevant): Flooded street detour in Michigan sparks viral dispute between homeowner and dri
+2026-09-10 16:05:21,293 [DEBUG]   Filtered (not relevant): Patriots may be without A.J. Brown when they face the Bills in Week 4
+2026-09-10 16:05:21,294 [DEBUG]   Filtered (not relevant): Didn’t get Ye tickets for Texas and Arizona shows? Here’s where you can still bu
+2026-09-10 16:05:21,295 [DEBUG]   Filtered (not relevant): Dear Annie: How do I avoid favoritism when dividing what's left of my estate?
+2026-09-10 16:05:21,295 [DEBUG]   Filtered (not relevant): Rock legend undergoes brain surgery after frightening health decline
+2026-09-10 16:05:21,295 [DEBUG]   Filtered (not relevant): Hit singer accused of plagiarizing a 5th song: ‘One time is coincidence, but...’
+2026-09-10 16:05:21,296 [DEBUG]   Filtered (not relevant): Fast-paced ‘Jersey Boys’ satisfies even if you’re too young to know the songs (r
+2026-09-10 16:05:21,296 [DEBUG]   Filtered (not relevant): How to watch Fenerbahce vs. Roma today: Champions League FREE live stream
+2026-09-10 16:05:21,297 [DEBUG]   Filtered (not relevant): Nordstrom Rack is having a huge sale on iconic Hunter pieces just in time for fa
+2026-09-10 16:05:21,298 [DEBUG]   Filtered (not relevant): Illegal online casinos cost their operator $8 million in NY
+2026-09-10 16:05:21,298 [DEBUG]   Filtered (not relevant): Harry Styles faces backlash over artwork days before 9/11 anniversary
+2026-09-10 16:05:21,298 [DEBUG]   Filtered (not relevant): Three finalists named for Syracuse’s potential Columbus Circle redesign
+2026-09-10 16:05:21,299 [DEBUG]   Filtered (not relevant): Steelers leader sounds off on controversial NFL contract rule
+2026-09-10 16:05:21,299 [DEBUG]   Filtered (not relevant): Over 984 flights delayed, 111 canceled amid widespread U.S. travel disruptions
+2026-09-10 16:05:21,300 [DEBUG]   Filtered (not relevant): Traffic stop on Thruway in Upstate NY turns into drug bust
+2026-09-10 16:05:21,300 [DEBUG]   Filtered (not relevant): How to secure Stevie Wonder tickets today for ‘Songs in the Key of Life’ 50th an
+2026-09-10 16:05:21,301 [DEBUG]   Filtered (not relevant): Lacy’s List: 10 Section III football stars to watch in Week 2
+2026-09-10 16:05:21,301 [DEBUG]   Filtered (not relevant): Farewell to the healthy tree that Syracuse plans to cut down (Your Letters)
+2026-09-10 16:05:21,301 [DEBUG]   Filtered (not relevant): New stimulus coming? Trump pledges $5,000 payments, who would qualify?
+2026-09-10 16:05:21,302 [DEBUG]   Filtered (not relevant): Polymarket upgrades $50 promo code “CUSE” for 49ers vs Rams in Melbourne
+2026-09-10 16:05:21,302 [DEBUG]   Filtered (not relevant): Rock star says he killed someone during Vietnam War tour
+2026-09-10 16:05:21,303 [DEBUG]   Filtered (not relevant): Arrest at NY juvenile offender site reveals alleged sexual misconduct
+2026-09-10 16:05:21,303 [DEBUG]   Filtered (not relevant): Section III girls soccer 2026: Team previews, must-watch games for Class B, C, D
+2026-09-10 16:05:21,304 [INFO]   Relevant: AG’s office releases videos of Syracuse police encounter with man who later died
+2026-09-10 16:05:21,304 [DEBUG]     → Departments: Syracuse Police Department
+2026-09-10 16:05:21,304 [DEBUG]     → Keywords: syracuse police
+2026-09-10 16:05:25,862 [INFO]     Saved: CTX-NEWS-2026-00264 → CTX-NEWS-2026-00264.json
+2026-09-10 16:05:25,863 [DEBUG]   Filtered (not relevant): L.L.Bean drops new Bean Boot ahead of fall - Cozy, unique and ‘weather-ready’
+2026-09-10 16:05:25,863 [DEBUG]   Filtered (not relevant): Wholesale prices moved higher last month in sign of stubborn inflation
+2026-09-10 16:05:25,864 [DEBUG]   Filtered (not relevant): 4-time Stanley Cup champion, Canadiens legend Andre Pronovost dies at 90
+2026-09-10 16:05:25,864 [DEBUG]   Filtered (not relevant): ‘90s rock band announces lineup change for farewell tour after member’s death
+2026-09-10 16:05:25,864 [DEBUG]   Filtered (not relevant): Why one defender thinks Sunday’s game could mean more than Week 1
+2026-09-10 16:05:25,865 [DEBUG]   Filtered (not relevant): Experts adjust Bills vs. Texans Week 1 prediction following final roster updates
+2026-09-10 16:05:25,866 [DEBUG]   Filtered (not relevant): These 13 companies might not exist by 2027 — is one of your favorites on the lis
+2026-09-10 16:05:25,866 [DEBUG]   Filtered (not relevant): Trump pledges to give every US adult $5,000 if GOP wins midterms
+2026-09-10 16:05:25,867 [DEBUG]   Filtered (not relevant): Miss Manners: When I’m invited out to eat, should I still offer to pay?
+2026-09-10 16:05:25,867 [DEBUG]   Filtered (not relevant): Live scoreboard, recaps for Thursday’s high school football games (Week 2)
+2026-09-10 16:05:25,868 [DEBUG]   Filtered (not relevant): Mysterious activity at Iranian mountain site draws new scrutiny
+2026-09-10 16:05:25,869 [DEBUG]   Filtered (not relevant): Showdown in September set for Can-Am Speedway
+2026-09-10 16:05:25,869 [DEBUG]   Filtered (not relevant): Section III high school cumulative football stats leaders as of Sept. 9
+2026-09-10 16:05:25,871 [INFO] News Scanner Run — 2026-09-10 16:05
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Today’s obituary: Terrence Hammill, 85, was a two-term mayor of Oswego
+  • AG’s office releases videos of Syracuse police encounter with man who later died
+

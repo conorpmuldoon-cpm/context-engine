@@ -1,0 +1,53 @@
+{
+  "record_id": "CTX-NEWS-2026-00263",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/09/todays-obituary-terrence-hammill-85-was-a-two-term-mayor-of-oswego.html",
+  "publication_date": "2026-09-10",
+  "capture_date": "2026-09-10T16:05:21Z",
+  "title": "Today’s obituary: Terrence Hammill, 85, was a two-term mayor of Oswego",
+  "summary": "Obituary of Terrence Hammill, 85-year-old former two-term mayor of Oswego. Limited direct relevance to Syracuse city operations, though may be of interest for regional intergovernmental context and historical institutional knowledge.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "mayor",
+    "intergovernmental",
+    "leadership-change"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Terrence Michael Hammill",
+      "type": "person",
+      "canonical_id": "PERSON-TERRENCE-HAMMILL"
+    },
+    {
+      "name": "Oswego",
+      "type": "organization",
+      "canonical_id": "ORG-OSWEGO"
+    },
+    {
+      "name": "Johnathan Croyle",
+      "type": "person",
+      "canonical_id": "PERSON-JOHNATHAN-CROYLE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is an obituary of external municipal leader (Oswego mayor), not Syracuse city governance",
+    "Minimal content provided in excerpt; full article content not analyzed beyond title and metadata",
+    "No direct operational impact on Syracuse CIO office identified",
+    "May be relevant for regional government network awareness only",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

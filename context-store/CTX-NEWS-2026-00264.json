@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00264",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/09/ags-office-releases-videos-of-syracuse-police-encounter-with-man-who-later-died.html",
+  "publication_date": "2026-09-10",
+  "capture_date": "2026-09-10T16:05:25Z",
+  "title": "AG’s office releases videos of Syracuse police encounter with man who later died",
+  "summary": "The New York State Attorney General's Office released police body camera videos documenting a Syracuse Police Department encounter with a man who subsequently died in 2023. This transparency action relates to ongoing investigation and public accountability regarding the incident. The CIO should monitor for potential records management, evidence handling systems, and public records technology implications.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "investigation",
+    "transparency",
+    "state-agency",
+    "trending",
+    "complaint"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "New York State Attorney General's Office",
+      "type": "organization",
+      "canonical_id": "ORG-NYAG"
+    },
+    {
+      "name": "Greta Stuckey",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "State-level review and video release of police encounter resulting in death signals external oversight and potential public accountability measures. May indicate prior complaint or investigation triggers.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Deceased individual not named in article excerpt; full identity unclear",
+    "Incident occurred in 2023 but video release in 2026 suggests multi-year investigation timeline",
+    "Potential tech systems relevant: body camera management, evidence storage, public records request fulfillment",
+    "Syracuse.com source suggests local media coverage may escalate; monitor for additional reporting",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
