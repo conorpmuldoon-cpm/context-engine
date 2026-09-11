@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00265",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/syracuse-university/2026/09/syracuse-university-to-hold-2-day-celebration-to-inaugurate-chancellor-haynie.html",
+  "publication_date": "2026-09-11",
+  "capture_date": "2026-09-11T16:08:52Z",
+  "title": "Syracuse University to hold 2-day celebration to inaugurate Chancellor Haynie",
+  "summary": "Syracuse University is hosting a 2-day inaugural celebration for Chancellor Haynie. While this is a higher education institution event, it may have relevance to City of Syracuse's economic development and community engagement initiatives given the university's significant role in the local ecosystem.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "leadership-change",
+    "business-community"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIV"
+    },
+    {
+      "name": "Chancellor Haynie",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Emalyn Muzzy",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Leadership transition at major local institution may signal continuity of town-gown relationships and economic partnership opportunities.",
+    "confidence": "low"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily institutional news from Syracuse University; limited direct CIO relevance unless framed as community stakeholder engagement",
+    "Chancellor Haynie's full name not provided in excerpt",
+    "No city services, IT systems, or municipal operations mentioned",
+    "Consider for business-community relationship tracking but not core municipal operations",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

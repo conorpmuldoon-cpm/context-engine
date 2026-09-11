@@ -1,0 +1,53 @@
+{
+  "record_id": "CTX-NEWS-2026-00266",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/09/todays-obituary-robert-hayes-was-a-police-officer-coach-and-began-wild-city-st-patricks-day-tradition.html",
+  "publication_date": "2026-09-11",
+  "capture_date": "2026-09-11T16:08:55Z",
+  "title": "Today’s obituary: Robert Hayes was a police officer, coach and began a St. Patrick’s Day tradition",
+  "summary": "Obituary of Robert 'Hector' Hayes, a retired Syracuse police officer and high school basketball coach who initiated one of the city's notable St. Patrick's Day traditions. The article documents community cultural history and civic engagement through public safety and youth mentorship roles.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "leadership-change",
+    "community-community",
+    "historic-preservation"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Robert 'Hector' Hayes",
+      "type": "person",
+      "canonical_id": "PERSON-ROBERT-HAYES"
+    },
+    {
+      "name": "Johnathan Croyle",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is obituary/commemorative content rather than operational city government news",
+    "Limited policy or administrative relevance to CIO function",
+    "Cultural history documentation may support historic-preservation or community-engagement initiatives",
+    "No specific innovation, technology, or digital services implications detected",
+    "Date anomaly: published 2026-09-11 (future date) - verify accuracy",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'community-community' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,48 @@
+{
+  "record_id": "CTX-NEWS-2026-00267",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/living/2026/09/salt-city-activity-fair-debuts-in-syracuse-to-combat-adult-loneliness.html",
+  "publication_date": "2026-09-11",
+  "capture_date": "2026-09-11T16:08:59Z",
+  "title": "Salt City Activity Fair debuts in Syracuse to combat adult loneliness",
+  "summary": "State Sen. Rachel May is launching the Salt City Activity Fair on September 20, 2026, a community initiative designed to address adult loneliness by connecting residents with social activities and hobby groups. This represents a constituent-focused wellness and community engagement initiative relevant to the CIO's broader innovation and quality-of-life objectives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "initiative-launch",
+    "residents",
+    "equity",
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Rachel May",
+      "type": "person",
+      "canonical_id": "PERSON-RACHEL-MAY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "State legislator championing a social wellness initiative addressing documented public health concern (adult loneliness); may indicate alignment with innovation-focused, constituent-centered governance.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article authored by local journalist; no municipal budget or departmental resources mentioned",
+    "Event hosted by state-level elected official, not city administration",
+    "No direct CIO/digital services angle identified, but may reflect emerging city priorities around social isolation and community resilience",
+    "Could relate to future municipal digital platforms for activity discovery/community connection",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

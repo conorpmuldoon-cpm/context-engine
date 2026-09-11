@@ -1,0 +1,83 @@
+2026-09-11 16:08:47,020 [INFO] ============================================================
+2026-09-11 16:08:47,021 [INFO] News Scanner starting
+2026-09-11 16:08:47,022 [INFO] Fetching: Syracuse.com Politics
+2026-09-11 16:08:47,376 [INFO]   50 new articles from Syracuse.com Politics
+2026-09-11 16:08:47,376 [INFO] Fetching: Syracuse.com Government
+2026-09-11 16:08:47,516 [INFO]   0 new articles from Syracuse.com Government
+2026-09-11 16:08:47,516 [INFO] Fetching: Syracuse.com Local
+2026-09-11 16:08:47,653 [INFO]   0 new articles from Syracuse.com Local
+2026-09-11 16:08:47,653 [INFO] Fetching: Syracuse.com Main
+2026-09-11 16:08:47,790 [INFO]   0 new articles from Syracuse.com Main
+2026-09-11 16:08:47,791 [INFO] Total unique articles across all feeds: 50
+2026-09-11 16:08:47,791 [INFO] New articles (not previously processed): 50
+2026-09-11 16:08:47,838 [INFO]   Relevant: Syracuse University to hold 2-day celebration to inaugurate Chancellor Haynie
+2026-09-11 16:08:47,838 [DEBUG]     → Entities: Syracuse University
+2026-09-11 16:08:52,175 [INFO]     Saved: CTX-NEWS-2026-00265 → CTX-NEWS-2026-00265.json
+2026-09-11 16:08:52,175 [DEBUG]   Filtered (not relevant): N.J. woman accused of hiring hitman to kill police officer ex-boyfriend and his 
+2026-09-11 16:08:52,176 [DEBUG]   Filtered (not relevant): Wayfair’s best-selling portable electric grill is 42% off during the Warehouse C
+2026-09-11 16:08:52,176 [DEBUG]   Filtered (not relevant): Fans are 'gutted' that Netflix canceled this romantic drama series after just 2 
+2026-09-11 16:08:52,176 [DEBUG]   Filtered (not relevant): Actress from ‘The Munsters,’ ‘Andy Griffith Show’ dies at 88
+2026-09-11 16:08:52,177 [DEBUG]   Filtered (not relevant): Check your change jar: a 1969 penny could be worth $600,000
+2026-09-11 16:08:52,177 [DEBUG]   Filtered (not relevant): Urgent safety recall issued for toys sold on Amazon over lead poisoning risks: R
+2026-09-11 16:08:52,177 [DEBUG]   Filtered (not relevant): Syracuse broadcasting alum returns to work 36 days after job loss sparked severe
+2026-09-11 16:08:52,178 [DEBUG]   Filtered (not relevant): Beloved R&B singer grieving unexpected death of 3-month-old son
+2026-09-11 16:08:52,178 [DEBUG]   Filtered (not relevant): How to get fast-food chain’s new nugget-sized fashion bag with sauce-themed char
+2026-09-11 16:08:52,178 [DEBUG]   Filtered (not relevant): You’ll still be able to get this popular whisky despite the new ban
+2026-09-11 16:08:52,179 [DEBUG]   Filtered (not relevant): Iconic TV judge stepping away from bench after 30 years
+2026-09-11 16:08:52,179 [DEBUG]   Filtered (not relevant): Dear Annie: My childhood blanky still helps me sleep. Is that so unusual?
+2026-09-11 16:08:52,180 [INFO]   Relevant: Today’s obituary: Robert Hayes was a police officer, coach and began a St. Patri
+2026-09-11 16:08:52,180 [DEBUG]     → Departments: Syracuse Police Department
+2026-09-11 16:08:52,180 [DEBUG]     → Keywords: syracuse police
+2026-09-11 16:08:55,926 [WARNING]     Tag issue: Unknown tag 'community-community' not in taxonomy
+2026-09-11 16:08:55,938 [INFO]     Saved: CTX-NEWS-2026-00266 → CTX-NEWS-2026-00266.json
+2026-09-11 16:08:55,939 [DEBUG]   Filtered (not relevant): FBI warning: Federal bulletin says terrorists may capitalize on 9/11 anniversary
+2026-09-11 16:08:55,939 [DEBUG]   Filtered (not relevant): Restaurant inspections: SU catering fails; 53 pass
+2026-09-11 16:08:55,939 [DEBUG]   Filtered (not relevant): Amazon issues recall of 180K light-up toys over chemical burn, ingestion risks
+2026-09-11 16:08:55,940 [DEBUG]   Filtered (not relevant): Over 866 flights delayed, 89 canceled amid widespread U.S. travel disruptions
+2026-09-11 16:08:55,940 [DEBUG]   Filtered (not relevant): Best Crocs work shoes to shop for if you’re on your feet all day: What shoppers 
+2026-09-11 16:08:55,941 [DEBUG]   Filtered (not relevant): College football expert predicts Dabo Swinney, Clemson will part ways
+2026-09-11 16:08:55,941 [DEBUG]   Filtered (not relevant): Anthropic says it blocked misuse of AI that could have supported bio weapons
+2026-09-11 16:08:55,942 [DEBUG]   Filtered (not relevant): US inflation accelerated last month as gas prices spiked
+2026-09-11 16:08:55,942 [DEBUG]   Filtered (not relevant): Upstate NY man gets prison for uploading child pornography to Facebook
+2026-09-11 16:08:55,943 [DEBUG]   Filtered (not relevant): Texas football legend, ex-Browns, Patriots lineman dies at 78
+2026-09-11 16:08:55,943 [DEBUG]   Filtered (not relevant): Polymarket enhances $50 promo code “CUSE” for Bills vs Texans and NFL Week 1 Sun
+2026-09-11 16:08:55,944 [DEBUG]   Filtered (not relevant): New Balance has new markdowns on fan-favorite styles - Our top picks
+2026-09-11 16:08:55,944 [DEBUG]   Filtered (not relevant): Subway Series prediction: Yankees vs. Mets on Polymarket as Judge, Rice headline
+2026-09-11 16:08:55,945 [DEBUG]   Filtered (not relevant): Redhouse hosts world premiere of puppet play ‘Hurt Monster’ to help kids deal wi
+2026-09-11 16:08:55,945 [DEBUG]   Filtered (not relevant): Remembering 9/11, when ‘the dying left lessons for living’ (Editorial Board Opin
+2026-09-11 16:08:55,946 [DEBUG]   Filtered (not relevant): Live scoreboard, recaps for Friday’s high school football games (Week 2)
+2026-09-11 16:08:55,946 [DEBUG]   Filtered (not relevant): Miss Manners: What should I teach my children about basic manners?
+2026-09-11 16:08:55,946 [DEBUG]   Filtered (not relevant): Two teens admit they fatally shot man near Syracuse apartment complex
+2026-09-11 16:08:55,947 [DEBUG]   Filtered (not relevant): Syracuse.com’s HS football Game of the Week is streaming live tonight: Dolgevill
+2026-09-11 16:08:55,947 [DEBUG]   Filtered (not relevant): ‘Come From Away’ brings story of post-9/11 connection, humanity to Syracuse Stag
+2026-09-11 16:08:55,948 [DEBUG]   Filtered (not relevant): Syracuse Sandwiches: I skipped this bar’s famous chicken tenders for this
+2026-09-11 16:08:55,948 [DEBUG]   Filtered (not relevant): Urban Meyer breaks down Michigan QB situation after Bryce Underwood’s struggles
+2026-09-11 16:08:55,949 [DEBUG]   Filtered (not relevant): Country music stars who nearly died in 2026: These singers dodged death
+2026-09-11 16:08:55,949 [DEBUG]   Filtered (not relevant): Central NY town honors native who made last call from hijacked Flight 93 on 9/11
+2026-09-11 16:08:55,949 [DEBUG]   Filtered (not relevant): What does 9/11 mean to those who were born after 2001?
+2026-09-11 16:08:55,950 [DEBUG]   Filtered (not relevant): Country music star on marriage to ex-husband: ‘Blew up my life to get out of it’
+2026-09-11 16:08:55,950 [DEBUG]   Filtered (not relevant): TSA brings back pre-9/11 tradition for travelers at some US airports
+2026-09-11 16:08:55,950 [DEBUG]   Filtered (not relevant): Syracuse boasts the largest offensive line in college football (9 things to know
+2026-09-11 16:08:55,951 [INFO]   Relevant: Salt City Activity Fair debuts in Syracuse to combat adult loneliness
+2026-09-11 16:08:55,951 [DEBUG]     → Entities: Rachel May
+2026-09-11 16:09:00,005 [INFO]     Saved: CTX-NEWS-2026-00267 → CTX-NEWS-2026-00267.json
+2026-09-11 16:09:00,006 [DEBUG]   Filtered (not relevant): A kidney stone I ignored for 5 years is now causing urinary infections that anti
+2026-09-11 16:09:00,006 [DEBUG]   Filtered (not relevant): Permanent daylight saving time: These states would benefit the most
+2026-09-11 16:09:00,007 [DEBUG]   Filtered (not relevant): The last generation of eyewitnesses to 9/11: See their stories
+2026-09-11 16:09:00,007 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for Sept. 11
+2026-09-11 16:09:00,007 [DEBUG]   Filtered (not relevant): Pop music legend dead at 85. Here’s what we know
+2026-09-11 16:09:00,007 [DEBUG]   Filtered (not relevant): Legendary rock singer promises 2027 tour after health issues: ‘I ain’t done’
+2026-09-11 16:09:00,008 [DEBUG]   Filtered (not relevant): Iconic rock band cancels all of its shows and some fans say it should retire. He
+2026-09-11 16:09:00,009 [INFO] News Scanner Run — 2026-09-11 16:09
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • Syracuse University to hold 2-day celebration to inaugurate Chancellor Haynie
+  • Today’s obituary: Robert Hayes was a police officer, coach and began a St. Patri
+  • Salt City Activity Fair debuts in Syracuse to combat adult loneliness
+
