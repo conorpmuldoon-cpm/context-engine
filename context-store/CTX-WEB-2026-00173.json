@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-WEB-2026-00173",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-09-11-Infrastructure-News-215-PM",
+  "publication_date": "2026-09-11",
+  "capture_date": "2026-09-12T15:30:29Z",
+  "title": "Department of Engineering Announces Northbound Lane Closure",
+  "summary": "The City of Syracuse Department of Engineering announced a northbound lane closure on East Brighton Avenue between Ainsley Drive and Thurber Street beginning September 14, 2026, as part of the East Brighton Avenue reconstruction project. The closure is expected to last through October 31, 2026, with southbound traffic remaining open and northbound traffic detoured via Ainsley Drive, Jamesville Avenue, and Thurber Street.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "roads-bridges",
+    "transportation",
+    "construction-staging",
+    "announcement"
+  ],
+  "department_refs": [
+    "Department of Engineering"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Office of Communications",
+      "type": "organization",
+      "canonical_id": "ORG-COMMUNICATIONS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field marked as 'Unknown' in source metadata",
+    "No dollar amounts or budget implications stated",
+    "Project completion contingent on weather conditions",
+    "Standard traffic infrastructure announcement with public notification protocol",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
