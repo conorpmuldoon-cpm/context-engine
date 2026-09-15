@@ -1,0 +1,78 @@
+{
+  "record_id": "CTX-WEB-2026-00174",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-09-15-Mayors-Office-News-10AM",
+  "publication_date": "2026-09-15",
+  "capture_date": "2026-09-15T16:57:49Z",
+  "title": "City of Syracuse to Host Job Fair on September 24",
+  "summary": "City of Syracuse is hosting a job fair on September 24, 2026, to fill 50+ open positions across multiple departments, with particular emphasis on recruiting Certified Driver's License (CDL) holders for Water and Public Works roles. The event will be held at CNY Works from 9 a.m. to 1 p.m., featuring on-site applications and resume review by department representatives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "hiring",
+    "workforce-development",
+    "announcement",
+    "civil-service",
+    "water",
+    "sewer",
+    "snow-removal",
+    "fleet",
+    "recruitment"
+  ],
+  "department_refs": [
+    "Department of Water",
+    "Department of Public Works",
+    "Department of Neighborhood and Business Development",
+    "Law Department",
+    "Department of Human Resources",
+    "Department of Finance",
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Robert Brandt",
+      "type": "person",
+      "canonical_id": "PERSON-ROBERT-BRANDT"
+    },
+    {
+      "name": "Ann Fordock",
+      "type": "person",
+      "canonical_id": "PERSON-ANN-FORDOCK"
+    },
+    {
+      "name": "CNY Works",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Leadership prioritizes workforce recruitment and retention for critical infrastructure maintenance (water infrastructure updates, winter preparedness). Commissioner messaging emphasizes operational necessity and organizational capacity.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown; quote attributions confirm participation of Water Commissioner and Public Works Deputy Commissioner",
+    "50+ positions across 8+ departments indicates broad hiring push",
+    "CDL emphasis suggests fleet/operations staffing constraints",
+    "Job portal reference (syr.gov/jobs) provides digital integration point",
+    "No budget figures or specific salary ranges disclosed in release",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'recruitment' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

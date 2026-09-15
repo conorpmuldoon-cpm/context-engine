@@ -1,0 +1,25 @@
+2026-09-15 16:57:26,657 [INFO] ============================================================
+2026-09-15 16:57:26,658 [INFO] Website Monitor starting
+2026-09-15 16:57:27,433 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-09-15 16:57:27,433 [INFO]   Navigating to https://www.syr.gov/News
+2026-09-15 16:57:32,388 [INFO]   Found 10 article links in News
+2026-09-15 16:57:37,389 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-09-15-Mayors-Office-News-10AM
+2026-09-15 16:57:49,605 [WARNING]     Tag issue: Unknown tag 'recruitment' not in taxonomy
+2026-09-15 16:57:49,617 [INFO]     Saved: CTX-WEB-2026-00174 → CTX-WEB-2026-00174.json
+2026-09-15 16:57:49,617 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-09-15 16:57:49,617 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-09-15 16:57:52,832 [INFO]   Found 0 article links in Announcements
+2026-09-15 16:57:57,832 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-09-15 16:57:57,833 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-09-15 16:58:01,138 [INFO]   Found 0 article links in Public Notices
+2026-09-15 16:58:06,178 [INFO] Website Monitor Run — 2026-09-15 16:58
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • City of Syracuse to Host Job Fair on September 24
+
