@@ -1,0 +1,117 @@
+2026-09-15 17:12:44,398 [INFO] === Auto Council Pipeline  ===
+2026-09-15 17:12:44,398 [INFO] Scanning for new council agendas...
+2026-09-15 17:12:44,398 [INFO] Running: scan_agendas
+2026-09-15 17:12:44,398 [DEBUG]   Command: /opt/hostedtoolcache/Python/3.12.14/x64/bin/python /home/runner/work/context-engine/context-engine/scripts/scan_agendas.py
+2026-09-15 17:14:36,618 [INFO] Checking for new council meeting videos...
+2026-09-15 17:14:37,516 [INFO] Found 9 new video(s):
+2026-09-15 17:14:37,516 [INFO]   QhS26m8O6GY — Common Council Regular Meeting 09-14-26 (37 min)
+2026-09-15 17:14:37,516 [INFO]   sviZDBmtrc4 — Common Council Regular Meeting 09-14-26 (51 min)
+2026-09-15 17:14:37,516 [INFO]   bUi68MMfw1A — Charter, Rules, Procedure, RFP & Intergovernmental Service Consolidation Committee Meeting 09-11-26 (28 min)
+2026-09-15 17:14:37,516 [INFO]   DnyXBfcwsYk — Common Council Public Hearing 09-09-26 (71 min)
+2026-09-15 17:14:37,516 [INFO]   nZzPuS5bxnE — Common Council Study Session 09-09-26 (86 min)
+2026-09-15 17:14:37,517 [INFO]   2hiR6u9Yer8 — Common Council Regular Meeting 08-24-26 (34 min)
+2026-09-15 17:14:37,517 [INFO]   oaAKfzScpdM — Common Council Study Session 08-24-26 (26 min)
+2026-09-15 17:14:37,517 [INFO]   sFGgWJYzEEc — Common Council Study Session 08-19-26 (85 min)
+2026-09-15 17:14:37,517 [INFO]   u_bzDAQv-yg — Public Safety Committee Meeting 08-11-26 (41 min)
+2026-09-15 17:14:37,517 [INFO] Limiting to 5 video(s)
+2026-09-15 17:14:37,517 [INFO] Processing: Common Council Regular Meeting 09-14-26 (QhS26m8O6GY)
+2026-09-15 17:14:37,517 [INFO] Running: pull_transcript (QhS26m8O6GY)
+2026-09-15 17:14:37,517 [DEBUG]   Command: /opt/hostedtoolcache/Python/3.12.14/x64/bin/python /home/runner/work/context-engine/context-engine/scripts/pull_transcript.py QhS26m8O6GY
+2026-09-15 17:14:38,620 [DEBUG]   Video ID: QhS26m8O6GY
+2026-09-15 17:14:38,620 [DEBUG]   Fetching transcript...
+2026-09-15 17:14:38,620 [DEBUG]   Error fetching transcript: 
+2026-09-15 17:14:38,620 [DEBUG]   Could not retrieve a transcript for the video https://www.youtube.com/watch?v=QhS26m8O6GY! This is most likely caused by:
+2026-09-15 17:14:38,620 [DEBUG]   
+2026-09-15 17:14:38,620 [DEBUG]   YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+2026-09-15 17:14:38,620 [DEBUG]   - You have done too many requests and your IP has been blocked by YouTube
+2026-09-15 17:14:38,621 [DEBUG]   - You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+2026-09-15 17:14:38,621 [DEBUG]   
+2026-09-15 17:14:38,621 [DEBUG]   There are two things you can do to work around this:
+2026-09-15 17:14:38,621 [DEBUG]   1. Use proxies to hide your IP address, as explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+2026-09-15 17:14:38,621 [DEBUG]   2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!
+2026-09-15 17:14:38,621 [DEBUG]   
+2026-09-15 17:14:38,621 [DEBUG]   If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2026-09-15 17:14:38,621 [ERROR]   pull_transcript (QhS26m8O6GY) failed (exit 1)
+2026-09-15 17:14:38,621 [INFO] Processing: Common Council Regular Meeting 09-14-26 (sviZDBmtrc4)
+2026-09-15 17:14:38,621 [INFO] Running: pull_transcript (sviZDBmtrc4)
+2026-09-15 17:14:38,621 [DEBUG]   Command: /opt/hostedtoolcache/Python/3.12.14/x64/bin/python /home/runner/work/context-engine/context-engine/scripts/pull_transcript.py sviZDBmtrc4
+2026-09-15 17:14:40,230 [DEBUG]   Video ID: sviZDBmtrc4
+2026-09-15 17:14:40,231 [DEBUG]   Fetching transcript...
+2026-09-15 17:14:40,231 [DEBUG]   Error fetching transcript: 
+2026-09-15 17:14:40,231 [DEBUG]   Could not retrieve a transcript for the video https://www.youtube.com/watch?v=sviZDBmtrc4! This is most likely caused by:
+2026-09-15 17:14:40,231 [DEBUG]   
+2026-09-15 17:14:40,231 [DEBUG]   YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+2026-09-15 17:14:40,231 [DEBUG]   - You have done too many requests and your IP has been blocked by YouTube
+2026-09-15 17:14:40,231 [DEBUG]   - You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+2026-09-15 17:14:40,231 [DEBUG]   
+2026-09-15 17:14:40,231 [DEBUG]   There are two things you can do to work around this:
+2026-09-15 17:14:40,231 [DEBUG]   1. Use proxies to hide your IP address, as explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+2026-09-15 17:14:40,231 [DEBUG]   2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!
+2026-09-15 17:14:40,231 [DEBUG]   
+2026-09-15 17:14:40,231 [DEBUG]   If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2026-09-15 17:14:40,231 [ERROR]   pull_transcript (sviZDBmtrc4) failed (exit 1)
+2026-09-15 17:14:40,231 [INFO] Processing: Charter, Rules, Procedure, RFP & Intergovernmental Service Consolidation Committee Meeting 09-11-26 (bUi68MMfw1A)
+2026-09-15 17:14:40,231 [INFO] Running: pull_transcript (bUi68MMfw1A)
+2026-09-15 17:14:40,231 [DEBUG]   Command: /opt/hostedtoolcache/Python/3.12.14/x64/bin/python /home/runner/work/context-engine/context-engine/scripts/pull_transcript.py bUi68MMfw1A
+2026-09-15 17:14:41,526 [DEBUG]   Video ID: bUi68MMfw1A
+2026-09-15 17:14:41,526 [DEBUG]   Fetching transcript...
+2026-09-15 17:14:41,526 [DEBUG]   Error fetching transcript: 
+2026-09-15 17:14:41,526 [DEBUG]   Could not retrieve a transcript for the video https://www.youtube.com/watch?v=bUi68MMfw1A! This is most likely caused by:
+2026-09-15 17:14:41,526 [DEBUG]   
+2026-09-15 17:14:41,526 [DEBUG]   YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+2026-09-15 17:14:41,526 [DEBUG]   - You have done too many requests and your IP has been blocked by YouTube
+2026-09-15 17:14:41,526 [DEBUG]   - You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+2026-09-15 17:14:41,526 [DEBUG]   
+2026-09-15 17:14:41,526 [DEBUG]   There are two things you can do to work around this:
+2026-09-15 17:14:41,526 [DEBUG]   1. Use proxies to hide your IP address, as explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+2026-09-15 17:14:41,526 [DEBUG]   2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!
+2026-09-15 17:14:41,526 [DEBUG]   
+2026-09-15 17:14:41,526 [DEBUG]   If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2026-09-15 17:14:41,526 [ERROR]   pull_transcript (bUi68MMfw1A) failed (exit 1)
+2026-09-15 17:14:41,526 [INFO] Processing: Common Council Public Hearing 09-09-26 (DnyXBfcwsYk)
+2026-09-15 17:14:41,526 [INFO] Running: pull_transcript (DnyXBfcwsYk)
+2026-09-15 17:14:41,527 [DEBUG]   Command: /opt/hostedtoolcache/Python/3.12.14/x64/bin/python /home/runner/work/context-engine/context-engine/scripts/pull_transcript.py DnyXBfcwsYk
+2026-09-15 17:14:42,572 [DEBUG]   Video ID: DnyXBfcwsYk
+2026-09-15 17:14:42,572 [DEBUG]   Fetching transcript...
+2026-09-15 17:14:42,572 [DEBUG]   Error fetching transcript: 
+2026-09-15 17:14:42,572 [DEBUG]   Could not retrieve a transcript for the video https://www.youtube.com/watch?v=DnyXBfcwsYk! This is most likely caused by:
+2026-09-15 17:14:42,572 [DEBUG]   
+2026-09-15 17:14:42,572 [DEBUG]   YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+2026-09-15 17:14:42,572 [DEBUG]   - You have done too many requests and your IP has been blocked by YouTube
+2026-09-15 17:14:42,573 [DEBUG]   - You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+2026-09-15 17:14:42,573 [DEBUG]   
+2026-09-15 17:14:42,573 [DEBUG]   There are two things you can do to work around this:
+2026-09-15 17:14:42,573 [DEBUG]   1. Use proxies to hide your IP address, as explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+2026-09-15 17:14:42,573 [DEBUG]   2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!
+2026-09-15 17:14:42,573 [DEBUG]   
+2026-09-15 17:14:42,573 [DEBUG]   If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2026-09-15 17:14:42,573 [ERROR]   pull_transcript (DnyXBfcwsYk) failed (exit 1)
+2026-09-15 17:14:42,573 [INFO] Processing: Common Council Study Session 09-09-26 (nZzPuS5bxnE)
+2026-09-15 17:14:42,573 [INFO] Running: pull_transcript (nZzPuS5bxnE)
+2026-09-15 17:14:42,573 [DEBUG]   Command: /opt/hostedtoolcache/Python/3.12.14/x64/bin/python /home/runner/work/context-engine/context-engine/scripts/pull_transcript.py nZzPuS5bxnE
+2026-09-15 17:14:43,534 [DEBUG]   Video ID: nZzPuS5bxnE
+2026-09-15 17:14:43,534 [DEBUG]   Fetching transcript...
+2026-09-15 17:14:43,534 [DEBUG]   Error fetching transcript: 
+2026-09-15 17:14:43,534 [DEBUG]   Could not retrieve a transcript for the video https://www.youtube.com/watch?v=nZzPuS5bxnE! This is most likely caused by:
+2026-09-15 17:14:43,534 [DEBUG]   
+2026-09-15 17:14:43,534 [DEBUG]   YouTube is blocking requests from your IP. This usually is due to one of the following reasons:
+2026-09-15 17:14:43,534 [DEBUG]   - You have done too many requests and your IP has been blocked by YouTube
+2026-09-15 17:14:43,534 [DEBUG]   - You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube.
+2026-09-15 17:14:43,534 [DEBUG]   
+2026-09-15 17:14:43,534 [DEBUG]   There are two things you can do to work around this:
+2026-09-15 17:14:43,534 [DEBUG]   1. Use proxies to hide your IP address, as explained in the "Working around IP bans" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception).
+2026-09-15 17:14:43,534 [DEBUG]   2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned!
+2026-09-15 17:14:43,535 [DEBUG]   
+2026-09-15 17:14:43,535 [DEBUG]   If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2026-09-15 17:14:43,535 [ERROR]   pull_transcript (nZzPuS5bxnE) failed (exit 1)
+2026-09-15 17:14:43,535 [INFO] 
+==================================================
+2026-09-15 17:14:43,535 [INFO] PIPELINE SUMMARY 
+2026-09-15 17:14:43,535 [INFO]   Videos detected: 5
+2026-09-15 17:14:43,535 [INFO]   Successful: 0
+2026-09-15 17:14:43,535 [INFO]   Failed: 5
+2026-09-15 17:14:43,535 [ERROR]   FAILED: QhS26m8O6GY — pull_transcript failed
+2026-09-15 17:14:43,535 [ERROR]   FAILED: sviZDBmtrc4 — pull_transcript failed
+2026-09-15 17:14:43,535 [ERROR]   FAILED: bUi68MMfw1A — pull_transcript failed
+2026-09-15 17:14:43,535 [ERROR]   FAILED: DnyXBfcwsYk — pull_transcript failed
+2026-09-15 17:14:43,535 [ERROR]   FAILED: nZzPuS5bxnE — pull_transcript failed
