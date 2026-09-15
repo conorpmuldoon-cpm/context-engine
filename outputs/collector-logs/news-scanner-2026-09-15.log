@@ -1,0 +1,84 @@
+2026-09-15 16:35:39,706 [INFO] ============================================================
+2026-09-15 16:35:39,706 [INFO] News Scanner starting
+2026-09-15 16:35:39,707 [INFO] Fetching: Syracuse.com Politics
+2026-09-15 16:35:39,921 [INFO]   50 new articles from Syracuse.com Politics
+2026-09-15 16:35:39,921 [INFO] Fetching: Syracuse.com Government
+2026-09-15 16:35:40,063 [INFO]   0 new articles from Syracuse.com Government
+2026-09-15 16:35:40,063 [INFO] Fetching: Syracuse.com Local
+2026-09-15 16:35:40,290 [INFO]   0 new articles from Syracuse.com Local
+2026-09-15 16:35:40,290 [INFO] Fetching: Syracuse.com Main
+2026-09-15 16:35:40,430 [INFO]   0 new articles from Syracuse.com Main
+2026-09-15 16:35:40,430 [INFO] Total unique articles across all feeds: 50
+2026-09-15 16:35:40,431 [INFO] New articles (not previously processed): 50
+2026-09-15 16:35:40,490 [DEBUG]   Filtered (not relevant): Syracuse’s first disc golf course is now open and free to all
+2026-09-15 16:35:40,491 [DEBUG]   Filtered (not relevant): How to secure Carín León Las Vegas Sphere tickets today before they sell out
+2026-09-15 16:35:40,491 [DEBUG]   Filtered (not relevant): Federal workers get $3 more for hotels, no change to meal rates
+2026-09-15 16:35:40,491 [DEBUG]   Filtered (not relevant): Ikea closes 5 U.S. stores, plans to shutter another
+2026-09-15 16:35:40,492 [DEBUG]   Filtered (not relevant): See the best-dressed stars from the 2026 Emmy Awards red carpet
+2026-09-15 16:35:40,492 [DEBUG]   Filtered (not relevant): Colorado man, 51, dies during half-Ironman competition in Wisconsin
+2026-09-15 16:35:40,493 [DEBUG]   Filtered (not relevant): They won the rivalry game. Then came a punishment nobody expected.
+2026-09-15 16:35:40,493 [DEBUG]   Filtered (not relevant): Blackstone’s Original 2-Burner Griddle is finally less than $200 in limited time
+2026-09-15 16:35:40,494 [DEBUG]   Filtered (not relevant): How to secure Styx ‘Live In Las Vegas’ 2027 tickets today before they sell out
+2026-09-15 16:35:40,494 [DEBUG]   Filtered (not relevant): Punk rock legend to play same festival as his former band: ‘Half-hearted imitati
+2026-09-15 16:35:40,495 [DEBUG]   Filtered (not relevant): Details emerge after teen dies in motorcycle crash on Upstate NY road
+2026-09-15 16:35:40,495 [DEBUG]   Filtered (not relevant): Syracuse Stage offers free tickets for first responders to 9/11-related musical
+2026-09-15 16:35:40,496 [INFO]   Relevant: NY school changes policy after student suspended for bringing coffee to class
+2026-09-15 16:35:40,496 [DEBUG]     → Keywords: public hearing
+2026-09-15 16:35:45,219 [WARNING]     Tag issue: Unknown tag 'constituent_pressure' not in taxonomy
+2026-09-15 16:35:45,238 [INFO]     Saved: CTX-NEWS-2026-00268 → CTX-NEWS-2026-00268.json
+2026-09-15 16:35:45,238 [DEBUG]   Filtered (not relevant): Famous actress honors Savannah Guthrie’s missing mother after Emmy win
+2026-09-15 16:35:45,239 [DEBUG]   Filtered (not relevant): Social Security 2027 COLA: How much will benefits go up each month? Probably not
+2026-09-15 16:35:45,239 [DEBUG]   Filtered (not relevant): Popular breakfast chain bringing back beloved item that disappeared from menus 6
+2026-09-15 16:35:45,240 [DEBUG]   Filtered (not relevant): Beloved ‘Buffy’ stars reunite 23 years after finale
+2026-09-15 16:35:45,240 [DEBUG]   Filtered (not relevant): Is Columbus Day a federal holiday? Mark your calendar for when it’s celebrated
+2026-09-15 16:35:45,240 [DEBUG]   Filtered (not relevant): Basement fire damages home in Solvay
+2026-09-15 16:35:45,240 [DEBUG]   Filtered (not relevant): Closures continue for once-popular casual dining chain
+2026-09-15 16:35:45,241 [DEBUG]   Filtered (not relevant): Call about suspicious activity leads police in Upstate NY to illegal weapons
+2026-09-15 16:35:45,241 [DEBUG]   Filtered (not relevant): Jamie Lee Curtis gets emotional remembering Rob Reiner at Emmys
+2026-09-15 16:35:45,242 [INFO]   Relevant: McMahon’s 2027 budget: Money for childcare, semiconductors and housing
+2026-09-15 16:35:45,242 [DEBUG]     → Entities: Ryan McMahon
+2026-09-15 16:35:49,007 [INFO]     Saved: CTX-NEWS-2026-00269 → CTX-NEWS-2026-00269.json
+2026-09-15 16:35:49,008 [DEBUG]   Filtered (not relevant): Winning Powerball tickets sold in New York: One at Upstate NY Wegmans
+2026-09-15 16:35:49,009 [DEBUG]   Filtered (not relevant): Dear Annie: If our sons-in-law can't get along, will we miss out on time with gr
+2026-09-15 16:35:49,009 [DEBUG]   Filtered (not relevant): You can buy the new Josh Allen hat inspired by Golisano patient Jack
+2026-09-15 16:35:49,010 [DEBUG]   Filtered (not relevant): Pat McAfee showed up on a new ESPN show. Fans had a lot to say.
+2026-09-15 16:35:49,010 [DEBUG]   Filtered (not relevant): Over 1,238 flights delayed, 53 canceled amid widespread U.S. travel disruptions
+2026-09-15 16:35:49,010 [DEBUG]   Filtered (not relevant): Florida woman threw bucket of poop on neighbor allegedly sleeping with her husba
+2026-09-15 16:35:49,011 [INFO]   Relevant: More Syracuse police officers doesn’t necessarily mean less crime (Your Letters)
+2026-09-15 16:35:49,011 [DEBUG]     → Departments: Syracuse Police Department
+2026-09-15 16:35:49,011 [DEBUG]     → Keywords: syracuse police
+2026-09-15 16:35:52,380 [WARNING]     Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-09-15 16:35:52,391 [INFO]     Saved: CTX-NEWS-2026-00270 → CTX-NEWS-2026-00270.json
+2026-09-15 16:35:52,392 [DEBUG]   Filtered (not relevant): Kate Spade Outlet has a impressive deals happening right now: What we’re loving
+2026-09-15 16:35:52,393 [DEBUG]   Filtered (not relevant): He was almost home. Then his plane lost power over a Wisconsin lake.
+2026-09-15 16:35:52,393 [DEBUG]   Filtered (not relevant): Big Ten coach has heated exchange with reporter after star QB misses interview
+2026-09-15 16:35:52,394 [DEBUG]   Filtered (not relevant): NY to phase out Regents exams as high school graduation requirement
+2026-09-15 16:35:52,394 [DEBUG]   Filtered (not relevant): Powerball results for 09/14/26: Pair of players win at least $1M
+2026-09-15 16:35:52,395 [DEBUG]   Filtered (not relevant): Red Bull’s new winter edition flavor will blow your mind
+2026-09-15 16:35:52,395 [DEBUG]   Filtered (not relevant): Polymarket upgrades $50 promo code “CUSE” for Mets-Orioles, Yankees-Twins, MLB T
+2026-09-15 16:35:52,396 [DEBUG]   Filtered (not relevant): Michael Kors Outlet has more than 400 designer bags on sale: Here’s what we’re a
+2026-09-15 16:35:52,396 [DEBUG]   Filtered (not relevant): Kevin Hart is hosting a Taco Bell golf tournament
+2026-09-15 16:35:52,397 [DEBUG]   Filtered (not relevant): Mets vs. Orioles prediction: Polymarket prices, Pete Alonso HR props for Tuesday
+2026-09-15 16:35:52,398 [DEBUG]   Filtered (not relevant): Maple-dijon roasted vegetables
+2026-09-15 16:35:52,399 [DEBUG]   Filtered (not relevant): Kimchi white bean melts
+2026-09-15 16:35:52,399 [DEBUG]   Filtered (not relevant): ICE detention of Los Angeles father triggers trauma in his toddler son
+2026-09-15 16:35:52,399 [DEBUG]   Filtered (not relevant): A Christian pastor called Arapaho ceremonies ‘idol worship.’ Now the tribe wants
+2026-09-15 16:35:52,400 [DEBUG]   Filtered (not relevant): Country music star’s fans send prayers after health forces him to step away from
+2026-09-15 16:35:52,400 [DEBUG]   Filtered (not relevant): Lacrosse festival celebrates rich history in Central NY (photos)
+2026-09-15 16:35:52,401 [DEBUG]   Filtered (not relevant): Miss Manners: Do I need to send a thank-you note for a thank-you gift?
+2026-09-15 16:35:52,401 [DEBUG]   Filtered (not relevant): Former Nebraska, CFL star John O'Leary dies at 72
+2026-09-15 16:35:52,402 [DEBUG]   Filtered (not relevant): Trooper fatally shoots man in confrontation at Upstate NY campground, police say
+2026-09-15 16:35:52,402 [DEBUG]   Filtered (not relevant): What LSU’s Lane Kiffin said about returning to Ole Miss
+2026-09-15 16:35:52,404 [INFO] News Scanner Run — 2026-09-15 16:35
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • NY school changes policy after student suspended for bringing coffee to class
+  • McMahon’s 2027 budget: Money for childcare, semiconductors and housing
+  • More Syracuse police officers doesn’t necessarily mean less crime (Your Letters)
+

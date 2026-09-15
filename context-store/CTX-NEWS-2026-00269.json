@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00269",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/09/mcmahons-2027-budget-money-for-childcare-semiconductors-and-housing.html",
+  "publication_date": "2026-09-15",
+  "capture_date": "2026-09-15T16:35:48Z",
+  "title": "McMahon’s 2027 budget: Money for childcare, semiconductors and housing",
+  "summary": "Onondaga County Executive Ryan McMahon announced a $1.6 billion proposed budget for 2027 with allocations for semiconductor initiatives, housing support for Gen Z, and childcare expansion. This budget signals strategic investments in economic development, workforce readiness, and affordable housing—key areas requiring digital infrastructure and data systems coordination.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "budget",
+    "announcement",
+    "economic-development",
+    "housing",
+    "workforce-development",
+    "initiative-launch",
+    "capital-planning"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Executive prioritization of semiconductor manufacturing, affordable housing, and childcare in multi-billion dollar budget demonstrates strategic focus on economic development and Gen Z workforce retention/support.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Dollar amount extraction incomplete in source data ($1 vs. $1.6 billion) — full amount identified in article text",
+    "County-level budget; note jurisdiction (Onondaga County Executive, not City of Syracuse Mayor)",
+    "CIO relevance: semiconductor initiatives and housing programs likely require data systems, digital infrastructure, and intergovernmental coordination",
+    "No specific City departments referenced; recommend cross-reference with intergovernmental affairs",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

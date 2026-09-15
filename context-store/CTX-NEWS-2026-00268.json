@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2026-00268",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/09/ny-school-changes-policy-after-student-suspended-for-bringing-coffee-to-class.html",
+  "publication_date": "2026-09-15",
+  "capture_date": "2026-09-15T16:35:45Z",
+  "title": "NY school changes policy after student suspended for bringing coffee to class",
+  "summary": "A school district in Upstate New York (Beaver River Central School District) modified its classroom food and beverage policy following public pressure over a student suspension for bringing coffee to class. The new policy empowers teachers to make case-by-case decisions on outside food and drinks rather than enforcing a blanket ban, representing a shift toward flexible, discretionary policy implementation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "policy-change",
+    "resolved",
+    "constituent_pressure"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Beaver River Central School District",
+      "type": "organization",
+      "canonical_id": "ORG-BRCSD"
+    },
+    {
+      "name": "Castorland, N.Y.",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Geoff Herbert",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Public hearing and community reaction prompted school board to reconsider and reverse an inflexible policy, demonstrating responsiveness to constituent concerns.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article subject is outside Syracuse city jurisdiction (Upstate NY school district); included because it may inform CIO thinking on policy flexibility and public feedback mechanisms",
+    "No Syracuse department or municipal government involvement detected",
+    "No IT, digital services, or data governance elements present in article",
+    "Story illustrates procedural responsiveness and policy iteration driven by public input",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'constituent_pressure' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}
