@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-NEWS-2026-00272",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/09/trump-administration-joins-microns-fight-against-environmental-lawsuit.html",
+  "publication_date": "2026-09-16",
+  "capture_date": "2026-09-16T16:28:26Z",
+  "title": "Trump administration joins Micron’s fight against environmental lawsuit",
+  "summary": "The Trump administration has intervened in an environmental lawsuit filed by a citizens group in Clay challenging the adequacy of environmental review for Micron Technology's chipmaking complex in Syracuse. This federal support signals potential alignment on major economic development projects but raises questions about environmental oversight processes relevant to city planning and permitting.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "federal-programs",
+    "investigation",
+    "land-use",
+    "permitting",
+    "intergovernmental",
+    "trending"
+  ],
+  "department_refs": [
+    "City Planning",
+    "Permitting and Inspections"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Trump Administration",
+      "type": "organization",
+      "canonical_id": "ORG-TRUMP-ADMIN"
+    },
+    {
+      "name": "Glenn Coin",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Clay Citizens Group",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Federal intervention supporting Micron suggests chipmaking infrastructure is a prioritized economic development asset at federal level; however, citizen lawsuit indicates local environmental review concerns that may impact city's future large-project approval processes",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on federal litigation rather than direct city action; relevance to CIO primarily through infrastructure planning implications and potential process scrutiny",
+    "No specific dollar amounts, timeline, or city department involvement mentioned in article",
+    "Citizens group location (Clay) is adjacent to Syracuse; monitoring for spillover impacts on city environmental or permitting policy",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

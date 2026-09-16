@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00271",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/entertainment/2026/09/syracuses-festa-italiana-returns-for-three-days-of-food-music-and-culture.html",
+  "publication_date": "2026-09-16",
+  "capture_date": "2026-09-16T16:28:22Z",
+  "title": "Syracuse’s Festa Italiana returns for three days of food, music and culture",
+  "summary": "Festa Italiana Syracuse, a recurring cultural and food festival, is returning for a three-day event at City Hall (Montgomery and Washington Streets). The event represents community programming and public space activation that may involve permitting, facilities coordination, and potential traffic/pedestrian management considerations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "recurring",
+    "residents",
+    "parks",
+    "neighborhood-services",
+    "permitting"
+  ],
+  "department_refs": [
+    "Parks and Recreation",
+    "Permitting and Compliance",
+    "Facilities Management"
+  ],
+  "entity_refs": [
+    {
+      "name": "Festa Italiana Syracuse",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "City Hall, Montgomery and Washington Streets",
+      "type": "system",
+      "canonical_id": "FACILITY-CITY-HALL"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Community cultural event indicates municipal support for neighborhood engagement, cultural programming, and public space activation—aligns with quality-of-life and economic-development priorities.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is brief announcement; no specific operational details (dates, budget, staffing, permits) extracted",
+    "Date format (2026-09-16) suggests future article or placeholder; verify publication date",
+    "No departmental contacts, budget allocations, or procurement data mentioned",
+    "Recommend cross-reference with Parks Department calendar and Permitting queue for operational dependencies",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
