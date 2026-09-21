@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-NEWS-2026-00274",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/living/2026/09/syracuse-university-art-museum-to-host-community-day-on-oct-3.html",
+  "publication_date": "2026-09-21",
+  "capture_date": "2026-09-21T18:02:30Z",
+  "title": "Syracuse University Art Museum to host Community Day on Oct. 3",
+  "summary": "Syracuse University Art Museum is hosting a free Community Day on October 3, 2026, from noon to 4 p.m., a twice-yearly family-friendly event open to the entire Syracuse community. This represents a cultural institution's effort to increase community engagement and accessibility.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "accessibility",
+    "equity",
+    "residents"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University Art Museum",
+      "type": "organization",
+      "canonical_id": "ORG-SU-ARTMUSEUM"
+    },
+    {
+      "name": "Taylor Westerlund",
+      "type": "person",
+      "canonical_id": "PERSON-TAYLOR-WESTERLUND"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Community Day demonstrates alignment with equity and accessibility priorities by offering free cultural programming to all residents, supporting inclusive community engagement.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is from external media source (syracuse.com), not a City of Syracuse official channel",
+    "No direct City government involvement detected; external partner announcement",
+    "Event date is October 3, 2026 (future event)",
+    "No budget, procurement, or policy implications identified",
+    "Cultural/arts programming may support broader city economic-development and equity initiatives but lacks explicit CIO operational relevance",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
