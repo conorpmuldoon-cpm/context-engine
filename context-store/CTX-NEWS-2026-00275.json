@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-NEWS-2026-00275",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/09/minoa-got-ahead-of-firefighter-shortage-will-onondaga-county-be-next-guest-opinion-by-don-lough.html",
+  "publication_date": "2026-09-22",
+  "capture_date": "2026-09-22T16:35:53Z",
+  "title": "Minoa got ahead of  firefighter shortage. Will Onondaga County be next? (Guest Opinion by Don Lough)",
+  "summary": "Guest opinion by retired Syracuse Fire Department lieutenant Don Lough advocates for proactive workforce planning in firefighting, citing Minoa's success in addressing firefighter shortages ahead of crisis. The piece signals need for Onondaga County and regional departments to adopt similar preventive hiring and retention strategies to avoid acute staffing gaps.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "fire",
+    "workforce-development",
+    "hiring",
+    "labor-relations",
+    "emergency-services",
+    "PROVISIONAL:regional-coordination"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Don Lough",
+      "type": "person",
+      "canonical_id": "PERSON-DON-LOUGH"
+    },
+    {
+      "name": "Minoa",
+      "type": "organization",
+      "canonical_id": "ORG-MINOA-FD"
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Opinion piece advocating for workforce planning as critical public safety issue; frames proactive hiring as model for county-level adoption",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author is credible internal stakeholder (20-year SFD veteran, lieutenant rank)",
+    "Article compares local solution (Minoa) to broader regional challenge, suggesting cross-jurisdictional awareness",
+    "No budget figures or specific policy proposals detailed in excerpt",
+    "Date is future-dated (2026-09-22); verify publication authenticity",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
