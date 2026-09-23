@@ -1,0 +1,87 @@
+2026-09-23 16:26:56,284 [INFO] ============================================================
+2026-09-23 16:26:56,284 [INFO] News Scanner starting
+2026-09-23 16:26:56,285 [INFO] Fetching: Syracuse.com Politics
+2026-09-23 16:26:56,897 [INFO]   50 new articles from Syracuse.com Politics
+2026-09-23 16:26:56,897 [INFO] Fetching: Syracuse.com Government
+2026-09-23 16:26:57,199 [INFO]   0 new articles from Syracuse.com Government
+2026-09-23 16:26:57,199 [INFO] Fetching: Syracuse.com Local
+2026-09-23 16:26:57,516 [INFO]   0 new articles from Syracuse.com Local
+2026-09-23 16:26:57,516 [INFO] Fetching: Syracuse.com Main
+2026-09-23 16:26:57,821 [INFO]   0 new articles from Syracuse.com Main
+2026-09-23 16:26:57,821 [INFO] Total unique articles across all feeds: 50
+2026-09-23 16:26:57,821 [INFO] New articles (not previously processed): 50
+2026-09-23 16:26:57,880 [DEBUG]   Filtered (not relevant): Ever use CVS’s website? You could be owed money
+2026-09-23 16:26:57,880 [DEBUG]   Filtered (not relevant): Cindy Crawford’s words on losing a child resurface after son’s death
+2026-09-23 16:26:57,881 [DEBUG]   Filtered (not relevant): The new Apple Watch Series 12 just landed at Target, and it’s made for your ever
+2026-09-23 16:26:57,881 [DEBUG]   Filtered (not relevant): 2 Section III teams reach No. 1 in latest high school football state rankings
+2026-09-23 16:26:57,881 [DEBUG]   Filtered (not relevant): 4 beluga whales die after being rescued from closed theme park
+2026-09-23 16:26:57,882 [DEBUG]   Filtered (not relevant): Judge puts Manlius pediatrician on the spot to prove she actually has a lawyer i
+2026-09-23 16:26:57,882 [DEBUG]   Filtered (not relevant): Kid Rock event scrapped after 6 VIP ticket sales
+2026-09-23 16:26:57,883 [DEBUG]   Filtered (not relevant): Fall has arrived, does that mean daylight saving time is over?
+2026-09-23 16:26:57,883 [DEBUG]   Filtered (not relevant): Trae Young ‘knew it was time’ to leave Atlanta after Hawks hired new GM
+2026-09-23 16:26:57,883 [DEBUG]   Filtered (not relevant): Hilary Duff announces first Upstate NY show in 20 years: When, where, tickets
+2026-09-23 16:26:57,884 [DEBUG]   Filtered (not relevant): Dolly Parton’s nephew hit with restraining order
+2026-09-23 16:26:57,884 [DEBUG]   Filtered (not relevant): Father, who is charged with homicide after 11-year-old son overdosed, is release
+2026-09-23 16:26:57,884 [DEBUG]   Filtered (not relevant): JCPenney continues closures with Pa. storefront
+2026-09-23 16:26:57,885 [DEBUG]   Filtered (not relevant): Dear Annie: My kids' stepmom is crossing parental boundaries. How do I get her t
+2026-09-23 16:26:57,885 [DEBUG]   Filtered (not relevant): Sept. 22 Mega Millions results: $2 million winner sold
+2026-09-23 16:26:57,886 [DEBUG]   Filtered (not relevant): Skaneateles junior’s 17-catch game leads Section III’s Week 3 fantasy football s
+2026-09-23 16:26:57,886 [DEBUG]   Filtered (not relevant): Walmart has a major markdown on the Samsung 75-inch Mini LED Smart TV right now
+2026-09-23 16:26:57,887 [DEBUG]   Filtered (not relevant): How to secure Hans Zimmer tickets today for 2027 ‘The Next Level’ tour
+2026-09-23 16:26:57,887 [DEBUG]   Filtered (not relevant): Over 774 flights delayed, 70 canceled amid widespread U.S. travel disruptions
+2026-09-23 16:26:57,887 [DEBUG]   Filtered (not relevant): Pat McAfee stopped his show after seeing a troubling message
+2026-09-23 16:26:57,888 [DEBUG]   Filtered (not relevant): More than 600 renovated apartments starting to come back online at former Tim Gr
+2026-09-23 16:26:57,888 [DEBUG]   Filtered (not relevant): ‘Dancing With the Stars’ sends home 3rd celebrity after ‘shaky’ performance
+2026-09-23 16:26:57,889 [DEBUG]   Filtered (not relevant): Famous actor to legally be single again nearly 10 years after splitting up from 
+2026-09-23 16:26:57,889 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 high school football rankings (Week 3): 2 section champions 
+2026-09-23 16:26:57,889 [DEBUG]   Filtered (not relevant): How to secure Death Cab for Cutie presale tickets for 2027 ‘I Built You A Tower 
+2026-09-23 16:26:57,890 [DEBUG]   Filtered (not relevant): Arch Manning press conference following Holly Rowe controversy ‘a painful experi
+2026-09-23 16:26:57,890 [DEBUG]   Filtered (not relevant): Colorado football player apologizes for comments about Northwestern football sta
+2026-09-23 16:26:57,891 [DEBUG]   Filtered (not relevant): Polymarket updates $50 promo code “CUSE” for Liberty-Dream, Wings-Storm WNBA fin
+2026-09-23 16:26:57,891 [DEBUG]   Filtered (not relevant): HOKA slashes the price of the Clifton 10 - Is it a neutral running shoe?
+2026-09-23 16:26:57,892 [DEBUG]   Filtered (not relevant): Gap launches ‘fashiontainment’ campaign, collaboration with boy band
+2026-09-23 16:26:57,892 [DEBUG]   Filtered (not relevant): A Kansas City case that shocked many has reached a major milestone
+2026-09-23 16:26:57,893 [DEBUG]   Filtered (not relevant): Experts release Liberty vs. Dream prediction as Stewart, Angel Reese top Polymar
+2026-09-23 16:26:57,893 [DEBUG]   Filtered (not relevant): Bruce Coville Halloween Writing Contest 2026: When the Creature Wakes
+2026-09-23 16:26:57,894 [DEBUG]   Filtered (not relevant): Parents shaken after tragic California driveway accident involving 6-year-old
+2026-09-23 16:26:57,894 [DEBUG]   Filtered (not relevant): Miss Manners: My husband isn’t over the drama from my sister’s wedding
+2026-09-23 16:26:57,895 [INFO]   Relevant: Value of SU’s smaller programs goes beyond the balance sheet (Guest Opinion by S
+2026-09-23 16:26:57,895 [DEBUG]     → Entities: Syracuse University
+2026-09-23 16:27:01,779 [WARNING]     Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-09-23 16:27:01,818 [INFO]     Saved: CTX-NEWS-2026-00276 → CTX-NEWS-2026-00276.json
+2026-09-23 16:27:01,819 [DEBUG]   Filtered (not relevant): CNY school district among highest for full value tax rate: See all NY
+2026-09-23 16:27:01,819 [DEBUG]   Filtered (not relevant): Dolly Parton’s dying wish revealed, 1 person by her side
+2026-09-23 16:27:01,820 [DEBUG]   Filtered (not relevant): ‘Major’ nor’easter threatens millions with flooding, 70 mph winds (update)
+2026-09-23 16:27:01,820 [DEBUG]   Filtered (not relevant): Who are the Section III boys soccer stats leaders through Sept. 22
+2026-09-23 16:27:01,821 [DEBUG]   Filtered (not relevant): U.S. Mint unveils coins honoring dogs in service, therapy and K-9 work
+2026-09-23 16:27:01,821 [INFO]   Relevant: County agency to pay nearly $13 million to run gas pipeline to Micron site in Cl
+2026-09-23 16:27:01,821 [DEBUG]     → Entities: Micron Technology
+2026-09-23 16:27:01,821 [DEBUG]     → Departments: Department of Permits and Development
+2026-09-23 16:27:06,745 [INFO]     Saved: CTX-NEWS-2026-00277 → CTX-NEWS-2026-00277.json
+2026-09-23 16:27:06,745 [DEBUG]   Filtered (not relevant): F-16 military jet crashes near NATO airbase in Germany
+2026-09-23 16:27:06,746 [DEBUG]   Filtered (not relevant): Who are the latest Section III girls soccer stats leaders through Sept. 22
+2026-09-23 16:27:06,746 [INFO]   Relevant: Video: Watch full interview with Syracuse chancellor, AD on their vision for SU 
+2026-09-23 16:27:06,746 [DEBUG]     → Entities: Syracuse University
+2026-09-23 16:27:11,005 [INFO]     Saved: CTX-NEWS-2026-00278 → CTX-NEWS-2026-00278.json
+2026-09-23 16:27:11,005 [DEBUG]   Filtered (not relevant): Hurricane Polo is one of ‘strongest storms ever’ as another hurricane forms
+2026-09-23 16:27:11,006 [DEBUG]   Filtered (not relevant): Central New York blotter updated with hundreds of new arrests
+2026-09-23 16:27:11,006 [INFO]   Relevant: Judge: City may have violated Westcott Theater's First Amendment rights
+2026-09-23 16:27:11,006 [DEBUG]     → Keywords: city of syracuse
+2026-09-23 16:27:14,704 [WARNING]     Tag issue: Unknown tag 'legal-challenge' not in taxonomy
+2026-09-23 16:27:14,715 [INFO]     Saved: CTX-NEWS-2026-00279 → CTX-NEWS-2026-00279.json
+2026-09-23 16:27:14,716 [DEBUG]   Filtered (not relevant): These 10 states will be hit the hardest if Social Security benefits are cut
+2026-09-23 16:27:14,716 [DEBUG]   Filtered (not relevant): Marcus Freeman apologizes for outburst toward Notre Dame star
+2026-09-23 16:27:14,718 [INFO] News Scanner Run — 2026-09-23 16:27
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 4
+Filtered (not relevant): 46
+Errors: 0
+
+New records:
+  • Value of SU’s smaller programs goes beyond the balance sheet (Guest Opinion by S
+  • County agency to pay nearly $13 million to run gas pipeline to Micron site in Cl
+  • Video: Watch full interview with Syracuse chancellor, AD on their vision for SU 
+  • Judge: City may have violated Westcott Theater's First Amendment rights
+

@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-NEWS-2026-00279",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/09/judge-says-city-may-have-violated-westcott-theaters-rights-wants-more-support-for-closure.html",
+  "publication_date": "2026-09-23",
+  "capture_date": "2026-09-23T16:27:14Z",
+  "title": "Judge: City may have violated Westcott Theater's First Amendment rights",
+  "summary": "A state Supreme Court judge ruled Monday that the City of Syracuse may have violated the Westcott Theater's First Amendment rights through its closure of the venue last month. The court is requesting additional evidence from the city to justify the closure decision. This ruling introduces potential legal and constitutional liability for the city regarding its enforcement actions against a cultural institution.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "investigation",
+    "escalating",
+    "policy-change",
+    "legal-challenge",
+    "PROVISIONAL:first-amendment",
+    "PROVISIONAL:venue-closure"
+  ],
+  "department_refs": [
+    "Corporation Counsel",
+    "Office of the Mayor"
+  ],
+  "entity_refs": [
+    {
+      "name": "Westcott Theater",
+      "type": "organization",
+      "canonical_id": "ORG-WESTCOTT-THEATER"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    },
+    {
+      "name": "Emily Kulkus",
+      "type": "person",
+      "canonical_id": "PERSON-EMILY-KULKUS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Judicial scrutiny of city closure decision; potential constitutional violation finding creates reputational and legal risk for administration",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Judge identity not provided in article text",
+    "Specific closure rationale not detailed; recommend follow-up for full case documentation",
+    "First Amendment claim suggests cultural/speech venue context; may intersect with economic-development and historic-preservation interests",
+    "Article from September 2026 indicates forward-looking scenario",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'legal-challenge' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

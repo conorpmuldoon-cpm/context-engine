@@ -1,0 +1,63 @@
+{
+  "record_id": "CTX-NEWS-2026-00277",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/09/county-agency-to-pay-nearly-13-million-to-run-gas-pipeline-to-micron-site-in-clay.html",
+  "publication_date": "2026-09-23",
+  "capture_date": "2026-09-23T16:27:06Z",
+  "title": "County agency to pay nearly $13 million to run gas pipeline to Micron site in Clay",
+  "summary": "The Onondaga County Industrial Development Agency is committing nearly $13 million to extend natural gas pipeline infrastructure to the Micron Technology semiconductor manufacturing facility under construction in Clay. This capital investment supports regional economic development and industrial site readiness for a major technology employer.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "infrastructure",
+    "capital-planning",
+    "contract-award",
+    "intergovernmental",
+    "business-community"
+  ],
+  "department_refs": [
+    "Department of Permits and Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Onondaga County Industrial Development Agency",
+      "type": "organization",
+      "canonical_id": "ORG-OCIDA"
+    },
+    {
+      "name": "Rick Moriarty",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "County-level investment in infrastructure to support Micron facility development; signals priority alignment with regional economic development and industrial attraction strategy",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article sourced from syracuse.com (external news); County IDA is state agency partner, not direct City department",
+    "Dollar amount validated: $13 million (nearly)",
+    "Geographic scope: Clay (town outside Syracuse proper, but regional economic impact)",
+    "Infrastructure type: natural gas pipeline (utility infrastructure)",
+    "Intergovernmental collaboration evident but article lacks direct CIO/digital infrastructure angle",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

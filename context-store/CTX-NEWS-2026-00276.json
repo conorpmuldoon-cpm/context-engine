@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-NEWS-2026-00276",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/09/value-of-sus-smaller-programs-goes-beyond-the-balance-sheet-guest-opinion-by-samuel-gorovitz.html",
+  "publication_date": "2026-09-23",
+  "capture_date": "2026-09-23T16:27:01Z",
+  "title": "Value of SU’s smaller programs goes beyond the balance sheet (Guest Opinion by Samuel Gorovitz)",
+  "summary": "Opinion piece by Syracuse University professor emeritus arguing that smaller academic programs provide value beyond financial metrics. The article advocates for recognizing non-quantifiable benefits of programs that may not generate significant revenue but contribute to institutional mission and community benefit.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:higher-education-policy",
+    "PROVISIONAL:program-evaluation",
+    "advocacy"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Samuel Gorovitz",
+      "type": "person",
+      "canonical_id": "PERSON-SAMUEL-GOROVITZ"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "External stakeholder advocating for value-based assessment beyond financial metrics in institutional decision-making; potential relevance to city-university partnerships and economic development priorities",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is opinion/guest column, not news reporting",
+    "No direct city government involvement or action identified",
+    "Potential indirect relevance to City CIO only through institutional partnerships or workforce development initiatives",
+    "Author is external (Cleveland Heights resident), writing about higher education policy",
+    "No budget figures, city departments, or municipal systems mentioned",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}
