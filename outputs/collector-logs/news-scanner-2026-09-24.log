@@ -1,0 +1,75 @@
+2026-09-24 16:47:41,506 [INFO] ============================================================
+2026-09-24 16:47:41,506 [INFO] News Scanner starting
+2026-09-24 16:47:41,508 [INFO] Fetching: Syracuse.com Politics
+2026-09-24 16:47:41,954 [INFO]   50 new articles from Syracuse.com Politics
+2026-09-24 16:47:41,954 [INFO] Fetching: Syracuse.com Government
+2026-09-24 16:47:42,157 [INFO]   0 new articles from Syracuse.com Government
+2026-09-24 16:47:42,157 [INFO] Fetching: Syracuse.com Local
+2026-09-24 16:47:42,413 [INFO]   0 new articles from Syracuse.com Local
+2026-09-24 16:47:42,413 [INFO] Fetching: Syracuse.com Main
+2026-09-24 16:47:42,628 [INFO]   0 new articles from Syracuse.com Main
+2026-09-24 16:47:42,628 [INFO] Total unique articles across all feeds: 50
+2026-09-24 16:47:42,628 [INFO] New articles (not previously processed): 50
+2026-09-24 16:47:42,673 [DEBUG]   Filtered (not relevant): New Navy letter reveals concerns tied to record USS Abraham Lincoln deployment
+2026-09-24 16:47:42,673 [DEBUG]   Filtered (not relevant): University student newspaper confirms identities of 2 dead
+2026-09-24 16:47:42,673 [DEBUG]   Filtered (not relevant): 5 Indianapolis officers charged with misuse of Flock cameras
+2026-09-24 16:47:42,674 [DEBUG]   Filtered (not relevant): TSA uncapped this hidden object inside a tube of toothpaste in carry-on
+2026-09-24 16:47:42,674 [DEBUG]   Filtered (not relevant): Upstate NY’s beloved Wegmans ranked one of America’s best grocery stores again
+2026-09-24 16:47:42,674 [DEBUG]   Filtered (not relevant): 10 highlights to expect at KFC’s new prototype restaurant, including breakfast
+2026-09-24 16:47:42,674 [DEBUG]   Filtered (not relevant): New details emerge after deadly crash at New Jersey restaurant
+2026-09-24 16:47:42,675 [DEBUG]   Filtered (not relevant): Consumers say these popular hair products caused hair loss: The ingredient behin
+2026-09-24 16:47:42,675 [DEBUG]   Filtered (not relevant): Coach’s iconic Rowan Satchel Bag is finally on sale and it’s the new ‘it’ bag of
+2026-09-24 16:47:42,675 [DEBUG]   Filtered (not relevant): Peek inside Syracuse’s new Harborview Aquarium before it opens this fall (video 
+2026-09-24 16:47:42,675 [DEBUG]   Filtered (not relevant): New proposal would lower Social Security’s full retirement age to 60 for some wo
+2026-09-24 16:47:42,676 [DEBUG]   Filtered (not relevant): Reboot in the works for one of the most iconic TV shows of the 2010s
+2026-09-24 16:47:42,676 [DEBUG]   Filtered (not relevant): Scientists identify youngest known planet, less than 1 million years old
+2026-09-24 16:47:42,676 [DEBUG]   Filtered (not relevant): NHL legend rips Oilers for coaching hire: ‘Just horrified’
+2026-09-24 16:47:42,676 [DEBUG]   Filtered (not relevant): Instant impact: 15 field hockey newcomers off to hot starts
+2026-09-24 16:47:42,677 [DEBUG]   Filtered (not relevant): 1 dead, 4 injured in Catholic convent stabbing in Poland
+2026-09-24 16:47:42,677 [DEBUG]   Filtered (not relevant): ‘America’s Got Talent’ considering major shakeup after 21 seasons
+2026-09-24 16:47:42,677 [DEBUG]   Filtered (not relevant): Legendary band cancels 3 shows before tour return
+2026-09-24 16:47:42,678 [DEBUG]   Filtered (not relevant): Syracuse.com’s high school football power rankings are back, Class AA powerhouse
+2026-09-24 16:47:42,678 [DEBUG]   Filtered (not relevant): Dear Annie: Helpful neighbor has gone well over the line with his volunteer land
+2026-09-24 16:47:42,678 [DEBUG]   Filtered (not relevant): OpenAI’s breach of Australian health department prompts rebuke
+2026-09-24 16:47:42,679 [INFO]   Relevant: Haynie: Syracuse must empower students to navigate ‘Age of Acceleration’
+2026-09-24 16:47:42,679 [DEBUG]     → Entities: Syracuse University
+2026-09-24 16:47:48,015 [INFO]     Saved: CTX-NEWS-2026-00280 → CTX-NEWS-2026-00280.json
+2026-09-24 16:47:48,015 [DEBUG]   Filtered (not relevant): Salmon River Fish Hatchery to hold open house on Saturday
+2026-09-24 16:47:48,016 [DEBUG]   Filtered (not relevant): Woman found dead in suitcase left at a Kansas fire station: ‘This is just evil’
+2026-09-24 16:47:48,016 [DEBUG]   Filtered (not relevant): ESPN pushed back at Dan Le Batard. He wasn’t finished
+2026-09-24 16:47:48,016 [DEBUG]   Filtered (not relevant): ’90s child star arrested after reportedly kicking deputy
+2026-09-24 16:47:48,016 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 field hockey rankings (through Sept. 23): 3rd SCAC team crac
+2026-09-24 16:47:48,017 [DEBUG]   Filtered (not relevant): Boot season is here and Anthropologie has the perfect fall styles - Here’s what 
+2026-09-24 16:47:48,017 [DEBUG]   Filtered (not relevant): This fast-food chain is celebrating Dolly Day with donations and deals
+2026-09-24 16:47:48,018 [DEBUG]   Filtered (not relevant): Police: Upstate NY man set fire to a home, tried to grab trooper’s gun
+2026-09-24 16:47:48,018 [DEBUG]   Filtered (not relevant): The Raiders are undefeated, but NFL Network analyst says nobody is talking about
+2026-09-24 16:47:48,018 [DEBUG]   Filtered (not relevant): NASCAR legend stepping away from public life due to illness
+2026-09-24 16:47:48,019 [DEBUG]   Filtered (not relevant): Kids with behavioral conditions staying at Upstate’s Golisano have a playground 
+2026-09-24 16:47:48,019 [DEBUG]   Filtered (not relevant): Live scoreboard, recaps for Thursday’s high school football games (Week 4)
+2026-09-24 16:47:48,019 [DEBUG]   Filtered (not relevant): Over 793 flights delayed, 35 canceled amid widespread U.S. travel disruptions
+2026-09-24 16:47:48,020 [DEBUG]   Filtered (not relevant): Alex Yankowski looks for first Super DIRT Series title
+2026-09-24 16:47:48,020 [DEBUG]   Filtered (not relevant): Hayley Williams breaks silence after ex-husband dies at 45
+2026-09-24 16:47:48,020 [DEBUG]   Filtered (not relevant): Polymarket upgrades $50 promo code “CUSE” for loaded CFB Week 4 slate
+2026-09-24 16:47:48,021 [DEBUG]   Filtered (not relevant): Wayfair’s Semi-Annual Members Sale ends tomorrow - Here are the deals we love
+2026-09-24 16:47:48,021 [DEBUG]   Filtered (not relevant): Pat McAfee explains why critics may be underestimating Jason Kelce
+2026-09-24 16:47:48,021 [DEBUG]   Filtered (not relevant): Syracuse.com’s HS football Game of the Week is streaming live tonight: Auburn at
+2026-09-24 16:47:48,022 [DEBUG]   Filtered (not relevant): Former Yankees player, longtime MLB pitching coach dies at 70
+2026-09-24 16:47:48,022 [DEBUG]   Filtered (not relevant): Gregg Popovich quietly marries woman with a longtime connection to the Spurs
+2026-09-24 16:47:48,022 [DEBUG]   Filtered (not relevant): Sept. 23 Powerball results: $1M winners sold in 2 states
+2026-09-24 16:47:48,023 [DEBUG]   Filtered (not relevant): Experts release new Bills vs. Chargers prediction as Allen, Herbert top Polymark
+2026-09-24 16:47:48,023 [DEBUG]   Filtered (not relevant): Nor’easter begins to strengthen as millions could see flooding, ‘damaging’ winds
+2026-09-24 16:47:48,024 [DEBUG]   Filtered (not relevant): Parents raised concerns about a teacher. What happened next drew state attention
+2026-09-24 16:47:48,024 [DEBUG]   Filtered (not relevant): How to watch UEFA Nations League for free this week
+2026-09-24 16:47:48,024 [DEBUG]   Filtered (not relevant): Miss Manners: Is my mom correct for critiquing my cocktail etiquette?
+2026-09-24 16:47:48,024 [DEBUG]   Filtered (not relevant): College football player killed in stabbing
+2026-09-24 16:47:48,026 [INFO] News Scanner Run — 2026-09-24 16:47
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Haynie: Syracuse must empower students to navigate ‘Age of Acceleration’
+

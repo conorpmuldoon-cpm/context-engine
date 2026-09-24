@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-NEWS-2026-00280",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/09/chancellor-haynie-syracuse-university-must-empower-students-to-navigate-age-of-acceleration.html",
+  "publication_date": "2026-09-24",
+  "capture_date": "2026-09-24T16:47:47Z",
+  "title": "Haynie: Syracuse must empower students to navigate ‘Age of Acceleration’",
+  "summary": "Syracuse University Chancellor J. Michael Haynie's inaugural address (Sept. 18, 2026) introduces the concept of \"The Age of Acceleration\" and commits the institution to empowering students to navigate rapid technological and social change. While focused on higher education strategy rather than municipal governance, this signals potential alignment opportunities between SU and City innovation priorities around workforce development and digital readiness.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "PROVISIONAL:higher-education",
+    "workforce-development",
+    "PROVISIONAL:digital-transformation",
+    "initiative-launch"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "J. Michael Haynie",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-HAYNIE"
+    },
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "SU's new chancellor signals institutional commitment to preparing students for technological acceleration, potentially creating alignment with City CIO objectives around digital innovation, workforce pipeline development, and technology readiness in the region.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on higher education leadership, not municipal services; limited direct CIO relevance unless pursuing intergovernmental partnerships or workforce development initiatives",
+    "No budget, infrastructure, or city department impacts identified",
+    "Opinion piece rather than policy announcement; reflects strategic direction but not actionable city governance",
+    "Potential relevance for PROVISIONAL tag \"intergovernmental\" if tracking university-city collaboration opportunities",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
