@@ -1,0 +1,78 @@
+2026-09-28 19:26:05,071 [INFO] ============================================================
+2026-09-28 19:26:05,071 [INFO] News Scanner starting
+2026-09-28 19:26:05,072 [INFO] Fetching: Syracuse.com Politics
+2026-09-28 19:26:05,360 [INFO]   50 new articles from Syracuse.com Politics
+2026-09-28 19:26:05,360 [INFO] Fetching: Syracuse.com Government
+2026-09-28 19:26:05,574 [INFO]   0 new articles from Syracuse.com Government
+2026-09-28 19:26:05,575 [INFO] Fetching: Syracuse.com Local
+2026-09-28 19:26:05,816 [INFO]   0 new articles from Syracuse.com Local
+2026-09-28 19:26:05,816 [INFO] Fetching: Syracuse.com Main
+2026-09-28 19:26:06,009 [INFO]   0 new articles from Syracuse.com Main
+2026-09-28 19:26:06,009 [INFO] Total unique articles across all feeds: 50
+2026-09-28 19:26:06,010 [INFO] New articles (not previously processed): 50
+2026-09-28 19:26:06,057 [DEBUG]   Filtered (not relevant): ‘Scrubs’ cast changes: See who’s not returning for the revival’s second season
+2026-09-28 19:26:06,058 [INFO]   Relevant: In Syracuse, Mayor Owens and AOC discuss range of issues, but not the congresswo
+2026-09-28 19:26:06,058 [DEBUG]     → Keywords: mayor, syracuse mayor
+2026-09-28 19:26:10,360 [INFO]     Saved: CTX-NEWS-2026-00281 → CTX-NEWS-2026-00281.json
+2026-09-28 19:26:10,360 [DEBUG]   Filtered (not relevant): Syracuse man hospitalized after car crashes into tractor-trailer on I-81
+2026-09-28 19:26:10,361 [INFO]   Relevant: Syracuse Common Council votes to shut down Westcott Theater
+2026-09-28 19:26:10,361 [DEBUG]     → Keywords: common council
+2026-09-28 19:26:14,322 [INFO]     Saved: CTX-NEWS-2026-00282 → CTX-NEWS-2026-00282.json
+2026-09-28 19:26:14,323 [DEBUG]   Filtered (not relevant): Lawsuit alleges Upstate NY jail officers beat inmate off camera
+2026-09-28 19:26:14,323 [DEBUG]   Filtered (not relevant): Saban: Alabama secretly recorded, teases Tua conversation
+2026-09-28 19:26:14,324 [DEBUG]   Filtered (not relevant): Affordable fashion chain closing 120 stores due to ‘negative pressure’ on custom
+2026-09-28 19:26:14,324 [DEBUG]   Filtered (not relevant): Syracuse couple journeyed to Gander, Newfoundland to honor 9/11 hospitality
+2026-09-28 19:26:14,324 [DEBUG]   Filtered (not relevant): Music legend releases 4 never-before-heard songs from iconic 1976 album: Listen 
+2026-09-28 19:26:14,325 [DEBUG]   Filtered (not relevant): HGTV alum says he was ‘royally f----d’ by the network in new post
+2026-09-28 19:26:14,325 [DEBUG]   Filtered (not relevant): State police identify children killed in Oswego County Amish buggy crash
+2026-09-28 19:26:14,325 [DEBUG]   Filtered (not relevant): Nicole Scherzinger takes stage after suffering boiling-water burns
+2026-09-28 19:26:14,326 [DEBUG]   Filtered (not relevant): See homes sold in four Central NY counties, Sept. 14 to 20
+2026-09-28 19:26:14,326 [DEBUG]   Filtered (not relevant): Al Roker suddenly leaves ‘Today,’ explains unexpected absence
+2026-09-28 19:26:14,327 [DEBUG]   Filtered (not relevant): Cowboys legend furious over late-game mistake vs. Ravens: ‘It’s impossible to do
+2026-09-28 19:26:14,327 [DEBUG]   Filtered (not relevant): How to watch MLB Wild Card games for free this week
+2026-09-28 19:26:14,328 [DEBUG]   Filtered (not relevant): LEGO’s Harry Potter Hogwarts Castle and Grounds is on sale at Walmart right now
+2026-09-28 19:26:14,328 [DEBUG]   Filtered (not relevant): Chipotle bringing back its beloved margaritas, but there's a catch most fans won
+2026-09-28 19:26:14,328 [DEBUG]   Filtered (not relevant): From Plattsburgh to Syracuse: How a top-ranked DO and former college baseball ca
+2026-09-28 19:26:14,329 [DEBUG]   Filtered (not relevant): Rogue AI agents targeted 3 US government websites
+2026-09-28 19:26:14,329 [DEBUG]   Filtered (not relevant): 5 men arrested near a US-run air base in UK are bailed
+2026-09-28 19:26:14,329 [DEBUG]   Filtered (not relevant): DA to take Cornell gang rape allegations to grand jury
+2026-09-28 19:26:14,330 [DEBUG]   Filtered (not relevant): Fran Brown names starting quarterback for Syracuse football game at UConn
+2026-09-28 19:26:14,330 [DEBUG]   Filtered (not relevant): Rock legend attends awards show with wife after shocking cheating scandal
+2026-09-28 19:26:14,330 [DEBUG]   Filtered (not relevant): Georgia teen arrested after missing person investigation leads to disturbing dis
+2026-09-28 19:26:14,331 [DEBUG]   Filtered (not relevant): Syracuse football at Virginia: Kickoff time, TV network set
+2026-09-28 19:26:14,331 [DEBUG]   Filtered (not relevant): Dunuwila Wealth Management adds talent with 2 new hires and 2 promotions — here'
+2026-09-28 19:26:14,332 [DEBUG]   Filtered (not relevant): Warehouse chain to open 33 new stores. Locations for these 14 have been announce
+2026-09-28 19:26:14,332 [DEBUG]   Filtered (not relevant): Father charged after 3-week-old found with broken ribs, eye injuries
+2026-09-28 19:26:14,332 [DEBUG]   Filtered (not relevant): Upstate NY man arrested after he allgedly held woman captive for a week
+2026-09-28 19:26:14,333 [DEBUG]   Filtered (not relevant): Banana chocolate chip muffins
+2026-09-28 19:26:14,333 [DEBUG]   Filtered (not relevant): Extra-crispy fried mozzarella
+2026-09-28 19:26:14,334 [DEBUG]   Filtered (not relevant): Chermoula roasted eggplant and beans
+2026-09-28 19:26:14,335 [DEBUG]   Filtered (not relevant): NFL asks Trump admin to remove Hall of Famer highlight video referencing immigra
+2026-09-28 19:26:14,335 [DEBUG]   Filtered (not relevant): SEC admits ‘incorrectly officiated’ play in Texas-Tennessee
+2026-09-28 19:26:14,335 [DEBUG]   Filtered (not relevant): Pop legend prompts concern from fans after ‘she could barely walk up the stairs’
+2026-09-28 19:26:14,336 [DEBUG]   Filtered (not relevant): NFL quarterback, former first-round pick traded to NFC team
+2026-09-28 19:26:14,336 [DEBUG]   Filtered (not relevant): Pennsylvania man convicted in ex-wife shooting, could face decades in prison
+2026-09-28 19:26:14,337 [DEBUG]   Filtered (not relevant): Where to watch Belgium-France UEFA Nations League match today
+2026-09-28 19:26:14,337 [DEBUG]   Filtered (not relevant): Hurricane Polo to make landfall with life-threatening flooding, mudslides, high 
+2026-09-28 19:26:14,337 [DEBUG]   Filtered (not relevant): After 7 years, Naum takes the helm of Rescue Mission fundraising
+2026-09-28 19:26:14,338 [DEBUG]   Filtered (not relevant): Walmart Deals 2026: Best deals, dates, shopping tips and Prime Day alternatives
+2026-09-28 19:26:14,338 [DEBUG]   Filtered (not relevant): Police chief in Maryland killed in head-on collision with delivery driver
+2026-09-28 19:26:14,338 [DEBUG]   Filtered (not relevant): Popular fast-food chicken chain combines 2 menu favorites to create new sandwich
+2026-09-28 19:26:14,339 [DEBUG]   Filtered (not relevant): Governor demands resignation after investigation rattles New Jersey politics
+2026-09-28 19:26:14,339 [DEBUG]   Filtered (not relevant): Large parts of Central NY and the Finger Lakes have unlimited doe permits availa
+2026-09-28 19:26:14,340 [DEBUG]   Filtered (not relevant): ‘Full House’ star welcomes ‘miracle baby’ as first grandchild
+2026-09-28 19:26:14,340 [DEBUG]   Filtered (not relevant): Legendary MLB broadcaster bids farewell after 36 years
+2026-09-28 19:26:14,340 [DEBUG]   Filtered (not relevant): 3 hospitalized after Delta flight makes emergency landing due to smoke in cabin
+2026-09-28 19:26:14,341 [DEBUG]   Filtered (not relevant): A stash of rare coins brings in $2.4 million at auction, setting records
+2026-09-28 19:26:14,342 [INFO] News Scanner Run — 2026-09-28 19:26
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • In Syracuse, Mayor Owens and AOC discuss range of issues, but not the congresswo
+  • Syracuse Common Council votes to shut down Westcott Theater
+

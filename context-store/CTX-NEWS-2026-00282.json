@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00282",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/09/syracuse-common-council-revokes-westcott-theaters-operating-permit-closing-venue.html",
+  "publication_date": "2026-09-28",
+  "capture_date": "2026-09-28T19:26:14Z",
+  "title": "Syracuse Common Council votes to shut down Westcott Theater",
+  "summary": "The Syracuse Common Council voted unanimously to rescind the Westcott Theater's special use permit, effectively closing the 18-year-old entertainment venue. This land-use and permitting decision reflects council action on a significant cultural/commercial asset in the city.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "vote",
+    "permitting",
+    "land-use",
+    "code-enforcement",
+    "zoning",
+    "business-community"
+  ],
+  "department_refs": [
+    "Common Council",
+    "Permitting and Inspections"
+  ],
+  "entity_refs": [
+    {
+      "name": "Westcott Theater",
+      "type": "organization",
+      "canonical_id": "ORG-WESTCOTT-THEATER"
+    },
+    {
+      "name": "Emily Kulkus",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Unanimous council vote to revoke operating permit suggests formal compliance or enforcement action; warrants investigation into underlying code violations or complaints that triggered this decision.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article lacks underlying reason for permit revocation—no violations, complaints, or justification detailed; CIO should request complaint/code-enforcement records and investigation file for full context.",
+    "Unanimous vote unusual for closure decision; suggests either clear violation pattern or political consensus that warrants further analysis.",
+    "18-year operational history suggests established venue; sudden closure may have constituent impact worth monitoring.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

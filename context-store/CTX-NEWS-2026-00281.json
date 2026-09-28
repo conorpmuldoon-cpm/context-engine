@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00281",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/09/in-syracuse-mayor-owens-and-aoc-discuss-range-of-issues-but-not-the-congresswomans-future.html",
+  "publication_date": "2026-09-28",
+  "capture_date": "2026-09-28T19:26:10Z",
+  "title": "In Syracuse, Mayor Owens and AOC discuss range of issues, but not the congresswoman’s future",
+  "summary": "Rep. Alexandria Ocasio-Cortez met with Syracuse Mayor Sharon Owens for an hour-long lunch at Salt City Market on September 28, 2026, discussing multiple topics relevant to the city. The article does not specify the congresswoman's future plans or re-election intentions. This represents a high-level intergovernmental engagement between federal and local leadership.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "intergovernmental",
+    "mayor",
+    "leadership-change"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Alexandria Ocasio-Cortez",
+      "type": "person",
+      "canonical_id": "PERSON-ALEXANDRIA-OCASIO-CORTEZ"
+    },
+    {
+      "name": "Sharon Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Salt City Market",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Federal representative engagement with local executive suggests coordination on city priorities, though specific policy areas discussed are not detailed in article.",
+    "confidence": "low"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article title explicitly states topics were NOT discussed (congresswoman's future), limiting substantive CIO relevance",
+    "Content summary is minimal; full article text needed to identify specific initiatives or technology-related discussions",
+    "No dollar amounts, specific departments, or initiatives mentioned",
+    "Date is future-dated (2026-09-28); verify if this is a real article or test case",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
