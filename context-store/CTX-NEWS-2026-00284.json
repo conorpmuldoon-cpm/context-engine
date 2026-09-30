@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-NEWS-2026-00284",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/09/company-news-central-ny-community-foundation-hires-madeline-thibault.html",
+  "publication_date": "2026-09-30",
+  "capture_date": "2026-09-30T17:48:26Z",
+  "title": "Central NY foundation hires lawyer-turned-philanthropy adviser",
+  "summary": "The Central New York Community Foundation has hired Madeline Thibault as philanthropic advisor, bringing legal and civic engagement expertise. This represents external philanthropic sector activity relevant to Syracuse's community development and economic development ecosystem.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "business-community",
+    "economic-development",
+    "leadership-change",
+    "hiring"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Madeline Thibault",
+      "type": "person",
+      "canonical_id": "PERSON-MADELINE-THIBAULT"
+    },
+    {
+      "name": "Central New York Community Foundation",
+      "type": "organization",
+      "canonical_id": "ORG-CNYCF"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Foundation hiring in philanthropic advisory signals strengthened community development capacity and civic engagement infrastructure in Central NY region.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns external non-profit foundation, not City of Syracuse department",
+    "No direct city government involvement detected",
+    "Mechanical extraction of 'Department of Permits and Development' and 'Law Department' appears incorrect — no references to these departments in article text",
+    "Relevant to CIO only as community ecosystem context; no municipal IT, digital services, or governance implications identified",
+    "No dollar amounts, contracts, or budget impacts mentioned",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

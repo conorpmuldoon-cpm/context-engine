@@ -1,0 +1,79 @@
+2026-09-30 17:48:18,349 [INFO] ============================================================
+2026-09-30 17:48:18,349 [INFO] News Scanner starting
+2026-09-30 17:48:18,350 [INFO] Fetching: Syracuse.com Politics
+2026-09-30 17:48:18,935 [INFO]   50 new articles from Syracuse.com Politics
+2026-09-30 17:48:18,935 [INFO] Fetching: Syracuse.com Government
+2026-09-30 17:48:19,068 [INFO]   0 new articles from Syracuse.com Government
+2026-09-30 17:48:19,068 [INFO] Fetching: Syracuse.com Local
+2026-09-30 17:48:19,245 [INFO]   0 new articles from Syracuse.com Local
+2026-09-30 17:48:19,246 [INFO] Fetching: Syracuse.com Main
+2026-09-30 17:48:19,380 [INFO]   0 new articles from Syracuse.com Main
+2026-09-30 17:48:19,380 [INFO] Total unique articles across all feeds: 50
+2026-09-30 17:48:19,380 [INFO] New articles (not previously processed): 50
+2026-09-30 17:48:19,420 [DEBUG]   Filtered (not relevant): Former ESPN host Sam Ponder lands new role with FOX News podcast
+2026-09-30 17:48:19,420 [DEBUG]   Filtered (not relevant): Dozens of trees cut down to build new sidewalks in Syracuse; some residents upse
+2026-09-30 17:48:19,420 [DEBUG]   Filtered (not relevant): Why the Philadelphia Eagles offense has struggled during the 2026 NFL season
+2026-09-30 17:48:19,421 [DEBUG]   Filtered (not relevant): Veterans will get 2 VA disability payments in October: Here’s why
+2026-09-30 17:48:19,421 [DEBUG]   Filtered (not relevant): Singer, 45, says his liver and heart are ‘f----- up’ but still refuses to see a 
+2026-09-30 17:48:19,421 [DEBUG]   Filtered (not relevant): The Best Buy and Amazon deal that could change how ads reach you at home
+2026-09-30 17:48:19,422 [DEBUG]   Filtered (not relevant): The surprising reason the Raiders are still unbeaten
+2026-09-30 17:48:19,422 [DEBUG]   Filtered (not relevant): Actress reveals she was accused of murder at 15
+2026-09-30 17:48:19,423 [DEBUG]   Filtered (not relevant): Manufacturer secures $5.1 billion contract for ship refueling and overhauls
+2026-09-30 17:48:19,423 [DEBUG]   Filtered (not relevant): Popular sports bar chain recruits iconic vampire slayer to reveal new Halloween 
+2026-09-30 17:48:19,423 [DEBUG]   Filtered (not relevant): Major defense company lands over $1 billion in fighter jet, missile-defense deal
+2026-09-30 17:48:19,424 [DEBUG]   Filtered (not relevant): ‘Dancing With the Stars’ fans ‘devastated’ by surprising elimination: ‘I’m in ge
+2026-09-30 17:48:19,424 [DEBUG]   Filtered (not relevant): $500 healthcare insurance refunds going out this week, Trump says: Who is eligib
+2026-09-30 17:48:19,424 [DEBUG]   Filtered (not relevant): Tennessee woman’s execution paused by federal court
+2026-09-30 17:48:19,425 [DEBUG]   Filtered (not relevant): Upset-minded Section III teams leap in latest high school football state ranking
+2026-09-30 17:48:19,425 [DEBUG]   Filtered (not relevant): UGG just brought back the Birch Boot after a 20-year hiatus: Here’s why shoppers
+2026-09-30 17:48:19,425 [DEBUG]   Filtered (not relevant): Amazon extends Herbstreit for NFL, but there’s a catch
+2026-09-30 17:48:19,426 [DEBUG]   Filtered (not relevant): Passengers describe terrifying moments after plane diverts during airborne emerg
+2026-09-30 17:48:19,426 [DEBUG]   Filtered (not relevant): Three years after Oct. 7, Jews worldwide are in the crosshairs of antisemitism (
+2026-09-30 17:48:19,427 [DEBUG]   Filtered (not relevant): Upstate woman guilty in elder abuse case that left father at 73 lbs
+2026-09-30 17:48:19,427 [DEBUG]   Filtered (not relevant): Video shows Presley Gerber inside rehab hours before death
+2026-09-30 17:48:19,427 [DEBUG]   Filtered (not relevant): Three teens killed in England after car plunges into river; survivor arrested
+2026-09-30 17:48:19,428 [INFO]   Relevant: SHA breaks ground on 125-unit senior complex at East Adams
+2026-09-30 17:48:19,428 [DEBUG]     → Entities: Bill Simmons, Syracuse Housing Authority
+2026-09-30 17:48:23,389 [WARNING]     Tag issue: Unknown tag 'senior-services' not in taxonomy
+2026-09-30 17:48:23,414 [INFO]     Saved: CTX-NEWS-2026-00283 → CTX-NEWS-2026-00283.json
+2026-09-30 17:48:23,414 [DEBUG]   Filtered (not relevant): Raven-Symoné reveals why she wears diapers around the house
+2026-09-30 17:48:23,415 [DEBUG]   Filtered (not relevant): Man in NY killed when bag gets stuck between subway doors
+2026-09-30 17:48:23,415 [DEBUG]   Filtered (not relevant): Dear Annie: Husband's golf clubs cost more than several months of our vacation s
+2026-09-30 17:48:23,415 [DEBUG]   Filtered (not relevant): He needed a restroom. Police say his response caused chaos.
+2026-09-30 17:48:23,416 [DEBUG]   Filtered (not relevant): Woman threatens neighbor with pitchfork, says she’s ‘the new Freddy Krueger’: Pa
+2026-09-30 17:48:23,416 [DEBUG]   Filtered (not relevant): Emilee Lawson Hatch left big-firm life behind to launch a practice where persona
+2026-09-30 17:48:23,417 [DEBUG]   Filtered (not relevant): Ronnie Golden, British comedian and musician, dies at 78
+2026-09-30 17:48:23,417 [DEBUG]   Filtered (not relevant): Former NFL player nicknamed ‘The Hulk’ dies at 78
+2026-09-30 17:48:23,417 [DEBUG]   Filtered (not relevant): Neon bats, glowing balls: Cosmic Baseball coming to Syracuse
+2026-09-30 17:48:23,418 [DEBUG]   Filtered (not relevant): Syracuse-based Reading League hires Fatima Nevarez to support educators nationwi
+2026-09-30 17:48:23,418 [DEBUG]   Filtered (not relevant): Michigan hit-and-run case: Driver gets probation and weekend jail
+2026-09-30 17:48:23,418 [DEBUG]   Filtered (not relevant): See which school districts saw the most home sales in August
+2026-09-30 17:48:23,419 [DEBUG]   Filtered (not relevant): Syracuse.com’s girls soccer rankings (through Sept. 29): 2 teams make their 1st 
+2026-09-30 17:48:23,419 [DEBUG]   Filtered (not relevant): Govee’s fan-favorite outdoor lights can stay up after the holidays, and they’re 
+2026-09-30 17:48:23,420 [DEBUG]   Filtered (not relevant): Why saying ‘You don’t look sick’ is not a compliment (Enable: The Disability Pod
+2026-09-30 17:48:23,420 [DEBUG]   Filtered (not relevant): Moose on the loose in Upstate NY captured, returned to wild
+2026-09-30 17:48:23,421 [DEBUG]   Filtered (not relevant): Former Crouse Health CEO joins NBT Bancorp board
+2026-09-30 17:48:23,421 [DEBUG]   Filtered (not relevant): 'Succession' star Arian Moayed to receive honor at Syracuse film festival
+2026-09-30 17:48:23,421 [DEBUG]   Filtered (not relevant): New contender rises to No.1 in Syracuse.com’s 2026 high school football Week 4 r
+2026-09-30 17:48:23,422 [DEBUG]   Filtered (not relevant): Foot and ankle surgeon expands care at Oswego Health
+2026-09-30 17:48:23,422 [DEBUG]   Filtered (not relevant): Costco is selling a Chick-fil-A copycat you’ll want to try
+2026-09-30 17:48:23,423 [DEBUG]   Filtered (not relevant): Retailer cuts prices on 2,000 items as consumers feel pinch of skyrocketing cost
+2026-09-30 17:48:23,423 [DEBUG]   Filtered (not relevant): Polymarket updates $50 promo code “CUSE” for Yankees-Red Sox AL Wild Card Game 2
+2026-09-30 17:48:23,424 [DEBUG]   Filtered (not relevant): Walmart slashes $150 off its best-selling nugget ice maker, originally $180
+2026-09-30 17:48:23,424 [INFO]   Relevant: Central NY foundation hires lawyer-turned-philanthropy adviser
+2026-09-30 17:48:23,424 [DEBUG]     → Departments: Department of Permits and Development, Law Department
+2026-09-30 17:48:26,975 [INFO]     Saved: CTX-NEWS-2026-00284 → CTX-NEWS-2026-00284.json
+2026-09-30 17:48:26,975 [DEBUG]   Filtered (not relevant): How to secure Lizzy McAlpine presale tickets for 2027 ‘The Over Country Tour’
+2026-09-30 17:48:26,976 [DEBUG]   Filtered (not relevant): Fran Brown said he wants to try to play 2 quarterbacks. How could he use Amari O
+2026-09-30 17:48:26,977 [INFO] News Scanner Run — 2026-09-30 17:48
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • SHA breaks ground on 125-unit senior complex at East Adams
+  • Central NY foundation hires lawyer-turned-philanthropy adviser
+

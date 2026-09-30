@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2026-00283",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/09/syracuse-housing-authority-names-new-building-for-director-who-left-after-turbulent-year.html",
+  "publication_date": "2026-09-30",
+  "capture_date": "2026-09-30T17:48:23Z",
+  "title": "SHA breaks ground on 125-unit senior complex at East Adams",
+  "summary": "Syracuse Housing Authority held a groundbreaking for a 125-unit senior housing complex at East Adams and named the building after Bill Simmons, the agency's longtime executive director who departed in summer 2026 following a turbulent year marked by internal board division.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "leadership-change",
+    "announcement",
+    "capital-planning",
+    "senior-services"
+  ],
+  "department_refs": [
+    "Syracuse Housing Authority"
+  ],
+  "entity_refs": [
+    {
+      "name": "Bill Simmons",
+      "type": "person",
+      "canonical_id": "PERSON-BILL-SIMMONS"
+    },
+    {
+      "name": "Syracuse Housing Authority",
+      "type": "organization",
+      "canonical_id": "ORG-SHA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "mixed",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Leadership transition with noted internal conflict ('turbulent year and a divided board vote') suggests governance challenges within housing authority despite positive infrastructure announcement.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article headline references building naming and director departure; URL suggests investigation or controversy element not fully captured in provided excerpt",
+    "No dollar amounts or specific project cost details provided",
+    "125-unit senior complex represents significant capital project—may require cross-reference with capital planning records",
+    "Divided board vote and turbulent conditions warrant tracking for potential governance or operational impacts",
+    "CIO may want to monitor SHA IT/systems integration needs given leadership transition",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'senior-services' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}
