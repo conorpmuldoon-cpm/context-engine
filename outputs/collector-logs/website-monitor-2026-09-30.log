@@ -1,0 +1,25 @@
+2026-09-30 17:59:35,601 [INFO] ============================================================
+2026-09-30 17:59:35,601 [INFO] Website Monitor starting
+2026-09-30 17:59:36,129 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-09-30 17:59:36,129 [INFO]   Navigating to https://www.syr.gov/News
+2026-09-30 17:59:40,811 [INFO]   Found 9 article links in News
+2026-09-30 17:59:45,811 [DEBUG]   Fetching: https://www.syr.gov/News/Parks-News/Parks-2026/2026-09-30-Parks-News-930-AM
+2026-09-30 17:59:57,779 [WARNING]     Tag issue: Unknown tag 'community-engagement' not in taxonomy
+2026-09-30 17:59:57,789 [INFO]     Saved: CTX-WEB-2026-00175 → CTX-WEB-2026-00175.json
+2026-09-30 17:59:57,789 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-09-30 17:59:57,789 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-09-30 18:00:01,195 [INFO]   Found 0 article links in Announcements
+2026-09-30 18:00:06,195 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-09-30 18:00:06,196 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-09-30 18:00:09,955 [INFO]   Found 0 article links in Public Notices
+2026-09-30 18:00:14,990 [INFO] Website Monitor Run — 2026-09-30 18:00
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 8
+Errors: 0
+
+New records:
+  • City Parks to Host Annual Mile Marketplace October 3
+

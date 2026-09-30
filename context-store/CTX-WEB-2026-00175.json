@@ -1,0 +1,68 @@
+{
+  "record_id": "CTX-WEB-2026-00175",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Parks-News/Parks-2026/2026-09-30-Parks-News-930-AM",
+  "publication_date": "2026-09-30",
+  "capture_date": "2026-09-30T17:59:57Z",
+  "title": "City Parks to Host Annual Mile Marketplace October 3",
+  "summary": "The Syracuse Department of Parks, Recreation & Youth Programs will host the annual Mile Marketplace on October 3, 2026, at Lower Onondaga Park. The expanded event features local vendors, artists, musicians, non-profits, fitness classes, and community activities designed to support local businesses while promoting park usage and community health.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "parks",
+    "initiative-launch",
+    "business-community",
+    "economic-development",
+    "community-engagement",
+    "sustainability"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation & Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Chris Abbott",
+      "type": "person",
+      "canonical_id": "PERSON-CHRIS-ABBOTT"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-OF-SYRACUSE"
+    },
+    {
+      "name": "Lower Onondaga Park",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Leadership endorsement of parks-based community engagement and local economic support initiatives; positions parks infrastructure as vehicle for health, wellness, and entrepreneurial opportunity.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Deputy Commissioner Chris Abbott quoted; Mayor Owens listed in header but not directly quoted in article body",
+    "Event details include specific times and activities; strong operational/programming focus",
+    "No budget or cost information provided in release",
+    "Digital engagement emphasized (social media distribution channel noted)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'community-engagement' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}
