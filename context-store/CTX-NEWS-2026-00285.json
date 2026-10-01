@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00285",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/10/bechtel-the-firm-building-microns-factory-is-holding-a-job-fair-soon.html",
+  "publication_date": "2026-10-01",
+  "capture_date": "2026-10-01T18:14:17Z",
+  "title": "Bechtel, the firm building Micron’s factory, is holding a job fair soon",
+  "summary": "Bechtel Corporation, the contractor building Micron Technology's semiconductor manufacturing facility in Clay, is hosting a job fair on October 21, 2026 in DeWitt. This represents workforce development activity related to the major economic development project bringing advanced chipmaking to the region.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "hiring",
+    "workforce-development",
+    "business-community",
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Bechtel Corporation",
+      "type": "organization",
+      "canonical_id": "ORG-BECHTEL"
+    },
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Glenn Coin",
+      "type": "person",
+      "canonical_id": "PERSON-GLENN-COIN"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Job fair announcement indicates momentum on Micron chip factory project, aligning with regional economic development priorities and workforce expansion goals",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is brief announcement; limited operational detail provided",
+    "Specific job titles, salary ranges, and skill requirements not detailed in excerpt",
+    "Clay location is Town of Clay in Onondaga County (not Syracuse proper); DeWitt is adjacent municipality",
+    "No City of Syracuse department involvement detected in article; relevant for CIO context on major regional infrastructure/economic project",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
