@@ -1,0 +1,24 @@
+2026-10-01 18:24:42,539 [INFO] ============================================================
+2026-10-01 18:24:42,539 [INFO] Website Monitor starting
+2026-10-01 18:24:43,194 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-10-01 18:24:43,194 [INFO]   Navigating to https://www.syr.gov/News
+2026-10-01 18:24:49,443 [INFO]   Found 9 article links in News
+2026-10-01 18:24:54,444 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-10-01-Infrastructure-News-1204
+2026-10-01 18:25:05,630 [INFO]     Saved: CTX-WEB-2026-00176 → CTX-WEB-2026-00176.json
+2026-10-01 18:25:05,631 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-10-01 18:25:05,631 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-10-01 18:25:08,862 [INFO]   Found 0 article links in Announcements
+2026-10-01 18:25:13,862 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-10-01 18:25:13,862 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-10-01 18:25:17,628 [INFO]   Found 0 article links in Public Notices
+2026-10-01 18:25:22,669 [INFO] Website Monitor Run — 2026-10-01 18:25
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 8
+Errors: 0
+
+New records:
+  • MAYOR OWENS ANNOUCES ROAD RECONSTRUCTION PROJECT ON SOLAR STREET
+

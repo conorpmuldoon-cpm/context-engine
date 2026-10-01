@@ -1,0 +1,52 @@
+{
+  "record_id": "CTX-WEB-2026-00176",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-10-01-Infrastructure-News-1204",
+  "publication_date": "2026-10-01",
+  "capture_date": "2026-10-01T18:25:05Z",
+  "title": "MAYOR OWENS ANNOUCES ROAD RECONSTRUCTION PROJECT ON SOLAR STREET",
+  "summary": "Mayor Sharon F. Owens announced a road reconstruction and paving project on Solar Street (between Plum and Court Street) beginning October 4, 2026. The project includes a 48-hour closure with daytime traffic restrictions (7 a.m.–7 p.m.) and detours. This represents routine infrastructure maintenance with potential service delivery coordination needs.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "roads-bridges",
+    "infrastructure",
+    "transportation",
+    "construction-staging",
+    "mayor"
+  ],
+  "department_refs": [
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor announcement of routine infrastructure maintenance signals commitment to roads and bridges upkeep; typical governance communication with minimal political valence.",
+    "confidence": "medium"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No department owner specified beyond Office of Communications; Department of Public Works or equivalent likely responsible for execution—recommend cross-reference with DPW records",
+    "No budget amount provided; recommend verification against capital plan database",
+    "Weather contingency noted; may affect completion timeline and public communications",
+    "Content includes standard CMS boilerplate (navigation, footer, accessibility links); core announcement is brief and procedural",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
