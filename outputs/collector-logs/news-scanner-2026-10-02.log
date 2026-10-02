@@ -1,0 +1,75 @@
+2026-10-02 17:39:33,262 [INFO] ============================================================
+2026-10-02 17:39:33,262 [INFO] News Scanner starting
+2026-10-02 17:39:33,263 [INFO] Fetching: Syracuse.com Politics
+2026-10-02 17:39:33,593 [INFO]   50 new articles from Syracuse.com Politics
+2026-10-02 17:39:33,593 [INFO] Fetching: Syracuse.com Government
+2026-10-02 17:39:33,809 [INFO]   0 new articles from Syracuse.com Government
+2026-10-02 17:39:33,809 [INFO] Fetching: Syracuse.com Local
+2026-10-02 17:39:34,019 [INFO]   0 new articles from Syracuse.com Local
+2026-10-02 17:39:34,019 [INFO] Fetching: Syracuse.com Main
+2026-10-02 17:39:34,266 [INFO]   0 new articles from Syracuse.com Main
+2026-10-02 17:39:34,266 [INFO] Total unique articles across all feeds: 50
+2026-10-02 17:39:34,266 [INFO] New articles (not previously processed): 50
+2026-10-02 17:39:34,333 [DEBUG]   Filtered (not relevant): Nick Saban, Ian Rapoport trade jabs on Pat McAfee show
+2026-10-02 17:39:34,334 [DEBUG]   Filtered (not relevant): HBO Max Halloween 2026: ‘Evil Dead Burn,’ ‘Backrooms’ and more horror to stream 
+2026-10-02 17:39:34,334 [DEBUG]   Filtered (not relevant): The Upstate NY city just placed restrictions on license plate readers
+2026-10-02 17:39:34,334 [DEBUG]   Filtered (not relevant): Beloved TikTok star dies at 37 after documenting ALS battle online
+2026-10-02 17:39:34,335 [INFO]   Relevant: Upstate NY mayor 'lying' about gas station dispute, Seneca Nation leader says
+2026-10-02 17:39:34,335 [DEBUG]     → Keywords: mayor
+2026-10-02 17:39:38,604 [INFO]     Saved: CTX-NEWS-2026-00286 → CTX-NEWS-2026-00286.json
+2026-10-02 17:39:38,605 [DEBUG]   Filtered (not relevant): How to watch the White Sox vs. Guardians ALDS for free this week
+2026-10-02 17:39:38,605 [DEBUG]   Filtered (not relevant): U.S. Coast Guard intercepts vessel smuggling oil bound for Cuba
+2026-10-02 17:39:38,606 [DEBUG]   Filtered (not relevant): Buffet chain closes locations as it seeks comeback
+2026-10-02 17:39:38,606 [DEBUG]   Filtered (not relevant): Tony Romo’s future with CBS Sports decided following arrest
+2026-10-02 17:39:38,606 [DEBUG]   Filtered (not relevant): Another Onondaga County town bans short-term rentals
+2026-10-02 17:39:38,607 [DEBUG]   Filtered (not relevant): Warning issued after collapse of iconic, 550-year-old natural landmark
+2026-10-02 17:39:38,607 [DEBUG]   Filtered (not relevant): Blakeman sought matching funds for thousands of ineligible donations
+2026-10-02 17:39:38,607 [DEBUG]   Filtered (not relevant): A terrifying flight ended safely. Now officials are searching for answers.
+2026-10-02 17:39:38,608 [DEBUG]   Filtered (not relevant): Driver fatigue caused a dramatic tractor-trailer rollover in Upstate NY
+2026-10-02 17:39:38,608 [DEBUG]   Filtered (not relevant): Cornell rape allegations focus attention on problems with NY laws that blame dru
+2026-10-02 17:39:38,609 [DEBUG]   Filtered (not relevant): Pentagon's new Office of Religious Affairs: What to know
+2026-10-02 17:39:38,610 [DEBUG]   Filtered (not relevant): A parkgoer's quick action led to the arrest of a naked man accused of lewd condu
+2026-10-02 17:39:38,610 [DEBUG]   Filtered (not relevant): AT&T addresses iPhone 18 Pro Max issues: What to know
+2026-10-02 17:39:38,610 [DEBUG]   Filtered (not relevant): Where to watch France vs. Italy Nations League soccer for free today
+2026-10-02 17:39:38,611 [DEBUG]   Filtered (not relevant): Lemon olive oil muffins
+2026-10-02 17:39:38,612 [DEBUG]   Filtered (not relevant): Spinach cottage cheese lasagna
+2026-10-02 17:39:38,612 [DEBUG]   Filtered (not relevant): Massachusetts man accused of sexual assault in Planet Fitness women’s locker roo
+2026-10-02 17:39:38,613 [DEBUG]   Filtered (not relevant): Dollar Tree issues nationwide recall for 360K+ party supplies after fires, explo
+2026-10-02 17:39:38,613 [DEBUG]   Filtered (not relevant): A troubling new milestone has health officials watching Pennsylvania closely
+2026-10-02 17:39:38,614 [DEBUG]   Filtered (not relevant): Former NFL All-Pro dies at 80
+2026-10-02 17:39:38,614 [DEBUG]   Filtered (not relevant): Michael Douglas reveals decades-old Kathleen Turner romance
+2026-10-02 17:39:38,614 [DEBUG]   Filtered (not relevant): Driver in Maine attempts to hit reporter after heated confrontation
+2026-10-02 17:39:38,615 [DEBUG]   Filtered (not relevant): Speeding truck veers off road in Upstate NY. Teen passenger dies
+2026-10-02 17:39:38,615 [DEBUG]   Filtered (not relevant): Fashion retailer to close 120 stores
+2026-10-02 17:39:38,616 [DEBUG]   Filtered (not relevant): Man and dog displaced after house fire in Syracuse
+2026-10-02 17:39:38,616 [DEBUG]   Filtered (not relevant): Discontinued candy to make its return: ‘Best day ever’
+2026-10-02 17:39:38,617 [DEBUG]   Filtered (not relevant): Rescue crews battle harsh conditions after devastating Himalayan avalanche
+2026-10-02 17:39:38,617 [DEBUG]   Filtered (not relevant): Dear Annie: How do I deal with a lonely neighbor who oversteps boundaries at eve
+2026-10-02 17:39:38,618 [DEBUG]   Filtered (not relevant): Wynonna Judd reveals how she learned about new grandchild
+2026-10-02 17:39:38,618 [DEBUG]   Filtered (not relevant): HOKA Clifton 10 vs. Nike Pegasus 42: Which running shoe should you buy for easy 
+2026-10-02 17:39:38,618 [DEBUG]   Filtered (not relevant): Reality star, 61, hospitalized after suffering heart attack
+2026-10-02 17:39:38,619 [DEBUG]   Filtered (not relevant): Upstate NY couple banned for life from owning pets in cruelty case
+2026-10-02 17:39:38,619 [DEBUG]   Filtered (not relevant): Yes, you can buy 2026 World Series tickets early, but there’s a catch
+2026-10-02 17:39:38,620 [DEBUG]   Filtered (not relevant): A changing church: Why some congregations are closing while others are growing
+2026-10-02 17:39:38,620 [DEBUG]   Filtered (not relevant): Didn’t get Slipknot tickets? Here’s where you can still buy them
+2026-10-02 17:39:38,621 [DEBUG]   Filtered (not relevant): Michael Kors Outlet handbags are up to 82% off right now: Here’s what we’re addi
+2026-10-02 17:39:38,621 [DEBUG]   Filtered (not relevant): DeWayne Carter says he's 'one of the best' as Bills' run defense improves
+2026-10-02 17:39:38,622 [DEBUG]   Filtered (not relevant): Halle Berry’s ex obtains temporary restraining order
+2026-10-02 17:39:38,622 [DEBUG]   Filtered (not relevant): Over 1,670 flights delayed, 140 canceled amid widespread U.S. travel disruptions
+2026-10-02 17:39:38,622 [DEBUG]   Filtered (not relevant): ‘I am Jane Doe’: The fight to protect Cornell rape accuser’s identity from AI
+2026-10-02 17:39:38,623 [DEBUG]   Filtered (not relevant): This Upstate NY chemical plant is shutting down after 80 years
+2026-10-02 17:39:38,623 [DEBUG]   Filtered (not relevant): Judge banishes notorious slumlord from Syracuse, orders $7M in fines
+2026-10-02 17:39:38,623 [DEBUG]   Filtered (not relevant): Pentagon doubles monthly hostile fire pay for troops
+2026-10-02 17:39:38,624 [DEBUG]   Filtered (not relevant): Gypsy Rose Blanchard’s partner dies at 34: ‘Don’t know if it was intentional’
+2026-10-02 17:39:38,624 [DEBUG]   Filtered (not relevant): Didn’t get Hilary Duff 2027 ‘Lucky Me Tour’ tickets? Here’s where you can still 
+2026-10-02 17:39:38,626 [INFO] News Scanner Run — 2026-10-02 17:39
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Upstate NY mayor 'lying' about gas station dispute, Seneca Nation leader says
+

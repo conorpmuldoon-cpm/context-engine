@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00286",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/10/seneca-nation-accuses-upstate-ny-mayor-of-lying-continues-gas-station-work.html",
+  "publication_date": "2026-10-02",
+  "capture_date": "2026-10-02T17:39:38Z",
+  "title": "Upstate NY mayor 'lying' about gas station dispute, Seneca Nation leader says",
+  "summary": "The Seneca Nation is proceeding with a $10 million gas station development project in Buffalo despite disputes with the city over municipal authority. A Seneca Nation leader has publicly rejected the mayor's position on the city's ability to halt construction, characterizing claims as false. This represents an ongoing intergovernmental and land-use conflict between tribal and municipal jurisdictions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "intergovernmental",
+    "land-use",
+    "zoning",
+    "economic-development",
+    "escalating",
+    "business-community",
+    "permitting"
+  ],
+  "department_refs": [
+    "City Planning",
+    "Permitting and Zoning"
+  ],
+  "entity_refs": [
+    {
+      "name": "Seneca Nation",
+      "type": "organization",
+      "canonical_id": "ORG-SENECA-NATION"
+    },
+    {
+      "name": "Buffalo Mayor",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "Tribal sovereignty and municipal authority in conflict; Seneca Nation directly challenging city's jurisdictional claims and proceeding despite municipal objections",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article location is Buffalo, not Syracuse; may be peripheral to CIO scope depending on regional integration priorities",
+    "No specific Syracuse city departments directly mentioned",
+    "Dollar amount extracted ($10M) appears accurate but incomplete without project scope details",
+    "Jurisdictional conflict suggests potential GIS/boundary or permitting system coordination needs across tribal-municipal interface",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
