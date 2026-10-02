@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-WEB-2026-00177",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-10-02-Mayors-Office-News-145-PM",
+  "publication_date": "2026-10-02",
+  "capture_date": "2026-10-02T17:52:07Z",
+  "title": "Statement from Mayor Owens",
+  "summary": "Mayor Owens announces a major court judgment in code enforcement action against negligent landlord(s) in the Mendy Kletzky case, described as one of the largest awards the City has secured. The statement emphasizes the City's commitment to holding problem landlords accountable, ensuring property transfers to responsible owners, and protecting tenant safety and housing stability.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "code-enforcement",
+    "housing",
+    "mayor",
+    "residents",
+    "resolved",
+    "transparency"
+  ],
+  "department_refs": [
+    "Law Department",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor signals strong enforcement priority on tenant protection and housing code compliance, positioning administration as proactive on landlord accountability and resident safety",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No dollar amount specified in statement despite reference to 'one of the largest awards'—financial impact data unavailable",
+    "Case name 'Mendy Kletzky' provided but no property addresses or specific landlord entity names mentioned",
+    "Date format suggests future publication (2026); verify against actual release date",
+    "May connect to broader housing equity and tenant protection initiatives; recommend cross-reference with Housing Department and Law Department portfolios",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

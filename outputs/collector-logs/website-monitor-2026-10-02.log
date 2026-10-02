@@ -1,0 +1,24 @@
+2026-10-02 17:51:44,327 [INFO] ============================================================
+2026-10-02 17:51:44,327 [INFO] Website Monitor starting
+2026-10-02 17:51:45,021 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-10-02 17:51:45,021 [INFO]   Navigating to https://www.syr.gov/News
+2026-10-02 17:51:50,928 [INFO]   Found 9 article links in News
+2026-10-02 17:51:55,928 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-10-02-Mayors-Office-News-145-PM
+2026-10-02 17:52:07,725 [INFO]     Saved: CTX-WEB-2026-00177 → CTX-WEB-2026-00177.json
+2026-10-02 17:52:07,725 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-10-02 17:52:07,725 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-10-02 17:52:11,087 [INFO]   Found 0 article links in Announcements
+2026-10-02 17:52:16,087 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-10-02 17:52:16,087 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-10-02 17:52:19,763 [INFO]   Found 0 article links in Public Notices
+2026-10-02 17:52:24,851 [INFO] Website Monitor Run — 2026-10-02 17:52
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 8
+Errors: 0
+
+New records:
+  • Statement from Mayor Owens
+
