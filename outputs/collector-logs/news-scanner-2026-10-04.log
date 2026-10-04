@@ -1,0 +1,76 @@
+2026-10-04 16:39:44,671 [INFO] ============================================================
+2026-10-04 16:39:44,671 [INFO] News Scanner starting
+2026-10-04 16:39:44,672 [INFO] Fetching: Syracuse.com Politics
+2026-10-04 16:39:45,216 [INFO]   50 new articles from Syracuse.com Politics
+2026-10-04 16:39:45,216 [INFO] Fetching: Syracuse.com Government
+2026-10-04 16:39:45,405 [INFO]   0 new articles from Syracuse.com Government
+2026-10-04 16:39:45,405 [INFO] Fetching: Syracuse.com Local
+2026-10-04 16:39:45,627 [INFO]   0 new articles from Syracuse.com Local
+2026-10-04 16:39:45,627 [INFO] Fetching: Syracuse.com Main
+2026-10-04 16:39:45,812 [INFO]   0 new articles from Syracuse.com Main
+2026-10-04 16:39:45,812 [INFO] Total unique articles across all feeds: 50
+2026-10-04 16:39:45,812 [INFO] New articles (not previously processed): 50
+2026-10-04 16:39:45,925 [DEBUG]   Filtered (not relevant): Buffalo Bills vs. New England Patriots: Live score, updates
+2026-10-04 16:39:45,926 [DEBUG]   Filtered (not relevant): Where to watch Liberty vs. Dream Game 1 today: WNBA free live stream
+2026-10-04 16:39:45,926 [DEBUG]   Filtered (not relevant): Donut chain is offering ‘frightfully good deals’ the month of October
+2026-10-04 16:39:45,927 [DEBUG]   Filtered (not relevant): Finebaum, Dinich debate SEC’s most complete team
+2026-10-04 16:39:45,927 [DEBUG]   Filtered (not relevant): Vacant Syracuse home heavily damaged in late-night fire
+2026-10-04 16:39:45,928 [DEBUG]   Filtered (not relevant): Cayuga County real estate: See all residential properties sold, Sept. 21-27
+2026-10-04 16:39:45,928 [DEBUG]   Filtered (not relevant): ‘Marshals’ cast changes: See who’s not returning for season 2
+2026-10-04 16:39:45,929 [DEBUG]   Filtered (not relevant): Bills vs. Patriots: Christian Benford among inactives for Week 4
+2026-10-04 16:39:45,929 [DEBUG]   Filtered (not relevant): Christa Pike’s lawyer on CNN: Hasn’t regained consciousness
+2026-10-04 16:39:45,929 [DEBUG]   Filtered (not relevant): Dear Annie: When my husband brings home artificial flowers I cringe
+2026-10-04 16:39:45,930 [DEBUG]   Filtered (not relevant): Where to watch Jets vs. Bears NFL for free today
+2026-10-04 16:39:45,930 [DEBUG]   Filtered (not relevant): Daylight saving time ends on earliest possible day this year: When does the time
+2026-10-04 16:39:45,931 [DEBUG]   Filtered (not relevant): The real-life values of iconic horror-movie homes will shock you
+2026-10-04 16:39:45,931 [DEBUG]   Filtered (not relevant): Where to watch Cardinals vs. Giants NFL Week 4 free live stream today
+2026-10-04 16:39:45,931 [DEBUG]   Filtered (not relevant): Cortland County real estate: See all residential properties sold, Sept. 21-27
+2026-10-04 16:39:45,932 [DEBUG]   Filtered (not relevant): Kalshi confirms new $55 promo code SYRACUSE for NFL Week 4
+2026-10-04 16:39:45,933 [DEBUG]   Filtered (not relevant): Syracuse finds a quick fix for pass-blocking struggles at UConn (PFF grades, sna
+2026-10-04 16:39:45,933 [DEBUG]   Filtered (not relevant): Ask Mayo Clinic: How to know if your rotator cuff tear can heal without surgery
+2026-10-04 16:39:45,933 [DEBUG]   Filtered (not relevant): Best Streameast alternative to watch the Buffalo Bills game today
+2026-10-04 16:39:45,934 [DEBUG]   Filtered (not relevant): NFL Polymarket referral code “CUSE” launches $50 bonus for Week 4
+2026-10-04 16:39:45,934 [DEBUG]   Filtered (not relevant): Mat Williamson wins fourth Outlaw 200 at Fulton
+2026-10-04 16:39:45,935 [INFO]   Relevant: Man stabbed on South Side of Syracuse; suspect also injured
+2026-10-04 16:39:45,935 [DEBUG]     → Departments: Syracuse Police Department
+2026-10-04 16:39:45,935 [DEBUG]     → Keywords: syracuse police
+2026-10-04 16:39:49,899 [INFO]     Saved: CTX-NEWS-2026-00287 → CTX-NEWS-2026-00287.json
+2026-10-04 16:39:49,900 [DEBUG]   Filtered (not relevant): Sheriff’s deputy involved in two-vehicle crash in Syracuse
+2026-10-04 16:39:49,900 [DEBUG]   Filtered (not relevant): Seneca County real estate: See all residential properties sold, Sept. 14-27
+2026-10-04 16:39:49,901 [DEBUG]   Filtered (not relevant): Iconic singer’s death at 63 rocks music world: ‘Was such a powerhouse bluesy voc
+2026-10-04 16:39:49,901 [DEBUG]   Filtered (not relevant): Editorial cartoons for Oct. 4, 2026: AI self-regulation, midterm campaign, Trump
+2026-10-04 16:39:49,902 [DEBUG]   Filtered (not relevant): How to watch WNBA Playoffs semifinals for free this week
+2026-10-04 16:39:49,902 [DEBUG]   Filtered (not relevant): Whale entanglements exceed 30 on East Coast
+2026-10-04 16:39:49,903 [DEBUG]   Filtered (not relevant): Fran Brown pulled out all the stops just to beat UConn. But did he find any fixe
+2026-10-04 16:39:49,903 [DEBUG]   Filtered (not relevant): Popular singer urges fans not to go off their medication after confusing lyric
+2026-10-04 16:39:49,903 [DEBUG]   Filtered (not relevant): $1.2 million for estate: Plus 138 more Onondaga County home sales
+2026-10-04 16:39:49,904 [DEBUG]   Filtered (not relevant): How strangers helped men evade immigration arrest in CNY (Top stories)
+2026-10-04 16:39:49,904 [DEBUG]   Filtered (not relevant): What patients should know about the hidden costs of emergency care
+2026-10-04 16:39:49,905 [DEBUG]   Filtered (not relevant): SU football found a big answer in UConn win but plenty of questions linger | Axe
+2026-10-04 16:39:49,905 [DEBUG]   Filtered (not relevant): The 5 worst U.S. airports for flight connections: survey
+2026-10-04 16:39:49,905 [DEBUG]   Filtered (not relevant): Cornell is the tip of the rape culture iceberg (Editorial Board Opinion)
+2026-10-04 16:39:49,906 [DEBUG]   Filtered (not relevant): CNY Inspirations: Apprenticeship in presence
+2026-10-04 16:39:49,906 [DEBUG]   Filtered (not relevant): ‘I know he’s ready’: Amari Odom takes the reins and makes ‘do or die’ throw
+2026-10-04 16:39:49,906 [DEBUG]   Filtered (not relevant): What scientists discovered about dogs and human emotions
+2026-10-04 16:39:49,907 [DEBUG]   Filtered (not relevant): Booming chicken chains expand with new spots
+2026-10-04 16:39:49,907 [DEBUG]   Filtered (not relevant): Farmers struggle to sell once-lucrative produce: ‘Sickening’
+2026-10-04 16:39:49,907 [DEBUG]   Filtered (not relevant): Music icon Mighty Sparrow dies at 91
+2026-10-04 16:39:49,908 [DEBUG]   Filtered (not relevant): Today’s horoscope: Capricorn - Rethink your position, vulnerability and skills (
+2026-10-04 16:39:49,908 [DEBUG]   Filtered (not relevant): Where to watch Colts vs. Commanders International NFL game for free
+2026-10-04 16:39:49,908 [DEBUG]   Filtered (not relevant): Beloved rock musician dead at 75: ‘One of the greatest drummers on the planet’
+2026-10-04 16:39:49,909 [DEBUG]   Filtered (not relevant): Dear Abby: My friend's retirement means I get constant phone calls - but he's go
+2026-10-04 16:39:49,909 [DEBUG]   Filtered (not relevant): Country music star, actress have split up after 2 years. Here’s the latest
+2026-10-04 16:39:49,910 [DEBUG]   Filtered (not relevant): Prepare for dense fog in Southern Tier Sunday morning
+2026-10-04 16:39:49,911 [DEBUG]   Filtered (not relevant): Prepare for dense fog in parts of Upstate NY Sunday morning
+2026-10-04 16:39:49,911 [DEBUG]   Filtered (not relevant): ‘Pawn Stars’ star Rick Harrison breaks silence after heart surgery, ex-wife’s de
+2026-10-04 16:39:49,913 [INFO] News Scanner Run — 2026-10-04 16:39
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Man stabbed on South Side of Syracuse; suspect also injured
+

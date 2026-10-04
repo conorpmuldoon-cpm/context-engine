@@ -1,0 +1,52 @@
+{
+  "record_id": "CTX-NEWS-2026-00287",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/10/man-stabbed-in-the-hand-on-south-side-of-syracuse.html",
+  "publication_date": "2026-10-04",
+  "capture_date": "2026-10-04T16:39:49Z",
+  "title": "Man stabbed on South Side of Syracuse; suspect also injured",
+  "summary": "A stabbing incident occurred on Syracuse's South Side on October 4, 2026, with police responding to 1500 block of South State Street around 9:30 p.m. A man sustained a stab wound to his hand, and the suspect was also injured. This incident represents routine crime reporting with potential implications for public safety data tracking and emergency response documentation.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "emergency-services",
+    "public-safety-commission"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Thomas Blake",
+      "type": "person",
+      "canonical_id": "PERSON-THOMAS-BLAKE"
+    },
+    {
+      "name": "Vince Gasparini",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Victim and suspect identities not disclosed in public reporting",
+    "Article does not indicate whether charges were filed or investigation status",
+    "Location specified at street-block level; GIS mapping possible for crime analytics",
+    "Response time noted (dispatch to scene ~9:30 p.m.) but call receipt time not provided",
+    "No casualty severity assessment beyond wound description; hospitalization status unknown",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
