@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-NEWS-2026-00289",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/sports/2026/10/nfl-fans-keep-noticing-this-colts-sideline-habit-now-bill-simmons-is-weighing-in.html",
+  "publication_date": "2026-10-06",
+  "capture_date": "2026-10-06T18:06:54Z",
+  "title": "The Colts owner keeps doing one thing on game day. Bill Simmons isn’t holding back.",
+  "summary": "Sports media personality Bill Simmons publicly criticized Indianapolis Colts owner Carlie Irsay-Gordon for her on-field presence during games, specifically her use of headsets, notebooks, and proximity to coaching staff. This article is not relevant to Syracuse city government operations or the Chief Innovation Officer's mandate.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Bill Simmons",
+      "type": "person",
+      "canonical_id": "PERSON-BILL-SIMMONS"
+    },
+    {
+      "name": "Carlie Irsay-Gordon",
+      "type": "person",
+      "canonical_id": "PERSON-CARLIE-IRSAY-GORDON"
+    },
+    {
+      "name": "Indianapolis Colts",
+      "type": "organization",
+      "canonical_id": "ORG-COLTS"
+    },
+    {
+      "name": "The Ringer",
+      "type": "organization",
+      "canonical_id": "ORG-THE-RINGER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "ARTICLE OUT OF SCOPE: This is a sports entertainment article about NFL team management, not a municipal government matter for Syracuse CIO.",
+    "No city government entities, departments, or policy implications detected.",
+    "Recommend filtering or exclusion from CIO briefings unless explicitly tracking sports industry commentary.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

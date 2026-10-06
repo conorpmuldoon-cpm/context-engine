@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2026-00288",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/10/police-pursue-car-through-syracuse-neighborhoods-after-robbery-reported.html",
+  "publication_date": "2026-10-06",
+  "capture_date": "2026-10-06T18:06:50Z",
+  "title": "Police pursue car through Syracuse neighborhoods after robbery reported",
+  "summary": "Syracuse Police Department responded to a robbery at Lower Onondaga Park on October 6, 2026, pursuing a vehicle operated by juveniles through nearby neighborhoods. Officers lost visual contact with the suspects during the pursuit. The incident highlights operational challenges in public safety response and suspect apprehension.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "emergency-services",
+    "public-safety-commission",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Matthew Malinowski",
+      "type": "person",
+      "canonical_id": "PERSON-MATTHEW-MALINOWSKI"
+    },
+    {
+      "name": "Lower Onondaga Park",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Finn Lincoln",
+      "type": "person",
+      "canonical_id": "PERSON-FINN-LINCOLN"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is primarily factual incident reporting with limited operational or policy implications",
+    "No budget, procurement, or systemic innovation angles detected",
+    "Crime-data tag applied for trend monitoring purposes",
+    "Lower Onondaga Park location noted for potential GIS/parks department coordination context",
+    "Juvenile suspect involvement may warrant future tracking if part of larger pattern",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

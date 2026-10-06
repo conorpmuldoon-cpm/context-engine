@@ -1,0 +1,80 @@
+2026-10-06 18:06:45,671 [INFO] ============================================================
+2026-10-06 18:06:45,671 [INFO] News Scanner starting
+2026-10-06 18:06:45,673 [INFO] Fetching: Syracuse.com Politics
+2026-10-06 18:06:46,320 [INFO]   50 new articles from Syracuse.com Politics
+2026-10-06 18:06:46,321 [INFO] Fetching: Syracuse.com Government
+2026-10-06 18:06:46,468 [INFO]   0 new articles from Syracuse.com Government
+2026-10-06 18:06:46,468 [INFO] Fetching: Syracuse.com Local
+2026-10-06 18:06:46,732 [INFO]   0 new articles from Syracuse.com Local
+2026-10-06 18:06:46,733 [INFO] Fetching: Syracuse.com Main
+2026-10-06 18:06:46,875 [INFO]   0 new articles from Syracuse.com Main
+2026-10-06 18:06:46,875 [INFO] Total unique articles across all feeds: 50
+2026-10-06 18:06:46,875 [INFO] New articles (not previously processed): 50
+2026-10-06 18:06:46,923 [DEBUG]   Filtered (not relevant): Freddie Jackson, ‘Rock Me Tonight’ singer, dies at 69
+2026-10-06 18:06:46,923 [DEBUG]   Filtered (not relevant): Major retailer launches holiday toy catalog, scannable wish list
+2026-10-06 18:06:46,924 [DEBUG]   Filtered (not relevant): A German shepherd was found with her muzzle wrapped in electrical tape. The SPCA
+2026-10-06 18:06:46,924 [DEBUG]   Filtered (not relevant): Syracuse judge grants injunction: Amarri Monroe eligible as case against NCAA pr
+2026-10-06 18:06:46,925 [DEBUG]   Filtered (not relevant): Target Circle Deal Days starts today with huge savings up to 40% off
+2026-10-06 18:06:46,925 [DEBUG]   Filtered (not relevant): A man acting suspiciously near an Upstate NY middle school had a knife and rifle
+2026-10-06 18:06:46,926 [DEBUG]   Filtered (not relevant): GOP supervisor, ousted in last year’s blue wave, aims to retake Spafford’s top j
+2026-10-06 18:06:46,926 [DEBUG]   Filtered (not relevant): Beloved country music singer shares new song ‘carrying’ him through heartbreakin
+2026-10-06 18:06:46,927 [INFO]   Relevant: Police pursue car through Syracuse neighborhoods after robbery reported
+2026-10-06 18:06:46,927 [DEBUG]     → Departments: Syracuse Police Department
+2026-10-06 18:06:46,927 [DEBUG]     → Keywords: syracuse police
+2026-10-06 18:06:50,460 [INFO]     Saved: CTX-NEWS-2026-00288 → CTX-NEWS-2026-00288.json
+2026-10-06 18:06:50,461 [DEBUG]   Filtered (not relevant): Syracuse.com’s boys soccer rankings (through Oct. 5): New No. 1s in a pair of cl
+2026-10-06 18:06:50,461 [DEBUG]   Filtered (not relevant): Check your home: Lights sold nationwide recalled after burn, shock injuries
+2026-10-06 18:06:50,462 [DEBUG]   Filtered (not relevant): Kalshi updates $55 MLB code “SYRACUSE” for Dodgers-Braves Game 3
+2026-10-06 18:06:50,462 [DEBUG]   Filtered (not relevant): Beloved fast-food chain’s new chicken bucket fits right in your cupholder
+2026-10-06 18:06:50,463 [DEBUG]   Filtered (not relevant): Senate stalls on permanent daylight saving time bill
+2026-10-06 18:06:50,463 [DEBUG]   Filtered (not relevant): Steelers coach says Pittsburgh needs to clean up its own mistakes
+2026-10-06 18:06:50,463 [DEBUG]   Filtered (not relevant): U.S. Mint releases 250th anniversary 10-coin set: What buyers will pay
+2026-10-06 18:06:50,464 [DEBUG]   Filtered (not relevant): Judge lets federal lawsuits proceed over Onondaga County deputy killing 2 teens
+2026-10-06 18:06:50,464 [DEBUG]   Filtered (not relevant): Check your drawer: Thousands of heating devices recalled nationwide for fire, bu
+2026-10-06 18:06:50,465 [DEBUG]   Filtered (not relevant): Walmart’s Fall Deals event has beauty finds worth adding to your cart
+2026-10-06 18:06:50,465 [DEBUG]   Filtered (not relevant): $90 Medicare payments hitting bank accounts: Who will and who won’t get a check
+2026-10-06 18:06:50,465 [DEBUG]   Filtered (not relevant): If you want a holiday job, you need to apply early
+2026-10-06 18:06:50,466 [DEBUG]   Filtered (not relevant): ‘American Idol’ alum found guilty of murdering wife — and his young daughters ha
+2026-10-06 18:06:50,466 [DEBUG]   Filtered (not relevant): Nationwide recall issued for e-bikes over dangerous fall risks: Return ASAP
+2026-10-06 18:06:50,466 [DEBUG]   Filtered (not relevant): ‘Riverdance’ legend announces wife of 20 years has died: ‘My heart is broken’
+2026-10-06 18:06:50,467 [DEBUG]   Filtered (not relevant): Dr Pepper to release new permanent flavor based on iconic treat
+2026-10-06 18:06:50,467 [DEBUG]   Filtered (not relevant): Bicyclist, 71, dies after hitting unleashed dog in NY’s Central Park
+2026-10-06 18:06:50,468 [DEBUG]   Filtered (not relevant): SUNY ESF President Joanie Mahoney to retire after 6 years in the job
+2026-10-06 18:06:50,468 [DEBUG]   Filtered (not relevant): Ferrari crash in Adirondacks kills 1, injures 3
+2026-10-06 18:06:50,469 [DEBUG]   Filtered (not relevant): Dear Annie: I don't want to lose my friendship, but her last-minute cancellation
+2026-10-06 18:06:50,469 [DEBUG]   Filtered (not relevant): Syracuse has missed more field goals than any team in the country. What’s the pr
+2026-10-06 18:06:50,469 [DEBUG]   Filtered (not relevant): Legendary college football coach dies at 75
+2026-10-06 18:06:50,470 [INFO]   Relevant: The Colts owner keeps doing one thing on game day. Bill Simmons isn’t holding ba
+2026-10-06 18:06:50,470 [DEBUG]     → Entities: Bill Simmons
+2026-10-06 18:06:54,105 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-10-06 18:06:54,117 [INFO]     Saved: CTX-NEWS-2026-00289 → CTX-NEWS-2026-00289.json
+2026-10-06 18:06:54,118 [DEBUG]   Filtered (not relevant): New details emerge in Robert Kelker-Kelly’s death
+2026-10-06 18:06:54,118 [DEBUG]   Filtered (not relevant): Here's how apparel retailers changing to fit needs of GLP-1 users
+2026-10-06 18:06:54,119 [DEBUG]   Filtered (not relevant): Gas prices for 10/06/26: National average at $4.36 per gallon
+2026-10-06 18:06:54,119 [DEBUG]   Filtered (not relevant): How a stolen 'gold key' cracked open a federal mail theft case in Niagara Falls 
+2026-10-06 18:06:54,119 [DEBUG]   Filtered (not relevant): Trump approves firing squad execution for Fort Hood shooter
+2026-10-06 18:06:54,120 [DEBUG]   Filtered (not relevant): Why one New Orleans game still means so much to Mike Tirico
+2026-10-06 18:06:54,120 [DEBUG]   Filtered (not relevant): An Upstate NY homeowner opened fire on an intruder early Tuesday — here's what i
+2026-10-06 18:06:54,120 [DEBUG]   Filtered (not relevant): Over 997 flights delayed, 47 canceled amid widespread U.S. travel disruptions
+2026-10-06 18:06:54,121 [DEBUG]   Filtered (not relevant): Best Buy’s ‘Techtober’ sale is here with deals on TVs, Apple, Amazon devices and
+2026-10-06 18:06:54,122 [DEBUG]   Filtered (not relevant): Halle Berry makes new claims against ex in custody fight
+2026-10-06 18:06:54,122 [DEBUG]   Filtered (not relevant): What a high school runner found in a Long Island park could bring a family long-
+2026-10-06 18:06:54,123 [DEBUG]   Filtered (not relevant): How Cicero home sale growth stands out: See new real estate data
+2026-10-06 18:06:54,123 [DEBUG]   Filtered (not relevant): Jim Bakker, disgraced televangelist known for financial and sex scandals, dead a
+2026-10-06 18:06:54,124 [DEBUG]   Filtered (not relevant): What investigators discovered behind one online collectibles business
+2026-10-06 18:06:54,124 [DEBUG]   Filtered (not relevant): What will fill the void left by I-81? Syracuse needs to start asking now (Your L
+2026-10-06 18:06:54,125 [DEBUG]   Filtered (not relevant): Oct. 5 Powerball results: $2 million winner sold in southern state
+2026-10-06 18:06:54,125 [DEBUG]   Filtered (not relevant): 8-year-old Upstate NY girl is missing, believed endangered
+2026-10-06 18:06:54,125 [DEBUG]   Filtered (not relevant): Could measles leave children vulnerable long after they recover?
+2026-10-06 18:06:54,127 [INFO] News Scanner Run — 2026-10-06 18:06
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Police pursue car through Syracuse neighborhoods after robbery reported
+  • The Colts owner keeps doing one thing on game day. Bill Simmons isn’t holding ba
+
