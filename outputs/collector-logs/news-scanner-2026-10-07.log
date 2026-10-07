@@ -1,0 +1,77 @@
+2026-10-07 18:39:53,890 [INFO] ============================================================
+2026-10-07 18:39:53,890 [INFO] News Scanner starting
+2026-10-07 18:39:53,892 [INFO] Fetching: Syracuse.com Politics
+2026-10-07 18:39:54,542 [INFO]   50 new articles from Syracuse.com Politics
+2026-10-07 18:39:54,543 [INFO] Fetching: Syracuse.com Government
+2026-10-07 18:39:54,688 [INFO]   0 new articles from Syracuse.com Government
+2026-10-07 18:39:54,688 [INFO] Fetching: Syracuse.com Local
+2026-10-07 18:39:54,875 [INFO]   0 new articles from Syracuse.com Local
+2026-10-07 18:39:54,875 [INFO] Fetching: Syracuse.com Main
+2026-10-07 18:39:55,021 [INFO]   0 new articles from Syracuse.com Main
+2026-10-07 18:39:55,021 [INFO] Total unique articles across all feeds: 50
+2026-10-07 18:39:55,021 [INFO] New articles (not previously processed): 50
+2026-10-07 18:39:55,067 [DEBUG]   Filtered (not relevant): Pennsylvania grape farmers face crisis as millions of Concord grapes go unsold
+2026-10-07 18:39:55,067 [DEBUG]   Filtered (not relevant): Stephen A Smith called out for controversial comments about Eagles legend retiri
+2026-10-07 18:39:55,068 [DEBUG]   Filtered (not relevant): VA education benefits just went up: What to know
+2026-10-07 18:39:55,068 [DEBUG]   Filtered (not relevant): Mia Goth files for divorce from Shia LaBeouf, seeks primary custody
+2026-10-07 18:39:55,069 [DEBUG]   Filtered (not relevant): Wisconsin mourns trooper Bradley Ritger after fatal injuries during I-94 pursuit
+2026-10-07 18:39:55,069 [DEBUG]   Filtered (not relevant): Syracuse.com’s girls soccer rankings (through Oct. 6): 2 weeks left before secti
+2026-10-07 18:39:55,069 [DEBUG]   Filtered (not relevant): Upstate NY cidery named best in the nation
+2026-10-07 18:39:55,070 [DEBUG]   Filtered (not relevant): 3 men plead guilty to poaching 41 bobcats, shipping pelts to Canada
+2026-10-07 18:39:55,070 [DEBUG]   Filtered (not relevant): Megyn Kelly slams beloved pop star for speaking out on Cornell rape case: ‘Shut 
+2026-10-07 18:39:55,070 [DEBUG]   Filtered (not relevant): Owala’s new $40 Book Club Color Drop is made for readers, but it’s selling fast
+2026-10-07 18:39:55,071 [DEBUG]   Filtered (not relevant): Views on candidates Corl, Manfredi, Weatherup and the ‘low-information voter’ (Y
+2026-10-07 18:39:55,071 [DEBUG]   Filtered (not relevant): Camillus boy reels in 26-inch personal best catfish
+2026-10-07 18:39:55,072 [DEBUG]   Filtered (not relevant): Oneida County real estate: 10 most expensive homes sold September 2026
+2026-10-07 18:39:55,072 [DEBUG]   Filtered (not relevant): A mom’s routine morning walk ended in tragedy. Now a company is on trial
+2026-10-07 18:39:55,073 [DEBUG]   Filtered (not relevant): Big Ten basketball coach who reached Final 4 retires suddenly
+2026-10-07 18:39:55,073 [DEBUG]   Filtered (not relevant): Secrets to success: How 5 Section III boys soccer teams turned around their seas
+2026-10-07 18:39:55,073 [DEBUG]   Filtered (not relevant): Immersive Harry Potter forest trail returns to NY, and tickets are selling fast
+2026-10-07 18:39:55,074 [DEBUG]   Filtered (not relevant): Oreo partners with beloved chain to create 3 new fast-food treats for Halloween
+2026-10-07 18:39:55,075 [DEBUG]   Filtered (not relevant): Ebbeh (cassava and seafood soup)
+2026-10-07 18:39:55,075 [DEBUG]   Filtered (not relevant): Marmalade poppy seed muffins
+2026-10-07 18:39:55,076 [DEBUG]   Filtered (not relevant): Watch Dodgers vs Braves MLB playoff Game 4 streaming live for free
+2026-10-07 18:39:55,077 [DEBUG]   Filtered (not relevant): Grandma's butter chicken wings
+2026-10-07 18:39:55,077 [DEBUG]   Filtered (not relevant): Kalshi code “SYRACUSE” $55 bonus upgraded for Rays-Yankees MLB Wednesday
+2026-10-07 18:39:55,078 [DEBUG]   Filtered (not relevant): Could a mysterious object in the Pacific solve the Amelia Earhart mystery?
+2026-10-07 18:39:55,078 [DEBUG]   Filtered (not relevant): Buffalo father guilty of murder in 3-month-old's death
+2026-10-07 18:39:55,079 [DEBUG]   Filtered (not relevant): John Mayer Sphere presale starts today: How to get tickets before they sell out
+2026-10-07 18:39:55,079 [DEBUG]   Filtered (not relevant): How much will Disney World cost you in 2027?
+2026-10-07 18:39:55,079 [DEBUG]   Filtered (not relevant): Cutting city trees is more than upsetting; it worsens the heat crisis (Your Lett
+2026-10-07 18:39:55,080 [DEBUG]   Filtered (not relevant): Matthew Lillard says he still has to ‘fight for jobs’
+2026-10-07 18:39:55,080 [INFO]   Relevant: Syracuse police refuse to give city’s watchdog board any records needed for inve
+2026-10-07 18:39:55,080 [DEBUG]     → Departments: Syracuse Police Department
+2026-10-07 18:39:55,080 [DEBUG]     → Keywords: syracuse police
+2026-10-07 18:39:58,985 [INFO]     Dedup match: CTX-NEWS-2026-00288 — linking via cluster
+2026-10-07 18:39:58,985 [INFO]     Saved: CTX-NEWS-2026-00290 → CTX-NEWS-2026-00290.json
+2026-10-07 18:39:58,986 [DEBUG]   Filtered (not relevant): Class B shakeup for Section III teams in latest high school football state ranki
+2026-10-07 18:39:58,987 [DEBUG]   Filtered (not relevant): How to watch NFL Week 5 games for free this week
+2026-10-07 18:39:58,987 [DEBUG]   Filtered (not relevant): Target Circle Deal Days ends tonight - Don’t miss out on these trending deals
+2026-10-07 18:39:58,988 [DEBUG]   Filtered (not relevant): California moves toward first-in-U.S. quartz countertop ban
+2026-10-07 18:39:58,988 [DEBUG]   Filtered (not relevant): He allegedly refused to pay for 2 pizzas, then police found him holding what loo
+2026-10-07 18:39:58,989 [DEBUG]   Filtered (not relevant): ‘Dancing With the Stars’ viewers slam shocking elimination: ‘This is so ridiculo
+2026-10-07 18:39:58,989 [DEBUG]   Filtered (not relevant): FKA Twigs’ NDA voided in Shia LaBeouf settlement
+2026-10-07 18:39:58,989 [DEBUG]   Filtered (not relevant): Highly contagious: Measles cases near 4K in US as outbreaks continue
+2026-10-07 18:39:58,990 [DEBUG]   Filtered (not relevant): Beloved rock musician announces he has rare stage 4 cancer: ‘I want to stick aro
+2026-10-07 18:39:58,990 [DEBUG]   Filtered (not relevant): President Trump’s campaign rally in Syracuse will be at the Oncenter
+2026-10-07 18:39:58,991 [DEBUG]   Filtered (not relevant): Some veterans and service members can now get a cheaper VA home loan: Who qualif
+2026-10-07 18:39:58,991 [DEBUG]   Filtered (not relevant): British Uber driver accused of repeatedly running over passenger who vomited in 
+2026-10-07 18:39:58,991 [DEBUG]   Filtered (not relevant): 6-time MLB All-Star dies at 84
+2026-10-07 18:39:58,992 [DEBUG]   Filtered (not relevant): Chet Hanks confronts Eric André at ComplexCon
+2026-10-07 18:39:58,992 [DEBUG]   Filtered (not relevant): Hochul orders state fairgrounds, other landmarks lit in yellow on anniversary of
+2026-10-07 18:39:58,993 [DEBUG]   Filtered (not relevant): Water conservation order issued for Cayuga County village after water main break
+2026-10-07 18:39:58,993 [DEBUG]   Filtered (not relevant): Amarri Monroe case highlights eligibility chaos: ‘It’s not the way it should be’
+2026-10-07 18:39:58,993 [DEBUG]   Filtered (not relevant): Dear Annie: Should I talk to neighbor again about her noisy dogs, or let it lie?
+2026-10-07 18:39:58,994 [DEBUG]   Filtered (not relevant): Social Security ends alternative work schedules on Nov. 16
+2026-10-07 18:39:58,994 [DEBUG]   Filtered (not relevant): Watch Guardians-White Sox MLB playoffs Game 3 streaming free
+2026-10-07 18:39:58,996 [INFO] News Scanner Run — 2026-10-07 18:39
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Syracuse police refuse to give city’s watchdog board any records needed for inve
+

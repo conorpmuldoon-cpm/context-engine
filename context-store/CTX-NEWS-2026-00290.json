@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-NEWS-2026-00290",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/10/syracuse-police-refuse-to-give-citys-watchdog-board-any-records-needed-for-investigations.html",
+  "publication_date": "2026-10-07",
+  "capture_date": "2026-10-07T18:39:58Z",
+  "title": "Syracuse police refuse to give city’s watchdog board any records needed for investigations",
+  "summary": "Syracuse Police Department refused to provide records to the city's police watchdog board needed to investigate 11 officer complaints. This represents a significant transparency and accountability issue that directly impacts the oversight mechanisms designed to ensure police department accountability and public trust.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "complaint",
+    "investigation",
+    "transparency",
+    "escalating",
+    "public-safety-commission",
+    "constituent-complaints",
+    "policy-change"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Police Watchdog Board",
+      "type": "organization",
+      "canonical_id": "ORG-WATCHDOG-BOARD"
+    },
+    {
+      "name": "Finn Lincoln",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public accountability mechanism (watchdog board) being obstructed by police department; indicates potential governance failure and lack of transparency in police oversight structures.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2026-00288"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article indicates systemic transparency problem requiring CIO attention for records management systems and data governance protocols",
+    "Potential connection to data-governance and IT-infrastructure modernization efforts",
+    "No specific entity names provided for individual officers or board members",
+    "11 specific complaints referenced but not detailed in excerpt",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-NEWS-2026-00288 — linked for review"
+  ],
+  "last_relevance_update": null
+}
