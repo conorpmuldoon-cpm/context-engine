@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2026-00291",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/10/how-will-trumps-visit-hurt-travel-in-city-syracuse-police-wont-say-what-roads-will-close.html",
+  "publication_date": "2026-10-08",
+  "capture_date": "2026-10-08T18:38:36Z",
+  "title": "How will Trump’s visit hurt travel in city? Syracuse police won’t say what roads will close",
+  "summary": "Syracuse Police Department declined to publicly disclose road closure details ahead of President Trump's campaign event scheduled for Friday, October 8, 2026. The lack of transparency regarding traffic impact and route changes has left Central New Yorkers without advance notice needed for travel planning, raising concerns about public communication protocols during high-profile events.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "roads-bridges",
+    "transportation",
+    "emergency-services",
+    "transparency",
+    "residents",
+    "announcement"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Donald Trump",
+      "type": "person",
+      "canonical_id": "PERSON-DONALD-TRUMP"
+    },
+    {
+      "name": "Finn Lincoln",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "News coverage critiques police non-disclosure of security-related road closures, suggesting inadequate constituent communication during politically significant event.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2026-00288"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date (2026-10-08) is future-dated; may be test data or scheduling artifact",
+    "No specific roads or closure duration identified in excerpt",
+    "Transparency concern intersects with both public-safety and constituent-service functions",
+    "PROVISIONAL tag 'road-closure-fees' considered but not applied—article lacks fee discussion",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-NEWS-2026-00288 — linked for review"
+  ],
+  "last_relevance_update": null
+}

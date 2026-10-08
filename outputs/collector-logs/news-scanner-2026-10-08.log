@@ -1,0 +1,77 @@
+2026-10-08 18:38:30,183 [INFO] ============================================================
+2026-10-08 18:38:30,183 [INFO] News Scanner starting
+2026-10-08 18:38:30,184 [INFO] Fetching: Syracuse.com Politics
+2026-10-08 18:38:30,920 [INFO]   50 new articles from Syracuse.com Politics
+2026-10-08 18:38:30,920 [INFO] Fetching: Syracuse.com Government
+2026-10-08 18:38:31,395 [INFO]   0 new articles from Syracuse.com Government
+2026-10-08 18:38:31,395 [INFO] Fetching: Syracuse.com Local
+2026-10-08 18:38:31,746 [INFO]   0 new articles from Syracuse.com Local
+2026-10-08 18:38:31,747 [INFO] Fetching: Syracuse.com Main
+2026-10-08 18:38:31,919 [INFO]   0 new articles from Syracuse.com Main
+2026-10-08 18:38:31,920 [INFO] Total unique articles across all feeds: 50
+2026-10-08 18:38:31,920 [INFO] New articles (not previously processed): 50
+2026-10-08 18:38:31,983 [DEBUG]   Filtered (not relevant): Brewers NLCS gear is selling out fast: Here's where to buy it
+2026-10-08 18:38:31,983 [DEBUG]   Filtered (not relevant): Beloved fast-food burger chain with devoted following sets opening for new resta
+2026-10-08 18:38:31,984 [DEBUG]   Filtered (not relevant): Hurricane Isaias is expected to strengthen as it barrels toward US
+2026-10-08 18:38:31,984 [DEBUG]   Filtered (not relevant): Former CIA official pleads guilty in massive fraud case involving gold bars
+2026-10-08 18:38:31,985 [DEBUG]   Filtered (not relevant): Michael Douglas recalls romantic rivalry with Kobe Bryant
+2026-10-08 18:38:31,985 [DEBUG]   Filtered (not relevant): Checkout the new Starbucks cups coming to stores next month
+2026-10-08 18:38:31,985 [DEBUG]   Filtered (not relevant): What prompted the sudden relocation of U.S. bombers from Britain?
+2026-10-08 18:38:31,986 [DEBUG]   Filtered (not relevant): Russian plague incident: What we know about the mysterious death and quarantine
+2026-10-08 18:38:31,986 [DEBUG]   Filtered (not relevant): Walmart’s viral Cloud Couch is on sale for $400 off during the Fall Deals event
+2026-10-08 18:38:31,987 [DEBUG]   Filtered (not relevant): College soccer star forced to retire after getting leg amputated
+2026-10-08 18:38:31,987 [DEBUG]   Filtered (not relevant): CSX train hits car in Upstate NY, sending one to hospital
+2026-10-08 18:38:31,988 [DEBUG]   Filtered (not relevant): Police: Man used toilet ruse to trap, attack woman in her home
+2026-10-08 18:38:31,989 [DEBUG]   Filtered (not relevant): Clam pasta with white wine and garlic
+2026-10-08 18:38:31,989 [DEBUG]   Filtered (not relevant): Maple cardamom sticky buns
+2026-10-08 18:38:31,990 [DEBUG]   Filtered (not relevant): Here’s how much more you’ll pay for Halloween candy this year
+2026-10-08 18:38:31,990 [DEBUG]   Filtered (not relevant): Man arrested for trying to smuggle 10 live birds into the U.S. in a bizarre hidi
+2026-10-08 18:38:31,990 [DEBUG]   Filtered (not relevant): Getting a passport just got a lot easier
+2026-10-08 18:38:31,991 [DEBUG]   Filtered (not relevant): Angler almost called it quits before reeling in 1,116-pound fish that set state 
+2026-10-08 18:38:31,991 [DEBUG]   Filtered (not relevant): Reality TV stars split after nine years of dating: ‘Sick of not getting basic re
+2026-10-08 18:38:31,991 [DEBUG]   Filtered (not relevant): Hurricane Isaias forces changes to ESPN’s ‘GameDay’
+2026-10-08 18:38:31,992 [DEBUG]   Filtered (not relevant): VA burial benefits just went up: Here’s how much more your family can get
+2026-10-08 18:38:31,993 [DEBUG]   Filtered (not relevant): Kalshi code “SYRACUSE” $55 bonus extended for Buccaneers-Cowboys Thursday Night 
+2026-10-08 18:38:31,993 [DEBUG]   Filtered (not relevant): New report reveals the growing toll on U.S. military aircraft in Iran
+2026-10-08 18:38:31,993 [DEBUG]   Filtered (not relevant): NFL QB tabbed ESPN’s ‘College GameDay’ guest picker
+2026-10-08 18:38:31,994 [DEBUG]   Filtered (not relevant): How to secure Aerosmith presale tickets for Hollywood Bowl comeback shows
+2026-10-08 18:38:31,994 [DEBUG]   Filtered (not relevant): 15-year-old arrested after 1 dead in school attack in Poland
+2026-10-08 18:38:31,995 [DEBUG]   Filtered (not relevant): Still looking for Olivia Rodrigo tickets? I found the best places to buy them
+2026-10-08 18:38:31,995 [DEBUG]   Filtered (not relevant): Who are the Section III football midseason MVPs? Coaches make their picks
+2026-10-08 18:38:31,996 [DEBUG]   Filtered (not relevant): Best Buy’s ‘techtober’ sale slashes up to 50% off select TVs: LG, Insignia, more
+2026-10-08 18:38:31,996 [DEBUG]   Filtered (not relevant): Why did I get $90 payment from Social Security? What to know about Medicare reim
+2026-10-08 18:38:31,996 [DEBUG]   Filtered (not relevant): College football player gets heart transplant, coach reveals
+2026-10-08 18:38:31,997 [DEBUG]   Filtered (not relevant): Buffalo man arrested for allegedly threatening to kill Georgia congressman
+2026-10-08 18:38:31,997 [DEBUG]   Filtered (not relevant): Beloved diner chain bringing back syrup sneakers that sold out in 60 seconds
+2026-10-08 18:38:31,997 [DEBUG]   Filtered (not relevant): Legendary actor dies at 75
+2026-10-08 18:38:31,998 [INFO]   Relevant: How will Trump’s visit hurt travel in city? Syracuse police won’t say what roads
+2026-10-08 18:38:31,998 [DEBUG]     → Departments: Syracuse Police Department
+2026-10-08 18:38:31,998 [DEBUG]     → Keywords: syracuse police
+2026-10-08 18:38:36,321 [INFO]     Dedup match: CTX-NEWS-2026-00288 — linking via cluster
+2026-10-08 18:38:36,322 [INFO]     Saved: CTX-NEWS-2026-00291 → CTX-NEWS-2026-00291.json
+2026-10-08 18:38:36,322 [DEBUG]   Filtered (not relevant): Pat McAfee sees bigger warning in NFL referee suspensions
+2026-10-08 18:38:36,323 [DEBUG]   Filtered (not relevant): Syracuse company's 'I Am Jane Doe' candle raises $7,356 for Vera House
+2026-10-08 18:38:36,323 [DEBUG]   Filtered (not relevant): 3 teams jump into top 10 in latest Syracuse.com high school football power ranki
+2026-10-08 18:38:36,324 [DEBUG]   Filtered (not relevant): Dear Annie: My mother's better-living advice is a drag
+2026-10-08 18:38:36,324 [DEBUG]   Filtered (not relevant): ‘Survivor’ host reacts to player’s stunning decision to quit: ‘Caught me off gua
+2026-10-08 18:38:36,324 [DEBUG]   Filtered (not relevant): This pumpkin patch in Upstate NY is one of the country's best
+2026-10-08 18:38:36,325 [DEBUG]   Filtered (not relevant): 2 dead after kit-built plane crashes near California golf course
+2026-10-08 18:38:36,325 [DEBUG]   Filtered (not relevant): Anna Leigh Wilson addresses flirting controversy on ‘The Challenge’
+2026-10-08 18:38:36,325 [DEBUG]   Filtered (not relevant): Over 1,680 flights delayed, 73 canceled amid widespread U.S. travel disruptions
+2026-10-08 18:38:36,326 [DEBUG]   Filtered (not relevant): Sofía Vergara's ex claims she refused to hug him during near-fatal illness
+2026-10-08 18:38:36,326 [DEBUG]   Filtered (not relevant): Michael Kors Outlet has travel deals up to 79% off: Suitcases, duffels, more
+2026-10-08 18:38:36,327 [DEBUG]   Filtered (not relevant): ALDS Champions gear selling fast after Rays sweep Yankees
+2026-10-08 18:38:36,327 [DEBUG]   Filtered (not relevant): ESPN's Matt Miller’s latest court decision adds new chapter to an already compli
+2026-10-08 18:38:36,328 [DEBUG]   Filtered (not relevant): Didn’t get Carly Rae Jepsen tickets? Here’s where you can still buy them
+2026-10-08 18:38:36,328 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 field hockey rankings (through Oct. 7): New No. 1 as top 3 g
+2026-10-08 18:38:36,330 [INFO] News Scanner Run — 2026-10-08 18:38
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • How will Trump’s visit hurt travel in city? Syracuse police won’t say what roads
+
