@@ -1,0 +1,65 @@
+{
+  "record_id": "CTX-WEB-2026-00178",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-10-08-infostructure-news-11AM",
+  "publication_date": "2026-10-08",
+  "capture_date": "2026-10-08T18:50:30Z",
+  "title": "Water Department to Conduct Scheduled Maintenance on Water Main Valves",
+  "summary": "The Syracuse Department of Water is conducting scheduled maintenance on water main valves across 17 locations citywide in the coming weeks. Residents and businesses in affected areas will receive advance notice via door hangers, with temporary water service disruptions expected. The work is part of the department's ongoing water distribution system upkeep.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "infrastructure",
+    "maintenance",
+    "recurring",
+    "announcement",
+    "residents",
+    "service-requests"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    },
+    {
+      "name": "Office of Communications",
+      "type": "organization",
+      "canonical_id": "ORG-COMMUNICATIONS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Routine maintenance announcement demonstrating proactive infrastructure asset management and commitment to water system reliability; advance notification aligns with constituent service expectations.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as 'Unknown' in source metadata",
+    "Multiple water main locations listed (17 total) with varying pipe diameters (16, 20, 36-inch); includes both standard mains and butterfly valves",
+    "Contact number provided (315-448-8360) for public inquiries",
+    "Maintenance characterized as 'scheduled' and 'ongoing' rather than emergency response",
+    "No budget, contractor names, or timeline specificity provided beyond 'coming weeks'",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'maintenance' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}
