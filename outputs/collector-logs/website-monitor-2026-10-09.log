@@ -1,0 +1,24 @@
+2026-10-09 18:20:38,969 [INFO] ============================================================
+2026-10-09 18:20:38,970 [INFO] Website Monitor starting
+2026-10-09 18:20:40,809 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-10-09 18:20:40,809 [INFO]   Navigating to https://www.syr.gov/News
+2026-10-09 18:20:50,621 [INFO]   Found 9 article links in News
+2026-10-09 18:20:55,622 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-10-09-Infrastructure-News-200-P.M
+2026-10-09 18:21:06,937 [INFO]     Saved: CTX-WEB-2026-00179 → CTX-WEB-2026-00179.json
+2026-10-09 18:21:06,937 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-10-09 18:21:06,937 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-10-09 18:21:10,354 [INFO]   Found 0 article links in Announcements
+2026-10-09 18:21:15,354 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-10-09 18:21:15,354 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-10-09 18:21:18,774 [INFO]   Found 0 article links in Public Notices
+2026-10-09 18:21:23,817 [INFO] Website Monitor Run — 2026-10-09 18:21
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 8
+Errors: 0
+
+New records:
+  • City Of Syracuse to Close Offices in Observance of Columbus Day
+
