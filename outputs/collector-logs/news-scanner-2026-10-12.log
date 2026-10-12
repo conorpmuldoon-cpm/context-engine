@@ -1,0 +1,80 @@
+2026-10-12 21:04:47,980 [INFO] ============================================================
+2026-10-12 21:04:47,980 [INFO] News Scanner starting
+2026-10-12 21:04:47,981 [INFO] Fetching: Syracuse.com Politics
+2026-10-12 21:04:48,550 [INFO]   50 new articles from Syracuse.com Politics
+2026-10-12 21:04:48,550 [INFO] Fetching: Syracuse.com Government
+2026-10-12 21:04:48,842 [INFO]   0 new articles from Syracuse.com Government
+2026-10-12 21:04:48,842 [INFO] Fetching: Syracuse.com Local
+2026-10-12 21:04:49,049 [INFO]   0 new articles from Syracuse.com Local
+2026-10-12 21:04:49,049 [INFO] Fetching: Syracuse.com Main
+2026-10-12 21:04:49,274 [INFO]   0 new articles from Syracuse.com Main
+2026-10-12 21:04:49,274 [INFO] Total unique articles across all feeds: 50
+2026-10-12 21:04:49,275 [INFO] New articles (not previously processed): 50
+2026-10-12 21:04:49,309 [DEBUG]   Filtered (not relevant): Where to watch Guardians vs. Rays ALCS Game 1 for free today
+2026-10-12 21:04:49,310 [DEBUG]   Filtered (not relevant): See homes sold in three Central NY counties, Sept. 28 to Oct. 4
+2026-10-12 21:04:49,310 [DEBUG]   Filtered (not relevant): Paul Finebaum rips officials for blown call in Georgia-Alabama game: ‘Should be 
+2026-10-12 21:04:49,310 [DEBUG]   Filtered (not relevant): Where to watch Dodgers vs. Brewers NLCS Game 2 for free tonight
+2026-10-12 21:04:49,311 [DEBUG]   Filtered (not relevant): Fran Brown says the next 48 hours are key to determining which QBs could play vs
+2026-10-12 21:04:49,311 [DEBUG]   Filtered (not relevant): Actress arrested after attacking crew members mid-flight (report)
+2026-10-12 21:04:49,311 [DEBUG]   Filtered (not relevant): Challenge made after angler breaks state record for often-overlooked fish specie
+2026-10-12 21:04:49,311 [DEBUG]   Filtered (not relevant): Hackers cause fires, spoiled food in attack on French refrigerators, freezers
+2026-10-12 21:04:49,311 [DEBUG]   Filtered (not relevant): Syracuse mom questions why police pulled out guns and handcuffed her 13-year-old
+2026-10-12 21:04:49,312 [DEBUG]   Filtered (not relevant): Greta Van Fleet bringing 2027 'Into the Beginning' tour to Upstate NY
+2026-10-12 21:04:49,312 [DEBUG]   Filtered (not relevant): Here’s how to get Cleveland Guardians playoff gear 50% off today
+2026-10-12 21:04:49,312 [DEBUG]   Filtered (not relevant): Nico Iamaleava injury update: ESPN insider shares latest on UCLA QB
+2026-10-12 21:04:49,312 [INFO]   Relevant: Fired Syracuse deputy police chief sues city, alleges discrimination by departme
+2026-10-12 21:04:49,312 [DEBUG]     → Departments: Syracuse Police Department
+2026-10-12 21:04:49,312 [DEBUG]     → Keywords: syracuse police
+2026-10-12 21:04:53,934 [INFO]     Saved: CTX-NEWS-2026-00292 → CTX-NEWS-2026-00292.json
+2026-10-12 21:04:53,934 [DEBUG]   Filtered (not relevant): Jailed rapper, 56, suffers medical emergency, rushed to hospital (report)
+2026-10-12 21:04:53,935 [DEBUG]   Filtered (not relevant): Big Ten QB expected to miss season with knee injury
+2026-10-12 21:04:53,935 [DEBUG]   Filtered (not relevant): Spirit Halloween to convert 44 stores in 15 states into Spirit Christmas
+2026-10-12 21:04:53,935 [DEBUG]   Filtered (not relevant): VA disability payments could see biggest COLA boost in 4 years
+2026-10-12 21:04:53,935 [DEBUG]   Filtered (not relevant): Former SEC coach to Smart on Tide win: ‘Always fun to beat their ass’
+2026-10-12 21:04:53,936 [DEBUG]   Filtered (not relevant): ACC Network analyst Terrence Oglesby on Syracuse: ‘GMac is that right guy’ (podc
+2026-10-12 21:04:53,936 [DEBUG]   Filtered (not relevant): Pope to be admitted to hospital for surgery, Vatican says
+2026-10-12 21:04:53,936 [DEBUG]   Filtered (not relevant): Farro stew with chicken meatballs and peas
+2026-10-12 21:04:53,937 [DEBUG]   Filtered (not relevant): Crunchy apple and kohlrabi salad
+2026-10-12 21:04:53,937 [DEBUG]   Filtered (not relevant): Australia tells GTA 6 fans what to do if they want launch day off
+2026-10-12 21:04:53,937 [DEBUG]   Filtered (not relevant): Sicilian-style pasta with fish ragù
+2026-10-12 21:04:53,938 [DEBUG]   Filtered (not relevant): A father’s loss and a city’s grief after Pennsylvania family tragedy
+2026-10-12 21:04:53,938 [DEBUG]   Filtered (not relevant): Today’s obituary: Josh ‘Coach’ Virgil, 49, coached sports at Fabius-Pompey
+2026-10-12 21:04:53,938 [DEBUG]   Filtered (not relevant): Last-minute Olivia Rodrigo Boston ticket deals for TD Garden shows this weekend
+2026-10-12 21:04:53,939 [DEBUG]   Filtered (not relevant): Kalshi extends $55 MLB code “SYRACUSE” for Dodgers-Brewers Game 2
+2026-10-12 21:04:53,939 [DEBUG]   Filtered (not relevant): Dan Quinn’s fate with Commanders is sealed after blunder, analyst says: ‘It was 
+2026-10-12 21:04:53,939 [DEBUG]   Filtered (not relevant): Movie theater chain now offers delivery in 300 spots
+2026-10-12 21:04:53,939 [DEBUG]   Filtered (not relevant): Toys ‘R’ Us opens its new Syracuse location
+2026-10-12 21:04:53,939 [DEBUG]   Filtered (not relevant): Discount chain opens 51 new stores in 17 states
+2026-10-12 21:04:53,940 [DEBUG]   Filtered (not relevant): Syracuse football assigned to prime time for third consecutive week
+2026-10-12 21:04:53,940 [DEBUG]   Filtered (not relevant): Beloved steakhouse chain makes major upgrades to steak lineup, introduces new cu
+2026-10-12 21:04:53,940 [DEBUG]   Filtered (not relevant): Metal band goes literal with ‘wild’ new album - and only 170 fans can get it
+2026-10-12 21:04:53,940 [DEBUG]   Filtered (not relevant): ESPN insider gets emotional after hearing what Bears legend Mike Ditka said abou
+2026-10-12 21:04:53,941 [DEBUG]   Filtered (not relevant): What is Indigenous Peoples Day? A day of celebration, protest and reclaiming his
+2026-10-12 21:04:53,941 [DEBUG]   Filtered (not relevant): John Stamos gives concerning health update on Beach Boys legend Mike Love: ‘We h
+2026-10-12 21:04:53,941 [DEBUG]   Filtered (not relevant): You can still get into Twenty One Pilots’ sold-out Ohio Stadium show, but it’ll 
+2026-10-12 21:04:53,941 [DEBUG]   Filtered (not relevant): When October VA disability payments will hit bank accounts
+2026-10-12 21:04:53,942 [DEBUG]   Filtered (not relevant): TV anchor’s Halloween killing of her mother ends with life sentence
+2026-10-12 21:04:53,942 [DEBUG]   Filtered (not relevant): TSA is enforcing a new rule for officers. Here’s what you need to know
+2026-10-12 21:04:53,942 [DEBUG]   Filtered (not relevant): Watkins Glen’s legendary waterfall trail is closing for winter. What hikers shou
+2026-10-12 21:04:53,942 [DEBUG]   Filtered (not relevant): Minnesota student’s backpack complaint leads to unusual investigation at Minneso
+2026-10-12 21:04:53,942 [DEBUG]   Filtered (not relevant): Walmart’s making big changes, opening new stores
+2026-10-12 21:04:53,943 [DEBUG]   Filtered (not relevant): Over 30K luxury vehicles recalled for dangerous front brake issue
+2026-10-12 21:04:53,943 [DEBUG]   Filtered (not relevant): Famous actor officiates ex-wife’s wedding just weeks after finalizing divorce
+2026-10-12 21:04:53,943 [DEBUG]   Filtered (not relevant): Popular fast-food chain adds 3 new cheesesteaks to menu
+2026-10-12 21:04:53,943 [INFO]   Relevant: NY Attorney General looks into city of Oswego’s role in Border Patrol standoff
+2026-10-12 21:04:53,943 [DEBUG]     → Keywords: city officials
+2026-10-12 21:04:58,244 [WARNING]     Tag issue: Unknown tag 'procedural' not in taxonomy
+2026-10-12 21:04:58,251 [INFO]     Saved: CTX-NEWS-2026-00293 → CTX-NEWS-2026-00293.json
+2026-10-12 21:04:58,251 [DEBUG]   Filtered (not relevant): Dear Annie: I miss feeling seen as an interesting woman with a life that is stil
+2026-10-12 21:04:58,253 [INFO] News Scanner Run — 2026-10-12 21:04
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Fired Syracuse deputy police chief sues city, alleges discrimination by departme
+  • NY Attorney General looks into city of Oswego’s role in Border Patrol standoff
+

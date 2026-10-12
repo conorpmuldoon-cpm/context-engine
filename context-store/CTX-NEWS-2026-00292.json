@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2026-00292",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/10/fired-syracuse-deputy-police-chief-sues-city-alleges-discrimination-by-department.html",
+  "publication_date": "2026-10-12",
+  "capture_date": "2026-10-12T21:04:53Z",
+  "title": "Fired Syracuse deputy police chief sues city, alleges discrimination by department",
+  "summary": "A former top-ranking Syracuse Police Department officer filed a lawsuit against the city and police officials alleging gender and disability discrimination, retaliation, and wrongful termination. This litigation exposes potential HR, compliance, and organizational culture issues within SPD that may require CIO attention for records management, data governance, and potential policy review implications.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "labor-relations",
+    "complaint",
+    "investigation",
+    "equity",
+    "escalating",
+    "leadership-change"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Greta Stuckey",
+      "type": "person",
+      "canonical_id": "PERSON-GRETA-STUCKEY"
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Litigation against city and SPD leadership for discrimination and wrongful termination signals internal governance and HR process failures; may trigger oversight review and policy audits.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Fired deputy chief identity not disclosed in article excerpt; recommend follow-up for full entity mapping",
+    "No monetary damages specified in excerpt; recommend tracking lawsuit progression for budget impact",
+    "Discrimination allegations (gender, disability) suggest potential compliance gaps in hiring, promotion, and accommodation practices",
+    "CIO relevance: document retention, HR systems audit, and FOIA/litigation response protocols may be affected",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

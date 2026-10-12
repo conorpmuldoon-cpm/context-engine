@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-NEWS-2026-00293",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/10/ny-attorney-general-looks-into-how-city-of-oswegos-role-in-border-patrol-standoff.html",
+  "publication_date": "2026-10-12",
+  "capture_date": "2026-10-12T21:04:58Z",
+  "title": "NY Attorney General looks into city of Oswego’s role in Border Patrol standoff",
+  "summary": "New York State Attorney General's Office is investigating the City of Oswego's involvement in a Border Patrol standoff that occurred last month, during which two individuals sought refuge on a residential roof for nearly six hours. The investigation centers on the city's role and response to the incident.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "investigation",
+    "state-agency",
+    "emergency-services",
+    "intergovernmental",
+    "procedural"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "New York State Attorney General's Office",
+      "type": "organization",
+      "canonical_id": "ORG-NY-AG"
+    },
+    {
+      "name": "City of Oswego",
+      "type": "organization",
+      "canonical_id": "ORG-OSWEGO"
+    },
+    {
+      "name": "U.S. Border Patrol",
+      "type": "organization",
+      "canonical_id": "ORG-BORDER-PATROL"
+    },
+    {
+      "name": "Darian Stevenson",
+      "type": "person",
+      "canonical_id": "PERSON-DARIAN-STEVENSON"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "State-level oversight inquiry into local government's handling of federal agency incident; potential accountability review of municipal response protocols.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on Oswego (not Syracuse); included for regional context and intergovernmental coordination awareness",
+    "No Syracuse CIO departments directly implicated; relevance is situational (border security, emergency response coordination)",
+    "Incident date referenced as 'last month' (approximately September 2026); investigation initiated post-incident",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'procedural' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}
