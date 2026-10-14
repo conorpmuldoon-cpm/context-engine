@@ -1,0 +1,51 @@
+{
+  "record_id": "CTX-NEWS-2026-00295",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/sports/2026/10/le-moyne-womens-basketball-player-files-lawsuit-against-ncaa-to-play-a-5th-season.html",
+  "publication_date": "2026-10-14",
+  "capture_date": "2026-10-14T16:50:04Z",
+  "title": "Le Moyne women’s basketball player files lawsuit against NCAA to play a 5th season",
+  "summary": "Le Moyne College women's basketball player Kendal Moxey has filed a lawsuit against the NCAA to secure a fifth year of athletic eligibility. This article documents a legal challenge to NCAA eligibility rules and may have tangential relevance to city constituents and institutional partnerships, though it does not directly impact City of Syracuse operations or policy.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:higher-education-litigation"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Kendal Moxey",
+      "type": "person",
+      "canonical_id": "PERSON-KENDAL-MOXEY"
+    },
+    {
+      "name": "Le Moyne College",
+      "type": "organization",
+      "canonical_id": "ORG-LEMOYNE"
+    },
+    {
+      "name": "NCAA",
+      "type": "organization",
+      "canonical_id": "ORG-NCAA"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns institutional NCAA athletics policy dispute, not City of Syracuse operations or services",
+    "No city departments, budget impacts, or municipal policy implications detected",
+    "Le Moyne College is a private institution in Syracuse but this article does not reference city involvement or decision-making",
+    "Limited relevance to CIO mandate unless city provides IT/digital services infrastructure to Le Moyne or tracks higher-education litigation affecting local institutions",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

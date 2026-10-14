@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2026-00294",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/10/national-grids-winter-forecast-will-upstate-ny-customers-see-another-round-of-high-utility-bills.html",
+  "publication_date": "2026-10-14",
+  "capture_date": "2026-10-14T16:50:00Z",
+  "title": "National Grid’s winter forecast: Will Upstate NY customers see another round of high utility bills?",
+  "summary": "National Grid forecasts potential high utility bills for Upstate NY customers this winter following last year's $100+ monthly increases per customer. The article addresses concerns about energy costs, supply constraints, and weather impacts on residential utility expenses—relevant to city affordability, resilience planning, and potential constituent complaints.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "residents",
+    "recurring",
+    "trending",
+    "sustainability",
+    "budget",
+    "state-agency",
+    "equity",
+    "PROVISIONAL:utility-costs",
+    "PROVISIONAL:energy-resilience"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "National Grid",
+      "type": "organization",
+      "canonical_id": "ORG-NATIONAL-GRID"
+    },
+    {
+      "name": "Renee Fox",
+      "type": "person",
+      "canonical_id": "PERSON-RENEE-FOX"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Residential concern about recurring high utility costs signals potential constituent complaints to city government and pressure for municipal advocacy or relief programs.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on utility provider forecast rather than direct city policy/action; no internal city departments identified",
+    "Date is future-dated (2026-10-14); verify if article exists or if this is a test case",
+    "Dollar amount ($100) refers to per-customer monthly increases, not total municipal budget impact",
+    "Potential downstream relevance: energy assistance programs, weatherization initiatives, constituent services load",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

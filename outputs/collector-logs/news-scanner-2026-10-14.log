@@ -1,0 +1,81 @@
+2026-10-14 16:49:54,659 [INFO] ============================================================
+2026-10-14 16:49:54,659 [INFO] News Scanner starting
+2026-10-14 16:49:54,660 [INFO] Fetching: Syracuse.com Politics
+2026-10-14 16:49:55,321 [INFO]   50 new articles from Syracuse.com Politics
+2026-10-14 16:49:55,321 [INFO] Fetching: Syracuse.com Government
+2026-10-14 16:49:55,480 [INFO]   0 new articles from Syracuse.com Government
+2026-10-14 16:49:55,480 [INFO] Fetching: Syracuse.com Local
+2026-10-14 16:49:55,625 [INFO]   0 new articles from Syracuse.com Local
+2026-10-14 16:49:55,625 [INFO] Fetching: Syracuse.com Main
+2026-10-14 16:49:55,761 [INFO]   0 new articles from Syracuse.com Main
+2026-10-14 16:49:55,761 [INFO] Total unique articles across all feeds: 50
+2026-10-14 16:49:55,761 [INFO] New articles (not previously processed): 50
+2026-10-14 16:49:55,810 [DEBUG]   Filtered (not relevant): Billy Crystal reveals how a devastating year changed his faith
+2026-10-14 16:49:55,810 [DEBUG]   Filtered (not relevant): Defense tells jury the evidence doesn’t add up in trial over the killing of a te
+2026-10-14 16:49:55,811 [DEBUG]   Filtered (not relevant): Legendary singer walks off stage after two songs, cancels shows
+2026-10-14 16:49:55,811 [DEBUG]   Filtered (not relevant): Obsessed with Elf on the Shelf? Here’s where you can get a life-sized one
+2026-10-14 16:49:55,811 [DEBUG]   Filtered (not relevant): John Mayer added more Sphere shows: When tickets go on sale, how to get yours
+2026-10-14 16:49:55,812 [DEBUG]   Filtered (not relevant): NY’s largest gun show returns to Syracuse this weekend
+2026-10-14 16:49:55,812 [INFO]   Relevant: National Grid’s winter forecast: Will Upstate NY customers see another round of 
+2026-10-14 16:49:55,812 [DEBUG]     → Entities: National Grid
+2026-10-14 16:50:00,842 [INFO]     Saved: CTX-NEWS-2026-00294 → CTX-NEWS-2026-00294.json
+2026-10-14 16:50:00,842 [DEBUG]   Filtered (not relevant): Museum of Disability History: ‘Really something special’ (Enable: The Disability
+2026-10-14 16:50:00,843 [DEBUG]   Filtered (not relevant): 3.6% COLA is official: What it means for VA disability checks
+2026-10-14 16:50:00,843 [DEBUG]   Filtered (not relevant): 110K+ swings sold nationwide recalled after children suffer fractures, head inju
+2026-10-14 16:50:00,843 [DEBUG]   Filtered (not relevant): Popular Korean BBQ chain sold for $100 million
+2026-10-14 16:50:00,844 [DEBUG]   Filtered (not relevant): Section III Class C teams rise in latest high school football state rankings
+2026-10-14 16:50:00,844 [DEBUG]   Filtered (not relevant): UGG’s sale has Classic boots, Tasmans and more for up to 54% off
+2026-10-14 16:50:00,844 [DEBUG]   Filtered (not relevant): Israel’s war on Gaza squandered infinite human potential (Your Letters)
+2026-10-14 16:50:00,845 [DEBUG]   Filtered (not relevant): Major national grocery chain laying off 3,000 workers
+2026-10-14 16:50:00,845 [DEBUG]   Filtered (not relevant): Gunman in Indiana opens fire in IHOP, accuses cook of sleeping with his wife
+2026-10-14 16:50:00,846 [DEBUG]   Filtered (not relevant): This code drops Paramount+ Premium from $13.99 to 99 cents a month for a limited
+2026-10-14 16:50:00,846 [DEBUG]   Filtered (not relevant): Man killed when his pickup when off road, crashed into trees in Madison County
+2026-10-14 16:50:00,847 [DEBUG]   Filtered (not relevant): Six Flags to reopen Georgia park Friday after deadly roller coaster incident
+2026-10-14 16:50:00,847 [DEBUG]   Filtered (not relevant): ICE detains SUNY Brockport IT worker as family, union fight for release
+2026-10-14 16:50:00,847 [DEBUG]   Filtered (not relevant): Teen sentenced for fatal shooting at Syracuse pool: ‘We lose you every day’ (vid
+2026-10-14 16:50:00,848 [DEBUG]   Filtered (not relevant): Hooters is now gone from 4 states including Mass., NY
+2026-10-14 16:50:00,848 [DEBUG]   Filtered (not relevant): Beloved country music figure dies in his sleep leaving Nashville mourning
+2026-10-14 16:50:00,848 [DEBUG]   Filtered (not relevant): ‘Dancing With the Stars’ sends home fan-favorite celebrity after tense exchange 
+2026-10-14 16:50:00,849 [DEBUG]   Filtered (not relevant): 3 celebrities just shared their favorite Taco Bell orders and fans can copy them
+2026-10-14 16:50:00,849 [DEBUG]   Filtered (not relevant): Latest girls soccer state rankings: 7 new Section III teams make the list
+2026-10-14 16:50:00,849 [DEBUG]   Filtered (not relevant): Oct. 13 Mega Millions results: 7 players miss jackpot by one ball
+2026-10-14 16:50:00,850 [DEBUG]   Filtered (not relevant): Who gifted a $10,600 police dog to an Upstate NY city? Officials aren’t saying
+2026-10-14 16:50:00,850 [DEBUG]   Filtered (not relevant): Dear Annie: He's a great guy, but my husband checks out when emotions check in
+2026-10-14 16:50:00,851 [DEBUG]   Filtered (not relevant): 5 dead, 30 injured after train derails in Pakistan
+2026-10-14 16:50:00,851 [DEBUG]   Filtered (not relevant): Social Security COLA 2027 is 3.6%: Here’s how much more money you will get each 
+2026-10-14 16:50:00,852 [DEBUG]   Filtered (not relevant): Walmart’s ‘Overall Pick’ foldable electric bike is under $220 in limited time de
+2026-10-14 16:50:00,852 [DEBUG]   Filtered (not relevant): Winter weather advisory issued for 4 states; 12-14 inches of snow possible
+2026-10-14 16:50:00,852 [DEBUG]   Filtered (not relevant): McNamara, Hurley open to reviving Syracuse-UConn rivalry
+2026-10-14 16:50:00,853 [INFO]   Relevant: Le Moyne women’s basketball player files lawsuit against NCAA to play a 5th seas
+2026-10-14 16:50:00,853 [DEBUG]     → Entities: Le Moyne College
+2026-10-14 16:50:04,948 [INFO]     Saved: CTX-NEWS-2026-00295 → CTX-NEWS-2026-00295.json
+2026-10-14 16:50:04,949 [DEBUG]   Filtered (not relevant): Syracuse.com’s girls soccer rankings (through Oct. 13): Final week of regular se
+2026-10-14 16:50:04,949 [DEBUG]   Filtered (not relevant): Over 901 flights delayed, 58 canceled amid widespread U.S. travel disruptions
+2026-10-14 16:50:04,949 [DEBUG]   Filtered (not relevant): In defense of Syracuse’s trees (Your Letters)
+2026-10-14 16:50:04,949 [DEBUG]   Filtered (not relevant): Class A shakeup in latest Syracuse.com high school football rankings sets up mar
+2026-10-14 16:50:04,950 [DEBUG]   Filtered (not relevant): Beloved rock singer dead at 54: ‘Fought like HELL against this terrible disease’
+2026-10-14 16:50:04,950 [DEBUG]   Filtered (not relevant): St. Joseph's Health adds an otolaryngologist to its ENT practices, expanding car
+2026-10-14 16:50:04,951 [DEBUG]   Filtered (not relevant): MLB Polymarket referral code “CUSE” upgrades $25 Brewers-Dodgers Game 3 bonus
+2026-10-14 16:50:04,951 [INFO]   Relevant: Former Upstate NY mayor convicted of rape, faces up to 25 years
+2026-10-14 16:50:04,951 [DEBUG]     → Keywords: mayor
+2026-10-14 16:50:09,297 [INFO]     Saved: CTX-NEWS-2026-00296 → CTX-NEWS-2026-00296.json
+2026-10-14 16:50:09,297 [DEBUG]   Filtered (not relevant): Dick Vitale posts heartbreaking news on X: ‘Just crushed’
+2026-10-14 16:50:09,298 [DEBUG]   Filtered (not relevant): Kate Spade Outlet has new handbags for up to 79% off, plus extra savings
+2026-10-14 16:50:09,298 [DEBUG]   Filtered (not relevant): New Dungeons & Dragons studio will have ‘largest concentration of video game tal
+2026-10-14 16:50:09,298 [DEBUG]   Filtered (not relevant): Fran Brown Jr. blames himself for disastrous play at Virginia: ‘That can’t happe
+2026-10-14 16:50:09,299 [DEBUG]   Filtered (not relevant): Will Madison County approve $30 million in tax breaks for a controversial windmi
+2026-10-14 16:50:09,299 [DEBUG]   Filtered (not relevant): Dodgers vs. Brewers prediction: Polymarket prices, picks and Ohtani props for NL
+2026-10-14 16:50:09,300 [DEBUG]   Filtered (not relevant): Miss Manners: I paid the bill, but my siblings grabbed all the leftovers
+2026-10-14 16:50:09,301 [INFO] News Scanner Run — 2026-10-14 16:50
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • National Grid’s winter forecast: Will Upstate NY customers see another round of 
+  • Le Moyne women’s basketball player files lawsuit against NCAA to play a 5th seas
+  • Former Upstate NY mayor convicted of rape, faces up to 25 years
+
