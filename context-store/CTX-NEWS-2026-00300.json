@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00300",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/betting/2026/10/nfl-polymarket-referral-code-cuse-launches-25-seahawks-broncos-bonus.html",
+  "publication_date": "2026-10-15",
+  "capture_date": "2026-10-15T16:36:13Z",
+  "title": "NFL Polymarket referral code “CUSE” launches $25 Seahawks-Broncos bonus",
+  "summary": "This article reports on a sports betting promotion by Polymarket using a Syracuse-themed referral code ('CUSE') for an NFL game. The content has no direct relevance to City of Syracuse municipal operations, innovation initiatives, or public services. It appears to be commercial sports betting marketing content that coincidentally uses the Syracuse college nickname.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:sports-betting-marketing"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Polymarket",
+      "type": "organization",
+      "canonical_id": "ORG-POLYMARKET"
+    },
+    {
+      "name": "David Fernandez",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is NOT relevant to City of Syracuse municipal governance or CIO mandate",
+    "Reference to 'CUSE' is commercial reuse of Syracuse college athletic nickname, not municipal context",
+    "No city departments, initiatives, infrastructure, services, or policy matters involved",
+    "Recommend filtering similar commercial content in future ingestion",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

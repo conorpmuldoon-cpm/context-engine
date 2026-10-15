@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00297",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/syracuse-university/2026/10/syracuse-university-scrutinizes-its-processes-in-wake-of-cornell-gang-rape-lawsuit.html",
+  "publication_date": "2026-10-15",
+  "capture_date": "2026-10-15T16:36:01Z",
+  "title": "Syracuse University scrutinizes its processes in wake of Cornell gang rape lawsuit",
+  "summary": "Syracuse University is reviewing its internal processes for handling sexual assault allegations following a high-profile gang rape lawsuit and case reopening at Cornell University. The article indicates institutional self-examination regarding Title IX procedures and campus safety protocols, relevant to higher education governance and potential policy benchmarking for city-level oversight of student safety.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:higher-education-policy",
+    "investigation",
+    "policy-change",
+    "equity",
+    "training"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIV"
+    },
+    {
+      "name": "Cornell University",
+      "type": "organization",
+      "canonical_id": "ORG-CORNELL-UNIV"
+    },
+    {
+      "name": "Emalyn Muzzy",
+      "type": "person",
+      "canonical_id": "PERSON-EMALYN-MUZZY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Institutional accountability scrutiny regarding sexual assault case handling and Title IX compliance processes at major regional university",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on higher education institution, not direct city government operations",
+    "No Syracuse city departments explicitly referenced",
+    "May indicate growing constituent pressure on institutional transparency/accountability in region",
+    "Recommend flagging for CIO awareness regarding potential policy/transparency initiative alignment with institutional governance discussions",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

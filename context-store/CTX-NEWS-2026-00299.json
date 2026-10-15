@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-NEWS-2026-00299",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/10/a-parking-lot-or-a-pump-track-a-syracuse-police-project-sparks-outcry.html",
+  "publication_date": "2026-10-15",
+  "capture_date": "2026-10-15T16:36:09Z",
+  "title": "A parking lot or a pump track? A Syracuse police project sparks outcry",
+  "summary": "A dispute has emerged on Syracuse's West Side over proposed use of a gravel bike track site: the Syracuse Police Department plans to install a parking lot, while a developer and community advocates are opposing the project to preserve the pump track for neighborhood youth. The conflict highlights tensions between police infrastructure needs and community recreation/equity priorities in land-use decisions.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "land-use",
+    "parks",
+    "micromobility",
+    "escalating",
+    "residents",
+    "advocacy",
+    "equity",
+    "neighborhood-services",
+    "facilities"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-BOYER"
+    },
+    {
+      "name": "Developer (unnamed)",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Community and developer opposition to police parking lot project; framed as conflict between public safety infrastructure and youth recreation/neighborhood equity needs.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Developer identity not disclosed in headline/excerpt; may require full article review",
+    "Geographic focus: West Side Syracuse (high-traffic corridor)",
+    "Potential CIO relevance: digital engagement, permitting systems, GIS/land-use data, constituent feedback mechanisms",
+    "Article date is future-dated (2026); verify publication accuracy",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

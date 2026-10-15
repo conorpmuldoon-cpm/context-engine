@@ -1,0 +1,50 @@
+{
+  "record_id": "CTX-NEWS-2026-00298",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/cny/2026/10/may-says-shes-asked-democrats-to-pull-attack-ads-accusing-mccarron-of-police-brutality.html",
+  "publication_date": "2026-10-15",
+  "capture_date": "2026-10-15T16:36:05Z",
+  "title": "May says she’s asked Democrats to pull attack ads accusing McCarron of police brutality",
+  "summary": "State Senator Rachel May requested that a Democratic group cease running attack advertisements against her Republican opponent that reference police brutality allegations. This represents an internal political development regarding campaign messaging strategy and does not directly impact Syracuse city operations or the CIO's purview.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:campaign-politics",
+    "legislation"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Rachel May",
+      "type": "person",
+      "canonical_id": "PERSON-RACHEL-MAY"
+    },
+    {
+      "name": "Democratic group (unnamed)",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "State senator engaging in intra-party messaging control regarding attack ads against Republican opponent; suggests campaign ethics or strategy considerations.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on state-level politics (State Senator, state election) with no direct Syracuse municipal governance implications",
+    "No city departments, budgets, services, or CIO-relevant systems mentioned",
+    "Tagged as provisional political content to maintain completeness, but this is peripheral to core city operations context",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,86 @@
+2026-10-15 16:35:55,956 [INFO] ============================================================
+2026-10-15 16:35:55,957 [INFO] News Scanner starting
+2026-10-15 16:35:55,958 [INFO] Fetching: Syracuse.com Politics
+2026-10-15 16:35:56,337 [INFO]   50 new articles from Syracuse.com Politics
+2026-10-15 16:35:56,337 [INFO] Fetching: Syracuse.com Government
+2026-10-15 16:35:56,518 [INFO]   0 new articles from Syracuse.com Government
+2026-10-15 16:35:56,518 [INFO] Fetching: Syracuse.com Local
+2026-10-15 16:35:56,751 [INFO]   0 new articles from Syracuse.com Local
+2026-10-15 16:35:56,751 [INFO] Fetching: Syracuse.com Main
+2026-10-15 16:35:56,943 [INFO]   0 new articles from Syracuse.com Main
+2026-10-15 16:35:56,943 [INFO] Total unique articles across all feeds: 50
+2026-10-15 16:35:56,943 [INFO] New articles (not previously processed): 50
+2026-10-15 16:35:57,007 [DEBUG]   Filtered (not relevant): Dan Orlovsky shares emotional message after unexpected family tragedy
+2026-10-15 16:35:57,008 [DEBUG]   Filtered (not relevant): The fish behind America’s fish sticks is fueling a fight over trawling in Alaska
+2026-10-15 16:35:57,008 [DEBUG]   Filtered (not relevant): Trawl fishing catches huge amounts of seafood. It can also devastate the seafloo
+2026-10-15 16:35:57,009 [DEBUG]   Filtered (not relevant): Takeaways from AP’s report on Alaska’s growing fight over trawling and bycatch
+2026-10-15 16:35:57,009 [DEBUG]   Filtered (not relevant): Actor describes ‘out-of-body’ experience with ex-wife in rare marriage comment
+2026-10-15 16:35:57,010 [INFO]   Relevant: Syracuse University scrutinizes its processes in wake of Cornell gang rape lawsu
+2026-10-15 16:35:57,010 [DEBUG]     → Entities: Syracuse University
+2026-10-15 16:36:01,578 [INFO]     Saved: CTX-NEWS-2026-00297 → CTX-NEWS-2026-00297.json
+2026-10-15 16:36:01,579 [DEBUG]   Filtered (not relevant): Body found in Utica trash facility was a baby girl; police launch two-county inv
+2026-10-15 16:36:01,579 [DEBUG]   Filtered (not relevant): Best Buy has this 10-in-1 air fryer oven for $100 off, but the deal ends today
+2026-10-15 16:36:01,580 [DEBUG]   Filtered (not relevant): American Airlines is canceling all flights to these 3 major cities: Here’s why
+2026-10-15 16:36:01,580 [DEBUG]   Filtered (not relevant): Troy Aikman could leave ESPN, and the replacement list is fascinating
+2026-10-15 16:36:01,580 [INFO]   Relevant: May says she’s asked Democrats to pull attack ads accusing McCarron of police br
+2026-10-15 16:36:01,581 [DEBUG]     → Entities: Rachel May
+2026-10-15 16:36:05,314 [INFO]     Saved: CTX-NEWS-2026-00298 → CTX-NEWS-2026-00298.json
+2026-10-15 16:36:05,315 [DEBUG]   Filtered (not relevant): Hyundai Genesis recall: 94,622 drivers warned to park outside over fire risk, fi
+2026-10-15 16:36:05,315 [INFO]   Relevant: A parking lot or a pump track? A Syracuse police project sparks outcry
+2026-10-15 16:36:05,315 [DEBUG]     → Departments: Syracuse Police Department
+2026-10-15 16:36:05,315 [DEBUG]     → Keywords: syracuse police
+2026-10-15 16:36:09,588 [WARNING]     Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-10-15 16:36:09,600 [INFO]     Saved: CTX-NEWS-2026-00299 → CTX-NEWS-2026-00299.json
+2026-10-15 16:36:09,600 [DEBUG]   Filtered (not relevant): Chick-fil-A just announced its first new permanent sauce in a decade
+2026-10-15 16:36:09,601 [DEBUG]   Filtered (not relevant): Man blames airline after attacking endangered animal with rock in Hawaii
+2026-10-15 16:36:09,601 [DEBUG]   Filtered (not relevant): Wholesale prices hit highest level in 4 years thanks to fuel costs
+2026-10-15 16:36:09,601 [DEBUG]   Filtered (not relevant): ‘Today’ show co-host confirms she’s officially divorced after 12 years of marria
+2026-10-15 16:36:09,602 [DEBUG]   Filtered (not relevant): 16K+ air rifles recalled over serious injury, death risks from unexpected firing
+2026-10-15 16:36:09,602 [DEBUG]   Filtered (not relevant): Army soldiers from Fort Drum are headed to Panama, report says
+2026-10-15 16:36:09,603 [DEBUG]   Filtered (not relevant): NBC show writes off main character after 13 seasons
+2026-10-15 16:36:09,603 [DEBUG]   Filtered (not relevant): Unbeaten Liverpool widens lead at No. 1 in latest Syracuse.com high school footb
+2026-10-15 16:36:09,604 [DEBUG]   Filtered (not relevant): Dear Annie: I get that my bestie is super busy with 2 kids. How long will this g
+2026-10-15 16:36:09,604 [DEBUG]   Filtered (not relevant): Popular Christmas gift rises in cost ahead of holidays
+2026-10-15 16:36:09,604 [DEBUG]   Filtered (not relevant): Troy Aikman just gave a revealing answer about his future at ESPN
+2026-10-15 16:36:09,605 [DEBUG]   Filtered (not relevant): How to watch Rays-Guardians playoff game for free today
+2026-10-15 16:36:09,605 [DEBUG]   Filtered (not relevant): Fall is tick season, too. Prevention starts in our backyards (Guest Opinion by M
+2026-10-15 16:36:09,606 [DEBUG]   Filtered (not relevant): Zach Bryan’s ‘Young Manhood’ tour is coming to Buffalo’s Highmark Stadium in 202
+2026-10-15 16:36:09,606 [DEBUG]   Filtered (not relevant): IKEA’s holiday shop is here and it has festive decor starting at just $1
+2026-10-15 16:36:09,607 [DEBUG]   Filtered (not relevant): Over 851 flights delayed, 52 canceled amid widespread U.S. travel disruptions
+2026-10-15 16:36:09,607 [DEBUG]   Filtered (not relevant): Champs Sports 25% off promo code on NBA and NFL jerseys ends today
+2026-10-15 16:36:09,607 [DEBUG]   Filtered (not relevant): Woman arrested for posing as Florida jail employee, scamming couple out of $6,50
+2026-10-15 16:36:09,608 [DEBUG]   Filtered (not relevant): Woman wins $3,203 at East St. Louis casino before lucky night takes frightening 
+2026-10-15 16:36:09,608 [DEBUG]   Filtered (not relevant): Didn’t get Greta Van Fleet tickets? Here’s where you can still buy them
+2026-10-15 16:36:09,609 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026 field hockey rankings (through Oct. 14): New team breaks int
+2026-10-15 16:36:09,609 [DEBUG]   Filtered (not relevant): Central NY siblings both bag their first deer in one weekend
+2026-10-15 16:36:09,610 [INFO]   Relevant: NFL Polymarket referral code “CUSE” launches $25 Seahawks-Broncos bonus
+2026-10-15 16:36:09,610 [DEBUG]     → Entities: Axon
+2026-10-15 16:36:13,073 [INFO]     Saved: CTX-NEWS-2026-00300 → CTX-NEWS-2026-00300.json
+2026-10-15 16:36:13,074 [DEBUG]   Filtered (not relevant): New DraftKings promo code: $200 bonus and free NBA League Pass for 3 months
+2026-10-15 16:36:13,075 [DEBUG]   Filtered (not relevant): Walmart’s 5-star $150 cordless vacuum cleaner is less than $60 in Flash Deal
+2026-10-15 16:36:13,075 [DEBUG]   Filtered (not relevant): Lawyers for NY man shot by ICE say officer fired into car without warning
+2026-10-15 16:36:13,076 [DEBUG]   Filtered (not relevant): Powerball results for Oct. 14: $2M million winner sold, jackpot jumps to $600M
+2026-10-15 16:36:13,076 [DEBUG]   Filtered (not relevant): What to know about the New York governor’s race
+2026-10-15 16:36:13,076 [DEBUG]   Filtered (not relevant): State Police are searching for missing 15-year-old girl from Oneida County
+2026-10-15 16:36:13,077 [DEBUG]   Filtered (not relevant): This iconic snack brand wants to send one fan to the afterlife in style
+2026-10-15 16:36:13,077 [DEBUG]   Filtered (not relevant): Live scoreboard, recaps for Thursday’s high school football games (Week 7)
+2026-10-15 16:36:13,078 [DEBUG]   Filtered (not relevant): Seahawks vs. Broncos prediction: Polymarket prices, picks and JSN props for Thur
+2026-10-15 16:36:13,078 [DEBUG]   Filtered (not relevant): Miss Manners: Can I just ask my friend about attending without donating?
+2026-10-15 16:36:13,079 [DEBUG]   Filtered (not relevant): The road to individual Section III girls tennis titles ends Thursday. Who’s stil
+2026-10-15 16:36:13,079 [DEBUG]   Filtered (not relevant): Legendary rock band to release first new album in 10 years: ‘Somehow here we are
+2026-10-15 16:36:13,080 [DEBUG]   Filtered (not relevant): Meet the woman whose middle-finger protest at Trump’s Syracuse rally went viral
+2026-10-15 16:36:13,080 [DEBUG]   Filtered (not relevant): Here are the Section III high school football stats leaders through Week 6
+2026-10-15 16:36:13,082 [INFO] News Scanner Run — 2026-10-15 16:36
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 4
+Filtered (not relevant): 46
+Errors: 0
+
+New records:
+  • Syracuse University scrutinizes its processes in wake of Cornell gang rape lawsu
+  • May says she’s asked Democrats to pull attack ads accusing McCarron of police br
+  • A parking lot or a pump track? A Syracuse police project sparks outcry
+  • NFL Polymarket referral code “CUSE” launches $25 Seahawks-Broncos bonus
+
