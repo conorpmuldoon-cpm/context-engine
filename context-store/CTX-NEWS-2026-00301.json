@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-NEWS-2026-00301",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/10/police-investigate-shooting-that-wounded-man-in-syracuse.html",
+  "publication_date": "2026-10-16",
+  "capture_date": "2026-10-16T16:20:05Z",
+  "title": "Police investigate shooting that wounded man in Syracuse",
+  "summary": "Syracuse Police Department responded to a shooting incident on October 16, 2026, in which a male victim arrived at Upstate University Hospital with a gunshot wound around 6:15 p.m. The incident is under investigation by Syracuse police.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "emergency-services",
+    "investigation"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Thomas Blake",
+      "type": "person",
+      "canonical_id": "PERSON-THOMAS-BLAKE"
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    },
+    {
+      "name": "Upstate University Hospital",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Victim identity not disclosed in article; limited incident details provided in initial report",
+    "Article sourced from syracuse.com crime section; author is Darian Stevenson",
+    "No CIO-relevant technology, infrastructure, or digital service implications detected in current reporting",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

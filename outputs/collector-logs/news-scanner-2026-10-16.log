@@ -1,0 +1,76 @@
+2026-10-16 16:20:01,206 [INFO] ============================================================
+2026-10-16 16:20:01,206 [INFO] News Scanner starting
+2026-10-16 16:20:01,207 [INFO] Fetching: Syracuse.com Politics
+2026-10-16 16:20:01,682 [INFO]   50 new articles from Syracuse.com Politics
+2026-10-16 16:20:01,682 [INFO] Fetching: Syracuse.com Government
+2026-10-16 16:20:01,796 [INFO]   0 new articles from Syracuse.com Government
+2026-10-16 16:20:01,796 [INFO] Fetching: Syracuse.com Local
+2026-10-16 16:20:01,932 [INFO]   0 new articles from Syracuse.com Local
+2026-10-16 16:20:01,932 [INFO] Fetching: Syracuse.com Main
+2026-10-16 16:20:02,050 [INFO]   0 new articles from Syracuse.com Main
+2026-10-16 16:20:02,050 [INFO] Total unique articles across all feeds: 50
+2026-10-16 16:20:02,050 [INFO] New articles (not previously processed): 50
+2026-10-16 16:20:02,084 [DEBUG]   Filtered (not relevant): ‘Law & Order’ just delivered one of its most heartbreaking character deaths in y
+2026-10-16 16:20:02,084 [DEBUG]   Filtered (not relevant): Largest private employer in U.S. now offering free weight loss drugs to employee
+2026-10-16 16:20:02,084 [DEBUG]   Filtered (not relevant): Taco Bell bringing 4 specialty horchata drinks to all locations
+2026-10-16 16:20:02,084 [DEBUG]   Filtered (not relevant): Troy Aikman’s future sparks intriguing Tony Romo idea
+2026-10-16 16:20:02,085 [DEBUG]   Filtered (not relevant): Oswego man took photos, videos of his sexual abuse of a nine-year-old, prosecuto
+2026-10-16 16:20:02,085 [DEBUG]   Filtered (not relevant): Bradley Chubb wanted ‘some commotion’ from Bills teammates after Alaric Jackson 
+2026-10-16 16:20:02,085 [DEBUG]   Filtered (not relevant): The Starbucks holiday menu drops Nov. 5 — here's what's new and what's missing t
+2026-10-16 16:20:02,086 [DEBUG]   Filtered (not relevant): This iconic Carhartt beanie is on sale for just $11.99 in select colors
+2026-10-16 16:20:02,086 [DEBUG]   Filtered (not relevant): NFL broadcasting could face a major shakeup in 2027
+2026-10-16 16:20:02,087 [DEBUG]   Filtered (not relevant): Slow-cooker applesauce
+2026-10-16 16:20:02,087 [DEBUG]   Filtered (not relevant): Multiple grocery stores impacted by cyber attack
+2026-10-16 16:20:02,087 [DEBUG]   Filtered (not relevant): Roasted garlic dip
+2026-10-16 16:20:02,087 [DEBUG]   Filtered (not relevant): Roasted honey butter carrots
+2026-10-16 16:20:02,088 [DEBUG]   Filtered (not relevant): Bus crashes into train at Channel Tunnel terminal, injuring 19
+2026-10-16 16:20:02,088 [DEBUG]   Filtered (not relevant): Dispatcher faces DWI charge after crash at sheriff’s office
+2026-10-16 16:20:02,088 [INFO]   Relevant: Police investigate shooting that wounded man in Syracuse
+2026-10-16 16:20:02,088 [DEBUG]     → Departments: Syracuse Police Department
+2026-10-16 16:20:02,088 [DEBUG]     → Keywords: syracuse police
+2026-10-16 16:20:05,554 [INFO]     Saved: CTX-NEWS-2026-00301 → CTX-NEWS-2026-00301.json
+2026-10-16 16:20:05,554 [DEBUG]   Filtered (not relevant): Ryan Fitzpatrick delivers brutal assessment of Bo Nix after Broncos win
+2026-10-16 16:20:05,554 [DEBUG]   Filtered (not relevant): Doctors tell legendary singer he’s not allowed to perform, drive
+2026-10-16 16:20:05,554 [DEBUG]   Filtered (not relevant): WWII solider comes home to Upstate NY 82 years after his death
+2026-10-16 16:20:05,555 [DEBUG]   Filtered (not relevant): ‘Dancing With the Stars’ pro apologizes for shocking comment about judge
+2026-10-16 16:20:05,555 [DEBUG]   Filtered (not relevant): Dear Annie: How do I share the concerning changes I've seen in my housekeeping c
+2026-10-16 16:20:05,555 [DEBUG]   Filtered (not relevant): KFC to make massive change that’ll leave fans divided
+2026-10-16 16:20:05,555 [DEBUG]   Filtered (not relevant): Body found in Lake Mead barrel is identified: ‘Earmarks of a mob hit’
+2026-10-16 16:20:05,556 [DEBUG]   Filtered (not relevant): Didn’t get Slayyyter MSG tickets? Here’s where you can still buy them
+2026-10-16 16:20:05,556 [DEBUG]   Filtered (not relevant): Target has Apple deals on AirPods, iPads and Apple Watches for a limited time
+2026-10-16 16:20:05,556 [DEBUG]   Filtered (not relevant): Over 1,191 flights delayed, 79 canceled amid widespread U.S. travel disruptions
+2026-10-16 16:20:05,556 [DEBUG]   Filtered (not relevant): Be prepared for gusty showers in Finger Lakes, Southern Tier Friday midday — gus
+2026-10-16 16:20:05,556 [DEBUG]   Filtered (not relevant): 'Cozy' horror film shot in CNY lands on Shudder
+2026-10-16 16:20:05,557 [DEBUG]   Filtered (not relevant): Hurricane Trudy strengthens; warnings issued along Pacific Coast
+2026-10-16 16:20:05,557 [DEBUG]   Filtered (not relevant): DIRECTV customers can still watch blackout NHL games amid dispute
+2026-10-16 16:20:05,557 [DEBUG]   Filtered (not relevant): Central NY business honored for building a bigger workforce ‘bucket’ at annual c
+2026-10-16 16:20:05,557 [DEBUG]   Filtered (not relevant): Fact check: Can Bruce Blakeman really cut utility bills in half?
+2026-10-16 16:20:05,558 [DEBUG]   Filtered (not relevant): Polymarket enhances $25 code “CUSE” through this weekend for all prediction mark
+2026-10-16 16:20:05,558 [DEBUG]   Filtered (not relevant): One of the nation’s best offenses awaits Syracuse (9 things to know vs. Louisvil
+2026-10-16 16:20:05,558 [DEBUG]   Filtered (not relevant): Walmart has the Ninja Sizzle Pro XL griddle on sale for $129, was $149
+2026-10-16 16:20:05,558 [DEBUG]   Filtered (not relevant): From rodent droppings to no hot water, Syracuse restaurant inspections reveal tr
+2026-10-16 16:20:05,559 [DEBUG]   Filtered (not relevant): Update: Severe thunderstorm warning for Finger Lakes forecast to expire at 10 a.
+2026-10-16 16:20:05,559 [DEBUG]   Filtered (not relevant): Live scoreboard, recaps for Friday’s high school football games (Week 7)
+2026-10-16 16:20:05,559 [DEBUG]   Filtered (not relevant): Miss Manners: How do I gracefully move on when someone’s in a relationship?
+2026-10-16 16:20:05,559 [DEBUG]   Filtered (not relevant): Tree snaps, traps woman in car after Hudson Valley crash
+2026-10-16 16:20:05,560 [DEBUG]   Filtered (not relevant): Farmers’ Almanac predicts ‘tricky winter’ for Northeast: See 2026-2027 forecast
+2026-10-16 16:20:05,560 [DEBUG]   Filtered (not relevant): This Cicero market has been making $8 sandwiches since 1982
+2026-10-16 16:20:05,560 [DEBUG]   Filtered (not relevant): Toggenburg ski area sold to local businessman after anti-trust lawsuit by state
+2026-10-16 16:20:05,560 [DEBUG]   Filtered (not relevant): Faith leaders react to public execution of Nidal Hasan: ‘A blight on the conscie
+2026-10-16 16:20:05,561 [DEBUG]   Filtered (not relevant): Top 20 Section III gymnastics event leaders for Oct. 15
+2026-10-16 16:20:05,561 [DEBUG]   Filtered (not relevant): Wind advisory affecting Clinton County until early Friday evening — gusts up to 
+2026-10-16 16:20:05,561 [DEBUG]   Filtered (not relevant): Bystander intervenes after teen opens fire at Oregon elementary school
+2026-10-16 16:20:05,562 [DEBUG]   Filtered (not relevant): Man, 66, committed lewd act in Upstate NY Walmart parking lot, police say
+2026-10-16 16:20:05,562 [DEBUG]   Filtered (not relevant): Savannah Bananas bringing Banana Ball to 3 Upstate NY stadiums
+2026-10-16 16:20:05,562 [DEBUG]   Filtered (not relevant): Section III high school boys cross country leaderboard for Oct. 15
+2026-10-16 16:20:05,563 [INFO] News Scanner Run — 2026-10-16 16:20
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Police investigate shooting that wounded man in Syracuse
+
