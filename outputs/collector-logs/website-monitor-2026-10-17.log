@@ -1,0 +1,24 @@
+2026-10-17 15:31:48,232 [INFO] ============================================================
+2026-10-17 15:31:48,233 [INFO] Website Monitor starting
+2026-10-17 15:31:49,679 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-10-17 15:31:49,700 [INFO]   Navigating to https://www.syr.gov/News
+2026-10-17 15:31:54,744 [INFO]   Found 9 article links in News
+2026-10-17 15:31:59,744 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-10-16-Mayors-Office-News-445PM
+2026-10-17 15:32:12,584 [INFO]     Saved: CTX-WEB-2026-00180 → CTX-WEB-2026-00180.json
+2026-10-17 15:32:12,584 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-10-17 15:32:12,584 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-10-17 15:32:16,284 [INFO]   Found 0 article links in Announcements
+2026-10-17 15:32:21,284 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-10-17 15:32:21,284 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-10-17 15:32:24,996 [INFO]   Found 0 article links in Public Notices
+2026-10-17 15:32:30,038 [INFO] Website Monitor Run — 2026-10-17 15:32
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 8
+Errors: 0
+
+New records:
+  • Mayor Owens Appoints Dre'Chir Whitfield to Nightlife Coordinator
+
