@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00303",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangefootball/2026/10/far-from-dart-syracuse-football-slides-deeper-into-a-hole-with-loss-to-louisville-axes-quick-takes.html",
+  "publication_date": "2026-10-18",
+  "capture_date": "2026-10-18T15:36:20Z",
+  "title": "Far from DART: Syracuse slides deeper into a hole with loss to Louisville (Axe’s quick takes)",
+  "summary": "Sports commentary article about Syracuse University football team's loss to Louisville. Not relevant to City of Syracuse municipal operations, innovation initiatives, or Chief Innovation Officer priorities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Brent Axe",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is sports news coverage (Syracuse University football), not municipal government content",
+    "No relevance to City of Syracuse operations, services, policy, budget, or innovation initiatives",
+    "Recommend filtering: Sports/athletics articles from local news outlets should be excluded from CIO context engine unless directly relevant to municipal digital services or innovation programs",
+    "No applicable tags from provided taxonomy",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

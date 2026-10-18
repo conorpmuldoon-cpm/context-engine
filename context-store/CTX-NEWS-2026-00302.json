@@ -1,0 +1,47 @@
+{
+  "record_id": "CTX-NEWS-2026-00302",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangefootball/2026/10/what-was-attendance-for-syracuse-football-vs-louisville.html",
+  "publication_date": "2026-10-18",
+  "capture_date": "2026-10-18T15:36:17Z",
+  "title": "What was attendance for Syracuse football vs. Louisville?",
+  "summary": "Syracuse University reported an attendance figure of 39,293 for a football game against Louisville at the JMA Wireless Dome. This article reports on a sports event at a local university and has minimal relevance to City of Syracuse municipal operations or innovation initiatives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Brent Axe",
+      "type": "person",
+      "canonical_id": "PERSON-BRENT-AXE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is sports reporting about Syracuse University athletics, not municipal governance or city innovation",
+    "No city services, policy, budget, or infrastructure implications detected",
+    "No actionable intelligence for Chief Innovation Officer",
+    "JMA Wireless Dome is university facility, not city asset requiring CIO engagement",
+    "Recommend exclusion from CIO briefing materials",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
