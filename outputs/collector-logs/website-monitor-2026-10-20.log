@@ -1,0 +1,19 @@
+2026-10-20 17:00:49,252 [INFO] ============================================================
+2026-10-20 17:00:49,252 [INFO] Website Monitor starting
+2026-10-20 17:00:49,878 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-10-20 17:00:49,878 [INFO]   Navigating to https://www.syr.gov/News
+2026-10-20 17:00:55,094 [INFO]   Found 9 article links in News
+2026-10-20 17:01:00,094 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-10-20 17:01:00,095 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-10-20 17:01:03,699 [INFO]   Found 0 article links in Announcements
+2026-10-20 17:01:08,700 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-10-20 17:01:08,700 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-10-20 17:01:12,127 [INFO]   Found 0 article links in Public Notices
+2026-10-20 17:01:17,173 [INFO] Website Monitor Run — 2026-10-20 17:01
+==================================================
+Sections scanned: 3
+New pages found: 0
+Saved as records: 0
+Already processed: 9
+Errors: 0
+
