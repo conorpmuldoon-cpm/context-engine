@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2026-00305",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/10/micron-invests-in-expansion-of-central-ny-firm-indium-for-critical-materials.html",
+  "publication_date": "2026-10-20",
+  "capture_date": "2026-10-20T16:35:01Z",
+  "title": "Micron invests in expansion of Central NY firm Indium for ‘critical materials’",
+  "summary": "Micron Technology is investing in the expansion of Indium Corp., a Utica-based supplier of critical high-purity materials to the semiconductor industry. This private-sector investment signals continued growth in Central NY's advanced manufacturing and semiconductor supply chain sectors, with potential workforce and economic development implications for the region.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "business-community",
+    "capital-planning",
+    "workforce-development",
+    "PROVISIONAL:semiconductor-industry",
+    "PROVISIONAL:supply-chain"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Indium Corp.",
+      "type": "organization",
+      "canonical_id": "ORG-INDIUM"
+    },
+    {
+      "name": "Glenn Coin",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Private sector investment in critical materials manufacturing aligns with regional economic development and advanced manufacturing priorities; demonstrates market confidence in Central NY semiconductor ecosystem.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No dollar amount specified in article text provided",
+    "Location: Utica, NY (Central NY region)",
+    "No direct municipal department involvement detected; relevance is economic development strategy and regional competitiveness",
+    "Article date is 2026-10-20 (future date - may indicate test data)",
+    "No specific CIO/digital-services angle in article content; tagging for economic development briefing context",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

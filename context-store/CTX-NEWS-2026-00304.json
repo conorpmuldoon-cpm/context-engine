@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00304",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangebasketball/2026/10/le-moyne-athletics-receives-1-million-gift-from-lobdell-family.html",
+  "publication_date": "2026-10-20",
+  "capture_date": "2026-10-20T16:34:57Z",
+  "title": "Le Moyne athletics receives $1 million gift from Lobdell family",
+  "summary": "Le Moyne College athletics department received a $1 million donation from the Lobdell family. While this is a private higher education institution gift rather than a municipal matter, it represents notable philanthropic activity in the Syracuse region that may be relevant for economic development and community partnership tracking.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "business-community",
+    "economic-development"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Le Moyne College",
+      "type": "organization",
+      "canonical_id": "ORG-LEMOYNE"
+    },
+    {
+      "name": "Lobdell family",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Mike Waters",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Private philanthropic support for higher education athletics reflects community investment in regional institutions and may signal civic engagement priorities.",
+    "confidence": "low"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns private higher education institution, not City of Syracuse municipal operations",
+    "Dollar amount in mechanical extraction appears truncated ($1 vs. $1 million)",
+    "No direct CIO relevance unless tracking regional economic development or community partnerships",
+    "Lobdell family identity not specified; additional research may be needed for stakeholder mapping",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

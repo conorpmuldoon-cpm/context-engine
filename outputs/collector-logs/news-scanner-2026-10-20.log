@@ -1,0 +1,78 @@
+2026-10-20 16:34:52,283 [INFO] ============================================================
+2026-10-20 16:34:52,283 [INFO] News Scanner starting
+2026-10-20 16:34:52,284 [INFO] Fetching: Syracuse.com Politics
+2026-10-20 16:34:52,637 [INFO]   50 new articles from Syracuse.com Politics
+2026-10-20 16:34:52,637 [INFO] Fetching: Syracuse.com Government
+2026-10-20 16:34:52,830 [INFO]   0 new articles from Syracuse.com Government
+2026-10-20 16:34:52,830 [INFO] Fetching: Syracuse.com Local
+2026-10-20 16:34:53,075 [INFO]   0 new articles from Syracuse.com Local
+2026-10-20 16:34:53,075 [INFO] Fetching: Syracuse.com Main
+2026-10-20 16:34:53,266 [INFO]   0 new articles from Syracuse.com Main
+2026-10-20 16:34:53,266 [INFO] Total unique articles across all feeds: 50
+2026-10-20 16:34:53,266 [INFO] New articles (not previously processed): 50
+2026-10-20 16:34:53,300 [DEBUG]   Filtered (not relevant): Mötley Crüe Las Vegas presale starts today: How to get tickets before they sell 
+2026-10-20 16:34:53,300 [DEBUG]   Filtered (not relevant): GLP-1 recall: Mounjaro, Zepbound ingredient risk raised to second-highest level
+2026-10-20 16:34:53,300 [DEBUG]   Filtered (not relevant): Firefighter who founded beloved national sandwich chain has died
+2026-10-20 16:34:53,301 [DEBUG]   Filtered (not relevant): Free WiFi on long-haul Delta flights comes with one catch
+2026-10-20 16:34:53,301 [DEBUG]   Filtered (not relevant): Illinois boy, 14, hurt after falling as he chased school bus, slipped underneath
+2026-10-20 16:34:53,301 [DEBUG]   Filtered (not relevant): Actor required surgery after stunt-gone-wrong on set of hit ABC show
+2026-10-20 16:34:53,301 [DEBUG]   Filtered (not relevant): First-timers vie for rare open seat on Onondaga County Legislature (Meet the can
+2026-10-20 16:34:53,302 [DEBUG]   Filtered (not relevant): Where to watch Celtics vs. Pistons NBA basketball season opener for free today
+2026-10-20 16:34:53,302 [INFO]   Relevant: Le Moyne athletics receives $1 million gift from Lobdell family
+2026-10-20 16:34:53,302 [DEBUG]     → Entities: Le Moyne College
+2026-10-20 16:34:57,534 [INFO]     Saved: CTX-NEWS-2026-00304 → CTX-NEWS-2026-00304.json
+2026-10-20 16:34:57,534 [DEBUG]   Filtered (not relevant): Iconic rapper set to headline 2027 Super Bowl halftime show: Report
+2026-10-20 16:34:57,534 [DEBUG]   Filtered (not relevant): Legendary rock singer retiring at 76: ‘Been doing this over 54 years’
+2026-10-20 16:34:57,535 [DEBUG]   Filtered (not relevant): Noah Wyle mourns sudden death of beloved family member
+2026-10-20 16:34:57,535 [DEBUG]   Filtered (not relevant): Popular cafe chain to open 40 new locations in 2 states
+2026-10-20 16:34:57,535 [DEBUG]   Filtered (not relevant): Arizona high school football coach resigns after allegedly kicking QB off team f
+2026-10-20 16:34:57,535 [DEBUG]   Filtered (not relevant): Robert F. Kennedy’s granddaughter Kyle Kennedy dies at 42
+2026-10-20 16:34:57,536 [DEBUG]   Filtered (not relevant): How to secure Calvin Harris presale tickets for first-ever headlining North Amer
+2026-10-20 16:34:57,536 [DEBUG]   Filtered (not relevant): Driver hits water buffalo on North Country highway
+2026-10-20 16:34:57,536 [DEBUG]   Filtered (not relevant): Kevin Bacon's plea for help ends with unexpected update
+2026-10-20 16:34:57,536 [DEBUG]   Filtered (not relevant): Budget-friendly grocery chain to open 30 new stores ‘soon’
+2026-10-20 16:34:57,537 [DEBUG]   Filtered (not relevant): Elon Musk’s $1.7 billion SpaceX stock pledge: Who could qualify for a share, wha
+2026-10-20 16:34:57,537 [DEBUG]   Filtered (not relevant): Dear Annie: I've been hearing rude comments about my weight my entire life - and
+2026-10-20 16:34:57,537 [DEBUG]   Filtered (not relevant): $1.7 billion Elon Musk SpaceX stock pledge: Who would qualify and what we know
+2026-10-20 16:34:57,537 [DEBUG]   Filtered (not relevant): Model, once linked to Justin Bieber, dies at 34
+2026-10-20 16:34:57,537 [DEBUG]   Filtered (not relevant): Georgina Cates, ‘Clay Pigeons’ actress and Skeet Ulrich's ex-wife, dies at 51
+2026-10-20 16:34:57,538 [DEBUG]   Filtered (not relevant): How an Armenian genocide survivor built a Syracuse landmark
+2026-10-20 16:34:57,538 [DEBUG]   Filtered (not relevant): Former Syracuse firefighter faces more charges of raping minor
+2026-10-20 16:34:57,538 [DEBUG]   Filtered (not relevant): Space debris found in a Minnesota cornfield
+2026-10-20 16:34:57,538 [DEBUG]   Filtered (not relevant): How to watch Rays vs Brewers in the World Series for free this week
+2026-10-20 16:34:57,538 [DEBUG]   Filtered (not relevant): Over 627 flights delayed, 32 canceled amid widespread U.S. travel disruptions
+2026-10-20 16:34:57,539 [DEBUG]   Filtered (not relevant): How to watch NBA Opening Night games for free today
+2026-10-20 16:34:57,539 [DEBUG]   Filtered (not relevant): Former Buffalo-area pastor, soccer coach sentenced for child sex abuse
+2026-10-20 16:34:57,539 [DEBUG]   Filtered (not relevant): Walmart bundled member perks with Sam’s Club’s for a $100 savings
+2026-10-20 16:34:57,540 [DEBUG]   Filtered (not relevant): The North Face sale has jackets, backpacks and more for up to 50% off
+2026-10-20 16:34:57,540 [DEBUG]   Filtered (not relevant): This Upstate NY village was named the nation’s best destination for travelers ov
+2026-10-20 16:34:57,540 [DEBUG]   Filtered (not relevant): Polymarket launches $25 promo code “CUSE” for NBA tipoff and MLB playoffs
+2026-10-20 16:34:57,540 [DEBUG]   Filtered (not relevant): Popular rock musician dies at 53 after suffering heart attack on tour
+2026-10-20 16:34:57,541 [DEBUG]   Filtered (not relevant): 127th Assembly district: Stirpe and Kelly on energy, housing, Micron
+2026-10-20 16:34:57,541 [DEBUG]   Filtered (not relevant): NFL analyst and ex-ESPN star blasts Eagles for handling of Jalen Hurts’ blood cl
+2026-10-20 16:34:57,541 [DEBUG]   Filtered (not relevant): Oct. 19 Powerball results: $1M winner sold at Kroger store in Midwest state
+2026-10-20 16:34:57,542 [DEBUG]   Filtered (not relevant): Experts release Knicks vs. 76ers NBA Opening Night prediction as Brunson, LeBron
+2026-10-20 16:34:57,542 [DEBUG]   Filtered (not relevant): Hochul’s liquor czar gives $40,000 to pro-Hochul super PAC
+2026-10-20 16:34:57,542 [DEBUG]   Filtered (not relevant): ‘Married With Children’ star reveals misdiagnosis
+2026-10-20 16:34:57,542 [DEBUG]   Filtered (not relevant): Syracuse.com’s girls soccer rankings (through Oct. 20): Where teams stand after 
+2026-10-20 16:34:57,542 [DEBUG]   Filtered (not relevant): Miss Manners: Did I figure out the purpose of this vintage silverware?
+2026-10-20 16:34:57,543 [INFO]   Relevant: Micron invests in expansion of Central NY firm Indium for ‘critical materials’
+2026-10-20 16:34:57,543 [DEBUG]     → Entities: Micron Technology
+2026-10-20 16:35:01,899 [INFO]     Saved: CTX-NEWS-2026-00305 → CTX-NEWS-2026-00305.json
+2026-10-20 16:35:01,899 [DEBUG]   Filtered (not relevant): Man arrested after shooting near Rescue Mission in Syracuse
+2026-10-20 16:35:01,899 [DEBUG]   Filtered (not relevant): Where is the justice in Toggenburg saga? (Your Letters)
+2026-10-20 16:35:01,899 [DEBUG]   Filtered (not relevant): Syracuse.com’s boys soccer rankings (through Oct. 19): 2 classes have new leader
+2026-10-20 16:35:01,900 [DEBUG]   Filtered (not relevant): College football All-American dismissed from team in middle of season
+2026-10-20 16:35:01,900 [DEBUG]   Filtered (not relevant): Buffalo police officer charged with stalking, harassing ex
+2026-10-20 16:35:01,917 [INFO] News Scanner Run — 2026-10-20 16:35
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Le Moyne athletics receives $1 million gift from Lobdell family
+  • Micron invests in expansion of Central NY firm Indium for ‘critical materials’
+
