@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-NEWS-2026-00306",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/10/company-news-labella-associates-hires-christian-hill.html",
+  "publication_date": "2026-10-22",
+  "capture_date": "2026-10-22T16:52:37Z",
+  "title": "LaBella Associates hires Christian Hill, bringing stormwater and erosion control expertise to its Central New York operations",
+  "summary": "LaBella Associates DPC, a civil engineering firm operating in Central New York, has hired Christian Hill as a senior civil engineer to expand stormwater management, site design, and erosion control capabilities. This private sector hiring signals continued infrastructure and environmental engineering activity in the region relevant to municipal stormwater and water management initiatives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "business-community",
+    "economic-development",
+    "infrastructure",
+    "water",
+    "hiring"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "LaBella Associates DPC",
+      "type": "organization",
+      "canonical_id": "ORG-LABELLA"
+    },
+    {
+      "name": "Christian Hill",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Private sector investment in stormwater and erosion control expertise aligns with municipal infrastructure and sustainability priorities, particularly relevant to Syracuse water management and resilience planning.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is a private sector hiring announcement with indirect municipal relevance",
+    "No direct City of Syracuse department involvement detected",
+    "Stormwater expertise may be relevant to ongoing municipal water infrastructure initiatives",
+    "No budget figures, specific projects, or policy implications mentioned",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

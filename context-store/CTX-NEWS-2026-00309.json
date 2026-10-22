@@ -1,0 +1,60 @@
+{
+  "record_id": "CTX-NEWS-2026-00309",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/10/as-onondaga-county-studies-data-centers-ryan-mcmahon-urges-state-to-repeal-tax-exemption.html",
+  "publication_date": "2026-10-22",
+  "capture_date": "2026-10-22T16:52:49Z",
+  "title": "As Onondaga County studies data centers, Ryan McMahon urges state to repeal tax exemption",
+  "summary": "Onondaga County Executive Ryan McMahon, representing county executives statewide, is urging Governor Hochul to repeal a 26-year-old state tax exemption law that allows data centers to avoid sales tax. This action signals county concern about revenue loss and the competitive landscape around data center development in the region.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "tax-revenue",
+    "state-mandates",
+    "intergovernmental",
+    "IT-infrastructure",
+    "advocacy"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Kathy Hochul",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "opposition",
+    "description": "County executive coalition actively opposing state tax exemption policy; advocating for legislative repeal to restore tax revenue from data center operations",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on state-level tax policy rather than direct city/county operations; relevant to CIO for understanding regional data infrastructure incentive landscape",
+    "No specific dollar amounts or direct budget impacts mentioned in article",
+    "Law Department reference in mechanical extractions appears incorrect—article contains no legal/code enforcement content",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'advocacy' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

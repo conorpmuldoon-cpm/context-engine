@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2026-00308",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/10/company-news-syracuse-auditors-office-hires-matthew-kutney-roshmija-biswas.html",
+  "publication_date": "2026-10-22",
+  "capture_date": "2026-10-22T16:52:45Z",
+  "title": "Meet the new faces joining Syracuse's auditor's office",
+  "summary": "The City of Syracuse auditor's office has hired two new staff members: Matthew Kutney and Roshmija Biswas, both bringing extensive backgrounds in public administration and policy analysis. This staffing expansion signals organizational capacity building within the audit function.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "hiring",
+    "leadership-change",
+    "audit",
+    "civil-service",
+    "announcement"
+  ],
+  "department_refs": [
+    "Auditor's Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Matthew Kutney",
+      "type": "person",
+      "canonical_id": "PERSON-MATTHEW-KUTNEY"
+    },
+    {
+      "name": "Roshmija Biswas",
+      "type": "person",
+      "canonical_id": "PERSON-ROSHMIJA-BISWAS"
+    },
+    {
+      "name": "City of Syracuse Auditor's Office",
+      "type": "organization",
+      "canonical_id": "ORG-AUDITORS-OFFICE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "New audit office hires indicate municipal commitment to strengthening fiscal oversight and compliance functions.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is brief announcement with limited operational details",
+    "No budget, contract values, or implementation timelines provided",
+    "Background descriptions for new hires referenced but not detailed in excerpt provided",
+    "CIO relevance: potential coordination point if audits involve technology systems or data governance",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

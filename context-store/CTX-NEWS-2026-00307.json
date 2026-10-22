@@ -1,0 +1,52 @@
+{
+  "record_id": "CTX-NEWS-2026-00307",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/entertainment/2026/10/syracuse-hires-a-female-qb-coach-in-hit-fictional-tv-show.html",
+  "publication_date": "2026-10-22",
+  "capture_date": "2026-10-22T16:52:41Z",
+  "title": "Syracuse hires a female QB coach in hit fictional TV show",
+  "summary": "This article reports on a fictional TV show storyline (Hulu's 'Chad Powers') in which Syracuse University football hires a female quarterbacks coach. The content is entertainment-focused and does not reflect actual Syracuse city government operations or policy.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:entertainment-content",
+    "PROVISIONAL:fictional-narrative"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Hulu",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Chad Powers",
+      "type": "system",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is entertainment/media coverage of fictional TV show content, not city government news",
+    "No actionable intelligence for CIO operations",
+    "Syracuse University is referenced but is independent entity outside municipal government scope",
+    "Recommend exclusion from official city innovation tracking unless monitoring media mentions of 'Syracuse' for brand/reputation purposes",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

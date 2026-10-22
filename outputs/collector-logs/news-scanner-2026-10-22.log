@@ -1,0 +1,86 @@
+2026-10-22 16:52:32,466 [INFO] ============================================================
+2026-10-22 16:52:32,466 [INFO] News Scanner starting
+2026-10-22 16:52:32,468 [INFO] Fetching: Syracuse.com Politics
+2026-10-22 16:52:32,830 [INFO]   50 new articles from Syracuse.com Politics
+2026-10-22 16:52:32,830 [INFO] Fetching: Syracuse.com Government
+2026-10-22 16:52:33,104 [INFO]   0 new articles from Syracuse.com Government
+2026-10-22 16:52:33,104 [INFO] Fetching: Syracuse.com Local
+2026-10-22 16:52:33,321 [INFO]   0 new articles from Syracuse.com Local
+2026-10-22 16:52:33,321 [INFO] Fetching: Syracuse.com Main
+2026-10-22 16:52:33,570 [INFO]   0 new articles from Syracuse.com Main
+2026-10-22 16:52:33,570 [INFO] Total unique articles across all feeds: 50
+2026-10-22 16:52:33,570 [INFO] New articles (not previously processed): 50
+2026-10-22 16:52:33,611 [DEBUG]   Filtered (not relevant): Kalshi updates $55 NFL promo code “SYRACUSE” for Thursday Night Football
+2026-10-22 16:52:33,611 [INFO]   Relevant: LaBella Associates hires Christian Hill, bringing stormwater and erosion control
+2026-10-22 16:52:33,611 [DEBUG]     → Entities: LaBella Associates
+2026-10-22 16:52:37,772 [INFO]     Saved: CTX-NEWS-2026-00306 → CTX-NEWS-2026-00306.json
+2026-10-22 16:52:37,772 [DEBUG]   Filtered (not relevant): Want to play a video game you already bought? It could cost you more
+2026-10-22 16:52:37,773 [DEBUG]   Filtered (not relevant): ll clear: 74 Onondaga County eateries ace their health inspections
+2026-10-22 16:52:37,773 [DEBUG]   Filtered (not relevant): Meet Le Moyne’s new competition in the Metro Conference
+2026-10-22 16:52:37,773 [DEBUG]   Filtered (not relevant): Woman charged in head-on crash in DeWitt that killed woman 5 months ago
+2026-10-22 16:52:37,774 [DEBUG]   Filtered (not relevant): Airbnb bans hosts from requiring guests to do these chores
+2026-10-22 16:52:37,774 [DEBUG]   Filtered (not relevant): CBA adds armed constable with 30+ years of law enforcement experience
+2026-10-22 16:52:37,774 [DEBUG]   Filtered (not relevant): College football expert reveals who Texas will likely try to hire if Steve Sarki
+2026-10-22 16:52:37,775 [DEBUG]   Filtered (not relevant): How to watch Syracuse basketball’s exhibition vs. Niagara on Saturday
+2026-10-22 16:52:37,775 [DEBUG]   Filtered (not relevant): Popular actor scolds red carpet interviewer: ‘Talk to people like they’re humans
+2026-10-22 16:52:37,775 [INFO]   Relevant: Syracuse hires a female QB coach in hit fictional TV show
+2026-10-22 16:52:37,775 [DEBUG]     → Entities: Syracuse University
+2026-10-22 16:52:41,276 [INFO]     Saved: CTX-NEWS-2026-00307 → CTX-NEWS-2026-00307.json
+2026-10-22 16:52:41,277 [DEBUG]   Filtered (not relevant): Syracuse nonprofit lands finance leader with 25 years of experience
+2026-10-22 16:52:41,277 [DEBUG]   Filtered (not relevant): Buffalo teen accused of using 3D printer to make, sell gun parts
+2026-10-22 16:52:41,278 [DEBUG]   Filtered (not relevant): Arrest made in Schenectady school bus vandalism case
+2026-10-22 16:52:41,278 [DEBUG]   Filtered (not relevant): NBC to reboot popular ’90s sitcom with Emmy-winning actor
+2026-10-22 16:52:41,278 [DEBUG]   Filtered (not relevant): Meet the candidates running for Onondaga County Court judge
+2026-10-22 16:52:41,279 [DEBUG]   Filtered (not relevant): Calvin Harris tickets go on sale today: How to get yours before they sell out
+2026-10-22 16:52:41,279 [DEBUG]   Filtered (not relevant): Jeana Keough's daughter shares difficult update on tongue cancer recovery
+2026-10-22 16:52:41,279 [DEBUG]   Filtered (not relevant): Medicare Part B premium projected to rise in 2027: Will Social Security’s COLA c
+2026-10-22 16:52:41,280 [DEBUG]   Filtered (not relevant): New England Patriots Hall of Famer dies at 84
+2026-10-22 16:52:41,280 [DEBUG]   Filtered (not relevant): 25 years in banking leads LaPage to AmeriCU's Fulton branch
+2026-10-22 16:52:41,280 [DEBUG]   Filtered (not relevant): Attention Verizon, T-Mobile users: You might get charged for this iPhone feature
+2026-10-22 16:52:41,281 [DEBUG]   Filtered (not relevant): Subway bringing back fan-favorite sandwich for first time since 2014
+2026-10-22 16:52:41,281 [DEBUG]   Filtered (not relevant): Zach Bryan reveals he drank 15 beers a day before quitting alcohol
+2026-10-22 16:52:41,281 [DEBUG]   Filtered (not relevant): Phone networks charging fees for iPhone feature
+2026-10-22 16:52:41,282 [DEBUG]   Filtered (not relevant): Judi Dench says she can no longer act because of worsening eyesight
+2026-10-22 16:52:41,282 [DEBUG]   Filtered (not relevant): Starbucks China says buy something or find somewhere else to sit — and customers
+2026-10-22 16:52:41,282 [DEBUG]   Filtered (not relevant): Manlius supervisor race: Bollinger and Koch on taxes, data centers and more
+2026-10-22 16:52:41,283 [DEBUG]   Filtered (not relevant): Luxury automaker issues ‘do not drive’ recall, says fix won’t be ready until Dec
+2026-10-22 16:52:41,283 [DEBUG]   Filtered (not relevant): Woman, 41, discovers she’s pregnant after doctors in England investigate ‘lump,’
+2026-10-22 16:52:41,283 [DEBUG]   Filtered (not relevant): Rescue Mission Alliance board grows with 2 new appointments
+2026-10-22 16:52:41,284 [DEBUG]   Filtered (not relevant): Former NHL star, Sarah Palin’s boyfriend, dead at 69
+2026-10-22 16:52:41,284 [DEBUG]   Filtered (not relevant): Damien Woody shares unexpected health update and message for fans
+2026-10-22 16:52:41,284 [DEBUG]   Filtered (not relevant): Familiar powers inch higher in latest Syracuse.com high school football power ra
+2026-10-22 16:52:41,285 [DEBUG]   Filtered (not relevant): Dear Annie: Her past happened before we met. My resentment never moved on
+2026-10-22 16:52:41,285 [INFO]   Relevant: Meet the new faces joining Syracuse's auditor's office
+2026-10-22 16:52:41,285 [DEBUG]     → Keywords: city of syracuse
+2026-10-22 16:52:45,371 [INFO]     Saved: CTX-NEWS-2026-00308 → CTX-NEWS-2026-00308.json
+2026-10-22 16:52:45,372 [DEBUG]   Filtered (not relevant): Editorials on deficit, inflation overlook principles behind Trump’s policies (Yo
+2026-10-22 16:52:45,372 [DEBUG]   Filtered (not relevant): She once relied on food stamps. Now Deb Haaland is one win away from making hist
+2026-10-22 16:52:45,372 [DEBUG]   Filtered (not relevant): Neil deGrasse Tyson inspires 3,000 science fans in Syracuse
+2026-10-22 16:52:45,373 [DEBUG]   Filtered (not relevant): Roller coasters keep getting more extreme. Have they gone too far?
+2026-10-22 16:52:45,373 [DEBUG]   Filtered (not relevant): Former NY cop charged with murder in road rage shooting, police say
+2026-10-22 16:52:45,374 [DEBUG]   Filtered (not relevant): Turning Stone has a new VP of sales — and he's bringing 30 years of hospitality 
+2026-10-22 16:52:45,374 [INFO]   Relevant: As Onondaga County studies data centers, Ryan McMahon urges state to repeal tax 
+2026-10-22 16:52:45,375 [DEBUG]     → Entities: Ryan McMahon
+2026-10-22 16:52:45,375 [DEBUG]     → Departments: Law Department
+2026-10-22 16:52:49,581 [WARNING]     Tag issue: Unknown tag 'advocacy' not in taxonomy
+2026-10-22 16:52:49,591 [INFO]     Saved: CTX-NEWS-2026-00309 → CTX-NEWS-2026-00309.json
+2026-10-22 16:52:49,591 [DEBUG]   Filtered (not relevant): Over 1,059 flights delayed, 58 canceled amid widespread U.S. travel disruptions
+2026-10-22 16:52:49,592 [DEBUG]   Filtered (not relevant): Dr. Tenbit Emiru joins Excellus in top clinical role
+2026-10-22 16:52:49,592 [DEBUG]   Filtered (not relevant): Eric Weddle’s Bryce Underwood warning suddenly looks much different
+2026-10-22 16:52:49,592 [DEBUG]   Filtered (not relevant): Powerball results for 10/21/26: Trio of players each win at least $1M
+2026-10-22 16:52:49,593 [DEBUG]   Filtered (not relevant): Ex-MLB player charged with fraud over youth baseball program
+2026-10-22 16:52:49,593 [DEBUG]   Filtered (not relevant): U.S., Japan celebrate $21 billion deal with GlobalFoundries
+2026-10-22 16:52:49,594 [INFO] News Scanner Run — 2026-10-22 16:52
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 4
+Filtered (not relevant): 46
+Errors: 0
+
+New records:
+  • LaBella Associates hires Christian Hill, bringing stormwater and erosion control
+  • Syracuse hires a female QB coach in hit fictional TV show
+  • Meet the new faces joining Syracuse's auditor's office
+  • As Onondaga County studies data centers, Ryan McMahon urges state to repeal tax 
+
