@@ -1,0 +1,75 @@
+2026-10-23 16:44:17,469 [INFO] ============================================================
+2026-10-23 16:44:17,469 [INFO] News Scanner starting
+2026-10-23 16:44:17,470 [INFO] Fetching: Syracuse.com Politics
+2026-10-23 16:44:17,881 [INFO]   50 new articles from Syracuse.com Politics
+2026-10-23 16:44:17,881 [INFO] Fetching: Syracuse.com Government
+2026-10-23 16:44:18,118 [INFO]   0 new articles from Syracuse.com Government
+2026-10-23 16:44:18,118 [INFO] Fetching: Syracuse.com Local
+2026-10-23 16:44:18,312 [INFO]   0 new articles from Syracuse.com Local
+2026-10-23 16:44:18,312 [INFO] Fetching: Syracuse.com Main
+2026-10-23 16:44:18,561 [INFO]   0 new articles from Syracuse.com Main
+2026-10-23 16:44:18,561 [INFO] Total unique articles across all feeds: 50
+2026-10-23 16:44:18,562 [INFO] New articles (not previously processed): 50
+2026-10-23 16:44:18,609 [DEBUG]   Filtered (not relevant): This small Upstate NY airport has again been voted one of America’s best
+2026-10-23 16:44:18,610 [DEBUG]   Filtered (not relevant): Taco Bell won’t follow sister chain into break-up with Pepsi
+2026-10-23 16:44:18,610 [DEBUG]   Filtered (not relevant): CNY native returns home to lead Helping Hounds Dog Rescue
+2026-10-23 16:44:18,610 [DEBUG]   Filtered (not relevant): Syracuse has a new punishment for its penalty problem: ‘It holds us accountable’
+2026-10-23 16:44:18,611 [DEBUG]   Filtered (not relevant): Powerful earthquake hits Tibet as rescue crews race to find survivors
+2026-10-23 16:44:18,611 [DEBUG]   Filtered (not relevant): Scheme alert: iPhone users may be hacked by scrolling past ad or visiting legiti
+2026-10-23 16:44:18,611 [DEBUG]   Filtered (not relevant): Virginia man arrested, accused of beheading Iwo Jima statue with sledgehammer
+2026-10-23 16:44:18,612 [DEBUG]   Filtered (not relevant): Spinach and feta quesadillas with pickled jalapeños
+2026-10-23 16:44:18,612 [DEBUG]   Filtered (not relevant): Cranberry sauce spritz
+2026-10-23 16:44:18,613 [DEBUG]   Filtered (not relevant): See woman accused of killing girl in DWI crash blame girl’s mom, get removed fro
+2026-10-23 16:44:18,613 [DEBUG]   Filtered (not relevant): Thanksgiving turkey meatballs and gravy
+2026-10-23 16:44:18,613 [INFO]   Relevant: 48th Senate District: May and McCarron differ on housing, ICE and energy issues
+2026-10-23 16:44:18,614 [DEBUG]     → Entities: Rachel May
+2026-10-23 16:44:23,470 [INFO]     Saved: CTX-NEWS-2026-00310 → CTX-NEWS-2026-00310.json
+2026-10-23 16:44:23,470 [DEBUG]   Filtered (not relevant): Hegseth warns troops they could face criminal charges over this activity
+2026-10-23 16:44:23,471 [DEBUG]   Filtered (not relevant): Actor known for ‘Top Gun’ and ‘M*A*S*H’ dies at 93: ‘A shining light’
+2026-10-23 16:44:23,471 [DEBUG]   Filtered (not relevant): Watch Ipswich Town-Nottingham Forest match for free today
+2026-10-23 16:44:23,471 [DEBUG]   Filtered (not relevant): Editorial endorsement: Rep. John Mannion in the 22nd Congressional District (Edi
+2026-10-23 16:44:23,472 [DEBUG]   Filtered (not relevant): Central NY Democrat reclaims statewide party role
+2026-10-23 16:44:23,472 [DEBUG]   Filtered (not relevant): 1 dead, girl, 12, among injured in Paris ‘terrorist crime’ shooting
+2026-10-23 16:44:23,472 [DEBUG]   Filtered (not relevant): From sidelines to clinic: Dr. Ponto joins St. Joseph's
+2026-10-23 16:44:23,473 [DEBUG]   Filtered (not relevant): Beloved actor who starred in ‘Top Gun’ and ‘Steel Magnolias’ dies at 93
+2026-10-23 16:44:23,473 [DEBUG]   Filtered (not relevant): Air Canada cancels all flights to this U.S. market: Here’s why
+2026-10-23 16:44:23,473 [DEBUG]   Filtered (not relevant): Actor, comedian says he almost took his own life while filming hit sitcom
+2026-10-23 16:44:23,473 [DEBUG]   Filtered (not relevant): Adam DeVine admits he panics every holiday season — and Macy's made him the face
+2026-10-23 16:44:23,474 [DEBUG]   Filtered (not relevant): Shein settlement: Will customers get part of the $100M payout?
+2026-10-23 16:44:23,474 [DEBUG]   Filtered (not relevant): Anthony Richardson Sr. faces new legal issue after traffic stop
+2026-10-23 16:44:23,474 [DEBUG]   Filtered (not relevant): Baseball fans can score free Denny’s if incredibly rare play happens during Worl
+2026-10-23 16:44:23,474 [DEBUG]   Filtered (not relevant): Emotional tributes pour in after ‘M*A*S*H’ and ‘Top Gun’ actor dies at 93
+2026-10-23 16:44:23,475 [DEBUG]   Filtered (not relevant): Ex-NY cop’s murder charge downgraded to manslaughter in road rage shooting; vict
+2026-10-23 16:44:23,475 [DEBUG]   Filtered (not relevant): Replica trophy held by iconic player after World Cup win heads for auction
+2026-10-23 16:44:23,476 [DEBUG]   Filtered (not relevant): Knicks employees fell for a championship ring phishing test
+2026-10-23 16:44:23,476 [DEBUG]   Filtered (not relevant): Who wants a free tree? Syracuse residents can register now to plant one at home
+2026-10-23 16:44:23,476 [DEBUG]   Filtered (not relevant): Dear Annie: Why are you jealous of your partner's ex? It only complicates everyo
+2026-10-23 16:44:23,476 [DEBUG]   Filtered (not relevant): Hall of Fame running back diagnosed with Parkinson’s disease at 53
+2026-10-23 16:44:23,477 [DEBUG]   Filtered (not relevant): Social Security COLA 2027: There’s a way to find out your exact benefits increas
+2026-10-23 16:44:23,477 [DEBUG]   Filtered (not relevant): FL woman dies in 1,000-foot fall while trying to take photo on Italy trip
+2026-10-23 16:44:23,477 [DEBUG]   Filtered (not relevant): LaMelo Ball reveals why girlfriend handles their baby's diaper changes
+2026-10-23 16:44:23,478 [DEBUG]   Filtered (not relevant): Up to $4K available for victims of data breach
+2026-10-23 16:44:23,478 [DEBUG]   Filtered (not relevant): Meghan Markle reacts to dad’s shocking child pornography allegations
+2026-10-23 16:44:23,478 [DEBUG]   Filtered (not relevant): New York parents turn Knicks championship into an unforgettable baby name
+2026-10-23 16:44:23,479 [DEBUG]   Filtered (not relevant): How to watch the F1 United States Grand Prix this weekend
+2026-10-23 16:44:23,479 [DEBUG]   Filtered (not relevant): Over 1,177 flights delayed, 89 canceled amid widespread U.S. travel disruptions
+2026-10-23 16:44:23,479 [DEBUG]   Filtered (not relevant): Fans noticed something strange during LeBron James’ 76ers home debut
+2026-10-23 16:44:23,480 [DEBUG]   Filtered (not relevant): New York cautiously advances a key clean heat technology
+2026-10-23 16:44:23,480 [DEBUG]   Filtered (not relevant): Nationwide recall issued for costumes sold on Amazon: Return ASAP
+2026-10-23 16:44:23,480 [DEBUG]   Filtered (not relevant): FM High School brings Shakespeare back to stage after more than a decade
+2026-10-23 16:44:23,481 [DEBUG]   Filtered (not relevant): LeBron James gives blunt response after Donald Trump demands apology
+2026-10-23 16:44:23,481 [DEBUG]   Filtered (not relevant): Didn’t get Zach Bryan ‘Young Manhood’ tour tickets? Here’s where you can still b
+2026-10-23 16:44:23,481 [DEBUG]   Filtered (not relevant): If this Democrat is re-elected, the real campaign will begin after the polls clo
+2026-10-23 16:44:23,482 [DEBUG]   Filtered (not relevant): How to beat the Sienna Spiro ticket wars today before her tour sells out again
+2026-10-23 16:44:23,482 [DEBUG]   Filtered (not relevant): 5 accused of killing witness to stop him from testifying in Upstate NY murder tr
+2026-10-23 16:44:23,484 [INFO] News Scanner Run — 2026-10-23 16:44
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • 48th Senate District: May and McCarron differ on housing, ICE and energy issues
+

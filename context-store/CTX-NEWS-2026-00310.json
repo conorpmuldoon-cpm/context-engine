@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00310",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/politics/cny/2026/10/48th-senate-district-may-and-mccarron-differ-on-housing-ice-and-energy-issues.html",
+  "publication_date": "2026-10-23",
+  "capture_date": "2026-10-23T16:44:23Z",
+  "title": "48th Senate District: May and McCarron differ on housing, ICE and energy issues",
+  "summary": "State Senator Rachel May is featured in a campaign article discussing her progressive positions on housing affordability, ICE enforcement, and energy policy ahead of the 48th Senate District election. The article highlights May's advocacy on multiple policy issues relevant to Syracuse constituents, including housing and sustainability.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "housing",
+    "sustainability",
+    "legislation",
+    "equity",
+    "state-agency"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Rachel May",
+      "type": "person",
+      "canonical_id": "PERSON-RACHEL-MAY"
+    },
+    {
+      "name": "Douglass Dowty",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "New York State Senate",
+      "type": "organization",
+      "canonical_id": "ORG-NYSS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "advocacy",
+  "political_signal": {
+    "signal_type": "championship",
+    "description": "Article highlights State Senator May's progressive advocacy on housing affordability, immigration enforcement, and energy policy—issues with direct relevance to Syracuse municipal priorities around equity, housing, and sustainability.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is state-level campaign coverage, not direct City of Syracuse governance",
+    "State Senator May's positions on housing and energy may inform or align with city-level CIO initiatives on sustainability and digital equity",
+    "No dollar amounts, specific City departments, or direct municipal policy decisions referenced",
+    "May be relevant for intergovernmental coordination on state-level programs affecting Syracuse",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
