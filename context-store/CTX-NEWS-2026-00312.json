@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00312",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/sports/2026/10/magic-johnsons-espn-days-remembered-by-bill-simmons.html",
+  "publication_date": "2026-10-24",
+  "capture_date": "2026-10-24T15:37:49Z",
+  "title": "Bill Simmons reveals what viewers didn’t see from Magic Johnson at ESPN",
+  "summary": "Sports entertainment article about Bill Simmons recalling Magic Johnson's ESPN appearances. No relevance to City of Syracuse municipal operations, government services, or Chief Innovation Officer priorities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Bill Simmons",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Magic Johnson",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is sports/entertainment content with no municipal governance relevance",
+    "URL domain is syracuse.com but content is unrelated to city operations",
+    "No actionable intelligence for CIO function",
+    "Recommend filtering out sports entertainment category from future ingestion",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
