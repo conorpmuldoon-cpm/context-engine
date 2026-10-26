@@ -1,0 +1,25 @@
+2026-10-26 18:40:02,441 [INFO] ============================================================
+2026-10-26 18:40:02,441 [INFO] Website Monitor starting
+2026-10-26 18:40:03,087 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-10-26 18:40:03,087 [INFO]   Navigating to https://www.syr.gov/News
+2026-10-26 18:40:08,825 [INFO]   Found 9 article links in News
+2026-10-26 18:40:13,825 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-10-26-Mayors-Office-News-1130AM
+2026-10-26 18:40:27,376 [WARNING]     Tag issue: Unknown tag 'health' not in taxonomy
+2026-10-26 18:40:27,389 [INFO]     Saved: CTX-WEB-2026-00181 → CTX-WEB-2026-00181.json
+2026-10-26 18:40:27,389 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-10-26 18:40:27,389 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-10-26 18:40:30,840 [INFO]   Found 0 article links in Announcements
+2026-10-26 18:40:35,840 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-10-26 18:40:35,840 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-10-26 18:40:40,347 [INFO]   Found 0 article links in Public Notices
+2026-10-26 18:40:45,408 [INFO] Website Monitor Run — 2026-10-26 18:40
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 8
+Errors: 0
+
+New records:
+  • Mayor Owens Launches the "Lead Big Table"
+

@@ -1,0 +1,83 @@
+{
+  "record_id": "CTX-WEB-2026-00181",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-10-26-Mayors-Office-News-1130AM",
+  "publication_date": "2026-10-26",
+  "capture_date": "2026-10-26T18:40:27Z",
+  "title": "Mayor Owens Launches the \"Lead Big Table\"",
+  "summary": "Mayor Sharon Owens launched the Lead Big Table on National Lead Poisoning Prevention Week, a multi-agency collaborative initiative modeled after the successful I-81 Big Table structure. The effort coordinates government agencies, health experts, housing partners, educators, and community organizations to address lead hazards in housing, pipes, and dust—with explicit focus on racial equity given that Black children in Onondaga County face nearly six times higher lead exposure risk than white children.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "initiative-launch",
+    "lead-remediation",
+    "equity",
+    "intergovernmental",
+    "public-safety-commission",
+    "housing",
+    "mayor",
+    "health",
+    "PROVISIONAL:environmental-justice",
+    "PROVISIONAL:childhood-health"
+  ],
+  "department_refs": [
+    "Mayor's Office",
+    "Onondaga County Health Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Ryan McMahon",
+      "type": "person",
+      "canonical_id": "PERSON-RYAN-MCMAHON"
+    },
+    {
+      "name": "Dr. Kathryn Anderson",
+      "type": "person",
+      "canonical_id": "PERSON-KATHRYN-ANDERSON"
+    },
+    {
+      "name": "Lanessa Owens-Chaplin",
+      "type": "person",
+      "canonical_id": "PERSON-LANESSA-OWENS-CHAPLIN"
+    },
+    {
+      "name": "New York Civil Liberties Union",
+      "type": "organization",
+      "canonical_id": "ORG-NYCLU"
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor's leadership signals city commitment to environmental health equity; explicit acknowledgment of racial disparities in lead exposure and partnership with civil rights organizations demonstrates alignment with social justice priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article truncated mid-quote from Oceanna Fair; full speaker attribution incomplete",
+    "No dollar amounts or specific budget commitments mentioned in available text",
+    "Modeled on proven I-81 Big Table structure—CIO may want to track governance lessons learned",
+    "Potential data governance angle: coordinating health/housing/education datasets across agencies",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'health' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}
