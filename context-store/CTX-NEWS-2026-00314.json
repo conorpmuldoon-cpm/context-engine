@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00314",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/sports/2026/10/kirk-herbstreits-caleb-williams-comment-draws-criticism-after-bears-win.html",
+  "publication_date": "2026-10-26",
+  "capture_date": "2026-10-26T18:28:50Z",
+  "title": "Kirk Herbstreit's words about Caleb Williams draw fire",
+  "summary": "This article covers sports commentary by Kirk Herbstreit regarding NFL quarterback Caleb Williams and is unrelated to Syracuse city government operations, municipal services, or innovation initiatives. No actionable intelligence for the CIO.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Kirk Herbstreit",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Caleb Williams",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Chicago Bears",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Prime Video",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is sports news with no relevance to Syracuse municipal operations, CIO mandate, or city innovation priorities.",
+    "Mechanical extraction of 'Syracuse Fire Department' and 'Department of Permits and Development' appears to be false positives from URL domain origin only; neither department is referenced in article content.",
+    "No city governance, technology infrastructure, digital services, or constituent-facing issues present.",
+    "Recommend filtering out sports content from future CIO context engine ingestion unless explicitly city-related.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

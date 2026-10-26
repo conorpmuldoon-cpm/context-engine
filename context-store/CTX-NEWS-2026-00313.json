@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00313",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/micron/2026/10/bechtel-job-fair-attracts-hundreds-as-hiring-ramps-up-for-micron-construction.html",
+  "publication_date": "2026-10-26",
+  "capture_date": "2026-10-26T18:28:46Z",
+  "title": "Bechtel job fair near Syracuse attracts hundreds as hiring ramps up for Micron construction",
+  "summary": "Bechtel held a major hiring event in DeWitt attracting 500 job seekers for construction positions on Micron Technology's chipmaking facility in Clay. The job fair signals significant workforce mobilization for a major regional infrastructure project with potential implications for local economic development and labor markets.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "economic-development",
+    "hiring",
+    "workforce-development",
+    "construction-staging",
+    "business-community"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Bechtel",
+      "type": "organization",
+      "canonical_id": "ORG-BECHTEL"
+    },
+    {
+      "name": "Micron Technology",
+      "type": "organization",
+      "canonical_id": "ORG-MICRON"
+    },
+    {
+      "name": "Renee Fox",
+      "type": "person",
+      "canonical_id": "PERSON-RENEE-FOX"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Large-scale private sector job creation event demonstrates regional economic momentum around major semiconductor manufacturing investment, aligning with municipal economic development priorities.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on private sector activity (Bechtel/Micron) rather than City of Syracuse municipal operations",
+    "Location references: Clay (Town of Clay, not City), DeWitt (Town of DeWitt) - outside direct city jurisdiction but within regional economic influence",
+    "No direct city department involvement detected; may indicate need for CIO awareness of regional workforce/infrastructure trends",
+    "Could connect to future IT infrastructure or digital services coordination needs for chipmaking facility operations",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

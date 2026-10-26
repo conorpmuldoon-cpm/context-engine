@@ -1,0 +1,79 @@
+2026-10-26 18:28:40,653 [INFO] ============================================================
+2026-10-26 18:28:40,653 [INFO] News Scanner starting
+2026-10-26 18:28:40,656 [INFO] Fetching: Syracuse.com Politics
+2026-10-26 18:28:41,489 [INFO]   50 new articles from Syracuse.com Politics
+2026-10-26 18:28:41,489 [INFO] Fetching: Syracuse.com Government
+2026-10-26 18:28:41,712 [INFO]   0 new articles from Syracuse.com Government
+2026-10-26 18:28:41,712 [INFO] Fetching: Syracuse.com Local
+2026-10-26 18:28:41,896 [INFO]   0 new articles from Syracuse.com Local
+2026-10-26 18:28:41,896 [INFO] Fetching: Syracuse.com Main
+2026-10-26 18:28:42,066 [INFO]   0 new articles from Syracuse.com Main
+2026-10-26 18:28:42,066 [INFO] Total unique articles across all feeds: 50
+2026-10-26 18:28:42,066 [INFO] New articles (not previously processed): 50
+2026-10-26 18:28:42,130 [DEBUG]   Filtered (not relevant): Massive chain adds pan pizza to permanent menu after crafting recipe for 2 years
+2026-10-26 18:28:42,130 [DEBUG]   Filtered (not relevant): Illinois coach Bret Bielema shares heartbreaking family news
+2026-10-26 18:28:42,131 [DEBUG]   Filtered (not relevant): Former TLC star shares message to his 6 estranged kids: ‘I still love you’
+2026-10-26 18:28:42,131 [DEBUG]   Filtered (not relevant): ‘Marshals’ ends on explosive cliffhanger with 2 main characters’ lives in danger
+2026-10-26 18:28:42,131 [DEBUG]   Filtered (not relevant): Colorado father and his 2 teenage sons killed in remote plane crash
+2026-10-26 18:28:42,132 [DEBUG]   Filtered (not relevant): How to beat the System of a Down ticket wars today for 2027 Rose Bowl shows
+2026-10-26 18:28:42,132 [DEBUG]   Filtered (not relevant): U.S. Mint unveils special $5 gold coin
+2026-10-26 18:28:42,133 [DEBUG]   Filtered (not relevant): Section III fall girls volleyball playoff preview: Favorites, contenders, player
+2026-10-26 18:28:42,133 [DEBUG]   Filtered (not relevant): As seasonal hiring slows, Amazon is hiring 300K workers for the holidays
+2026-10-26 18:28:42,133 [DEBUG]   Filtered (not relevant): Music legend sues ex-fiancée nearly 40 years after breakup
+2026-10-26 18:28:42,134 [DEBUG]   Filtered (not relevant): Kalshi renews $55 MLB code “SYRACUSE” for World Series Game 3
+2026-10-26 18:28:42,134 [DEBUG]   Filtered (not relevant): Food hall chain to open 100 new stores in expansion effort
+2026-10-26 18:28:42,134 [DEBUG]   Filtered (not relevant): Walmart is spreading out the Black Friday deals over these dates
+2026-10-26 18:28:42,135 [DEBUG]   Filtered (not relevant): Florida man convicted after swallowing Tiffany’s jewelry valued at $760K
+2026-10-26 18:28:42,135 [DEBUG]   Filtered (not relevant): U.S. Marine indicted for murder in Japan after woman was found dead in a hotel r
+2026-10-26 18:28:42,135 [DEBUG]   Filtered (not relevant): Beloved drive-in fast-food chain reveals winter menu with sweet Santa treat, new
+2026-10-26 18:28:42,136 [DEBUG]   Filtered (not relevant): USPS announces 2026 holiday shipping dates for packages to arrive in time for Ch
+2026-10-26 18:28:42,136 [DEBUG]   Filtered (not relevant): Syracuse-Clemson football kickoff time and television channel announced by ACC
+2026-10-26 18:28:42,137 [INFO]   Relevant: Bechtel job fair near Syracuse attracts hundreds as hiring ramps up for Micron c
+2026-10-26 18:28:42,137 [DEBUG]     → Entities: Micron Technology
+2026-10-26 18:28:46,927 [INFO]     Saved: CTX-NEWS-2026-00313 → CTX-NEWS-2026-00313.json
+2026-10-26 18:28:46,928 [DEBUG]   Filtered (not relevant): Can you fly with AirTags? Here's what the TSA says
+2026-10-26 18:28:46,928 [DEBUG]   Filtered (not relevant): Former Cowboys star Dez Bryant speaks out after encounter with police
+2026-10-26 18:28:46,928 [DEBUG]   Filtered (not relevant): NY archdiocese to pay $800 million in historic settlement with sex abuse victims
+2026-10-26 18:28:46,929 [DEBUG]   Filtered (not relevant): This sport rising in popularity in US and abroad
+2026-10-26 18:28:46,929 [DEBUG]   Filtered (not relevant): Rabbi in California charged with murder after fatal crash at Costco gas pumps
+2026-10-26 18:28:46,929 [DEBUG]   Filtered (not relevant): Former college football receiver charged with capital murder
+2026-10-26 18:28:46,930 [DEBUG]   Filtered (not relevant): Reality star dead at 34 after cancer battle
+2026-10-26 18:28:46,930 [DEBUG]   Filtered (not relevant): Jordan arrests 3 suspects in deadly church attack
+2026-10-26 18:28:46,930 [DEBUG]   Filtered (not relevant): New Apple product costs $100 more than previous model
+2026-10-26 18:28:46,931 [DEBUG]   Filtered (not relevant): Teen, 19 recorded sex in North Carolina dorm, shared it with fraternity on Snapc
+2026-10-26 18:28:46,931 [DEBUG]   Filtered (not relevant): Which players with Syracuse backgrounds are on NBA rosters?
+2026-10-26 18:28:46,932 [DEBUG]   Filtered (not relevant): Luxury electric SUVs recalled, owners warned not to charge beyond 80% over fire 
+2026-10-26 18:28:46,932 [DEBUG]   Filtered (not relevant): These 3 coins each sell for between $87,000 and $166,000 at auction
+2026-10-26 18:28:46,933 [DEBUG]   Filtered (not relevant): Dear Annie: Am I losing my teen granddaughter, or is this just a painful phase?
+2026-10-26 18:28:46,933 [DEBUG]   Filtered (not relevant): Sage Steele stays with Life Surge amid growing controversy
+2026-10-26 18:28:46,933 [DEBUG]   Filtered (not relevant): Country singer warned his career is ‘over’ after this
+2026-10-26 18:28:46,934 [DEBUG]   Filtered (not relevant): Stewart’s Shops proposes another Onondaga County location
+2026-10-26 18:28:46,934 [DEBUG]   Filtered (not relevant): Porch collapse injures 28 near William & Mary campus
+2026-10-26 18:28:46,934 [DEBUG]   Filtered (not relevant): Important November Social Security payment worth up to $994 hits banks in 4 days
+2026-10-26 18:28:46,935 [DEBUG]   Filtered (not relevant): Over 868 flights delayed, 39 canceled amid widespread U.S. travel disruptions
+2026-10-26 18:28:46,935 [DEBUG]   Filtered (not relevant): 2 killed in CA after car plows into group of 30 bicyclists on Halloween-themed r
+2026-10-26 18:28:46,936 [INFO]   Relevant: Kirk Herbstreit's words about Caleb Williams draw fire
+2026-10-26 18:28:46,936 [DEBUG]     → Departments: Syracuse Fire Department, Department of Permits and Development
+2026-10-26 18:28:50,451 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-10-26 18:28:50,463 [INFO]     Saved: CTX-NEWS-2026-00314 → CTX-NEWS-2026-00314.json
+2026-10-26 18:28:50,463 [DEBUG]   Filtered (not relevant): Rodney Hinton Jr. convicted of murder in Ohio deputy's death
+2026-10-26 18:28:50,464 [DEBUG]   Filtered (not relevant): Jake Luppen, 31, preparing for surgery to remove suspected brain tumor
+2026-10-26 18:28:50,465 [DEBUG]   Filtered (not relevant): Polymarket upgrades $25 promo code “CUSE” for MNF and World Series Game 3
+2026-10-26 18:28:50,465 [DEBUG]   Filtered (not relevant): NY county jails received historic sums to detain immigrants for ICE
+2026-10-26 18:28:50,465 [DEBUG]   Filtered (not relevant): Florida A&M shooting: 15-year-old boy arrested; 11 people shot near football sta
+2026-10-26 18:28:50,466 [DEBUG]   Filtered (not relevant): Nobody knows where or when Game 6 of the WNBA Finals will be. Here’s why
+2026-10-26 18:28:50,466 [DEBUG]   Filtered (not relevant): NY energy rebate checks are mailing now: How much will you get?
+2026-10-26 18:28:50,467 [DEBUG]   Filtered (not relevant): Who are the top 25 Section III boys volleyball stats leaders (through Oct. 25)
+2026-10-26 18:28:50,467 [DEBUG]   Filtered (not relevant): Rays vs. Brewers Game 3 prediction, best bet and Underdog Pick’em props
+2026-10-26 18:28:50,469 [INFO] News Scanner Run — 2026-10-26 18:28
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Bechtel job fair near Syracuse attracts hundreds as hiring ramps up for Micron c
+  • Kirk Herbstreit's words about Caleb Williams draw fire
+
