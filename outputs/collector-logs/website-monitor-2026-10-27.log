@@ -1,0 +1,25 @@
+2026-10-27 17:59:10,113 [INFO] ============================================================
+2026-10-27 17:59:10,113 [INFO] Website Monitor starting
+2026-10-27 17:59:10,697 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-10-27 17:59:10,697 [INFO]   Navigating to https://www.syr.gov/News
+2026-10-27 17:59:16,202 [INFO]   Found 9 article links in News
+2026-10-27 17:59:21,203 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-10-27-Infrastructure-News-1200-P.M
+2026-10-27 17:59:34,374 [WARNING]     Tag issue: Unknown tag 'safety' not in taxonomy
+2026-10-27 17:59:34,384 [INFO]     Saved: CTX-WEB-2026-00182 → CTX-WEB-2026-00182.json
+2026-10-27 17:59:34,384 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-10-27 17:59:34,384 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-10-27 17:59:37,969 [INFO]   Found 0 article links in Announcements
+2026-10-27 17:59:42,969 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-10-27 17:59:42,969 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-10-27 17:59:46,988 [INFO]   Found 0 article links in Public Notices
+2026-10-27 17:59:52,031 [INFO] Website Monitor Run — 2026-10-27 17:59
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 8
+Errors: 0
+
+New records:
+  • DPW to Convert Two Traffic Signals at Intersections To Flashing Lights
+

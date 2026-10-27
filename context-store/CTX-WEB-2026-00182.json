@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-WEB-2026-00182",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-10-27-Infrastructure-News-1200-P.M",
+  "publication_date": "2026-10-27",
+  "capture_date": "2026-10-27T17:59:34Z",
+  "title": "DPW to Convert Two Traffic Signals at Intersections To Flashing Lights",
+  "summary": "DPW will convert traffic signals at two intersections (S. Geddes & W. Onondaga Street, Grant Boulevard & Lemoyne Avenue) to flashing lights from November 1 through April 1 annually to improve winter safety. S. Geddes will have flashing yellow (proceed with caution), while W. Onondaga and Lemoyne Avenue will have flashing red (complete stop required). This semi-annual seasonal adjustment reflects a recurring public safety operational procedure.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "transportation",
+    "roads-bridges",
+    "snow-removal",
+    "recurring",
+    "safety",
+    "PROVISIONAL:seasonal-operations"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author listed as Unknown; press contact is Office of Communications (press@syr.gov)",
+    "No budget or financial impact mentioned",
+    "Described as routine seasonal procedure occurring twice yearly",
+    "Potential CIO relevance: traffic signal management systems, possible IoT/smart infrastructure angle not detailed in release",
+    "Vision-zero alignment possible but not explicitly stated",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'safety' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}
