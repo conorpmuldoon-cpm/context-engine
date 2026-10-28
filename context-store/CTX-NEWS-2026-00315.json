@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-NEWS-2026-00315",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/state/2026/10/cornell-faculty-to-begin-voting-on-no-confidence-resolution-over-handling-of-fraternity-gang-rape.html",
+  "publication_date": "2026-10-28",
+  "capture_date": "2026-10-28T18:06:41Z",
+  "title": "Cornell faculty to begin voting on no-confidence resolution",
+  "summary": "Cornell University faculty will vote on a no-confidence resolution against university administration regarding its handling of a 2024 campus fraternity gang rape report. This represents institutional governance and leadership accountability issues at a major state-adjacent research institution with potential implications for higher education policy and constituent trust.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "investigation",
+    "transparency",
+    "escalating",
+    "PROVISIONAL:higher-education-governance"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Cornell University",
+      "type": "organization",
+      "canonical_id": "ORG-CORNELL"
+    },
+    {
+      "name": "Cornell University Administration",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Faculty no-confidence vote signals institutional governance failure and accountability demands regarding sexual assault response protocols at major research university.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is about Cornell University (Ithaca, NY), not City of Syracuse government—limited direct CIO applicability unless tracking higher-ed institutional technology/policy trends or constituent concerns about regional institutions",
+    "No Syracuse city government departments, budget items, or direct policy connections identified",
+    "May be relevant for workforce development or education partnership contexts only",
+    "Recommend flagging as out-of-scope unless CIO maintains higher-education institutional intelligence briefings",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

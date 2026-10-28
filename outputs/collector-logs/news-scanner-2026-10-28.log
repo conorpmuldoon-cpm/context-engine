@@ -1,0 +1,75 @@
+2026-10-28 18:06:35,528 [INFO] ============================================================
+2026-10-28 18:06:35,528 [INFO] News Scanner starting
+2026-10-28 18:06:35,529 [INFO] Fetching: Syracuse.com Politics
+2026-10-28 18:06:35,937 [INFO]   50 new articles from Syracuse.com Politics
+2026-10-28 18:06:35,937 [INFO] Fetching: Syracuse.com Government
+2026-10-28 18:06:36,194 [INFO]   0 new articles from Syracuse.com Government
+2026-10-28 18:06:36,194 [INFO] Fetching: Syracuse.com Local
+2026-10-28 18:06:36,499 [INFO]   0 new articles from Syracuse.com Local
+2026-10-28 18:06:36,499 [INFO] Fetching: Syracuse.com Main
+2026-10-28 18:06:36,863 [INFO]   0 new articles from Syracuse.com Main
+2026-10-28 18:06:36,863 [INFO] Total unique articles across all feeds: 50
+2026-10-28 18:06:36,864 [INFO] New articles (not previously processed): 50
+2026-10-28 18:06:36,924 [DEBUG]   Filtered (not relevant): Veteran zookeeper dies after being attacked by leopard
+2026-10-28 18:06:36,924 [DEBUG]   Filtered (not relevant): Frontier airfare jumps 71% — but passengers keep booking
+2026-10-28 18:06:36,925 [DEBUG]   Filtered (not relevant): Dear Abby: I deleted social media to avoid my exes, but one keeps finding me
+2026-10-28 18:06:36,925 [DEBUG]   Filtered (not relevant): Some Social Security recipients will get November payments this week: Benefit sc
+2026-10-28 18:06:36,926 [DEBUG]   Filtered (not relevant): Vegetarian borscht with potato pierogies
+2026-10-28 18:06:36,926 [DEBUG]   Filtered (not relevant): Sheet-pan thanksgiving stuffing
+2026-10-28 18:06:36,927 [DEBUG]   Filtered (not relevant): Crawford County fried chicken
+2026-10-28 18:06:36,928 [DEBUG]   Filtered (not relevant): Beloved actor who survived being shot in the face dies at 68
+2026-10-28 18:06:36,928 [DEBUG]   Filtered (not relevant): When veterans can expect VA disability checks for October
+2026-10-28 18:06:36,928 [DEBUG]   Filtered (not relevant): Bird flu has been spreading on a Utah mink farm for months. Experts want to know
+2026-10-28 18:06:36,929 [DEBUG]   Filtered (not relevant): Former ‘Jeopardy!’ champion arrested on child exploitation charges
+2026-10-28 18:06:36,929 [DEBUG]   Filtered (not relevant): Walmart has everything you need for a holiday dinner for less than 2025
+2026-10-28 18:06:36,930 [DEBUG]   Filtered (not relevant): Vance coming to North Country to rally for Constantino in NY21 race
+2026-10-28 18:06:36,930 [DEBUG]   Filtered (not relevant): ‘Dancing With the Stars’ sends home two celebrities in brutal double elimination
+2026-10-28 18:06:36,931 [DEBUG]   Filtered (not relevant): Saquon Barkley says NFL rules forced him to sell his stake in Polymarket
+2026-10-28 18:06:36,931 [DEBUG]   Filtered (not relevant): McDonald's just dropped 5 festive holiday drinks that sound absolutely delicious
+2026-10-28 18:06:36,931 [DEBUG]   Filtered (not relevant): Anthony Edwards wants a judge to change how his child support is paid. His son’s
+2026-10-28 18:06:36,932 [DEBUG]   Filtered (not relevant): See homes sold in Onondaga County school districts during September 2026
+2026-10-28 18:06:36,932 [DEBUG]   Filtered (not relevant): New York adopts law restricting harmful AI chatbot features that target children
+2026-10-28 18:06:36,933 [DEBUG]   Filtered (not relevant): Group makes $1.4 billion offer to buy struggling fast-food burger chain, make it
+2026-10-28 18:06:36,933 [DEBUG]   Filtered (not relevant): High school football player from famous sports family killed by suspected drunk 
+2026-10-28 18:06:36,934 [DEBUG]   Filtered (not relevant): Former talk show host’s future plans revealed amid ongoing health concerns
+2026-10-28 18:06:36,934 [DEBUG]   Filtered (not relevant): He got Amazon to pay for 1,000 truck trips that never happened. Here's how
+2026-10-28 18:06:36,934 [DEBUG]   Filtered (not relevant): No. 1 seeds shine in latest high school football state rankings
+2026-10-28 18:06:36,935 [DEBUG]   Filtered (not relevant): Democrats turn out in big numbers in first days of early voting in Onondaga Coun
+2026-10-28 18:06:36,935 [DEBUG]   Filtered (not relevant): Veterans won’t receive VA disability checks in November: Here’s why
+2026-10-28 18:06:36,935 [DEBUG]   Filtered (not relevant): Tragic cause of death reported for model, 34, once linked to Justin Bieber
+2026-10-28 18:06:36,936 [DEBUG]   Filtered (not relevant): Governor calls deadly tornado in Turkey a very unusual natural phenomenon
+2026-10-28 18:06:36,936 [DEBUG]   Filtered (not relevant): Butter recalled in 10 states over E. coli, mold: FDA assigns 2nd-highest risk le
+2026-10-28 18:06:36,937 [DEBUG]   Filtered (not relevant): Woman locks herself in bedroom after hearing intruder in home
+2026-10-28 18:06:36,937 [DEBUG]   Filtered (not relevant): At least 68 killed after high-speed train slams into another train in Spain
+2026-10-28 18:06:36,938 [DEBUG]   Filtered (not relevant): Gas prices for 10/28/26: National average down another 2 cents
+2026-10-28 18:06:36,938 [DEBUG]   Filtered (not relevant): Man in wheelchair killed by garbage truck in Rochester
+2026-10-28 18:06:36,938 [DEBUG]   Filtered (not relevant): Latest girls state soccer rankings: 21 Section III teams make the cut as finals 
+2026-10-28 18:06:36,939 [DEBUG]   Filtered (not relevant): Check your mailbox: Up to $7.5K might be on its way
+2026-10-28 18:06:36,939 [DEBUG]   Filtered (not relevant): Dear Annie: I feel like I'm competing with endless stream of influencers for my 
+2026-10-28 18:06:36,940 [DEBUG]   Filtered (not relevant): Breakdown, predictions for Skaneateles vs. Westhill in Section III Class B boys 
+2026-10-28 18:06:36,940 [DEBUG]   Filtered (not relevant): Small grocery chain to offer price margins lower than any other stores
+2026-10-28 18:06:36,940 [DEBUG]   Filtered (not relevant): Charles Kelley reveals painful side effects of chemotherapy
+2026-10-28 18:06:36,941 [DEBUG]   Filtered (not relevant): Colgate suspends men’s lacrosse program amid investigation
+2026-10-28 18:06:36,941 [DEBUG]   Filtered (not relevant): Don’t get scammed: Feds warn of Medicare fraud during open enrollment
+2026-10-28 18:06:36,941 [DEBUG]   Filtered (not relevant): Former reality TV star, 33, expecting 7th child with husband
+2026-10-28 18:06:36,942 [DEBUG]   Filtered (not relevant): Breakdown, predictions for New Hartford vs. Jamesville-DeWitt in Section III Cla
+2026-10-28 18:06:36,942 [DEBUG]   Filtered (not relevant): Syracuse's Testicle Festival is back at Riley's — and the balls are free
+2026-10-28 18:06:36,942 [DEBUG]   Filtered (not relevant): Class A squad claims top seed, No. 1 spot in latest Syracuse.com high school foo
+2026-10-28 18:06:36,943 [DEBUG]   Filtered (not relevant): Over 374 flights delayed, 59 canceled amid widespread U.S. travel disruptions
+2026-10-28 18:06:36,943 [DEBUG]   Filtered (not relevant): Syracuse.com’s girls soccer rankings (through Oct. 27): 3 finals set; 3 more mat
+2026-10-28 18:06:36,943 [DEBUG]   Filtered (not relevant): Beloved singer, 34, hospitalized
+2026-10-28 18:06:36,944 [DEBUG]   Filtered (not relevant): Polymarket launches $25 promo code “CUSE” for NBA, NFL and World Series
+2026-10-28 18:06:36,945 [INFO]   Relevant: Cornell faculty to begin voting on no-confidence resolution
+2026-10-28 18:06:36,945 [DEBUG]     → Keywords: resolution
+2026-10-28 18:06:41,305 [INFO]     Saved: CTX-NEWS-2026-00315 → CTX-NEWS-2026-00315.json
+2026-10-28 18:06:41,307 [INFO] News Scanner Run — 2026-10-28 18:06
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Cornell faculty to begin voting on no-confidence resolution
+
