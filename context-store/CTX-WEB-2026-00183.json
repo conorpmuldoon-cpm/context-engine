@@ -1,0 +1,65 @@
+{
+  "record_id": "CTX-WEB-2026-00183",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/City-News/City-2026/2026-10-28-Mayors-Office-News-1215PM",
+  "publication_date": "2026-10-28",
+  "capture_date": "2026-10-28T18:20:21Z",
+  "title": "City Places Into Operational Status Ten School Zone Speed Cameras",
+  "summary": "The City of Syracuse is operationalizing 10 school zone speed cameras across key school locations, following the success of the SZTE program. A 30-day warning period begins November 1, 2026, with $50 fines thereafter. Data shows a 65% reduction in daily speeding violations and 70% reduction in dangerous speeding over the first year, supporting Vision Zero traffic safety objectives.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "vision-zero",
+    "police",
+    "transportation",
+    "public-safety-commission",
+    "initiative-launch",
+    "policy-change",
+    "infrastructure",
+    "code-enforcement",
+    "recurring"
+  ],
+  "department_refs": [
+    "Office of Communications",
+    "Mayor's Office"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "School Zone Traffic Enforcement (SZTE)",
+      "type": "system",
+      "canonical_id": "SYS-SZTE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor's public endorsement of traffic safety enforcement with quantified success metrics (65% violation reduction) signals commitment to Vision Zero and child safety priorities. Administrative expansion of program demonstrates confidence in technology-based enforcement effectiveness.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [
+    "DEDUP-CTX-WEB-2026-00181"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "10 specific school locations and street addresses provided for GIS mapping opportunity",
+    "Strong quantitative data: 1,275→441 daily violations (65% reduction), 70% reduction in dangerous speeding Nov 2025-Jun 2026",
+    "Fine structure set by NY State law ($50 base, $25 late penalty); revenue implications for city budget tracking",
+    "30-day warning period creates implementation staging window (Nov 1 - Dec 1, 2026)",
+    "Program appears mature (post-1-year evaluation); recommend tracking enforcement data collection methodology for transparency/equity analysis",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-WEB-2026-00181 — linked for review"
+  ],
+  "last_relevance_update": null
+}
