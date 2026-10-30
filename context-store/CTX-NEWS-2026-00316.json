@@ -1,0 +1,55 @@
+{
+  "record_id": "CTX-NEWS-2026-00316",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/us-news/2026/10/get-a-job-how-a-mayors-feud-with-a-resident-brought-a-town-council-to-a-standstill.html",
+  "publication_date": "2026-10-30",
+  "capture_date": "2026-10-30T17:51:07Z",
+  "title": "A Routine Town Meeting Took an Unexpected Turn During Public Comment",
+  "summary": "A town council meeting in New Jersey (outside Syracuse jurisdiction) escalated when a mayor publicly mocked a resident during public comment, resulting in a shouting match. This incident, while not directly involving Syracuse government, illustrates governance conduct and public engagement risks relevant to municipal administration.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "council",
+    "mayor",
+    "residents",
+    "constituent-complaints",
+    "escalating",
+    "transparency"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Chris Pugh",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "New York Post",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public official conduct during government proceedings subject to media scrutiny; raises questions about professional decorum in municipal governance and public comment management.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article references New Jersey municipality, not Syracuse—outside primary jurisdiction",
+    "No Syracuse-specific departments, budgets, or initiatives identified",
+    "Relevant as cautionary example for municipal governance best practices and constituent interaction protocols",
+    "Recommendation: Review Syracuse town council public comment procedures and official conduct policies",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
