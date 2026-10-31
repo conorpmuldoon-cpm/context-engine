@@ -1,0 +1,65 @@
+{
+  "record_id": "CTX-NEWS-2026-00317",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/10/shots-fired-in-syracuses-university-neighborhood-leads-to-heavy-police-presence.html",
+  "publication_date": "2026-10-31",
+  "capture_date": "2026-10-31T17:01:22Z",
+  "title": "Shots fired in Syracuse’s University neighborhood leads to heavy police presence",
+  "summary": "A shooting incident occurred Friday night (10/31/2026) in Syracuse's University neighborhood around 10:58 p.m. on the 900 block of Lancaster Avenue, prompting a heavy police response involving both Syracuse Police Department and Syracuse University Department of Public Safety. This incident highlights public safety challenges in a dense neighborhood area near the university.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "crime-data",
+    "emergency-services",
+    "public-safety-commission",
+    "trending"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    },
+    {
+      "name": "Syracuse University Department of Public Safety",
+      "type": "organization",
+      "canonical_id": "ORG-SU-DPS"
+    },
+    {
+      "name": "Thomas Blake",
+      "type": "person",
+      "canonical_id": "PERSON-THOMAS-BLAKE"
+    },
+    {
+      "name": "Greta Stuckey",
+      "type": "person",
+      "canonical_id": "PERSON-GRETA-STUCKEY"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Public safety incident in University Hill neighborhood may draw scrutiny regarding community safety, police response effectiveness, and interagency coordination between city police and university security.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is incident-focused reporting with minimal operational detail; no CIO-relevant technology or innovation implications apparent in current text",
+    "Intergovernmental coordination noted between Syracuse PD and SU DPS - potential data-sharing or response protocol relevance",
+    "Geographic concentration (University Hill/Lancaster Avenue) could inform GIS mapping and public safety analytics",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

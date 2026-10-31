@@ -1,0 +1,82 @@
+2026-10-31 17:01:16,368 [INFO] ============================================================
+2026-10-31 17:01:16,368 [INFO] News Scanner starting
+2026-10-31 17:01:16,369 [INFO] Fetching: Syracuse.com Politics
+2026-10-31 17:01:16,758 [INFO]   50 new articles from Syracuse.com Politics
+2026-10-31 17:01:16,758 [INFO] Fetching: Syracuse.com Government
+2026-10-31 17:01:16,982 [INFO]   0 new articles from Syracuse.com Government
+2026-10-31 17:01:16,982 [INFO] Fetching: Syracuse.com Local
+2026-10-31 17:01:17,195 [INFO]   0 new articles from Syracuse.com Local
+2026-10-31 17:01:17,195 [INFO] Fetching: Syracuse.com Main
+2026-10-31 17:01:17,455 [INFO]   0 new articles from Syracuse.com Main
+2026-10-31 17:01:17,455 [INFO] Total unique articles across all feeds: 50
+2026-10-31 17:01:17,455 [INFO] New articles (not previously processed): 50
+2026-10-31 17:01:17,502 [DEBUG]   Filtered (not relevant): Kalshi promo code “SYRACUSE” enhances new $55 bonus for college football Saturda
+2026-10-31 17:01:17,502 [DEBUG]   Filtered (not relevant): How to stream Milan vs. Inter for free today
+2026-10-31 17:01:17,502 [DEBUG]   Filtered (not relevant): Where to watch Florida vs. Georgia football for free today
+2026-10-31 17:01:17,503 [DEBUG]   Filtered (not relevant): Upstate NY man guilty of raping stepdaughter for years, starting when she was 5
+2026-10-31 17:01:17,503 [DEBUG]   Filtered (not relevant): Indiana fans boo Isiah Thomas during ESPN College GameDay
+2026-10-31 17:01:17,503 [DEBUG]   Filtered (not relevant): Upstate NY town cancels meeting after call for officials to be executed
+2026-10-31 17:01:17,503 [DEBUG]   Filtered (not relevant): 2 suspected of smuggling as 38 rescued by Netherlands coast guard
+2026-10-31 17:01:17,504 [DEBUG]   Filtered (not relevant): Syracuse football vs. SMU: Live score, updates
+2026-10-31 17:01:17,504 [DEBUG]   Filtered (not relevant): 19-year-old dies after pickup crashes and overturns several times on I-81
+2026-10-31 17:01:17,504 [DEBUG]   Filtered (not relevant): Gas prices for 10/31/26: No tricks, gas down another 2 cents nationally
+2026-10-31 17:01:17,505 [DEBUG]   Filtered (not relevant): Saban’s 75 scariest seconds on birthday, here's the cake
+2026-10-31 17:01:17,505 [DEBUG]   Filtered (not relevant): Dear Annie: Oh sure, others find her charming, but my daughter-in-law is downrig
+2026-10-31 17:01:17,505 [INFO]   Relevant: Shots fired in Syracuse’s University neighborhood leads to heavy police presence
+2026-10-31 17:01:17,505 [DEBUG]     → Entities: Syracuse University
+2026-10-31 17:01:17,505 [DEBUG]     → Departments: Syracuse Police Department
+2026-10-31 17:01:17,505 [DEBUG]     → Keywords: syracuse police
+2026-10-31 17:01:22,667 [INFO]     Saved: CTX-NEWS-2026-00317 → CTX-NEWS-2026-00317.json
+2026-10-31 17:01:22,667 [DEBUG]   Filtered (not relevant): McAfee’s title sleeper shocks after past week, mentions ‘SEC ESPN
+2026-10-31 17:01:22,668 [DEBUG]   Filtered (not relevant): Indiana’s Curt Cignetti reflects on viral ‘Google me’ video
+2026-10-31 17:01:22,668 [DEBUG]   Filtered (not relevant): NFL trade deadline 2026: Bills reportedly looking to add defensive help, per ins
+2026-10-31 17:01:22,668 [DEBUG]   Filtered (not relevant): Rock star who found fame with iconic band has died: ‘A giant of a musician’
+2026-10-31 17:01:22,668 [DEBUG]   Filtered (not relevant): 1 dead, 3 critical after Spirit Halloween store shooting in California
+2026-10-31 17:01:22,669 [DEBUG]   Filtered (not relevant): Whitesboro football hears ‘da-na-na, da-na-na’ after its season-saving play hits
+2026-10-31 17:01:22,669 [DEBUG]   Filtered (not relevant): Mega Millions results for 10/30/26: $463 million jackpot on the line
+2026-10-31 17:01:22,670 [DEBUG]   Filtered (not relevant): Polymarket unlocks $25 promo code “CUSE” for college football, NBA Saturday
+2026-10-31 17:01:22,670 [DEBUG]   Filtered (not relevant): How to watch Auburn vs. Ole Miss college football for FREE today
+2026-10-31 17:01:22,670 [DEBUG]   Filtered (not relevant): Philip Rivers’ on NC State speculation: ‘Never say never’
+2026-10-31 17:01:22,670 [DEBUG]   Filtered (not relevant): GameDay serenades Saban, while Pat McAfee apologizes
+2026-10-31 17:01:22,671 [DEBUG]   Filtered (not relevant): Where to watch Notre Dame vs. Navy college football for free today
+2026-10-31 17:01:22,671 [DEBUG]   Filtered (not relevant): Stranded Adirondacks hiker stood on icy ledge for seven hours
+2026-10-31 17:01:22,671 [DEBUG]   Filtered (not relevant): Miss Manners: How can I move the conversation when my old name is mentioned?
+2026-10-31 17:01:22,672 [DEBUG]   Filtered (not relevant): Rock star with just 2-to-3 years to live gets married. Here’s what we know
+2026-10-31 17:01:22,672 [DEBUG]   Filtered (not relevant): Iconic singer and actress dead at 96: ‘Beautiful voice from television’s golden 
+2026-10-31 17:01:22,672 [DEBUG]   Filtered (not relevant): $90 refund payments sent to millions of people: Didn’t receive yours? This could
+2026-10-31 17:01:22,673 [DEBUG]   Filtered (not relevant): Breakdown, predictions for Port Byron vs. Little Falls in Section III Class D fi
+2026-10-31 17:01:22,673 [DEBUG]   Filtered (not relevant): Holes-in-one for Central New York golfers (as of Oct. 30)
+2026-10-31 17:01:22,673 [DEBUG]   Filtered (not relevant): Ask Mayo Clinic: The simple reasons why a valve surgery can be labeled ‘complex’
+2026-10-31 17:01:22,674 [INFO]   Relevant: Woman stabbed in chest, hand during overnight altercation in Syracuse
+2026-10-31 17:01:22,674 [DEBUG]     → Departments: Syracuse Police Department
+2026-10-31 17:01:22,674 [DEBUG]     → Keywords: syracuse police
+2026-10-31 17:01:26,735 [INFO]     Dedup match: CTX-NEWS-2026-00317 — linking via cluster
+2026-10-31 17:01:26,736 [INFO]     Saved: CTX-NEWS-2026-00318 → CTX-NEWS-2026-00318.json
+2026-10-31 17:01:26,736 [DEBUG]   Filtered (not relevant): Breakdown, predictions for Holland Patent vs. Vernon Verona Sherrill in Section 
+2026-10-31 17:01:26,736 [DEBUG]   Filtered (not relevant): Country music’s most devastating year: These legendary singers have died in 2026
+2026-10-31 17:01:26,737 [DEBUG]   Filtered (not relevant): Driver shows up drunk at court-ordered panel, police say
+2026-10-31 17:01:26,737 [DEBUG]   Filtered (not relevant): Popular rock singer’s doctors told him to stop performing: ‘Health hasn’t been g
+2026-10-31 17:01:26,737 [DEBUG]   Filtered (not relevant): Live scoreboard, recaps for Saturday’s boys soccer sectional championships (C, D
+2026-10-31 17:01:26,738 [DEBUG]   Filtered (not relevant): Driver, 84, jumps curb, injures 2 at Upstate NY rest stop
+2026-10-31 17:01:26,738 [DEBUG]   Filtered (not relevant): Where to watch Syracuse football vs. SMU for free today
+2026-10-31 17:01:26,738 [DEBUG]   Filtered (not relevant): Police fed up with juvenile crime in Upstate NY city warn parents they could fac
+2026-10-31 17:01:26,739 [DEBUG]   Filtered (not relevant): Syracuse vs. SMU odds update: Mustangs gain more support ahead of Saturday’s ACC
+2026-10-31 17:01:26,739 [DEBUG]   Filtered (not relevant): Rock band cancels all remaining concerts on first reunion tour in 33 years
+2026-10-31 17:01:26,739 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for Oct. 31
+2026-10-31 17:01:26,739 [DEBUG]   Filtered (not relevant): Daylight saving time ends tonight on Halloween: See what time clocks will ‘fall 
+2026-10-31 17:01:26,740 [DEBUG]   Filtered (not relevant): Popular rock frontman on Donald Trump’s second term: ‘It’s like a nightmare’
+2026-10-31 17:01:26,740 [DEBUG]   Filtered (not relevant): Country music’s deadly year in flight: Latest star killed in helicopter crash
+2026-10-31 17:01:26,740 [DEBUG]   Filtered (not relevant): Beloved rock frontman dies after cancer battle: ‘So many memories to cherish’
+2026-10-31 17:01:26,740 [DEBUG]   Filtered (not relevant): CNY weather: Temps drop into the 40s for trick-or-treating
+2026-10-31 17:01:26,742 [INFO] News Scanner Run — 2026-10-31 17:01
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Shots fired in Syracuse’s University neighborhood leads to heavy police presence
+  • Woman stabbed in chest, hand during overnight altercation in Syracuse
+

@@ -1,0 +1,67 @@
+{
+  "record_id": "CTX-NEWS-2026-00318",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/10/woman-stabbed-in-chest-hand-during-overnight-altercation-in-syracuse.html",
+  "publication_date": "2026-10-31",
+  "capture_date": "2026-10-31T17:01:26Z",
+  "title": "Woman stabbed in chest, hand during overnight altercation in Syracuse",
+  "summary": "A 22-year-old woman was stabbed in the chest and hand during an overnight altercation in Syracuse early Saturday morning. The victim self-transported to Upstate University Hospital, and Syracuse Police responded to the report around 1:06 a.m. This incident contributes to ongoing crime-data tracking relevant to public safety operations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "crime-data",
+    "police",
+    "emergency-services",
+    "public-safety-commission"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Greta Stuckey",
+      "type": "person",
+      "canonical_id": "PERSON-GRETA-STUCKEY"
+    },
+    {
+      "name": "Thomas Blake",
+      "type": "person",
+      "canonical_id": "PERSON-THOMAS-BLAKE"
+    },
+    {
+      "name": "Syracuse Police Department",
+      "type": "organization",
+      "canonical_id": "ORG-SPD"
+    },
+    {
+      "name": "Upstate University Hospital",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Violent crime incident reported in city limits; relevant to public safety performance metrics and potential constituent pressure on CIO/city leadership regarding emergency response coordination and data systems.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [
+    "DEDUP-CTX-NEWS-2026-00317"
+  ],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Victim age and injury specificity provided; suspect information not included in article excerpt",
+    "Response time notation (1:06 a.m. notification) relevant for emergency dispatch system performance",
+    "No IT systems, infrastructure, or innovation initiative directly referenced",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Potential duplicate of CTX-NEWS-2026-00317 — linked for review"
+  ],
+  "last_relevance_update": null
+}
