@@ -1,0 +1,24 @@
+2026-10-31 17:14:39,264 [INFO] ============================================================
+2026-10-31 17:14:39,264 [INFO] Website Monitor starting
+2026-10-31 17:14:41,173 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-10-31 17:14:41,173 [INFO]   Navigating to https://www.syr.gov/News
+2026-10-31 17:14:45,962 [INFO]   Found 10 article links in News
+2026-10-31 17:14:50,962 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-10-30-Infrastructure-News-440PM
+2026-10-31 17:15:03,943 [INFO]     Saved: CTX-WEB-2026-00184 → CTX-WEB-2026-00184.json
+2026-10-31 17:15:03,944 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-10-31 17:15:03,944 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-10-31 17:15:07,374 [INFO]   Found 0 article links in Announcements
+2026-10-31 17:15:12,374 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-10-31 17:15:12,374 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-10-31 17:15:15,828 [INFO]   Found 0 article links in Public Notices
+2026-10-31 17:15:20,877 [INFO] Website Monitor Run — 2026-10-31 17:15
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • DPW to Begin Overnight Leaf and Snow Removal Operations
+
