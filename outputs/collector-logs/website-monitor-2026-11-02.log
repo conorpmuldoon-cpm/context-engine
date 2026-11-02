@@ -1,0 +1,24 @@
+2026-11-02 21:41:54,040 [INFO] ============================================================
+2026-11-02 21:41:54,040 [INFO] Website Monitor starting
+2026-11-02 21:41:56,232 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-11-02 21:41:56,232 [INFO]   Navigating to https://www.syr.gov/News
+2026-11-02 21:42:01,057 [INFO]   Found 10 article links in News
+2026-11-02 21:42:06,058 [DEBUG]   Fetching: https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-11-02-Infrastructure-News-425
+2026-11-02 21:42:17,096 [INFO]     Saved: CTX-WEB-2026-00185 → CTX-WEB-2026-00185.json
+2026-11-02 21:42:17,096 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-11-02 21:42:17,096 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-11-02 21:42:20,262 [INFO]   Found 0 article links in Announcements
+2026-11-02 21:42:25,262 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-11-02 21:42:25,263 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-11-02 21:42:28,484 [INFO]   Found 0 article links in Public Notices
+2026-11-02 21:42:33,545 [INFO] Website Monitor Run — 2026-11-02 21:42
+==================================================
+Sections scanned: 3
+New pages found: 1
+Saved as records: 1
+Already processed: 9
+Errors: 0
+
+New records:
+  • DPW Announces Road Reconstruction Project on North Geddes Street
+

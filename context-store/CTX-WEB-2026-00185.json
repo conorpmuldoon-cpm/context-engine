@@ -1,0 +1,53 @@
+{
+  "record_id": "CTX-WEB-2026-00185",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-11-02-Infrastructure-News-425",
+  "publication_date": "2026-11-02",
+  "capture_date": "2026-11-02T21:42:17Z",
+  "title": "DPW Announces Road Reconstruction Project on North Geddes Street",
+  "summary": "The Department of Public Works announced a road reconstruction project on North Geddes Street scheduled for November 3-4, 2026, involving paving between Spencer Street and Erie Boulevard. Single-lane alternating traffic with flaggers will be in place; completion is expected within 48 hours contingent on weather.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "roads-bridges",
+    "construction-staging",
+    "transportation",
+    "infrastructure",
+    "announcement"
+  ],
+  "department_refs": [
+    "Department of Public Works"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Department of Public Works",
+      "type": "organization",
+      "canonical_id": "ORG-DPW"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field listed as Unknown; standard DPW announcement",
+    "No budget, contract, or capital planning details provided",
+    "Date discrepancy: published November 2, 2026 but references Tuesday November 3 and Wednesday November 4; dates are internally consistent",
+    "No equity, sustainability, or innovation angle detected—standard infrastructure maintenance communication",
+    "Contact point: Office of Communications (press@syr.gov)",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
