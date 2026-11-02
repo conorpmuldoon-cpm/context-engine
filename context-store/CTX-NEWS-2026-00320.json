@@ -1,0 +1,47 @@
+{
+  "record_id": "CTX-NEWS-2026-00320",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/11/fire-forces-evacuation-of-syracuse-apartment.html",
+  "publication_date": "2026-11-02",
+  "capture_date": "2026-11-02T21:31:53Z",
+  "title": "Fire forces evacuation of Syracuse apartment",
+  "summary": "A fire in a bedroom of a small Syracuse apartment building prompted evacuation of residents on Monday, November 2, 2026. The Syracuse Fire Department responded to and managed the incident. This incident may inform emergency services readiness assessment and residential safety protocols.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "fire",
+    "emergency-services",
+    "residents",
+    "housing"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Finn Lincoln",
+      "type": "person",
+      "canonical_id": "PERSON-FINN-LINCOLN"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is brief news report with minimal operational detail",
+    "No specific address, casualty count, or damage assessment provided",
+    "No information about cause, investigation status, or follow-up actions",
+    "Potential relevance to CIO through emergency response coordination systems or incident tracking",
+    "No budget, policy, or system implications evident from article content",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

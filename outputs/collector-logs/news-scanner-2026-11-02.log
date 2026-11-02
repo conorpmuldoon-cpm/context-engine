@@ -1,0 +1,83 @@
+2026-11-02 21:31:44,780 [INFO] ============================================================
+2026-11-02 21:31:44,781 [INFO] News Scanner starting
+2026-11-02 21:31:44,782 [INFO] Fetching: Syracuse.com Politics
+2026-11-02 21:31:45,021 [INFO]   50 new articles from Syracuse.com Politics
+2026-11-02 21:31:45,021 [INFO] Fetching: Syracuse.com Government
+2026-11-02 21:31:45,203 [INFO]   0 new articles from Syracuse.com Government
+2026-11-02 21:31:45,203 [INFO] Fetching: Syracuse.com Local
+2026-11-02 21:31:45,376 [INFO]   0 new articles from Syracuse.com Local
+2026-11-02 21:31:45,376 [INFO] Fetching: Syracuse.com Main
+2026-11-02 21:31:45,611 [INFO]   0 new articles from Syracuse.com Main
+2026-11-02 21:31:45,611 [INFO] Total unique articles across all feeds: 50
+2026-11-02 21:31:45,611 [INFO] New articles (not previously processed): 50
+2026-11-02 21:31:45,644 [DEBUG]   Filtered (not relevant): Big Ten coach: Daughter, 13 verbally accosted after loss
+2026-11-02 21:31:45,644 [DEBUG]   Filtered (not relevant): Syracuse aquarium tanks fill with life weeks before opening
+2026-11-02 21:31:45,644 [INFO]   Relevant: Onondaga County dedicates wall honoring fallen first responders named after slai
+2026-11-02 21:31:45,644 [DEBUG]     → Departments: Syracuse Police Department
+2026-11-02 21:31:45,644 [DEBUG]     → Keywords: syracuse police
+2026-11-02 21:31:50,290 [INFO]     Saved: CTX-NEWS-2026-00319 → CTX-NEWS-2026-00319.json
+2026-11-02 21:31:50,290 [DEBUG]   Filtered (not relevant): Where to watch Miami vs. Florida college basketball for free today
+2026-11-02 21:31:50,291 [DEBUG]   Filtered (not relevant): Josh Allen nearly lost his helmet on a goal-line sneak. Joe Brady says no flag s
+2026-11-02 21:31:50,291 [DEBUG]   Filtered (not relevant): Why is ‘Dancing With the Stars’ on Monday this week?
+2026-11-02 21:31:50,291 [DEBUG]   Filtered (not relevant): Syracuse AD pops into press conference to urge fans to show up: ‘That’s what our
+2026-11-02 21:31:50,291 [DEBUG]   Filtered (not relevant): Trump rally protester follows in some mighty footsteps (Your Letters)
+2026-11-02 21:31:50,292 [DEBUG]   Filtered (not relevant): Driver was going double speed limit before crash that killed man in Salina, troo
+2026-11-02 21:31:50,292 [DEBUG]   Filtered (not relevant): How to watch Syracuse men’s basketball in season opener against New Haven
+2026-11-02 21:31:50,292 [DEBUG]   Filtered (not relevant): Netanyahu is pressing Trump to attack Iran after the midterms
+2026-11-02 21:31:50,293 [DEBUG]   Filtered (not relevant): The 'juicy cup' is coffee's next big thing, and Gen Z is leading the charge
+2026-11-02 21:31:50,293 [DEBUG]   Filtered (not relevant): Records reveal holes in Blakeman’s campaign finance disclosures
+2026-11-02 21:31:50,293 [DEBUG]   Filtered (not relevant): Veteran seeks stranger who gave him a Costco gift card as thanks for his service
+2026-11-02 21:31:50,293 [DEBUG]   Filtered (not relevant): 2 killed in pool electrocution at a hotel in India
+2026-11-02 21:31:50,294 [INFO]   Relevant: Fire forces evacuation of Syracuse apartment
+2026-11-02 21:31:50,294 [DEBUG]     → Departments: Syracuse Fire Department
+2026-11-02 21:31:50,294 [DEBUG]     → Keywords: syracuse fire
+2026-11-02 21:31:53,247 [INFO]     Saved: CTX-NEWS-2026-00320 → CTX-NEWS-2026-00320.json
+2026-11-02 21:31:53,247 [INFO]   Relevant: National Grid advances plans to rebuild Long Island gas plants
+2026-11-02 21:31:53,247 [DEBUG]     → Entities: National Grid
+2026-11-02 21:31:57,938 [INFO]     Saved: CTX-NEWS-2026-00321 → CTX-NEWS-2026-00321.json
+2026-11-02 21:31:57,938 [DEBUG]   Filtered (not relevant): European countries hit by apparent cyberattacks
+2026-11-02 21:31:57,939 [DEBUG]   Filtered (not relevant): Plum crumble
+2026-11-02 21:31:57,939 [DEBUG]   Filtered (not relevant): Slow-cooker turkey meatballs and gravy
+2026-11-02 21:31:57,940 [DEBUG]   Filtered (not relevant): Cranberry walnut cheese ball
+2026-11-02 21:31:57,940 [DEBUG]   Filtered (not relevant): Balsamic-roasted strawberries and cream
+2026-11-02 21:31:57,940 [DEBUG]   Filtered (not relevant): Girl, 8, attacked by wolf during kids' event at zoo
+2026-11-02 21:31:57,940 [DEBUG]   Filtered (not relevant): Nurses in Vietnam went above and beyond (Your Letters)
+2026-11-02 21:31:57,941 [DEBUG]   Filtered (not relevant): Two men conspired to rob and kill a Syracuse man in North Side home, prosecutors
+2026-11-02 21:31:57,941 [DEBUG]   Filtered (not relevant): Actress breaks silence after alleged violent episode on airplane: ‘I am so sorry
+2026-11-02 21:31:57,941 [DEBUG]   Filtered (not relevant): All-Section III girls soccer teams announced. Did your favorite player make the 
+2026-11-02 21:31:57,941 [DEBUG]   Filtered (not relevant): Barbra Streisand mourns heartbreaking loss
+2026-11-02 21:31:57,942 [DEBUG]   Filtered (not relevant): When will Medicare Part B increases be announced? 2027 predictions and what to e
+2026-11-02 21:31:57,942 [DEBUG]   Filtered (not relevant): Dunkin’ giving 3 beloved cereal brands a coffee shop makeover
+2026-11-02 21:31:57,942 [DEBUG]   Filtered (not relevant): Olympian dies at 34 after cancer battle
+2026-11-02 21:31:57,942 [DEBUG]   Filtered (not relevant): Brothers, 2 and 4, killed in Syracuse house fire identified
+2026-11-02 21:31:57,942 [DEBUG]   Filtered (not relevant): Fans praying for ESPN star Michael Wilbon following major announcement
+2026-11-02 21:31:57,943 [DEBUG]   Filtered (not relevant): Swag Golf and Taco Bell are now a thing, and the gear is exactly what you'd expe
+2026-11-02 21:31:57,943 [DEBUG]   Filtered (not relevant): Election Day 2026: Your guide to what’s open and what’s closed
+2026-11-02 21:31:57,943 [DEBUG]   Filtered (not relevant): Syracuse football vs. N.C. State: Kickoff time, TV network announced
+2026-11-02 21:31:57,944 [DEBUG]   Filtered (not relevant): Jailed rapper, 56, gets new release date following prison transfer
+2026-11-02 21:31:57,944 [DEBUG]   Filtered (not relevant): When is Peacock’s Black Friday deal available?
+2026-11-02 21:31:57,944 [DEBUG]   Filtered (not relevant): Hungarian fighter jet escorts passenger plane bound for Bulgaria after mid-air b
+2026-11-02 21:31:57,944 [DEBUG]   Filtered (not relevant): Kalshi updates $55 NFL code “SYRACUSE” for Monday Night Football
+2026-11-02 21:31:57,945 [DEBUG]   Filtered (not relevant): Beloved ‘Doctor Who’ actor dies at 83 after ‘summer of illness’
+2026-11-02 21:31:57,945 [DEBUG]   Filtered (not relevant): Man pleads guilty in $227M COVID scheme, paid $11M for personal info on Medicare
+2026-11-02 21:31:57,945 [DEBUG]   Filtered (not relevant): Pre-order Costco’s 8-serving Thanksgiving meal: Here’s what you get for $200
+2026-11-02 21:31:57,946 [DEBUG]   Filtered (not relevant): Popular chicken finger chain to open 12 new locations this month: See where
+2026-11-02 21:31:57,946 [DEBUG]   Filtered (not relevant): U.S. economy could lose $1B as gamers plan to rob liquor stores, steal cars
+2026-11-02 21:31:57,946 [DEBUG]   Filtered (not relevant): Packers Super Bowl champion dies following illness
+2026-11-02 21:31:57,946 [DEBUG]   Filtered (not relevant): Her ambulance was headed to Cleveland Clinic. Then the driver called an Uber
+2026-11-02 21:31:57,947 [DEBUG]   Filtered (not relevant): Reddit is buzzing about Chick-fil-A's returning soup: 'It just made my day'
+2026-11-02 21:31:57,947 [DEBUG]   Filtered (not relevant): Who should the Bills trade for? 10 deadline targets, from Baun to Pickens
+2026-11-02 21:31:57,947 [DEBUG]   Filtered (not relevant): Where to watch Maryland vs. South Carolina women’s basketball for free
+2026-11-02 21:31:57,948 [INFO] News Scanner Run — 2026-11-02 21:31
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 3
+Filtered (not relevant): 47
+Errors: 0
+
+New records:
+  • Onondaga County dedicates wall honoring fallen first responders named after slai
+  • Fire forces evacuation of Syracuse apartment
+  • National Grid advances plans to rebuild Long Island gas plants
+

@@ -1,0 +1,61 @@
+{
+  "record_id": "CTX-NEWS-2026-00319",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/11/onondaga-county-dedicates-wall-honoring-fallen-first-responders-named-after-slain-officer.html",
+  "publication_date": "2026-11-02",
+  "capture_date": "2026-11-02T21:31:50Z",
+  "title": "Onondaga County dedicates wall honoring fallen first responders named after slain officer",
+  "summary": "Onondaga County unveiled a memorial honoring first responders killed in the line of duty, naming it after Syracuse Police Officer Michael Jensen. This public recognition initiative reflects county commitment to honoring emergency services personnel and may have implications for police department morale, public safety narrative, and memorial/facilities management.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "emergency-services",
+    "announcement",
+    "historic-preservation",
+    "leadership-change"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Michael Jensen",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-JENSEN"
+    },
+    {
+      "name": "Onondaga County",
+      "type": "organization",
+      "canonical_id": "ORG-ONONDAGA-COUNTY"
+    },
+    {
+      "name": "Darian Stevenson",
+      "type": "person",
+      "canonical_id": "PERSON-DARIAN-STEVENSON"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "County-level investment in public safety recognition and memorialization signals commitment to first responder support and community acknowledgment of service sacrifice.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article date (2026-11-02) is future-dated; verify publication authenticity",
+    "Location mentioned as Salina, N.Y. but article concerns Onondaga County and Syracuse—clarify memorial location",
+    "No specific dollar amounts, project timeline, or structural details provided in excerpt",
+    "Jensen identified as 'slain officer'—recommend cross-reference with SPD records for incident date and context",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

@@ -1,0 +1,59 @@
+{
+  "record_id": "CTX-NEWS-2026-00321",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/11/national-grid-advances-plans-to-rebuild-long-island-gas-plants.html",
+  "publication_date": "2026-11-02",
+  "capture_date": "2026-11-02T21:31:57Z",
+  "title": "National Grid advances plans to rebuild Long Island gas plants",
+  "summary": "National Grid is advancing infrastructure plans to rebuild gas plants on Long Island. This article, sourced from New York Focus (a nonprofit investigative outlet), appears focused on utility infrastructure development and may have implications for Syracuse's energy infrastructure planning, state regulatory oversight, or economic development considerations depending on the full content context.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "infrastructure",
+    "state-agency",
+    "intergovernmental",
+    "PROVISIONAL:utility-infrastructure",
+    "PROVISIONAL:energy-infrastructure"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "National Grid",
+      "type": "organization",
+      "canonical_id": "ORG-NATIONAL-GRID"
+    },
+    {
+      "name": "New York Focus",
+      "type": "organization",
+      "canonical_id": "ORG-NY-FOCUS"
+    },
+    {
+      "name": "Colin Kinniburgh",
+      "type": "person",
+      "canonical_id": "PERSON-COLIN-KINNIBURGH"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "New York Focus is an investigative nonprofit; framing as 'advances plans' with investigation-focused source suggests potential critical examination of utility decision-making or policy process.",
+    "confidence": "low"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article location is Long Island (out of Syracuse jurisdiction), but state-level utility infrastructure may be relevant to CIO if it involves state coordination or technology/systems governance",
+    "No dollar amounts, departments, or local Syracuse impact detected in metadata provided",
+    "Full article content not provided; summary based on title and header information only",
+    "New York Focus byline suggests investigative framing; recommend full content review for critical findings",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
