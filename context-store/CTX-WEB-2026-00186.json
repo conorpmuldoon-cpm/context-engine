@@ -1,0 +1,54 @@
+{
+  "record_id": "CTX-WEB-2026-00186",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-11-05-Infrastructure-News-925",
+  "publication_date": "2026-11-05",
+  "capture_date": "2026-11-05T19:55:21Z",
+  "title": "City of Syracuse to Close Offices in Observance of Veterans Day",
+  "summary": "City of Syracuse will close administrative offices on Veterans Day (November 11, 2026) while maintaining essential services. Trash/recycling collection continues on regular schedule, metered parking is free, and residents can still submit service requests via SYRCityline app or online despite office closure.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "recurring",
+    "residents",
+    "service-requests",
+    "facilities"
+  ],
+  "department_refs": [
+    "Department of Public Works",
+    "Office of Communications"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Press release categorized under 'Traffic & Infrastructure News' but content is primarily administrative closure notice with minimal infrastructure impact",
+    "Author listed as 'Unknown' — sourced from Office of Communications",
+    "Emphasis on service continuity during holiday closure suggests operational resilience focus",
+    "Emergency contact number (315-448-8360) provided for public works only; other city services not explicitly addressed",
+    "Digital-first service model highlighted (SYRCityline app, online submissions) may indicate digital transformation priority",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
