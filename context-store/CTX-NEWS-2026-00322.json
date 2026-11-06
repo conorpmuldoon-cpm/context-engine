@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-NEWS-2026-00322",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/11/syracuse-fire-department-announces-its-first-black-female-captain.html",
+  "publication_date": "2026-11-06",
+  "capture_date": "2026-11-06T19:04:46Z",
+  "title": "Syracuse Fire Department announces its first Black female captain",
+  "summary": "Tamica Barnett has been promoted to captain in the Syracuse Fire Department, becoming the first Black female captain in the department's history. This advancement represents a significant milestone for diversity and inclusion within the department's leadership structure.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "fire",
+    "leadership-change",
+    "equity",
+    "hiring",
+    "announcement"
+  ],
+  "department_refs": [
+    "Syracuse Fire Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Tamica Barnett",
+      "type": "person",
+      "canonical_id": "PERSON-TAMICA-BARNETT"
+    },
+    {
+      "name": "Vince Gasparini",
+      "type": "person",
+      "canonical_id": "PERSON-VINCE-GASPARINI"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Promotion highlights city commitment to workforce diversity and equity advancement within municipal emergency services leadership",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on personnel advancement rather than operational or budgetary matters",
+    "Future date (2026-11-06) suggests this may be test/historical data",
+    "No specific diversity program, policy change, or initiative details provided in article excerpt",
+    "Recommend cross-reference with HR/workforce-development records for broader equity program context",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

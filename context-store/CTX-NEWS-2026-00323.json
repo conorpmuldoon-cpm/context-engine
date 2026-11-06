@@ -1,0 +1,50 @@
+{
+  "record_id": "CTX-NEWS-2026-00323",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/us-news/2026/11/mn-mayoral-race-ends-in-tie-winner-could-be-decided-by-drawing-names-out-of-a-bag.html",
+  "publication_date": "2026-11-06",
+  "capture_date": "2026-11-06T19:04:49Z",
+  "title": "MN mayoral race ends in tie, winner could be decided by drawing names out of a bag",
+  "summary": "A Minnesota city mayoral election ended in a tie, with the winner potentially to be decided by drawing names from a bag. This article reports on an unusual electoral outcome and dispute resolution mechanism that may have implications for governance procedures and democratic processes.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "mayor",
+    "vote",
+    "leadership-change",
+    "procedural",
+    "trending"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Chris Franklin",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Unusual electoral tie resolution mechanism raises questions about governance procedures and democratic legitimacy of name-drawing as a tiebreaker method.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is about Minnesota city, not Syracuse - limited local relevance to Syracuse CIO unless used as policy/procedure precedent",
+    "No Syracuse departments, budget impacts, or city systems mentioned",
+    "Geographically out-of-scope but potentially relevant for governance innovation or election procedure documentation",
+    "No specific entity references beyond author; Minnesota city not named in excerpt",
+    "Enriched by Claude (claude-haiku-4-5-20251001)",
+    "Tag warning: Unknown tag 'procedural' not in taxonomy"
+  ],
+  "last_relevance_update": null
+}

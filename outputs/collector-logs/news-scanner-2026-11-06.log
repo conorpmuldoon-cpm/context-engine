@@ -1,0 +1,80 @@
+2026-11-06 19:04:42,047 [INFO] ============================================================
+2026-11-06 19:04:42,047 [INFO] News Scanner starting
+2026-11-06 19:04:42,049 [INFO] Fetching: Syracuse.com Politics
+2026-11-06 19:04:42,297 [INFO]   50 new articles from Syracuse.com Politics
+2026-11-06 19:04:42,298 [INFO] Fetching: Syracuse.com Government
+2026-11-06 19:04:42,516 [INFO]   0 new articles from Syracuse.com Government
+2026-11-06 19:04:42,516 [INFO] Fetching: Syracuse.com Local
+2026-11-06 19:04:42,705 [INFO]   0 new articles from Syracuse.com Local
+2026-11-06 19:04:42,705 [INFO] Fetching: Syracuse.com Main
+2026-11-06 19:04:42,863 [INFO]   0 new articles from Syracuse.com Main
+2026-11-06 19:04:42,863 [INFO] Total unique articles across all feeds: 50
+2026-11-06 19:04:42,863 [INFO] New articles (not previously processed): 50
+2026-11-06 19:04:42,927 [DEBUG]   Filtered (not relevant): Reality TV star and fiancè end their engagement after two years
+2026-11-06 19:04:42,928 [DEBUG]   Filtered (not relevant): Birkenstock gave its most iconic shoe a delicate Mary Jane makeover
+2026-11-06 19:04:42,928 [DEBUG]   Filtered (not relevant): Restaurant inspections: Violations at Mojitos Cantina II, Coppertop, Starbucks
+2026-11-06 19:04:42,929 [DEBUG]   Filtered (not relevant): Bershka’s new Olivia Rodrigo holiday hoodie is flying off shelves after her Chri
+2026-11-06 19:04:42,929 [DEBUG]   Filtered (not relevant): Beloved Pokémon Happy Meal returing to McDonald’s with lineup of 15 toys, tradin
+2026-11-06 19:04:42,929 [DEBUG]   Filtered (not relevant): Want to get more steps in at home? Walmart has treadmills on sale starting at ju
+2026-11-06 19:04:42,930 [DEBUG]   Filtered (not relevant): Healthier cooking option: KitchenAid 10-piece Ceramic Cookware set $70 off for S
+2026-11-06 19:04:42,930 [DEBUG]   Filtered (not relevant): How to secure Ozzfest 2027 Early Bat tickets today before they sell out
+2026-11-06 19:04:42,930 [DEBUG]   Filtered (not relevant): Beloved Japanese chain to open fast-casual offshoot
+2026-11-06 19:04:42,931 [DEBUG]   Filtered (not relevant): Kalshi establishes $55 promo code “SYRACUSE” for college football this weekend
+2026-11-06 19:04:42,931 [DEBUG]   Filtered (not relevant): Meghan Markle’s dad charged with child sexual abuse material
+2026-11-06 19:04:42,932 [DEBUG]   Filtered (not relevant): Cranberry crème brûlée
+2026-11-06 19:04:42,933 [DEBUG]   Filtered (not relevant): Craggy no-roll meatballs
+2026-11-06 19:04:42,933 [DEBUG]   Filtered (not relevant): Cheddar and pear galette
+2026-11-06 19:04:42,934 [DEBUG]   Filtered (not relevant): Fall squash galette
+2026-11-06 19:04:42,934 [DEBUG]   Filtered (not relevant): Reality TV star’s husband criticized her ‘sagging’ postpartum body before divorc
+2026-11-06 19:04:42,935 [INFO]   Relevant: Syracuse Fire Department announces its first Black female captain
+2026-11-06 19:04:42,935 [DEBUG]     → Departments: Syracuse Fire Department
+2026-11-06 19:04:42,935 [DEBUG]     → Keywords: syracuse fire
+2026-11-06 19:04:46,706 [INFO]     Saved: CTX-NEWS-2026-00322 → CTX-NEWS-2026-00322.json
+2026-11-06 19:04:46,706 [DEBUG]   Filtered (not relevant): ‘Full House’ star says she struggled to afford items at Target
+2026-11-06 19:04:46,707 [DEBUG]   Filtered (not relevant): Syracuse football flips 4-star offensive lineman from Michigan
+2026-11-06 19:04:46,707 [DEBUG]   Filtered (not relevant): Jay Rockefeller dies at 89 after decades serving West Virginia
+2026-11-06 19:04:46,708 [DEBUG]   Filtered (not relevant): Apple might get rid of longtime iPhone feature
+2026-11-06 19:04:46,708 [DEBUG]   Filtered (not relevant): High school basketball coach in North Carolina arrested on felony charges
+2026-11-06 19:04:46,708 [DEBUG]   Filtered (not relevant): Kenyan cult leader sentenced to 200 years in prison for the starvation deaths of
+2026-11-06 19:04:46,709 [DEBUG]   Filtered (not relevant): Mother, daughter killed in suspected grizzly bear attack were ’two peas in a pod
+2026-11-06 19:04:46,709 [DEBUG]   Filtered (not relevant): Two Knicks players question Swift’s courtside fandom
+2026-11-06 19:04:46,710 [DEBUG]   Filtered (not relevant): Amazon’s ultra-fast portable car tire pump is 40% off for cold fall mornings
+2026-11-06 19:04:46,710 [DEBUG]   Filtered (not relevant): Nike’s ultra-cushioned Vomero 18 sneaker just got a major price cut
+2026-11-06 19:04:46,710 [DEBUG]   Filtered (not relevant): A lot of trees are coming down for the I-81 project. Why is it happening now?
+2026-11-06 19:04:46,711 [DEBUG]   Filtered (not relevant): Your phone won’t autocomplete ‘sleepy Joe,’ ‘dictator Trump’: report
+2026-11-06 19:04:46,711 [DEBUG]   Filtered (not relevant): State Police sergeant charged with secretly recording children in his bathroom
+2026-11-06 19:04:46,712 [DEBUG]   Filtered (not relevant): Hiker falls near summit of NY’s highest peak, refuses to move until rescuers arr
+2026-11-06 19:04:46,712 [DEBUG]   Filtered (not relevant): Al Michaels told a 4-minute ‘bedtime story’ during TNF, and fans noticed
+2026-11-06 19:04:46,713 [DEBUG]   Filtered (not relevant): Dirt bike rider causes havoc on Upstate NY trail, leads deputies on chase
+2026-11-06 19:04:46,713 [DEBUG]   Filtered (not relevant): Howe Caverns is auctioning off a clothing-optional evening in its cave
+2026-11-06 19:04:46,714 [DEBUG]   Filtered (not relevant): Breakdown, predictions for Homer vs. Westhill in Section III Class B fall girls 
+2026-11-06 19:04:46,714 [DEBUG]   Filtered (not relevant): Dear Annie: Office Christmas card drama has me dreading the upcoming holiday sea
+2026-11-06 19:04:46,714 [DEBUG]   Filtered (not relevant): Super Bowl champion, former first-round pick dies at 64
+2026-11-06 19:04:46,715 [DEBUG]   Filtered (not relevant): Martha Stewart reacts to Halloween costume controversy
+2026-11-06 19:04:46,715 [DEBUG]   Filtered (not relevant): Inside McNamara’s emotional week: How the grieving coach relied on both of his f
+2026-11-06 19:04:46,715 [INFO]   Relevant: MN mayoral race ends in tie, winner could be decided by drawing names out of a b
+2026-11-06 19:04:46,716 [DEBUG]     → Keywords: mayor
+2026-11-06 19:04:49,783 [WARNING]     Tag issue: Unknown tag 'procedural' not in taxonomy
+2026-11-06 19:04:49,795 [INFO]     Saved: CTX-NEWS-2026-00323 → CTX-NEWS-2026-00323.json
+2026-11-06 19:04:49,796 [DEBUG]   Filtered (not relevant): How a pro athlete’s life changed after acquiring disability (Enable: The Disabil
+2026-11-06 19:04:49,796 [DEBUG]   Filtered (not relevant): Breakdown, predictions for Baldwinsville vs. Liverpool in Section III Class AAA 
+2026-11-06 19:04:49,797 [DEBUG]   Filtered (not relevant): Breakdown, predictions for Hamilton vs. Living Word Academy in Section III Class
+2026-11-06 19:04:49,797 [DEBUG]   Filtered (not relevant): Breakdown, predictions for Ludden-Grimes vs. LaFayette in Section III Class C gi
+2026-11-06 19:04:49,797 [DEBUG]   Filtered (not relevant): Over 1,331 flights delayed, 59 canceled amid widespread U.S. travel disruptions
+2026-11-06 19:04:49,798 [DEBUG]   Filtered (not relevant): What is the agenda for Clay’s new town supervisor?
+2026-11-06 19:04:49,798 [DEBUG]   Filtered (not relevant): Didn’t get Boy Throb tickets? There aren’t many left, but you still have options
+2026-11-06 19:04:49,798 [DEBUG]   Filtered (not relevant): US employers added a surprising 165,000 jobs in October
+2026-11-06 19:04:49,799 [DEBUG]   Filtered (not relevant): Judge orders 14-day delay on any work beginning on Trump’s arch
+2026-11-06 19:04:49,799 [DEBUG]   Filtered (not relevant): Where to watch Carlos Alcaraz vs Taylor Fritz tennis for free today
+2026-11-06 19:04:49,801 [INFO] News Scanner Run — 2026-11-06 19:04
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Syracuse Fire Department announces its first Black female captain
+  • MN mayoral race ends in tie, winner could be decided by drawing names out of a b
+
