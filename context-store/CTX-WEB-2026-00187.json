@@ -1,0 +1,74 @@
+{
+  "record_id": "CTX-WEB-2026-00187",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Parks-News/Parks-2026/2026-11-10-Parks-News",
+  "publication_date": "2026-11-10",
+  "capture_date": "2026-11-10T19:42:05Z",
+  "title": "Mayor Owens Announces Annual \"Home For The Holidays\" Tree Lighting",
+  "summary": "Mayor Sharon F. Owens announced the 2026 'Home for the Holidays' Tree Lighting ceremony scheduled for November 27 at 6:00 p.m. in Clinton Square, featuring a new tradition called 'Together Under One Tree' to celebrate Syracuse's cultural diversity. The event includes performances, a youth art contest, ice rink opening, and accessible viewing areas, positioning the tree lighting as a community unity initiative under the new mayoral administration.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "parks",
+    "announcement",
+    "initiative-launch",
+    "residents",
+    "equity",
+    "recurring",
+    "leadership-change"
+  ],
+  "department_refs": [
+    "Department of Parks, Recreation & Youth Programs"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    },
+    {
+      "name": "Bellegrove Baptist Choir",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "Syracuse Figure Skating Club",
+      "type": "organization",
+      "canonical_id": null
+    },
+    {
+      "name": "95x (Marty)",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Mayor Owens frames tree lighting as first administration event and explicitly establishes cultural inclusion and community unity as governing priorities through new 'Together Under One Tree' tradition.",
+    "confidence": "high"
+  },
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No budget figures provided in press release",
+    "Event date (Nov. 27, 2026) is day after Thanksgiving, recurring annual tradition",
+    "Youth art contest represents departmental community engagement activity",
+    "Multiple accessibility features noted (accessible viewing area, ice rink payment options)",
+    "New cultural equity initiative ('Together Under One Tree') is deliberate policy signal worth tracking for CIO regarding community engagement tech/systems needs",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

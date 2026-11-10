@@ -1,0 +1,27 @@
+2026-11-10 19:41:41,968 [INFO] ============================================================
+2026-11-10 19:41:41,968 [INFO] Website Monitor starting
+2026-11-10 19:41:42,470 [INFO] Scanning: News (https://www.syr.gov/News)
+2026-11-10 19:41:42,471 [INFO]   Navigating to https://www.syr.gov/News
+2026-11-10 19:41:47,311 [INFO]   Found 10 article links in News
+2026-11-10 19:41:52,312 [DEBUG]   Fetching: https://www.syr.gov/News/Parks-News/Parks-2026/2026-11-10-Parks-News
+2026-11-10 19:42:05,823 [INFO]     Saved: CTX-WEB-2026-00187 → CTX-WEB-2026-00187.json
+2026-11-10 19:42:05,823 [DEBUG]   Fetching: https://www.syr.gov/News/City-News/City-2026/2026-11-10-Mayors-Office-News-148-PM
+2026-11-10 19:42:19,966 [INFO]     Saved: CTX-WEB-2026-00188 → CTX-WEB-2026-00188.json
+2026-11-10 19:42:19,966 [INFO] Scanning: Announcements (https://www.syr.gov/Announcements)
+2026-11-10 19:42:19,966 [INFO]   Navigating to https://www.syr.gov/Announcements
+2026-11-10 19:42:23,107 [INFO]   Found 0 article links in Announcements
+2026-11-10 19:42:28,108 [INFO] Scanning: Public Notices (https://www.syr.gov/Public-Notices)
+2026-11-10 19:42:28,108 [INFO]   Navigating to https://www.syr.gov/Public-Notices
+2026-11-10 19:42:31,300 [INFO]   Found 0 article links in Public Notices
+2026-11-10 19:42:36,353 [INFO] Website Monitor Run — 2026-11-10 19:42
+==================================================
+Sections scanned: 3
+New pages found: 2
+Saved as records: 2
+Already processed: 8
+Errors: 0
+
+New records:
+  • Mayor Owens Announces Annual "Home For The Holidays" Tree Lighting
+  • Mayor Owens Appoints Jill Ferguson to Director of Neighborhood Grants
+
