@@ -1,0 +1,50 @@
+{
+  "record_id": "CTX-NEWS-2026-00324",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/entertainment/2026/11/city-announces-schedule-for-annual-syracuse-tree-lighting-in-clinton-square.html",
+  "publication_date": "2026-11-10",
+  "capture_date": "2026-11-10T19:28:37Z",
+  "title": "Syracuse kicks off holiday season with Clinton Square tree lighting",
+  "summary": "The City of Syracuse announced plans for its annual holiday tree lighting ceremony in Clinton Square, scheduled for later in November 2026. This routine seasonal event marks the official kickoff of the holiday season for the city.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "parks",
+    "residents"
+  ],
+  "department_refs": [
+    "Parks and Recreation"
+  ],
+  "entity_refs": [
+    {
+      "name": "Emily Kulkus",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Clinton Square",
+      "type": "system",
+      "canonical_id": "FACILITY-CLINTON-SQUARE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Low innovation/CIO relevance - routine seasonal event with no apparent digital infrastructure, technology systems, or data governance components",
+    "No budget figures, procurement, or city services beyond Parks mentioned",
+    "Article content provided is minimal; full article text may contain additional operational details",
+    "Suitable for CIO tracking only if Clinton Square lighting involves smart city technology, IoT, or digital engagement platforms",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

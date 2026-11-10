@@ -1,0 +1,78 @@
+2026-11-10 19:28:33,442 [INFO] ============================================================
+2026-11-10 19:28:33,443 [INFO] News Scanner starting
+2026-11-10 19:28:33,444 [INFO] Fetching: Syracuse.com Politics
+2026-11-10 19:28:33,721 [INFO]   50 new articles from Syracuse.com Politics
+2026-11-10 19:28:33,721 [INFO] Fetching: Syracuse.com Government
+2026-11-10 19:28:33,868 [INFO]   0 new articles from Syracuse.com Government
+2026-11-10 19:28:33,868 [INFO] Fetching: Syracuse.com Local
+2026-11-10 19:28:34,109 [INFO]   0 new articles from Syracuse.com Local
+2026-11-10 19:28:34,109 [INFO] Fetching: Syracuse.com Main
+2026-11-10 19:28:34,277 [INFO]   0 new articles from Syracuse.com Main
+2026-11-10 19:28:34,277 [INFO] Total unique articles across all feeds: 50
+2026-11-10 19:28:34,277 [INFO] New articles (not previously processed): 50
+2026-11-10 19:28:34,339 [DEBUG]   Filtered (not relevant): Frontier Airlines enters first class for the first time
+2026-11-10 19:28:34,340 [DEBUG]   Filtered (not relevant): Sausage and apple cornbread dressing
+2026-11-10 19:28:34,341 [DEBUG]   Filtered (not relevant): Doenjang cream gravy
+2026-11-10 19:28:34,341 [DEBUG]   Filtered (not relevant): Roast turkey with garlic and chiles
+2026-11-10 19:28:34,342 [DEBUG]   Filtered (not relevant): Beet-orange salad with pomegranate
+2026-11-10 19:28:34,342 [DEBUG]   Filtered (not relevant): Whole roasted cauliflower with coconut curry
+2026-11-10 19:28:34,343 [DEBUG]   Filtered (not relevant): Pistachio shortbread
+2026-11-10 19:28:34,343 [DEBUG]   Filtered (not relevant): 600K+ Bluetooth speaker battery packs recalled after melting, burn reports: Stop
+2026-11-10 19:28:34,344 [DEBUG]   Filtered (not relevant): Archaeologists find 3,300-year-old sword beneath Italian lake
+2026-11-10 19:28:34,344 [DEBUG]   Filtered (not relevant): This Amazon gadget turns any car screen into a wireless CarPlay hub & mini movie
+2026-11-10 19:28:34,345 [DEBUG]   Filtered (not relevant): You don’t have to wait until Black Friday to score this 55-inch Hi-QLED 4K TV fo
+2026-11-10 19:28:34,345 [DEBUG]   Filtered (not relevant): 2026 Veterans Day freebies, discounts and vouchers: Where veterans can save
+2026-11-10 19:28:34,345 [DEBUG]   Filtered (not relevant): Gap launches Holiday Kickoff Event with 50% off beloved CashSoft sweaters
+2026-11-10 19:28:34,346 [DEBUG]   Filtered (not relevant): State to close I-690 westbound exit to West Street for major rebuild
+2026-11-10 19:28:34,346 [DEBUG]   Filtered (not relevant): College football coach to retire after 45 years in the sport
+2026-11-10 19:28:34,346 [DEBUG]   Filtered (not relevant): Joint funeral to be held for 2 young brothers who died in Syracuse house fire
+2026-11-10 19:28:34,347 [DEBUG]   Filtered (not relevant): Olivia Rodrigo ATL tickets: Last-minute options for sold-out ‘Unraveled Tour’ da
+2026-11-10 19:28:34,347 [DEBUG]   Filtered (not relevant): Former child actor plans to ‘keep impregnating wife’ as GoFundMe campaign sparks
+2026-11-10 19:28:34,347 [DEBUG]   Filtered (not relevant): Sting catches Colorado man who flew to Upstate NY for sex with children, police 
+2026-11-10 19:28:34,348 [DEBUG]   Filtered (not relevant): Where to watch Coco Gauff vs. Linda Noskova tennis for free today
+2026-11-10 19:28:34,348 [DEBUG]   Filtered (not relevant): Little giant recalls 3.6M ladders after dozens of serious injuries: Skull fractu
+2026-11-10 19:28:34,348 [DEBUG]   Filtered (not relevant): Gina Bradley's new role at St. Joseph's Health spans nursing education and profe
+2026-11-10 19:28:34,349 [DEBUG]   Filtered (not relevant): Roberto Clemente’s family took a $15 million fight to the Supreme Court
+2026-11-10 19:28:34,349 [DEBUG]   Filtered (not relevant): Walmart has a countertop nugget ice maker on sale for $169.96 — that's more than
+2026-11-10 19:28:34,350 [DEBUG]   Filtered (not relevant): Soda titan to cut 1K jobs amid sales struggles
+2026-11-10 19:28:34,350 [DEBUG]   Filtered (not relevant): Man sentenced for acting as getaway driver in attempted murder
+2026-11-10 19:28:34,351 [DEBUG]   Filtered (not relevant): UGG Tasman II slippers are $39 off ahead of Black Friday
+2026-11-10 19:28:34,351 [DEBUG]   Filtered (not relevant): Ole Miss co-ed releases statement after video of alleged racism
+2026-11-10 19:28:34,352 [DEBUG]   Filtered (not relevant): Snag these waterproof Columbia snow boots on sale for up to 40% off before winte
+2026-11-10 19:28:34,352 [DEBUG]   Filtered (not relevant): Upstate NY EMTs aid unusual patient: a bald eagle
+2026-11-10 19:28:34,352 [DEBUG]   Filtered (not relevant): Kalshi updates $55 NBA promo code “SYRACUSE” for Tuesday night
+2026-11-10 19:28:34,353 [DEBUG]   Filtered (not relevant): Walmart’s early Black Friday sale has the Nespresso Vertuo Pop for under $85
+2026-11-10 19:28:34,353 [DEBUG]   Filtered (not relevant): Hollywood power couple addresses claim they have a ‘controlling, abusive’ relati
+2026-11-10 19:28:34,354 [INFO]   Relevant: Syracuse kicks off holiday season with Clinton Square tree lighting
+2026-11-10 19:28:34,354 [DEBUG]     → Keywords: city of syracuse
+2026-11-10 19:28:37,709 [INFO]     Saved: CTX-NEWS-2026-00324 → CTX-NEWS-2026-00324.json
+2026-11-10 19:28:37,710 [DEBUG]   Filtered (not relevant): NJ, Pa. among states to be hit by Comcast job cuts
+2026-11-10 19:28:37,710 [DEBUG]   Filtered (not relevant): TLC star arrested on domestic violence charge
+2026-11-10 19:28:37,710 [DEBUG]   Filtered (not relevant): Amazon, Walmart issue urgent recall for popular play sets after child sustains n
+2026-11-10 19:28:37,711 [DEBUG]   Filtered (not relevant): Walmart kicks off holiday deals early — here's when to shop
+2026-11-10 19:28:37,711 [DEBUG]   Filtered (not relevant): Florida mom spots mysterious creature swimming through flooded street
+2026-11-10 19:28:37,712 [DEBUG]   Filtered (not relevant): Fish for free in NY on Veterans Day tomorrow
+2026-11-10 19:28:37,712 [DEBUG]   Filtered (not relevant): Disney World is selling hotel rooms for $99 this winter — but there’s a catch
+2026-11-10 19:28:37,713 [DEBUG]   Filtered (not relevant): There’s good news for the 90% of taxpayers that claim this popular deduction
+2026-11-10 19:28:37,713 [DEBUG]   Filtered (not relevant): Tom Brady makes bold Raiders prediction, but fans aren’t letting one detail slid
+2026-11-10 19:28:37,714 [DEBUG]   Filtered (not relevant): Actor says he was held at gunpoint while in bed with married woman
+2026-11-10 19:28:37,714 [INFO]   Relevant: Syracuse University Board of Trustees chose ex-Goldman Sachs exec as next chairm
+2026-11-10 19:28:37,714 [DEBUG]     → Entities: Syracuse University
+2026-11-10 19:28:41,270 [INFO]     Saved: CTX-NEWS-2026-00325 → CTX-NEWS-2026-00325.json
+2026-11-10 19:28:41,271 [DEBUG]   Filtered (not relevant): Looks like Disney+ will offer free streaming after all: leak
+2026-11-10 19:28:41,271 [DEBUG]   Filtered (not relevant): How to secure Noah Kahan tickets during hectic presale before they sell out
+2026-11-10 19:28:41,271 [DEBUG]   Filtered (not relevant): Walmart has Drew Barrymore’s Beautiful 10-in-1 multi-cooker at its lowest sale p
+2026-11-10 19:28:41,272 [DEBUG]   Filtered (not relevant): Nearly 2,000 dead seabirds wash ashore in California. Scientists point to the oc
+2026-11-10 19:28:41,273 [DEBUG]   Filtered (not relevant): Trooper shoots armed man during domestic dispute in Hudson Valley
+2026-11-10 19:28:41,274 [INFO] News Scanner Run — 2026-11-10 19:28
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Syracuse kicks off holiday season with Clinton Square tree lighting
+  • Syracuse University Board of Trustees chose ex-Goldman Sachs exec as next chairm
+

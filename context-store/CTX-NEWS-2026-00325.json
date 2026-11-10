@@ -1,0 +1,52 @@
+{
+  "record_id": "CTX-NEWS-2026-00325",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/syracuse-university/2026/11/syracuse-university-board-of-trustees-chose-ex-goldman-sachs-exec-as-next-chairman.html",
+  "publication_date": "2026-11-10",
+  "capture_date": "2026-11-10T19:28:41Z",
+  "title": "Syracuse University Board of Trustees chose ex-Goldman Sachs exec as next chairman",
+  "summary": "Syracuse University's Board of Trustees appointed a former Goldman Sachs partner and alumnus as the new board chairman. This leadership change at a major regional institution may have implications for Syracuse's business-community engagement and economic development partnerships.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "business-community",
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Goldman Sachs",
+      "type": "organization",
+      "canonical_id": "ORG-GS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Appointment of finance sector executive to university leadership suggests potential alignment with business-community priorities and economic development initiatives in Syracuse region",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns external organization (Syracuse University), not City of Syracuse government",
+    "No direct City department involvement detected",
+    "Relevance to CIO office is indirect—potential stakeholder in regional economic development and business partnerships",
+    "Author name provided: Emalyn Muzzy",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
