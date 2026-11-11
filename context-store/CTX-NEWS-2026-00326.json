@@ -1,0 +1,64 @@
+{
+  "record_id": "CTX-NEWS-2026-00326",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/living/2026/11/syracuse-university-art-museum-hosts-free-figure-drawing-session-nov-19.html",
+  "publication_date": "2026-11-11",
+  "capture_date": "2026-11-11T19:24:03Z",
+  "title": "SU Art Museum opens galleries for free figure drawing session",
+  "summary": "Syracuse University Art Museum is hosting a free public figure drawing session on November 19, 2026, featuring live model drawing among artworks created from recycled materials from San Francisco's Recology facility. This community arts event demonstrates cultural programming and public access to institutional resources.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement",
+    "parks",
+    "sustainability",
+    "PROVISIONAL:arts-culture",
+    "PROVISIONAL:community-engagement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Syracuse University Art Museum",
+      "type": "organization",
+      "canonical_id": "ORG-SU-MUSEUM"
+    },
+    {
+      "name": "Recology",
+      "type": "organization",
+      "canonical_id": "ORG-RECOLOGY"
+    },
+    {
+      "name": "Taylor Westerlund",
+      "type": "person",
+      "canonical_id": "PERSON-TAYLOR-WESTERLUND"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Free public programming aligns with municipal equity and community engagement values; sustainability messaging (recycled materials) reflects environmental priorities.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on university partner (SU) rather than city department activity",
+    "No direct CIO operational relevance detected; limited innovation infrastructure angle",
+    "Sustainability dimension relates to circular economy/waste reduction messaging",
+    "External organization (Recology) featured; may indicate partnership or programming model worth monitoring",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

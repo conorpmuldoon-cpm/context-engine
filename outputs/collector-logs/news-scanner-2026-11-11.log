@@ -1,0 +1,75 @@
+2026-11-11 19:23:57,645 [INFO] ============================================================
+2026-11-11 19:23:57,646 [INFO] News Scanner starting
+2026-11-11 19:23:57,647 [INFO] Fetching: Syracuse.com Politics
+2026-11-11 19:23:58,124 [INFO]   50 new articles from Syracuse.com Politics
+2026-11-11 19:23:58,124 [INFO] Fetching: Syracuse.com Government
+2026-11-11 19:23:58,246 [INFO]   0 new articles from Syracuse.com Government
+2026-11-11 19:23:58,246 [INFO] Fetching: Syracuse.com Local
+2026-11-11 19:23:58,379 [INFO]   0 new articles from Syracuse.com Local
+2026-11-11 19:23:58,379 [INFO] Fetching: Syracuse.com Main
+2026-11-11 19:23:58,520 [INFO]   0 new articles from Syracuse.com Main
+2026-11-11 19:23:58,521 [INFO] Total unique articles across all feeds: 50
+2026-11-11 19:23:58,521 [INFO] New articles (not previously processed): 50
+2026-11-11 19:23:58,571 [DEBUG]   Filtered (not relevant): Deputy injured in crash while helping driver along Route 481 in Clay returns to 
+2026-11-11 19:23:58,572 [DEBUG]   Filtered (not relevant): MTV reality star pleads guilty to involuntary manslaughter, faces 44 years in pr
+2026-11-11 19:23:58,572 [DEBUG]   Filtered (not relevant): This cult-favorite ASICS sneaker just dropped to under $80 at Foot Locker
+2026-11-11 19:23:58,572 [DEBUG]   Filtered (not relevant): Congress inaction could hold up increases to these VA benefits
+2026-11-11 19:23:58,572 [DEBUG]   Filtered (not relevant): Bessent moves to military base over safety concerns, AP source says
+2026-11-11 19:23:58,573 [DEBUG]   Filtered (not relevant): Ooni’s Halo Core Spiral Mixer is mini in size & mighty on power — but is it wort
+2026-11-11 19:23:58,573 [DEBUG]   Filtered (not relevant): White House confronts Democrats over planned probes
+2026-11-11 19:23:58,573 [DEBUG]   Filtered (not relevant): Emotional daytime soap star reveals battle with Parkinson’s
+2026-11-11 19:23:58,574 [DEBUG]   Filtered (not relevant): Rush Sphere tickets presale: How to access 2027 residency passes now
+2026-11-11 19:23:58,574 [DEBUG]   Filtered (not relevant): Driver in Upstate NY crash had 43 license suspensions, police say
+2026-11-11 19:23:58,574 [DEBUG]   Filtered (not relevant): US charges 3 men with plotting terror attacks, including on UK air base
+2026-11-11 19:23:58,575 [DEBUG]   Filtered (not relevant): Fans urge pop star to ‘rest’ as she performs in protective glasses following hea
+2026-11-11 19:23:58,575 [DEBUG]   Filtered (not relevant): ESPN analyst rips CFP for Alabama’s ranking over Tennessee
+2026-11-11 19:23:58,575 [DEBUG]   Filtered (not relevant): Finger Lakes man admits sexually abusing child, had 175K explicit files
+2026-11-11 19:23:58,576 [DEBUG]   Filtered (not relevant): Soaring prices, little choice: Bills stadium, SPAC cited at NY consumer hearing
+2026-11-11 19:23:58,576 [DEBUG]   Filtered (not relevant): Actress’s final days revealed before her tragic death at 35
+2026-11-11 19:23:58,576 [DEBUG]   Filtered (not relevant): Patagonia pullover at REI is more than $70 off right now
+2026-11-11 19:23:58,577 [INFO]   Relevant: SU Art Museum opens galleries for free figure drawing session
+2026-11-11 19:23:58,577 [DEBUG]     → Entities: Syracuse University
+2026-11-11 19:24:03,347 [INFO]     Saved: CTX-NEWS-2026-00326 → CTX-NEWS-2026-00326.json
+2026-11-11 19:24:03,347 [DEBUG]   Filtered (not relevant): Jessica Dapson wins close race for Onondaga County legislature seat in Clay
+2026-11-11 19:24:03,348 [DEBUG]   Filtered (not relevant): What is the best waterproof HOKA sneaker for traveling?
+2026-11-11 19:24:03,348 [DEBUG]   Filtered (not relevant): The ingenious travel hoodie that’s transformed airplane sleep just dropped to $5
+2026-11-11 19:24:03,348 [DEBUG]   Filtered (not relevant): ESPN analyst, former NFL head coach arrested on multiple charges
+2026-11-11 19:24:03,349 [DEBUG]   Filtered (not relevant): Here's how to watch UEFA Nations League soccer streaming for free this week
+2026-11-11 19:24:03,350 [DEBUG]   Filtered (not relevant): Winter weather advisory for Essex County for Thursday and Friday — potentially 5
+2026-11-11 19:24:03,350 [DEBUG]   Filtered (not relevant): Kalshi extends $55 NBA promo code “SYRACUSE” for Wednesday night
+2026-11-11 19:24:03,351 [DEBUG]   Filtered (not relevant): Central Park rape suspect found working at unexpected job in Florida
+2026-11-11 19:24:03,351 [DEBUG]   Filtered (not relevant): 3.6% VA disability COLA: When the increase starts and how much it adds
+2026-11-11 19:24:03,351 [DEBUG]   Filtered (not relevant): How to secure BIGBANG SoFi Stadium presale tickets before the final US show sell
+2026-11-11 19:24:03,351 [DEBUG]   Filtered (not relevant): Walmart’s Black Friday 2026 sale kicks off Nov. 12: What time to the deals start
+2026-11-11 19:24:03,352 [DEBUG]   Filtered (not relevant): Winter weather advisory issued for Northern Warren and Hamilton County for Thurs
+2026-11-11 19:24:03,352 [DEBUG]   Filtered (not relevant): Winter weather advisory for Greene and Ulster counties for Thursday and Friday
+2026-11-11 19:24:03,352 [DEBUG]   Filtered (not relevant): Christina Applegate thinks ‘leaking’ breast implants could have caused MS-like i
+2026-11-11 19:24:03,353 [DEBUG]   Filtered (not relevant): Steelers legend, five-time Super Bowl champion dies at 86
+2026-11-11 19:24:03,353 [DEBUG]   Filtered (not relevant): Police in rescue kids holding handwritten “Help Us” sign in window of Florida ho
+2026-11-11 19:24:03,353 [DEBUG]   Filtered (not relevant): Kate Spade Outlet’s adorable faux shearling bag with bow brings cozy charm to wi
+2026-11-11 19:24:03,354 [DEBUG]   Filtered (not relevant): Walmart's viral starburst Christmas trees are back in stock, but you'll want to 
+2026-11-11 19:24:03,354 [DEBUG]   Filtered (not relevant): Section III finalists featured in latest high school football state rankings
+2026-11-11 19:24:03,354 [DEBUG]   Filtered (not relevant): Ian Phillips’ lead grows in Assembly race; he’s likely to avoid recount and win 
+2026-11-11 19:24:03,355 [DEBUG]   Filtered (not relevant): Top Trump official moves to military base after reported Iran threats
+2026-11-11 19:24:03,355 [DEBUG]   Filtered (not relevant): Dyson’s V8 cordless vacuum slashed to its lowest price at Walmart before Black F
+2026-11-11 19:24:03,355 [DEBUG]   Filtered (not relevant): Mariah Carey tickets: How to get ‘Firefly Tour’ 2027 European concert passes now
+2026-11-11 19:24:03,356 [DEBUG]   Filtered (not relevant): Prosecutors say coded calls from New York jail helped an alleged U.K. terror plo
+2026-11-11 19:24:03,356 [DEBUG]   Filtered (not relevant): How to secure King Gizzard & the Lizard Wizard 2027 presale tickets before they 
+2026-11-11 19:24:03,356 [DEBUG]   Filtered (not relevant): Is the post office closed today on Veterans Day 2026? Will mail be delivered?
+2026-11-11 19:24:03,357 [DEBUG]   Filtered (not relevant): Walmart has the perfect Le Creuset alternative for just $37 and it’s a steal ahe
+2026-11-11 19:24:03,357 [DEBUG]   Filtered (not relevant): Coachella 2027 lineup revealed: Dua Lipa, Madonna and more stars set to perform 
+2026-11-11 19:24:03,357 [DEBUG]   Filtered (not relevant): Beloved actor dead at 85
+2026-11-11 19:24:03,357 [DEBUG]   Filtered (not relevant): This LEGO holiday ornament set just came out and it’s already on sale for $10
+2026-11-11 19:24:03,358 [DEBUG]   Filtered (not relevant): Former NFL MVP pleas for his son to get a chance at pro football
+2026-11-11 19:24:03,358 [DEBUG]   Filtered (not relevant): Dear Annie: How can I get my siblings to share more responsibility for the care 
+2026-11-11 19:24:03,402 [INFO] News Scanner Run — 2026-11-11 19:24
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • SU Art Museum opens galleries for free figure drawing session
+
