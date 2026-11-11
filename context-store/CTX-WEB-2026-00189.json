@@ -1,0 +1,56 @@
+{
+  "record_id": "CTX-WEB-2026-00189",
+  "source_agent": "website_monitor",
+  "source_type": "press_release",
+  "source_url": "https://www.syr.gov/News/Traffic-Infrastructure-News/Traffic-Infrastructure-2026/2026-11-10-Press-Release",
+  "publication_date": "2026-11-10",
+  "capture_date": "2026-11-11T19:33:48Z",
+  "title": "WATER CREWS WORKING TO REPAIR A WATER MAIN BREAK ON LAFORTE AVENUE",
+  "summary": "Syracuse Department of Water is repairing a 36-inch water main break at Laforte Avenue and Arthur Street. Arthur Street will be closed to vehicle traffic for 3-5 hours, with potential water service disruptions and low pressure across the city during repairs. Sidewalks remain open with traffic detours in place.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "water",
+    "infrastructure",
+    "service-requests",
+    "construction-staging",
+    "road-closure-fees",
+    "announcement",
+    "residents"
+  ],
+  "department_refs": [
+    "Department of Water"
+  ],
+  "entity_refs": [
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    },
+    {
+      "name": "Syracuse Department of Water",
+      "type": "organization",
+      "canonical_id": "ORG-WATER"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": null,
+  "freshness_class": "medium",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Author field unknown; obtained from standard press release template",
+    "No dollar amounts provided for repair costs",
+    "No department head directly quoted or referenced in body",
+    "Timeline provided (3-5 hours) enables service continuity planning",
+    "Contact information provided for public inquiries (315-448-8360)",
+    "Routine infrastructure maintenance communication; no budget or policy implications detected",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
