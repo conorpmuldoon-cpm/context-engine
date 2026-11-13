@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2026-00327",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/business/2026/11/company-news-jill-ferguson-named-syracuse-neighborhood-grants-director.html",
+  "publication_date": "2026-11-13",
+  "capture_date": "2026-11-13T19:23:36Z",
+  "title": "From SU to city government: How Jill Ferguson's 25 years in grants and community work shaped her new role leading neighborhood development",
+  "summary": "Mayor Sharon F. Owens has appointed Jill Ferguson as director of neighborhood grants in the Department of Neighborhood and Business Development. Ferguson brings 25 years of experience in grants administration and community engagement from her previous role at Syracuse University, positioning her to lead the city's neighborhood development grant programs.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "grants",
+    "neighborhood-services",
+    "hiring",
+    "announcement",
+    "economic-development"
+  ],
+  "department_refs": [
+    "Department of Neighborhood and Business Development"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jill Ferguson",
+      "type": "person",
+      "canonical_id": "PERSON-JILL-FERGUSON"
+    },
+    {
+      "name": "Sharon F. Owens",
+      "type": "person",
+      "canonical_id": "PERSON-SHARON-OWENS"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Appointment indicates mayoral focus on neighborhood development and grants administration as priority areas for city governance.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "VALIDATION: Department name corrected from 'Department of Permits and Development' to 'Department of Neighborhood and Business Development' per article content",
+    "Entity Sharon F. Owens confirmed as Mayor per article",
+    "No dollar amounts referenced in article",
+    "Article is brief personnel announcement; limited substantive policy information available",
+    "SU (Syracuse University) mentioned as Ferguson's prior employer but not extracted as primary entity per scope",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

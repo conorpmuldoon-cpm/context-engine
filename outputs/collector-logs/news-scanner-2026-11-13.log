@@ -1,0 +1,77 @@
+2026-11-13 19:23:31,687 [INFO] ============================================================
+2026-11-13 19:23:31,687 [INFO] News Scanner starting
+2026-11-13 19:23:31,688 [INFO] Fetching: Syracuse.com Politics
+2026-11-13 19:23:32,173 [INFO]   50 new articles from Syracuse.com Politics
+2026-11-13 19:23:32,173 [INFO] Fetching: Syracuse.com Government
+2026-11-13 19:23:32,532 [INFO]   0 new articles from Syracuse.com Government
+2026-11-13 19:23:32,532 [INFO] Fetching: Syracuse.com Local
+2026-11-13 19:23:32,701 [INFO]   0 new articles from Syracuse.com Local
+2026-11-13 19:23:32,701 [INFO] Fetching: Syracuse.com Main
+2026-11-13 19:23:32,862 [INFO]   0 new articles from Syracuse.com Main
+2026-11-13 19:23:32,862 [INFO] Total unique articles across all feeds: 50
+2026-11-13 19:23:32,862 [INFO] New articles (not previously processed): 50
+2026-11-13 19:23:32,921 [DEBUG]   Filtered (not relevant): Nick Saban calls CFP rankings ‘bulls--t,’ cites Big Ten
+2026-11-13 19:23:32,921 [DEBUG]   Filtered (not relevant): Pop-punk singer, 42, quietly welcomes first child with mystery man
+2026-11-13 19:23:32,921 [DEBUG]   Filtered (not relevant): Airline passenger headed to Hong Kong makes airport joke that quickly backfires
+2026-11-13 19:23:32,922 [DEBUG]   Filtered (not relevant): ‘Snoopy Presents: 12 Days of Snoopy,’ how to watch for free
+2026-11-13 19:23:32,922 [DEBUG]   Filtered (not relevant): California city tops list of best for sports-lovers: study
+2026-11-13 19:23:32,923 [DEBUG]   Filtered (not relevant): Earn $45 back with Costco shop card when you sign up for membership - just in ti
+2026-11-13 19:23:32,923 [DEBUG]   Filtered (not relevant): British Airways plane hits London runway twice during dramatic landing
+2026-11-13 19:23:32,923 [DEBUG]   Filtered (not relevant): University parts ways with head basketball coach following arrest
+2026-11-13 19:23:32,924 [DEBUG]   Filtered (not relevant): This hair oil is my secret to frizz-free hair and now its the cheapest I’ve ever
+2026-11-13 19:23:32,924 [DEBUG]   Filtered (not relevant): This beloved TV show is officially Netflix’s longest-running scripted series
+2026-11-13 19:23:32,924 [DEBUG]   Filtered (not relevant): Grammy-nominated rock band turns into one-man band after sudden illness hits tou
+2026-11-13 19:23:32,925 [DEBUG]   Filtered (not relevant): Major Driscoll’s strawberry supplier is closing 6 farms by early 2027: What’s be
+2026-11-13 19:23:32,925 [DEBUG]   Filtered (not relevant): Pentagon awards multimillion-dollar contract for product used by pregnant women
+2026-11-13 19:23:32,925 [DEBUG]   Filtered (not relevant): DEWALT, Milwaukee & more tool deals from Walmart’s Black Friday sale
+2026-11-13 19:23:32,926 [DEBUG]   Filtered (not relevant): Bills could exploit major Jets weakness in Sunday’s matchup (4 things to know)
+2026-11-13 19:23:32,926 [DEBUG]   Filtered (not relevant): Didn’t get BIGBANG SoFi Stadium tickets? Here’s where you can still buy them
+2026-11-13 19:23:32,927 [DEBUG]   Filtered (not relevant): M&T Bank names new leader for Central New York business team
+2026-11-13 19:23:32,927 [DEBUG]   Filtered (not relevant): Man accused in Texas Target stabbing gives police a bizarre explanation
+2026-11-13 19:23:32,928 [DEBUG]   Filtered (not relevant): Granby man charged with felonies after drugs found in home, Sheriff says
+2026-11-13 19:23:32,928 [DEBUG]   Filtered (not relevant): Cardamom banana pudding
+2026-11-13 19:23:32,929 [DEBUG]   Filtered (not relevant): Gochujang cranberry sauce
+2026-11-13 19:23:32,929 [DEBUG]   Filtered (not relevant): Soy-butter glazed green beans and carrots
+2026-11-13 19:23:32,930 [DEBUG]   Filtered (not relevant): Acorn squash macaroni and cheese
+2026-11-13 19:23:32,930 [DEBUG]   Filtered (not relevant): Dan Patrick reveals what could change his retirement plans
+2026-11-13 19:23:32,931 [DEBUG]   Filtered (not relevant): You can watch Anthony Mackie’s ‘12-12-12’ heist film free — here’s how
+2026-11-13 19:23:32,931 [DEBUG]   Filtered (not relevant): Kalshi refreshes $55 promo code “SYRACUSE” ahead of college football Saturday
+2026-11-13 19:23:32,931 [DEBUG]   Filtered (not relevant): Diana Carpenter wins close race for Pompey town supervisor
+2026-11-13 19:23:32,932 [DEBUG]   Filtered (not relevant): SEC running back out for season following car crash
+2026-11-13 19:23:32,932 [DEBUG]   Filtered (not relevant): ‘Special Forces’ ends with grueling 12-hour challenge — see the 3 celebrity winn
+2026-11-13 19:23:32,932 [INFO]   Relevant: From SU to city government: How Jill Ferguson's 25 years in grants and community
+2026-11-13 19:23:32,933 [DEBUG]     → Entities: Sharon F. Owens
+2026-11-13 19:23:32,933 [DEBUG]     → Departments: Department of Permits and Development
+2026-11-13 19:23:32,933 [DEBUG]     → Keywords: mayor, syracuse mayor, city government
+2026-11-13 19:23:36,911 [INFO]     Saved: CTX-NEWS-2026-00327 → CTX-NEWS-2026-00327.json
+2026-11-13 19:23:36,912 [DEBUG]   Filtered (not relevant): Reality star reflects on son’s death: ‘Did not see that coming’
+2026-11-13 19:23:36,912 [DEBUG]   Filtered (not relevant): Still looking for King Gizzard tickets? Here’s where to buy if you missed out
+2026-11-13 19:23:36,913 [DEBUG]   Filtered (not relevant): Walmart cuts $101 off this outdoor fire pit for Black Friday
+2026-11-13 19:23:36,913 [DEBUG]   Filtered (not relevant): From intern to certified fraud examiner: How Carly Lyndaker is expanding Dannibl
+2026-11-13 19:23:36,913 [DEBUG]   Filtered (not relevant): Al Michaels questioned over fourth-down takes on TNF
+2026-11-13 19:23:36,914 [DEBUG]   Filtered (not relevant): United Airlines is banning AI agents from booking flights for travelers: Here’s 
+2026-11-13 19:23:36,914 [DEBUG]   Filtered (not relevant): How to watch Netherlands vs. Greece Nations League soccer for free today
+2026-11-13 19:23:36,915 [DEBUG]   Filtered (not relevant): Country star rescues 2 dogs, trying to find them homes
+2026-11-13 19:23:36,915 [DEBUG]   Filtered (not relevant): NBC taps familiar voice for Notre Dame game
+2026-11-13 19:23:36,915 [DEBUG]   Filtered (not relevant): Firefighter in critical condition after fiery SUV-school bus crash in Jefferson 
+2026-11-13 19:23:36,916 [DEBUG]   Filtered (not relevant): People are using this new term to describe a problematic dating behavior
+2026-11-13 19:23:36,916 [DEBUG]   Filtered (not relevant): Upstate NY teacher’s aide accused of trying to rape 4-year-old
+2026-11-13 19:23:36,916 [DEBUG]   Filtered (not relevant): Muslim student sues school over teacher’s alleged ‘joke’
+2026-11-13 19:23:36,917 [DEBUG]   Filtered (not relevant): How to watch Switzerland vs. Slovenia Nations League live stream for free today
+2026-11-13 19:23:36,917 [DEBUG]   Filtered (not relevant): How to watch Germany vs. Serbia Nations League soccer live for free today
+2026-11-13 19:23:36,918 [DEBUG]   Filtered (not relevant): How to watch Scotland vs. North Macedonia Nations League soccer live for free to
+2026-11-13 19:23:36,918 [DEBUG]   Filtered (not relevant): Minnesota lawmaker arrested after crash injures man
+2026-11-13 19:23:36,918 [DEBUG]   Filtered (not relevant): LEGO’s holiday sets are the perfect Christmas gift that starts at just $13
+2026-11-13 19:23:36,919 [DEBUG]   Filtered (not relevant): Kraft Heinz selling beloved coffee brand in $650M deal: Here’s why
+2026-11-13 19:23:36,919 [DEBUG]   Filtered (not relevant): Dear Annie: Did family cross a line when they celebrated an adoption before the 
+2026-11-13 19:23:36,921 [INFO] News Scanner Run — 2026-11-13 19:23
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • From SU to city government: How Jill Ferguson's 25 years in grants and community
+
