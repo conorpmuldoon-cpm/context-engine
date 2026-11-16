@@ -1,0 +1,79 @@
+2026-11-16 21:47:25,457 [INFO] ============================================================
+2026-11-16 21:47:25,457 [INFO] News Scanner starting
+2026-11-16 21:47:25,459 [INFO] Fetching: Syracuse.com Politics
+2026-11-16 21:47:26,017 [INFO]   50 new articles from Syracuse.com Politics
+2026-11-16 21:47:26,017 [INFO] Fetching: Syracuse.com Government
+2026-11-16 21:47:26,210 [INFO]   0 new articles from Syracuse.com Government
+2026-11-16 21:47:26,210 [INFO] Fetching: Syracuse.com Local
+2026-11-16 21:47:26,433 [INFO]   0 new articles from Syracuse.com Local
+2026-11-16 21:47:26,433 [INFO] Fetching: Syracuse.com Main
+2026-11-16 21:47:26,641 [INFO]   0 new articles from Syracuse.com Main
+2026-11-16 21:47:26,641 [INFO] Total unique articles across all feeds: 50
+2026-11-16 21:47:26,641 [INFO] New articles (not previously processed): 50
+2026-11-16 21:47:26,690 [DEBUG]   Filtered (not relevant): Beloved ’90s sitcom revival officially ruled out by star
+2026-11-16 21:47:26,691 [DEBUG]   Filtered (not relevant): Disney actor says he and co-star quietly leaned into stepsibling romance onscree
+2026-11-16 21:47:26,691 [DEBUG]   Filtered (not relevant): Police ask public for help in search for missing Fulton man
+2026-11-16 21:47:26,691 [DEBUG]   Filtered (not relevant): Former college football coach who won multiple conference titles dies at 95
+2026-11-16 21:47:26,692 [DEBUG]   Filtered (not relevant): How to watch the New York Rangers vs. Montreal Canadiens for free tonight
+2026-11-16 21:47:26,692 [DEBUG]   Filtered (not relevant): Luxury for less: Shop 40% off Target’s new faux fur pieces during the early Blac
+2026-11-16 21:47:26,692 [DEBUG]   Filtered (not relevant): Dear Abby: Keeping kids out of adult-only treats is causing a holiday hullabaloo
+2026-11-16 21:47:26,693 [DEBUG]   Filtered (not relevant): Major KFC, Pizza Hut operator plans to open 10,000 more restaurants
+2026-11-16 21:47:26,693 [DEBUG]   Filtered (not relevant): Walmart 90% off holiday deal drops $200 touchscreen bluetooth earbuds to just $2
+2026-11-16 21:47:26,693 [DEBUG]   Filtered (not relevant): Ravens vs. Chargers FREE Live Stream (11/16) | Time, TV Channel for Monday Night
+2026-11-16 21:47:26,694 [DEBUG]   Filtered (not relevant): Wendy's just dropped a holiday meal box designed to hit Millennials right in the
+2026-11-16 21:47:26,694 [DEBUG]   Filtered (not relevant): Gerry McNamara on playing at MSG vs. St. John's in future: 'I want to be in this
+2026-11-16 21:47:26,694 [DEBUG]   Filtered (not relevant): Walmart shoppers are rushing to get $10 pumpkin-shaped baking dish perfect for T
+2026-11-16 21:47:26,695 [DEBUG]   Filtered (not relevant): Major SNAP rule delayed 90 days: What it means for millions of shoppers
+2026-11-16 21:47:26,695 [DEBUG]   Filtered (not relevant): Asking Eric: What should I do when a parent calls their autistic child cruel nam
+2026-11-16 21:47:26,695 [DEBUG]   Filtered (not relevant): Are Noah Kahan StubHub tickets legit? What to know before you buy resale
+2026-11-16 21:47:26,696 [DEBUG]   Filtered (not relevant): Walmart’s $80 Crock-Pot 7-quart slow cooker is on sale for $34
+2026-11-16 21:47:26,696 [DEBUG]   Filtered (not relevant): Scammers using new tactics to steal VA benefits from veterans, here’s how to pro
+2026-11-16 21:47:26,697 [DEBUG]   Filtered (not relevant): Google is calling this titanium pan one of the year’s best holiday gifts and it’
+2026-11-16 21:47:26,697 [DEBUG]   Filtered (not relevant): Paul Finebaum dubs this QB ‘gutsiest’ since Tim Tebow
+2026-11-16 21:47:26,698 [DEBUG]   Filtered (not relevant): Woman at center of infamous Hugh Grant scandal now a ‘fugitive on the run’
+2026-11-16 21:47:26,698 [DEBUG]   Filtered (not relevant): Big 12 women’s basketball coach suspended for ‘inappropriate contact’ with playe
+2026-11-16 21:47:26,698 [INFO]   Relevant: Syracuse University names new veteran institute leader. He’s been there since th
+2026-11-16 21:47:26,698 [DEBUG]     → Entities: Syracuse University
+2026-11-16 21:47:30,587 [INFO]     Saved: CTX-NEWS-2026-00328 → CTX-NEWS-2026-00328.json
+2026-11-16 21:47:30,588 [DEBUG]   Filtered (not relevant): Onondaga Jr./Sr. High School students take the stage this weekend to explore how
+2026-11-16 21:47:30,588 [DEBUG]   Filtered (not relevant): Stars of NBC’s most beloved TV shows reuniting for 100th anniversary special: ‘T
+2026-11-16 21:47:30,589 [DEBUG]   Filtered (not relevant): Major bank customers report outages and transaction problems across the U.S.
+2026-11-16 21:47:30,590 [DEBUG]   Filtered (not relevant): Here’s where to find viral Grinch Gain detergent - makes laundry smell like Chri
+2026-11-16 21:47:30,590 [DEBUG]   Filtered (not relevant): Beloved TV star dies at 86
+2026-11-16 21:47:30,590 [INFO]   Relevant: Syracuse men’s soccer earns at-large bid to NCAA Tournament
+2026-11-16 21:47:30,590 [DEBUG]     → Entities: Syracuse University
+2026-11-16 21:47:33,007 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-11-16 21:47:33,017 [INFO]     Saved: CTX-NEWS-2026-00329 → CTX-NEWS-2026-00329.json
+2026-11-16 21:47:33,018 [DEBUG]   Filtered (not relevant): Trump loses Supreme Court bid over $59M in DEI-related research grants
+2026-11-16 21:47:33,018 [DEBUG]   Filtered (not relevant): Car crashes into Geddes home after driver suffers an apparent medical episode, p
+2026-11-16 21:47:33,019 [DEBUG]   Filtered (not relevant): Syracuse coach Fran Brown says Calvin Russell III will be back with Orange next 
+2026-11-16 21:47:33,019 [DEBUG]   Filtered (not relevant): A tiny mintmark makes this 109-year-old dime worth $47,045 to the right collecto
+2026-11-16 21:47:33,019 [DEBUG]   Filtered (not relevant): New AP men’s basketball Top 25: How I voted
+2026-11-16 21:47:33,020 [DEBUG]   Filtered (not relevant): Noah Kahan Columbus tickets: How to still get seats for his sold-out 2027 show
+2026-11-16 21:47:33,020 [DEBUG]   Filtered (not relevant): How to secure Ye (Kanye West) Mexico City tickets today without presale access
+2026-11-16 21:47:33,020 [DEBUG]   Filtered (not relevant): MPH students debut original ghost comedy this December
+2026-11-16 21:47:33,021 [DEBUG]   Filtered (not relevant): Popular chicken wing chain to debut new spicy sauce for holiday season
+2026-11-16 21:47:33,021 [DEBUG]   Filtered (not relevant): FEMA notice: Important national emergency test set for Tuesday, what to expect
+2026-11-16 21:47:33,021 [DEBUG]   Filtered (not relevant): Did Medicare announce the 2027 Part B premium yet? What enrollees can expect
+2026-11-16 21:47:33,022 [DEBUG]   Filtered (not relevant): See homes sold in four Central NY counties, Nov. 2 to 8
+2026-11-16 21:47:33,022 [DEBUG]   Filtered (not relevant): Stanley’s popular Spring water bottle is 40% off for Black Friday
+2026-11-16 21:47:33,023 [DEBUG]   Filtered (not relevant): This INSE Cordless Vacuum is just $49.99 at Walmart, saving shoppers $70 ahead o
+2026-11-16 21:47:33,023 [DEBUG]   Filtered (not relevant): Syracuse football vs. Notre Dame: TV network, kickoff time announced
+2026-11-16 21:47:33,023 [DEBUG]   Filtered (not relevant): Reality TV star slams claims she killed her partner: ‘Disgusting’
+2026-11-16 21:47:33,024 [DEBUG]   Filtered (not relevant): Pasta with tofu and mushroom ragu
+2026-11-16 21:47:33,025 [DEBUG]   Filtered (not relevant): Potato chip mashed potatoes
+2026-11-16 21:47:33,026 [DEBUG]   Filtered (not relevant): Nargesi esfenaj (spinach and eggs with turmeric)
+2026-11-16 21:47:33,026 [DEBUG]   Filtered (not relevant): Creamy orzotto with roasted carrots
+2026-11-16 21:47:33,027 [DEBUG]   Filtered (not relevant): Watch Germany vs. Netherlands Nations League soccer streaming live for free toda
+2026-11-16 21:47:33,029 [INFO] News Scanner Run — 2026-11-16 21:47
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Syracuse University names new veteran institute leader. He’s been there since th
+  • Syracuse men’s soccer earns at-large bid to NCAA Tournament
+

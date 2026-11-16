@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00328",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/syracuse-university/2026/11/syracuse-university-names-new-veteran-institute-leader-hes-been-there-since-the-beginning.html",
+  "publication_date": "2026-11-16",
+  "capture_date": "2026-11-16T21:47:30Z",
+  "title": "Syracuse University names new veteran institute leader. He’s been there since the beginning",
+  "summary": "Syracuse University announced a new leader for its Institute for Veteran and Military Families, selecting one of Chancellor Michael Haynie's deputy leaders. This leadership transition reflects institutional continuity in veteran and military family support services.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "leadership-change",
+    "announcement",
+    "workforce-development"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-U"
+    },
+    {
+      "name": "Michael Haynie",
+      "type": "person",
+      "canonical_id": "PERSON-MICHAEL-HAYNIE"
+    },
+    {
+      "name": "Institute for Veteran and Military Families",
+      "type": "organization",
+      "canonical_id": "ORG-IVMF"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Leadership appointment signals continued institutional commitment to veteran and military family support services",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article appears to be higher education/institutional news rather than city government operations",
+    "Limited connection to Syracuse city government unless CIO is tracking community institutional leadership changes",
+    "New institute leader name not provided in excerpt; full article content may contain additional details",
+    "No direct municipal service, budget, or infrastructure implications detected",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

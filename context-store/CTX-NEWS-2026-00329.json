@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00329",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangesports/2026/11/syracuse-mens-soccer-earns-at-large-bid-to-ncaa-tournament.html",
+  "publication_date": "2026-11-16",
+  "capture_date": "2026-11-16T21:47:33Z",
+  "title": "Syracuse men’s soccer earns at-large bid to NCAA Tournament",
+  "summary": "Syracuse University men's soccer team earned an NCAA Tournament at-large bid. This article reports on a university athletic achievement and is not relevant to City of Syracuse municipal operations or the Chief Innovation Officer's portfolio.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-UNIV"
+    },
+    {
+      "name": "Brent Axe",
+      "type": "person",
+      "canonical_id": "PERSON-BRENT-AXE"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article concerns university athletics, not municipal government operations",
+    "No relevance to City of Syracuse Chief Innovation Officer mandate",
+    "No applicable tags from provided municipal governance taxonomy",
+    "Should be filtered from CIO context engine as out-of-scope",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
