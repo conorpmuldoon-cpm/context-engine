@@ -1,0 +1,27 @@
+2026-11-17 21:14:14,980 [INFO] === Agenda Scanner  — 2026 ===
+2026-11-17 21:14:14,980 [INFO] Already processed: 15 agendas
+2026-11-17 21:14:15,016 [INFO] Fetching agenda listing page for 2026...
+2026-11-17 21:14:23,432 [INFO]   Found 17 meeting page(s) for 2026
+2026-11-17 21:14:25,902 [DEBUG]   Common Council Regular Meeting (2026-10-26): already processed
+2026-11-17 21:14:28,870 [DEBUG]   Common Council Study Session (2026-10-26): already processed
+2026-11-17 21:14:31,423 [DEBUG]   Common Council Study Session (2026-10-26): already processed
+2026-11-17 21:14:34,043 [DEBUG]   2026-06-01 Common Council Regular Meeting (2026-06-01): already processed
+2026-11-17 21:14:36,446 [DEBUG]   2026-06-01 Common Council Study Session (2026-06-01): already processed
+2026-11-17 21:14:39,133 [DEBUG]   2026-05-27 Common Council Study Session (2026-06-01): already processed
+2026-11-17 21:14:41,673 [DEBUG]   2026-05-27 Common Council Special Meeting (2026-05-27): already processed
+2026-11-17 21:14:44,068 [DEBUG]   2026-05-18 Common Council Regular Meeting (2026-05-18): already processed
+2026-11-17 21:14:46,649 [DEBUG]   2026-05-18 Common Council Study Session (2026-05-18): already processed
+2026-11-17 21:14:49,057 [DEBUG]   2026-05-13 Common Council Study Session (2026-05-18): already processed
+2026-11-17 21:14:51,487 [DEBUG]   2026-05-08 Common Council SPECIAL MEETING (2026-05-08): already processed
+2026-11-17 21:14:53,942 [DEBUG]   2026-05-04 Common Council Regular Meeting (2026-05-04): already processed
+2026-11-17 21:14:56,333 [DEBUG]   2026-05-04 Common Council Study Session (2026-05-04): already processed
+2026-11-17 21:14:58,878 [DEBUG]   2026-04-29 Common Council Study Session (2026-05-04): already processed
+2026-11-17 21:15:01,415 [DEBUG]   2026-04-20 Common Council Regular Meeting (2026-04-20): already processed
+2026-11-17 21:15:03,803 [DEBUG]   2026-04-20 Common Council Study Session (2026-04-20): already processed
+2026-11-17 21:15:06,514 [DEBUG]   2026-04-15 Common Council Study Session (2026-04-20): already processed
+2026-11-17 21:15:06,514 [INFO] 
+==================================================
+2026-11-17 21:15:06,514 [INFO] AGENDA SCANNER SUMMARY 
+2026-11-17 21:15:06,514 [INFO]   Meeting pages checked: 17
+2026-11-17 21:15:06,514 [INFO]   New agendas parsed: 0
+2026-11-17 21:15:06,514 [INFO]   Skipped (already processed or no PDF): 17
