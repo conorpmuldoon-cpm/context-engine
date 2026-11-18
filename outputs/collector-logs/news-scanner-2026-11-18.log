@@ -1,0 +1,79 @@
+2026-11-18 20:11:49,812 [INFO] ============================================================
+2026-11-18 20:11:49,812 [INFO] News Scanner starting
+2026-11-18 20:11:49,814 [INFO] Fetching: Syracuse.com Politics
+2026-11-18 20:11:50,128 [INFO]   50 new articles from Syracuse.com Politics
+2026-11-18 20:11:50,128 [INFO] Fetching: Syracuse.com Government
+2026-11-18 20:11:50,285 [INFO]   0 new articles from Syracuse.com Government
+2026-11-18 20:11:50,286 [INFO] Fetching: Syracuse.com Local
+2026-11-18 20:11:50,439 [INFO]   0 new articles from Syracuse.com Local
+2026-11-18 20:11:50,439 [INFO] Fetching: Syracuse.com Main
+2026-11-18 20:11:50,615 [INFO]   0 new articles from Syracuse.com Main
+2026-11-18 20:11:50,615 [INFO] Total unique articles across all feeds: 50
+2026-11-18 20:11:50,616 [INFO] New articles (not previously processed): 50
+2026-11-18 20:11:50,677 [DEBUG]   Filtered (not relevant): Asking Eric: At what age should third grader stop occasionally sleeping in gay d
+2026-11-18 20:11:50,677 [INFO]   Relevant: Syracuse poised to give blue-collar workers sizeable pay boost under new contrac
+2026-11-18 20:11:50,677 [DEBUG]     → Keywords: city of syracuse
+2026-11-18 20:11:54,060 [INFO]     Saved: CTX-NEWS-2026-00330 → CTX-NEWS-2026-00330.json
+2026-11-18 20:11:54,061 [DEBUG]   Filtered (not relevant): Free home gas hookups end next month in New York
+2026-11-18 20:11:54,062 [DEBUG]   Filtered (not relevant): Is GTA 6 out? Here’s where to get same-day delivery before tonight
+2026-11-18 20:11:54,062 [DEBUG]   Filtered (not relevant): Le Creuset is having a super-rare sale on its Holiday Collections
+2026-11-18 20:11:54,062 [DEBUG]   Filtered (not relevant): Sitti Zaytoona brings Palestine’s food and culture to Syracuse's Westcott neighb
+2026-11-18 20:11:54,063 [DEBUG]   Filtered (not relevant): Syracuse is out of the running for nation's No. 1 women's hoops recruit
+2026-11-18 20:11:54,063 [DEBUG]   Filtered (not relevant): Democrat Mary Peltola wins US Senate race in Alaska
+2026-11-18 20:11:54,064 [DEBUG]   Filtered (not relevant): Beloved singer says next studio album will be last after 22 years
+2026-11-18 20:11:54,064 [DEBUG]   Filtered (not relevant): Amazon launches same-day delivery of prepared meals for under $8
+2026-11-18 20:11:54,064 [DEBUG]   Filtered (not relevant): Fewer Americans hitting the road this Thanksgiving season
+2026-11-18 20:11:54,065 [DEBUG]   Filtered (not relevant): Famous musician, 52, engaged to 22-year-old after whirlwind romance: ‘My best fr
+2026-11-18 20:11:54,065 [DEBUG]   Filtered (not relevant): New York sends energy rebate checks to people who moved away
+2026-11-18 20:11:54,065 [DEBUG]   Filtered (not relevant): Man who sold phishing kits to scammers pleads guilty in Upstate NY case
+2026-11-18 20:11:54,066 [DEBUG]   Filtered (not relevant): Rare coin sold for $1.925 million at auction
+2026-11-18 20:11:54,066 [DEBUG]   Filtered (not relevant): If you missed the Disney Store x Baggu collab this spring, shop this rare restoc
+2026-11-18 20:11:54,067 [DEBUG]   Filtered (not relevant): Flight attendant has midair allergic reaction. A passenger doctor jumps into act
+2026-11-18 20:11:54,067 [DEBUG]   Filtered (not relevant): Brooks fans say the Glycerin Flex are the ‘best shoes I’ve ever walked in’ — and
+2026-11-18 20:11:54,067 [DEBUG]   Filtered (not relevant): British Airways Dreamliner gets stuck in mud while taxiing at Heathrow
+2026-11-18 20:11:54,068 [DEBUG]   Filtered (not relevant): Lo & Sons 2 trending travel bags designed to organize your life are 40% off for 
+2026-11-18 20:11:54,068 [INFO]   Relevant: Syracuse announces signings of two 2027 recruits, including a 5-star forward
+2026-11-18 20:11:54,068 [DEBUG]     → Entities: Syracuse University
+2026-11-18 20:11:57,257 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-11-18 20:11:57,268 [INFO]     Saved: CTX-NEWS-2026-00331 → CTX-NEWS-2026-00331.json
+2026-11-18 20:11:57,269 [DEBUG]   Filtered (not relevant): 19 dead in Russian plane crash
+2026-11-18 20:11:57,269 [DEBUG]   Filtered (not relevant): Music legend, 83, faces investigation over sexual abuse investigation
+2026-11-18 20:11:57,270 [DEBUG]   Filtered (not relevant): Need a Thanksgiving pie? Try these 14 Upstate NY bakeries
+2026-11-18 20:11:57,270 [DEBUG]   Filtered (not relevant): Grizzly bear, 3 cubs killed after testing confirmed ‘predatory behavior’ led to 
+2026-11-18 20:11:57,270 [DEBUG]   Filtered (not relevant): Urban Meyer addresses rumors he is a candidate for a Big Ten job
+2026-11-18 20:11:57,271 [DEBUG]   Filtered (not relevant): How to get STARZ for  $1 a month for a full year with this early Black Friday de
+2026-11-18 20:11:57,271 [DEBUG]   Filtered (not relevant): This $398 Michael Kors Outlet handbag is now under $70 in select colors
+2026-11-18 20:11:57,271 [DEBUG]   Filtered (not relevant): ‘Dancing With the Stars’ frontrunner reacts to jaw-dropping elimination
+2026-11-18 20:11:57,272 [DEBUG]   Filtered (not relevant): Thousands of veterans could save millions under proposal to end life insurance p
+2026-11-18 20:11:57,272 [DEBUG]   Filtered (not relevant): Highly contagious: US loses 26-year measles elimination status as cases more tha
+2026-11-18 20:11:57,272 [DEBUG]   Filtered (not relevant): Popular hot dog and Italian beef chain closes 6 locations in one state
+2026-11-18 20:11:57,273 [DEBUG]   Filtered (not relevant): Important Social Security update: What new monthly Medicare premiums will mean t
+2026-11-18 20:11:57,273 [DEBUG]   Filtered (not relevant): Kalshi enhances $55 NBA promo code “SYRACUSE” for Wednesday night
+2026-11-18 20:11:57,274 [DEBUG]   Filtered (not relevant): Popular 2000s singer legally changes name to Ryan Air after losing bizarre fan b
+2026-11-18 20:11:57,274 [DEBUG]   Filtered (not relevant): Holiday party hosts are snagging Walmart’s 70% off deal on Bluetooth speaker now
+2026-11-18 20:11:57,274 [DEBUG]   Filtered (not relevant): How to secure P!NK Sphere presale tickets today before they sell out
+2026-11-18 20:11:57,275 [DEBUG]   Filtered (not relevant): CNY Arts opens funding opportunities for Onondaga County arts and culture nonpro
+2026-11-18 20:11:57,275 [DEBUG]   Filtered (not relevant): Here’s why Alabama didn’t get CFP’s Big Ten treatment
+2026-11-18 20:11:57,275 [DEBUG]   Filtered (not relevant): Kohl’s makes big announcement for online orders
+2026-11-18 20:11:57,276 [DEBUG]   Filtered (not relevant): Get ready for the Army-Navy game with this new Fanatics rivalry collection
+2026-11-18 20:11:57,276 [DEBUG]   Filtered (not relevant): A 9-year-old’s snake in the toilet claim rattled an Italian town, and AI was the
+2026-11-18 20:11:57,276 [DEBUG]   Filtered (not relevant): Early CMA award winners named ahead of ceremony
+2026-11-18 20:11:57,277 [DEBUG]   Filtered (not relevant): The cheapest way to get Fujifilm Instax camera just got even better with 10-pack
+2026-11-18 20:11:57,277 [DEBUG]   Filtered (not relevant): Former Upstate NY standout is nation’s top QB prospect
+2026-11-18 20:11:57,278 [DEBUG]   Filtered (not relevant): The North Face Osito Lux Jacket has dropped to $49.49 at REI — more than $80 off
+2026-11-18 20:11:57,278 [DEBUG]   Filtered (not relevant): Domino’s invites customers to skip Thanksgiving cooking, try new specialty pizza
+2026-11-18 20:11:57,278 [DEBUG]   Filtered (not relevant): Traveling to Mexico with kids? Bring these documents
+2026-11-18 20:11:57,279 [DEBUG]   Filtered (not relevant): My fellow veterans, oppose arch marring Arlington National Cemetery (Your Letter
+2026-11-18 20:11:57,279 [DEBUG]   Filtered (not relevant): Syracuse.com’s Michelle Breidenbach is named NY journalist of year for her immig
+2026-11-18 20:11:57,281 [INFO] News Scanner Run — 2026-11-18 20:11
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 2
+Filtered (not relevant): 48
+Errors: 0
+
+New records:
+  • Syracuse poised to give blue-collar workers sizeable pay boost under new contrac
+  • Syracuse announces signings of two 2027 recruits, including a 5-star forward
+

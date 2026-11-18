@@ -1,0 +1,51 @@
+{
+  "record_id": "CTX-NEWS-2026-00331",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/orangebasketball/2026/11/syracuse-announces-signings-of-two-2027-recruits-including-a-5-star-forward.html",
+  "publication_date": "2026-11-18",
+  "capture_date": "2026-11-18T20:11:57Z",
+  "title": "Syracuse announces signings of two 2027 recruits, including a 5-star forward",
+  "summary": "Syracuse University announced the signing of two 2027 basketball recruits, including 5-star prospect Moussa Kamissoko. This article covers university athletics recruitment and is not directly relevant to City of Syracuse municipal operations or the Chief Innovation Officer's governance mandate.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Syracuse University",
+      "type": "organization",
+      "canonical_id": "ORG-SU"
+    },
+    {
+      "name": "Moussa Kamissoko",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Mike Waters",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is about Syracuse University athletics, not City of Syracuse municipal government",
+    "No municipal policy, budget, infrastructure, or CIO-relevant digital/innovation initiatives detected",
+    "Source is syracuse.com sports section, not official city communications",
+    "Consider filtering out non-municipal Syracuse-based news to reduce noise in CIO context engine",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

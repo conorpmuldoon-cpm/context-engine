@@ -1,0 +1,62 @@
+{
+  "record_id": "CTX-NEWS-2026-00330",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/11/syracuse-poised-to-give-blue-collar-workers-sizeable-pay-boost-under-new-contract.html",
+  "publication_date": "2026-11-18",
+  "capture_date": "2026-11-18T20:11:54Z",
+  "title": "Syracuse poised to give blue-collar workers sizeable pay boost under new contract",
+  "summary": "Syracuse's largest blue-collar worker union has approved a new labor contract featuring significant wage increases. This development impacts city payroll, labor relations, and workforce retention across municipal operations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "labor-relations",
+    "union",
+    "payroll",
+    "benefits",
+    "announcement",
+    "vote"
+  ],
+  "department_refs": [
+    "Human Resources",
+    "Office of Management and Budget"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": "PERSON-JEREMY-BOYER"
+    },
+    {
+      "name": "City of Syracuse",
+      "type": "organization",
+      "canonical_id": "ORG-CITY-SYRACUSE"
+    },
+    {
+      "name": "Syracuse's Largest Blue-Collar Union",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "positive",
+  "political_signal": {
+    "signal_type": "budget_commitment",
+    "description": "Approved labor contract signals municipal commitment to workforce compensation and labor relations stability; likely represents recurring budget impact for wage increases.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Specific dollar amounts not provided in article excerpt; full content needed for financial impact analysis",
+    "Union name not specified; recommend cross-reference with city labor relations records for canonical identification",
+    "Contract approval suggests completed negotiation; may trigger budget amendment or fiscal year impact assessment",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
