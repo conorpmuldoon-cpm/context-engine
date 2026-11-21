@@ -1,0 +1,76 @@
+2026-11-21 18:53:13,269 [INFO] ============================================================
+2026-11-21 18:53:13,269 [INFO] News Scanner starting
+2026-11-21 18:53:13,271 [INFO] Fetching: Syracuse.com Politics
+2026-11-21 18:53:13,671 [INFO]   50 new articles from Syracuse.com Politics
+2026-11-21 18:53:13,671 [INFO] Fetching: Syracuse.com Government
+2026-11-21 18:53:14,307 [INFO]   0 new articles from Syracuse.com Government
+2026-11-21 18:53:14,307 [INFO] Fetching: Syracuse.com Local
+2026-11-21 18:53:14,487 [INFO]   0 new articles from Syracuse.com Local
+2026-11-21 18:53:14,488 [INFO] Fetching: Syracuse.com Main
+2026-11-21 18:53:14,709 [INFO]   0 new articles from Syracuse.com Main
+2026-11-21 18:53:14,709 [INFO] Total unique articles across all feeds: 50
+2026-11-21 18:53:14,710 [INFO] New articles (not previously processed): 50
+2026-11-21 18:53:14,771 [DEBUG]   Filtered (not relevant): Syracuse basketball vs. Lafayette: Live score, updates
+2026-11-21 18:53:14,771 [DEBUG]   Filtered (not relevant): Kalshi promo code “SYRACUSE” updates new $55 bonus for college football Saturday
+2026-11-21 18:53:14,772 [DEBUG]   Filtered (not relevant): Carmelo Anthony calls out Ravens player for saying Baltimore is ‘best at making 
+2026-11-21 18:53:14,772 [DEBUG]   Filtered (not relevant): Syracuse football vs. Boston College: Live updates, score, stats
+2026-11-21 18:53:14,773 [DEBUG]   Filtered (not relevant): Dear Annie: We lose more people as we age, but it doesn't mean we can't add new 
+2026-11-21 18:53:14,773 [DEBUG]   Filtered (not relevant): How to watch the Union take on the Revolution in the MLS playoffs live  today
+2026-11-21 18:53:14,774 [DEBUG]   Filtered (not relevant): Bills could have a major advantage against Miami. Here's what to watch
+2026-11-21 18:53:14,774 [DEBUG]   Filtered (not relevant): See homes sold in Onondaga County school districts during October 2026
+2026-11-21 18:53:14,775 [DEBUG]   Filtered (not relevant): Syracuse will be without two starting offensive linemen against Boston College (
+2026-11-21 18:53:14,775 [DEBUG]   Filtered (not relevant): This $16 FAO Schwarz Hermès-inspired handbag just got added to my daughter’s wis
+2026-11-21 18:53:14,775 [DEBUG]   Filtered (not relevant): Doctors didn’t think this beloved TV actor’s injuries were ‘anything serious’ — 
+2026-11-21 18:53:14,776 [DEBUG]   Filtered (not relevant): Dressing or stuffing: Thanksgiving’s most divisive issue
+2026-11-21 18:53:14,776 [DEBUG]   Filtered (not relevant): Country music singer who stepped away from stage teases new music: ‘Work in prog
+2026-11-21 18:53:14,777 [DEBUG]   Filtered (not relevant): De’Longhi’s Starbucks-style espresso machine is on sale $500 off
+2026-11-21 18:53:14,778 [DEBUG]   Filtered (not relevant): Polymarket launches $25 promo code “CUSE” for college football, NBA Saturday
+2026-11-21 18:53:14,778 [DEBUG]   Filtered (not relevant): Judge temporarily halts work on Seneca Nation gas station in Buffalo
+2026-11-21 18:53:14,778 [DEBUG]   Filtered (not relevant): Country music star tells fans to stop fighting at his shows: ‘It’s a place to ch
+2026-11-21 18:53:14,779 [DEBUG]   Filtered (not relevant): Thanksgiving flights cost 17% more even as fewer Americans are expected to fly
+2026-11-21 18:53:14,779 [DEBUG]   Filtered (not relevant): How to watch Arsenal vs. Newcastle United soccer streaming live for free today
+2026-11-21 18:53:14,780 [DEBUG]   Filtered (not relevant): Beloved Jamesville-DeWitt educator remembered: ‘A coach at heart’
+2026-11-21 18:53:14,780 [DEBUG]   Filtered (not relevant): Passengers asked flight attendants some bizarre questions. These are hard to bel
+2026-11-21 18:53:14,781 [DEBUG]   Filtered (not relevant): Extended BetMGM bonus code CUSE: Secure $150 betting bonus for Week 12 college f
+2026-11-21 18:53:14,781 [DEBUG]   Filtered (not relevant): When does Black Friday start?
+2026-11-21 18:53:14,782 [INFO]   Relevant: Washington Nationals cut former Le Moyne star Josiah Gray
+2026-11-21 18:53:14,782 [DEBUG]     → Entities: Le Moyne College
+2026-11-21 18:53:18,155 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-11-21 18:53:18,174 [INFO]     Saved: CTX-NEWS-2026-00332 → CTX-NEWS-2026-00332.json
+2026-11-21 18:53:18,175 [DEBUG]   Filtered (not relevant): 5 strangers were stuck at an airport. Their unusual solution quickly went viral
+2026-11-21 18:53:18,176 [DEBUG]   Filtered (not relevant): Ask Mayo Clinic: There is always time for a second opinion. Even after removing 
+2026-11-21 18:53:18,176 [DEBUG]   Filtered (not relevant): Birkenstock’s Arizona Big Buckle sandals are on sale for $52 off
+2026-11-21 18:53:18,176 [DEBUG]   Filtered (not relevant): How to watch Syracuse vs. Boston College football for free today
+2026-11-21 18:53:18,177 [DEBUG]   Filtered (not relevant): Country music star’s widow, ex-bandmates battling over group name. Here’s the la
+2026-11-21 18:53:18,177 [DEBUG]   Filtered (not relevant): Miss Manners: As a great-aunt, can I wear silver to my niece's wedding?
+2026-11-21 18:53:18,178 [DEBUG]   Filtered (not relevant): Passengers found brown goo on their luggage. The explanation is unexpected
+2026-11-21 18:53:18,179 [DEBUG]   Filtered (not relevant): Immigrant workers at Rochester hotel faced forced labor, no heat or water, AG sa
+2026-11-21 18:53:18,179 [DEBUG]   Filtered (not relevant): Voter fraud cases surged before midterms. Then the pace of new cases slowed
+2026-11-21 18:53:18,180 [DEBUG]   Filtered (not relevant): Florida pastor hoped to lead Haiti. Now he could face life behind bars
+2026-11-21 18:53:18,180 [DEBUG]   Filtered (not relevant): Former Upstate NY nursing aide raped 2 nursing home residents
+2026-11-21 18:53:18,181 [DEBUG]   Filtered (not relevant): Man charged with stealing pickup truck from Upstate NY car lot
+2026-11-21 18:53:18,181 [DEBUG]   Filtered (not relevant): Rock legend dead at 61: ‘Will stand the test of time forever’
+2026-11-21 18:53:18,181 [DEBUG]   Filtered (not relevant): Where to watch Syracuse men’s basketball vs. Lafayette for free today
+2026-11-21 18:53:18,182 [DEBUG]   Filtered (not relevant): Chase reveals vendor cyberattack days after customers faced major outage
+2026-11-21 18:53:18,182 [DEBUG]   Filtered (not relevant): Why Kalshi says one state lawsuit could threaten its $22 billion business
+2026-11-21 18:53:18,183 [DEBUG]   Filtered (not relevant): Supreme Court prepares for major fight over where migrants can be deported
+2026-11-21 18:53:18,183 [DEBUG]   Filtered (not relevant): 80-year-old pilot injured in emergency landing in Upstate NY field
+2026-11-21 18:53:18,184 [DEBUG]   Filtered (not relevant): Why a six-pack of beer landed a $95,000 airplane case at Supreme Court
+2026-11-21 18:53:18,184 [DEBUG]   Filtered (not relevant): Legendary ska band celebrating nearly 50 years with new tour dates
+2026-11-21 18:53:18,184 [DEBUG]   Filtered (not relevant): Toys ‘R’ Us is officially back with 160 new stores, including one in Grand Centr
+2026-11-21 18:53:18,185 [DEBUG]   Filtered (not relevant): CNY Weather: Lake-effect snow threat arrives early next week
+2026-11-21 18:53:18,185 [DEBUG]   Filtered (not relevant): Watch Spurs face Ipswich Town in the English Premier League for free today
+2026-11-21 18:53:18,186 [DEBUG]   Filtered (not relevant): Watch Chelsea vs. Leeds United English Premier League soccer for free today
+2026-11-21 18:53:18,186 [DEBUG]   Filtered (not relevant): Is ‘SNL’ new tonight? See the season 52 episode schedule
+2026-11-21 18:53:18,186 [DEBUG]   Filtered (not relevant): Country star rips video of singer: ‘If you fall for it, you’re a (expletive) idi
+2026-11-21 18:53:18,188 [INFO] News Scanner Run — 2026-11-21 18:53
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Washington Nationals cut former Le Moyne star Josiah Gray
+

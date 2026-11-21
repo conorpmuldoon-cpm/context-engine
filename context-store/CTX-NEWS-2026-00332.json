@@ -1,0 +1,51 @@
+{
+  "record_id": "CTX-NEWS-2026-00332",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/sports/2026/11/washington-nationals-cut-former-le-moyne-star-josiah-gray.html",
+  "publication_date": "2026-11-21",
+  "capture_date": "2026-11-21T18:53:18Z",
+  "title": "Washington Nationals cut former Le Moyne star Josiah Gray",
+  "summary": "Sports news article about former Le Moyne College pitcher Josiah Gray being released by the Washington Nationals. Not relevant to Syracuse city government operations, budget, or municipal services.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Le Moyne College",
+      "type": "organization",
+      "canonical_id": "ORG-LEMOYNE"
+    },
+    {
+      "name": "Josiah Gray",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Washington Nationals",
+      "type": "organization",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is sports news with no municipal governance relevance",
+    "Le Moyne College is a private institution in Syracuse area but article contains no city government policy, budget, or service content",
+    "No CIO-relevant topics detected (no IT, digital services, data governance, infrastructure, or civic tech elements)",
+    "Recommend filtering out during regular ingestion unless monitoring local institution alumni achievements for community relations purposes",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
