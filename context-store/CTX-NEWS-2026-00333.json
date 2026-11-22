@@ -1,0 +1,57 @@
+{
+  "record_id": "CTX-NEWS-2026-00333",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/opinion/2026/11/syracuse-should-end-top-lawyers-side-job-to-avoid-conflicts-editorial-board-opinion.html",
+  "publication_date": "2026-11-22",
+  "capture_date": "2026-11-22T19:14:24Z",
+  "title": "Syracuse should end top lawyer’s side job to avoid conflicts (Editorial Board Opinion)",
+  "summary": "Editorial board opinion piece criticizes City Hall's arrangement allowing the corporation counsel to maintain a one-day-per-week outside law firm position, citing unmanaged conflicts of interest and lack of transparency. The piece calls for ending this arrangement to protect city interests and governance integrity.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "policy-change",
+    "transparency",
+    "escalating",
+    "leadership-change",
+    "PROVISIONAL:conflict-of-interest",
+    "PROVISIONAL:ethics-governance"
+  ],
+  "department_refs": [
+    "Law Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Corporation Counsel",
+      "type": "person",
+      "canonical_id": null
+    },
+    {
+      "name": "Syracuse Editorial Board",
+      "type": "organization",
+      "canonical_id": "ORG-SYRACUSE-COM"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "scrutiny",
+    "description": "Editorial board applying public pressure on city administration regarding potential conflicts of interest in top legal officer's dual employment arrangement; advocacy for policy change to remove outside work arrangement.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "No specific corporation counsel name identified in article; recommend cross-reference with current Law Department leadership roster",
+    "Outside law firm not named in excerpt; additional research needed on specific firm and engagement terms",
+    "No dollar amounts or financial impact quantified",
+    "Article framed as opinion/editorial rather than news report; indicates this is a developing governance issue",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
