@@ -1,0 +1,76 @@
+2026-11-23 23:36:26,983 [INFO] ============================================================
+2026-11-23 23:36:26,983 [INFO] News Scanner starting
+2026-11-23 23:36:26,984 [INFO] Fetching: Syracuse.com Politics
+2026-11-23 23:36:27,550 [INFO]   50 new articles from Syracuse.com Politics
+2026-11-23 23:36:27,550 [INFO] Fetching: Syracuse.com Government
+2026-11-23 23:36:27,698 [INFO]   0 new articles from Syracuse.com Government
+2026-11-23 23:36:27,698 [INFO] Fetching: Syracuse.com Local
+2026-11-23 23:36:27,849 [INFO]   0 new articles from Syracuse.com Local
+2026-11-23 23:36:27,849 [INFO] Fetching: Syracuse.com Main
+2026-11-23 23:36:27,998 [INFO]   0 new articles from Syracuse.com Main
+2026-11-23 23:36:27,998 [INFO] Total unique articles across all feeds: 50
+2026-11-23 23:36:27,998 [INFO] New articles (not previously processed): 50
+2026-11-23 23:36:28,045 [DEBUG]   Filtered (not relevant): Liverpool superintendent reverses policy requiring teachers to ‘out’ students
+2026-11-23 23:36:28,045 [DEBUG]   Filtered (not relevant): Peacock is just $2.99 for Black Friday 2026: Here’s how to get the deal
+2026-11-23 23:36:28,046 [DEBUG]   Filtered (not relevant): July’s trackable suitcase helped ease my travel anxiety — now it’s finally on sa
+2026-11-23 23:36:28,046 [DEBUG]   Filtered (not relevant): Police presence at Cicero elementary school will continue days after break-in
+2026-11-23 23:36:28,047 [DEBUG]   Filtered (not relevant): Sephora at Kohl’s is taking up to 50% off makeup, skincare and fragrance for Bla
+2026-11-23 23:36:28,047 [DEBUG]   Filtered (not relevant): Walmart Black Friday deal drops pro-grade $150 SKIMI ionic hair to just $39.79
+2026-11-23 23:36:28,047 [DEBUG]   Filtered (not relevant): See homes sold in five Central NY counties, Nov. 9 to 15
+2026-11-23 23:36:28,047 [DEBUG]   Filtered (not relevant): UGG Classic Micro boots are 30% off for Black Friday and you’ll get them fast fr
+2026-11-23 23:36:28,048 [DEBUG]   Filtered (not relevant): Crunchyroll’s Black Friday deal is the cheapest way to watch the 2026 winter ani
+2026-11-23 23:36:28,048 [DEBUG]   Filtered (not relevant): Lenox is offering  a rare $89 Spice Village discount, sitewide 30% off promo cod
+2026-11-23 23:36:28,048 [DEBUG]   Filtered (not relevant): Watch LAFC vs. St Louis MLS Cup Game 1 streaming live for free tonight
+2026-11-23 23:36:28,049 [DEBUG]   Filtered (not relevant): Actress, 68, shares heartbreaking truth on her birthday: ‘Only surviving family 
+2026-11-23 23:36:28,049 [DEBUG]   Filtered (not relevant): Beloved Thanksgiving side tops rankings in 39 states to earn title as America’s 
+2026-11-23 23:36:28,049 [DEBUG]   Filtered (not relevant): Beloved comedian helped off stage after becoming ill during show
+2026-11-23 23:36:28,049 [DEBUG]   Filtered (not relevant): Draymond Green has social media feud with former NBA star: ‘Check my resume’
+2026-11-23 23:36:28,050 [INFO]   Relevant: Syracuse to bring additional license plate readers online with new vendor
+2026-11-23 23:36:28,050 [DEBUG]     → Departments: Syracuse Police Department
+2026-11-23 23:36:28,050 [DEBUG]     → Keywords: syracuse police
+2026-11-23 23:36:31,522 [INFO]     Saved: CTX-NEWS-2026-00334 → CTX-NEWS-2026-00334.json
+2026-11-23 23:36:31,522 [DEBUG]   Filtered (not relevant): Father of country music singer killed at 22 makes emotional plea: ‘In memory of 
+2026-11-23 23:36:31,522 [DEBUG]   Filtered (not relevant): How to watch NBA Cup games for free this week
+2026-11-23 23:36:31,522 [DEBUG]   Filtered (not relevant): Country music stars behind bars: These singers have been arrested in 2026
+2026-11-23 23:36:31,523 [DEBUG]   Filtered (not relevant): Wild hippo balloon coincidence leads Macy’s to honor Fiona in Thanksgiving parad
+2026-11-23 23:36:31,523 [DEBUG]   Filtered (not relevant): UGG’s Cyber Sale includes rare deals on Tasman and Classic boots
+2026-11-23 23:36:31,524 [DEBUG]   Filtered (not relevant): Upgrade your sleep with FluffCo’s rare Black Friday deals, including 45% off lux
+2026-11-23 23:36:31,524 [DEBUG]   Filtered (not relevant): LEGO sets are up to 50% off in Walmart’s Black Friday sale and they’re selling f
+2026-11-23 23:36:31,524 [DEBUG]   Filtered (not relevant): Nottingham runner will cap scholastic cross country career at national meet
+2026-11-23 23:36:31,524 [DEBUG]   Filtered (not relevant): Disney+ is absorbing Hulu — but what happens to the app?
+2026-11-23 23:36:31,525 [DEBUG]   Filtered (not relevant): 50,000 people qualify for special $5,000 IRS rebate: Here’s who is eligible?
+2026-11-23 23:36:31,525 [DEBUG]   Filtered (not relevant): Dyson’s Black Friday sale has the biggest deals on Airwraps & popular hair styli
+2026-11-23 23:36:31,526 [DEBUG]   Filtered (not relevant): Asking Eric: I'd like to open my holiday table to former in-laws, but not their 
+2026-11-23 23:36:31,526 [DEBUG]   Filtered (not relevant): Miss Manners: I want to use this gift, but I’m not sure what’s the best approach
+2026-11-23 23:36:31,526 [DEBUG]   Filtered (not relevant): Trump orders Army to halt detonation of dangerous chemicals in Iowa
+2026-11-23 23:36:31,526 [DEBUG]   Filtered (not relevant): Garwey Dual considered day-to-day after ankle injury vs. Lafayette
+2026-11-23 23:36:31,527 [DEBUG]   Filtered (not relevant): Tech outages to become ‘the new normal’: Here’s why
+2026-11-23 23:36:31,527 [DEBUG]   Filtered (not relevant): Watch Bengals vs. Commanders on Monday Night Football if you dont have cable
+2026-11-23 23:36:31,527 [DEBUG]   Filtered (not relevant): Trooper, elementary school student injured when police car and bus collide
+2026-11-23 23:36:31,528 [DEBUG]   Filtered (not relevant): Music legend praised by Elton John as major influence dies at 83
+2026-11-23 23:36:31,528 [DEBUG]   Filtered (not relevant): Owala’s Black Friday sale includes 20% off its FreeSip water bottles
+2026-11-23 23:36:31,528 [DEBUG]   Filtered (not relevant): Three youths in critical condition after crash in Cayuga County
+2026-11-23 23:36:31,529 [DEBUG]   Filtered (not relevant): Bánh cuốn noodle bowls
+2026-11-23 23:36:31,530 [DEBUG]   Filtered (not relevant): Roasted sweet potatoes with spicy green sauce
+2026-11-23 23:36:31,530 [DEBUG]   Filtered (not relevant): Cabbage, apple and date salad with lemon tahini
+2026-11-23 23:36:31,530 [DEBUG]   Filtered (not relevant): Amazon’s $24 shoulder bag bundle is for kids but it looks like a baby Louis Vuit
+2026-11-23 23:36:31,531 [DEBUG]   Filtered (not relevant): Walmart’s Blackstone griddle is on sale for its lowest price of 2026
+2026-11-23 23:36:31,531 [DEBUG]   Filtered (not relevant): Ruggable’s Black Friday sale promises up to 50% off washable rugs
+2026-11-23 23:36:31,531 [DEBUG]   Filtered (not relevant): Does ‘The Hunger Games’ star Joseph Zada have a girlfriend?
+2026-11-23 23:36:31,532 [DEBUG]   Filtered (not relevant): New AP men’s basketball Top 25: Is Duke still ranked?
+2026-11-23 23:36:31,532 [DEBUG]   Filtered (not relevant): Fran Brown names starting QB vs. Notre Dame with Steve Angeli ruled out
+2026-11-23 23:36:31,532 [DEBUG]   Filtered (not relevant): This Walmart coffee maker does double duty, and it’s $89 off for Black Friday
+2026-11-23 23:36:31,533 [DEBUG]   Filtered (not relevant): Miss Universe contestant stripped of her country’s crown after group chat leaks
+2026-11-23 23:36:31,533 [DEBUG]   Filtered (not relevant): Kalshi renews $55 NFL code “SYRACUSE” for Monday Night Football
+2026-11-23 23:36:31,533 [DEBUG]   Filtered (not relevant): Check your bathroom: 51K+ toothpaste, mouthwash products recalled over sex hormo
+2026-11-23 23:36:31,534 [INFO] News Scanner Run — 2026-11-23 23:36
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Syracuse to bring additional license plate readers online with new vendor
+

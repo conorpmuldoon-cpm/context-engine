@@ -1,0 +1,52 @@
+{
+  "record_id": "CTX-NEWS-2026-00334",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/crime/2026/11/syracuse-to-bring-additional-license-plate-readers-online-with-new-vendor.html",
+  "publication_date": "2026-11-23",
+  "capture_date": "2026-11-23T23:36:31Z",
+  "title": "Syracuse to bring additional license plate readers online with new vendor",
+  "summary": "Syracuse Police Department received authorization to expand its license plate reader (LPR) network from an unspecified current deployment to a full 26-camera system through a new vendor partnership. This represents a capital procurement and IT infrastructure expansion for public safety surveillance capabilities.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "police",
+    "procurement",
+    "contract-award",
+    "IT-infrastructure",
+    "crime-data",
+    "initiative-launch",
+    "announcement"
+  ],
+  "department_refs": [
+    "Syracuse Police Department"
+  ],
+  "entity_refs": [
+    {
+      "name": "Jeremy Boyer",
+      "type": "person",
+      "canonical_id": null
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "procedural",
+  "political_signal": {
+    "signal_type": "priority_alignment",
+    "description": "Authorization of expanded surveillance infrastructure signals police department's crime-reduction priority and municipal support for technology-driven public safety approaches.",
+    "confidence": "medium"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article lacks critical details: vendor name not provided, timeline not specified, budget/cost not disclosed, current camera count unclear",
+    "No mention of community input, privacy impact assessment, or transparency mechanisms",
+    "Recommended follow-up: procurement records, contract terms, deployment schedule, data retention/access policies",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
