@@ -1,0 +1,58 @@
+{
+  "record_id": "CTX-NEWS-2026-00335",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/news/2026/11/immigration-agents-detain-standout-le-moyne-swimmer-and-engineer-the-very-best-of-america.html",
+  "publication_date": "2026-11-25",
+  "capture_date": "2026-11-25T21:22:20Z",
+  "title": "Immigration agents detain standout Le Moyne swimmer and engineer; ‘the very best of America’",
+  "summary": "A Le Moyne College student-athlete, Belal Aly, was detained by U.S. immigration agents on Monday. The article highlights his achievements as a record-setting swimmer and engineer, characterizing him as exemplary. This story has potential implications for Syracuse's reputation, workforce development, and community relations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "PROVISIONAL:immigration-enforcement",
+    "residents",
+    "equity",
+    "trending"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Belal Aly",
+      "type": "person",
+      "canonical_id": "PERSON-BELAL-ALY"
+    },
+    {
+      "name": "Le Moyne College",
+      "type": "organization",
+      "canonical_id": "ORG-LEMOYNE"
+    },
+    {
+      "name": "Rylee Kirk",
+      "type": "person",
+      "canonical_id": "PERSON-RYLEE-KIRK"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "critical",
+  "political_signal": {
+    "signal_type": "constituent_pressure",
+    "description": "Immigration detention of a high-achieving local student raises community concern about federal enforcement impact on talented residents and institutional relationships; framing as 'very best of America' suggests advocacy angle.",
+    "confidence": "high"
+  },
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article focuses on federal immigration enforcement, outside direct CIO purview but relevant to city's inclusive innovation ecosystem and talent retention",
+    "No municipal departments directly referenced; relevance is reputational and workforce-related",
+    "Date is future-dated (2026-11-25); verify article currency",
+    "Story has advocacy framing; track for constituent communication implications",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}
