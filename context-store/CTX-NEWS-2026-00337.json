@@ -1,0 +1,46 @@
+{
+  "record_id": "CTX-NEWS-2026-00337",
+  "source_agent": "news_scanner",
+  "source_type": "news_article",
+  "source_url": "https://www.syracuse.com/poststandard/2026/11/maine-beats-le-moyne-90-86-in-overtime-at-lafayette-classic.html",
+  "publication_date": "2026-11-28",
+  "capture_date": "2026-11-28T19:43:47Z",
+  "title": "Maine beats Le Moyne 90-86 in overtime at Lafayette Classic",
+  "summary": "Sports news article about University of Maine defeating Le Moyne College 90-86 in overtime at a college basketball tournament in Pennsylvania. Not relevant to City of Syracuse Chief Innovation Officer operations.",
+  "raw_content": null,
+  "transcript_ref": null,
+  "topic_tags": [
+    "announcement"
+  ],
+  "department_refs": [],
+  "entity_refs": [
+    {
+      "name": "Le Moyne College",
+      "type": "organization",
+      "canonical_id": "ORG-LE-MOYNE"
+    },
+    {
+      "name": "University of Maine",
+      "type": "organization",
+      "canonical_id": "ORG-UME"
+    }
+  ],
+  "speakers": null,
+  "speaker_confidence": null,
+  "sentiment": "neutral",
+  "political_signal": null,
+  "freshness_class": "short",
+  "cluster_ids": [],
+  "engagement_relevance": [],
+  "feedback": null,
+  "schema_version": "1.0.0",
+  "librarian_version": "1.0.0-auto",
+  "processing_notes": [
+    "Article is sports news content with no relevance to municipal government operations, innovation initiatives, or CIO office priorities.",
+    "While Le Moyne College is located in Syracuse, NY area, this article concerns only an athletic competition and contains no municipal or innovation-related content.",
+    "No departmental functions, policy decisions, budget implications, or civic initiatives identified.",
+    "Recommend exclusion from city innovation office context engine.",
+    "Enriched by Claude (claude-haiku-4-5-20251001)"
+  ],
+  "last_relevance_update": null
+}

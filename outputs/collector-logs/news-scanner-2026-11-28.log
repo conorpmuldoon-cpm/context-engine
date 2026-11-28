@@ -1,0 +1,76 @@
+2026-11-28 19:43:42,424 [INFO] ============================================================
+2026-11-28 19:43:42,424 [INFO] News Scanner starting
+2026-11-28 19:43:42,426 [INFO] Fetching: Syracuse.com Politics
+2026-11-28 19:43:42,800 [INFO]   50 new articles from Syracuse.com Politics
+2026-11-28 19:43:42,800 [INFO] Fetching: Syracuse.com Government
+2026-11-28 19:43:43,002 [INFO]   0 new articles from Syracuse.com Government
+2026-11-28 19:43:43,003 [INFO] Fetching: Syracuse.com Local
+2026-11-28 19:43:43,187 [INFO]   0 new articles from Syracuse.com Local
+2026-11-28 19:43:43,187 [INFO] Fetching: Syracuse.com Main
+2026-11-28 19:43:43,790 [INFO]   0 new articles from Syracuse.com Main
+2026-11-28 19:43:43,790 [INFO] Total unique articles across all feeds: 50
+2026-11-28 19:43:43,791 [INFO] New articles (not previously processed): 50
+2026-11-28 19:43:43,839 [DEBUG]   Filtered (not relevant): ESPN’s Nick Saban on ‘little brother,’ rivalries
+2026-11-28 19:43:43,840 [DEBUG]   Filtered (not relevant): Costco’s Black Friday sale has massive holiday deals! Get a $45 Shop Card when y
+2026-11-28 19:43:43,840 [DEBUG]   Filtered (not relevant): Last Chance: Apple TV’s $6.99 Black Friday deal is still live this weekend. Get 
+2026-11-28 19:43:43,840 [DEBUG]   Filtered (not relevant): Kalshi promo code “SYRACUSE” unlocks new $55 bonus for Thanksgiving Saturday col
+2026-11-28 19:43:43,841 [DEBUG]   Filtered (not relevant): How to watch New England vs. Philadelphia MLS Playoffs Game 2 streaming live tod
+2026-11-28 19:43:43,841 [DEBUG]   Filtered (not relevant): Syracuse football starting lineman will miss 3rd game recovering from a virus
+2026-11-28 19:43:43,842 [DEBUG]   Filtered (not relevant): Polymarket upgrades $25 college football promo code “CUSE” for Michigan-Ohio Sta
+2026-11-28 19:43:43,842 [DEBUG]   Filtered (not relevant): Watch San Jose Quakes vs. Houston Dynamo: Save 50% with this streaming deal
+2026-11-28 19:43:43,842 [DEBUG]   Filtered (not relevant): Syracuse football vs. Notre Dame: Live score, updates, stats
+2026-11-28 19:43:43,843 [INFO]   Relevant: Maine beats Le Moyne 90-86 in overtime at Lafayette Classic
+2026-11-28 19:43:43,843 [DEBUG]     → Entities: Le Moyne College
+2026-11-28 19:43:47,064 [ERROR]     Schema error: Schema validation: [] should be non-empty
+2026-11-28 19:43:47,086 [INFO]     Saved: CTX-NEWS-2026-00337 → CTX-NEWS-2026-00337.json
+2026-11-28 19:43:47,087 [DEBUG]   Filtered (not relevant): They lost their beloved grandfather hours before kickoff. Then Tyler Bass made i
+2026-11-28 19:43:47,087 [DEBUG]   Filtered (not relevant): Dear Annie: What can you do when your own family treats you like you don't exist
+2026-11-28 19:43:47,087 [DEBUG]   Filtered (not relevant): How to watch Aston Villa vs. Ipswich Town soccer streaming live for free today
+2026-11-28 19:43:47,088 [DEBUG]   Filtered (not relevant): Polymarket enhances $25 promo code “CUSE” for college football, NBA Saturday
+2026-11-28 19:43:47,088 [DEBUG]   Filtered (not relevant): New $55 Kalshi promo code “SYRACUSE” enhanced for college football and NBA Satur
+2026-11-28 19:43:47,089 [DEBUG]   Filtered (not relevant): Social Security retirement ages impacted by new law: What does it mean for your 
+2026-11-28 19:43:47,089 [DEBUG]   Filtered (not relevant): How to watch Chicago Fire vs. Charlotte FC MLS Playoffs Game 2 live today
+2026-11-28 19:43:47,090 [DEBUG]   Filtered (not relevant): Extended BetMGM bonus code CUSE: Secure $150 betting bonus for college football 
+2026-11-28 19:43:47,090 [DEBUG]   Filtered (not relevant): Miss Manners: How should I respond to condolences about a serious diagnosis?
+2026-11-28 19:43:47,090 [DEBUG]   Filtered (not relevant): How to watch Syracuse vs. Notre Dame football for free today in regular-season f
+2026-11-28 19:43:47,091 [DEBUG]   Filtered (not relevant): Ask Mayo Clinic: How much sitting is too much and how would it hurt my heart?
+2026-11-28 19:43:47,091 [DEBUG]   Filtered (not relevant): Why a country music star is taking some time off: ‘See you all in 2027′
+2026-11-28 19:43:47,091 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026-27 winter media day girls basketball player poll: AUX cord a
+2026-11-28 19:43:47,091 [DEBUG]   Filtered (not relevant): How to watch Leeds vs. Coventry English Premier League soccer live for free toda
+2026-11-28 19:43:47,092 [DEBUG]   Filtered (not relevant): Syracuse.com’s 2026-27 winter media day boys basketball players poll: Student Se
+2026-11-28 19:43:47,092 [DEBUG]   Filtered (not relevant): WWE star hospitalized on ventilator in ‘extremely serious situation’. Here’s the
+2026-11-28 19:43:47,092 [DEBUG]   Filtered (not relevant): Late actor knew his days were numbered while filming highly-anticipated film: ‘I
+2026-11-28 19:43:47,093 [DEBUG]   Filtered (not relevant): Reality star dead at 35 after doctors misdiagnosed her gynecological cancer
+2026-11-28 19:43:47,093 [DEBUG]   Filtered (not relevant): Rapper, 49, injured in terrifying head-on car crash caused by a possum
+2026-11-28 19:43:47,093 [DEBUG]   Filtered (not relevant): They formed a tennis team for a friend with ALS. Four years later, they are nati
+2026-11-28 19:43:47,093 [DEBUG]   Filtered (not relevant): Music world rocked by silent killer in 2026: What we know after latest wave of d
+2026-11-28 19:43:47,093 [DEBUG]   Filtered (not relevant): Viral TikTok brand gets first ever store with plans for more
+2026-11-28 19:43:47,094 [DEBUG]   Filtered (not relevant): U.S. Embassies in Europe issue travel alerts for the holidays, warn Americans to
+2026-11-28 19:43:47,094 [DEBUG]   Filtered (not relevant): You just hit something in the road. Here’s what experts say to do next
+2026-11-28 19:43:47,094 [DEBUG]   Filtered (not relevant): Section III high school sports schedule for Nov. 28
+2026-11-28 19:43:47,095 [DEBUG]   Filtered (not relevant): Is ‘SNL’ new tonight, Nov. 28? See the season 52 schedule
+2026-11-28 19:43:47,095 [DEBUG]   Filtered (not relevant): Florida shooting: 1 dead, 6 injured at teen’s ‘girls gone wild’ birthday party
+2026-11-28 19:43:47,095 [DEBUG]   Filtered (not relevant): How to watch 100th Macy’s Thanksgiving Day Parade 2026 for free today without ca
+2026-11-28 19:43:47,096 [DEBUG]   Filtered (not relevant): Country music star preparing for ‘intense’ round of cancer treatment. Here’s the
+2026-11-28 19:43:47,096 [DEBUG]   Filtered (not relevant): That restaurant service charge may follow different rules depending on your stat
+2026-11-28 19:43:47,096 [DEBUG]   Filtered (not relevant): Rock music world rocked by deaths of 6 stars on Thanksgiving week: Here’s what w
+2026-11-28 19:43:47,096 [DEBUG]   Filtered (not relevant): Dear Abby: Two grandmas - unlimited nicknames. Readers share ideas
+2026-11-28 19:43:47,097 [DEBUG]   Filtered (not relevant): Classic rock singer to release album with new band: ‘Sounds amazing’
+2026-11-28 19:43:47,097 [DEBUG]   Filtered (not relevant): 2000s R&B star accused of raping young girl. Here’s the latest
+2026-11-28 19:43:47,097 [DEBUG]   Filtered (not relevant): This fast-growing Houston suburb just got a brand-new Lowe's with AI tools built
+2026-11-28 19:43:47,097 [DEBUG]   Filtered (not relevant): Beloved country musician, 39, killed in home invasion: ‘Senseless, tragic loss’
+2026-11-28 19:43:47,098 [DEBUG]   Filtered (not relevant): Popular rock musician, 65, dies in his sleep after cancer battle: ‘He will be mi
+2026-11-28 19:43:47,098 [DEBUG]   Filtered (not relevant): Asking Eric: Man's birthday dinner with 5 of his exes could cause issue with new
+2026-11-28 19:43:47,098 [DEBUG]   Filtered (not relevant): Beloved rock frontman dies after battling rare cancer: ‘World lost a warrior’
+2026-11-28 19:43:47,098 [DEBUG]   Filtered (not relevant): New details emerge in death of WWE star Bronson Reed at 38. Here’s the latest
+2026-11-28 19:43:47,100 [INFO] News Scanner Run — 2026-11-28 19:43
+==================================================
+Articles in feeds: 50
+New (not seen before): 50
+Saved as records: 1
+Filtered (not relevant): 49
+Errors: 0
+
+New records:
+  • Maine beats Le Moyne 90-86 in overtime at Lafayette Classic
+
